@@ -1,3 +1,4 @@
+![TravisCI passing](https://travis-ci.org/VoronDesign/VoronUsers.svg?branch=master)
 # VoronUsers repository
 
 
