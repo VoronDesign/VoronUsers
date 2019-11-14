@@ -25,6 +25,5 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |---------|--------------|-------------|------|------|------|
 | Chron   | [SKR 1.3 TMC2208 UART Config](./klipper/Chron) | Configuration for SKR 1.3 TMC2208 UART | :x: | :heavy_check_mark: | :grey_question: |
 | Danowar  | [FYSETC F6 1.3 Klipper Config](./klipper/Danowar/FYSETC_F6_V1.3_Klipper_Config) | Klipper config for a FYSETC F6 350 build. | :x: | :heavy_check_mark: | :grey_question: |
-| exquyre | [Einsy + RAMPS Combo](./klipper/exquyre/einsy%2Bramps) | Klipper config for 1 einsy and 1 RAMPS | :x: | :heavy_check_mark: | :grey_question: |
 
 ---
