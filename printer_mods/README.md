@@ -34,6 +34,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | | [Load Cell Spool Holder](./Danowar/Load_Cell_Spool_Holder)| Spool holder with built in weight scale|:x: |:heavy_check_mark: |:heavy_check_mark: |
 | | [TL 2-to-1 Mosquito Toolhead Adapter](./Danowar/TL_2-to-1_Mosquito_Toolhead_Adapter)| Mounts the Triangle Labs 2-to-1 adapter directly to the mosquito toolhead|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | | [Tablet mount](./Danowar/Tablet_Mount)|Detachable mount for tablet using magnets |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: |
+| | [V2.2 Wrench](./Danowar/V2.2_Wrench)|3 sided wrench for 2.2 bearing caps and panel clips |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: |
 | daveidmx| [30mm Fan Adapter](./daveidmx/VORON2)|30mm Fan Adapter | :grey_question:| :grey_question:|:grey_question: |
 |Dunar |[Panel Rest](./Dunar/Panel_Rest) | External panel holder | :heavy_check_mark: |:heavy_check_mark:  |:heavy_check_mark:  |
 |etherwalker |[Pi Zero Camera Mount](./etherwalker/Pi_Zero_Camera_Mount) | Pi Zero Camera Mount| :grey_question:| :grey_question:|:grey_question: |
