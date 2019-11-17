@@ -84,12 +84,12 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[BlTouch Mount](./Stephan/bltouch_mount) | Drop in replacement of the stock probe to a BLTouch|:grey_question: |:heavy_check_mark: | :grey_question:|
 |steve450 |[Corner Brackets](./steve450/Voron2.1) | Corner brackets preventing rotation of the extrusions, and stiffening the joints.  Also covers the Z-belt hole for improved aesthetics| :grey_question:| :heavy_check_mark:|:grey_question: |
 | synfinatic|[Duet Fan Mount](./synfinatic/Duet-Fan-Mount) |Duet/Duex fan mount with air vents directly above the steppers to increase airflow |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
-|Trippinonaduck |[Switch Holder](./Trippinonaduck) | Holder for Anit-Vandal Switches mounted in skirt holes  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | |[E-Stop Switch](./synfinatic/E-Stop-Switch) |Mount for emergency button attached to the top of the printer |:x: | :heavy_check_mark:|:grey_question: |
 | | [Filament DryBox](./synfinatic/Filament-DryBox)|Mount for filament drybox attached to the side of the printer |:x: | :heavy_check_mark:|:grey_question: |
 | |[LED Mount](./synfinatic/LED-Mount) |Mount for LED lightbars |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | | [PS Extra Bracket](./synfinatic/PS-Extra-Bracket)|Extra bracket to keep the power supply in place |:grey_question: |:grey_question: |:grey_question: |
 | |[RJ45 Mount](./synfinatic/RJ45-Mount) |Mount for an ethernet coupler to extend / move the ethernet plug somewhere more convenient |:grey_question: |:grey_question: |:grey_question: |
+|Trippinonaduck |[Switch Holder](./Trippinonaduck) | Holder for Anit-Vandal Switches mounted in skirt holes  | :x:|:heavy_check_mark: | :heavy_check_mark:|
 |warriorofwire | [Openbuilds Drag Chain](./warriorofwire/openbuilds_drag_chain)|Collection of models for using an off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :heavy_check_mark: | :x: |
 | | [Direct Drive BMG-m mount](./warriorofwire/bmg_direct_drive)| Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo|:grey_question: |:heavy_check_mark:|:grey_question: |
 | wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
