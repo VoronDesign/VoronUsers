@@ -84,6 +84,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[BlTouch Mount](./Stephan/bltouch_mount) | Drop in replacement of the stock probe to a BLTouch|:grey_question: |:heavy_check_mark: | :grey_question:|
 |steve450 |[Corner Brackets](./steve450/Voron2.1) | Corner brackets preventing rotation of the extrusions, and stiffening the joints.  Also covers the Z-belt hole for improved aesthetics| :grey_question:| :heavy_check_mark:|:grey_question: |
 | synfinatic|[Duet Fan Mount](./synfinatic/Duet-Fan-Mount) |Duet/Duex fan mount with air vents directly above the steppers to increase airflow |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
+|Trippinonaduck |[Switch Holder](./Trippinonaduck) | Holder for Anit-Vandal Switches mounted in skirt holes  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | |[E-Stop Switch](./synfinatic/E-Stop-Switch) |Mount for emergency button attached to the top of the printer |:x: | :heavy_check_mark:|:grey_question: |
 | | [Filament DryBox](./synfinatic/Filament-DryBox)|Mount for filament drybox attached to the side of the printer |:x: | :heavy_check_mark:|:grey_question: |
 | |[LED Mount](./synfinatic/LED-Mount) |Mount for LED lightbars |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
