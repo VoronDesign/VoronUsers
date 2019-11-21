@@ -48,6 +48,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |GSL12 |[WAGO 221 Mounts](./GSL12/wago_221_mount)   | Wago 221 mounts for the electronics bay |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |GustavTheMighty | [4.3 PanelDue Case](./GustavtheMighty/4.3-Paneldue_Case)|Case/mount for the 4.3 PanelDue LCD Display  |:heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:  |
+|Iakabos | [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
 |Jass_on |[Tempered glass clips/handle](./Jass_on/Voron_2.1.1_Tempered_Glass) |Panel clips and handles for using tempered glass side panels | :x: | :heavy_check_mark: | :grey_question:|
@@ -89,6 +90,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[LED Mount](./synfinatic/LED-Mount) |Mount for LED lightbars |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | | [PS Extra Bracket](./synfinatic/PS-Extra-Bracket)|Extra bracket to keep the power supply in place |:grey_question: |:grey_question: |:grey_question: |
 | |[RJ45 Mount](./synfinatic/RJ45-Mount) |Mount for an ethernet coupler to extend / move the ethernet plug somewhere more convenient |:grey_question: |:grey_question: |:grey_question: |
+|Trippinonaduck |[Switch Holder](./Trippinonaduck/SwitchHolder) | Holder for Anit-Vandal Switches mounted in skirt holes  | :x:|:heavy_check_mark: | :heavy_check_mark:|
 |warriorofwire | [Openbuilds Drag Chain](./warriorofwire/openbuilds_drag_chain)|Collection of models for using an off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :heavy_check_mark: | :x: |
 | | [Direct Drive BMG-m mount](./warriorofwire/bmg_direct_drive)| Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo|:grey_question: |:heavy_check_mark:|:grey_question: |
 | wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
