@@ -95,6 +95,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: | 
-|PhilLeMint | [c920 Mount](./PhilLeMint) | c920 Camera Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| |[Panel Mounting](./PhilLeMint) | Panel Clips for 3/32" Foam Tape |:x: | :heavy_check_mark: |:heavy_check_mark: |
+|PhilLeMint | [c920 Mount](./PhilLeMint) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
+| |[Panel Mounting](./PhilLeMint) | Panel Clips for 3/32" Foam Tape |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 ---
