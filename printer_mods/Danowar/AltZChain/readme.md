@@ -1,8 +1,8 @@
 # Alternative mounting for Z-Axis zipchain
 
 ### Overview
-![Image](./AltZChain1.PNG)
-![Image](./AltZChain2.PNG)
+![Image](./AltZChain1.jpg)
+![Image](./AltZChain2.jpg)
 
 Mount Z-Axis zipchain under the rear gantry crossbar, instead of in front of it.  Cleaner look,
 and frees up some room back there.  Print 2 of each STL.  One anchor attaches to a standoff for
