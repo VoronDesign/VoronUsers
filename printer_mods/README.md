@@ -26,7 +26,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | 3D_Black   | [Fan Covers](./3D_Black) | Different fan covers for 40mm fans | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |Andreq | [Mobius Shaft Jig](./andreq/voron2)|Tool used for grinding flats on a shaft at specific places |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
-| ArmyAg08|[Logitech C270 Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different C270 camera mounts, attached to the extrusions |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | | [Corner Panel Clip](./ArmyAg08/Panels)|Corner panel clip that fit 3mm or 1/8" panels with foam tape | :x:|:heavy_check_mark: | :heavy_check_mark:|
 |Danowar |[Dual Mobius Mount](./Danowar/Dual_Mobuis_Mount) | Mounts two Mobius Extruders to the back of the printer| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |
 | |[F6 Board Mount](./Danowar/F6_Board_Mount) | Mounts for FYSETCS F6 controller boards|:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
