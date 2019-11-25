@@ -72,6 +72,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Panel Mounting](./PhilLeMint) | Panel Clips for 3/32" Foam Tape |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 | |[Dual LED Light Mount](./PhilLeMint) | Mounts for Dual LED Bar |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 | |[Velocity Stack](./PhilLeMint) | Velocity Stack Fan Cover |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
+| |[Indicator Mount](./PhilLeMint) | Mount for Indicator |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 |pnokel |[Cable Zipper](./pnokel) |Small mount to secure wires with zip ties |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[Coroplast holders](./pnokel) | Different coroplast holders for added support |:x:| :heavy_check_mark:|:grey_question: |
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
