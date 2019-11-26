@@ -53,7 +53,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | Jasperkm | [5mm panel mounting](./jasperkm/5mm panel mounting)| Edited panel clips for 4mm panel + 1mm foam tape| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Brush holder](./jasperkm/Brush holder)| Brush holder next to printbed | :X: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Cable management](./jasperkm/Cable management)| Cable trunking and 2020 slot cover | :X: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Exhaust fan guard](./jasperkm/Exhaust fan guard)| VORON styled fan guard for exhaust fan 120mm | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Exhaust fan guard](./jasperkm/Exhaust fan guard)| VORON styled fan guard for exhaust fan 120mm | :X: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Fire alarm mount](./jasperkm/Fire alarm mount)| Mount for a small fire alarm on the back of the printer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [LED strip holder](./jasperkm/LED strip holder)| Mount for led strips at an angle at the top of the printer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Panel key wrench](./jasperkm/Panel key wrench)| Wrench for panel keys for ease of turning | :X: | :heavy_check_mark: | :heavy_check_mark: |
