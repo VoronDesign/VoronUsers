@@ -50,15 +50,15 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |Iakabos | [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
-| Jasperkm | [5mm panel mounting](./jasperkm/5mm panel mounting)| Edited panel clips for 4mm panel + 1mm foam tape| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Brush holder](./jasperkm/Brush holder)| Brush holder next to printbed | :X: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Cable management](./jasperkm/Cable management)| Cable trunking and 2020 slot cover | :X: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Exhaust fan guard](./jasperkm/Exhaust fan guard)| VORON styled fan guard for exhaust fan 120mm | :X: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Fire alarm mount](./jasperkm/Fire alarm mount)| Mount for a small fire alarm on the back of the printer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [LED strip holder](./jasperkm/LED strip holder)| Mount for led strips at an angle at the top of the printer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Panel key wrench](./jasperkm/Panel key wrench)| Wrench for panel keys for ease of turning | :X: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Simple tool holder](./jasperkm/Simple tool holder)| Holder for 3 small tools using magnets | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Skirt mods](./jasperkm/Simple tool holder)| Some mods the skirts for fans and a clock | :X: | :heavy_check_mark: | :heavy_check_mark: |
+| Jasperkm | [5mm panel mounting](./Jasperkm/5mm_panel_mounting)| Edited panel clips for 4mm panel + 1mm foam tape| :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Brush holder](./Jasperkm/Brush_holder)| Brush holder next to printbed | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Cable management](./Jasperkm/Cable_management)| Cable trunking and 2020 slot cover | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Exhaust fan guard](./Jasperkm/Exhaust_fan_guard)| VORON styled fan guard for exhaust fan 120mm | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Fire alarm mount](./Jasperkm/Fire_alarm_mount)| Mount for a small fire alarm on the back of the printer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [LED strip holder](./Jasperkm/LED_strip_holder)| Mount for led strips at an angle at the top of the printer | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Panel key wrench](./Jasperkm/Panel_key_wrench)| Wrench for panel keys for ease of turning | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Simple tool holder](./Jasperkm/Simple_tool_holder)| Holder for 3 small tools using magnets | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Skirt mods](./Jasperkm/Skirt_mods)| Some mods the skirts for fans and a clock | :x: | :heavy_check_mark: | :heavy_check_mark: |
 |Jass_on |[Tempered glass clips/handle](./Jass_on/Voron_2.1.1_Tempered_Glass) |Panel clips and handles for using tempered glass side panels | :x: | :heavy_check_mark: | :grey_question:|
 | | [Rear panel clips](./Jass_on) | Rear Panel Clips| :x: | :heavy_check_mark: | :grey_question:|
 | | [SKR 1.3 Cooling bracket](./Jass_on)|SKR 1.3 mount with built in 40mm fan mount |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
