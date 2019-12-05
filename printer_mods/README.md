@@ -68,11 +68,11 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
-|PhilLeMint | [c920 Mount](./PhilLeMint/c920 Mount) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
-| |[Panel Mounting](./PhilLeMint/Panel Mounting) | Panel Clips for 3/32" Foam Tape |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
-| |[Dual LED Light Mount](./PhilLeMint/Dual LED Light Mount) | Mounts for Dual LED Bar |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
-| |[Velocity Stack](./PhilLeMint/Velocity Stack) | Velocity Stack Fan Cover |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
-| |[Indicator Mount](./PhilLeMint/Indicator Mount) | Mount for Indicator |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
+|PhilLeMint | [c920 Mount](./PhilLeMint/c920 Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
+| |[Panel Mounting](./PhilLeMint/Panel Mounting/) | Panel Clips for 3/32" Foam Tape |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
+| |[Dual LED Light Mount](./PhilLeMint/Dual LED Light Mount/) | Mounts for Dual LED Bar |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
+| |[Velocity Stack](./PhilLeMint/Velocity Stack/) | Velocity Stack Fan Cover |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
+| |[Indicator Mount](./PhilLeMint/Indicator Mount/) | Mount for Indicator |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 |pnokel |[Cable Zipper](./pnokel) |Small mount to secure wires with zip ties |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[Coroplast holders](./pnokel) | Different coroplast holders for added support |:x:| :heavy_check_mark:|:grey_question: |
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
