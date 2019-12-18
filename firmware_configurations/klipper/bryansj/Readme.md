@@ -6,16 +6,16 @@ This is my modded version of Eddie's SKR Klipper config file.
 * with the following adjustments and additions from bryansj:
 *   RepRapDiscount 128x64 Full Graphic Smart Controller
 *   Nozzle Wipe
-*       added to G32
+    *   added to G32
 *   Prime Line
 *   Extended QGL corner points
 *   Bed Meshing (Commented Out)
 *   TL Filament Run-out Sensor
 *   Chamber Temperature Thermistor (in Z vertical Chain)
-*       linked to Back Panel Exhaust fan 
+    *   linked to Back Panel Exhaust fan 
 *   Force Move Enabled
 *   Pause/Resume Enabled
 *   Homing IF/THEN to omit unneeded homing operations
 *   M117 LCD Text Added *16 Characters Max
 *   Expanded LCD Menu Options for Voron/Klipper Commands
-*       Quad Gantry Level, Firmware_Restart, TESTZ Offsetting
+    *   Quad Gantry Level, Firmware_Restart, TESTZ Offsetting
