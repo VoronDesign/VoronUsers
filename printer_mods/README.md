@@ -28,11 +28,8 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | | [Corner Panel Clip](./ArmyAg08/Panels)|Corner panel clip that fit 3mm or 1/8" panels with foam tape | :x:|:heavy_check_mark: | :heavy_check_mark:|
-<<<<<<< master
 | bryansj   | [Rotated Pi Mount with Heatsink](./bryansj/RPi_Frame_with_Heatsink_90deg) | Raspberry Pi with Heatsink Frame for minimal channel width | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-=======
 | blamm   | [Blind Joint Drilling Jigs](./blamm/jigs) | Jigs to drill your blind joints in the right spot | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
->>>>>>> master
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |Danowar |[Dual Mobius Mount](./Danowar/Dual_Mobuis_Mount) | Mounts two Mobius Extruders to the back of the printer| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |
 | |[F6 Board Mount](./Danowar/F6_Board_Mount) | Mounts for FYSETCS F6 controller boards|:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
