@@ -90,6 +90,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |pnokel |[Cable Zipper](./pnokel) |Small mount to secure wires with zip ties |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[Coroplast holders](./pnokel) | Different coroplast holders for added support |:x:| :heavy_check_mark:|:grey_question: |
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
+| przybybr|[V2.1 Omron Mount](./przybybr/Voron V2_1 Omron Mount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
@@ -115,6 +116,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
-| | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: | 
+| | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
