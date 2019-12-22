@@ -1,1 +1,0 @@
-This mount allows an Omron probe to be mounted in a Voron V2.1 printer.  Print two, both with the pegs facing up.
