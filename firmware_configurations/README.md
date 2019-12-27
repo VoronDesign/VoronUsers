@@ -24,6 +24,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | Creator | Config title | Description | V1.6 | V2.1 | V2.2 |
 |---------|--------------|-------------|------|------|------|
 | Chron   | [SKR 1.3 TMC2208 UART Config](./klipper/Chron) | Configuration for SKR 1.3 TMC2208 UART | :x: | :heavy_check_mark: | :grey_question: |
-| Danowar  | [FYSETC F6 1.3 Klipper Config](./klipper/Danowar/FYSETC_F6_V1.3_Klipper_Config) | Klipper config for a FYSETC F6 350 build. | :x: | :heavy_check_mark: | :grey_question: |
+| Danowar  | [FYSETC F6 1.3 Klipper Config](./klipper/Danowar/FYSETC_F6_V1.3_Klipper_Config) | Klipper config for a FYSETC F6 350 build. UPDATED 11/14/19 | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| eddie  | [SKR 1.3 V2 Universal Config](./klipper/eddie) | Universal Config and Setup Guide for SKR 1.3 and V2 | :x: | :heavy_check_mark: | :heavy_check_mark: |
 
 ---
