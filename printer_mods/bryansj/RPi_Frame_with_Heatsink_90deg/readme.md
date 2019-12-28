@@ -1,0 +1,1 @@
+This is a mount rotated 90 degrees for a Raspberry Pi using a heatsink.  With the heatsink you need to run the fasteners from the bed side so the holes are counter-bored.  The holes are for the stock 2.5mm fasteners used for the heatsink.  Unless you have longer 2.5mm screws you will need to omit the bottom cover of the heatsink which isn't needed for cooling anyway.
