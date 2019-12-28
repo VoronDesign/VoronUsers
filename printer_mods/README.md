@@ -52,9 +52,11 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |Gamsche | [Keystone Skirt Panel](./Gamsche/skirt_keystone)| 25mm skirt panel with integrated keystone jack.  Use with 50mm smaller adjacent skirts for proper fit. |:grey_question: |:grey_question: |:heavy_check_mark:|
 |Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |GustavTheMighty | [4.3 PanelDue Case](./GustavtheMighty/4.3-Paneldue_Case)|Case/mount for the 4.3 PanelDue LCD Display  |:heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:  |
-|Iakabos | [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
+|Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|
+| | [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
+|JaredC01 | [Mini 12864 Voron Knob](./JaredC01/Mini_12864_Voron_Knob) | Upgraded knob for Fystec Mini 12864 RGB LED Display | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Jasperkm | [5mm panel mounting](./Jasperkm/5mm_panel_mounting)| Edited panel clips for 4mm panel + 1mm foam tape| :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Brush holder](./Jasperkm/Brush_holder)| Brush holder next to printbed | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Cable management](./Jasperkm/Cable_management)| Cable trunking and 2020 slot cover | :x: | :heavy_check_mark: | :heavy_check_mark: |
@@ -91,6 +93,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |pnokel |[Cable Zipper](./pnokel) |Small mount to secure wires with zip ties |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[Coroplast holders](./pnokel) | Different coroplast holders for added support |:x:| :heavy_check_mark:|:grey_question: |
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
+| przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
@@ -116,6 +119,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
-| | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: | 
+| | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
