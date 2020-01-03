@@ -121,5 +121,14 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| Andrien| [Printer case](./andrien)|Printer case and add-on's for the Voron printer based on Intellinet 19 inch Wall mounted and network cabinet (15HE 77x57x60 black) inlcuding hepa and carbon filter   | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Top cover](./andrien)   |45° Top Cover (multiple parts) | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Mobius Extruder mount](./andrien)  | To seal the door | :heavy_check_mark: | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Hepa mount](./andrien) | Mount for brass brush. Used for cleaning nozzle before printing | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Hepa filter(./andrien) | HEPA H14 filter Nilfisk 107409854 | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Fan](./andrien) | 80x25 Sanyo Denki high pressure fan 9GA0812P4G001 | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Side cover](./andrien)  | Side cover to seal the sides| :heavy_check_mark: | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Front VORON LED](./andrien)  | Mount for LED Lightning | :heavy_check_mark: | :heavy_check_mark: |:grey_question: |:grey_question: |
+| |[Front door extensions](./andrien)  | To seal the door | :heavy_check_mark: | :heavy_check_mark: |:grey_question: |:grey_question: |
 
 ---
