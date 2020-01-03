@@ -10,4 +10,4 @@ The top cover has been additionally added within an angle to the front, allowing
 Additionally two 80mm (SunAce) fans including carbon filter & HEPA H14 filter have been added within the top cover section.
 Due to the Hepa H14 specs a high pressure fan is needed.
 During normal operation, running at 15% duty cycle its still silent <22db.
-Details on the above mentioned items can be found within the .step file
+Details on the above mentioned items can be found within the .f3z file
