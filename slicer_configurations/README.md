@@ -23,7 +23,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 
 | Creator | Config title | Description | V1.6 | V2.1 | V2.2 |
 |---------|--------------|-------------|------|------|------|
-| bryansj  | [PrusaSlicer Bed Models and Textures for 250, 300, and 350](./PrusaSlicer/bryansj/) | Voron Custom Bed and Texture files for your PrusaSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| bryansj  | [PrusaSlicer Bed Models and Textures for 250, 300, and 350](./PrusaSlicer/bryansj/beds_and_textures) | Voron Custom Bed and Texture files for your PrusaSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [KISSlicer Bed Models for 250, 300, and 350](./KISSlicer/bryansj/beds) | Voron Custom Bed files for your KISSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
 
 ---
