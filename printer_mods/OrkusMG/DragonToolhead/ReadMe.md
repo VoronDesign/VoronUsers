@@ -7,10 +7,10 @@ It is one piece print, designed to work with everything you have included in you
 For printing I advice using bit of support for the face marked in blue visible on the Back picture below.
 
 
-![Front](https://github.com/orkusmg/Voron-2/blob/master/mods/OrkusMG/Waveshare5inchHDMILCDscreenCover/front.jpg)
+![Front](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Front.jpg)
 
-![Bottom](https://github.com/orkusmg/Voron-2/blob/master/mods/OrkusMG/Waveshare5inchHDMILCDscreenCover/top.jpg)
+![Bottom](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Bottom.jpg)
 
-![Top](https://github.com/orkusmg/Voron-2/blob/master/mods/OrkusMG/Waveshare5inchHDMILCDscreenCover/side.jpg)
+![Top](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Top.jpg)
 
-![Back, or bottom if you take print orientation - where support is required](https://github.com/orkusmg/Voron-2/blob/master/mods/OrkusMG/Waveshare5inchHDMILCDscreenCover/side.jpg)
+![Back, or bottom if you take print orientation - where support is required](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Back.jpg)
