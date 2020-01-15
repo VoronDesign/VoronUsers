@@ -30,8 +30,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | | [Corner Panel Clip](./ArmyAg08/Panels)|Corner panel clip that fit 3mm or 1/8" panels with foam tape | :x:|:heavy_check_mark: | :heavy_check_mark:|
 | bryansj   | [Rotated Pi Mount with Heatsink](./bryansj/RPi_Frame_with_Heatsink_90deg) | Raspberry Pi with Heatsink Frame for minimal channel width | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Keystone Jack Universal Skirt Insert](./bryansj/Keystone_Jack_Universal_Skirt_Insert) | Keystone Jack Insert to fit into any hexagonal hole in the skirt | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| | [10x11 Befenybay Drag Chain Top Anchor](./bryansj/10x11_Befenybay_Chain_Top_Anchor) | Befenybay 10x11 Drag Chain Top Anchor | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| | [10x11 Befenybay Drag Chain Triangle Pattern Extrusion Mount](./bryansj/Triangle_Hole_Pattern_End_Mount_to_2020) | 10x11 Befenybay or other Drag Chain Triangle Hole Pattern End to Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Befenybay Chain Anchors](./bryansj/Befenybay_Chain_Anchors) | Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | blamm   | [Blind Joint Drilling Jigs](./blamm/jigs) | Jigs to drill your blind joints in the right spot | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |Danowar |[Dual Mobius Mount](./Danowar/Dual_Mobuis_Mount) | Mounts two Mobius Extruders to the back of the printer| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |
