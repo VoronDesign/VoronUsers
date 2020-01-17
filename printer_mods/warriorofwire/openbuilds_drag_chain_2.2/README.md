@@ -1,8 +1,8 @@
 # Off The Shelf Drag Chains for 2.2
 
-![Render](https://user-images.githubusercontent.com/3454741/68000301-c66fa480-fc1c-11e9-9096-63312416205e.png)
+![Render](images/2.2_render.png)
 
-![Actual image](https://user-images.githubusercontent.com/3454741/71869929-da2a0200-30c8-11ea-94f2-9db8bb773523.png)
+![Actual image](images/2.2.png)
 
 ## Why
 * Drag chains with a snap open side are a joy to work on.
