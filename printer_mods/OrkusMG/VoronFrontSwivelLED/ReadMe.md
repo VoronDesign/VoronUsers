@@ -20,10 +20,7 @@ You will need:
 
 
 
-![1](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/VoronFrontSwivelLED/1.jpeg)
-
-![2](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/VoronFrontSwivelLED/2.jpeg)
-
-![3](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/VoronFrontSwivelLED/3.jpeg)
-
-![4](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/VoronFrontSwivelLED/4.jpeg)
+![1](1.jpeg)
+![2](2.jpeg)
+![3](3.jpeg)
+![4](4.jpeg)
