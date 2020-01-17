@@ -7,10 +7,10 @@ It is one piece print, designed to work with everything you have included in you
 No Support required, designed with break-away support block. Print as any other Voron part.
 
 
-![Front](https://drive.google.com/open?id=1orNfYfMV9cZUQSZEaQsm-ypEwRIfzUlz)
+![Front](https://drive.google.com/uc?export=view&id=1orNfYfMV9cZUQSZEaQsm-ypEwRIfzUlz)
 
-![Bottom](https://drive.google.com/open?id=1WvDLMZ3_YP-F7_cR7fvhxkFNkVDFSKkM)
+![Bottom](https://drive.google.com/uc?export=view&id=1WvDLMZ3_YP-F7_cR7fvhxkFNkVDFSKkM)
 
-![Top](https://drive.google.com/open?id=1zTyaN8cILaJMBoqNiBzJzEqLigcMRowW)
+![Top](https://drive.google.com/uc?export=view&id=1zTyaN8cILaJMBoqNiBzJzEqLigcMRowW)
 
-![Back, or bottom if you take print orientation - where support is required](https://drive.google.com/open?id=153FiGd0gBfIAua9rSyTf2ltW2uPSdqq_)
+![Back, or bottom if you take print orientation - where support is required](https://drive.google.com/uc?export=view&id=153FiGd0gBfIAua9rSyTf2ltW2uPSdqq_)
