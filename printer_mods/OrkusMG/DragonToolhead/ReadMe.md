@@ -4,13 +4,13 @@ This toolhead mount design is based of Voron 2.2 Toolhead files.
 
 It is one piece print, designed to work with everything you have included in you Dragon Hotend delivery package (screws and bowden collete) - no additional extra parts required.
 
-For printing I advice using bit of support for the face marked in blue visible on the Back picture below.
+No Support required, designed with break-away support block. Print as any other Voron part.
 
 
-![Front](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Front.jpg)
+![Front](https://drive.google.com/open?id=1orNfYfMV9cZUQSZEaQsm-ypEwRIfzUlz)
 
-![Bottom](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Bottom.jpg)
+![Bottom](https://drive.google.com/open?id=1WvDLMZ3_YP-F7_cR7fvhxkFNkVDFSKkM)
 
-![Top](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Top.jpg)
+![Top](https://drive.google.com/open?id=1zTyaN8cILaJMBoqNiBzJzEqLigcMRowW)
 
-![Back, or bottom if you take print orientation - where support is required](https://github.com/orkusmg/VoronUsers/blob/master/printer_mods/OrkusMG/DragonToolhead/Back.jpg)
+![Back, or bottom if you take print orientation - where support is required](https://drive.google.com/open?id=153FiGd0gBfIAua9rSyTf2ltW2uPSdqq_)
