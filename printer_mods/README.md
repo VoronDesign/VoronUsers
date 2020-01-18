@@ -98,6 +98,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
+|Slidr | [Energy Chain](./Slidr/EnergyChain) | Alternative energie chain  | :grey_question: |:grey_question: |:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[FSR Circuit Mount](./Sparreau) |Bracket for mounting the FSR PCB. |:x: |:heavy_check_mark: |:x: |
 | | [Z Rail Stop](./Sparreau)|Z Rail Stop | :x: |:heavy_check_mark:| :heavy_check_mark:|
