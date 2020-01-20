@@ -25,6 +25,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |---------|--------------|-------------|------|------|------|
 | 3D_Black   | [Fan Covers](./3D_Black) | Different fan covers for 40mm fans | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | agsolino | [RunOut Filament Holder](./agsolino/RunOutFilamentHolder) | Holder for TriangleLab Runout sensor | :grey_question: | :grey_question: | :heavy_check_mark: |
+| | [RS-25-5 Rotated](./agsolino/) | Holder for TriangleLab Runout sensor | :grey_question: | :grey_question: | :heavy_check_mark: |
 |Andreq | [Mobius Shaft Jig](./andreq/voron2)|Tool used for grinding flats on a shaft at specific places |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
