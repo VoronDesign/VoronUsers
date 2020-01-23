@@ -122,6 +122,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-| masgar   | [Direct Drive for 1.6.2](./masgar) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
+| masgar   | [Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
 
 ---
