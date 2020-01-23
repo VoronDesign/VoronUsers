@@ -34,7 +34,6 @@ as per Voron specifications files beginning by _ is alternate color, other files
 ### Assembly guide
 Follow v1.6 and Afterburner manuals for more specification. Attached you find a PDF with what I did.
 
-[1](./images/01.jpg)
-[2](./images/02.jpg)
-[2](./images/02.jpg)
-![Alt text](./images/01.jpg?raw=true "Title")
+![1](./images/01.jpg?raw=true "")
+![2](./images/02.jpg?raw=true "")
+![3](./images/03.jpg?raw=true "")
