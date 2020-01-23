@@ -24,6 +24,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | Creator | Mod title | Description | V1.6 | V2.1 | V2.2 |
 |---------|--------------|-------------|------|------|------|
 | 3D_Black   | [Fan Covers](./3D_Black) | Different fan covers for 40mm fans | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| agsolino | [RunOut Filament Holder](./agsolino/RunOutFilamentHolder) | Holder for TriangleLab Runout sensor | :grey_question: | :grey_question: | :heavy_check_mark: |
 |Andreq | [Mobius Shaft Jig](./andreq/voron2)|Tool used for grinding flats on a shaft at specific places |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
@@ -116,8 +117,9 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[RJ45 Mount](./synfinatic/RJ45-Mount) |Mount for an ethernet coupler to extend / move the ethernet plug somewhere more convenient |:grey_question: |:grey_question: |:grey_question: |
 |Trippinonaduck |[Switch Holder](./Trippinonaduck/SwitchHolder) | Holder for Anit-Vandal Switches mounted in skirt holes  | :x:|:heavy_check_mark: | :heavy_check_mark:|
 | |[LRS-75-5](./Trippinonaduck/LRS_75_5) | Mount for LRS-75-5 Power Supply  | :heavy_check_mark:|:heavy_check_mark: | :heavy_check_mark:|
-|warriorofwire | [Openbuilds Drag Chain](./warriorofwire/openbuilds_drag_chain)|Collection of models for using an off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :heavy_check_mark: | :x: |
-| | [Direct Drive BMG-m mount](./warriorofwire/bmg_direct_drive)| Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo|:grey_question: |:heavy_check_mark:|:grey_question: |
+|warriorofwire | [Openbuilds Drag Chain 2.1](./warriorofwire/openbuilds_drag_chain_2.1)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :heavy_check_mark: | :x: |
+| | [Openbuilds Drag Chain 2.2](./warriorofwire/openbuilds_drag_chain_2.2)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :x: | :heavy_check_mark: | 
+| | [Direct Drive BMG-m mount](./warriorofwire/bmg_direct_drive)| Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo|:grey_question: |:heavy_check_mark:|:heavy_check_mark: |
 | wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
