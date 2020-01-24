@@ -46,7 +46,7 @@ M350 X16 Y16 Z16 E16:16 I1      ; Use 1/16 microstepping with interpolation ever
 M92 X160 Y160 Z800              ; Set XYZ steps per mm (0.9deg motors)
 M92 E560:560                    ; Set Extruder steps per mm (Mobius 3)
 
-M360 Z16 I0 ; disable Z interpolation
+;M350 Z16 I0 ; disable Z interpolation
 
 ; Drive currents
 M906 X1200 Y1200 Z1200 E1000    ; XYZ and E current
@@ -55,8 +55,8 @@ M84 S120                        ; Idle timeout
 
 ; Endstops
 M574 X2 Y2 Z0 S1                ; Set NC endstops for X and Y, no Z endstop (we have multiple probes instead)
-M208 X-9 Y-5 Z0 S1              ; Set axis minima
-M208 X313 Y304 Z275 S0          ; Set axis maxima
+M208 X-9 Y0 Z0 S1               ; Set axis minima
+M208 X313 Y309 Z275 S0          ; Set axis maxima
 
 ; Bed leveling
 M671 X-65:-65:365:365 Y-20:380:380:-20 S20      ; Define Z belts locations (Front_Left, Back_Left, Back_Right, Front_Right)
@@ -75,7 +75,7 @@ M98 P"/macros/print_scripts/speed_printing.g"
 M305 S"Bed Plate" P0 X0 R4700 T100000 B3950     ; Beta3950 stud thermistor on the edge of the plate
 M307 H0 B1 S1                                   ; 100% PWM, bang-bang mode
 M305 S"Bed Heater" P103 X3 R4700 T100000 B3950  ; Beta3950 thermistor inside the Keenovo heater
-M143 P100 H0 X103 A2 C0 S115                    ; make sure silicone heater stays below 115°C
+M143 P100 H0 X103 A2 C0 S110                    ; make sure silicone heater stays below 110°C
 M143 P101 H0 X103 A1 C0 S125                    ; make sure silicone heater shuts down at 125°C
 M143 H0 S110                                    ; maximum bed temperature
 
@@ -120,7 +120,7 @@ M98 P"/macros/print_scripts/activate_z_probe.g"
 M106 P3 S0.6 I0 H1 T50              ; Mosquito Hotend fan @ 60%, turns on if temperature sensor 1 reaches 50 degrees
 M106 P4 S0 I0 H-1                   ; Part cooling fan, no thermostatic control
 ;M106 P5 T45:65 F50 H100:101:102     ; Electronics bay fan, turn on gradually if MCU is over 45C or any TMC driver is over temp
-;M106 P8 S1 H0 T50                   ; Chamber filter fan, turn on when bed is hotter than 50C
+M106 P8 S1 H0 T50                   ; Chamber filter fan, turn on when bed is hotter than 50C
 
 ; Tools
 M563 P0 D0 H1 F4                    ; Define tool 0, use fan #4 for M106
