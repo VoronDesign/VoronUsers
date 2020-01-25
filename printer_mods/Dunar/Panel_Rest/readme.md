@@ -1,14 +1,24 @@
-# Low Profile Exhaust Duct Adapter
+# README
 
-This adapter allows your to fit 4" flexable dryer duct to your 120mm exhaust fan with minimal rear protrusion. 
+### Overview
 
-![Completed pic](installed.jpg?raw=true)
+Panel Rest for storage of up to 8 side/top panels.
 
-Part needs to be assumbled with super glue, also requires minimum 8 6x4mm diameter disk magnets for the quick release. Weaker or thinner magents can be stacked for additional pull strength. 
+ ![Panel Rest](panel_rest.jpg)
+ 
+ Extrusion profile does not matter, if you happen to have some vslot in your basement that is perfectly fine.
+ Length is not critical, should be >60% of you panel length for stability.
+ 
+ Use whatever hardware you have lying around to create a 90° angle from the extrusions. OpenBuild Corner cubes work fine, if you're lacking those there are optional support brackets for vslot and 6mm slot profiles in this directory that you can use instead.
+ 
+ Place the weather stripping in the grooves of the _panel_rest part to protect the edges of your panels.
+ 
+ Felt pads goes on the botton of the printed part to protect your floors.
 
-![apply glue to the highlighted surfaces](glue_surfaces.png?raw=true)
+### Parts needed
 
-I was able to print everything standing upright without supports with 0.8mm Volcano, some steep overhangs on rear body will be ugly, but those parts can be trimmed off since it is a glue surface and not visible when assembled. 
-![preferred orientation](print orientation.png)
-![ignore the ugly overhang, won't be visible](rear_body.jpg)
-
+ * 2x 20x20 aluminium extrusions
+ * 11x M5x10 BHCS
+ * 11x M3 T-nut
+ * 8mm Weather Stripping (slightly larger is fine)
+ * Wool Felt Pad to cover the underside of the panel rest
