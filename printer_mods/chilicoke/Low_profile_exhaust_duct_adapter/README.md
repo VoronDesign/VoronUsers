@@ -1,6 +1,6 @@
 # Low Profile Exhaust Duct Adapter
 
-This adapter allows your to fit 4" flexable dryer duct to your 120mm exhaust fan with minimal rear protrusion. 
+This adapter allows your to fit 4" flexable dryer duct to your 120mm exhaust fan with minimal rear protrusion. It is quick release held on with magnets.
 
 ![Completed pic](installed.jpg?raw=true)
 
