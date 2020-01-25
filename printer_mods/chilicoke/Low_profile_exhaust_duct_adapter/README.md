@@ -4,7 +4,8 @@ This adapter allows you to fit 4" flexable dryer duct to your 120mm exhaust fan 
 
 ![Completed pic](installed.jpg?raw=true)
 
-Part needs to be assumbled with super glue, also requires minimum 8 6x4mm diameter disk magnets for the quick release. Weaker or thinner magents can be stacked for additional pull strength. 
+Part needs to be assumbled with super glue, also requires minimum 8 6x4mm disk magnets for the quick release. Multiple thinner magents can also be used if stacked together for additional pull strength.
+Holes for magnets should be a press fit if printed with .4mm nozzle, I printed mine with .8 and they needed to be reamed for a good fit. 
 
 ![apply glue to the highlighted surfaces](glue_surfaces.png?raw=true)
 
