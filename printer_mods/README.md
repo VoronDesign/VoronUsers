@@ -37,6 +37,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | cadriel | [Triangle Lab Filament Sensor Mount](./cadriel/triangle_lab_filament_sensor_mount) | Triange Lab filament sensor mounts | :grey_question: | :grey_question: | :heavy_check_mark: |
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chilicoke   | [Low Profile Exhaust Duct](./chilicoke/Low_profile_exhaust_duct_adapter) | Quick-release exhaust duct adapter that requires minumal rear spacing  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
+| |[Rigid C930e/C920 mount](./chilicoke/Rigid_C930e_mount) | Low Profile Rigid mount for Logitech C930e/C920 | :x: | :heavy_check_mark:| :heavy_check_mark:|
 |Danowar |[Dual Mobius Mount](./Danowar/Dual_Mobuis_Mount) | Mounts two Mobius Extruders to the back of the printer| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |
 | |[F6 Board Mount](./Danowar/F6_Board_Mount) | Mounts for FYSETCS F6 controller boards|:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
 | |[Humidity Sensor Bracket](./Danowar/Humidity_Sensor_Bracket) |Mount for Humidity/Temperature sensor |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
