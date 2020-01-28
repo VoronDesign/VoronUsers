@@ -4,6 +4,8 @@ This adapter allows you to fit 4" flexable dryer duct to your 120mm exhaust fan 
 
 ![Completed pic](installed.jpg?raw=true)
 
+There are 2 versions of duct grill, match file name with size of the exhaust fan you are using.
+
 Part needs to be assumbled with super glue, also requires minimum 8 6x4mm disk magnets for the quick release. Multiple thinner magents can also be used if stacked together for additional pull strength.
 Holes for magnets should be pressed fit if printed with .4mm nozzle, Mine were printed with .8 and they needed to be reamed for a good fit. 
 
