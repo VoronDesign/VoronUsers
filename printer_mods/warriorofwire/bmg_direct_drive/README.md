@@ -2,7 +2,7 @@
 ![example image](https://user-images.githubusercontent.com/3454741/67543958-79ce1b80-f6a8-11e9-998e-90cd94887999.png)
 
 Note:
-* Tested with 300mm 2.1 and 350 2.2.
+* Tested with 300mm 2.1, 300 and 350 2.2.
 * 1.6 looks plausible too, ymmv.
 
 ## Why
@@ -42,7 +42,8 @@ fan_mount.stl | Print with vent face down.  No supports.
 10. Print!
 
 ## Known Issues
-* This will offset your nozzle 15.4mm to the left.  You can move your bed over.
+* If you don't screw your bondtech filament screw _way_ in, you will hit your front doors.  You can figure out a slimmer tension screw or you can limit your Y travel -4mm.
+* This will offset your nozzle 15.4mm to the left.  You can move your bed over.  I did it and it looks rad.  You still get full X range of motion.
 * You have to drill a hole in your Bondtech aluminum plate for the left Voron mount screw.  Just do it; it's only aluminum.  I recommend using a stepped bit for a clean hole.
 * It's DD so the tool head is a little heavier than the stock bowden.  The mass is distributed differently, so it's not a straightforward comparison but generally you'll want somewhat lower acceleration & jerk settings.  You can still print at high speeds but you need to consider mass direction changes.  Some people still use it at full speed anyway.
 
@@ -50,5 +51,5 @@ fan_mount.stl | Print with vent face down.  No supports.
 ## Setups
 User | Printer | Note
 ---- | ---- | ----
-warriorofwire | 2.1 300mm^3 Mosq. 0.4 nozzle | I use 2000 accel travel 350 and 80mm/sec
+warriorofwire | 2.1 300mm^3 Mosq. 0.4 nozzle | I use 2000 accel travel 350 and 80mm/sec print.
 hevilp | 2.2 350mm^3; Mosq.Magnum 0.8 nozzle | 3000 accel, travel 300 corner velocity 10, 60mm/sec.  23mm^3/sec at 0.96 line width and 0.4 layer height.
