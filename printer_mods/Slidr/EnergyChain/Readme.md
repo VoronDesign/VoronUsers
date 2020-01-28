@@ -1,4 +1,4 @@
-[1](themes/Example_3.jpg)
+[1](printer_mods/Slidr/EnergyChain/themes/Example_3.jpg)
 
 --------------------------------------------------------------------------------
 What is it?
