@@ -1,4 +1,6 @@
-[1](printer_mods/Slidr/EnergyChain/themes/Example_3.jpg)
+<p align="center">
+  <img src="themes/Example_3.jpg" width="600" title="hover text">
+</p>
 
 --------------------------------------------------------------------------------
 What is it?
@@ -21,11 +23,11 @@ When to use?
 - you like to print your own stuff :-)
 - you like accessible/openable links for easy maintenance
 - you prefer accent colors (see folder 'themes' for ideas)
-- you want save some money (it´s not a lot! Go for Igus if in doubt or some
+- you want save some money (itÂ´s not a lot! Go for Igus if in doubt or some
   alternative cheap Ali-stuff)
-- you don´t want to wait for your order to arrive
-- you don´t like tape chains (wire failure) or zip chains (fiddly)
-- you don´t care about
+- you donÂ´t want to wait for your order to arrive
+- you donÂ´t like tape chains (wire failure) or zip chains (fiddly)
+- you donÂ´t care about
   o extreme noise reduction
   o a not perfect bending radius
   o or any other shortcomings due to additive manifacturing
@@ -34,15 +36,19 @@ When to use?
 Printing Requirements:
 --------------------------------------------------------------------------------
 - Do A TEST PRINT OF 3-4 XY-LINKS PER TOLERANCE FIRST
-  o CHECK FOR LAYER ADHESION
-  o CHECK which tolerance version fits your printer filament/temperature best:
-     XY_Link_tight_xA: might have upwards bending
-     XY_Link_normal_xA: should be pretty flat (should work for most ppl!)
-     XY_Link_loose_xA: should bend downwards
 
-     If really necessary you might combine the versions in an alternating way:
-     (e.g.: normal,loose,normal,loose and so on).
-- esun ABS+ (feel free to experiment, don´t blame me!)
+  o CHECK FOR LAYER ADHESION
+  
+  o CHECK which tolerance version (s. picture below) fits your printer filament/temperature best:
+  
+     - XY_Link_tight_xA: might have upwards bending
+     - XY_Link_normal_xA: should be pretty flat (should work for most ppl!)
+     - XY_Link_loose_xA: should bend downwards
+
+     If necessary you might combine  versions in an alternating way.
+     (e.g.: normal,loose,normal,loose and so on). 
+     
+- esun ABS+ (feel free to experiment, donÂ´t blame me!)
 - 0.2mm layer height incl. first layer:
   part is designed to be printed only with this height!
 - no supports: required supports are already incorporated and easy to remove
@@ -60,6 +66,21 @@ Printing Tipps:
 --------------------------------------------------------------------------------
 Assembly:
 --------------------------------------------------------------------------------
+
+<p align="center">
+  <img src="01_Link-Assembly.PNG" width="600" title="Link Assembly">
+</p>
+<p align="center">
+  <img src="02_XY-Parts.PNG" width="600" title="XY-Chain">
+</p>
+<p align="center">
+  <img src="03_XY-Part-Tolerance_Explanation.PNG" width="600" title="Part Tolerance">
+</p>
+<p align="center">
+  <img src="04_Z-Assembly.PNG" width="600" title="Z-Chain">
+</p>
+
+
 - remove supports by bending the support UPWARDS. This is important, as it
   influences downwards bending of chain
 - pinch the male link side with the pegs into the female side of the next link
@@ -71,13 +92,13 @@ Required Links/Clips:
 - "A"x Links for X or Y-Direction:
   You need 17 links for a Voron 250mm plus three additional links per 50mm
   for X and the same amount for Y
-  o 250 mm²: 17 links + spare
-  o 300 mm²: 20 links + spare
-  o 350 mm²: 23 links + spare
+  o 250 mmÂ²: 17 links + spare
+  o 300 mmÂ²: 20 links + spare
+  o 350 mmÂ²: 23 links + spare
 - 'B'x Links for Z Direction:
-  o 250 mm²: 22 links (option solid vertical: 14 )
-  o 300 mm²: 25 links (option solid vertical: 15 )
-  o 350 mm²: 28 links (option solid vertical: 16 )
+  o 250 mmÂ²: 22 links (option solid vertical: 14 )
+  o 300 mmÂ²: 25 links (option solid vertical: 15 )
+  o 350 mmÂ²: 28 links (option solid vertical: 16 )
 - you will need Clips C = 2*A+B + spare
 - please print 2-3 spare links and clips just to make sure
 
