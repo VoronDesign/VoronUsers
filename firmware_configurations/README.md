@@ -36,5 +36,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | Creator | Config title | Description | V1.6 | V2.1 | V2.2 |
 |---------|--------------|-------------|------|------|------|
 | fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| Norbs | [Duet 2 Config](./reprapfirmware/Norbs) | RRF 3.0 example config | :x: | :heavy_check_mark: | :heavy_check_mark: |
 
 ---
