@@ -25,6 +25,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |---------|--------------|-------------|------|------|------|
 | 3D_Black   | [Fan Covers](./3D_Black) | Different fan covers for 40mm fans | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | agsolino | [RunOut Filament Holder](./agsolino/RunOutFilamentHolder) | Holder for TriangleLab Runout sensor | :grey_question: | :grey_question: | :heavy_check_mark: |
+| | [RS-25-5 Rotated](./agsolino/RS25-5-Rotated) | RS-25-5 PSU mount rotated 90 Degrees | :grey_question: | :grey_question: | :heavy_check_mark: |
 |Andreq | [Mobius Shaft Jig](./andreq/voron2)|Tool used for grinding flats on a shaft at specific places |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
@@ -33,7 +34,9 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | | [Keystone Jack Universal Skirt Insert](./bryansj/Keystone_Jack_Universal_Skirt_Insert) | Keystone Jack Insert to fit into any hexagonal hole in the skirt | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Befenybay Chain Anchors](./bryansj/Befenybay_Chain_Anchors) | Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | blamm   | [Blind Joint Drilling Jigs](./blamm/jigs) | Jigs to drill your blind joints in the right spot | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| cadriel | [Triangle Lab Filament Sensor Mount](./cadriel/triangle_lab_filament_sensor_mount) | Triange Lab filament sensor mounts | :grey_question: | :grey_question: | :heavy_check_mark: |
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| chilicoke   | [Low Profile Exhaust Duct](./chilicoke/Low_profile_exhaust_duct_adapter) | Quick-release exhaust duct adapter that requires minumal rear spacing  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 |Danowar |[Dual Mobius Mount](./Danowar/Dual_Mobuis_Mount) | Mounts two Mobius Extruders to the back of the printer| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |
 | |[F6 Board Mount](./Danowar/F6_Board_Mount) | Mounts for FYSETCS F6 controller boards|:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
 | |[Humidity Sensor Bracket](./Danowar/Humidity_Sensor_Bracket) |Mount for Humidity/Temperature sensor |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
@@ -86,6 +89,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Logitech C920 Mount](./Koios) |Mount for C920 secured to the top front extrusion |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 | |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
+|masgar |[Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
@@ -99,6 +103,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
+|Slidr | [Energy Chain](./Slidr/EnergyChain) | Alternative energie chain  | :grey_question: |:grey_question: |:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[FSR Circuit Mount](./Sparreau) |Bracket for mounting the FSR PCB. |:x: |:heavy_check_mark: |:x: |
 | | [Z Rail Stop](./Sparreau)|Z Rail Stop | :x: |:heavy_check_mark:| :heavy_check_mark:|
