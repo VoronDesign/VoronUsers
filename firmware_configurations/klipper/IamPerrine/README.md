@@ -1,0 +1,11 @@
+# Voron Config
+
+Here are my Voron 2.2 config files. 
+
+Both configs are based on skr 1.3s with 2209s 
+
+Included is a custom ADC Table for the Slice Thermistor.
+
+Fade Config has newer filament swap macros, doesn't have a lot of testing yet.
+
+Pancake has my default filament runout macros. Doesn't work with Prusa Slicer Color Swaps.
