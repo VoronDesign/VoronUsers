@@ -28,16 +28,22 @@ How to build
 </p>
 
 --------------------------------------------------------------------------------
+Printing Guide
+--------------------------------------------------------------------------------
+- Print the base and lock with 4 Perimeters and it is 100% filled.
+- Print the cover with minimum 5 solid top and bottom layers, to get no infill pattern in it and change the filament at the beginning of layer 5 to a transparent filament (in my case it was ABS natural).
+
+--------------------------------------------------------------------------------
 Configurate your Firmware
 --------------------------------------------------------------------------------
 Include the printer_buttons.cfg in your Klipper config.
 If you use RRF, feel free and add here a config file for this firmware. I don't use RRF so a cannot write a config file...
 
 --------------------------------------------------------------------------------
-BOM
+Bill of Material
 --------------------------------------------------------------------------------
 - filament
 - Cherry MX Buttons (my favorit type is the green version. hard respond with click sound)
 - cables
-- 3mm LED
+- 3mm LEDs
 - resistors
