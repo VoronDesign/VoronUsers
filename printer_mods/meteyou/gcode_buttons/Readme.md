@@ -12,11 +12,11 @@ I don't have a display on my small Voron (250³) and i only need 4 types of acti
 Functions of my gcode buttons
 --------------------------------------------------------------------------------
 - unload filament
-... if the extruder temperature is higher than 190 degrees, it will unload your filament.
+... if the extruder temperature is higher than 190 degrees, it will unload your filament and unlock the load filament button.
 - preheat
 ... heatup the heater_bed to 100 degrees and set your chamber temperature to 50 degrees. if your heater_bed is already be heated, it will cooldown the heater_bed and set the chamber temperature to 45 degrees.
 - load filament
-... if your filament is be unloaded (press unload filament button before) it will be load your filament. if the filament is already be loaded, it will purge 20mm of filament with 5mm/s.
+... if your filament is be unloaded (press the unload filament button before) it will be load your filament. if the filament is already be loaded, it will purge 20mm of filament with 5mm/s.
 - light on/off
 ... with this button, your printer is only switch on/off your light.
 
@@ -34,7 +34,7 @@ Printing Guide
 - Print the cover with minimum 5 solid top and bottom layers, to get no infill pattern in it and change the filament at the beginning of layer 5 to a transparent filament (in my case it was ABS natural).
 
 --------------------------------------------------------------------------------
-Configurate your Firmware
+Configure your Firmware
 --------------------------------------------------------------------------------
 Include the printer_buttons.cfg in your Klipper config.
 If you use RRF, feel free and add here a config file for this firmware. I don't use RRF so a cannot write a config file...
