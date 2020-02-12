@@ -3,8 +3,8 @@
 # *** THINGS TO CHANGE/CHECK: ***
 # MCU paths                         [mcu] section
 # Thermistor types                      [extruder] and [heater_bed] sections - See 'sensor types' list at end of file
-# FSR switch (z endstop) location       [homing_override] section
-# FSR switch (z endstop) offset for Z0  [stepper_z] section
+# (z endstop) location       [safe_z_home] section
+# (z endstop) offset for Z0  [stepper_z] section
 # Probe points                          [quad_gantry_level] section
 # Min & Max gantry corner postions      [quad_gantry_level] section
 # PID tune                              [extruder] and [heater_bed] sections
@@ -446,20 +446,11 @@ pid_kd: 363.769
 [idle_timeout]
 timeout: 36000
 
-[homing_override]
-axes: z
-set_position_z: 0
-gcode:
-   G90
-   bed_mesh_clear
-   G0 Z5 F600
-   G90
-   G28 X Y
-   G0 X221 Y350 F3600
+[safe_z_home]
+home_xy_position: 223.000,345.000
 #   XY Location of the Z Switch.  Update to your machines XY location.
-   G28 Z0
-   G0 Z10 F1800
-   G0 X175 Y175 Z10 F3600
+z_hop: 5.0
+speed: 50
 
 #	BED_MESH_CALIBRATE
 [bed_mesh]
@@ -696,56 +687,3 @@ gcode:
 #   "AD595"
 #   "PT100 INA826"
 
-#*# <---------------------- SAVE_CONFIG ---------------------->
-#*# DO NOT EDIT THIS BLOCK OR BELOW. The contents are auto-generated.
-#*#
-#*# [extruder]
-#*# control = pid
-#*# pid_kp = 22.999
-#*# pid_ki = 1.381
-#*# pid_kd = 95.734
-#*#
-#*# [stepper_z]
-#*# position_endstop = -2.350
-#*#
-#*# [bed_mesh default]
-#*# version = 1
-#*# points =
-#*# 	  -0.077500, -0.030000, 0.005000, 0.020000, 0.015000, -0.027500, -0.090000
-#*# 	  -0.085000, -0.055000, -0.027500, 0.010000, 0.012500, -0.032500, -0.075000
-#*# 	  -0.075000, -0.037500, -0.032500, 0.002500, 0.005000, -0.022500, -0.060000
-#*# 	  -0.097500, -0.062500, -0.042500, 0.000000, -0.007500, -0.042500, -0.077500
-#*# 	  -0.102500, -0.077500, -0.050000, -0.020000, -0.015000, -0.055000, -0.090000
-#*# 	  -0.092500, -0.072500, -0.037500, -0.012500, -0.020000, -0.050000, -0.092500
-#*# 	  -0.067500, -0.025000, 0.007500, 0.027500, 0.042500, 0.002500, -0.062500
-#*# x_count = 7
-#*# y_count = 7
-#*# mesh_x_pps = 2
-#*# mesh_y_pps = 2
-#*# algo = bicubic
-#*# tension = 0.1
-#*# min_x = 29.9999999995
-#*# max_x = 319.98125
-#*# min_y = 29.9999999995
-#*# max_y = 319.98125
-#*#
-#*# [bed_mesh hot]
-#*# version = 1
-#*# points =
-#*# 	  -0.077500, -0.030000, 0.005000, 0.020000, 0.015000, -0.027500, -0.090000
-#*# 	  -0.085000, -0.055000, -0.027500, 0.010000, 0.012500, -0.032500, -0.075000
-#*# 	  -0.075000, -0.037500, -0.032500, 0.002500, 0.005000, -0.022500, -0.060000
-#*# 	  -0.097500, -0.062500, -0.042500, 0.000000, -0.007500, -0.042500, -0.077500
-#*# 	  -0.102500, -0.077500, -0.050000, -0.020000, -0.015000, -0.055000, -0.090000
-#*# 	  -0.092500, -0.072500, -0.037500, -0.012500, -0.020000, -0.050000, -0.092500
-#*# 	  -0.067500, -0.025000, 0.007500, 0.027500, 0.042500, 0.002500, -0.062500
-#*# x_count = 7
-#*# y_count = 7
-#*# mesh_x_pps = 2
-#*# mesh_y_pps = 2
-#*# algo = bicubic
-#*# tension = 0.1
-#*# min_x = 29.9999999995
-#*# max_x = 319.98125
-#*# min_y = 29.9999999995
-#*# max_y = 319.98125

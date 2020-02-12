@@ -8,6 +8,6 @@ Running the Annex Engineering Direct A/B Mods, Metal Z Mod, and Dual X rail Mod.
 
 Included is a custom ADC Table for the Slice Thermistor.
 
-Fade Config has newer filament swap macros, doesn't have a lot of testing yet.
+Fade Config has Safe_Z_Home and has newer filament swap macros. Confirmed works with Prusa Slicer Color Swaps.
 
 Pancake has my default filament runout macros. Doesn't work with Prusa Slicer Color Swaps.
