@@ -10,7 +10,6 @@ as per Voron specifications:
 - Filament: ABS/ABS+
 
 ### BOM
-
 - Volt/Ampere Meter with shunt. [Like this] (https://www.aliexpress.com/item/32955886606.html?spm=a2g0s.9042311.0.0.27424c4dPoUm1q)
 
 ### Wiring
