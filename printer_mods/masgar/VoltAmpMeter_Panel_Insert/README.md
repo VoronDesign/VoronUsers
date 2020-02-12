@@ -1,6 +1,3 @@
-
-Replace front-left cover.
-
 ### Print parameters
 
 as per Voron specifications:
@@ -20,5 +17,8 @@ as per Voron specifications:
 ![1](./images/wiring.png?raw=true "")
 
 ### Mount
+- Insert voltampmeter in the new panel
+- Replace front-left cover.
+- Connect
 
 ![2](./images/447B0966-61A0-4B43-B7D5-F7FB5A99BDB1.JPG?raw=true "")
