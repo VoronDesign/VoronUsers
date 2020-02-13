@@ -1,0 +1,626 @@
+# Pancake VORON2 350x350x150mm SKR 1.3 TMC2209 UART config
+
+# *** THINGS TO CHANGE/CHECK: ***
+# MCU paths                         [mcu] section
+# Thermistor types                      [extruder] and [heater_bed] sections - See 'sensor types' list at end of file
+# FSR switch (z endstop) location       [homing_override] section
+# FSR switch (z endstop) offset for Z0  [stepper_z] section
+# Probe points                          [quad_gantry_level] section
+# Min & Max gantry corner postions      [quad_gantry_level] section
+# PID tune                              [extruder] and [heater_bed] sections
+# Fine tune E steps                     [extruder] section
+
+
+[force_move]
+enable_force_move: True
+
+[mcu]
+#	mcu for X/Y/E steppers main MCU
+#	[X in X] - B Motor
+#	[Y in Y] - A Motor
+#	[E in Z] - Extruder
+#	obtain definition by "ls -l /dev/serial/by-path/" then unplug to verify
+serial: /dev/serial/by-path/platform-fd500000.pcie-pci-0000:01:00.0-usb-0:1.2:1.0 
+
+[mcu z]
+#	mcu for Z steppers
+#	[Z in X] - Front Left
+#	[Z1 in Y] - Rear Left
+#	[Z2 in Z] - Rear Right
+#	[Z3 in E0]- Front Right
+#	obtain definition by "ls -l /dev/serial/by-path/" then unplug to verify
+serial: /dev/serial/by-path/platform-fd500000.pcie-pci-0000:01:00.0-usb-0:1.1:1.0
+
+[printer]
+kinematics: corexy
+max_velocity: 300
+max_accel: 3000
+max_z_velocity: 25
+max_z_accel: 250
+#   The maximum velocity (in mm/s) that the toolhead may travel a 90
+#   degree corner at. A non-zero value can reduce changes in extruder
+#   flow rates by enabling instantaneous velocity changes of the
+#   toolhead during cornering. This value configures the internal
+#   centripetal velocity cornering algorithm; corners with angles
+#   larger than 90 degrees will have a higher cornering velocity while
+#   corners with angles less than 90 degrees will have a lower
+#   cornering velocity. If this is set to zero then the toolhead will
+#   decelerate to zero at each corner. The default is 5mm/s.
+#square_corner_velocity: 10.0
+
+
+#####################################################################
+# 	X/Y Stepper Settings
+#####################################################################
+
+[stepper_x]
+#connected to X on mcu_xye (B Motor)
+step_pin: P2.2
+dir_pin: !P2.6
+enable_pin: !P2.1
+step_distance: 0.0125
+endstop_pin: !P1.29
+position_min: 0
+position_endstop: 345
+position_max: 345
+homing_speed: 100
+homing_retract_dist: 5
+homing_positive_dir: true
+
+[tmc2209 stepper_x]
+uart_pin: P1.17
+microsteps: 16
+interpolate: False
+run_current: 1.0
+hold_current: 1.0
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+[stepper_y]
+#connected to Y on mcu_xye (A Motor)
+step_pin: P0.19
+dir_pin: P0.20
+enable_pin: !P2.8
+step_distance: 0.0125
+endstop_pin: !P1.27
+position_min: 0
+position_endstop: 350
+position_max: 350
+homing_speed: 100
+homing_retract_dist: 5
+homing_positive_dir: true
+
+[tmc2209 stepper_y]
+uart_pin: P1.15
+microsteps: 16
+interpolate: False
+run_current: 1.0
+hold_current: 1.0
+sense_resistor: 0.110
+stealthchop_threshold: 0
+ 
+#####################################################################
+# 	Z Stepper Settings
+#####################################################################
+
+#Z MCU - IN X
+# Z0 Stepper - Front Left
+[stepper_z]
+step_pin: z:P2.2
+dir_pin: !z:P2.6
+enable_pin: !z:P2.1
+step_distance: 0.00250
+endstop_pin: z:P1.25
+#   Z-position of nozzle (in mm) to z-endstop trigger point relative to print surface (Z0)
+#   (+) value = endstop above Z0, (-) value = endstop below
+#position_endstop: -1.6
+position_max: 140
+position_min: -5
+homing_speed: 15.0
+second_homing_speed: 3.0
+homing_retract_dist: 3.0
+
+[tmc2209 stepper_z]
+uart_pin: z:P1.17
+microsteps: 16
+interpolate: False
+run_current: 1.0
+hold_current: 0.80
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+#Z MCU - IN Y
+# Z1 Stepper - Rear Left
+[stepper_z1]
+step_pin: z:P0.19
+dir_pin: z:P0.20
+enable_pin: !z:P2.8
+step_distance: 0.00250
+
+
+[tmc2209 stepper_z1]
+uart_pin: z:P1.15
+microsteps: 16
+interpolate: False
+run_current: 1.0
+hold_current: 0.80
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+#Z MCU - IN Z
+# Z2 Stepper - Rear Right
+[stepper_z2]
+step_pin: z:P0.22
+dir_pin: !z:P2.11
+enable_pin: !z:P0.21
+step_distance: 0.00250
+
+[tmc2209 stepper_z2]
+uart_pin: z:P1.10
+microsteps: 16
+interpolate: False
+run_current: 1.0
+hold_current: 0.80
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+#Z MCU - IN E0
+# Z3 Stepper - Front Right
+[stepper_z3]
+step_pin: z:P2.13
+dir_pin: z:P0.11
+enable_pin: !z:P2.12
+step_distance: 0.00250
+
+[tmc2209 stepper_z3]
+uart_pin: z:P1.8
+microsteps: 16
+interpolate: False
+run_current: 1.0
+hold_current: 0.80
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+#####################################################################
+# 	Extruder
+#####################################################################
+
+[adc_temperature slice]
+resistance1: 4018000
+temperature1: -20
+resistance2: 2407000
+temperature2: -10
+resistance3: 1497000
+temperature3: 0
+resistance4: 943200
+temperature4: 10
+resistance5: 613400
+temperature5: 20
+resistance6: 500000
+temperature6: 25
+resistance7: 407000
+temperature7: 30
+resistance8: 275000
+temperature8: 40
+resistance9: 190300
+temperature9: 50
+resistance10: 132900
+temperature10: 60
+resistance11: 94760
+temperature11: 70
+resistance12: 68870
+temperature12: 80
+resistance13: 59110
+temperature13: 85
+resistance14: 50750
+temperature14: 90
+resistance15: 37870
+temperature15: 100
+resistance16: 28590
+temperature16: 110
+resistance17: 21890
+temperature17: 120
+resistance18: 16920
+temperature18: 130
+resistance19: 13240
+temperature19: 140
+resistance20: 10480
+temperature20: 150
+resistance21: 8365
+temperature21: 160
+resistance22: 6745
+temperature22: 170
+resistance23: 5490
+temperature23: 180
+resistance24: 4509
+temperature24: 190
+resistance25: 3734
+temperature25: 200
+resistance26: 3104
+temperature26: 210
+resistance27: 2600
+temperature27: 220
+resistance28: 2193
+temperature28: 230
+resistance29: 1862
+temperature29: 240
+resistance30: 1591
+temperature30: 250
+resistance31: 1359
+temperature31: 260
+resistance32: 1168
+temperature32: 270
+resistance33: 1009
+temperature33: 280
+resistance34: 876
+temperature34: 290
+resistance35: 764.4
+temperature35: 300
+resistance36: 668.9
+temperature36: 310
+resistance37: 587.9
+temperature37: 320
+resistance38: 519
+temperature38: 330
+resistance39: 460
+temperature39: 340
+resistance40: 409.3
+temperature40: 350
+resistance41: 365.4
+temperature41: 360
+resistance42: 327.3
+temperature42: 370
+resistance43: 294.2
+temperature43: 380
+resistance44: 265.3
+temperature44: 390
+resistance45: 240
+temperature45: 400
+resistance46: 217.7
+temperature46: 410
+resistance47: 198
+temperature47: 420
+resistance48: 180.5
+temperature48: 430
+resistance49: 165.1
+temperature49: 440
+resistance50: 151.3
+temperature50: 450
+resistance51: 138.9
+temperature51: 460
+resistance52: 127.9
+temperature52: 470
+resistance53: 118
+temperature53: 480
+resistance54: 109.1
+temperature54: 490
+resistance55: 101.1
+temperature55: 500
+
+#Z on MCU X/Y
+[extruder]
+step_pin: P0.22
+dir_pin: !P2.11
+enable_pin: !P0.21
+# 16 microsteps -m3 0.001875
+step_distance: 0.00178078
+nozzle_diameter: 0.400
+filament_diameter: 1.75
+heater_pin: P2.5
+sensor_type: slice
+sensor_pin: P0.24
+smooth_time: 3.0
+min_temp: 5
+max_temp: 300
+max_power: 1.0
+min_extrude_temp: 170
+max_extrude_only_distance: 1150
+max_extrude_cross_section: 9999
+# PA can be disabled by declaring a 0.0 value
+pressure_advance: 0.4
+pressure_advance_smooth_time: 0.040
+ #   A time range (in seconds) to use when calculating the average
+ #   extruder velocity for pressure advance. A larger value results in
+ #   smoother extruder movements. This parameter may not exceed 200ms.
+ #   This setting only applies if pressure_advance is non-zero. The
+ #   default is 0.040 (40 milliseconds).
+ 
+#control = pid
+#pid_kp = 26.213
+#pid_ki = 1.304
+#pid_kd = 131.721
+
+#Z on MCU X/Y
+[tmc2209 extruder]
+uart_pin: P1.10
+microsteps: 16
+interpolate: False
+run_current: 0.6
+hold_current: 0.6
+sense_resistor: 0.110
+stealthchop_threshold: 0
+
+#####################################################################
+# 	Probe
+#####################################################################
+
+[probe]
+# Inductive Probe
+# Z height probe. One may define this section to enable Z height
+# probing hardware. When this section is enabled, PROBE and
+# QUERY_PROBE extended g-code commands become available. The probe
+# section also creates a virtual "probe:z_virtual_endstop" pin. One
+# may set the stepper_z endstop_pin to this virtual pin on cartesian
+# style printers that use the probe in place of a z endstop.
+pin: z:P1.24
+#   Z_MAX on mcu_z
+x_offset: 0
+#   Offset (in mm) for inductive probe Y direction from nozzle
+y_offset: 25.0
+z_offset: 0
+#   Speed (in mm/s) of the Z axis when probing. The default is 5mm/s.
+speed: 5.0
+samples: 1
+#   How far to retract (in mm) from the probe point for multi-probe samples
+sample_retract_dist: 2.0
+samples_tolerance: 0.100
+#   The maximum Z distance (in mm) that a sample may differ from other
+#   samples. If this tolerance is exceeded then either an error is
+#   reported or the attempt is restarted (see
+#   samples_tolerance_retries). The default is 0.100mm.
+samples_tolerance_retries: 3
+#   The number of times to retry if a sample is found that exceeds
+#   samples_tolerance. On a retry, all current samples are discarded
+#   and the probe attempt is restarted. If a valid set of samples are
+#   not obtained in the given number of retries then an error is
+#   reported. The default is zero which causes an error to be reported
+#   on the first sample that exceeds samples_tolerance
+
+
+#####################################################################
+# 	Fan Control
+#####################################################################
+
+[fan]
+# print cooling fans
+pin: P2.4
+max_power: 1.0
+kick_start_time: 0.5
+off_below: 0.13
+cycle_time: 0.001
+
+[heater_fan hotend_fan]
+pin: P2.7
+max_power: 1.0
+shutdown_speed: 0.0
+kick_start_time: 0.5
+heater: extruder
+heater_temp: 50.0
+fan_speed: 1.0
+
+[heater_fan exhaust_fan]
+pin: z:P2.4
+max_power: 1.0
+shutdown_speed: 0.0
+kick_start_time: 5.0
+heater: heater_bed
+heater_temp: 60
+fan_speed: 1.0
+
+#####################################################################
+# 	Bed Heater
+#####################################################################
+
+[heater_bed]
+heater_pin: z:P2.5
+sensor_type: NTC 100K MGB18-104F39050L32
+#pullup_resistor: 5500
+sensor_pin: z:P0.23
+smooth_time: 3.0
+max_power: 0.6
+min_temp: 0
+max_temp: 120
+control: pid
+pid_kp: 58.437
+pid_ki: 2.347
+pid_kd: 363.769
+
+[idle_timeout]
+timeout: 36000
+
+#####################################################################
+# 	Homing and Gantry Adjustment Routines
+#####################################################################
+
+[homing_override]
+axes: z
+set_position_z: 0
+gcode:
+   G90
+   bed_mesh_clear
+   G0 Z10 F600
+   G90
+   G28 X Y
+   G0 X222 Y350 F3600
+#   XY Location of the FSR Switch.  Update to your machines XY location.
+   G28 Z0
+   G0 Z10 F1800
+   G0 X175 Y175 Z20 F3600
+
+#	BED_MESH_CALIBRATE
+[bed_mesh]
+speed: 200
+horizontal_move_z: 5
+mesh_min: 30,30
+mesh_max: 320,320
+probe_count: 7,7
+fade_start: .5
+fade_end: 0
+split_delta_z: .025
+move_check_distance: 3.0
+#mesh_pps: 0,0
+algorithm: bicubic
+relative_reference_index: 24
+bicubic_tension: 0.1      
+   
+[quad_gantry_level]
+#   Use QUAD_GANTRY_LEVEL to level a gantry.
+gantry_corners:
+   -47,-5
+    428,438
+#   Min & Max gantry corners - measure from nozzle at MIN (0,0) and MAX (350,350) to respective belt positions
+points:
+   50,40
+   50,280
+   300,280
+   300,40
+#   Probe points
+speed: 200
+#   The speed (in mm/s) of non-probing moves during the calibration.
+#   The default is 50.
+horizontal_move_z: 5
+#   The height (in mm) that the head should be commanded to move to
+#   just prior to starting a probe operation. The default is 5
+retries: 5
+#   number of times to retry if the stepper movements aren't within tolerance
+retry_tolerance: 0.0075
+#   if retries are enabled then retry if any z_stepper movement was greater
+#   than the retry_tolerance
+max_adjust: 5
+
+#####################################################################
+# 	Displays
+#####################################################################
+
+[display]
+#  "mini12864 LCD Display
+lcd_type: uc1701
+cs_pin: z:P1.18
+a0_pin: z:P1.19
+encoder_pins: ^z:P3.25,^z:P3.26
+click_pin: ^!z:P0.28
+contrast: 63
+
+[neopixel my_neopixel]
+pin: z:P1.21
+chain_count: 3
+initial_RED: 1
+initial_GREEN: 1
+initial_BLUE: 1
+#   Sets the initial LED color of the Neopixel. Each value should be
+#   between 0.0 and 1.0. The default for each color is 0
+
+#####################################################################
+# 	Macros
+#####################################################################
+
+[gcode_macro G32]
+gcode:
+   NOZZLE_CLEAN
+   QUAD_GANTRY_LEVEL
+   NOZZLE_CLEAN
+   G28 Z0
+   G0 X175 Y175 Z10 F6000
+
+[gcode_macro PRINT_START]
+#   Use PRINT_START for the slicer starting script - please customize for your slicer of choice
+gcode:
+    G28 xyz ; go home
+	G32
+	G0 Y0 X0
+	G1 Z0.2 F500.0
+	G92 E0.0
+	
+	BED_MESH_PROFILE LOAD=hot ; Load Saved Mesh
+
+	G1 X80 E10 F500.0 ; intro line
+	G1 Z0.2
+
+	G92 E0.0
+
+	
+[gcode_macro PRINT_END]
+#   Use PRINT_END for the slicer ending script - please customize for your slicer of choice
+gcode:
+   M400                           ; wait for buffer to clear
+   G92 E0                         ; zero the extruder
+   G1 E-4.0 F3600                 ; retract filament
+   G91                            ; relative positioning
+   G0 Z1.00 X2.0 Y2.0 F20000    ; move nozzle to remove stringing
+   TURN_OFF_HEATERS
+   M107                           ; turn off fan
+   G1 Z5 F3000                    ; move nozzle up 5mm
+   G90                            ; absolute positioning
+   G0  X175 Y350 F3600            ; park nozzle at rear
+   M117 Finished!                 ; display message
+
+[gcode_macro UNLOAD_FILAMENT]
+#   Extrusion lengths must be adjusted for your particular configuration before use
+gcode:
+   M83                            ; set extruder to relative
+   G1 E10 F300                    ; extrude a little to soften tip
+   G1 E-600 F1800                 ; retract filament completely
+   M82                            ; set extruder to absolute
+
+[gcode_macro LOAD_FILAMENT]
+#   Extrusion lengths must be adjusted for your particular configuration before use
+gcode:
+   M83                            ; set extruder to relative
+   G1 E300 F1800                  ; quickly load filament to down bowden
+   G1 E200 F300                    ; slower extrusion for hotend path
+   G1 E-5 F150                    ; prime nozzle with filament
+   M82                            ; set extruder to absolute
+
+[gcode_macro NOZZLE_BRUSH]
+gcode:
+    M117 Nozzle brushing...
+    G0 X287 Y350 F6000
+    G0 Z-1
+    G0 X327
+    G0 X287
+    G0 X327
+    G0 X287
+    G0 X327
+    G0 X287
+    G0 Z10
+
+[gcode_macro NOZZLE_CLEAN]
+gcode:
+    M117 Cleaning Nozzle...
+    G0 Z10
+    nozzle_brush
+    G0 Z10
+    M117
+
+#Pause/Resume Functionality
+[pause_resume]
+
+#Filament Sensor Testing.
+[filament_switch_sensor test]
+pause_on_runout: True
+switch_pin: !P1.25
+runout_gcode:
+ M118 Runout Event Detected
+ M600 X50 Y10 Z20
+ 
+[gcode_macro M600]
+default_parameter_X: 50
+default_parameter_Y: 10
+default_parameter_Z: 10
+gcode:
+ G91
+ G1 Z{Z}
+ G90
+ G1 X{X} Y{Y} F3000
+ G0 E-100 F4800
+	
+# Sensor Types
+#   "EPCOS 100K B57560G104F"
+#   "ATC Semitec 104GT-2"
+#   "NTC 100K beta 3950"
+#   "Honeywell 100K 135-104LAG-J01"
+#   "NTC 100K MGB18-104F39050L32" (Keenovo Heater Pad)
+#   "AD595"
+#   "PT100 INA826"
+
+
