@@ -26,5 +26,5 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | bryansj  | [PrusaSlicer Bed Models and Textures for 250, 300, and 350](./PrusaSlicer/bryansj/beds_and_textures) | Voron Custom Bed and Texture files for your PrusaSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [KISSlicer Bed Models for 250, 300, and 350](./KISSlicer/bryansj/beds) | Voron Custom Bed files for your KISSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Cura Bed Models for 250, 300, and 350](./Cura/bryansj/beds) | Voron Custom Bed files for your Cura Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| IamPerrine  | [Prusa SLicer PLA Config for V2.2 "Quality Settings"](./Prusaslicer/IamPerrine) | Made this from scratch, has edits to the accels to get quality and speed. Voron has Annex Engineering Mods | :x: | :grey_question: | :heavy_check_mark: |
+| IamPerrine  | [Prusa SLicer PLA Config for V2.2 "Quality Settings"](./PrusaSlicer/IamPerrine) | Made this from scratch, has edits to the accels to get quality and speed. Voron has Annex Engineering Mods | :x: | :grey_question: | :heavy_check_mark: |
 ---
