@@ -1,6 +1,7 @@
 ### Parts details
 
-- extruder_body: merge of original v6_toolhead_housing_rear and Afterburner extruder_body.
+- extruder_body_V6_: To mount E3D V6.
+- extruder_body_mosquito: To mount Mosquito
 - extruder_motor_plate: height changed from original Afterburner extruder_motor_plate to avoid the crankshaft of the motor touch  the filament
 - [a]_toolhead_front_plate: remix of original v1.6 front plate to fit new extruder body and motor plate
 
@@ -9,7 +10,8 @@
 From Voron 1.6.2 STL:
 - v6_+_mosquito_cooling_fan_duct_left
 - v6_+_mosquito_cooling_fan_duct_right
-- v6_toolhead_housing_front
+- v6_toolhead_housing_front (for V6)
+- mosquito_toolhead_housing_front (for Mosquito)
 
 From Afterburner STL:
 
