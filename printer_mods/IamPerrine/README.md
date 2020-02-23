@@ -1,5 +1,5 @@
 Magnet Panel Mounts with a pre insert magnet base. .stl files for my parts as well as .step files. 
-Credit to Cerulean on the Annex Discord for getting the magent frame part made, and my panel mounts are based on their original mount. 
+Credit to Cerulean on the Annex Discord for getting the magnet frame part made, and my panel mounts are based on their original mount. 
 
 Magnets used: https://smile.amazon.com/gp/product/B077BWCC8D/ref=ppx_yo_dt_b_asin_title_o03_s00?ie=UTF8&psc=1
 
