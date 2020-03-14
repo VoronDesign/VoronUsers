@@ -5,13 +5,15 @@
 ![Installed](img/installed.jpg)
 
 ## Overview
-Do you like ABS smell in your room? I don't. That's why I designed Turbocharger - alternative fumes extractor for Voron. The main idea was to keep it cheap, simple, compact, effective and compatible with the stock Voron exhaust design. Unlike the stock design, no carbon filter elements were used, cause they are not effective. Exhaust should be connected to the ventilation system or somehow routed outside. Interesting idea how to do that is [here](https://www.thingiverse.com/thing:4148187). That is drop-in replacement, no other modifications to printer design are needed.
+Do you like ABS smell in your room? I don't. That's why I designed Turbocharger - alternative fumes extractor for Voron. The main idea was to keep it cheap, simple, compact, effective and compatible with the stock Voron exhaust design. Unlike the stock design, no carbon filter elements were used. Exhaust should be connected to the ventilation system or somehow routed outside. Interesting idea of how to do that is [here](https://www.thingiverse.com/thing:4148187). 
+
+This mod is a drop-in replacement, no other modifications to printer design are needed.
 
 ## BOM
 * 1x 120x25mm fan
 * 4x M3x30 Socket head screws
 * 4x M3 Washers
-* 4x [M3xD5xL6 Heat inserts](https://aliexpress.ru/item/4000232858343.html)
+* 6x [M3xD5xL6 Heat inserts](https://aliexpress.com/item/4000232858343.html)
 * 5mm wide VHB tape
 * 5mm wide Foam tape (optional - if you want to seal fan duct)
 * Adhesive silicone sealant or similar
@@ -19,7 +21,7 @@ Do you like ABS smell in your room? I don't. That's why I designed Turbocharger 
 * 70-90mm clamp for 80mm hose / 90-110mm clamp for 100mm hose
 
 ## Printing instructions
-The model was designed around 0.6mm line width and 0.2mm layer height, no supports required. Adjust your slicer settings accordingly. The trickiest part to print is [fan_duct.stl](./fan_duct.stl) because of 30° overhang. Use enough cooling, otherwise the upper part could warp/deform. Two hose adapters is included - for 80mm and for 100mm hoses respectively. Choose one that fit your hose. If you need other diameter - just drop me PM.
+The model was designed around 0.6mm line width and 0.2mm layer height, no supports required. Adjust your slicer settings accordingly. The trickiest part to print is [fan_duct.stl](./fan_duct.stl) because of 30° overhang. Use enough cooling, otherwise the upper part could warp/deform. Two hose adapters are included - for 80mm and for 100mm hoses respectively. Choose one that fit your needs. If you need other diameter - just drop me PM.
 
 ## Installation instructions
 1. Apply VHB tape to the base and mount it onto the back panel of printer.
@@ -51,7 +53,7 @@ gcode_id: T1
 ```
 To set desired chamber temperature level use the following external gcode command: `SET_TEMPERATURE_FAN_TARGET temperature_fan=ehxaust_fan target=<desired chamber temp>`. The command `SET_TEMPERATURE_FAN_TARGET temperature_fan=ehxaust_fan target=0` turns off the fan completely.
 
-Alternatively if no chamber temperature sensor is installed then exhaust fan could be configured as heater fan:
+Alternatively if no chamber temperature sensor is installed the exhaust fan could be configured as a heater fan:
 ```
 [heater_fan exhaust_fan]
 pin: z:P2.4
