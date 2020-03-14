@@ -13,7 +13,7 @@ This mod is a drop-in replacement, no other modifications to printer design are 
 * 1x 120x25mm fan
 * 4x M3x30 Socket head screws
 * 4x M3 Washers
-* 4x [M3xD5xL6 Heat inserts](https://aliexpress.ru/item/4000232858343.html)
+* 4x [M3xD5xL6 Heat inserts](https://aliexpress.com/item/4000232858343.html)
 * 5mm wide VHB tape
 * 5mm wide Foam tape (optional - if you want to seal fan duct)
 * Adhesive silicone sealant or similar
@@ -53,7 +53,7 @@ gcode_id: T1
 ```
 To set desired chamber temperature level use the following external gcode command: `SET_TEMPERATURE_FAN_TARGET temperature_fan=ehxaust_fan target=<desired chamber temp>`. The command `SET_TEMPERATURE_FAN_TARGET temperature_fan=ehxaust_fan target=0` turns off the fan completely.
 
-Alternatively if no chamber temperature sensor is installed then exhaust fan could be configured as heater fan:
+Alternatively if no chamber temperature sensor is installed the exhaust fan could be configured as a heater fan:
 ```
 [heater_fan exhaust_fan]
 pin: z:P2.4
