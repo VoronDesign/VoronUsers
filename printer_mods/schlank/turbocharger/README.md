@@ -5,7 +5,7 @@
 ![Installed](img/installed.jpg)
 
 ## Overview
-Do you like ABS smell in your room? I don't. That's why I designed Turbocharger - alternative fumes extractor for Voron. The main idea was to keep it cheap, simple, compact, effective and compatible with the stock Voron exhaust design. Unlike the stock design, no carbon filter elements were used, cause they are not effective. Exhaust should be connected to the ventilation system or somehow routed outside. Interesting idea how to do that is [here](https://www.thingiverse.com/thing:4148187). 
+Do you like ABS smell in your room? I don't. That's why I designed Turbocharger - alternative fumes extractor for Voron. The main idea was to keep it cheap, simple, compact, effective and compatible with the stock Voron exhaust design. Unlike the stock design, no carbon filter elements were used. Exhaust should be connected to the ventilation system or somehow routed outside. Interesting idea of how to do that is [here](https://www.thingiverse.com/thing:4148187). 
 
 This mod is a drop-in replacement, no other modifications to printer design are needed.
 
