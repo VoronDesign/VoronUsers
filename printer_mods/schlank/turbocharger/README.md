@@ -21,7 +21,7 @@ This mod is a drop-in replacement, no other modifications to printer design are 
 * 70-90mm clamp for 80mm hose / 90-110mm clamp for 100mm hose
 
 ## Printing instructions
-The model was designed around 0.6mm line width and 0.2mm layer height, no supports required. Adjust your slicer settings accordingly. The trickiest part to print is [fan_duct.stl](./fan_duct.stl) because of 30° overhang. Use enough cooling, otherwise the upper part could warp/deform. Two hose adapters is included - for 80mm and for 100mm hoses respectively. Choose one that fit your hose. If you need other diameter - just drop me PM.
+The model was designed around 0.6mm line width and 0.2mm layer height, no supports required. Adjust your slicer settings accordingly. The trickiest part to print is [fan_duct.stl](./fan_duct.stl) because of 30° overhang. Use enough cooling, otherwise the upper part could warp/deform. Two hose adapters are included - for 80mm and for 100mm hoses respectively. Choose one that fit your needs. If you need other diameter - just drop me PM.
 
 ## Installation instructions
 1. Apply VHB tape to the base and mount it onto the back panel of printer.
