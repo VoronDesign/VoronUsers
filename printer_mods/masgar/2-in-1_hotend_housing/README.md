@@ -20,5 +20,6 @@ as per Voron specifications:
 	![1](./images/measures.png?raw=true "")
 
 
+### HOW TO MOUNT
 
 ![2](./images/Mouting_Scheme.png?raw=true "")
