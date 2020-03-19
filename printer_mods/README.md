@@ -35,6 +35,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | | [Befenybay Chain Anchors](./bryansj/Befenybay_Chain_Anchors) | Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | blamm   | [Blind Joint Drilling Jigs](./blamm/jigs) | Jigs to drill your blind joints in the right spot | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [HEPA Filter Housing](./blamm/hepa_filter) | HEPA Filter Housing for cheap Roomba filters | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Relay module bracket](./blamm/relay_bracket) | Relay module (4 channel) mount | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | cadriel | [Triangle Lab Filament Sensor Mount](./cadriel/triangle_lab_filament_sensor_mount) | Triange Lab filament sensor mounts | :grey_question: | :grey_question: | :heavy_check_mark: |
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chilicoke   | [Low Profile Exhaust Duct](./chilicoke/Low_profile_exhaust_duct_adapter) | Quick-release exhaust duct adapter that requires minumal rear spacing  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
