@@ -133,5 +133,6 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| xbst_ | [50cm PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
