@@ -64,6 +64,8 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
 |JaredC01 | [Mini 12864 Voron Knob](./JaredC01/Mini_12864_Voron_Knob) | Upgraded knob for Fystec Mini 12864 RGB LED Display | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Keystone Power Panel](./JaredC01/Keystone_Power_Panel)| Power Panel with 1 or 2 Keystone Jacks | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Mosfet Mounts](./JaredC01/Mosfet_Mounts)| Mosfet Mount for 4 or 6 Mosfets | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Jasperkm | [5mm panel mounting](./Jasperkm/5mm_panel_mounting)| Edited panel clips for 4mm panel + 1mm foam tape| :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Brush holder](./Jasperkm/Brush_holder)| Brush holder next to printbed | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Cable management](./Jasperkm/Cable_management)| Cable trunking and 2020 slot cover | :x: | :heavy_check_mark: | :heavy_check_mark: |
