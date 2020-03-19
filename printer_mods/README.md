@@ -109,6 +109,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
 | przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
+| schlank|[Turbocharger](./schlank/turbocharger) | Alternative fumes extraction solution | :x:|:heavy_check_mark: |:heavy_check_mark: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |Slidr | [Energy Chain](./Slidr/EnergyChain) | Alternative energie chain  | :grey_question: |:grey_question: |:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
