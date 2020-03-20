@@ -4,7 +4,7 @@
  * 350mm version used at least 21 links on X and Y
  * XY covers can be rescaled in the slicer to desired length
  * Z Beltchain End A might not work with stock V2.2, mine wasn't exactly stock
- * As an upgrade to the original design, these have a cut at the side of each link. Seger pliers can be used to create a gap to insert wires without needing to take the whole think apart.
+ * As an upgrade to the original design, these have a cut at the side of each link. Seger pliers can be used to create a gap to insert wires without needing to take the whole thing apart.
  
   ### Requirements
  * 6mm GT2 belt, steel core might be ideal
