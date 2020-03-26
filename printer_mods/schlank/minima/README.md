@@ -14,7 +14,7 @@ If you like minimalistic and simple design this mod is for you. Only two printed
 * Super-glue or similar
 
 ## Printing instructions
-The model is easy to print, no special tricks required. Use 0.4mm line with and 0.2 layer height when slicing the model, no cooling needed. Print base part in your main color, cover part in your accent color. New front skirts should also be printed, you can find them in the mod's folder. Choose the ones which will fit your printer's dimensions. If you use M3x8 screws print 4 spacers and use it instead of washers.
+The model is easy to print, no special tricks required. Use 0.4mm line with and 0.2 layer height when slicing the model, no cooling needed. Print base part in your main color, cover part in your accent color. New front skirts should also be printed, you can find them in the mod's folder. Choose the ones which will fit your printer. If you use M3x8 screws print 4 spacers and use them instead of washers.
 
 ## Installation instructions
 1. Glue cover to the base with super-glue.
