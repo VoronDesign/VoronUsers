@@ -1,0 +1,1 @@
+This is a modified plug panel designed to be used [with the RND 165-00057 mains filter with integrated switch sold bei Reichelt electronics.](https://www.reichelt.de/entstoerfilter-6-a-c14-snap-in-rnd-165-00057-p253031.html?&trstct=pos_0&nbc=1)
