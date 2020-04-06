@@ -119,6 +119,10 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Dial Indicator Fan Mount](./Sparreau) | Dial Indicator Fan Mount| :grey_question:| :grey_question:|:grey_question: |
 | |[Mains Plug Panel Parametric](./Sparreau) |Scalable mains plug panel with small modifications |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[Z Idler Frame Extra Tab](./Sparreau) |An extra tab added to the Z idler to prevent sagging / rotation | :x:|:heavy_check_mark: |:x: |
+| sporadic | [10x15 Chain Z Mounts](./sporadic/10x15_Chain_Z_Mounts) | End Z mounts for 10x15 Befenybay Drag Chain | :grey_question: | :heavy_check_mark: | :grey _question: |
+| | [30A Relay Mount](./sporadic/30A_Relay_Mount) | Mount for a 30A relay module available on Amazon | :grey_question: | :heavy_check_mark: | :grey _question: |
+| | [Dual RS-25 Mount](./sporadic/Dual_RS-25_Mount) | Dual mount for side by side RS-25 supplies | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Dual SKR 1.3 Mounts](./sporadic/Dual_SKR_1.3_Mount) | Dual mounts for side by side SKR 1.3 controllers with fan and fanless options  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 |Stephan |[M12 Probeholder](./Stephan/M12_probeholder) | Drop in replacement of the stock probe to a M12|:grey_question: |:heavy_check_mark: | :grey_question:|
 | |[BlTouch Mount](./Stephan/bltouch_mount) | Drop in replacement of the stock probe to a BLTouch|:grey_question: |:heavy_check_mark: | :grey_question:|
 |steve450 |[Corner Brackets](./steve450/Voron2.1) | Corner brackets preventing rotation of the extrusions, and stiffening the joints.  Also covers the Z-belt hole for improved aesthetics| :grey_question:| :heavy_check_mark:|:grey_question: |
