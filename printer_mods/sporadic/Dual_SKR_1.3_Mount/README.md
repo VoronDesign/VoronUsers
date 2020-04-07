@@ -10,7 +10,8 @@ These are a few Dual SKR 1.3 mounting options. These will fit on a 200mm bed, ho
 
 | Quantity | Description |
 |:--------:|-------------|
-| 0/4/8 | M3x16 SHCS |
+| 0/4/8 | M3x16 SHCS (size these for your fans, mine required 16mm) |
+| 8 | M3x8 SHCS (for mounting the boards, M3x6 will work as well |
 | 2 | M5x10 BHCS |
 | 2 | M5 T-nut |
 
