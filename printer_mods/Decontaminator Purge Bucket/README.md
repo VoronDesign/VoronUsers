@@ -7,9 +7,9 @@ It was also not removeable, making it a pain to reach behind and clean it out wi
 
 You will need the following:
 
--1x brass brush (I got the TriangleLabs brass/copper brush and cut it down to length).
--2x M3X8mm SHCS
--2x 6x3mm round magnets (optional)
+- 1x brass brush (I got the TriangleLabs brass/copper brush and cut it down to length).
+- 2x M3X8mm SHCS
+- 2x 6x3mm round magnets (optional)
 
 STLs are included here and CAD files as well if you wish to change the dimensions.
 
