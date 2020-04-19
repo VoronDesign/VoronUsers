@@ -2,8 +2,8 @@ This is a removeable purge bucket with a brush scrubber. I noticed that the curr
 
 It was also not removeable, making it a pain to reach behind and clean it out with a vacuum. So, this design aims to solve all that by:
 
-	1) Making a larger and deeper purge bucket to hold more filament gunk.
-	2) Purge bucket is removeable to and clips onto the brush scrubber with its geometry. Magnets are optional and help secure it further with the added benefit of a satisfying 'clip' sound when attached.
+1) Making a larger and deeper purge bucket to hold more filament gunk.
+2) Purge bucket is removeable to and clips onto the brush scrubber with its geometry. Magnets are optional and help secure it further with the added benefit of a satisfying 'clip' sound when attached.
 
 You will need the following:
 
