@@ -30,6 +30,9 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | | [Corner Panel Clip](./ArmyAg08/Panels)|Corner panel clip that fit 3mm or 1/8" panels with foam tape | :x:|:heavy_check_mark: | :heavy_check_mark:|
+| Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|
+| |[Serial Plate](./Badnoob/Serial_Plate) |Modified skirt piece to display your serial number|:x:|:x:|:heavy_check_mark:|
+| |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:x:|
 | bryansj   | [Rotated Pi Mount with Heatsink](./bryansj/RPi_Frame_with_Heatsink_90deg) | Raspberry Pi with Heatsink Frame for minimal channel width | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Keystone Jack Universal Skirt Insert](./bryansj/Keystone_Jack_Universal_Skirt_Insert) | Keystone Jack Insert to fit into any hexagonal hole in the skirt | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Befenybay Chain Anchors](./bryansj/Befenybay_Chain_Anchors) | Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
@@ -96,7 +99,10 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |masgar |[Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
 | |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
 | |[BTT SKR Mini v1.1 mounting frame](./masgar/BTT_SKR_Mini_v1.1_mounting_frame)   | Mounting frame for BigTreeTech SKR Mini v1.1 | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| |[2-in-1 hotend housing](./masgar/2-in-1_hotend_housing)   | Front/Rear toolhead housing for XCR3D/BTT/BIQU 2-in-1 hotend | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |meteyou |[Gcode Buttons](./meteyou/gcode_buttons) |Buttons in the skirt to execute gcode |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
+|mildw4ve |[Beltchain Remake](./mildw4ve/Beltchain_Remake) |Beltchain Remake for Voron 2.2| :x: | :x: | :heavy_check_mark:|
+| |[IR Probe Mount](./mildw4ve/IR_Probe_Mount_V2.2) |DUET IR Probe Mount| :x: | :x: | :heavy_check_mark:|
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
@@ -114,6 +120,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[PSU bracket](./randommen96/PSU_bracket/) | PSU AIO bracket for 5v, 12v and 24v |:grey_question: | :grey_question: |:heavy_check_mark: |
 | |[Raspi cam mount](./randommen96/Raspi_cam_mount/) | Cam mount for alie raspi cams |:grey_question: | :grey_question: |:heavy_check_mark: |
 | schlank|[Turbocharger](./schlank/turbocharger) | Alternative fumes extraction solution | :x:|:heavy_check_mark: |:heavy_check_mark: |
+| |[Minima](./schlank/minima) | Minimalistic Fysetc Mini12864 display mount | :x:|:grey_question:|:heavy_check_mark: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |Slidr | [Energy Chain](./Slidr/EnergyChain) | Alternative energie chain  | :grey_question: |:grey_question: |:heavy_check_mark: |
 |Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
