@@ -115,6 +115,10 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
 | przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
+|Randommen96 | [LCD bracket extended](./randommen96/LCD_bracket_extended/) | LCD bracket extended for 6mm panels | :grey_question: | :grey_question: | :heavy_check_mark: |
+| |[Led strip mount DIODER](./randommen96/Led_strip_mount_DIODER/) | Led strip mount for Ikea Dioder |:grey_question: | :grey_question: |:heavy_check_mark: |
+| |[PSU bracket](./randommen96/PSU_bracket/) | PSU AIO bracket for 5v, 12v and 24v |:grey_question: | :grey_question: |:heavy_check_mark: |
+| |[Raspi cam mount](./randommen96/Raspi_cam_mount/) | Cam mount for alie raspi cams |:grey_question: | :grey_question: |:heavy_check_mark: |
 | schlank|[Turbocharger](./schlank/turbocharger) | Alternative fumes extraction solution | :x:|:heavy_check_mark: |:heavy_check_mark: |
 | |[Minima](./schlank/minima) | Minimalistic Fysetc Mini12864 display mount | :x:|:grey_question:|:heavy_check_mark: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
