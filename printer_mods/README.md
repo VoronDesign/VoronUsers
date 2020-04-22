@@ -92,7 +92,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 |Koios |[Front Panel Locks](./Koios/6mm_Glass) |Front panel locks for 6mm tempered glass panels | :x: | :heavy_check_mark: | :grey_question:|
 | |[Logitech C920 Mount](./Koios) |Mount for C920 secured to the top front extrusion |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 | |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
-|Kruppes |[V0 Printed Deck with inserts](./Kruppes/V0/Deck_Panel_V0_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:x: |:x: |:x: |
+|Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:x: |:x: |:x: |
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
 |masgar |[Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
 | |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
