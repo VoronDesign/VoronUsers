@@ -5,6 +5,8 @@ It was also not removeable, making it a pain to reach behind and clean it out wi
 1) Making a larger and deeper purge bucket to hold more filament gunk.
 2) Purge bucket is removeable to and clips onto the brush scrubber with its geometry. Magnets are optional and help secure it further with the added benefit of a satisfying 'clip' sound when attached.
 
+The geometry of the brush_holder is such that it clips and holds the brush in place through friction fit. As noted in the installation guide, do not try to force the brush in if it's the wrong size; it will break quite easily.
+
 You will need the following:
 
 - 1x brass brush (I got the TriangleLabs brass/copper brush and cut it down to length).
@@ -13,4 +15,6 @@ You will need the following:
 
 STLs are included here and CAD files as well if you wish to change the dimensions.
 
-Refer to the installation guide for pictures and further details.
+Below is an installation guide:
+
+![Installation_Guide](https://github.com/edwardyeeks/VoronUsers/blob/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket/Installation_Guide.png)
