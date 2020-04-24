@@ -52,6 +52,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Alternative Z Chain](./Danowar/AltZChain)|Alternative mounting for Z-Axis zipchain|:x:  |:heavy_check_mark:  | :heavy_check_mark: |
 | daveidmx| [30mm Fan Adapter](./daveidmx/VORON2)|30mm Fan Adapter | :grey_question:| :grey_question:|:grey_question: |
 |Dunar |[Panel Rest](./Dunar/Panel_Rest) | External panel holder | :heavy_check_mark: |:heavy_check_mark:  |:heavy_check_mark:  |
+|edwardyeeks| [Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) | Removeable purge bucket | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 |etherwalker |[Pi Zero Camera Mount](./etherwalker/Pi_Zero_Camera_Mount) | Pi Zero Camera Mount| :grey_question:| :grey_question:|:grey_question: |
 |exquyre |[Anet 12864 Display](./exquyre/Anet_12864_display) | Case for Anet 12864 LCD display|:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[LED Bar Mount](./exquyre/LED_bar_mount) |Mount for 12V LED bars to the top extrusions |:grey_question: | :heavy_check_mark:|:heavy_check_mark: |
