@@ -59,6 +59,7 @@ If your mod is lacking a column in the compatibility matrix, feel free to submit
 | |[Cable Cover Insert](./exquyre/cable_cover) |Room for 3-4 20AWG wires | :grey_question:| :grey_question:|:grey_question: |
 | |[Einsy + RAMPS Combo](./exquyre/einsy+ramps) |Mounting bracket for 1 Einsy and 1 RAMPs |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |FHeilmann |[Voron 2.1 5mm Parts](./FHeilmann/VORON2.1_5mm_parts) |Parts modified for extrusions with 5mm gap. |:x: |:heavy_check_mark: | :x:|
+| |[Voron 2.4 5mm Parts](./FHeilmann/VORON2.4_5mm_parts) |Parts modified for extrusions with 5mm gap. |:x: |:x: | :x:|
 | Fulg| [PanelDue5 LCD Mount](./Fulg/VORON2/PanelDue5)|Mount for the PanelDue5 LCD display |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |GSL12 |[WAGO 221 Mounts](./GSL12/wago_221_mount)   | Wago 221 mounts for the electronics bay |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |Gamsche | [Keystone Skirt Panel](./Gamsche/skirt_keystone)| 25mm skirt panel with integrated keystone jack.  Use with 50mm smaller adjacent skirts for proper fit. |:grey_question: |:grey_question: |:heavy_check_mark:|
