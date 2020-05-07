@@ -2,9 +2,9 @@
 
 This directory contains VoronUser mods that were submitted for earlier versions of the Voron line of printers:
 
-Voron 2.1
-Voron 2.2
-Voron 1.6
+- Voron 2.1
+- Voron 2.2
+- Voron 1.6
 
 ## Updating a mod
 
