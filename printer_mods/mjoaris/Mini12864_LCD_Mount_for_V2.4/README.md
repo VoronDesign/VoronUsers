@@ -5,7 +5,7 @@
 ![Back cover](Images/LCD_BackCover.jpg)
 
 ## Overview
-This is a Fysetc Mini12864 LCD case for the Voron 2.4, inspired by [Schlank's Minima](https://github.com/schlnk/VoronUsers/blob/master/printer_mods/schlank/minima) case. The design integrates the aesthetics of the Minima, while it preserves the ability to swivel from underneath the frame extrusion.
+This is a Fysetc Mini12864 LCD case for the Voron 2.4, inspired by [Schlank's Minima](https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/schlank/minima) case. The design integrates the aesthetics of the Minima, while it preserves the ability to swivel from underneath the frame extrusion.
 
 ## BOM
 * 1x [Fysetc Mini12864 Display](https://www.aliexpress.com/item/32972382466.html)
