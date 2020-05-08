@@ -3,6 +3,12 @@
 Slicer Configurations for Voron 3D printers, separated by slicer.
 Remember to update this README when uploading new slicer configurations!
 
+## Legacy printers
+
+Configurations for legacy printers can be found [here](../legacy_printers/slicer_configurations). 
+If one of your configurations applies to a current generation Voron printer, contact the admins in 
+Discord to have your mod moved to this folder.
+
 ## Table structure
 
 Update the following table with the information about your mod:
@@ -15,16 +21,9 @@ like so:
 `
 | Creator | [Config Title](link) | Description | :x: | :x: | :x: |`
 
-## Updating the compatibility matrix
-
-If your mod is lacking a column in the compatibility matrix, feel free to submit a PR to get it updated!
-
 ---
 
-| Creator | Config title | Description | V1.6 | V2.1 | V2.2 |
-|---------|--------------|-------------|------|------|------|
-| bryansj  | [PrusaSlicer Bed Models and Textures for 250, 300, and 350](./PrusaSlicer/bryansj/beds_and_textures) | Voron Custom Bed and Texture files for your PrusaSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| | [KISSlicer Bed Models for 250, 300, and 350](./KISSlicer/bryansj/beds) | Voron Custom Bed files for your KISSlicer Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| | [Cura Bed Models for 250, 300, and 350](./Cura/bryansj/beds) | Voron Custom Bed files for your Cura Printer Profiles | :x: | :heavy_check_mark: | :heavy_check_mark: |
-| IamPerrine  | [Prusa SLicer PLA Config for V2.2 "Quality Settings"](./PrusaSlicer/IamPerrine) | Made this from scratch, has edits to the accels to get quality and speed. Voron has Annex Engineering Mods | :x: | :grey_question: | :heavy_check_mark: |
+| Creator | Config title | Description | V0 | V1.8 | V2.4 |
+| --- | --- | --- | --- | --- | --- |
+
 ---
