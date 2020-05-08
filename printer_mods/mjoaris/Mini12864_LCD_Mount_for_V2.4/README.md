@@ -64,4 +64,4 @@ Please refer to [klipper documentation](https://github.com/KevinOConnor/klipper/
 ## Questions
 Hit me up in Voron's [Discord](https://discord.gg/xgXWctB) if you have any questions.
 
-![CAD Model](Images/LCD_CAD.jpg)
+![CAD Model](Images/LCD_CAD.png)
