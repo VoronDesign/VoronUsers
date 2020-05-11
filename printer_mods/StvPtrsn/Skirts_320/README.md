@@ -4,7 +4,7 @@ These bottom skirts have been modified to fit a 320mm build.
 
 One nice benefit is the extra 20mm provides just enough room to add a keystone jack to the filtered mains plug panel.
 
-What to print:
+What to print:<BR>
 If you use the standard plug_panel or the plug_panel_filtered_mains (without added keystone jack) then print all skirt STL's as indicated in their file names.
 
 If you use the filtered mains power plug and want a keystone jack spot then substitute in the 300mm build rear skirts.
