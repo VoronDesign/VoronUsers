@@ -18,4 +18,4 @@ Side View
 Rear View
 <img src="https://github.com/stvptrsn/VoronUsers/blob/master/printer_mods/StvPtrsn/Skirts_320/Images/rear.jpg?raw=true">
 
-[Rear](images/rear.jpg)
+![Rear](images/rear.jpg)
