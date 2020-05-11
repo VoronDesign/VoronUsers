@@ -1,7 +1,7 @@
 ﻿# Car Hood Style Heater Bed Hinge System
 ![ ](./example.png)
 
-You will need these items before doing this mod:
+## Required Items
  - 350N Gas Piston with M8 threads (sometimes sold as car parts for hood and trunk)
  - 3x DIN Rail
  - 4x 625RS Bearings
@@ -17,8 +17,7 @@ You will need these items before doing this mod:
  - Hot Glue or Leather Adhesive (Bally for TR people)
  - Ability To Cut The Deck Panel
 
-You need to print these:
-
+## You need to print these
  - 6x DIN Mount
  - 2x Hinge A
  - 2x Hinge B
@@ -30,11 +29,23 @@ You need to print these:
 If you want the magnetic front piece, print one of each; Extrusion Spacer, Front A, Front B
 If you DON'T want the magnetic front piece, print 2 of; Front OB Spacer
 
-# Instructions
-- 
+## Instructions
+- (Opt.) Mount Extrusion Spacer between the bed extrusions under the bed using M5 tnuts and screws
+- Insert the bearings to Hinge A
+- Attach Hinge As to bed extrusions with M5 screws.
+- Cut to size and attach the 5mm shaft to Hinge B, going through Hinge A, to Hinge C. You will have to use heat, this is to ensure a tight fit.
+- (Drag chain)
+- Mount the hinges to the rear extrusions using M5 Tnuts and screws
+- Add M8 nuts to the both ends of the piston, and insert them into the Big Piston Parts, hot glue to secure the nuts, they won't have a chance to move anyway
+- Open the bed as far as possible, and mount the piston assembly in this position. Use M5 tnuts and screws
+- Cut the deck panel in 2, and a cutout for the piston
+- Attach the Z covers with VHB tape to the panels
+- Attach the DIN rails to mounts using M5 screws, nuts, and washers
+- (opt.) Put the magnets in the slots of Front A and B
+- (opt.) Attach Front A to the bed extrusions using M5 screws
+- (opt.) Mount Front B to front extrusion with M5 scres and tnuts
 
 
-
-# Youtube
+## Youtube
 Please consider subscribing to my YouTube channel for more projects like this:
 [https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg)
