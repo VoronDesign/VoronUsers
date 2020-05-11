@@ -1,6 +1,8 @@
 ﻿# Car Hood Style Heater Bed Hinge System
 ![ ](./example.png)
 
+THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WILL BE ADDED TO THE OFFICIAL VORON USERS GITHUB.
+
 ## Required Items
  - 350N Gas Piston with M8 threads (sometimes sold as car parts for hood and trunk)
  - 3x DIN Rail
