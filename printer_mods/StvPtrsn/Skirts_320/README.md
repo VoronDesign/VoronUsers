@@ -4,5 +4,11 @@ These bottom skirts have been modified to fit a 320mm build.
 
 One nice benefit is the extra 20mm provides just enough room to add a keystone jack to the filtered mains plug panel.
 
-Front View
+Front View (the awesome accented front panel by Mjoaris is shown but they work with the standard panel as well)
 <img src="https://github.com/stvptrsn/VoronUsers/blob/master/printer_mods/StvPtrsn/Skirts_320/Images/front.jpg?raw=true">
+
+Side View
+<img src="https://github.com/stvptrsn/VoronUsers/blob/master/printer_mods/StvPtrsn/Skirts_320/Images/side.jpg?raw=true">
+
+Rear View
+<img src="https://github.com/stvptrsn/VoronUsers/blob/master/printer_mods/StvPtrsn/Skirts_320/Images/rear.jpg?raw=true">
