@@ -1,6 +1,6 @@
 This mount is for some 50 cm PCB LEDs I found online. I have no idea if this is a common form factor or not but it is available on at least 3 stores here so I think it is.
 
-![ ](./example.jpg)
+![ ](./example.JPG)
 
 I am using this 24V Samsung module for this purpose. [Link (in Turkish, but you can use for comparing): https://www.iled.com/urun/3000k-2835-smd-samsung-led-bar-ic-mekan-35-led-24v-50cm ]
 
