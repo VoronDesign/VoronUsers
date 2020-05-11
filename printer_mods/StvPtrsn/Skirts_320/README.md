@@ -2,12 +2,9 @@
 
 These bottom skirts have been modified to fit a 320mm build (frame footprint of 480mm x 480mm).
 
-One nice benefit is the extra 20mm provides just enough room to add a keystone jack to the filtered mains plug panel.
+If you use the standard rear plug panels (filtered mains or regular) then print the skirts as provided.
 
-What to print:<BR>
-If you use the standard plug_panel or the plug_panel_filtered_mains (without added keystone jack) then print all skirt STL's as indicated in their file names.
-
-If you use the filtered mains power plug and want a keystone jack spot then substitute in the 300mm build rear skirts.
+However, if you want to add a keystone jack to the filtered mains rear panel then print one each of the front_rear skirt and head over to my other mod for the rear skirts.
 
 Front View (the awesome accented front panel by <a href="https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/mjoaris/Mini12864_LCD_Mount_for_V2.4">Mjoaris</a> is shown but this works with the standard panel as well)
 ![Front View](Images/front.jpg)
