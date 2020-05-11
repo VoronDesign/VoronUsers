@@ -3,6 +3,12 @@
 Printer mods for Voron 3D printers
 Remember to update this README when uploading new mod!
 
+## Legacy printers
+
+Mods for legacy printers can be found [here](../legacy_printers/printer_mods). 
+If one of your mods applies to a current generation Voron printer, contact the admins in 
+Discord to have your mod moved to this folder.
+
 ## Table structure
 
 Update the following table with the information about your mod:
@@ -14,10 +20,6 @@ Update the following table with the information about your mod:
 like so:
 `
 | Creator | [Mod title](link) | Description | :x: | :x: | :x: |`
-
-## Updating the compatibility matrix
-
-If your mod is lacking a column in the compatibility matrix, feel free to submit a PR to get it updated!
 
 ---
 
