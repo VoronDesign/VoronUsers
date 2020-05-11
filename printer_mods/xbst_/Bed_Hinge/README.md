@@ -17,7 +17,7 @@
  - Hot Glue or Leather Adhesive (Bally for TR people)
  - Ability To Cut The Deck Panel
 
-## You need to print these
+## Printed Parts
  - 6x DIN Mount
  - 2x Hinge A
  - 2x Hinge B
