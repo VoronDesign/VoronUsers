@@ -27,6 +27,7 @@
  - 1x Big Piston B
 
 If you want the magnetic front piece, print one of each; Extrusion Spacer, Front A, Front B
+
 If you DON'T want the magnetic front piece, print 2 of; Front OB Spacer
 
 ## Instructions
