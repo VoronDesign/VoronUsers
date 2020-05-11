@@ -1,11 +1,11 @@
 ﻿# Car Hood Style Heater Bed Hinge System
-![ ](./1.png)
+![ ](./example.png)
 
 You will need these items before doing this mod:
  - 350N Gas Piston with M8 threads (sometimes sold as car parts for hood and trunk)
  - 3x DIN Rail
  - 4x 625RS Bearings
- - 4x 15*6*3 Neodymium Magnets (optional, for magnetic front)
+ - 4x 15 * 6 * 3 Neodymium Magnets (optional, for magnetic front)
  - ~60mm 5mm OD Shaft, And Cutting Equipment
  - M5*16mm Screws
  - M5*8mm Screws
