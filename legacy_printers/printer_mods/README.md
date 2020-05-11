@@ -151,5 +151,6 @@ like so:
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :grey_question: |:heavy_check_mark: |:heavy_check_mark: |
+| Xile | [AfterBurner Umbilical](./Xile) | Supports a umbilical setup, on AB, taking the strain off connectors | :grey_question: | :grey_question: | :x: |
 
 ---
