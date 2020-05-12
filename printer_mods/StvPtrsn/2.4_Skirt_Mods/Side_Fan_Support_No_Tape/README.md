@@ -1,6 +1,6 @@
 <B>Side Fan Supports with Integrated Fan Mounting</B>
 
-Without deviating from the original design this is what I came up with as an alternative to mounting the side fans with tape.
+Without deviating from the original design this is what I came up with as an alternative to mounting the side fans with tape. 
 
 Instructions for flush front using M2 hardware:<BR>
 Hardware required: 4x M2x16mm screws per fan and 3x M2x6mm per blank insert.
@@ -33,3 +33,5 @@ To mount a blank insert sandwich the mounting tabs between the 60mm_fan_grill_M3
 
 60mm_fan_emptygrill_M3 provided for those who prefer an unobstructed fan.
 ![Empty Grill](Images/no_grill_M3.jpg)
+
+<b>Note:</b> For those using the bottom panel a very slight trimming may be necessary around the fan locations.  They are shifted over by 1mm so depending on how well your panels fit it may or may not be necessary.
