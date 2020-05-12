@@ -30,4 +30,5 @@ like so:
 |Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |
 |mjoaris |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:grey_question: |:heavy_check_mark: |
+|StvPtrsn |[V2.4 Bottom Skirt Mods](./stvptrsn/2.4_Skirt_Mods) |Various modifications for the V2.4 bottom skirt |:x: |:x: |:heavy_check_mark: |
 ---
