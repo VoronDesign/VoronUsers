@@ -2,7 +2,7 @@
 
 Without deviating from the original design this is what I came up with as an alternative to mounting the side fans with tape.
 
-Instructions for Flush front using M2 hardware:
+Instructions for flush front using M2 hardware:
 ![Side Fan Support Assembly](Images/side_fan_support.jpg)
 
 To mount a 60mm fan sandwich the mounting tabs on the side_fan_support between the fan_grill and fan.  Note the orientation of the grill, there are recesses for the mounting tabs.  Use fan_grill_washer with M2x16mm screws to secure the fan in place.  Take care not to overtighten or it will strip. Warning, these do break easily, I'd rather avoid using through bolts instead.  If you are gentle, this works. :)
