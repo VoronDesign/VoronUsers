@@ -5,12 +5,12 @@ THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WI
 
 ## Required Items
  - 350N Gas Piston with M8 threads (sometimes sold as car parts for hood and trunk)
- - 3x DIN Rail
+ - (2 to 4)x DIN Rail
  - 4x 625RS Bearings
  - 4x 15 * 6 * 3 Neodymium Magnets (optional, for magnetic front)
  - ~60mm 5mm OD Shaft, And Cutting Equipment
- - M5*16mm Screws
- - M5*8mm Screws
+ - M5 * 16mm Screws
+ - M5 * 8mm Screws
  - M5 Tnuts (any type)
  - M5 Nuts
  - M5 Washers
@@ -20,7 +20,7 @@ THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WI
  - Ability To Cut The Deck Panel
 
 ## Printed Parts
- - 6x DIN Mount
+ - (2x DIN Rail)x DIN Rail Mount
  - 2x Hinge A
  - 2x Hinge B
  - 2x Hinge C
