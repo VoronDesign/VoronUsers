@@ -15,3 +15,4 @@ To mount a blank insert sandwich the mounting tabs between the 60mm_fan_grill an
 ![Insert Back View](Images/insert2.jpg)
 
 60mm_fan_emptygrill provided for those who prefer an unobstructed fan.
+![Empty Grill](Images/no_grill.jpg)
