@@ -1,6 +1,8 @@
 ﻿# Car Hood Style Heater Bed Hinge System
 ![ ](./example.png)
 
+THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WILL BE ADDED TO THE OFFICIAL VORON USERS GITHUB.
+
 ## Required Items
  - 350N Gas Piston with M8 threads (sometimes sold as car parts for hood and trunk)
  - 3x DIN Rail
@@ -35,7 +37,6 @@ If you DON'T want the magnetic front piece, print 2 of; Front OB Spacer
 - Insert the bearings to Hinge A
 - Attach Hinge As to bed extrusions with M5 screws.
 - Cut to size and attach the 5mm shaft to Hinge B, going through Hinge A, to Hinge C. You will have to use heat, this is to ensure a tight fit.
-- (Drag chain)
 - Mount the hinges to the rear extrusions using M5 Tnuts and screws
 - Add M8 nuts to the both ends of the piston, and insert them into the Big Piston Parts, hot glue to secure the nuts, once mounted they won't have a chance to move anyway
 - Open the bed as far as possible, and mount the piston assembly in this position. Use M5 tnuts and screws
