@@ -1,5 +1,5 @@
 ﻿# Car Hood Style Heater Bed Hinge System
-![ ](./pictures/result.jpg)
+![ ](./Pictures/result.jpg)
 
 THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WILL BE ADDED TO THE OFFICIAL VORON USERS GITHUB.
 
@@ -18,7 +18,7 @@ THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WI
  - Ability To Cut The Deck Panel
 
 ## Choosing The Right Gas Spring
-![ ](./piston.jpg)
+![ ](./Pictures/piston.jpg)
 
 You will need a powerful gas spring. I couldn't get away with a standard furniture style 100N gas spring, so I had to buy a 350N gas spring meant to be used as a car trunk/hood gas spring. The mounting hardware with the 350N gas spring wasn't compatible with our application, so I had to use the 100N gas spring's hardware and a corner bracket. As a result I decided to include aliexpress and Amazon US links, which look compatible but not tested by me. (if you test them, let me know so I remove this disclaimer) You only need one. You can use 2, but this will mean that you need to split the deck panel to 3, and do more cuts.
 
