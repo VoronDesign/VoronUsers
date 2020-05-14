@@ -24,6 +24,6 @@ like so:
 ---
 
 | Creator | Config title | Description | V0 | V1.8 | V2.4 |
-| --- | --- | --- | --- | --- | --- |
+| hijax_pl_ | [Simplify3D](hijax_pl/Simplify3D) | Bed images for Simplify3D | --- | --- | :heavy_check_mark:` |
 
 ---
