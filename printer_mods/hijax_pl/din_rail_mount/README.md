@@ -2,7 +2,8 @@
 
 ### Overview
 
-This is a mount for DIN RAIL in legacy v2.2 way
+This is a mount for DIN RAIL in legacy v2.2 way.
+Angled version can be used to attach DIN rail to the back of Voron.
 
 ### Print parameters
 
