@@ -5,7 +5,7 @@ THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WI
 
 ## Required Items
  - 2x 100N Gas Spring (More Details Below)
- - 2x-4x DIN Rail
+ - 3x DIN Rail
  - 6x 15 * 6 * 3 Neodymium Magnets
  - M5 * 12mm Screws
  - M5 * 8mm Screws
@@ -17,7 +17,7 @@ THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WI
  - Ability To Cut The Deck Panel
 
 ## Printed Parts
- - 4x-8x DIN Rail Mount
+ - 6x DIN Rail Mount
  - Extrusion Spacer
  - Front A
  - Front B
