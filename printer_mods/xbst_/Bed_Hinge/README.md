@@ -12,12 +12,12 @@ THIS IS IN BETA TESTING AT THE MOMENT. USE AT YOUR OWN RISK. ONCE TESTED THIS WI
  - M5 Tnuts (any type)
  - M5 Nuts
  - M5 Washers
- - 3M VHB Tape
+ - M3 * 20mm Scokethead Screws
+ - M3 Threaded Inserts (Same ones with the ones in Voron BOM)
  - Ability To Cut The Deck Panel
 
 ## Printed Parts
  - 4x-8x DIN Rail Mount
- - 2x Z Covers (4 pieces in total, stl includes 2)
  - Extrusion Spacer
  - Front A
  - Front B
