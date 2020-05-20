@@ -6,12 +6,12 @@ THIS IS STILL WIP! USE AT YOUR OWN RISK!
 If you are really impatient you can print DIN Rail Mount & Deck Panel Holder & Extrusion Spacer, as I don't expect any major changes to them (no promises), but DO NOT print Front A & Front B! There are constant changes to these.
 
 ## Expected schedule (no promises)
-22 May - Demo Video (Voron v2 Ep. 10)
-24 May - Finalized STL Files
-25 May - CAD Files & Sourcing Info
-27 May - Written Assembly Guide
-29 May - Assembly Guide Video
-30 May - Pull Request Creation to Voronusers Github
+- 22 May - Demo Video (Voron v2 Ep. 10)
+- 24 May - Finalized STL Files
+- 25 May - CAD Files & Sourcing Info
+- 27 May - Written Assembly Guide
+- 29 May - Assembly Guide Video
+- 30 May - Pull Request Creation to Voronusers Github
 
 ## Required Items
  - 2x 80N Gas Spring (More Details Below)
