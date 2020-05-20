@@ -8,8 +8,8 @@ If you are really impatient you can print DIN Rail Mount & Deck Panel Holder & E
 ## Expected schedule (no promises)
 - 22 May - Demo Video (Voron v2 Ep. 10)
 - 24 May - Finalized STL Files
-- 25 May - CAD Files & Sourcing Info
-- 27 May - Written Assembly Guide
+- 26 May - Sourcing Info
+- 28 May - Written Assembly Guide
 - 29 May - Assembly Guide Video
 - 30 May - Pull Request Creation to Voronusers Github
 
