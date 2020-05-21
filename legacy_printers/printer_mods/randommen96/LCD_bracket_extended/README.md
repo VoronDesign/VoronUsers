@@ -1,0 +1,2 @@
+Mirror the short swingarm, and print in both normal and mirrored position.
+Should be fit perfect when using 3mm panels + 3mm foam tape, it touches the panel slightly, but is able to tilt completely horizontal as it should.
