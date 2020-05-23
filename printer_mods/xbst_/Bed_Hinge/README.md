@@ -2,9 +2,9 @@
 ![ ](./Pictures/result.gif)
 
 ## Expected schedule (no promises)
-28 May - Written Assembly Guide
-29 May - Assembly Guide Video
-30 May - Pull Request Creation to Voronusers Github
+- 28 May - Written Assembly Guide
+- 29 May - Assembly Guide Video
+- 30 May - Pull Request Creation to Voronusers Github
 
 ## BOM & Sourcing
 https://docs.google.com/spreadsheets/d/17iGjLaINq1emLhjoon75Gi_NTW4J83VRybP41qbxQuU/edit?usp=sharing
