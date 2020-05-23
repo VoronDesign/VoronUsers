@@ -9,13 +9,6 @@
 ## BOM & Sourcing
 https://docs.google.com/spreadsheets/d/17iGjLaINq1emLhjoon75Gi_NTW4J83VRybP41qbxQuU/edit?usp=sharing
 
-## Printed Parts
- - 6x DIN Rail Mount
- - 4x Deck Panel Holder
- - Extrusion Spacer
- - Front A
- - Front B
- 
  ## Choosing The Right Gas Spring
 ![ ](./Pictures/piston.jpg)
 
