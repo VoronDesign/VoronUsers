@@ -1,4 +1,4 @@
-﻿# Car Hood Style Heater Bed Hinge System
+﻿# Car Hood Style Heatbed Hinge System
 ![ ](./Pictures/result.gif)
 
 ## Expected schedule (no promises)
