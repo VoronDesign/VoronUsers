@@ -1,20 +1,15 @@
 ﻿# Car Hood Style Heater Bed Hinge System
 ![ ](./Pictures/result.gif)
 
-## Expected schedule (no promises)
-- 28 May - Written Assembly Guide
-- 29 May - Assembly Guide Video
-- 30 May - Pull Request Creation to Voronusers Github
-
 ## BOM & Sourcing
-https://docs.google.com/spreadsheets/d/17iGjLaINq1emLhjoon75Gi_NTW4J83VRybP41qbxQuU/edit?usp=sharing
+[Google Sheets BOM](https://docs.google.com/spreadsheets/d/17iGjLaINq1emLhjoon75Gi_NTW4J83VRybP41qbxQuU/edit?usp=sharing)
 
 ## Printed Parts
  - 6x DIN Rail Mount
  - 4x Deck Panel Holder
- - Extrusion Spacer
- - Front A
- - Front B
+ - 1x Extrusion Spacer
+ - 1x Front A
+ - 1x Front B
  
  ## Choosing The Right Gas Spring
 ![ ](./Pictures/piston.jpg)
@@ -26,8 +21,9 @@ Please know that most gas struts aren't rated above 50C, however I don't expect 
 You will also need 2 metal corner brackets, some screws, nuts and tnuts to attach. If you don't have any buy a few different styles, they are cheap, and are useful for many applications. In the picture above you can see how I attached a corner bracket to be able to mount the gas spring.
 
 ## Instructions
-Please read [MANUAL.md](./MANUAL.md) for more details.
+Video Instructions: [Youtube](https://youtu.be/YtxrM_qPr9c) *(live on 29 May 2020)*
+Written version: [MANUAL.pdf](./MANUAL.pdf)
 
 ## Youtube
 Please consider subscribing to my YouTube channel for more projects like this:
-[https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg)
+[Isik's Tech](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg)
