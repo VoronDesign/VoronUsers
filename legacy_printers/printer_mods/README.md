@@ -26,9 +26,7 @@ like so:
 |Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | | [Corner Panel Clip](./ArmyAg08/Panels)|Corner panel clip that fit 3mm or 1/8" panels with foam tape | :x:|:heavy_check_mark: | :heavy_check_mark:|
-| Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|
-| |[Serial Plate](./Badnoob/Serial_Plate) |Modified skirt piece to display your serial number|:x:|:x:|:heavy_check_mark:|
-| |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:x:|
+| Badnoob  |[Serial Plate](./Badnoob/Serial_Plate) |Modified skirt piece to display your serial number|:x:|:x:|:heavy_check_mark:|
 | bryansj   | [Rotated Pi Mount with Heatsink](./bryansj/RPi_Frame_with_Heatsink_90deg) | Raspberry Pi with Heatsink Frame for minimal channel width | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Keystone Jack Universal Skirt Insert](./bryansj/Keystone_Jack_Universal_Skirt_Insert) | Keystone Jack Insert to fit into any hexagonal hole in the skirt | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Befenybay Chain Anchors](./bryansj/Befenybay_Chain_Anchors) | Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount | :x: | :heavy_check_mark: | :heavy_check_mark: |
@@ -151,6 +149,6 @@ like so:
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :grey_question: |:heavy_check_mark: |:heavy_check_mark: |
-| Xile | [AfterBurner Umbilical](./Xile) | Supports a umbilical setup, on AB, taking the strain off connectors | :grey_question: | :grey_question: | :x: |
+| Xile | [AfterBurner Umbilical](./XIle) | Supports a umbilical setup, on AB, taking the strain off connectors | :grey_question: | :grey_question: | :heavy_check_mark: |
 
 ---

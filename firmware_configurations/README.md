@@ -27,6 +27,7 @@ like so:
 
 | Creator | Config title | Description | V0 | V1.8 | V2.4 |
 | --- | --- | --- | --- | --- | --- |
+| eddie  | [SKR 1.3 V2 Universal Config](./klipper/eddie) | Universal Config and Setup Guide for SKR 1.3 and V2 | :x: | :x: | :heavy_check_mark: |
 
 ---
 
@@ -34,5 +35,6 @@ like so:
 
 | Creator | Config title | Description | V0 | V1.8 | V2.4 |
 | --- | --- | --- | --- | --- | --- |
+| fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: |
 
 ---
