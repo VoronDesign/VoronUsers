@@ -20,6 +20,7 @@ Update the following table with the information about your mod:
 like so:
 `
 | Creator | [Mod title](link) | Description | :x: | :x: | :x: |`
+
 ---
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 |
