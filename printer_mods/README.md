@@ -43,6 +43,10 @@ like so:
 | | [Din Rail 2020 Holder](./tameike/DIN_Rail_2020_holder) | Attaching DIN Rails to 2020 | :x: | :grey_question: | :heavy_check_mark: |
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |
-| xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:grey_question: |:heavy_check_mark: |
+| xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |
+| | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |
+| | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |
+| | [DIN Mount Max31865](./xbst_/Max31865_DIN_Mount)| A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865 PT100 Board. | :x: | :heavy_check_mark: |:heavy_check_mark: |
+| | [Heatbed "Hood" Mod](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hing for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
 
 ---
