@@ -25,7 +25,7 @@ like so:
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 |
 | --- | --- | --- | --- | --- | --- |
-|Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|
+|Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strengthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |
@@ -48,6 +48,6 @@ like so:
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Max31865](./xbst_/Max31865_DIN_Mount)| A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865 PT100 Board. | :x: | :heavy_check_mark: |:heavy_check_mark: |
-| | [Heatbed "Hood" Mod](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hing for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
+| | [Heatbed "Hood" Mod](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hinge for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
 
 ---
