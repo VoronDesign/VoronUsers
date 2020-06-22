@@ -11,6 +11,3 @@ Print these in ABS, PLA warps with heat of the chamber.
 On a 350 voron 2.2 on the top extrusions you can mount 14 modules at once. Reduce as you go smaller.
 
 You will need 1 m3 screw and 1 m3 nut, along with 2 m5 screws and tnuts per module (use both holes, otherwise it may warp).
-
-You can see more on my YouTube channel:
-https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg
