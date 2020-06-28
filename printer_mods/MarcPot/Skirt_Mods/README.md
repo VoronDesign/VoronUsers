@@ -1,7 +1,7 @@
 # MarcPot Skirt Mods
 ![All Options](Images/all_skirt_mods.JPEG)
 
-**WARNING I HAVE NOT TESTED THE 250 and 350 VERSIONS. PLEASE TELL ME IF YOU DID AND I'LL EDIT THIS WARNING.
+**WARNING I HAVE NOT TESTED THE 250 and 350 VERSIONS. PLEASE TELL ME IF YOU DID AND I'LL EDIT THIS WARNING.**
 I have checked them all in my slicer and they sliced correctly.
 
 Also, if you think the keystones don't fit, try rotating them.
@@ -9,11 +9,11 @@ Also, if you think the keystones don't fit, try rotating them.
 These are my mods for the Voron V2.4 Skirts. They are modifications of [the official Voron V2.4 skirts](https://github.com/VoronDesign/Voron-2\STLs\VORON2.4\Skirts).
 
 ## BOM
-* M3x8 SHCS.
 * Keystone inserts.
 
-**OR
+**OR**
 
+* M3x8 SHCS.
 * [Hour Counter](https://aliexpress.com/item/33010541388.html?)
 
 ## Printing instructions
