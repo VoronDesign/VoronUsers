@@ -66,5 +66,10 @@ I've included my data in  temp_data.xlsx
 
 The data shows that Bad_Dragon did a better job than either the stock or stock with VHB tape.  Increasing the Hotend by 15 degrees only increased the tube temp by 3 degrees.
 
- The fan remained constant for all the tests **except** the test of the original shroud.  it could be heard speeding up starting around 6 minutes in. There is no control circuit on that fan...I think there was some kind of voltage drop on the 24V rail.  I don't know why it was only observed in one of the 4 tests.
-
+ The fan remained constant for all the tests **except** the test of the original shroud.  it could be heard speeding up starting around 6 minutes in. There is no control circuit on that fan...I think there was some kind of voltage drop on the 24V rail.  I don't know why it was only observed in one of the 4 tests.  Whatever is causing that is likely contributing to the jam issue.
+ 
+ #### What fan?
+ I'm using a winsinn "high performance" hydraulic bearing 24v fan.  I don't know the actual performance specs. its loud and does have a good amount of airflow (measured with my hand) thats all I can really say.  here is the amazon link
+ 
+ [Link to Winsinn fan on amazon](https://www.amazon.com/gp/product/B0757RPCN9)
+ 
