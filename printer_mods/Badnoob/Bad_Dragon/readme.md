@@ -24,7 +24,7 @@ I think this is because they were a little too close to the hotend.  the edge wo
 #### Materials needed
 * Spec Voron 2.4/V1.8
 * Dragon Hotend
-Print the new front STL, its a direct replacement for the stock piece.
+Print the new front and rear STLs, its a direct replacement for the stock piece.
 
 
 ### How and Why
@@ -32,7 +32,7 @@ Print the new front STL, its a direct replacement for the stock piece.
 
 #### Print cooling ducts
 To prevent the fan ducts from overheating, I cut the fan nozzles back, and at an angle.  this should both increase the distance between block and nozzle, and also increas the cross section thickness.  Finally a chamfer reduces the chance that an edge gets caught.
-![Comparing the outlets](Comparing_nozzles.png?raw=true)
+![Comparing the nozzles](Comparing_nozzles.png?raw=true)
 
 #### Hotend fan duct
 ![Original](Original.jpg?raw=true)
