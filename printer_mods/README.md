@@ -19,7 +19,7 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Mod title](link) | Description | :x: | :x: | :x: |`
+| Creator | [Mod title](link) | Description | :heavy_check_mark: | :x: | :x: |`
 
 ---
 
@@ -33,6 +33,11 @@ like so:
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |
 |Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |
+| Mak | [V0 Skirts with Voron Logo insert](./Mak/V0) | Redesigned skirt with a separate Voron logo insert - colourful! | :heavy_check_mark: | :x: | :x: |
+| Mak | [V0 Skirts access holes](./Mak/V0) | Standard skirts with a hole for allen key access | :heavy_check_mark: | :x: | :x: |
+| Mak | [Motor Separator Plate](./Mak/V0) | Blocks off the motors and RPi from the print chamber (credit to Weaslus for concept) | :heavy_check_mark: | :x: | :x: |
+| Mak | [Pocketwatch Latch Square Nut](./Mak/V0) | If your heatset inserts have straight ridges not spiral they may not hold well - this is an alternative part that takes a slot-in square nut instead | :heavy_check_mark: | :x: | :x: |
+| Mak | [Extrusion Tophat Attachments](./Mak/V0) | Feet for the extrusion tophat - friction fit into the V0 frame. Best printed in accent colour. | :heavy_check_mark: | :x: | :x: |
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |
