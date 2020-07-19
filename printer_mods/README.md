@@ -29,6 +29,7 @@ like so:
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |
 | Ellis |[Short Z Joints](./Ellis/Short_Z_Joints) |Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |
+| |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |
