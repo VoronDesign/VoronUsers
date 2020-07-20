@@ -7,9 +7,9 @@ The intent is to increase gantry stability by reducing the leverage on the Z bal
 This is only tested with microswitch XY endstops. There is no hall effect magnet slot, though you may be able to affix one to the upper right screw head.
 
 To use this mod, you will need:
-- 4x M5x30
-- 4x M5x20
-- 4x M3x20
+- 4x M5x30 SHCS/BHCS
+- 4x M5x20 BHCS
+- 4x M3x20 SHCS
 - 4x M5 nylon lock nuts <I>(optional*)</I>
 
 <I>* You can use standard M5 nuts as per the original config, however I prefer nylock nuts here.</I>
