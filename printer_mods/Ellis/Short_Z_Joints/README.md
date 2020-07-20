@@ -10,6 +10,9 @@ To use this mod, you will need:
 - 4x M5x30
 - 4x M5x20
 - 4x M3x20
+- 4x M5 nylon lock nuts <I>(optional*)</I>
+
+<I>* You can use standard M5 nuts as per the original config, however I prefer nylock nuts here.</I>
 
 <B>Side by Side</B>
 ![Side by Side](Images/Side-By-Side.png)
