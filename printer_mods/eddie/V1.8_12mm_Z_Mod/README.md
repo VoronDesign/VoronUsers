@@ -9,6 +9,3 @@ Finally, as the 12mm rods are thicker and are shifted towards the center of the 
 ![Overview](Images/12mm_Z_Mod.png)
 
 ![Cross_Section](Images/Cross_Section.png)
-
-![Top_View](Images/Top_View.png)
-
