@@ -6,9 +6,9 @@ Note that the top and bottom retainers shaft retainers are different--the top on
 
 Finally, as the 12mm rods are thicker and are shifted towards the center of the printer (to clear the side panels), the sideways bed extrusions that attach to the Z bearing blocks must be shorter by at least 6mm per side. If you are hand cutting the extrusions, consider cutting an extra 1-2mm off to allow clearance.
 
-![Overview](Images/12mm_Z_mod.jpg)
+![Overview](Images/12mm_Z_mod.png)
 
-![Cross_Section](Images/Cross_Section.jpg)
+![Cross_Section](Images/Cross_Section.png)
 
-![Top_View](Images/Top_View_.jpg)
+![Top_View](Images/Top_View_.png)
 
