@@ -15,9 +15,9 @@ You will need the following:
 
 STLs are included here and CAD files as well if you wish to change the dimensions.
 
-**UPDATED VERSION TO V2: Geometries hasve been adjusted to fit V2.4 bed (mainly around the M4 knurled nut). There is now a 250, 300 and 350mm purge bucket size so that the edge is flush with the bed for the OCDs. Slightly adjusted bolt hole to reduce gap between magnets and bolt heads.
+**UPDATED VERSION TO V2: Geometries have been adjusted to fit V2.4 bed (mainly around the M4 knurled nut). There is now a 250, 300 and 350mm purge bucket size so that the edge is flush with the bed for the OCDs. Slightly adjusted bolt hole to reduce gap between magnets and bolt heads.
 
-Now there's a sheet stop included in the brush holder and an individual one for the other extrusion. This will help to locate the spring steel sheet. The height of the stop is based of the V2.4 CAD; if it is too low or too high for you, feel free to reach out to me on Discord to let me know.
+Now there's an option where a sheet stop is designed in the brush holder and an individual one for the other extrusion. This will help to locate the spring steel sheet. The height of the stop is based of the V2.4 CAD; if it is too low or too high for you, feel free to reach out to me on Discord to let me know.
 
 NOTE: If you are using the z endstop from V2.2, there is a version of the stop that takes into account the locating bolt heads of the endstop. You can simply mirror the stop in your slicer if your endstop is on the other side of the extrusion. 
 
