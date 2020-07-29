@@ -9,12 +9,18 @@ The geometry of the brush_holder is such that it clips and holds the brush in pl
 
 You will need the following:
 
-- 1x brass brush (I got the TriangleLabs brass/copper brush and cut it down to length).
-- 2x M3X8mm SHCS
+- 1x brass brush or whatever you prefer (I got the TriangleLabs brass/copper brush and cut it down to length).
+- 2x M3X8mm SHCS (4x if you use the additional stop option)
 - 2x 6x3mm round magnets (optional)
 
 STLs are included here and CAD files as well if you wish to change the dimensions.
 
+**UPDATED VERSION TO V2: Geometries hasve been adjusted to fit V2.4 bed (mainly around the M4 knurled nut). There is now a 250, 300 and 350mm purge bucket size so that the edge is flush with the bed for the OCDs. Slightly adjusted bolt hole to reduce gap between magnets and bolt heads.
+
+Now there's a sheet stop included in the brush holder and an individual one for the other extrusion. This will help to locate the spring steel sheet. The height of the stop is based of the V2.4 CAD; if it is too low or too high for you, feel free to reach out to me on Discord to let me know.
+
+NOTE: If you are using the z endstop from V2.2, there is a version of the stop that takes into account the locating bolt heads of the endstop. You can simply mirror the stop in your slicer if your endstop is on the other side of the extrusion. 
+
 Below is an installation guide:
 
-![Installation_Guide](https://github.com/edwardyeeks/VoronUsers/blob/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket/Installation_Guide.png)
+![Installation_Guide](https://github.com/edwardyeeks/VoronUsers/blob/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket/Installation_Guide_v2.png)
