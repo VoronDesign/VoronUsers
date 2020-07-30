@@ -12,8 +12,10 @@ G1 H1 X355 F360       ; move slowly to X axis endstop once more (second pass)
 G1 H1 Y355            ; then move slowly to Y axis endstop
 G90				      ; absolute positioning
 G1 X207 Y304 F6000	  ; move above the endstop switch
-G1 H1 Z-305 F360      ; move Z down until the endstop is triggered
-G92 Z1.3              ; set Z position to axis minimum (you may want to adjust this)
+G1 H1 Z-305 F360      	; move Z down until the endstop is triggered
+G1 Z5 F1800			; go back a few mm
+G1 H1 Z-305 F180		; move slowly to Z axis endstop once more (second pass)
+G92 Z1.3            ; set Z position to axis minimum (you may want to adjust this)
 G1 Z10				  ; Raise some
 
 ; Uncomment the following lines to lift Z after probing
