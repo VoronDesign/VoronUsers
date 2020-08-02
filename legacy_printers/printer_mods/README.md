@@ -36,6 +36,9 @@ like so:
 | cadriel | [Triangle Lab Filament Sensor Mount](./cadriel/triangle_lab_filament_sensor_mount) | Triange Lab filament sensor mounts | :grey_question: | :grey_question: | :heavy_check_mark: |
 | Cerulean   | [Respooler](./Cerulean/Respooler) | Respool tangled spools or bad koils | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chilicoke   | [Low Profile Exhaust Duct](./chilicoke/Low_profile_exhaust_duct_adapter) | Quick-release exhaust duct adapter that requires minumal rear spacing  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
+| christophmuellerorg | [Duet Maestro mount for Voron 2.2](./christophmuellerorg/duet_maestro_frame_mount_skirt) |Duet Maestro mount for V2.2 | :x: | :grey_question: | :heavy_check_mark: |
+|  | [FYSETC Panel Due 5i](./christophmuellerorg/fysetc_panel_due_5_integrated_voron2.2_display_holder) |Standard LCD compatible holder for the FYSETC integrated panel due | :x: | :grey_question: | :heavy_check_mark: |
+|  | [Mains plug panel for the RND_165-00057](./christophmuellerorg/mains_plug_panel_for_RND_165-00057) | Mains plug panel for the RND_165-00057 Filter/Switch combination| :x: | :grey_question: | :heavy_check_mark: |
 |Danowar |[Dual Mobius Mount](./Danowar/Dual_Mobuis_Mount) | Mounts two Mobius Extruders to the back of the printer| :heavy_check_mark:| :heavy_check_mark:|:heavy_check_mark: |
 | |[F6 Board Mount](./Danowar/F6_Board_Mount) | Mounts for FYSETCS F6 controller boards|:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
 | |[Humidity Sensor Bracket](./Danowar/Humidity_Sensor_Bracket) |Mount for Humidity/Temperature sensor |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
