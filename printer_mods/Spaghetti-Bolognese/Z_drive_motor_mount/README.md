@@ -8,9 +8,9 @@ I found the problem was caused by the design of the tensioner which means there 
 ![](Small_key.JPG?raw=true)
 
 ### Simplified design
-I have simplified the design by combining the tensioner into the motor mount. Belt tensioning works by a small protrusion which pushes against the side of the Z drive housing. Assembly is surprisingly straightforward and the design matches the tension of the original design.
+I have simplified the design by combining the tensioner into the motor mount. Belt tensioning works by a small protrusion which pushes against the side of the Z drive housing (inspired by the original design). I have tried to keep the belt tension the same as is acheived in the original design. Assembly is surprisingly straightforward and cuts out a few of the steps required with a separate tensioning arm.
 
-Combining the tensioner into the motor mount has created space for the extrusion slot key to be extended across the entire face of the motor mount, allowing for the key to work effectively in aligning the motor mount squarely to the frame and ensuring that the motor pulley is aligned with the belt and 80T driven pulley.
+Combining the tensioner into the motor mount has created space for the extrusion slot key to be extended across the entire face of the motor mount, allowing for the key to work more effectively in aligning the motor mount squarely to the frame and ensuring that the motor pulley is aligned with the belt and 80T driven pulley.
 
 ![](Long_key.JPG?raw=true)
 
