@@ -1,4 +1,4 @@
-###Simplified Z Drive Motor Mount
+# Simplified Z Drive Motor Mount
 
 I have had issues with  alignment on the 188mm Z drive belts causing the belt to rub on the motor pulley. I found that the motor mount was difficult to align squarely with the frame and this was causing the pulley misalignment. I haven't noticed any print issues caused by this misalignment but it will prematurely wear the belts, not to mention that the rubbing noise is not something I'm happy to live with on a £1200 printer.
 
