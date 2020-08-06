@@ -1,0 +1,1 @@
+This is for mounting a Adafruit MAX31865 board (and SAME SIZE clone) to the DIN rails. You will also need the "pcb_din_clip_x3.stl" file included in the STL files for V2.4 (and V1.8, name may be different)
