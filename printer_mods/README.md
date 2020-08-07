@@ -29,7 +29,7 @@ like so:
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |
 |edwardyeeks |[Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) |Removeable purge bucket |:x: |:x: |:heavy_check_mark: |
-| [V2.4 Z Drive Motor Tensioner Mod](./edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Stiffened z-drive motor tensioning system |:x: |:x: |:heavy_check_mark: |
+| |[V2.4 Z Drive Motor Tensioner Mod](./edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Stiffened z-drive motor tensioning system |:x: |:x: |:heavy_check_mark: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |
