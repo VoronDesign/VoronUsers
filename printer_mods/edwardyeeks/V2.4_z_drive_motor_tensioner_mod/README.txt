@@ -13,3 +13,5 @@ Extra parts that you will need (2x per drive, therefore 8x in total):
 Tensioning process is the same as stock V2.4, with exception of needing to tighten down two more bolts once you are done. For the skirts, the hole placement for the bottom panel clips are shifted compared to the original. The bottom panel remains unchanged and does not need any tweaking.
 
 In the image, the heatset inserts are inserted from the top of the motor mount; you can easily installl this from the bottom as well.
+
+![Installation_Guide](https://github.com/edwardyeeks/VoronUsers/blob/v2.4_z_drive_tensioner_mod/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod/z_drive_mod.png)
