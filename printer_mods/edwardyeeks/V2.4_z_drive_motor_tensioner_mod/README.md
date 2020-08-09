@@ -14,4 +14,4 @@ Tensioning process is the same as stock V2.4, with exception of needing to tight
 
 In the image, the heatset inserts are inserted from the top of the motor mount; you can easily installl this from the bottom as well.
 
-![Installation_Guide](https://github.com/edwardyeeks/VoronUsers/blob/v2.4_z_drive_tensioner_mod/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod/z_drive_mod.png)
+![Installation_Guide](./z_drive_mod)

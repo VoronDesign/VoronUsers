@@ -1,4 +1,4 @@
-This is a removeable purge bucket with a brush scrubber. I noticed that the current brush scruber design of the Voron was not very effective at containing filament debris and bits.
+This is a removeable purge bucket with a brush scrubber. It is intended to work only with the V2 (2.4, 2.2 and 2.1). I noticed that the current brush scruber design of the Voron was not very effective at containing filament debris and bits.
 
 It was also not removeable, making it a pain to reach behind and clean it out with a vacuum. So, this design aims to solve all that by:
 
@@ -23,4 +23,4 @@ NOTE: If you are using the z endstop from V2.2, there is a version of the stop t
 
 Below is an installation guide:
 
-![Installation_Guide](https://github.com/edwardyeeks/VoronUsers/blob/voronusers_decontaminator_purge_bucket_port/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket/Installation_Guide_v2.png)
+![Installation_Guide](./Installation_Guide_v2.png)
