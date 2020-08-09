@@ -23,4 +23,4 @@ NOTE: If you are using the z endstop from V2.2, there is a version of the stop t
 
 Below is an installation guide:
 
-![Installation_Guide] (Installation_Guide_v2.png)
+![Installation_Guide] (./Installation_Guide_v2.png)
