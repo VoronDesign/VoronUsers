@@ -14,4 +14,4 @@ Tensioning process is the same as stock V2.4, with exception of needing to tight
 
 In the image, the heatset inserts are inserted from the top of the motor mount; you can easily installl this from the bottom as well.
 
-![Installation_Guide](./z_drive_mod)
+![Installation_Guide](./z_drive_mod.png)
