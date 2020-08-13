@@ -10,7 +10,7 @@ for a 3d printed deck.
 
 The tested version was printed on a Prusa 2.5 and standoffs were needed. 
 
-## Current Versikon
+## Current Version
 
 has not been tested but 'should' accept 8 and 10mm screws with square nuts without protruding into the deck surface. 
 
