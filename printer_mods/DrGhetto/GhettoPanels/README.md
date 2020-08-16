@@ -20,7 +20,7 @@ Plastic? The ghetto abides. Always gonna be _that_ guy that prints it in PEEK bu
 
 ## Alt parts
 
-The mount holes are slotted to deal with ABS shrink but but shrink is bad for integrate hinge alignment. Like duct tape on your AK, the ghetto has your back with remixes of the front right panel hinges ```panel_hinge_bottom.stl``` and ```panel_hinge_top.stl``` designed to fit standard ABS shrink. 
+The mount holes are slotted to deal with ABS shrink but but shrink is bad for hinge alignment. Like duct tape on your AK, the ghetto has your back with remixes of the front right panel hinges ```panel_hinge_bottom.stl``` and ```panel_hinge_top.stl``` designed to fit standard ABS shrink. 
 
 The right hand panel has two versions, ```panel_right_iec.stl``` has a cut-out for the commonly available\* switched and fused IEC power inlet, part number JR-101-1FRS. These are like eight bucks down under and they're officially ghetto approved. This part is for a 1mm (metal) panel so some silicone sealant is advised. As the hacker sage Naomi Wu once said, you can never have too much silicone. 
 
