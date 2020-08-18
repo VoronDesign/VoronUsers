@@ -6,7 +6,7 @@ Welcome to the VoronUsers github repository. This is a place to share your aweso
 Check the [`printer_mods`](./printer_mods) [`firmware_configurations`](./firmware_configurations) and [`slicer_configurations`](./slicer_configurations) folders for mods that apply to 
 the current generation of printers. All mods that apply to older (=legacy printers) can be found in the [legacy printers](./legacy_printers) folder.
 
-Check the ['documentation'](./documentation) folder for user contributed documentation.
+Check the [`documentation`](./documentation) folder for user contributed documentation.
 
 ![Image of Voron 2.2](http://vorondesign.com/images/voron2.4.jpg)
 
