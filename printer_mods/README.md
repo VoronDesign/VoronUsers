@@ -59,5 +59,6 @@ like so:
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Max31865](./xbst_/Max31865_DIN_Mount)| A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865 PT100 Board. | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Car Hood Style  Bed Hinge](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hing for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
+| hartk1213 | [Voron0_deck_panel_with_logo_and_VORON0](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |
 
 ---
