@@ -12,4 +12,4 @@ the following order after each print is finished just change filament and start 
 3. Voron0_deck_panel_with_logo_and_VORON0
  
 ##### Pictures
-![Printed Panel](images/deck_panel_printed.jpg)
+![Printed Panel](Images/deck_panel_printed.jpg)
