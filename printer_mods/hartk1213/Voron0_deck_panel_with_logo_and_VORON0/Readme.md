@@ -7,9 +7,9 @@ the easiest way i found to print it was to use simplify3d and select all the mod
 all the stls exactly where they need to go, once you do that you can just remove the parts you are not printing and slice each color separately. i ended up with 3 files and i printed them in 
 the following order after each print is finished just change filament and start the next print without removing first parts
 
--[b]_Voron0_deck_panel_0
--[a]_Voron0_deck_panel_ Logo
--Voron0_deck_panel_with_logo_and_VORON0
+1. [b]_Voron0_deck_panel_0
+2. [a]_Voron0_deck_panel_ Logo
+3. Voron0_deck_panel_with_logo_and_VORON0
  
 ##### Pictures
-![CAD](images/deck_panel_printed.jpg)
+![Printed Panel](images/deck_panel_printed.jpg)
