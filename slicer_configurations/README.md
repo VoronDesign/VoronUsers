@@ -26,4 +26,5 @@ like so:
 | Creator | Config title | Description | V0 | V1.8 | V2.4 |
 | --- | --- | --- | --- | --- | --- |
 | hijax_pl_ | [Simplify3D](./Simplify3D/hijax_pl/beds) | Bed images for Simplify3D | :x: | :x: | :heavy_check_mark: |
+| koonweee | [SuperSlicer Bed](./SuperSlicer/koonweee/beds) | Bed STL for SuperSlicer | :x: | :heavy_check_mark: | :x: |
 ---
