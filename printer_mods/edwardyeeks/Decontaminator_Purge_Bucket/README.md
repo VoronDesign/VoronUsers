@@ -32,4 +32,5 @@ Now there's an option where a sheet stop is designed in the brush holder and an 
 
 NOTE: If you are using the z endstop from V2.2, there is a version of the stop that takes into account the locating bolt heads of the endstop. You can simply mirror the stop in your slicer if your endstop is on the other side of the extrusion.
 
-- edwardyeeks (edwardyeeks#6042)
+
+-edwardyeeks (edwardyeeks#6042)
