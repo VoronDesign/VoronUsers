@@ -13,7 +13,7 @@ For this reason, this mod is entirely OPTIONAL. Perhaps consider it if you are s
 
 ![Installation_Guide](./z_drive_mod.png)
 
-<sub>\In the image, the heatset inserts are inserted from the top of the motor mount; you can easily install this from the bottom as well.</sub>
+<sub>\ In the image, the heatset inserts are inserted from the top of the motor mount; you can easily install this from the bottom as well.</sub>
 
 Extra parts that you will need (2x per drive, therefore 8x in total):
 
