@@ -19,7 +19,7 @@ Well, sure, you can print it in PEEK if you're _that_ guy.
 
 BOM:
 * 2 x M3 t-nuts
-* 2 x M3x12 SHCS screws
+* 4 x M3x12 SHCS screws
 * 2 x M3 heat inserts (4mm will do)
 
 Bolt your sensor to it, insert your PTFE tube to sensor's exit hole.  
