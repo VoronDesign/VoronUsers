@@ -9,11 +9,11 @@ Unfortunately, the skirt geometry changes, so you will have to reprint the front
 
 For this reason, this mod is entirely OPTIONAL. Perhaps consider it if you are starting a new build or you wish to improve over the current z drives and are willing to print more plastic.
 
-# Installation & Parts Required.
+## Installation & Parts Required.
 
 ![Installation_Guide](./z_drive_mod.png)
 
-<sub>\ In the image, the heatset inserts are inserted from the top of the motor mount; you can easily install this from the bottom as well.</sub>
+<sub> In the image, the heatset inserts are inserted from the top of the motor mount; you can easily install this from the bottom as well.</sub>
 
 Extra parts that you will need (2x per drive, therefore 8x in total):
 
