@@ -53,6 +53,11 @@ like so:
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |
+| |[Duet Wifi Mount](./Nomsplease/V0_Mods/duet_wifi_mount) | Duet wifi mount in pocketwatch location |:heavy_check_mark: |:x: |:x: |
+| |[LED Mounts](./Nomsplease/V0_Mods/led_mounts) | Basic LED mounts for 10 and 12mm strips |:heavy_check_mark: |:x: |:x: |
+| |[Remixed Panel Mounts](./Nomsplease/V0_Mods/panel_mounts) | Remixed rear bottom panel mounts with stop |:heavy_check_mark: |:x: |:x: |
+| |[Pi Cam/ZeroW Mount](./Nomsplease/V0_Mods/pi_zero_camera_mount) | Mount for pi camera and ZeroW |:heavy_check_mark: |:x: |:x: |
+| |[Pocket Watch Rear Reolcation Bracket](./Nomsplease/V0_Mods/pocket_watch_rear_relocation) | Pocket watch rear reolcation bracket |:heavy_check_mark: |:x: |:x: |
 |randell   |[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |
