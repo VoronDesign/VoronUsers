@@ -34,6 +34,7 @@ like so:
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: | 
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |
 |edwardyeeks |[Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) |Removeable purge bucket |:x: |:x: |:heavy_check_mark: |
+| |[V2.4 Z Drive Motor Tensioner Mod](./edwardyeeks/V2.4_Z_Drive_Motor_Tensioner_Mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |
