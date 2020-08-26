@@ -1,1 +1,0 @@
-STL for camera mount
