@@ -93,8 +93,7 @@ like so:
 | |[Logitech C920 Mount](./Koios) |Mount for C920 secured to the top front extrusion |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 | |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
-|masgar |[Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
-| |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
+|masgar |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
 | |[BTT SKR Mini v1.1 mounting frame](./masgar/BTT_SKR_Mini_v1.1_mounting_frame)   | Mounting frame for BigTreeTech SKR Mini v1.1 | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[2-in-1 hotend housing](./masgar/2-in-1_hotend_housing)   | Front/Rear toolhead housing for XCR3D/BTT/BIQU 2-in-1 hotend | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |meteyou |[Gcode Buttons](./meteyou/gcode_buttons) |Buttons in the skirt to execute gcode |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
