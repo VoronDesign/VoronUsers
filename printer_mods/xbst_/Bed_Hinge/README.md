@@ -22,8 +22,12 @@ You will also need 2 metal corner brackets, some screws, nuts and tnuts to attac
 
 ## Instructions
 Video Instructions: [Youtube](https://youtu.be/YtxrM_qPr9c) *(live on 29 May 2020)*
+<<<<<<< HEAD
+Written version: [MANUAL.pdf](./Manual.pdf)
+=======
 Written version: [MANUAL.pdf](./MANUAL.pdf)
 
 ## Youtube
 Please consider subscribing to my YouTube channel for more projects like this:
 [Isik's Tech](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg)
+>>>>>>> master
