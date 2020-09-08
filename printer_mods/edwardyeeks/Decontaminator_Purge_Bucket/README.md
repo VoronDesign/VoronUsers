@@ -14,7 +14,7 @@ It was also not removeable, making it a pain to reach behind and clean it out wi
 ## Installation & Parts Required
 
 ![Installation_Guide](./Images/Installation_Guide_rev3.png)
-<sub>\ Pictures shown are slightly older versions, however, installation is exactly the same. </sub>
+<sub>Pictures shown are slightly older versions, however, installation is exactly the same. </sub>
 
 The geometry of the brush_holder is such that it clips and holds the brush in place through friction fit. As noted in the installation guide, do not try to force the brush in if it's the wrong size; it will break quite easily.
 
