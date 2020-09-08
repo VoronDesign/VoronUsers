@@ -11,3 +11,5 @@ no supports needed
 
 ~Dario made a mod of this case to fit waveshare 7" type/model C rev2.2 and alowed me to share it. I don't have this screen to test the prints, so I cannot ensure that the STLs fit. 
 I renamed his files with the postfix \_c and renamed my parts for the model H screen with _h.
+
+The case for model H has three printed parts (Back, Mid and Front), the case for model C has two printed parts (Back and Front).
