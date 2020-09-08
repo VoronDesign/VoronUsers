@@ -49,7 +49,6 @@ like so:
 | |[Alternative Z Chain](./Danowar/AltZChain)|Alternative mounting for Z-Axis zipchain|:x:  |:heavy_check_mark:  | :heavy_check_mark: |
 | daveidmx| [30mm Fan Adapter](./daveidmx/VORON2)|30mm Fan Adapter | :grey_question:| :grey_question:|:grey_question: |
 |Dunar |[Panel Rest](./Dunar/Panel_Rest) | External panel holder | :heavy_check_mark: |:heavy_check_mark:  |:heavy_check_mark:  |
-|edwardyeeks| [Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) | Removeable purge bucket | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 |etherwalker |[Pi Zero Camera Mount](./etherwalker/Pi_Zero_Camera_Mount) | Pi Zero Camera Mount| :grey_question:| :grey_question:|:grey_question: |
 |exquyre |[Anet 12864 Display](./exquyre/Anet_12864_display) | Case for Anet 12864 LCD display|:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[LED Bar Mount](./exquyre/LED_bar_mount) |Mount for 12V LED bars to the top extrusions |:grey_question: | :heavy_check_mark:|:heavy_check_mark: |
@@ -94,8 +93,7 @@ like so:
 | |[Logitech C920 Mount](./Koios) |Mount for C920 secured to the top front extrusion |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 | |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
-|masgar |[Direct Drive for 1.6.2](./masgar/V1.6.2_direct_drive) | Remix of 1.6.2 toolhead and Afterburner | :heavy_check_mark: | :x: | :x: |
-| |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
+|masgar |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
 | |[BTT SKR Mini v1.1 mounting frame](./masgar/BTT_SKR_Mini_v1.1_mounting_frame)   | Mounting frame for BigTreeTech SKR Mini v1.1 | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[2-in-1 hotend housing](./masgar/2-in-1_hotend_housing)   | Front/Rear toolhead housing for XCR3D/BTT/BIQU 2-in-1 hotend | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |meteyou |[Gcode Buttons](./meteyou/gcode_buttons) |Buttons in the skirt to execute gcode |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
@@ -151,7 +149,6 @@ like so:
 | |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-| xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Xile | [AfterBurner Umbilical](./XIle) | Supports a umbilical setup, on AB, taking the strain off connectors | :grey_question: | :grey_question: | :heavy_check_mark: |
 
 ---
