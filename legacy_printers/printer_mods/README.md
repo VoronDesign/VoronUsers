@@ -100,7 +100,7 @@ like so:
 |mildw4ve |[Beltchain Remake](./mildw4ve/Beltchain_Remake) |Beltchain Remake for Voron 2.2| :x: | :x: | :heavy_check_mark:|
 | |[IR Probe Mount](./mildw4ve/IR_Probe_Mount_V2.2) |DUET IR Probe Mount| :x: | :x: | :heavy_check_mark:|
 |Nashuar |[IKEA LEDBERG Spot Mount](./Nashuar/LEDBERG_LED_Mount) |LED Spot mount for IKEA LEDBERG |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
-| |[WaveShare 7" Screen Mount](.Nashuar/7.0-WaveShare_Screen) |Display Case for 7" Waveshare LCD |:grey_question: |:grey_question: |:heavy_check_mark: |
+| |[WaveShare 7" Screen Mount](./Nashuar/7.0-WaveShare_Screen) |Display Case for 7" Waveshare LCD |:grey_question: |:grey_question: |:heavy_check_mark: |
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
