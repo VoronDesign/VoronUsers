@@ -31,8 +31,8 @@ like so:
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |
-|DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: | 
-| |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: | 
+|DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |
+| |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |
 |edwardyeeks |[Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) |Removeable purge bucket |:x: |:x: |:heavy_check_mark: |
@@ -63,7 +63,8 @@ like so:
 | |[Remixed Panel Mounts](./Nomsplease/V0_Mods/panel_mounts) | Remixed rear bottom panel mounts with stop |:heavy_check_mark: |:x: |:x: |
 | |[Pi Cam/ZeroW Mount](./Nomsplease/V0_Mods/pi_zero_camera_mount) | Mount for pi camera and ZeroW |:heavy_check_mark: |:x: |:x: |
 | |[Pocket Watch Rear Reolcation Bracket](./Nomsplease/V0_Mods/pocket_watch_rear_relocation) | Pocket watch rear reolcation bracket |:heavy_check_mark: |:x: |:x: |
-|randell   |[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |
+|randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |
+||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |
