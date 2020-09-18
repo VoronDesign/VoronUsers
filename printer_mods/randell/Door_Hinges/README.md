@@ -15,6 +15,24 @@ There is not much space behind the inserts on the hinge. Be careful and do not p
 
 Final note: The pivot has a little "ear" that overhangs the other side of the extrusion. This is ensure the pivot is solid and fits square against the extrusion. It does mean that that you will not have foam on that part. (See Photo 2)
 
+Handles
+|item       | qty |
+|------|------|
+|M3x6 BHCS  | x8 |
+|M3 inserts | x8 |
+
+Hinges
+|item       | qty |
+|------|------|
+|M3x40		| x4 (hinge "pin") |
+|M3x12 SHCS	| x4 attaches pivot to frame |
+|M3x10 BHCS | x8 attaches hinge to door panel |
+|M3 inserts | x12 |
+
+|   |   |
+|---|---|
+|   |   |
+
 Image 1:
 
 ![Image 1](Images/image_1.png?raw=true "Image 1")
