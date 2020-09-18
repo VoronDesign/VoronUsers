@@ -29,10 +29,6 @@ Hinges
 |M3x10 BHCS | x8 attaches hinge to door panel |
 |M3 inserts | x12 |
 
-|   |   |
-|---|---|
-|   |   |
-
 Image 1:
 
 ![Image 1](Images/image_1.png?raw=true "Image 1")
