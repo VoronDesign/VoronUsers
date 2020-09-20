@@ -3,7 +3,7 @@
 
 # Decontaminator Purge Bucket
 
-This is a removeable purge bucket with a brush scrubber. It is compatible with Voron 1.8 and Voron 2 printers (v2.4, v2.2 and v2.1). I noticed that the current brush scrubber design of the Voron was not very effective at containing filament debris and bits.
+This is a removable purge bucket with a brush scrubber. It is compatible with Voron 1.8 and Voron 2 printers (v2.4, v2.2 and v2.1). I noticed that the current brush scrubber design of the Voron was not very effective at containing filament debris and bits.
 
 It was also not removeable, making it a pain to reach behind and clean it out with a vacuum. So, this design aims to solve all that by:
 
@@ -25,7 +25,7 @@ For V1.8, you will need to print extension_bracket_v1.8 (print 2x if you want to
 You will need the following:
 
 - 1x brass brush or whatever you prefer (I got the [TriangleLabs brass/copper brush](https://www.aliexpress.com/item/33053117369.html?spm=2114.12010615.8148356.2.315e106dfzI86U) and cut it down to length).
-- For **V2.1, 2.2 & 2.4**: 2 M3x8mm SHCS (3x if you use the sheet stop option)
+- For **V2.1, 2.2 & 2.4**: 2x M3x8mm SHCS (3x if you use the sheet stop option)
 - For **V1.8**: 3x M3x8mm SHCS (5x if you use the sheet stop option).
 - 2~3x M2x10(or 8, or longer)mm self tapping BHCS/SHCS (**optional** if you wish to use the sheet stop function). You should have these from the V1 and V2 BOM which are spec'ed for the microswitches.
 - 2~3x M3 nuts (for V1.8 only)
@@ -40,7 +40,7 @@ STLs are included here and CAD files as well if you wish to change the dimension
 The purge bucket has undergone many revisions within a short time, especially between Rev3 and Rev4. To avoid confusion and provide clarifications to current users of the purge bucket and prospective users, please read the following:
 
 - Rev1+2 and Rev3 are intercompatible with each other. They only work on V2.2 and V2.4.
-- Rev4 is a completely standalone revision (**not backwards compatible with Rev1+2 and Rev3 and vice versa**). This revision works on V1.8, V2.1, V2.2 and V2.4 and the same parts are shared across all platforms.
+- Rev4 is a completely standalone revision (**only individual sheetstop remains unchanged, rest are not backwards compatible with Rev1+2 and Rev3 and vice versa**). This revision works on V1.8, V2.1, V2.2 and V2.4 and the same parts are shared across all platforms.
 
 You will be able to find these older revisions under [Legacy_Revisions](./Legacy_Revisions).
 
@@ -54,7 +54,7 @@ In Rev1+2, the brush holder was available as two options: a regular holder and o
 
 ![Revision_Comparisons](./Images/rev3_rev4_comparison.png)
 
-V1.8 support was added in this revision. Due to screw distances changing in V1.8 to allow clearance from the rear electronics panel, I made the decision to have this change apply to the V2 versions so that one part can be used across V1 and V2. This would minimise hunting for specific parts for each specific printer.
+V1.8 support was added in this revision. Due to screw distances changing in V1.8 to allow clearance from the rear electronics panel, I made the decision to have this change apply to the V2 versions so that one part can be used across V1 and V2. This would minimise hunting for specific parts for each specific printer. However, this means that only the individual_sheetstop carries over from previous revisions (purge bucket dimensions have changed as well).
 
 Future revisions may include the use of a silicone brush that is gentler on plated nozzles. Come back for updates!
 
