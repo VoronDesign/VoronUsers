@@ -39,6 +39,7 @@ like so:
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |
+| |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |
