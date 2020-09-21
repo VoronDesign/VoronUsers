@@ -16,5 +16,5 @@ Modded LCD
 
 ## Installed Case Mod
 
-![](LCD_mod_installed.JPG?raw=true)
+![](LCD_mod_installed.jpg?raw=true)
 Installed and working well :-)
