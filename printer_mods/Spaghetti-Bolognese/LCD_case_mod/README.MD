@@ -8,6 +8,7 @@ I have made some changes/improvements to the Mini12864 LCD case as follows:
 ## Standard and modded design comparison
 Please see below the changes between the standard/stock LCD case and my modded design.
 
+
 Standard LCD
 ![](LCD_Front_standard.JPG?raw=true)
 
