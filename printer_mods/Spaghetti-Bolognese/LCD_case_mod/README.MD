@@ -6,13 +6,9 @@ I have made some changes/improvements to the Mini12864 LCD case as follows:
 3. I have added an E-stop button cover, taking inspiration from both the previous Voron LCD cover as well as the Prusa i3 design. This allows for both easier prodding of the E-stop button as well as improving the aesthetic of the case (in my opinion).
 
 ## Standard and modded design comparison
-Please see below the changes between the standard/stock LCD case and my modded design.
+Please see below the changes between the standard/stock LCD case in the first image, and my modded design in the second.
 
-**
-Standard LCD
 ![](LCD_Front_standard.JPG?raw=true)
-
-Modded LCD
 ![](LCD_Front_mod.JPG?raw=true)
 
 ## Installed Case Mod
