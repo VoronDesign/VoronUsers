@@ -9,12 +9,12 @@ I have made some changes/improvements to the Mini12864 LCD case as follows:
 Please see below the changes between the standard/stock LCD case and my modded design.
 
 ![](LCD_Front_standard.JPG?raw=true)
-Standard LCD
+*Standard LCD*
 
 ![](LCD_Front_mod.JPG?raw=true)
-Modded LCD
+*Modded LCD*
 
 ## Installed Case Mod
 
 ![](LCD_mod_installed.jpg?raw=true)
-Installed and working well :-)
+*Installed and working well :-)*
