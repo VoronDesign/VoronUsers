@@ -6,6 +6,7 @@
 What it is:
 --------------------------------------------------------------------------------
 - A custom energy chain for x/y and z axis meant to be used for Voron 2.2 & 2.4
+   WARNING: 2.4 has been released under VoronUsers\printer_mods\Slidr\PanzerChain2.4
 - sometimes called 'PanzerChain'
 - (Afterburner files available on request)
 
@@ -120,6 +121,9 @@ Slidr#4412
 --------------------------------------------------------------------------------
 UPDATES
 --------------------------------------------------------------------------------
+WARNING: 2.4 has been released under VoronUsers\printer_mods\Slidr\PanzerChain2.4
+The Beta is obsolete!
+
 2020-04-12: release 4
 - added chain ends for V2.4 as BETA (bowden and direct drive, feedback needed)
 - sorted file structure by Voron revision (currently supported 2.2, 2.2 with Afterburner Beta, 2.4)
