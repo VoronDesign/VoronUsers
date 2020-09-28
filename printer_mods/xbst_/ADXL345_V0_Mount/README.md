@@ -1,4 +1,4 @@
-![ ](./example.JPG)
+![ ](./example.jpg)
 
 This works for this type of ADXL345 modules: https://s.click.aliexpress.com/e/_dUndeBj
 
