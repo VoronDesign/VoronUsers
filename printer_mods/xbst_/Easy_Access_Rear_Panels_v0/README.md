@@ -1,4 +1,4 @@
-![ ](./example.JPG)
+![ ](./example.jpg)
 
 The point of these panels is to cover the mess in the rear chamber like the normal panel, but leave the extruder exposed for easy filament loading/unloading.
 The design includes cutouts for the bowden tube and an umbilical cord. 
