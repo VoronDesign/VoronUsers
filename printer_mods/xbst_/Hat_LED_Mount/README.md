@@ -1,4 +1,4 @@
-![ ](./example.JPG)
+![ ](./example.jpg)
 
 This mounts to the top hat. You need to print 4x of them. Fits on a v0 bed with creative angles.
 
