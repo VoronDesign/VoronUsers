@@ -1,4 +1,4 @@
-# Mods
+﻿# Mods
 
 Printer mods for Voron 3D printers
 Remember to update this README when uploading new mod!
@@ -35,7 +35,7 @@ like so:
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: | 
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |
-|edwardyeeks |[Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) |Removeable purge bucket |:x: |:x: |:heavy_check_mark: |
+|edwardyeeks |[Decontaminator Purge Bucket](./edwardyeeks/Decontaminator_Purge_Bucket) |Removeable purge bucket |:x: |:heavy_check_mark: |:heavy_check_mark: |
 | |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |
@@ -46,6 +46,7 @@ like so:
 | | [Voron0_display_dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_Hinged_Top_Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |
+| hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |
@@ -69,6 +70,8 @@ like so:
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |
+| Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |
+| |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |
@@ -81,7 +84,15 @@ like so:
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |
 | | [DIN Mount Max31865](./xbst_/Max31865_DIN_Mount)| A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865 PT100 Board. | :x: | :heavy_check_mark: |:heavy_check_mark: |
-| | [Car Hood Style  Bed Hinge](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hing for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
+| | [Car Hood Style Bed Hinge](./xbst_/Bed_Hinge)| A way of reaching electronics from the top by having a "car hood" style hinge for the heatbed, and rotated electronics mounts. | :x: | :x: |:heavy_check_mark: |
+| | [Flat V2.4 Skirts](./xbst_/Flat_Skirts) | Flat V2.4 Skirts so a panel without cutouts can be used | :x: | :x: |:heavy_check_mark: |
+| | [Duct Mount](./xbst_/Duct_Mount) | 100mm/4" ducting mount for ventilation. Also supports umbilical cord and has 3 orientations for bowden adapter. | :x: | :x: |:heavy_check_mark: |
+| | [HOYMK SSR Mount](./xbst_/HOYMK_SSR_Mount) | Mount for Chinese HOYMK SSR | :heavy_check_mark: | :x: | :x: |
+| | [ADXL345 V0 Mount](./xbst_/ADXL345_V0_Mount) | V0 Mount for a ADXL345 module | :heavy_check_mark: |:x: |:x: |
+| | [Easy Access Rear Panels](./xbst_/Easy_Access_Rear_Panels_v0) | New rear panels designed to expose the extruder for easy filament swapping | :heavy_check_mark: |:x: |:x: |
+| | [Hat LED Mount](./xbst_/Hat_LED_Mount) | Top Hat LED module mount | :heavy_check_mark: |:x: |:x: |
+| | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
+| | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 
 ---
