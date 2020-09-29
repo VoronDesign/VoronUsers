@@ -26,7 +26,7 @@ No special printing instructions. They are skirts.
 No special Assembly instructions. They are skirts.
 
 ## Configuration instructions
-For the keystones there are noo special configuration instructions. They are plug & play.
+For the keystones there are no special configuration instructions. They are plug & play.
 
 For the hour counter there are multiple ways to set it up. The simplest way is to add it to Klipper as a heater_fan. 
 
