@@ -45,6 +45,7 @@ like so:
 | hartk1213 | [Voron0_deck_panel_with_logo_and_VORON0](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_display_dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |
+| | [Voron0_Hinged_Top_Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |
