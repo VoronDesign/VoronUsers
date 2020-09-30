@@ -4,7 +4,7 @@ This mod brings in a backpack for the V0 Deck Panel.
 
 Imagine you have gotten a deck panel containing a nice print. Surely you don't want to "destroy" this nice print with holes and screws for attaching controller and PSU.
 
-This mod is a modification of [Deck_Panel_inserts_logo](printermods/Kruppes/Deck_Panel_inserts_logo/Readme.md) and thus is designed for the same hardware:
+This mod is a modification of [Deck_Panel_inserts_logo](printer_mods/Kruppes/Deck_Panel_inserts_logo/Readme.md) and thus is designed for the same hardware:
 
 * PSU: Meanwell LRS-100-24
 * MCU: BTT SKR Mini E3 1.2 (tested with 2.0)
