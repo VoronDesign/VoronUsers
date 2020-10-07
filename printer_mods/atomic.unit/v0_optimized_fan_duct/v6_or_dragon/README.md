@@ -1,0 +1,1 @@
+V2 of optimized fan ducts for threaded v6 or Dragon hotend. Might work with other hot ends.
