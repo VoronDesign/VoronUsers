@@ -14,7 +14,7 @@ Aliexpress: https://s.click.aliexpress.com/e/_eKCJlo
 ## Wiring
 Put the switches in the hexagons, bend the legs of the switches.
 ![](./Pictures/2.jpg)
-Wire one side of the switches together, connect to the mcu or Pi (depending on your config)
+Wire one side of the switches together, connect to the mcu or Pi (depending on your config). Connect seperate wires to the opposite sides.
 ![](./Pictures/3.jpg)
 I recommend using hot glue to keep the wires in place. Otherwise you may disconnect the solder joints, or worse, break the legs of the switches when installing by accident.
 ![](./Pictures/4.jpg)
