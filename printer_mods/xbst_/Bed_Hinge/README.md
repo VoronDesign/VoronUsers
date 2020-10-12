@@ -21,9 +21,7 @@ Please know that most gas struts aren't rated above 50C, however I don't expect 
 You will also need 2 metal corner brackets, some screws, nuts and tnuts to attach. If you don't have any buy a few different styles, they are cheap, and are useful for many applications. In the picture above you can see how I attached a corner bracket to be able to mount the gas spring.
 
 ## Instructions
-Video Instructions: [Youtube](https://youtu.be/YtxrM_qPr9c) *(live on 29 May 2020)*
-Written version: [MANUAL.pdf](./MANUAL.pdf)
+Video Instructions: [Youtube](https://youtu.be/YtxrM_qPr9c)
 
-## Youtube
-Please consider subscribing to my YouTube channel for more projects like this:
-[Isik's Tech](https://www.youtube.com/channel/UClAWYmCkHjsbaX9Wz1df2mg)
+Written version: [MANUAL.pdf](./Manual.pdf)
+
