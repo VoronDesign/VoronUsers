@@ -7,3 +7,5 @@ necessary.
 
 I aimed to create something easy to install on a machine already built. Also easy to remove for maintenance or modifcation. 
 Prints in 1 piece on the V0 bed.
+
+![Image 1](Seperator.png)
