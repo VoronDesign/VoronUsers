@@ -84,21 +84,21 @@ Length (mm)|Qty
 Enclosure Panels			
 Location|Dimensions|Qty
 |-------|----------|---	
-Front	|212x76|	1	
-Sides	|182x76|	2	
-Top	|212x212|	1	
-Rear	|212x59|	1	
+Front|212x76|1	
+Sides|182x76|2	
+Top	|212x212|1	
+Rear|212x59|1	
 			
 			
 			
 Screws			
 Size|Qty
 ---|---		
-M3x8|	68		
-M3x12|	4		
-M3x16|	2		
-M3x20|	4		
-M3 Nuts|	64		
+M3x8|68		
+M3x12|4		
+M3x16|2		
+M3x20|4		
+M3 Nuts|64		
 
 	
 
