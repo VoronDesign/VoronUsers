@@ -60,8 +60,7 @@ like so:
 |Gamsche | [Keystone Skirt Panel](./Gamsche/skirt_keystone)| 25mm skirt panel with integrated keystone jack.  Use with 50mm smaller adjacent skirts for proper fit. |:grey_question: |:grey_question: |:heavy_check_mark:|
 |Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |GustavTheMighty | [4.3 PanelDue Case](./GustavtheMighty/4.3-Paneldue_Case)|Case/mount for the 4.3 PanelDue LCD Display  |:heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:  |
-|Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|
-| | [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
+|Iakabos| [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
 |JaredC01 | [Mini 12864 Voron Knob](./JaredC01/Mini_12864_Voron_Knob) | Upgraded knob for Fystec Mini 12864 RGB LED Display | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
