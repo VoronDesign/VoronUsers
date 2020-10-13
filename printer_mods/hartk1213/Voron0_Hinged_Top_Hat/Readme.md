@@ -67,7 +67,40 @@ i hope you enjoy it
 
 -hartk1213 V0.108
 
+BOM
 
+
+
+1515 Extrusions
+
+Length (mm)|Qty
+------|---	
+200|5	
+170|2	
+95|2
+80|2
+			
+			
+Enclosure Panels			
+Location|Dimensions|Qty
+|-------|----------|---	
+Front	|212x76|	1	
+Sides	|182x76|	2	
+Top	|212x212|	1	
+Rear	|212x59|	1	
+			
+			
+			
+Screws			
+Size|Qty
+---|---		
+M3x8|	68		
+M3x12|	4		
+M3x16|	2		
+M3x20|	4		
+M3 Nuts|	64		
+
+	
 
  
 ##### Pictures
