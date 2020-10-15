@@ -12,5 +12,5 @@ Switch used is from the V2.4 sourcing guide: [ZF Rocker Switch](https://www.digi
 
 
 
-![Skirt Switch](/images/IMG_1224.jpeg) <br/>
+![Skirt Switch](/VoronUsers/tree/master/printer_mods/tayto-chip/skirt_switch_mod/images/IMG_1224.jpeg) <br/>
 ![Skirt Switch](/images/IMG_1222.jpeg) 
