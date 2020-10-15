@@ -10,5 +10,7 @@ Switch used is from the V2.4 sourcing guide: [ZF Rocker Switch](https://www.digi
 
 <h3>Images</h3>
 
-(/images/IMG_1222.jpeg) <br/>
-(/images/IMG_1224.jpeg) 
+
+
+![Skirt Switch](/images/IMG_1224.jpeg) <br/>
+![Skirt Switch](/images/IMG_1222.jpeg) 
