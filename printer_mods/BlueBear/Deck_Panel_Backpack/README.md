@@ -20,6 +20,8 @@ The backpack can be sticked against the back of your panel. For mounting the har
 Below the SKR are some hooks for attaching zipties.
 
 ![CAD Image](./images/image02.jpg "CAD")
-![Usage, old version](./images/image01.jpg "Usage, old cersion")
+
+Here some old version with already installed heat inserts.
+![Usage, old version](./images/image01.jpg "Usage, old version")
 
 Fusion 360 and Step file is included to ease your own modifications.
