@@ -88,12 +88,14 @@ like so:
 | | [Flat V2.4 Skirts](./xbst_/Flat_Skirts) | Flat V2.4 Skirts so a panel without cutouts can be used | :x: | :x: |:heavy_check_mark: |
 | | [V2.4 Fanless Middle Skirt](./xbst_/V2.4_Fanless_Middle_Skirt)| A Fanless alternative middle side skirt | :x: | :x: |:heavy_check_mark: |
 | | [Duct Mount](./xbst_/Duct_Mount) | 100mm/4" ducting mount for ventilation. Also supports umbilical cord and has 3 orientations for bowden adapter. | :x: | :x: |:heavy_check_mark: |
+| | [V2.4 Skirt Buttons](./xbst_/V2.4_Skirt_Buttons) | Skirt mod for custom Gcode macro buttons  |:x: |:x: |:heavy_check_mark: |
 | | [HOYMK SSR Mount](./xbst_/HOYMK_SSR_Mount) | Mount for Chinese HOYMK SSR | :heavy_check_mark: | :x: | :x: |
 | | [ADXL345 V0 Mount](./xbst_/ADXL345_V0_Mount) | V0 Mount for a ADXL345 module | :heavy_check_mark: |:x: |:x: |
 | | [Easy Access Rear Panels](./xbst_/Easy_Access_Rear_Panels_v0) | New rear panels designed to expose the extruder for easy filament swapping | :heavy_check_mark: | :x: |:x: |
 | | [Hat LED Mount](./xbst_/Hat_LED_Mount) | Top Hat LED module mount | :heavy_check_mark: |:x: |:x: |
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |
+| | [V0 Buttons & OLED Mount](./xbst_/V0_Skirt_Buttons)| Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
