@@ -15,20 +15,22 @@ A version without the switches (just the OLED) also exists.
 6. [Enable Pi MCU for Klipper](https://github.com/KevinOConnor/klipper/blob/master/docs/RPi_microcontroller.md)
 7. Use "sudo raspi-config" and under "Interfacing Options" enable SPI.
 8. Add these to Printer.cfg 
-	> [display] 
-	> lcd_type: sh1106 
-	> contrast: 236 
-	> vcomh: 0 
-	> x_offset: 0 
-	> invert:FALSE 
-	> cs_pin: pi:None 
-	> dc_pin: pi:gpio24 
-	> reset_pin: pi:gpio25
-	> click_pin: pi:gpio20 
-	> back_pin: pi:gpio21 
-	> up_pin: pi:gpio6 
-	> down_pin: pi:gpio19 
-	> kill_pin: pi:gpio16
+``` 
+[display] 
+lcd_type: sh1106 
+contrast: 236 
+vcomh: 0 
+x_offset: 0 
+invert:FALSE 
+cs_pin: pi:None 
+dc_pin: pi:gpio24 
+reset_pin: pi:gpio25
+click_pin: pi:gpio20 
+back_pin: pi:gpio21 
+up_pin: pi:gpio6 
+down_pin: pi:gpio19 
+kill_pin: pi:gpio16 
+```
 9. Change as needed. [Pinouts of the hat](https://www.waveshare.com/w/upload/4/46/1.3inch_OLED_HAT_User_Manual_EN.pdf)
 
 FYI I don't think they are needed for our use, but since I already have them I can't verify so if you have trouble install [these](https://www.waveshare.com/wiki/Libraries_Installation_for_RPi) too.
