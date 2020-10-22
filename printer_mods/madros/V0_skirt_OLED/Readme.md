@@ -32,4 +32,6 @@ For SKR mini E3 v1.2 insert in your Klipper config:
 ```
 [display]
 lcd_type: ssd1306
+#If your display is not working uncomment the line below, it will define the SKR as i2c controller of the screen
+#i2c_mcu = mcu
 ```
