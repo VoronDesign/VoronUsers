@@ -16,6 +16,11 @@ A version without the switches (just the OLED) also exists.
 7. Use "sudo raspi-config" and under "Interfacing Options" enable SPI.
 8. Add these to Printer.cfg 
 ``` 
+[mcu pi]
+serial: /tmp/klipper_host_mcu
+
+...
+
 [display] 
 lcd_type: sh1106 
 contrast: 236 
