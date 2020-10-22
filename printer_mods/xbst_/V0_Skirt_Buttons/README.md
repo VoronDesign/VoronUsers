@@ -1,5 +1,5 @@
 ﻿# V0 OLED & Switch Mount
-This mod is for mounting a [Waveshare 1.3" OLED Pi Zero Hat](https://s.click.aliexpress.com/e/_A23Tz7) & 8x [6*6 ~4.2mm Tactile Switches](https://s.click.aliexpress.com/e/_9wvUAv) to skirts of a Voron V0. It also hides a [Pi Zero W](https://s.click.aliexpress.com/e/_AaYTdb) behind the OLED so you can save space in the rear and the bottom chamber. (Don't use with OctoPrint, Mainsail works fine)
+This mod is for mounting a Waveshare 1.3" OLED Pi Zero Hat [(Ali)](https://s.click.aliexpress.com/e/_A23Tz7) [(Amazon)](https://amzn.to/31rBzSL) & 8x 6*6 ~4.2mm Tactile Switches [(Ali)](https://s.click.aliexpress.com/e/_9wvUAv) [(Amazon)](https://amzn.to/3kmZsSH) to skirts of a Voron V0. It also hides a Pi Zero W [(Ali)](https://s.click.aliexpress.com/e/_AaYTdb) [(Amazon)](https://amzn.to/31smY9y) behind the OLED so you can save space in the rear and the bottom chamber. (Don't use with OctoPrint, Mainsail works fine)
 
 A version without the switches (just the OLED) also exists.
 
