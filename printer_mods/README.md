@@ -106,6 +106,7 @@ like so:
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |
 | | [V0 Buttons & OLED Mount](./xbst_/V0_Skirt_Buttons)| Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display | :heavy_check_mark: | :x: | :x: |
+| | [Mobius 4 (M4) V0 Mod](./xbst/V0_M4_Mod)| Mod to mount a M4 extruder to a Voron 0 where pocketwatch extruder mounts | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
