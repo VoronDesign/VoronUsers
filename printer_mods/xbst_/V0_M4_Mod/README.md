@@ -1,7 +1,7 @@
 ﻿# M5 Mod For V0
 This mod lets you mount a [Mobius 4](https://github.com/VoronDesign/Mobius-Extruder) on a [Voron 0](https://github.com/VoronDesign/Voron-0).
 
-[](./example.jpg)
+![](./example.jpg)
 
 This mod will interfere with the rear panel if you use the printed 80T idler.
 Alternatives are either using the [Powge Voron 80T pulley](https://s.click.aliexpress.com/e/_ABNQZZ), or using my no [rear panel mod](../Easy_Access_Rear_Panels_v0).
