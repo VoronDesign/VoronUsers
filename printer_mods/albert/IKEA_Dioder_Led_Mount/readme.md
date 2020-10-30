@@ -3,7 +3,7 @@
 ### Overview
 Voron 2.x IKEA Dioder Led Mount for the DIODER single and multi colour LED Strip sold by IKEA. 
 
-![IKEA Dioder LED Strip](IKEA Dioder LED Strip.png)
+![IKEA Dioder LED Strip](IKEA_Dioder_LED_Strip.png)
 
 ### Description
 This is an improved version of the model of randommen96 for the IKEA Dioder LED strip. 
