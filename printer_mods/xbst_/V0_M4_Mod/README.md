@@ -22,4 +22,4 @@ I will edit this list if more motors are confirmed working.
 
 ## Confirmed Motors That Don't Work
 - Tevo Titan Pancake Motor
-- LDO High Temp 0.9 Motor Ending with 1004MAH
+- LDO High Temp 0.9 Motor LDO-42STH25-1404MAH
