@@ -13,6 +13,6 @@ This is an improved version of the model of randommen96 for the IKEA Dioder LED 
 
 Step file is included to ease your own modifications.
 
-![Dioder LED Mount Render #1](Dioder Led Mount Render #1.png)
-![Dioder LED Mount Render #2](Dioder Led Mount Render #2.png)
-![Dioder LED Mount Render #3](Dioder Led Mount Render #3.png)
+![Dioder LED Mount Render #1](Dioder_Led_Mount_Render#1.png)
+![Dioder LED Mount Render #2](Dioder_Led_Mount_Render#2.png)
+![Dioder LED Mount Render #3](Dioder_Led_Mount_Render#3.png)
