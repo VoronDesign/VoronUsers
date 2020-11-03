@@ -12,5 +12,3 @@ This mod is a modification of [Deck_Panel_inserts_logo](../../Kruppes/Deck_Panel
 The backpack can be glued against the back of your panel. For mounting the hardware you don't need any standoffs, instead you can use the same heat inserts as for the top head or pocketwatch (M3x5x4).
 
 ![Usage](./images/image01.jpg "Usage")
-
-Fusion 360 and Step file is included to ease your own modifications.
