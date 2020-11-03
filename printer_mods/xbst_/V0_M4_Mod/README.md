@@ -1,4 +1,4 @@
-﻿# M5 Mod For V0
+﻿# M4 Mod For V0
 This mod lets you mount a [Mobius 4](https://github.com/VoronDesign/Mobius-Extruder) on a [Voron 0](https://github.com/VoronDesign/Voron-0).
 
 ![](./example.jpg)
