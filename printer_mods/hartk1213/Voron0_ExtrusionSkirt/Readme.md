@@ -1,0 +1,8 @@
+# Extrusion Skirt wnd Legs
+
+This is a new skirt system that uses 50mm extrusions for legs and has a power inlet in the rear skirt
+
+ 
+##### Pictures
+![Image 1](Images/1.png)
+
