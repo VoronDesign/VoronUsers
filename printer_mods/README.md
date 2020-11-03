@@ -108,6 +108,7 @@ like so:
 | | [V0 Buttons & OLED Mount](./xbst_/V0_Skirt_Buttons)| Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display | :heavy_check_mark: | :x: | :x: |
 | | [Mobius 4 (M4) V0 Mod](./xbst_/V0_M4_Mod)| Mod to mount a M4 extruder to a Voron 0 where pocketwatch extruder mounts | :heavy_check_mark: | :x: | :x: |
 | | [V0 Electronics Cover](./xbst_/V0_Electronic_Panel]| A printed cover for v0 electronics. Requires larger printer to print. | :heavy_check_mark: | :x: | :x: |
+| | [V0 PiCam Mount](./xbst_/V0_Picam]| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 
 ---
