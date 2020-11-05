@@ -1,4 +1,4 @@
-﻿-# Mods
+﻿# Mods
 
 Printer mods for Voron 3D printers
 Remember to update this README when uploading new mod!
