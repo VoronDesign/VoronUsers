@@ -6,4 +6,4 @@ The file "LED Front Bed Logo" was printed in a different color and added to the 
 
 The lights can be controlled with an Arduino Nano, Klipper, or an Octoprint Plugin. 
 
-![LED Front Bed Mount 2](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0%20LED%20Front%20Bed%20Mount/Images/LED%20Front%20Bed%20Mount%202.PNG?raw=true)
+![LED Front Bed Mount 2](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_LED_Front_Bed_Mount/Images/LED%20Front%20Bed%20Mount%202.PNG)
