@@ -24,3 +24,7 @@ Modified End Plate to mount the M4 extruder in the stock location in the Voron V
 ![V0-M4-Back02](Images/V0_Assembly_RC1_M4_BackPanel02.png)
 
 ![V0-M4-Back03](Images/V0_Assembly_RC1_M4-protrude.png)
+
+![V0-M4-Pic01](Images/M4-V0-Mod01.jpg)
+
+![V0-M4-Pic02](Images/M4-V0-Mod02.jpg)
