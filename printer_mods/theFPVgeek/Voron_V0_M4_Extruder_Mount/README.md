@@ -4,7 +4,7 @@ Modified End Plate to mount the M4 extruder in the stock location in the Voron V
 
 <b>Custom parts include:</b>
  1. Modified M4 End Plate (mirrored version)
- 2. DXF and STL for a modified back panel to allow the gears to protrude past the backplate.
+ 2. OPTIONAL - DXF and STL for a modified back panel to allow the gears to protrude past the backplate.
 
 <b>Requirements:</b> 
  1. M4 <u>mirrored</u> printed parts
