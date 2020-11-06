@@ -1,0 +1,9 @@
+# V0 LED Front Bed Mount
+
+This modification was designed to accomodate a Neopixel Jewel (7) in the face of the mount. Wiring is ran to the cable chain and ultimately to an Arduino Nano as a controller.
+
+The file "LED Front Bed Logo" was printed in a different color and added to the mount using an adhesive. 
+
+The lights can be controlled with an Arduino Nano, Klipper, or an Octoprint Plugin. 
+
+![LED Front Bed Mount 2](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0%20LED%20Front%20Bed%20Mount/Images/LED%20Front%20Bed%20Mount%202.PNG?raw=true)
