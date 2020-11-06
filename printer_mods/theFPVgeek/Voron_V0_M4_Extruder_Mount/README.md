@@ -1,8 +1,6 @@
-<b>Voron V0 M4 Extruder Mod</b>
+<b>Voron V0 M4 Extruder Mod</b> <i>Inspired by xbst_'s design. </i>
 
 Modified End Plate to mount the M4 extruder in the stock location in the Voron V0 at the same height and mounting holes as the Pocketwatch.
-
-<i>Inspired by xbst_'s design. </i>_
 
 ![End Plate Installed Pic](Images/m4-end-plate-V0-mount-v1-backside.png)
 
