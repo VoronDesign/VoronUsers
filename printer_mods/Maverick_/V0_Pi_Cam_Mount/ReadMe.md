@@ -6,6 +6,6 @@ Very basic in it's design, it's mounted utilizing the same (or slightly longer) 
 
 M2 screws are used to attach the Pi Cam to the mount. If angle adjustments are needed, M2 nuts can be placed on the screws to make the desired changes.  
 
-![Pi Mount](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_Pi_Cam_Mount/Images/Pi%20Camera%20Mount.JPG)
+![Pi Mount](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_Pi_Cam_Mount/Images/Pi_Camera_Mount.JPG)
 
-![Pi Mount View](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_Pi_Cam_Mount/Images/Pi%20Camera%20Mount%20View.jpg)
+![Pi Mount View](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_Pi_Cam_Mount/Images/Pi_Camera_Mount_View.jpg)
