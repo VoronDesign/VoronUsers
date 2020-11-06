@@ -21,4 +21,4 @@ I used two Neopixel Rings (a 24 and a 12) in my build, but only one is required.
 The lights can be controlled with an Arduino Nano, Klipper, or an Octoprint Plugin. 
 
 
-![Deck Logo](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0%20Deck%20Logo%20LED/Images/Deck%20Logo.jpg?)
+![Deck Logo](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_Deck_Logo_LED/Images/Deck%20Logo.jpg)
