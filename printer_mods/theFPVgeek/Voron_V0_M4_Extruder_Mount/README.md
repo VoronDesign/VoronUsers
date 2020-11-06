@@ -13,6 +13,6 @@ Modified End Plate to mount the M4 extruder in the stock location in the Voron V
  - Pancake motor
 
 <b>Tip(s):</b>
- - Relocate Pi to the right side of the printer (see pic)
+ - Relocate Pi to the right side of the printer to allow easier access to the latch and input side of the extruder (see pic)
 
 ![V0-M4-Back](Images/V0_Assembly_RC1_M4_Back.png)
