@@ -6,5 +6,5 @@ M3 threaded inserts are used in the lower wall of the back case file, this allow
 
 The parts are in the correct orientation for printing.
 
-![TopHat Mini 12864 1](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0%20TopHat%20Mini%2012864/Images/TopHat%20Mini%2012864%20Front.jpg?raw=true)
+![TopHat Mini 12864 1](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_TopHat_Mini_12864/Images/TopHat%20Mini%2012864%20Front.jpg)
 
