@@ -15,7 +15,7 @@ This mod is a modification of [Deck_Panel_inserts_logo](../../Kruppes/Deck_Panel
 * PSU: Meanwell LRS-100-24
 * MCU: BTT SKR Mini E3 1.2 (tested with 2.0)
 
-The backpack can be sticked against the back of your panel. For mounting the hardware you don't need any standoffs, instead you can use the same heat inserts as for the top head or pocketwatch (M3x5x4).
+The backpack can be sticked (e.g. with VHB) against the back of your panel. For mounting the hardware you don't need any standoffs, instead you can use the same heat inserts as for the top head or pocketwatch (M3x5x4).
 
 Below the SKR are some hooks for attaching zipties.
 
