@@ -4,4 +4,4 @@ This modification was designed to accomodate a Neopixel Jewel (7) in the top rig
 
 The lights can be controlled with an Arduino Nano, Klipper, or an Octoprint Plugin. 
 
-![LED Hinge 2](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_LED_Hinge/Images/LED_Hinge_Model_Front.PNG)
+![LED Hinge 2](Images/LED_Hinge_Model_Front.PNG)

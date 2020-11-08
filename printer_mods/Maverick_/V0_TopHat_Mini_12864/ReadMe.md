@@ -48,7 +48,7 @@ initial_GREEN: 0.3
 initial_BLUE: 0.5
 
 
-![Wiring](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_TopHat_Mini_12864/Images/Mini_E3_V2_Mini_12864_Wiring.png)
+![Wiring](Images/Mini_E3_V2_Mini_12864_Wiring.png)
 
 
 #
@@ -62,5 +62,5 @@ The parts are in the correct orientation for printing.
 
 
 
-![TopHat Mini 12864 1](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick_/V0_TopHat_Mini_12864/Images/TopHat_Mini_12864_Front.jpg)
+![TopHat Mini 12864 1](Images/TopHat_Mini_12864_Front.jpg)
 
