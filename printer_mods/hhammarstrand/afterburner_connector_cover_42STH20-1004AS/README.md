@@ -14,6 +14,7 @@ This cable cover is designed to not need any new hardware and therefore is attac
 ![Comparison](compare.png?raw=true)
 
 
+
 ### What is modified from the original?
 - A few mm longer so that it goes past both the motor and the cable chain mount
 - Larger cable exit so that my wires fit better
@@ -22,3 +23,12 @@ This cable cover is designed to not need any new hardware and therefore is attac
 
 ### BOM
 - Just this printed part, everything else is stock
+
+
+
+
+
+
+### User photos 
+![Exodius](exodius_afterburner.jpg) 
+User Exodius Afterburner with this mod installed
