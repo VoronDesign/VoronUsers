@@ -3,7 +3,7 @@
 
 # Decontaminator Purge Bucket & Nozzle Scrubber
 
-This is a removable purge bucket with a brush scrubber. It is compatible with Voron 1.8 and Voron 2 printers (v2.4, v2.2 and v2.1). I noticed that the current nozzle scrubber design of the Voron was not very effective at containing filament debris and bits.
+This is a removable purge bucket with a nozzle scrubber. It is compatible with Voron 1.8 and Voron 2 printers (v2.4, v2.2 and v2.1). I noticed that the current nozzle scrubber design of the Voron was not very effective at containing filament debris and bits.
 
 It was also not removeable, making it a pain to reach behind and clean it out with a vacuum. So, this design aims to solve all that by:
 
@@ -48,7 +48,7 @@ You will be able to find these older revisions under [Legacy_Revisions](./Legacy
 
 ![Revision_Comparisons](./Images/rev2_rev3_comparison.png)
 
-In Rev1+2, the brush holder was available as two options: a regular holder and one with fully printed sheet indexing stops. In Rev3, the brush holder became only available as a sheet stop option with M2X10 BCHS self tapping screws. Purge buckets were compatible across Rev1+2 and Rev3.
+In Rev1+2, the brush holder was available as two options: a regular holder and one with fully printed sheet indexing stops. In Rev3, the brush holder became only available as a printed sheet stop option with M2X10 BCHS self tapping screws. Purge buckets were compatible across Rev1+2 and Rev3.
 
 ## REV4 (LATEST)
 
