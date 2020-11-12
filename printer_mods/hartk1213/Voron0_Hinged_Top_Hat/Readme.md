@@ -69,7 +69,7 @@ what I would do next is attach the bottom hinge and top hinge together using the
 # final step
 ![here](Images/Assembly/FinalAssembly.png) 
 
-Once the frame is moving correctly and everythings is working well together, add the panels to the top hat to enclose it completely 
+Once the frame is moving correctly and everything is working well together, add the panels to the top hat to enclose it completely 
 there are 2 panels that go in the back the inner one can be left out, I originally didn't have the final rear printed panel but now that it's there , the inner rear panel is no longer needed 
 
 #### Screw size and locations
@@ -100,7 +100,7 @@ BOM
 
 1515 Extrusions
 
-Length (mm)|Qty|Misumi92 Part Number
+Length (mm)|Qty|Misumi Part Number
 ------|---|-------------|
 200|5|HFS3-1515-200
 170|2|HFS3-1515-170
