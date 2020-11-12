@@ -101,11 +101,11 @@ BOM
 1515 Extrusions
 
 Length (mm)|Qty|Misumi92 Part Number
-------|---|-------------|80
+------|---|-------------|
 200|5|HFS3-1515-200
 170|2|HFS3-1515-170
 92|2|HFS3-1515-92
-80|2|80
+80|2|HFS3-1515-80
 
 
 Enclosure Panels			
