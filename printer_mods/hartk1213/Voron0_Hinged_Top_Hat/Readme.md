@@ -64,16 +64,16 @@ attach the 2 front extrusion and you should have the completed frame now
 ![here](Images/Assembly/step10.png)
 
 #### NOTE: This step uses M3x20 screws
-what i would do next is attach the bottom hinge and top hinge together using the middle hinge assembly you made in step 2 and check to make sure every thing is moving correctly and lining up properly, and make any adjustments you see fit. 
+what I would do next is attach the bottom hinge and top hinge together using the middle hinge assembly you made in step 2 and check to make sure every thing is moving correctly and lining up properly, and make any adjustments you see fit. 
 
 # final step
 ![here](Images/Assembly/FinalAssembly.png) 
 
-Once the frame is moving correctly and everythins is working well together, add the panels to the top hat to enclose it completely 
-there are 2 panels that go in the back the inner one can be left out, i originally didnt have the final rear printed panel but now that its there the inner rear panel is no longer needed 
+Once the frame is moving correctly and everythings is working well together, add the panels to the top hat to enclose it completely 
+there are 2 panels that go in the back the inner one can be left out, I originally didn't have the final rear printed panel but now that it's there , the inner rear panel is no longer needed 
 
 #### Screw size and locations
-bottom hinge uses m3x12 to attach to the frame using an m3 nut that needs to be slid into the top extrusion of the V0 , i did this by unscrewing the front of it from the idler bracket and just dropping a nut in the extrusion
+bottom hinge uses m3x12 to attach to the frame using an m3 nut that needs to be slid into the top extrusion of the V0, I did this by unscrewing the front of it from the idler bracket and just dropping a nut in the extrusion
 
 top hinge which also uses an m3x12 and m3 nut in 1 of the 3 holes to attach it to the bottom of the top extrusion of the hat frame the other 2 are m3x8 and are screwed into the ends of the extrusions
 
