@@ -7,7 +7,8 @@ First and foremost, I would like to thank Arksine for this great tool. When I in
 BetterBootLoader is a replacement to the stock firmware of the SKR or, for that matter, any LPC17xx-Board. The most important difference to the original firmware is that it allows installing Klipper on the SKR from the Pi through the USB connection without physical access to the SKR's SD card.
 
 ## Prerequisites
-This guide is written with a VoronDesign v2 printer in mind, which usually has two SKRs as controllers, but it will also work for other printers. A Klipper environment that is set up and configured to operate properly is assumed. After going through this guide you will be able to flash new Klipper versions to your SKRs without accessing the SD cards.
+This guide is written with a VoronDesign v2 printer in mind, which usually has two SKRs as controllers, but it will also work for other printers with the same control board. The described firmware will only install on compatible controllers that use a LPC17xx MCU. This includes the SKR 1.3 or 1.4 used in the Voron v1 and v2. Do not attempt this on your SKR E3 mini in case you have a Voron v0 or switchwire!
+In addition, a Klipper environment that is set up and configured to operate properly is assumed. After going through this guide you will be able to flash new Klipper versions to your SKRs without accessing the SD cards.
 
 Things you need to prepare:
 - Turn off your printer
@@ -38,14 +39,27 @@ git pull
 make clean
 make
 ```
-6. In the next step, flashing Klipper through the USB connection to the SKRs, the filesystem paths to the two SKRs must be known. If in doubt, take them from your printer.cfg.
-My two SKRs are accessible through the following paths:
+6. In the next step, flashing Klipper through the USB connection to the SKRs, the filesystem paths to the two SKRs must be known. My two SKRs are accessible through the following paths:
 ```
 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.3:1.0
 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.5:1.0
 ```
 
+A list of full paths for your SKRs can be shown by executing
+```bash
+ls -d /dev/serial/by-path
+```
+
+Or simply take them from your existing printer.cfg.
+
 With these paths at hand, Klipper can now be flashed to the SKRs:
+
+```bash
+make flash FLASH_DEVICE=<path to first SKR>
+make flash FLASH_DEVICE=<path to second SKR>
+```
+
+As an example, for my two SKRs it would look like this:
 
 ```bash
 make flash FLASH_DEVICE=/dev/serial/by-path/platform-3f980000.usb-usb-0:1.3:1.0
