@@ -1,6 +1,6 @@
 # Installing BetterBootLoader on a SKR board
 
-First and foremost, I would like to thank Arksine for this great tool. When I installed BetterBootLoader I thought it was a lot more complicated, partly because I was unable to find any detailed installation instructions, especially on how to flash Klipper through USB. So I have decided to write this very short step-by-step installation instructionsin the hope it might help somebody installing this excellent tool in the future.
+First and foremost, I would like to thank Arksine for this great tool. When I installed BetterBootLoader I thought it was a lot more complicated, partly because I was unable to find any detailed installation instructions, especially on how to flash Klipper through USB. So I have decided to write this very short step-by-step installation instructions, in the hope it might help somebody installing this excellent tool in the future.
 
 **A word of warning:** This potentially can brick (soft-brick) your SKRs if something goes wrong. If you have the propper programming tool, you might be able to reflash the original firmware back to the SKRs, but most of us won't have these. Be careful!
 
@@ -47,7 +47,7 @@ make
 
 A list of full paths for your SKRs can be shown by executing
 ```bash
-ls -d /dev/serial/by-path
+ls -d1 /dev/serial/by-path/*
 ```
 
 Or simply take them from your existing printer.cfg.
