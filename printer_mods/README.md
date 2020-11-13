@@ -57,7 +57,6 @@ like so:
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |
 | KenadyDwag44 | [V0 Raspberry Pi 0 Mount](./kenadydwag44/v0_raspberry_pi_mounts) | A Simple Pi 0 Mount for the Voron V0 and 1515 extrusion | :heavy_check_mark: | :x: | :x: |
-| | [Switchwire Lightbar](./kenadydwag44/sw_lightbar) | A Simple Lightbar for the Switchwire | :x: | :x: | :x: |
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |
 |Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |
 | |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |
