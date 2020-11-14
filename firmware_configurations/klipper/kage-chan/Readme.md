@@ -33,13 +33,21 @@ cd ~/klipper
 git pull
 ```
 
-5. After updating your local repository remove any existing binaries or compiled object files and recompile Klipper:
+5. Most people will not have USB communication enabled for their SKRs, which must be done at this point, otherwise Klipper will not be able to communicate with the SKRs after a system restart. To enable USB communication, klipper needs to be reconfigured:
+
+```bash
+make menuconfig
+```
+
+Enable USB communication (see image below) and Exit the configuration dialog.
+
+6. After updating and reconfiguring your local repository remove any existing binaries or compiled object files and recompile Klipper:
 
 ```bash
 make clean
 make
 ```
-6. In the next step, flashing Klipper through the USB connection to the SKRs, the filesystem paths to the two SKRs must be known. My two SKRs are accessible through the following paths:
+7. In the next step, flashing Klipper through the USB connection to the SKRs, the filesystem paths to the two SKRs must be known. My two SKRs are accessible through the following paths:
 ```
 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.3:1.0
 /dev/serial/by-path/platform-3f980000.usb-usb-0:1.5:1.0
