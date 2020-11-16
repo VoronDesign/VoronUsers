@@ -7,4 +7,4 @@ Screws required:
 The M3 holes in the plastic piece are diameter 2.6 in order to be tapered inserting the M3 screws
 
 
-![alt text](![alt text](http://url/to/img.png))
+![alt text](![alt text](https://github.com/darkestbo/VoronUsers/blob/master/printer_mods/darkestbo/Image%201.png))
