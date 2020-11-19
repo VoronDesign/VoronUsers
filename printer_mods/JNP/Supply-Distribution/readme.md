@@ -1,4 +1,4 @@
 Housing for supply distribution and power switch
 
-![Image 1](Images/Supply_Panel_1.jpg)
-![Image 2](Images/Supply_Panel_2.jpg)
+![Image 1](Images/1.jpg)
+![Image 2](Images/2.jpg)
