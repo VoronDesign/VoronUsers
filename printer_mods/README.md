@@ -56,6 +56,17 @@ like so:
 |Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |
+| JNP | [Back Door](./JNP/Back-Door)| Door for easy hardware access | :heavy_check_mark: |:x: |:x: |
+| | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |
+| | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |
+| | [Front Door](./JNP/Front-Door)| Door in a frame | :heavy_check_mark: |:x: |:x: |
+| | [Hepa Filter](./JNP/HEPA-Filter)| Filter case with fan´s | :heavy_check_mark: |:x: |:x: |
+| | [Hotend PCB and Pushfitting](./JNP/Hotend_PCB_and_PTFE_Tube_mounting) | easy mounting for PCB and Pushfitting | :heavy_check_mark: |:x: |:x: |
+| | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |
+| | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |
+| | [PCB´s](./JNP/PCBs) | all PCBs for a complete Mod | :heavy_check_mark: | :x: | :x: |
+| | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |
+| | [Power supply distribution](./JNP/Supply-Distribution) | Case for power switch, supply PCB and cable chain for drawer | :heavy_check_mark: | :x: |:x: |
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |
 |Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |
 | |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |
@@ -106,16 +117,6 @@ like so:
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-| JNP | [Back Door](./JNP/Back-Door)| Door for easy hardware access | :heavy_check_mark: |:x: |:x: |
-| | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |
-| | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |
-| | [Front Door](./JNP/Front-Door)| Door in a frame | :heavy_check_mark: |:x: |:x: |
-| | [Hepa Filter](./JNP/HEPA-Filter)| Filter case with fan´s | :heavy_check_mark: |:x: |:x: |
-| | [Hotend PCB and Pushfitting](./JNP/Hotend_PCB_and_PTFE_Tube_mounting) | easy mounting for PCB and Pushfitting | :heavy_check_mark: |:x: |:x: |
-| | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |
-| | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |
-| | [PCB´s](./JNP/PCBs) | all PCBs for a complete Mod | :heavy_check_mark: | :x: | :x: |
-| | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |
-| | [Power supply distribution](./JNP/Supply-Distribution) | Case for power switch, supply PCB and cable chain for drawer | :heavy_check_mark: | :x: |:x: |
+
 
 ---
