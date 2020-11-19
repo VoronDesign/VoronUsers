@@ -1,0 +1,16 @@
+Qty Value      Device           Package or Vendor-Nr.		Parts   Description                                     
+2   10µF       CAPACITOR        1206         				C1, C2  CAPACITOR                      
+2   1µF        CAPACITOR        1206         				C3, C4  CAPACITOR                      
+1   Extruder   JST-XH           B4B-XH-A     				X7      JST XH 4Pin Header                                                
+1   Extruder   NANOFIT_4PIN     105314-1304  				X8      Molex NanoFit                                                
+1   Heater     Terminal Block   691101710002 				J1      Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
+1   Hotend     NANOFIT_10PIN90  105314-1310  				X6      Molex NanoFit                                                
+1   Hotend Fan PINHD-2X3        2X03         				JP2     PIN HEADER                                      
+1   Hotend_Fan JST-XH           B2B-XH-H     				X3      JST XH 2Pin Header 90° Angle                                               
+1   LM2937-12  TPS7B6933QDCYRQ1 SOT-223-4    				U2      IC REG LIN SOT223-4                  
+1   LM2937-5   TPS7B6933QDCYRQ1 SOT-223-4    				U1      IC REG LIN SOT223-4                  
+1   Part Fan´s PINHD-2X3        2X03         				JP1     PIN HEADER                                      
+1   Part_fan   JST-XH           B2B-XH-H     				X4      JST XH 2Pin Header 90° Angle                                                
+1   Thermistor JST-XH           B2B-XH-H     				X2      JST XH 2Pin Header 90° Angle                                                
+1   X_Endstop  JST-XH           B2B-XH-H     				X5      JST XH 2Pin Header 90° Angle                                                
+2   Y_Endstop  JST-XH           B2B-XH-H     				X9, X10 JST XH 2Pin Header 90° Angle                                                

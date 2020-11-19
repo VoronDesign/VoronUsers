@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-18T11:19:12Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.54,
+        "LayerNumber": 4,
+        "Name": {
+            "ProjectId": "Supply_PCB_V1.0"
+        },
+        "Owner": "Jens Neumann <jens.neumann5@gmx.de>",
+        "Size": {
+            "X": 82.5,
+            "Y": 22
+        }
+    }
+}

@@ -1,0 +1,13 @@
+Qty Value        Device         	Package or Vendor-Nr.   Parts	Description                                     
+2   to Switch    Terminal Block 	691101710002 			J5, J6	Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
+1   2A           01530008ZIMAXX 	H7810        			F2		FUSE HOLDER BLADE 32V 15A PCB                   
+1   3A           01530008ZIMAXX 	H7810        			F1		FUSE HOLDER BLADE 32V 15A PCB                   
+1   6-PIN        6-PIN          	172447-0206  			X2		Molex MiniFit JR                                                
+1   8-PIN        8-PIN          	172447-0208  			X1		Molex MiniFit JR                                                
+1   B3B-XH       JST-XH         	B3B-XH-A     			X7		JST XH 3Pin Header                                                
+1   BOARD        Terminal Block 	691101710002 			J1		Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
+1   DC/DC        Terminal Block 	691101710002 			J2		Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
+1   EnergyMeter  Terminal Block 	691101710002 			J4		Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
+1   SOCKET       Terminal Block 	691101710002 			J3		Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
+1   SWITCH-SMALL SWITCH-SMALL   	V_SWITCH     			SW1		Switch (Amazon B00O9YPJKY) or Pinheader for Jumper                                                
+1   Powerswitch  JWM21RA2A			SWITCH		 			SW2		NKK Rocker Switches 10A DPST

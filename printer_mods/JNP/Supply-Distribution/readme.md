@@ -1,0 +1,1 @@
+Housing for supply distribution and power switch

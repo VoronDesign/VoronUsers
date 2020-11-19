@@ -1,0 +1,24 @@
+{
+    "Header": {
+        "Comment": "All values are metric (mm)",
+        "CreationDate": "2020-11-18T11:17:23Z",
+        "GenerationSoftware": {
+            "Application": "EAGLE",
+            "Vendor": "Autodesk",
+            "Version": "9.6.2"
+        },
+        "Part": "Single"
+    },
+    "Overall": {
+        "BoardThickness": 1.57,
+        "LayerNumber": 2,
+        "Name": {
+            "ProjectId": "Fan_PCB_V1.0"
+        },
+        "Owner": "Jens Neumann <jens.neumann5@gmx.de>",
+        "Size": {
+            "X": 40,
+            "Y": 30
+        }
+    }
+}

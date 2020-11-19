@@ -1,0 +1,1 @@
+HEPA filter with easy access to change the filter
