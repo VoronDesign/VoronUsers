@@ -1,4 +1,4 @@
-Qty Value      Device           Package or Vendor-Nr.		Parts   Description                                     
+Qty Value      Device           Package or Vendor-Nr.			Parts   Description                                     
 2   10µF       CAPACITOR        1206         				C1, C2  CAPACITOR                      
 2   1µF        CAPACITOR        1206         				C3, C4  CAPACITOR                      
 1   Extruder   JST-XH           B4B-XH-A     				X7      JST XH 4Pin Header                                                

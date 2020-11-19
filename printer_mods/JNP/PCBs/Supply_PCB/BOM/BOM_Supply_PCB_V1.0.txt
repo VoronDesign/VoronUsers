@@ -1,4 +1,4 @@
-Qty Value        Device         	Package or Vendor-Nr.   Parts	Description                                     
+Qty Value        Device         	Package or Vendor-Nr.   	Parts	Description                                     
 2   to Switch    Terminal Block 	691101710002 			J5, J6	Wuerth WR-TBL Serie 101 - 5.00 mm Horiz. Entry Modular 
 1   2A           01530008ZIMAXX 	H7810        			F2		FUSE HOLDER BLADE 32V 15A PCB                   
 1   3A           01530008ZIMAXX 	H7810        			F1		FUSE HOLDER BLADE 32V 15A PCB                   

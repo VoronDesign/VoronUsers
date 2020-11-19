@@ -1,13 +1,13 @@
-Qty Value         Device                  Package              Parts  Description                    
-2   10k           RESISTOR			      0805                 R2, R4 RESISTOR    
-2   10µF          CAPACITOR               1206                 C1, C2 CAPACITOR    
-2   1k            RESISTOR				  0805                 R1, R3 RESISTOR  
-2   1µF           CAPACITOR               1206                 C3, C4 CAPACITOR     
-2   B2B-XH        JST-XH                  B2B-XH-A             X3, X4 JST XH 2Pin Header                               
-2   B2B-XHH       JST-XH                  B2B-XH-H             X1, X2 JST XH 2Pin Header 90° Angle                              
-1   B4B-XHH       JST-XH                  B4B-XH-H             X5     JST XH 4Pin Header 90° Angle                              
-1   Cooling Fan´s PINHD-2X3               2X03                 JP1    PIN HEADER                     
-1   Filter fan´s  PINHD-2X3               2X03                 JP2    PIN HEADER                     
-1   LM2937-12     TPS7B6933QDCYRQ1        SOT-223-4            U2     IC REG LIN SOT223-4 
-1   LM2937-5      TPS7B6933QDCYRQ1        SOT-223-4            U1     IC REG LIN SOT223-4 
-2   SQ2348ES      TRANSISTOR-FET_DMN2004K TRANSISTOR-FET_SOT23 Q1, Q2 N-Channel Enhancement MOSFET   
+Qty Value         Device					Package              Parts  Description                    
+2   10k           RESISTOR					0805                 R2, R4 RESISTOR    
+2   10µF          CAPACITOR					1206                 C1, C2 CAPACITOR    
+2   1k            RESISTOR					0805                 R1, R3 RESISTOR  
+2   1µF           CAPACITOR					1206                 C3, C4 CAPACITOR     
+2   B2B-XH        JST-XH					B2B-XH-A             X3, X4 JST XH 2Pin Header                               
+2   B2B-XHH       JST-XH					B2B-XH-H             X1, X2 JST XH 2Pin Header 90° Angle                              
+1   B4B-XHH       JST-XH					B4B-XH-H             X5     JST XH 4Pin Header 90° Angle                              
+1   Cooling Fan´s PINHD-2X3					2X03                 JP1    PIN HEADER                     
+1   Filter fan´s  PINHD-2X3					2X03                 JP2    PIN HEADER                     
+1   LM2937-12     TPS7B6933QDCYRQ1			SOT-223-4            U2     IC REG LIN SOT223-4 
+1   LM2937-5      TPS7B6933QDCYRQ1			SOT-223-4            U1     IC REG LIN SOT223-4 
+2   SQ2348ES      TRANSISTOR-FET_DMN2004K	TRANSISTOR-FET_SOT23 Q1, Q2 N-Channel Enhancement MOSFET   
