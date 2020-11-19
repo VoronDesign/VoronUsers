@@ -1,0 +1,27 @@
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    strategy:
+      matrix:
+        node-version: [14.x]
+    env:
+      GIT_BRANCH: ${{ github.head_ref }} 
+      GIT_PR_BASE_BRANCH: ${{ github.base_ref	}}
+      GIT_PULL_REQUEST: ${{ github.event.number }} 
+    steps:
+    - name: Checkout Actions
+      uses: actions/checkout@v2
+    - name: Cache Folder
+      id: cache-folder
+      uses: actions/cache@v2
+      with:
+        path: ci_cache
+        key: voron-ci
+    - name: Set ENV variable
+      run: echo "::set-env name=GIT_BRANCH::${GIT_BRANCH:-$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }')}" 
+   # - name: Set ENV variable
+    #  run: echo "::set-env name=GIT_BRANCH::${GIT_BRANCH:-$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }')}" 
+    - name: Print Travis ENV vars 
+      run: |
+        echo "GIT_BRANCH: ${GIT_BRANCH}"
