@@ -28,8 +28,8 @@ jobs:
       with:
         path: ci_cache
         key: voron-ci
-   # - name: Set ENV variable
-    #  run: echo "::set-env name=GIT_BRANCH::${GIT_BRANCH:-$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }')}" 
+    - name: Set ENV variable
+      run: echo "::set-env name=GIT_BRANCH::${GIT_BRANCH:-$(echo $GITHUB_REF | awk 'BEGIN { FS = "/" } ; { print $3 }')}" 
     - name: Print Travis ENV vars 
       run: |
         echo "GIT_BRANCH: ${GIT_BRANCH}"
