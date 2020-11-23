@@ -6,6 +6,11 @@ you have to drill a 4mm hole yourself on the drawer rail (s. image)
 
 Required material:
 
+Cable Chain with 15 chain links:
+
+https://www.igus.com/iPro/iPro_01_0002_0007_USen.htm?ArtNr=04-16-015-0&c=US&l=en (or similar)
+
+
 8x M3x4mm heat inserts
 
 4x M3x6mm BHCS to mount the rails on skirts

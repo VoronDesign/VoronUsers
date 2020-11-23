@@ -6,6 +6,10 @@ Carefully drill the 1mm hole to 2.5mm and cut an M3 thread into it
 
 Required material:
 
+Filter: https://www.aliexpress.com/item/32788652288.html
+
+Carbon Pad: https://www.amazon.com/EA-Premium-Carbon-Infused-Filter/dp/B07T3PPH4C
+
 9x M3x4mm heat inserts
 
 8x M3x16 countersunk flat head for the fans
