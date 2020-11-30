@@ -2,6 +2,8 @@
 
 This is my interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is the basic version without the possibility to enclose the Ender like the original Switchwire.
 
+![overview](IMAGES/General.PNG)
+
 
 
 ## General Information
@@ -40,6 +42,17 @@ This is my interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is t
   - Raspberry Pi
   - some wire
   
+## Some more pictures
+
+![front](IMAGES/FRONT.PNG)
+
+![right](IMAGES/RIGHT.PNG)
+
+![back](IMAGES/BACK.PNG)
+
+![left](IMAGES/LEFT.PNG)
+
+![bottom](IMAGES/BOTTOM.PNG)
   
   
 
