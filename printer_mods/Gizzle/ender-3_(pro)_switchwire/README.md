@@ -8,7 +8,10 @@ This is my interpretation of a Ender 3 and Ender 3 Pro Switchwire mod. This is t
 
   - Most of the parts are used from a stock Ender 3 (Pro) which leads to a cheap entry into the world of Voron
   - It differs a little bit from the og Switchwire, like at the motor mounts of the X- and Z-axis. There is no explizit tightening mechanism!
-  - You'll need to drill the Y-carriage for the mounting holes of the rail, Y-endstop and chain mount
+  - You'll need to drill the Y-carriage for the mounting holes of the rail, Y-endstop and chain mount. You can get the positioning for the Ender 3 from the CAD model.
+    For the Pro version, the positioning of the belt holder and the rail in Y direction are the same. Regarding the X direction, the mounting holes for the rail and
+    the belt holder are logically moved 10mm to the right. The belt holder uses in the Pro version also one mounting hole of one of the wheels! If you need help, feel
+    free to ask.
   - The X-movement is slightly limited because of the rails
   - You'll need to move the Y extrusion 20mm forward to get the full 235mm movement of the Y-Axis. You can use one of the existing holes in the Y-extrusion and add one
     hammernut
