@@ -31,10 +31,16 @@ The touchscreen comes with a button that you can press to cycle around the scree
 * 2 x M5x10mm bolts (Button Head) and T-Nuts to attach to Voron
 * Additional 2 x M5x10mm bolts (Button Head) for the base panel
 
+## Printed parts
+
+I have provided STL files for the main display mount, which prints in 2 parts and screws together, and a small button extension for the push-button switch.
+
+Print the STL files in the orientation provided. 3 walls / 3 top / 3 bottom and 40% infill is sufficient. You should ideally enable support (__touching bed only__) for the largest part.
+
 ## Assembly Instructions
 
 1. Install the display drivers on your Pi. Test the screen and Install and configure OctoDash
-1. Print the STL files in the orientation provided. 3 walls and 40% infill is sufficient. You should ideally enable support (touching bed only) for the largest STL part.
+1. Print the STL files
 1. Solder 8cm wires from the push button to bridge the existing button on the screen PCB
 1. Insert the printed button extension and then the push button in the space provided
 1. Attach the HDMI adapter and cable to the screen
@@ -45,3 +51,4 @@ The touchscreen comes with a button that you can press to cycle around the scree
 
 ## Gallery
 
+![Print orientation](./img/printorientation.jpg)
