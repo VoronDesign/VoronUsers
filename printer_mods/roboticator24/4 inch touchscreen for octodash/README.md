@@ -35,7 +35,7 @@ The touchscreen comes with a button that you can press to cycle around the scree
 
 I have provided STL files for the main display mount, which prints in 2 parts and screws together, and a small button extension for the push-button switch.
 
-Print the STL files in the orientation provided. 3 walls / 3 top / 3 bottom and 40% infill is sufficient. You should ideally enable support (__touching bed only__) for the largest part.
+Print the STL files in the orientation shown in the image below. 3 walls / 3 top / 3 bottom and 40% infill is sufficient. You should ideally enable support **__touching bed only__** for the largest part, so that it has a clean edge to attach to your bottom panel (if you have one).
 
 ## Assembly Instructions
 
@@ -51,4 +51,5 @@ Print the STL files in the orientation provided. 3 walls / 3 top / 3 bottom and 
 
 ## Gallery
 
+#### Print Orientation:
 ![Print orientation](./img/printorientation.jpg)
