@@ -1,3 +1,5 @@
+![Screenshots](./img/screenshots.jpg)
+
 # 4-inch Touchscreen for OctoDash - Voron 2.4
 
 ## OctoDash
@@ -51,8 +53,15 @@ Print the STL files in the orientation shown in the image below. 3 walls / 3 top
 
 ## Gallery
 
+#### CAD:
+![CAD](./img/cad.jpg)
+
+#### Push-button location:
+![Installing the push-button](./img/pushbuttonlocation.jpg)
+
 #### Print Orientation:
 ![Print orientation](./img/printorientation.jpg)
 
-#### Push-button location
-![Installing the push-button](./img/pushbuttonlocation.jpg)
+#### The finished article:
+![Photo](./img/photo.jpg)
+
