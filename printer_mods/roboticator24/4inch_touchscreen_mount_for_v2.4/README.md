@@ -37,7 +37,9 @@ The touchscreen comes with a button that you can press to cycle around the scree
 
 I have provided STL files for the main display mount, which prints in 2 parts and screws together, and a small button extension for the push-button switch.
 
-Print the STL files in the orientation shown in the image below. 3 walls / 3 top / 3 bottom and 40% infill is sufficient. You should ideally enable support (**__touching bed only__**) for the largest part, so that it has a clean edge to attach to your bottom panel (if you have one).
+Print the STL files in the orientation shown in the image below. 3 walls / 3 top / 3 bottom and 40% infill is sufficient.
+
+This bit is not essential, and I know it's frowned upon, but I made it so that if you enable support (**__touching buildplate only__**, 80 degree overhang angle) when printing the largest part, there will be a tiny bit of support added so that the mount has a clean edge so you can attach it to your bottom panel (assuming you have one). Note in the CAD image below that you should NOT cutout the bottom panel under where the screen goes - instead you will need to drill 2 holes to allow for M5 bolts. I found that by doing this the screen is mounted more securely, and there is no "flex" when you push against it. If you already have a bottom panel that is cut, then ignore this and you don't need to print with support.
 
 ## Assembly Instructions
 
