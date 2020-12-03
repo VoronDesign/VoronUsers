@@ -106,5 +106,5 @@ like so:
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-
+| Vesh | [Ball Head Screw Gantry Joints](./Ball_Head_Screw_Gantry_Joints) | v2.4 improved Gantry joints for Halleffect Endstops based on Annex-Engineering's Reinforced Gantry Mounts | :x: | :x: | :heavy_check_mark: |
 ---
