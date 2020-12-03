@@ -53,3 +53,6 @@ Print the STL files in the orientation shown in the image below. 3 walls / 3 top
 
 #### Print Orientation:
 ![Print orientation](./img/printorientation.jpg)
+
+#### Push-button location
+![Installing the push-button](./img/pushbuttonlocation.jpg)
