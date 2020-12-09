@@ -68,10 +68,13 @@ Print the STL files in the orientation shown in the image below. 3 walls / 3 top
 ![Print orientation](./img/printorientation.jpg)
 
 #### Remove the snap-off supports
-![Snap Off Supports](./img/removesupports)
+![Snap Off Supports](./img/removesupports.jpg)
 
 #### Push-button location:
 ![Installing the push-button](./img/pushbuttonlocation.jpg)
+
+#### Connect wires to existing brightness control button:
+![PCB](./img/pcb.jpg) 
 
 #### Attach to bottom panel:
 ![Attach to bottom panel](./img/attachbottompanel.jpg) 
