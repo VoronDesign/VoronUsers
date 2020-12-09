@@ -35,7 +35,7 @@ like so:
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |
-|deepfriedheroin |[V2 Bed Wagos](./v2_bed_wagos) |Wire management for the v2 bed |:x: |:x:|:heavy_check_mark: |
+|deepfriedheroin |[V2 Bed Wagos](./deepfriedheroin/v2_bed_wagos) |Wire management for the v2 bed |:x: |:x:|:heavy_check_mark: |
 | | [v0 Wago Bed Mounts](./deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | :heavy_check_mark: | :x: | :x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |
