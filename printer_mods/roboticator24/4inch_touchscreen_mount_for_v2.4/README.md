@@ -27,11 +27,16 @@ The touchscreen comes with a button that you can press to cycle around the scree
 * Touchscreen
 * HDMI cable
 * GPIO cable
-* (optional) Push-button for brightness adjustment
-* Printed parts (see STL folder)
 * 2 x M3x12mm bolts
 * 2 x M5x10mm bolts (Button Head) and T-Nuts to attach to Voron
-* Additional 2 x M5x10mm bolts (Button Head) to secure to the bottom panel
+* (optional) Push-button for brightness adjustment
+* Printed parts
+
+The following is for optionally attaching to your bottom panel. You will only be able to do this if you haven't made the cutout - see below)
+* 2 x heatset inserts
+* 2 x M3x8mm bolts (Socket Head)
+* 2 x Voron printed bottom panel clips
+
 
 ## Printed parts
 
@@ -39,18 +44,19 @@ I have provided STL files for the main display mount, which prints in 2 parts an
 
 Print the STL files in the orientation shown in the image below. 3 walls / 3 top / 3 bottom and 40% infill is sufficient.
 
-This bit is not essential, and I know it's frowned upon, but I made it so that if you enable support (**__touching buildplate only__**, 80 degree overhang angle) when printing the largest part, there will be a tiny bit of support added so that the mount has a clean edge so you can attach it to your bottom panel (assuming you have one). Note in the CAD image below that you should NOT cutout the bottom panel under where the screen goes - instead you will need to drill 2 holes to allow for M5 bolts. I found that by doing this the screen is mounted more securely, and there is no "flex" when you push against it. If you already have a bottom panel that is cut, then ignore this and you don't need to print with support.
 
 ## Assembly Instructions
 
 1. Install the display drivers on your Pi. Test the screen and install and configure OctoDash
-1. Print the STL files
+1. Print the STL files and remove the snap-off supports
+1. (optional) Install 2 x heat-set inserts
 1. Solder and heatshrink approx. 8cm wires from the push button to bridge the existing button on the screen PCB
 1. Insert the printed button extension into the hole in the screen mount and then the push button in the space behind it
 1. Attach the HDMI adapter and ribbon cable to the screen. You may need to bend the pins that the ribbon cable attaches to slightly to adjust the angle it attaches at - especially if you have a bottom panel on your Voron
 1. Slide the screen into the printed mount and join the 2 halves together with the M3 bolts
 1. Attach the completed part to the Voron with M5x10mm BHCS bolts
 1. Connect the HDMI and Ribbon cables to your Pi
+1. (optional) Attach 2 x bottom panel clips
 1. Enjoy!
 
 ## Gallery
@@ -61,8 +67,14 @@ This bit is not essential, and I know it's frowned upon, but I made it so that i
 #### Print Orientation:
 ![Print orientation](./img/printorientation.jpg)
 
+#### Remove the snap-off supports
+![Snap Off Supports](./img/removesupports)
+
 #### Push-button location:
 ![Installing the push-button](./img/pushbuttonlocation.jpg)
+
+#### Attach to bottom panel:
+![Attach to bottom panel](./img/attachbottompanel.jpg) 
 
 #### The finished article:
 ![Photo](./img/photo.jpg)
