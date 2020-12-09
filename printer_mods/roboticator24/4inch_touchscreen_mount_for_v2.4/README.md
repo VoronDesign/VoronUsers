@@ -14,7 +14,7 @@ When buying this screen I recommend you choose the "4-inch IPS screen for 3B" ev
 
 For the HDMI cable to connect the screen to your Pi, if you have a Pi 4B you will need a Micro HDMI Male to Full size HDMI Female, 20-30cm long. These should be readily available on Amazon, AliExpress or eBay. Pi 3B requires Full size HDMI Male to Full size HDMI Female 20-30cm long.
 
-You will also need a 26-40-way ribbon cable with Male IDC connector on one end and Female on the other to connect the screen to your Pi - this cable provides power and connectivity for the touchscreen function. I bought mine on eBay but you can get away with a 26-26 or 40-40 if you cannot find a 26-40, or relatively easily make one yourself if you just buy the loose parts.
+You will also need a 26-40-way ribbon cable with Male IDC connector on one end and Female on the other to connect the screen to your Pi - this cable provides power and connectivity for the touchscreen function. I bought mine on eBay but you can get away with a 26-26 or 40-40 if you cannot find a 26-40, or relatively easily make one yourself if you just buy the loose parts. At a push you could even just wire up the individual pins required (see the AliExpress page) rather than use a ribbon cable - only 14 of the pins are actually used.
 
 You will need to download and install the appropriate display driver from the location shown on the AliExpress page.
 
@@ -44,6 +44,7 @@ I have provided STL files for the main display mount, which prints in 2 parts an
 
 Print the STL files in the orientation shown in the image below. 3 walls / 3 top / 3 bottom and 40% infill is sufficient.
 
+The standard Voron front left and right skirt pieces do not need to be changed. However if you have a 300x300 Voron you might want to consider my skirt mod for the front left and right pieces.
 
 ## Assembly Instructions
 
