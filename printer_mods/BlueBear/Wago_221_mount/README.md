@@ -2,7 +2,7 @@
 
 ## Overview
 
-This mod is derived from [wago_221_mount](../../../legacy_printers/printer_mods/GSL12/wago_221_mount) and brings in some 
+This mod is derived from [wago_221_mount](../../../legacy_printers/printer_mods/GSL12/wago_221_mount) and brings in some
 mounts for the Wago 221 terminals (2 and 3 contacts) to clip and to screw for 1515 extrusions.
 
 ## Wago-Mount for screws
@@ -19,7 +19,7 @@ Don't rotate the clips for printing. They must be printed upright, as shown in t
 
 ![Print Orientation](./images/PrintOrientation.jpg "Print Orientation")
 
-Use m2 screws to attach the clips into the appropriate places of the mount. Screw heads must be flush otherwise the WAGOs won't fit.
+Use M2 self-tapping screws to attach the clips into the appropriate places of the mount. Screw heads must be flush otherwise the WAGOs won't fit.
 
 ![Assembly](./images/Mounting.jpg "Assembly")
 
