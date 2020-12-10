@@ -48,7 +48,7 @@ You will be able to find these older revisions under [Legacy_Revisions](./Legacy
 
 ![Revision_Comparisons](./Images/rev2_rev3_comparison.png)
 
-In Rev1+2, the brush holder was available as two options: a regular holder and one with fully printed sheet indexing stops. In Rev3, the brush holder became only available as a sheet stop option with M2X10 BCHS self tapping screws. Purge buckets were compatible across Rev1+2 and Rev3.
+In Rev1+2, the brush holder was available as two options: a regular holder and one with fully printed sheet indexing stops. In Rev3, the brush holder became only available as a printed sheet stop option with M2X10 BCHS self tapping screws. Purge buckets were compatible across Rev1+2 and Rev3.
 
 ## REV4 (LATEST)
 
