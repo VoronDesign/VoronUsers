@@ -45,7 +45,7 @@ like so:
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |
-| hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :grey_question: | :grey_question: | :heavy_check_mark: |
+| hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :grey_question: | :x: | :heavy_check_mark: |
 | hartk1213 | [Voron0_deck_panel_with_logo_and_VORON0](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_display_dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |
 | | [Voron0_C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |
