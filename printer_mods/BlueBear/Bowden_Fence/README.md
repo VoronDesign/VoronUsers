@@ -1,6 +1,6 @@
 # Overview
 
-A little "fence" to hold the tubes away from the belts. Clipmount so no further screws are needed.
+A little "fence" to hold the tubes away from the belts. Clipmount so no further nuts in extrusions are needed.
 
 ![image01](./images/image01.jpg "Usage")
 
@@ -9,6 +9,6 @@ Don't rotate the clips, otherwise they may break upon inserting into the extrusi
 picture
 ![printorientation](./images/image03.jpg "Print orientation")
 
-Glue the clip into the bowdenfence piece and let it cure.
+Attach a the clip into the bowdenfence piece with a short M2 self-tapping screw.
 
 ![image02](./images/image02.jpg "Usage")
