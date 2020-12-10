@@ -19,11 +19,11 @@ Don't rotate the clips for printing. They must be printed upright, as shown in t
 
 ![Print Orientation](./images/PrintOrientation.jpg "Print Orientation")
 
-Glue the clips into the appropriate places of the mount and let it cure before use.
+Use m2 screws to attach the clips into the appropriate places of the mount. Screw heads must be flush otherwise the WAGOs won't fit.
 
 ![Assembly](./images/Mounting.jpg "Assembly")
 
-Both mounts fit very well into the Z-Extrusions of the V0:
+Both mounts fit into the Z-Extrusions of the V0:
 
 ![5x Wago Mount](./images/picSnapMount5piece.jpg)
 
