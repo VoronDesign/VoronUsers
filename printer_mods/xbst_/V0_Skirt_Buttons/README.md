@@ -6,7 +6,7 @@ A version without the switches (just the OLED) also exists.
 ## Instructions
 
 0. You can find instructions for the switches [in the V2.4 Skirt Buttons readme.](../V2.4_Skirt_Buttons)
-1. Insert the M3 inserts. Mount the skirts in place. For the outer screws, mount them to the extrusion, then slide the skirt in. Make sure it is tight enough. (This was done because wrench access holes weren't printable in that area)
+1. Insert the M3 inserts. Mount the skirts in place. For the outer screws, mount the screws to the extrusion, then slide the skirt in. Make sure it is tight enough. (This was done because wrench access holes weren't printable in that area) Then mount the inner screws, using the wrench access holes.
 2. On the Pi Zero, solder wires to highlighted pads. This is for powering the Pi and connecting to the MCU.
 	![](./Pi.png)
 3. Mount the Pi Zero in the skirts, using M2.5 standoffs as screws. Make sure the USB connectors face the bottom side.
