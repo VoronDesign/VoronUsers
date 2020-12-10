@@ -80,6 +80,7 @@ like so:
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |
 | | [Alternative Front/Rear Skirts](./roboticator24/front+rear_skirts_for_v2.4) | Modified skirts including blank centre section for "headless" V2.4 | :x: | :x: | :heavy_check_mark: |
+| | [DIN mount for Raspberry Pi](./roboticator24/rpi_din_rail_mount_with_4010_fan) | DIN rail mount incorporating 4010 cooling fan for Raspberry Pi | :x: | :x: | :heavy_check_mark: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |
