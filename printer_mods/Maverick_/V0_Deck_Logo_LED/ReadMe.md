@@ -5,12 +5,20 @@ A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring.
 
 
 ## Print
+* Deck_Logo_Insert_Transparent 
+   * Printed with a clear filament to allow for the glow that is represented in the pictures.
+   * Recommend >40% infill to hide the individual LEDs.
 
-There are three files to print with pictures that show the order in which they're placed. The "Deck Logo Insert - Transparent" file is printed with a clear filament to allow for the glow that is represented in the pictures.
+* Deck_Logo 
+  * This is meant to be printed with no top or bottom layers, leaving the infill pattern exposed for light to shine through.  
+  * Perimeters (vertical): 2 or 3 
+  * Solid Layers (horizontal): 0 Top and 0 Bottom
+  * Infill Pattern: I recommend a pattern like "Honeycomb", "Stars" or similar. The main goal is to be able to see through the print.
+  * Infill Density: This will vary depending on your infill pattern and personal preference. Play around with it to get the look that you want. 
 
 
 ## Assemble and Install
-The parts are attached to one another using an adhesive like super glue. The assembly is then attached to the lower deck panel via VHB tape.
+The parts are pressed and snapped together then attached to the lower deck panel via VHB tape.
 
 
 ## LEDs
