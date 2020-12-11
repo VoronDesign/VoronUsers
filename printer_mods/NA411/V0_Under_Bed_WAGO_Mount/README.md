@@ -12,5 +12,7 @@ Remove the front bed mount part, slide in two M3 nuts replace the bed mount and 
 ## Required Hardware
 
 1x Printed Part
+
 2x M3 Buts
+
 2x M3x6 BHCS or SHCS
