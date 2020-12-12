@@ -6,4 +6,6 @@ Mount with two M5x8 screws and T- or hammerhead nuts to normal 2020 extrusions.<
 <br>
 
 version: 0.1<br>
-![GitHub Logo](https://i.imgur.com/qMGkSe8.png)![GitHub Logo](https://i.imgur.com/2PARhpQ.png)![GitHub Logo](https://i.imgur.com/p3H5AJV.jpg)
+![relay_mount_printed](./relay_mount_printed.jpeg)
+![relay_mount1](./relay_mount1.png)
+![relay_mount2](./relay_mount2.png)
