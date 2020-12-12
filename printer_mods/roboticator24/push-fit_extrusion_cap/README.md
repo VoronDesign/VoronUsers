@@ -22,6 +22,6 @@ Print the STL file as follows:
 
 ## Notes
 
-it is designed to be a tight fit and may be hard to remove once inserted, although it should be relatively easy to slide along the length of the extrusion once inserted.
+It is designed to be a tight fit and may be hard to remove once inserted, although it should be relatively easy to slide along the length of the extrusion once inserted.
 If it's *too* tight for your use case, you can soften it up by flexing it manually before insertion, or sliding it through a spare piece of 2020 extrusion
 Take care not to trap wires when inserting!
