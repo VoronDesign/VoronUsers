@@ -82,6 +82,8 @@ like so:
 | | [Alternative Front/Rear Skirts](./roboticator24/front+rear_skirts_for_v2.4) | Modified skirts including blank centre section for "headless" V2.4 | :x: | :x: | :heavy_check_mark: |
 | | [DIN mount for Raspberry Pi](./roboticator24/rpi_din_rail_mount_with_4010_fan) | DIN rail mount incorporating 4010 cooling fan for Raspberry Pi | :x: | :x: | :heavy_check_mark: |
 | | [Side-Mount Spoolholder](./roboticator24/side-mount_spoolholder) | Filament spool holder to attach to side panel of Voron | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Push-fit LED lighting](./roboticator24/push-fit_led_lightstrip) | LED light strip holder for 2020 extrusions | :x: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Push-fit Extrusion Cap](./roboticator24/push-fit_extrusion_cap) | Use this to hide wires in your 2020 extrusion channels - great for lighting, etc. | :x: | :heavy_check_mark: | :heavy_check_mark: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |
