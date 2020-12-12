@@ -7,7 +7,7 @@ This holds 4 221-412 WAGO Mounts for cleaner AC wiring of the heated bed on the 
 
 ## Installation
 
-Remove the front bed mount part, slide in two M3 nuts, replace the bed mount, push quad holder against the Read Bed Mounts and secure with two M3x6 BHCS or SHCS
+Remove the front bed mount part, slide in two M3 nuts, replace the bed mount, push quad holder against the Rear Bed Mounts and secure with two M3x6 BHCS or SHCS
 
 ## Required Hardware
 
