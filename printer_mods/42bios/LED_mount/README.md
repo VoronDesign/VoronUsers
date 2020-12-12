@@ -3,4 +3,5 @@ Mount with two M3x10 screws and T- or hammerhead nuts to normal 2020 extrusions.
 Works with 8-12mm LED stripes<br>
 
 version: 0.1<br>
-![GitHub Logo](https://i.imgur.com/oPmW2XH.png)![GitHub Logo](https://i.imgur.com/oP0wyu7.png)
+![LED_mount1](./led_mount1.png)
+![LED_mount2](./led_mount2.png)
