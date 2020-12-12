@@ -3,9 +3,7 @@ Mount with two M3x8 screws and T- or hammerhead nuts to normal 2020 extrusions.<
 4x or 8x M2x8 self tapping screws to mount the relay module.
 <br>
 
-🛑 ! not tested yet ! 🛑 
-
 <br>
 
 version: 0.1<br>
-![GitHub Logo](https://i.imgur.com/qMGkSe8.png)![GitHub Logo](https://i.imgur.com/2PARhpQ.png)
+![GitHub Logo](https://i.imgur.com/qMGkSe8.png)![GitHub Logo](https://i.imgur.com/2PARhpQ.png)![GitHub Logo](https://i.imgur.com/p3H5AJV.jpg)
