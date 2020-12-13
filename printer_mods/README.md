@@ -26,7 +26,10 @@ like so:
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW |
 | --- | --- | --- | --- | --- | --- | --- |
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
-||[MeanWell UHP-xxx DIN mount](./aeresov/TL_filament_sensor_bracket)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|:x:|
+||[MeanWell UHP-xxx DIN mount](./aeresov/MeanWell_UHP_DIN_mount)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
+||[Raspberry Pi DIN mount](./aeresov/Raspberry_Pi_DIN_mount)|A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
+||[SKR 1.3/1.4 DIN mount](./aeresov/SKR_DIN_mount)|A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
+||[cable tie DIN mount](./aeresov/cable_tie_DIN_mount)|A bracket for cable ties to route cables across DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
 |albert|[IKEA Dioder Led Mount](./albert/IKEA_Dioder_Led_Mount)|A mount for the IKEA Dioder LED strip | :grey_question: | :grey_question: | :heavy_check_mark: |:x:|
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |claytono|[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
