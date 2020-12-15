@@ -1,6 +1,8 @@
 ![Screenshots](./img/screenshots.jpg)
 
-# 4-inch Touchscreen for OctoDash - Voron 2.4
+# 4-inch Touchscreen for Voron 2.4
+
+This mod replaces the 12864 panel on the Voron 2.4 with a 4-inch touchscreen. To date I have only tested this with OctoDash, but I intend to test with KlipperScreen as this does not require OctoPrint
 
 ## OctoDash
 
