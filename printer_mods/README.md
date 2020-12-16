@@ -25,8 +25,13 @@ like so:
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW |
 | --- | --- | --- | --- | --- | --- | --- |
+|42bios|[LED mount](./42bios/LED_mount)|LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
+||[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
-||[MeanWell UHP-xxx DIN mount](./aeresov/TL_filament_sensor_bracket)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|:x:|
+||[MeanWell UHP-xxx DIN mount](./aeresov/MeanWell_UHP_DIN_mount)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
+||[Raspberry Pi DIN mount](./aeresov/Raspberry_Pi_DIN_mount)|A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
+||[SKR 1.3/1.4 DIN mount](./aeresov/SKR_DIN_mount)|A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
+||[cable tie DIN mount](./aeresov/cable_tie_DIN_mount)|A bracket for cable ties to route cables across DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
 |albert|[IKEA Dioder Led Mount](./albert/IKEA_Dioder_Led_Mount)|A mount for the IKEA Dioder LED strip | :grey_question: | :grey_question: | :heavy_check_mark: |:x:|
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |claytono|[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
@@ -36,8 +41,10 @@ like so:
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |:x:|
+|DC67|[Plug Panel Mod for Schaffner FN286-10-06](./DC67/plug_panel_schaffner)|A modified plug panel for the Power Entry Connector Schaffner FN286-10-06 with two integreated Keystone sockets. |:x:|:grey_question:|:heavy_check_mark:| :x: |
 |deepfriedheroin |[V2 Bed Wagos](./deepfriedheroin/v2_bed_wagos) |Wire management for the v2 bed |:x: |:x:|:heavy_check_mark: |:x:|
 | | [v0 Wago Bed Mounts](./deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | :heavy_check_mark: | :x: | :x: |:x:|
+| | [v0 Power Wagos](./deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | :heavy_check_mark: | :x: | :x: |:x:|
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
@@ -63,6 +70,7 @@ like so:
 |Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
+| KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
@@ -89,6 +97,7 @@ like so:
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
+| rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
@@ -110,12 +119,17 @@ like so:
 | | [Flat V2.4 Skirts](./xbst_/Flat_Skirts) | Flat V2.4 Skirts so a panel without cutouts can be used | :x: | :x: |:heavy_check_mark: |:x:|
 | | [V2.4 Fanless Middle Skirt](./xbst_/V2.4_Fanless_Middle_Skirt)| A Fanless alternative middle side skirt | :x: | :x: |:heavy_check_mark: |:x:|
 | | [Duct Mount](./xbst_/Duct_Mount) | 100mm/4" ducting mount for ventilation. Also supports umbilical cord and has 3 orientations for bowden adapter. | :x: | :x: |:heavy_check_mark: |:x:|
+| | [V2.4 Skirt Buttons](./xbst_/V2.4_Skirt_Buttons) | Skirt mod for custom Gcode macro buttons  |:x: |:x: |:heavy_check_mark: | :x: |
 | | [HOYMK SSR Mount](./xbst_/HOYMK_SSR_Mount) | Mount for Chinese HOYMK SSR | :heavy_check_mark: | :x: | :x: |:x:|
 | | [ADXL345 V0 Mount](./xbst_/ADXL345_V0_Mount) | V0 Mount for a ADXL345 module | :heavy_check_mark: |:x: |:x: |:x:|
 | | [Easy Access Rear Panels](./xbst_/Easy_Access_Rear_Panels_v0) | New rear panels designed to expose the extruder for easy filament swapping | :heavy_check_mark: | :x: |:x: |:x:|
 | | [Hat LED Mount](./xbst_/Hat_LED_Mount) | Top Hat LED module mount | :heavy_check_mark: |:x: |:x: |:x:|
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |:x:|
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0 Buttons & OLED Mount](./xbst_/V0_Skirt_Buttons)| Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display | :heavy_check_mark: | :x: | :x: | :x: |
+| | [Mobius 4 (M4) V0 Mod](./xbst_/V0_M4_Mod)| Mod to mount a M4 extruder to a Voron 0 where pocketwatch extruder mounts | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0 Electronics Cover](./xbst_/V0_Electronic_Panel)| A printed cover for v0 electronics. Requires larger printer to print. | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0 PiCam Mount](./xbst_/V0_Picam)| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 
 ---
