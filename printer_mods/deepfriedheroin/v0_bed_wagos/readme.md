@@ -1,4 +1,4 @@
-# Two versions of V0 Bed Wagos
+# Two Versions of V0 Bed Wagos
 
 ## Side Rails - Dual and Quad
 Attach Wago 221-412 to your v0 bed.
