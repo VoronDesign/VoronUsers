@@ -5,4 +5,4 @@ Depending on your tolerances it may be tight enough as is, or you may have to us
 
 I also slightly increased the size of the screw holes from 1.5mm to 1.7mm as I was having a hard time getting mine screwed down.  
 
-![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/master/printer_mods/BladeScraper-Designs/Microswitch_Pod_JST/img/Microswitch%20Endstop%20Pod%20JST-XH%204pin%20assembly.png?raw=true)
+![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/master/printer_mods/BladeScraper-Designs/Microswitch_Pod_JST/img/assembly.png?raw=true)
