@@ -14,10 +14,10 @@ Install the bracket to the extrusion first, or at least, put the screw into the 
 You can run the flex cable behind or in front of the rear panel.  If you run it in front, tape it down so it can't rub against the XY belts.  
 
 BOM:
-1 x M3 T-Nut 
-1 x M3x8 SHCS
-4 x M2x8 SHCS
-4 x M2 Nut
+1 x M3 T-Nut </br>
+1 x M3x8 SHCS </br>
+4 x M2x8 SHCS </br>
+4 x M2 Nut </br>
 
 I would probably recommend using loctite on the nuts.  Alternatively you can substitute M2x8 with M2x10 and use nylon locknuts.
 
