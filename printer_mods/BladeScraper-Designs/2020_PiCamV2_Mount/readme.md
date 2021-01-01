@@ -1,4 +1,5 @@
 Simple bracket to mount a Raspberry Pi Camera Module V2 (unknown if Cam V1 will work, don't have one to test) to a 2020 Extrusion.
+Inventor Part File (2019) has been included in case you want to change the angle of the camera.  
 
 Made for a Voron 2.4 but really it should work with any printer with 2020 extrusions I would think.  You will probably have to invert your camera rotation (180 degrees) in your Pi/Camera configuration as it's technically upside down.  
 
