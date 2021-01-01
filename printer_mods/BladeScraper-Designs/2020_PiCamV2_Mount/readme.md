@@ -27,4 +27,4 @@ I would probably recommend using loctite on the nuts.  Alternatively you can sub
 
 ![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/master/printer_mods/BladeScraper-Designs/2020_PiCamV2_Mount/img/bottom.jpg?raw=true)
 
-![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/master/printer_mods/BladeScraper-Designs/2020_PiCamV2_Mount/img/view.png?raw=true)
+![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/master/printer_mods/BladeScraper-Designs/2020_PiCamV2_Mount/img/view1.png?raw=true)
