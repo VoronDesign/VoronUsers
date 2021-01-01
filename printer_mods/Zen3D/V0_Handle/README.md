@@ -1,4 +1,4 @@
-# Voron0 Handle
+# Voron0 Handle for 3mm panels
 
 ## print settings:
 
