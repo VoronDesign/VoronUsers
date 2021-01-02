@@ -49,7 +49,7 @@ There is a cutout at the front-center of the rear deck panel for the wiring for 
 
 
 
-![RearView](./img/CADRearQuarterViewWithBedAt45degrees.jpg)
+![RearView](./img/CADRearQuarterViewWithBedAt45Degrees.jpg)
 
 
 
