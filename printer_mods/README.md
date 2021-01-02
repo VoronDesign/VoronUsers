@@ -101,6 +101,7 @@ like so:
 | | [Afterburner LED lighting](./roboticator24/afterburner_led_lighting) | LED lighting for Voron logos and print surface | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Alternative Front/Rear Skirts](./roboticator24/front+rear_skirts_for_v2.4) | Modified skirts including blank centre section for "headless" V2.4 | :x: | :x: | :heavy_check_mark: | :x: |
 | | [DIN mount for Raspberry Pi](./roboticator24/rpi_din_rail_mount_with_4010_fan) | DIN rail mount incorporating 4010 cooling fan for Raspberry Pi | :x: | :x: | :heavy_check_mark: | :x: |
+| | [Stronger DIN mounts](./roboticator24/stronger_din_rail_mounts) | These are much beefier versions of the DIN rail mounts for the Mean Well PSUs and the SKR boards | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Side-Mount Spoolholder](./roboticator24/side-mount_spoolholder) | Filament spool holder to attach to side panel of Voron | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Push-fit LED lighting](./roboticator24/push-fit_led_lightstrip) | LED light strip holder for 2020 extrusions | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Push-fit Extrusion Cap](./roboticator24/push-fit_extrusion_cap) | Use this to hide wires in your 2020 extrusion channels - great for lighting, etc. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
