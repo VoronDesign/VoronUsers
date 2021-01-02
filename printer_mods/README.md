@@ -33,10 +33,10 @@ like so:
 ||[SKR 1.3/1.4 DIN mount](./aeresov/SKR_DIN_mount)|A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
 ||[cable tie DIN mount](./aeresov/cable_tie_DIN_mount)|A bracket for cable ties to route cables across DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
 |albert|[IKEA Dioder Led Mount](./albert/IKEA_Dioder_Led_Mount)|A mount for the IKEA Dioder LED strip | :grey_question: | :grey_question: | :heavy_check_mark: |:x:|
-|al3ph|[LED Mount](./al3ph/led_mount)|A mount for 10mm LED WS2812 strips | | :heavy_check_mark: | :x: | :x: |:x:|
-| |[Analog Timer Mount](./al3ph/analog_timer_mount)|A skirt mount for analog timer | | :heavy_check_mark: | :x: | :x: |:x:|
-| |[Filament Runout Sensor](./al3ph/filament_runout)|A simple filament runout sensor | | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|
-| |[PL05 Sensor Mount](./al3ph/pl05_mount)|A mount PL05 inductive sensor | | :heavy_check_mark: | :x: | :x: |:x:|
+|al3ph|[LED Mount](./al3ph/led_mount)|A mount for 10mm LED WS2812 strips |:heavy_check_mark:|:x:|:x:|:x:| 
+| |[Analog Timer Mount](./al3ph/analog_timer_mount)|A skirt mount for analog timer |:heavy_check_mark:|:x:|:x:|:x:|
+| |[Filament Runout Sensor](./al3ph/filament_runout)|A simple filament runout sensor |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| |[PL05 Sensor Mount](./al3ph/pl05_mount)|A mount PL05 inductive sensor |:heavy_check_mark:|:x:|:x:|:x:|
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |claytono|[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|

@@ -22,4 +22,4 @@ I printed with 0.4mm nozzle 0.2mm layer height, no supports need.
 
 Print one of each STL.
 
-<img src="./front.jpeg">
+<img src="./images/front.jpeg">
