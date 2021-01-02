@@ -3,6 +3,7 @@
 ## print settings:
 
 - Support required
+- Or use Voron0Handle_supported.stl (layer hight 0.2mm)
 
 ## hardware:
 
