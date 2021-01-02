@@ -96,7 +96,7 @@ like so:
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
-| roboticator24 | [Lift-Up Bed for Voron 2.4](./roboticator24/lift-up_printbed_for v2.4) | Hinged bed system for Voron 2.4 to allow easy access to electronics. Also includes 3-point bed mount to avoid risk of "Taco" warping | :x: | :x: | :heavy_check_mark: | :x: |
+| roboticator24 | [Lift-Up Bed for Voron 2.4](./roboticator24/lift-up_printbed_for_v2.4) | Hinged bed system for Voron 2.4 to allow easy access to electronics. Also includes 3-point bed mount to avoid risk of "Taco" warping | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Touchscreen for Voron 2.4](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Afterburner LED lighting](./roboticator24/afterburner_led_lighting) | LED lighting for Voron logos and print surface | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Alternative Front/Rear Skirts](./roboticator24/front+rear_skirts_for_v2.4) | Modified skirts including blank centre section for "headless" V2.4 | :x: | :x: | :heavy_check_mark: | :x: |
