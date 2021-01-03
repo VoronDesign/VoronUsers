@@ -65,6 +65,9 @@ like so:
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |
+|StefanPieter |[Triangle Labs Filament Sensor Bracket](./StefanPieter/TL_Runout_Sensor_Bracket) |Triangle Labs Filament Sensor Bracket |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+|[Chamber Temp Sensor Clip](./StefanPieter/10x15_Temp_Sensor_Clip) |Triangle Labs Filament Sensor Bracket |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+|[Switchwire Style Spool Holder V Series](Switchwire_corner_spool_for_V2) |Switchwire Style Spool Holder V Series |:x: |:x: |:heavy_check_mark: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |
