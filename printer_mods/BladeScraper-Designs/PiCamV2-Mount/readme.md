@@ -22,7 +22,7 @@ BOM:</br>
 
 I would probably recommend using loctite on the nuts.  Alternatively you can substitute M2x8 with M2x10 and use nylon locknuts.
 
-![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/PiCamV2-Mount/printer_mods/BladeScraper-Designs/2020_PiCamV2_Mount/img/PiCam2_Assembly.png?raw=true)
+![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/PiCamV2-Mount/printer_mods/BladeScraper-Designs/PiCamV2-Mount/img/PiCam2_Assembly.png?raw=true)
 
 
 ![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/PiCamV2-Mount/printer_mods/BladeScraper-Designs/2020_PiCamV2_Mount/img/bottom.jpg?raw=true)
