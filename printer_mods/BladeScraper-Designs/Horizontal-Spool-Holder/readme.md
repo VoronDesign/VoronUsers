@@ -12,4 +12,4 @@ To install, first put two M3 T-Nuts into the horizontal extrusion, one on the to
 ![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/Horizontal-Spool-Holder/printer_mods/BladeScraper-Designs/Horizontal-Spool-Holder/img/Holder-Real.jpg?raw=true)
 ![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/Horizontal-Spool-Holder/printer_mods/BladeScraper-Designs/Horizontal-Spool-Holder/img/Holder-with-spool.jpg?raw=true)
 
-
+This part prints without supports and only takes around an hour or less to print with moderate print speeds.  Infill isn't critical but I would use at least 3 perimeters and 5 top/bottom layers.
