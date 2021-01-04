@@ -138,6 +138,6 @@ like so:
 | | [V0 Electronics Cover](./xbst_/V0_Electronic_Panel)| A printed cover for v0 electronics. Requires larger printer to print. | :heavy_check_mark: | :x: | :x: | :x: |
 | | [V0 PiCam Mount](./xbst_/V0_Picam)| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
-|karip|(./karip/volcano_shroud)|Vocano Shroud|:x:|:x:|:heavy_check_mark:|:grey_question:|
+|karip|[Volcano Shroud](./karip/volcano_shroud)|Vocano Shroud|:x:|:x:|:heavy_check_mark:|:grey_question:|
 
 ---
