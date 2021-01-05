@@ -5,3 +5,6 @@ That mod does not fit the AB correctly on a 1.8 or a 2.4, so I created a new mod
 
 This mod has been verified to fit the LDO-42STH20-1004AS on both a Voron 1.8 and 2.4.
 
+![image1]("connector%20cover%201.jpg")
+
+![image2]("connector%20cover%202.jpg")
