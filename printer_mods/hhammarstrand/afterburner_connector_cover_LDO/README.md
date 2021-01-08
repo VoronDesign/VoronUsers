@@ -1,4 +1,4 @@
-# Afterburner connector cover for 42STH20-1004AS stepper motor
+# Afterburner connector cover for LDO stepper motor - vsw and v2.4
 
 
 The Afterburner is designed for the 17HS08-1004S stepper motor. This stepper has notches where the motor body is screwed together and the connector cover uses the space inbetween the cable chain connector and the notch. My Afterburner uses an LDO-42STH20-1004AS2 which doesn't have this notch, hence this modified cable cover. </br>
