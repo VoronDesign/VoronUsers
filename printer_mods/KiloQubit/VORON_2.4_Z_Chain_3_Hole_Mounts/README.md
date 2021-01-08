@@ -2,7 +2,7 @@ VORON 2.4 Z Chain 3 Hole Mounts
 ===============================
 
 This mod is used to mount a generic 3-hole Z chain in a VORON 2.4.  The lower mount replaces the stock lower mount,
-and the upper mount attaches to B drive in the stock location instead of the 2-hole chain, and then the 3-hole chain
+and the upper mount attaches to A drive in the stock location instead of the 2-hole chain, and then the 3-hole chain
 mounts to the upper mount.
 
 ![Z Chain](z_chain.jpg)
