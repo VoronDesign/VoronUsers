@@ -47,3 +47,4 @@ For example, to put the fan speed at 30% use,
 ```
 SET_FAN_SPEED fan=exhaust_fan SPEED=0.3
 ```
+Running the fan at 30% speed during a print has lead to a dramatic decrease in ABS fumes and pretty much made them unoticible. I also run the fan at 100% speed at the end of a print to fully exhaust the print chamber.
