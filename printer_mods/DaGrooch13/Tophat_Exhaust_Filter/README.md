@@ -2,7 +2,6 @@
 After growing tired of my room smelling of ABS, I decided to create an exhaust and filter system that could be printed entirely on a v0.
 This mod utlizes **5 layers** of 10mm thick activated charcoal sheets, a 60mm x 25mm fan and an optional roomba HEPA filter.
 I have tested it throughly and my design almost entirely eliminates the ABS smell during and after printing.
-Adding foam tape to seal up any gaps between panels and the tophat will also greatly increase the reduction of fumes.
 <img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Asm_Front_View.jpg" width="500">
 <img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Front_View.jpg" width="400">
 
@@ -48,4 +47,6 @@ For example, to put the fan speed at 30% use,
 ```
 SET_FAN_SPEED fan=exhaust_fan SPEED=0.3
 ```
-Running the fan at 30% speed during a print has lead to a dramatic decrease in ABS fumes and pretty much made them unoticible. I also run the fan at 100% speed at the end of a print to fully exhaust the print chamber.
+Running the fan at 30% speed during a print has lead to a dramatic decrease in ABS fumes and pretty much made them unoticible.
+I also run the fan at 100% speed at the end of a print to fully exhaust the print chamber.
+Adding foam tape to seal up any gaps between panels and the tophat will also greatly increase the reduction of fumes.
