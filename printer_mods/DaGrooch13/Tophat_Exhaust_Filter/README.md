@@ -1,5 +1,5 @@
 # Tophat Exhaust Filter
-After growing tired of my room smelling of ABS, I decided to create an exhaust and filter system that could be printed entirely of a v0.
+After growing tired of my room smelling of ABS, I decided to create an exhaust and filter system that could be printed entirely on a v0.
 This mod utlizes **5 layers** of 10mm thick activated charcoal sheets, a 60mm x 25mm fan and an optional roomba HEPA filter.
 I have tested it throughly and my design almost entirely eliminates the ABS smell during and after printing.
 <img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Asm_Front_View.jpg" width="500">
