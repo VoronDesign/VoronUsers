@@ -6,7 +6,6 @@ I have tested it throughly and my design almost entirely eliminates the ABS smel
 <img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Front_View.jpg" width="400">
 
 The entire assembley (With the HEPA filter attachment) sticks out about 110 mm past the rear of the printer.
-
 <img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Top_View.jpg" width="400">
 <img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Side_View.jpg" width="400">
 
