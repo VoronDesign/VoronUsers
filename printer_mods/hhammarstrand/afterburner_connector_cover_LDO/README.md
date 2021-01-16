@@ -11,7 +11,7 @@ This cable cover is designed to not need any new hardware and therefore is attac
 - LDO-42STH20-1004AS2 on SwitchWire
 
 #### File: [connector_cover_ldo_vsw_v2-4.stl](STL/connector_cover_ldo_vsw_v2-4.stl):
-- LDO on v2.4
+- LDO-42STH-20-1104ASH on v2.4
 
 
 ### Comparison to the original connector cover (vsw version, v2 is similar)
@@ -34,5 +34,14 @@ This cable cover is designed to not need any new hardware and therefore is attac
 
 
 ### User photos 
-![Exodius](exodius_afterburner.jpg) 
-User Exodius Afterburner with version 1 of this mod installed
+![exodius afterburner](exodius_afterburner.jpg) 
+
+User exodius's afterburner with v1 of this mod installed
+
+![rvandermillion afterburner](rvandermillion_v2_afterburner.jpg) 
+
+User rvandermillion's afterburner on a v2.4 with v2 of this mod installed
+
+![rvandermillion chain](rvandermillion_v2_chain.jpg) 
+
+User rvandermillion's chain clearance on v2.4
