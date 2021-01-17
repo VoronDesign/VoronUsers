@@ -4,3 +4,4 @@ NOTE:  This is a beta release.  Still testing and some minor design changes may 
 
 Taking advantage of the 4:1 gearing to prevent the belted Z from dropping when motors are powered off.
 
+![Zbelt-Mod](Images/V0_ZBelt_beta1.jpg)
