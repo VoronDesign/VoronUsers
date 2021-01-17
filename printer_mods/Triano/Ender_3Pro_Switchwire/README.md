@@ -16,6 +16,70 @@ I had a lot of fun doing this and am willing to make any suggested changes.
 
 I have included several images and the Fusion 360 CAD model.  Full disclosure, I am just learning CAD, so my skills are somewhat limited.  I also added all the STL files.  I tried to keep all the Voron naming conventions.
 
+## STL Files
+- This mod uses a combination of original Switchwire and modified parts.  Most of the parts are modified/new as the Switchwire and Ender 3 frames are much different.  The following is a listing of the STL files, organized by location.
+1. Deck:
+	[a]_deck_y_chain_anchor
+	deck_front_right
+	deck_front_left
+	deck_rear_right
+	deck_rear_left
+
+2.	Electronics:
+	[a]_ps_clamp
+	[a]_ps_hanger
+	[a]_rpi3_mount
+	[a]_rpi3_shelf
+	[a]_rs_25_hanger
+	[a]_skr_mini_e3_mount
+	2020_ziptie_clip (quantity as required to suit your wiring organization)
+
+3.	Grill:
+	[a]_grill_endcap_x4
+	grill_front_left
+	grill_front_right
+	grill_rear_left
+	grill_rear_right
+
+4.	XZ-Axis:
+	[a]_xz_cable_cover
+	keybak_mount_plate_a
+	keybak_mount_plate_b
+	x_motor_mount_a
+	x_motor_mount_b
+	xz_block_left_a
+	xz_block_left_b
+	xz_block_right_a
+	xz_block_right_b
+	z_bearing_block_left
+	z_bearing_block_right_generic
+	z_carriage_stop_x2
+	z_motor_mount_a
+	z_motor_mount_b
+	[a]_xz_tensioner_x2 **
+	[a]_upper_idler_support_b_right **
+	[a]_upper_idler_support_b_left **
+	upper_idler_support_a_right **
+	upper_idler_support_a_left	**
+	keybak_gantry_anchor **
+	keybak_idler_bracket **	
+		
+5.	Y-Axis:
+	[a]_y_axis_anchor_x2
+	[a]_y_axis_frame_chain_anchor
+	[a]_y_axis_ls_mount
+	[a]_y_front_belt_mount
+	[a]_y_front_belt_slider
+	[a]_y_motor_mount_a
+	[a]_y_motor_mount_b
+	y_axis_bed_carriage
+		
+6.	Misc:
+	2020_rail_tool
+	4040_rail_tool
+
+** Denotes STL files that have not been modified from the baseline Switchwire design
+
 To do:
 1. I will try to work a BOM in the near future.  In general, the primary change is the additional rail.  I chose to use the LDO motor set, but I don't see a reason to not use the stock E3P steppers; except for the extruder motor.
 2. I designed this for a future enclosure.  I am not sure how/when I will do this.  But, it might be nice to print ABS.
