@@ -90,6 +90,7 @@ like so:
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |
 | theFPVgeek | [V0 M4 Mount and Backplate Mod](./theFPVgeek/Voron_V0_M4_Extruder_Mount) | V0 M4 Extruder Mounting Bracket & Backplate | :heavy_check_mark:| :x: | :x: |
+| | [V0 Z Belt Mod](./theFPVgeek/v0-zbelt-mod) | V0 Belt Driven Z | :heavy_check_mark:| :x: | :x: |
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |
