@@ -6,6 +6,7 @@ BOM: <br>
 2 x M3 T-Nuts <br>
 1 x M3x12 SHCS <br>
 1 x M3x8 SHCS <br>
+1 x Length of PTFE Tubing <br>
 
 To install, first put two M3 T-Nuts into the horizontal extrusion, one on the top and one on the side.  Then, put the M3x12 SHCS through the top hole of the holder, and screw it down loosely into the T-Nut.  Then, after making sure the side hole is aligned, screw the M3x8 SHCS into the other T-Nut.  This screw is technically not required, but does improve strength, as well as keep the holder pointed straight out.  Without this screw, the holder will tilt up slightly without the weight of a spool. Far from a deal breaker, but I would generally suggest using both screws.
 ![alt text](https://github.com/BladeScraper-Designs/VoronUsers/blob/Horizontal-Spool-Holder/printer_mods/BladeScraper-Designs/Horizontal-Spool-Holder/img/Holder%201.png?raw=true)
