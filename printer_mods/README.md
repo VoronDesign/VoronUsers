@@ -80,6 +80,7 @@ like so:
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
 |Kruppes |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |:x:|
 | |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |:x:|
+| |[Belt Tension Meter](./Kruppes/Tension_Meter_) | Print in Place Tension meter to easily tighten multiple belts to the same tension |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
