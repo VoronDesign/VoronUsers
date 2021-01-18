@@ -117,7 +117,7 @@ like so:
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-| JNP | [Back Door](./JNP/Back-Door| Door for easy hardware access | :heavy_check_mark: |:x: |:x: |
+| JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |
 | | [Deck Panel Rear](./JNP/Deck_Panel_Rear)| Covers the Hotbed cables | :heavy_check_mark: |:x: |:x: |
 | | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |
 | | [Front Door](./JNP/Front-Door)| Door as complete frame MAX31865 PT100 Board. | :heavy_check_mark: |:x: |:x: |
