@@ -72,17 +72,16 @@ like so:
 |Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
-| JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |
-| | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |
-| | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |
-| | [Front Door](./JNP/Front-Door)| Door in a frame | :heavy_check_mark: |:x: |:x: |
-| | [Hepa Filter](./JNP/HEPA-Filter)| Filter case with fan´s | :heavy_check_mark: |:x: |:x: |
-| | [Hotend PCB and Pushfitting](./JNP/Hotend_PCB_and_PTFE_Tube_mounting) | easy mounting for PCB and Pushfitting | :heavy_check_mark: |:x: |:x: |
-| | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |
-| | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |
-| | [PCB´s](./JNP/PCBs) | all PCBs for a complete Mod | :heavy_check_mark: | :x: | :x: |
-| | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |
-| | [Power supply distribution](./JNP/Supply-Distribution) | Case for power switch, supply PCB and cable chain for drawer | :heavy_check_mark: | :x: |:x: |
+| JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Front Door](./JNP/Front-Door)| Door in a frame | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Hepa Filter](./JNP/HEPA-Filter)| Filter case with fan´s | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Hotend PCB and Pushfitting](./JNP/Hotend_PCB_and_PTFE_Tube_mounting) | easy mounting for PCB and Pushfitting | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Power supply distribution](./JNP/Supply-Distribution) | Case for power switch, supply PCB and cable chain for drawer | :heavy_check_mark: | :x: |:x: |:x: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
