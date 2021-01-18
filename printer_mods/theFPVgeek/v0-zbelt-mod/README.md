@@ -12,5 +12,11 @@ step_distance: .003125
 <b>New format:</b>
 rotation_distance: 10
 
-![Zbelt-Mod](Images/V0_ZBelt_beta1.jpg)]
+![Zbelt-Mod01](Images/V0_ZBelt-04.jpg)]
+
+![Zbelt-Mod02](Images/V0_ZBelt-02.jpg)]
+
+![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)]
+
+![Zbelt-Mod04](Images/V0_ZBelt-03.jpg)]
 
