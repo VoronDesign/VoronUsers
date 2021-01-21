@@ -1,6 +1,6 @@
 Voron V0 Tophat extention
 
-<b>NOTE:</b>  This is a beta release.  Still testing and some minor design changes may occurs.
+<b>NOTE:</b>  This is an ALPHA release.  Still testing and requires some minor design changes
 
 Extension made for those who may need a taller tophat.  Made in multiple parts so it can be printed on the V0
 
