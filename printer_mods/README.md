@@ -23,7 +23,7 @@ like so:
 
 ---
 
-| Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW |
+| Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | VL |
 | --- | --- | --- | --- | --- | --- | --- |
 |42bios|[LED mount](./42bios/LED_mount)|LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
