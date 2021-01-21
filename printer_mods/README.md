@@ -19,7 +19,7 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: |`
+| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: | :x: |`
 
 ---
 
