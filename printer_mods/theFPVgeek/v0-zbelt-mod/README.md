@@ -1,4 +1,4 @@
-Voron V0 Z Belt mod using a M4 extruder as base.  Desiged to take advantage of the 4:1 gearing to prevent the belted Z from dropping when motors are powered off.
+Voron V0 Z Belt mod using a M4 extruder as base.  Designed to take advantage of the 4:1 gearing to prevent the belted Z / bed from dropping when motors are powered off.
 
 <b>NOTE:</b>  This is a beta release.  Still testing and some minor design changes may occurs.
 
@@ -48,7 +48,7 @@ Push idler mount up to desired belt tension and hold.
 
 # Step 4:
 
-While pushing up and when you have the belt tension how you want it, secure the top screw
+While pushing up and when you have the belt tension how you want, secure the top screw
 
 ![Zbelt-Step04](Images/z-step-04.jpg)
 
