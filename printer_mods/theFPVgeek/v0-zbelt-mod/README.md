@@ -39,7 +39,7 @@ Finally secure the bottom screw.  Yes, the bottom screw can still be access with
 Alternatively you can use @hartk V0.108 Idler which allows tensioning using a single screw at the top.  It's a very nice idler but you'll need to add some M3 nuts on the horizontal 1515 extrusion.  This can be done by either drilling out an access hole and hiding that hole behind his idler assembly or taking the frame apart slightly.  I opted the lazy route with mine LOL.
 
 
-<b>Addtional Pics:</b>
+# Addtional Pics:
 
 ![Zbelt-Mod01](Images/V0_ZBelt-04.jpg)
 
