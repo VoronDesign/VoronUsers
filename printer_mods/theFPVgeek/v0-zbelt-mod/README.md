@@ -34,6 +34,7 @@ Slightly loosen idler mount screws
 # Step 3: 
 
 Push idler mount up to desired belt tension and hold.  
+
 <b>NOTE:</b>  This is why it's important for your M5 screw not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
 
 ![Zbelt-Step03](Images/z-step-03-2.jpg)
@@ -52,6 +53,7 @@ Finally secure the bottom screw.  Yes, the bottom screw can still be access with
 
 ![Zbelt-Step05](Images/z-step-05.jpg)
 
+# Alternative Idler
 Alternatively you can use <b>@hartk V0.108</b> Idler which allows tensioning using a single screw at the top.  It's a very nice idler but you'll need to add some M3 nuts on the horizontal 1515 extrusion.  This can be done by either drilling out an access hole and hiding that hole behind his idler assembly or taking the frame apart slightly.  I opted the lazy route with mine LOL.
 
 
