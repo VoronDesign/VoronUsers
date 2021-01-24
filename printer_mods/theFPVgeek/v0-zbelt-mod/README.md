@@ -15,9 +15,9 @@ rotation_distance: 10
 
 # How to tighten Z-Belt:
 
-# Step 1:
+# Step 1: Snug / secure belt at the bed mount first - this <b>is not</b> the final belt tension.
 ![Zbelt-Step01](Images/z-step-01.jpg)
-Snug / secure belt at the bed mount first - this <b>is not</b> the final belt tension.
+
 
 # Step 2:
 ![Zbelt-Step02](Images/z-step-02.jpg)
