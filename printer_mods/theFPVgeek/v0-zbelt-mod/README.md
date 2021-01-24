@@ -24,19 +24,23 @@ Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt te
 
 # Step 2:
 ![Zbelt-Step02](Images/z-step-02.jpg)
+
 Slightly loosen idler mount screws
 
 # Step 3: 
 ![Zbelt-Step03](Images/z-step-03-2.jpg)
+
 Push idler mount up to desired belt tension and hold.  
 <b>NOTE:</b>  This is why it's important for your M5 screw not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
 
 # Step 4:
 ![Zbelt-Step04](Images/z-step-04.jpg)
- While pushing up and when you have the belt tension how you want it, secure the top screw
+
+While pushing up and when you have the belt tension how you want it, secure the top screw
 
 # Step 5:
 ![Zbelt-Step05](Images/z-step-05.jpg)
+
 Finally secure the bottom screw.  Yes, the bottom screw can still be access with the belt in the way.  The belt is flexible enough to move/bend over to access the bottom screw on the idler.  I use the ball end of a hex driver.
 
 Alternatively you can use @hartk V0.108 Idler which allows tensioning using a single screw at the top.  It's a very nice idler but you'll need to add some M3 nuts on the horizontal 1515 extrusion.  This can be done by either drilling out an access hole and hiding that hole behind his idler assembly or taking the frame apart slightly.  I opted the lazy route with mine LOL.
