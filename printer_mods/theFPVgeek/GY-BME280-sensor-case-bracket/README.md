@@ -1,4 +1,4 @@
-BME280 Temperature Sensor
+GY-BME280 Temperature Sensor
 
 Created this case orginally to mount in my V0. Should be able to be used in other applications
 
