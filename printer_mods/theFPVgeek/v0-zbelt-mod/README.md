@@ -18,7 +18,8 @@ rotation_distance: 10
 # Step 1: 
 ![Zbelt-Step01](Images/z-step-01-1.jpg)
 Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt tension.
-Tip:  I found it easier to secure the bottom belt first using both screws, then remove the one longer screw that holds both clips, then secure the top.  Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done at step 4.
+
+<b>Tip:</b>  I found it easier to secure the bottom belt first using both screws, then remove the one longer screw that holds both clips, then secure the top.  Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done at step 4.
 
 # Step 2:
 ![Zbelt-Step02](Images/z-step-02.jpg)
