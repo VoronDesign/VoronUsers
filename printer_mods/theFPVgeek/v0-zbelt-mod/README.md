@@ -2,6 +2,8 @@ Voron V0 Z Belt mod using a M4 extruder as base.  Desiged to take advantage of t
 
 <b>NOTE:</b>  This is a beta release.  Still testing and some minor design changes may occurs.
 
+![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)
+
 # Klipper Stepper Settings:
 
   <b>Old format:</b>
@@ -11,15 +13,7 @@ step_distance: .003125
 rotation_distance: 10
 
 
-![Zbelt-Mod01](Images/V0_ZBelt-04.jpg)
-
-![Zbelt-Mod02](Images/V0_ZBelt-02.jpg)
-
-![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)
-
-
-<b>How to tighten Z-Belt:</b>
-
+# How to tighten Z-Belt:
 
 # Step 1:
 ![Zbelt-Step01](Images/z-step-01.jpg)
@@ -46,6 +40,10 @@ Alternatively you can use @hartk V0.108 Idler which allows tensioning using a si
 
 
 <b>Addtional Pics:</b>
+
+![Zbelt-Mod01](Images/V0_ZBelt-04.jpg)
+
+![Zbelt-Mod02](Images/V0_ZBelt-02.jpg)
 
 ![Zbelt-Mod04](Images/V0_ZBelt-03.jpg)
 
