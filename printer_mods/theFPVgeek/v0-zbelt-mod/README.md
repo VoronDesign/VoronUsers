@@ -26,7 +26,7 @@ Slightly loosen idler mount screws
 # Step 3: 
 ![Zbelt-Step03](Images/z-step-03.jpg)
 Push idler mount up to desired belt tension and hold.  
-<b>NOTE:</b>  This is why it's important for your M5 screw not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tensioning.
+<b>NOTE:</b>  This is why it's important for your M5 screw not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
 
 # Step 4:
 ![Zbelt-Step04](Images/z-step-04.jpg)
