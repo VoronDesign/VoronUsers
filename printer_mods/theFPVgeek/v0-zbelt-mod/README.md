@@ -3,7 +3,7 @@ Voron V0 Z Belt mod using a M4 extruder as base.  Designed to take advantage of 
 <b>NOTE:</b>  This is a beta release.  Still testing and some minor design changes may occur.
 
 <b>Design Goals and Notables</b>
-1.  Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly
+1.  Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly (see Installation Notes)
 2.  Belt intensionally offset to the side to have the attached part of the bed mount close to center and to keep the endstop screw in the same stock location to retain the use of the stock Z-enstop
 3.  Tried to design the bottom mount to utilize existing M3 nuts already in the 1515 extrusions and to provide the same amount of support and rigidity.  All four mounting points leveraged.
 4.  Bed clamp was designed to be accesible with back panel in place allowing easier access if necessary
@@ -18,6 +18,7 @@ step_distance: .003125
   <b>New format:</b>
 rotation_distance: 10
 
+# Installation Notes
 
 # How to tighten Z-Belt:
 
@@ -62,6 +63,11 @@ Finally secure the bottom screw.  Yes, the bottom screw can still be access with
 # Alternative Idler
 Alternatively you can use <b>@hartk V0.108</b> Idler which allows tensioning using a single screw at the top.  It's a very nice idler but you'll need to add some M3 nuts on the horizontal 1515 extrusion.  This can be done by either drilling out an access hole and hiding that hole behind his idler assembly or taking the frame apart slightly.  I opted the lazy route with mine LOL.
 
+# Disassembly Notes for Existing Leadscrew Builds
+
+The frame will <i>not</i> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
+
+![Zbelt-Mid](Images/z-mid-panel.jpg)
 
 # Addtional Pics:
 
