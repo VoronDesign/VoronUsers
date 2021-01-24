@@ -18,6 +18,31 @@ rotation_distance: 10
 
 ![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)]
 
+
+<b>How to tighten Z-Belt:</b>
+
+Step 1: Snug / secure belt at the bed mount first - this <b>is not</b> the final belt tension.
+![Zbelt-Step01](Images/z-step-01.jpg)]
+
+Step 2:  2.  Slightly loosen idler mount screw
+![Zbelt-Step02](Images/z-step-02.jpg)]
+
+Step 3:  Push idler mount up to desired belt tension and hold.  
+NOTE:  This is why it's important for your M5 screw not to protrude past the idler mount as you this will allow more upward tensioning past the 1515 extusion.
+![Zbelt-Step03](Images/z-step-03.jpg)]
+
+Step 4: While pushing up and when you have the belt tension how you want it, secure the top screw
+![Zbelt-Step04](Images/z-step-04.jpg)]
+
+Step 5:  Finally secure the bottom screw.  Yes, the bottom screw can still be access with the belt in the way.  The belt is flexible enough to move/bend over to access the bottom screw on the idler.  I use the ball end of a hex driver.
+
+![Zbelt-Step05](Images/z-step-05.jpg)]
+
+Alternatively you can use @hartk V0.108 Idler which allows tensioning using a single screw at the top.  It's a very nice idler but you'll need to add some M3 nuts on the horizontal 1515 extrusion.  This can be done by either drilling out an access hole and hiding that hole behind his idler assembly or taking the frame apart slightly.  I opted the lazy route with mine LOL.
+
+
+<b>Addtional Pics:</b>
+
 ![Zbelt-Mod04](Images/V0_ZBelt-03.jpg)]
 
 ![Zbelt-Mod05](Images/v0beltz01.jpg)]
