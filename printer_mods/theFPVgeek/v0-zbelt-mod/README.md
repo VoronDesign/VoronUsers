@@ -16,15 +16,16 @@ rotation_distance: 10
 # How to tighten Z-Belt:
 
 # Step 1: 
-![Zbelt-Step01](Images/z-step-01.jpg)
+![Zbelt-Step01](Images/z-step-01-1.jpg)
 Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt tension.
+Tip:  I found it easier to secure the bottom belt first using both screws, then remove the one longer screw that holds both clips, then secure the top.  Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done at step 4.
 
 # Step 2:
 ![Zbelt-Step02](Images/z-step-02.jpg)
 Slightly loosen idler mount screws
 
 # Step 3: 
-![Zbelt-Step03](Images/z-step-03.jpg)
+![Zbelt-Step03](Images/z-step-03-2.jpg)
 Push idler mount up to desired belt tension and hold.  
 <b>NOTE:</b>  This is why it's important for your M5 screw not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
 
