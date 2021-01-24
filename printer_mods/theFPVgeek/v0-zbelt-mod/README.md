@@ -4,10 +4,9 @@ Voron V0 Z Belt mod using a M4 extruder as base.  Desiged to take advantage of t
 
 <b>Design Goals and Notables</b>
 1.  Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly
-2.  Belt is intensionally off set to the side to have the attached part of the bed mount close to center
-3.  Tried to design the bottom mount to utilize existing M3 nuts already in the 1515 extrusions and to provide the same amount of support and rigidity
+2.  Belt intensionally offset to the side to have the attached part of the bed mount close to center and to keep the endstop screw in the same stock location to retain the use of the stock Z-enstop
+3.  Tried to design the bottom mount to utilize existing M3 nuts already in the 1515 extrusions and to provide the same amount of support and rigidity.  All four mounting points leveraged.
 4.  Bed clamp was designed to be accesible with back panel in place allowing easier access if necessary
-5.  Bed clamp designed to retain the use of the stock Z endstop
 
 ![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)
 
