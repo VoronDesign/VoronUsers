@@ -6,10 +6,10 @@ Taking advantage of the 4:1 gearing to prevent the belted Z from dropping when m
 
 <b>Klipper Stepper Settings:</b>
 
-<b>Old format:</b>
+  <b>Old format:</b>
 step_distance: .003125
 
-<b>New format:</b>
+  <b>New format:</b>
 rotation_distance: 10
 
 ![Zbelt-Mod01](Images/V0_ZBelt-04.jpg)]
