@@ -20,6 +20,12 @@ rotation_distance: 10
 
 # Installation Notes
 
+# Important
+
+If you use stacked bearings for the top idler, a washer/spacer needs to be installed between the bearings (see pic).  Additionally there's a new idler mount as a result.  If you printed the idler prior to  25 Jan 2021 12:25 EST, then the idler mount is too narrow for the spaced bearing and you'll need to print the updated top idler mount.
+
+![Zbelt-stackb-01](Images/v0-stack-spacer.jpg)
+
 # Initial belt installtion and how to tighten Z-Belt:
 
 # Step 1: 
