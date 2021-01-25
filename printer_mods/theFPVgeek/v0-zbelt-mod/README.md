@@ -81,7 +81,7 @@ The frame will <i>not</i> need to be disassebled.  In order to remove the leadsc
 
 # Troublshooting:
 
-If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  It's easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow to each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.
+Clicking noise?  If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  It's super easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow towards each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.
 
 # Addtional Pics:
 
