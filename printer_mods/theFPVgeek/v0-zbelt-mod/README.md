@@ -24,6 +24,8 @@ rotation_distance: 10
 
 If you use stacked bearings for the top idler, a washer/spacer needs to be installed between the bearings (see pic).  Additionally there's a new idler mount as a result.  If you printed the idler prior to  25 Jan 2021 12:25 EST, then the idler mount is too narrow for the spaced bearing and you'll need to print the updated top idler mount.
 
+Included in the STLs are alternative idler pulley mounts for both smooth and toothed idlers.  NOTE: I have NOT tested any of the smooth or toothed idlers.  Please let me know if you have an issue or something needs to be tweaked.
+
 ![Zbelt-stackb-01](Images/v0-stack-spacer.jpg)
 
 # Initial belt installtion and how to tighten Z-Belt:
@@ -76,6 +78,10 @@ Alternatively you can use <b>@hartk V0.108</b> Idler which allows tensioning usi
 The frame will <i>not</i> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
 
 ![Zbelt-Mid](Images/z-mid-panel.jpg)
+
+# Troublshooting:
+
+If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  It's easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow to each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.
 
 # Addtional Pics:
 
