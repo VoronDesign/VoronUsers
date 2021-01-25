@@ -20,7 +20,7 @@ rotation_distance: 10
 
 # Installation Notes
 
-# How to tighten Z-Belt:
+# Initial belt installtion and how to tighten Z-Belt:
 
 # Step 1: 
 
