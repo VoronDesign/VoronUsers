@@ -4,5 +4,5 @@ Voron V0 Tophat extension
 
 Extension made for those who may need a taller tophat.  Made in multiple parts so it can be printed on the V0
 
-![Tophat-On](Images/Tophat-extension-on.jpg)]
+![Tophat-On](Images/Tophat-extension-on.jpg)
 
