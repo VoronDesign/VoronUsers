@@ -24,11 +24,11 @@ rotation_distance: 10
 
 If you use stacked bearings for the top idler, a washer/spacer needs to be installed between the bearings (see pic).  Additionally there's a new idler mount as a result.  If you printed the idler prior to  25 Jan 2021 12:25 EST, then the idler mount is too narrow for the spaced bearing and you'll need to print the updated top idler mount.
 
-> Included in the STLs are alternative idler pulley mounts for both smooth and toothed idlers.  NOTE: I have NOT tested any of the smooth or toothed idlers.  Please let me know if you have an issue or something needs to be tweaked.
+> Included in the STLs are alternative idler pulley mounts for both smooth and toothed idlers.  I have <b>NOT tested</b> any of the smooth or toothed idlers.  Please let me know if you have an issue or something needs to be tweaked.
 
 ![Zbelt-stackb-01](Images/v0-stack-spacer.jpg)
 
-# Initial belt installtion and how to tighten Z-Belt:
+# Initial belt installation and how to tighten Z-Belt:
 
 ## Step 1: 
 
@@ -50,7 +50,7 @@ Slightly loosen idler mount screws
 
 Push idler mount up to desired belt tension and hold.  
 
-<b>NOTE:</b>  This is why it's important for your M5 screw not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
+> <b>NOTE:</b>  It's important for your M5 screw (or M3 screw if using idler w/3mm I.D.) not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
 
 ![Zbelt-Step03](Images/z-step-03-2.jpg)
 
