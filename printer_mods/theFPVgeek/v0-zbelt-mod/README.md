@@ -32,7 +32,7 @@ If you use stacked bearings for the top idler, a washer/spacer needs to be insta
 
 ## Step 1: 
 
-Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt tension.
+Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt tension. Final belt tension will be done at step 4.
 
 > <b>Tip:</b>  I found it easier to secure the bottom belt first using both screws, then remove the one longer screw that holds both clips, then secure the top.  Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done at step 4.
 
