@@ -87,11 +87,20 @@ Alternatively you can use <b>@hartk V0.108</b> Idler which allows tensioning usi
 
 # Troublshooting:
 
-<b>Clicking noise?</b>  If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  It's super easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow towards each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.  See video below for the amount of noise to expect.
+<b>Clicking noise?</b>  If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  
+
+1. It's super easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow towards each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  
+
+2. Verify Z belt is inline from bed to idlers.  You can validate top alignment while bed is completely up (Z0) that everthing is lined up.  (see pic)
+
+When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.  See video link below for the amount of noise to expect.
+
+![Zbelt-Top1](Images/belt-top.jpg)
+
+https://www.youtube.com/watch?v=G-tdwrXrc-c
 
 <b>Bed dropping when z motor off?</b> Motor power off, I found that the bed <i>may<i> drop from max height (Z0) maybe 2-3 cm but holds from any distance after that.  I personally don't mind that tiny drop from max height (Z0) as I believe that's a resonable sacrifice to have belted-z benefits.  
 
-https://www.youtube.com/watch?v=G-tdwrXrc-c
 
 # Addtional Pics:
 
