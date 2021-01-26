@@ -18,6 +18,15 @@ step_distance: .003125
 <b>New format:</b>
 rotation_distance: 10
 
+# Disassembly Notes:
+
+### For Existing Leadscrew Builds
+
+The frame will <i>not</i> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
+
+![Zbelt-Mid](Images/z-mid-panel.jpg)
+
+
 # Installation Notes
 
 ## Important
@@ -72,14 +81,6 @@ Finally secure the bottom screw.  Yes, the bottom screw can still be access with
 
 # Alternative Idler
 Alternatively you can use <b>@hartk V0.108</b> Idler which allows tensioning using a single screw at the top.  It's a very nice idler but you'll need to add some M3 nuts on the horizontal 1515 extrusion.  This can be done by either drilling out an access hole and hiding that hole behind his idler assembly or taking the frame apart slightly.  I opted the lazy route with mine LOL.
-
-# Disassembly Notes:
-
-## For Existing Leadscrew Builds
-
-The frame will <i>not</i> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
-
-![Zbelt-Mid](Images/z-mid-panel.jpg)
 
 # Troublshooting:
 
