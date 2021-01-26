@@ -28,6 +28,8 @@ If you use stacked bearings for the top idler, a washer/spacer needs to be insta
 
 ![Zbelt-stackb-01](Images/v0-stack-spacer.jpg)
 
+> <b>NOTE:</b>  It's important for your M5 screw (or M3 screw if using idler w/3mm I.D.) not to protrude past the idler mount. This will allow you to move the idler mount upward clearing the 1515 extrusion allowing more belt tension.
+
 # Initial belt installation and how to tighten Z-Belt:
 
 ## Step 1: 
