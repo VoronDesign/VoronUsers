@@ -1,6 +1,6 @@
 Voron V0 Z Belt mod using a M4 extruder as base.  Designed to take advantage of the 4:1 gearing to prevent the belted Z / bed from dropping when motors are powered off.
 
-<b>NOTE:</b>  This is a beta release.  Still testing and some minor design changes may occur.
+<b>This is a beta release. </b> Still testing and some minor design changes may occur.
 
 <b>Design Notes</b>
 1.  Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly (see Disassembly Notes)
@@ -20,7 +20,7 @@ rotation_distance: 10
 
 # Installation Notes
 
-# Important
+## Important
 
 If you use stacked bearings for the top idler, a washer/spacer needs to be installed between the bearings (see pic).  Additionally there's a new idler mount as a result.  If you printed the idler prior to  25 Jan 2021 12:25 EST, then the idler mount is too narrow for the spaced bearing and you'll need to print the updated top idler mount.
 
@@ -30,7 +30,7 @@ Included in the STLs are alternative idler pulley mounts for both smooth and too
 
 # Initial belt installtion and how to tighten Z-Belt:
 
-# Step 1: 
+## Step 1: 
 
 Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt tension.
 
@@ -39,14 +39,14 @@ Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt te
 ![Zbelt-Step01](Images/z-step-01-1.jpg)
 
 
-# Step 2:
+## Step 2:
 
 Slightly loosen idler mount screws
 
 ![Zbelt-Step02](Images/z-step-02.jpg)
 
 
-# Step 3: 
+## Step 3: 
 
 Push idler mount up to desired belt tension and hold.  
 
@@ -55,14 +55,14 @@ Push idler mount up to desired belt tension and hold.
 ![Zbelt-Step03](Images/z-step-03-2.jpg)
 
 
-# Step 4:
+## Step 4:
 
 While pushing up and when you have the belt tension how you want, secure the top screw
 
 ![Zbelt-Step04](Images/z-step-04.jpg)
 
 
-# Step 5:
+## Step 5:
 
 Finally secure the bottom screw.  Yes, the bottom screw can still be access with the belt in the way.  The belt is flexible enough to move/bend over to access the bottom screw on the idler.  I use the ball end of a hex driver.
 
@@ -73,7 +73,7 @@ Alternatively you can use <b>@hartk V0.108</b> Idler which allows tensioning usi
 
 # Disassembly Notes:
 
-<b>For Existing Leadscrew Builds</b>
+## For Existing Leadscrew Builds
 
 The frame will <i>not</i> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
 
@@ -81,7 +81,7 @@ The frame will <i>not</i> need to be disassebled.  In order to remove the leadsc
 
 # Troublshooting:
 
-Clicking noise?  If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  It's super easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow towards each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.
+<b>Clicking noise?</b>  If your z belt is clicking while traveling up and down check alignment of both the z-belt and the M4 belt.  It's super easy to over tighten the M4 belt.  If too tight the belt tension will cause the pulley and M4 gear too slightly bow towards each other causing the belt to rub on the side of the pulley and/or M4 gear causing a clicking sound.  When in motion the Z assembly should be nice and smooth with no odd sounds, clicking, or other.  See video below for the amount of noise to expect.
 
 https://www.youtube.com/watch?v=G-tdwrXrc-c
 
@@ -97,5 +97,5 @@ https://www.youtube.com/watch?v=G-tdwrXrc-c
 
 ![Zbelt-Mod06](Images/v0beltz02.jpg)
 
-![Zbelt-line01](vo-zbelt-line-01.jpg)
+![Zbelt-line01](Images/vo-zbelt-line-01.jpg)
 
