@@ -3,10 +3,10 @@ Voron V0 Z Belt mod using a M4 extruder as base.  Designed to take advantage of 
 <b>This is a beta release. </b> Still testing and some minor design changes may occur.
 
 <b>Design Notes</b>
-* Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly (see Disassembly Notes)
-*  Belt intensionally offset to the side to have the attached part of the bed mount close to center and to keep the endstop screw in the same stock location to retain the use of the stock Z-endstop
-*  Tried to design the bottom mount to utilize existing M3 nuts already in the 1515 extrusions and to provide the same amount of support and rigidity.  All four mounting points leveraged.
-*  Bed clamp was designed to be accesible with back panel in place allowing easier access if necessary
+* Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly.
+* Belt intensionally offset to the side in order to center the belt which attaches to and moves the bed close to center.  Additonally this keeps the endstop screw in the same stock location to retain the use of the stock Z-endstop
+* Designed the bottom mount to utilize existing M3 nuts already in the 1515 extrusions.  I believe affixing the mount to all 4 exiting mounting points <i>may</i> provide additional frame support and rigidity.
+* Bed clamp was designed to be accesible with back panel in place allowing easier access..if necessary
 
 ![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)
 
@@ -22,7 +22,7 @@ rotation_distance: 10
 
 ### For Existing Leadscrew Builds
 
-The frame will <i>not</i> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
+The frame will <u>not</u> need to be disassebled.  In order to remove the leadscrew Z assembly and to easily install the belt mount you'll need to remove the mid-panel. 
 
 ![Zbelt-Mid](Images/z-mid-panel.jpg)
 
