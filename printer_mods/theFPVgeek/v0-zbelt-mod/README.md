@@ -97,10 +97,10 @@ When in motion the Z assembly should be nice and smooth with no odd sounds, clic
 
 ![Zbelt-Top1](Images/belt-top.jpg)
 
+https://www.youtube.com/watch?v=G-tdwrXrc-c
 
 <b>Bed dropping when z motor off?</b> Motor power off, I found that the bed <i>may<i> drop from max height (Z0) maybe 2-3 cm but holds from any distance after that.  I personally don't mind that tiny drop from max height (Z0) as I believe that's a resonable sacrifice to have belted-z benefits.  
 
-https://www.youtube.com/watch?v=G-tdwrXrc-c
 
 # Addtional Pics:
 
