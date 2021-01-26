@@ -89,6 +89,9 @@ like so:
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
+| Koios | [6mm Tempered Glass Mod](./Koios/6mm_Glass) | Lock levers and rests for 6mm Tempered glass panels | :x: | :x:| :heavy_check_mark: | :x: |
+| | [C920 Low Profile Mount](./Koios/C920_Mount) | Low profile mount for a C920 Webcam | :x: | :x: | :heavy_check_mark: | :x: |
+| | [LED Bar Mounts](./Koios/LED_Mounts) | Low profile mount for led bar lights | :x: | :x: | :heavy_check_mark: | :x: |
 | Kruppes |[Belt Tension Meter](./Kruppes/Tension_Meter) | Print in place tension meter to easily tighten multiple belts to the same tension |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 | |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |:x:|
 | |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |:x:|
