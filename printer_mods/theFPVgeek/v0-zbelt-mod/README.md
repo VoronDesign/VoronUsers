@@ -3,19 +3,19 @@ Voron V0 Z Belt mod using a M4 extruder as base.  Designed to take advantage of 
 <b>This is a beta release. </b> Still testing and some minor design changes may occur.
 
 <b>Design Notes</b>
-1.  Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly (see Disassembly Notes)
-2.  Belt intensionally offset to the side to have the attached part of the bed mount close to center and to keep the endstop screw in the same stock location to retain the use of the stock Z-endstop
-3.  Tried to design the bottom mount to utilize existing M3 nuts already in the 1515 extrusions and to provide the same amount of support and rigidity.  All four mounting points leveraged.
-4.  Bed clamp was designed to be accesible with back panel in place allowing easier access if necessary
+* Created to be a drop in replacement of the V0 leadscrew with a minimum amount of disassembly (see Disassembly Notes)
+*  Belt intensionally offset to the side to have the attached part of the bed mount close to center and to keep the endstop screw in the same stock location to retain the use of the stock Z-endstop
+*  Tried to design the bottom mount to utilize existing M3 nuts already in the 1515 extrusions and to provide the same amount of support and rigidity.  All four mounting points leveraged.
+*  Bed clamp was designed to be accesible with back panel in place allowing easier access if necessary
 
 ![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)
 
 # Klipper Stepper Settings:
 
-  <b>Old format:</b>
+<b>Old format:</b>
 step_distance: .003125
 
-  <b>New format:</b>
+<b>New format:</b>
 rotation_distance: 10
 
 # Installation Notes
@@ -34,7 +34,7 @@ Included in the STLs are alternative idler pulley mounts for both smooth and too
 
 Secure belt at the bed mount first - this <b><i>is not</b></i> the final belt tension.
 
-<b>Tip:</b>  I found it easier to secure the bottom belt first using both screws, then remove the one longer screw that holds both clips, then secure the top.  Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done at step 4.
+> <b>Tip:</b>  I found it easier to secure the bottom belt first using both screws, then remove the one longer screw that holds both clips, then secure the top.  Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done at step 4.
 
 ![Zbelt-Step01](Images/z-step-01-1.jpg)
 
