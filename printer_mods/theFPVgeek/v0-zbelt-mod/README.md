@@ -1,8 +1,9 @@
-Voron V0 Z Belt mod using a M4 extruder as base.  Designed to take advantage of the 4:1 gearing to prevent the belted Z / bed from dropping when motors are powered off.
+Voron V0 Z Belt mod using a M4 extruder as base.  
 
 <b>This is a beta release. </b> Still testing and some minor design changes may occur.
 
 <b>Design Notes</b>
+* Designed to take advantage of the 4:1 gearing to prevent the belted Z / bed from dropping when motors are powered off.
 * Created to be a drop-in replacement of the V0 leadscrew with a minimum amount of disassembly.
 * Belt intensionally offset to the side, which attaches to and moves the bed, centering the belt.  Additionally, this keeps the end-stop screw in the same stock location to retain the use of the stock Z-end-stop
 * Designed the bottom mount to utilize existing M3 nuts already in the 1515 extrusions. I believe affixing the mount to all four exiting mounting points may provide additional frame support and rigidity.
