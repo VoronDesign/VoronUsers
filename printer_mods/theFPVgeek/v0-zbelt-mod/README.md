@@ -8,7 +8,7 @@ Voron V0 Z Belt mod using a M4 extruder as base.
 * Belt intensionally offset to the side, which attaches to and moves the bed, centering the belt.  Additionally, this keeps the end-stop screw in the same stock location to retain the use of the stock Z-end-stop
 * Designed the bottom mount to utilize existing M3 nuts already in the 1515 extrusions. I believe affixing the mount to all four exiting mounting points may provide additional frame support and rigidity.
 * Bed clamp designed to be accessible with a back panel in place, allowing easier access..if necessary
-* Designed to be able to clear and use the back panel. It's very close, but it does clear.
+* Designed to be able to clear and use the back panel. It's very close, but it does clear. <i>(NOTE: Metal 80T gear can be used but may not clear the backpanel)</i>
 * An optional bottom panel filler can be found in the STL directory.
 
 ![Zbelt-Mod03](Images/V0_ZBelt-01.jpg)
@@ -122,4 +122,8 @@ https://www.youtube.com/watch?v=G-tdwrXrc-c
 ![Zbelt-Mod06](Images/v0beltz02.jpg)
 
 ![Zbelt-line01](Images/vo-zbelt-line-01.jpg)
+
+![Zbelt-metal80t](Images/80t-metal-z.jpg)
+
+
 
