@@ -1,6 +1,6 @@
 4 Channel relay mount for 2020 aluminium profile
-*
-*
+
+
 This mod is meant to be used with an elegoo (or similar should work with X66 and Y45 interaxis of holes) 4 channel relay
 
 You'll need 
