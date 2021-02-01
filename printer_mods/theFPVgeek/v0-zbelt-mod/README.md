@@ -28,7 +28,7 @@ I found this to be the easiest order to install this mod:
 Step 1 - Remove Leadscrew Assembly
 > <b>Tip(s)</b> Remove as much as possible from underneith the printer by first removing M5 bolts.  Next lay printer on the front rails exposing back.  Move Pi & Pocketwatch out ofd the way.  Then remove the mid-panel & the rest of the leadscrew assembly and bed mount.
 
-Step 2 - Assembly Top Idler Mount assembly and install in the printer - Keep mounting screws loose for later belt tensioning. (see Installation notes below)
+Step 2 - Assemble Top Idler Mount Bracket and install in the printer - Keep mounting screws loose for later belt tensioning. (see Installation notes below)
 
 Step 3 - Secure the drive belt to bed mount OUTSIDE of the printer.
 > <b>Tip:</b> Securing the belt outside the printer outside of the printer and not installed on the bed yet.  Installing on the bed first will make it more difficult to attach belt. I found it MUCH easier to secure the bottom belt clamp first using both screws, then remove the one longer screw that holds both clamps.  Top clamp and belt will be secured later. Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done later.
