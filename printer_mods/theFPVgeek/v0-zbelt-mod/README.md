@@ -39,7 +39,7 @@ Step 4 - Assemble the bottom assembly NOT including the vertical stepper plate. 
 
 Step 5 - Install partially assembled bottom mount onto the frame. (not including shaft, vertical stepper plate, or gear(s)
 
-Step 6 - Route the drive belt though the top idler and back down to the bed mount.  With the belt feed through the idler and the bed mount top clamp, loosing assemble the top bed clamp
+Step 6 - Route the drive belt though the top idler and back down to the bed mount.  With the belt feed through the idler and the bed mount top clamp, secure clamp loosely.
 
 Step 7 - Install 20T pinion on the 72mm (or 70mm) shaft.  Install M5 (1mm thick) washer or printed spacer on shart
 
