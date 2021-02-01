@@ -35,7 +35,7 @@ Step 3 - Secure the drive belt to bed mount OUTSIDE of the printer.
 
 > I would also advise testing if the belt can be reliably secured to the bed mount.  You can do this by temporarily installing/clamping the belt (outside the printer) onto the bed mount.  You shouldn't be able to pull the belt from the assembly when all 3 clamp screws are secured.  
 
-Step 4 - Assemble the bottom assembly NOT including the vertical stepper plate.  You can leave the shaft out for now as well.  
+Step 4 - Assemble the bottom assembly NOT including the vertical stepper plate and shaft. 
 
 Step 5 - Install partially assembled bottom mount onto the frame. (not including shaft, vertical stepper plate, or gear(s)
 
