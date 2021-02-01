@@ -21,7 +21,7 @@ step_distance: .003125
 <b>New format:</b>
 rotation_distance: 10
 
-#Assembly Order
+# Assembly Order
 
 I found this to be the easiest order to install this mod:
 
