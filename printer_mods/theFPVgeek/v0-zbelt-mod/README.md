@@ -64,7 +64,9 @@ Step 16 - Wire up Stepper motor
 
 Step 17 - Change Klipper settings.
 
-Step 18 - Test and enjoy.
+Step 18 - Retension Belt / Top Idler Bracket mount if neccessary.  If this was pretested with the mid-panel removed this should be the only adjustment required.  You shoud not need to adjust tension at the bed mount.
+
+Step 19 - Test and enjoy.
 
 
 # Disassembly Notes:
