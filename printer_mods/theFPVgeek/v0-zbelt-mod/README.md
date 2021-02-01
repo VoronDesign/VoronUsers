@@ -21,6 +21,52 @@ step_distance: .003125
 <b>New format:</b>
 rotation_distance: 10
 
+#Assembly Order
+
+I found this to be the easiest order to install this mod:
+
+Step 1 - Remove Leadscrew Assembly
+> <b>Tip(s)</b> Remove as much as possible from underneith the printer by first removing M5 bolts.  Next lay printer on the front rails exposing back.  Move Pi & Pocketwatch out ofd the way.  Then remove the mid-panel & the rest of the leadscrew assembly and bed mount.
+
+Step 2 - Assembly Top Idler Mount assembly and install in the printer - Keep mounting screws loose for later belt tensioning. (see Installation notes below)
+
+Step 3 - Secure the drive belt to bed mount OUTSIDE of the printer.
+> <b>Tip(s)</b> Securing the belt outside the printer outside of the printer and not installed on the bed yet.  Installing on the bed first will make it more difficult to attach belt. I found it MUCH easier to secure the bottom belt clamp first using both screws, then remove the one longer screw that holds both clamps.  Top clamp and belt will be secured later. Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done later.
+
+I would also advise testing if the belt can be reliably secured to the bed mount.  You can do this by temporarily installing/clamping the belt (outside the printer) onto the bed mount.  You shouldn't be able to pull the belt from the assembly when all 3 clamp screws are secured.  
+
+Step 4 - Assemble the bottom assembly NOT including the vertical stepper plate.  You can leave the shaft out for now as well.  
+
+Step 5 - Install partially assembled bottom mount onto the frame. (not including shaft, vertical stepper plate, or gear(s)
+
+Step 6 - Route the drive belt though the top idler and back down to the bed mount.  With the belt feed through the idler and the bed mount top clamp, loosing assemble the top bed clamp
+
+Step 7 - Install 20T pinion on the 72mm (or 70mm) shaft.  Install M5 (1mm thick) washer or printed spacer on shart
+
+Step 8 - Install assemble shaft (minus 80T gear) into the bottom bracket and route bottom of the Z belt around the gear.
+> <b>Tip(s)</b> I you can zip tie the shaft temparily where it exits the back of the bottom bracke to hold in place while lining things up.  Zip tie will be removed later.
+
+Step 9 -  install the particially assembled bed belt block to the bed.  Bottom belt clamp should be already secured (Step 3) while the top part of the mount can be installed loosely.
+
+Step 10 - Slightly secure the Top Idler block about 15mm away from the edge.  Pull on the belt at the top bed clamp and snug up.  This is NOT the final belt tension.  Then tighten the top bed clamp.
+
+Step 11 - Slide the top idler block to get the belt tension to the tension you'd like.  This can be adjusted later more after assembly.
+
+Step 12 - Verify the belt is aligned vertically and verify bed moves up and down freely with belt remainin in line.  NOTE remember bottom shaft is not 100% secure at this time
+
+Step 13 - Install mid-panel
+
+Step 14 - Remove temporary zip tie and install the remaining bottom bracket parts (Stepper motor, pinion, vertical bracket, 80T gear asssembly)
+
+Step 15 - Resecure Pi & Pocketwatch
+
+Step 16 - Wire up Stepper motor
+
+Step 17 - Change Klipper settings.
+
+Step 18 - Test and enjoy.
+
+
 # Disassembly Notes:
 
 ### For Existing Leadscrew Builds
