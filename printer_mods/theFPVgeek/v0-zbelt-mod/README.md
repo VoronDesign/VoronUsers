@@ -31,9 +31,9 @@ Step 1 - Remove Leadscrew Assembly
 Step 2 - Assembly Top Idler Mount assembly and install in the printer - Keep mounting screws loose for later belt tensioning. (see Installation notes below)
 
 Step 3 - Secure the drive belt to bed mount OUTSIDE of the printer.
-> <b>Tip(s)</b> Securing the belt outside the printer outside of the printer and not installed on the bed yet.  Installing on the bed first will make it more difficult to attach belt. I found it MUCH easier to secure the bottom belt clamp first using both screws, then remove the one longer screw that holds both clamps.  Top clamp and belt will be secured later. Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done later.
+> <b>Tip:</b> Securing the belt outside the printer outside of the printer and not installed on the bed yet.  Installing on the bed first will make it more difficult to attach belt. I found it MUCH easier to secure the bottom belt clamp first using both screws, then remove the one longer screw that holds both clamps.  Top clamp and belt will be secured later. Again this is not the final belt tension so don't worry about getting the tension correct at this step.  Final belt tension will be done later.
 
-I would also advise testing if the belt can be reliably secured to the bed mount.  You can do this by temporarily installing/clamping the belt (outside the printer) onto the bed mount.  You shouldn't be able to pull the belt from the assembly when all 3 clamp screws are secured.  
+> I would also advise testing if the belt can be reliably secured to the bed mount.  You can do this by temporarily installing/clamping the belt (outside the printer) onto the bed mount.  You shouldn't be able to pull the belt from the assembly when all 3 clamp screws are secured.  
 
 Step 4 - Assemble the bottom assembly NOT including the vertical stepper plate.  You can leave the shaft out for now as well.  
 
@@ -44,7 +44,7 @@ Step 6 - Route the drive belt though the top idler and back down to the bed moun
 Step 7 - Install 20T pinion on the 72mm (or 70mm) shaft.  Install M5 (1mm thick) washer or printed spacer on shart
 
 Step 8 - Install assemble shaft (minus 80T gear) into the bottom bracket and route bottom of the Z belt around the gear.
-> <b>Tip(s)</b> I you can zip tie the shaft temparily where it exits the back of the bottom bracke to hold in place while lining things up.  Zip tie will be removed later.
+> <b>Tip:</b> I you can zip tie the shaft temparily where it exits the back of the bottom bracke to hold in place while lining things up.  Zip tie will be removed later.
 
 Step 9 -  install the particially assembled bed belt block to the bed.  Bottom belt clamp should be already secured (Step 3) while the top part of the mount can be installed loosely.
 
