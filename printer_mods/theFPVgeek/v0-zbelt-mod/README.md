@@ -44,7 +44,7 @@ Step 6 - Route the drive belt though the top idler and back down to the bed moun
 Step 7 - Install 20T pinion on the 72mm (or 70mm) shaft.  Install M5 (1mm thick) washer or printed spacer on shart
 
 Step 8 - Install assembled shaft (minus 80T gear) into the bottom bracket and route bottom of the Z belt around the gear.
-> <b>Tip:</b> I you can zip tie the shaft temparily where it exits the back of the bottom bracke to hold in place while lining things up.  Zip tie will be removed later.
+> <b>Tip:</b> You can zip tie the shaft temparily where it exits the back of the bottom bracke to hold in place while lining things up.  Zip tie will be removed later.
 
 Step 9 -  install the particially assembled bed belt block to the bed.  Bottom belt clamp should be already secured (Step 3) while the top part of the mount can be installed loosely.
 
