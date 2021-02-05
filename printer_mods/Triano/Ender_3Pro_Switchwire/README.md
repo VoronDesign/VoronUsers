@@ -1,7 +1,7 @@
-#  Ender 3 Pro to Switchwire Mod
+#  Ender 3 Pro and V2 to Switchwire Mod
 
-This is a conversion of the Ender 3 Pro to a Switchwire type coreXZ printer.  My goal was to use most of the Ender 3 components while maintaining the core Voron design look and feel.
-I had a lot of fun doing this and am willing to make any suggested changes.
+This is a conversion of the Ender 3 Pro and V2 to a Switchwire type coreXZ printer.  My goal was to use most of the Ender 3 components while maintaining the core Voron design look and feel.
+I had a lot of fun doing this and am willing to make any suggested changes.  I have incorporated some changes based on requests and will continue to maintain this as long as there is interest.
 
 ![Home](Images/Home.png)
 
@@ -13,11 +13,17 @@ I had a lot of fun doing this and am willing to make any suggested changes.
 4. The XZ and gantry are slightly modified from the Switchire baseline.  The X asis rail is 300mm and is a tight squeeze on the shorteded 2020 extrusion.  I wanted to keep the standard rail length in case I wanted to build a stock Switchwire.
 5. The Y axis uses 2 rails.  I liked the look of it and it seemed more stable that way.  It also simplified the Y belt routing through the extrustion.  I also removed the springs on the bed corners and replaced them with spacers.  The spacers come off the E3P V-wheels.  With the bed mesh probing, this seemsed like a better approach than worrying about the bed changing positions if the knobs rotated/loosened.
 6. This configuration also worked without too much modification to the stock E3P wire lengths.
+7. The E3P motors can be reused if you can pull of the gears.  You
 
-I have included several images and the Fusion 360 CAD model.  Full disclosure, I am just learning CAD, so my skills are somewhat limited.  I also added all the STL files.  I tried to keep all the Voron naming conventions.
+## Images / CAD
+I have included several images and the Fusion 360 CAD model.  Full disclosure, I am just learning CAD, so my skills are somewhat limited.
+
+## BOM
+A BOM has been added that is based on the baseline Switchwire.  This will not be perfect as the Ender 3's get a lot of mods by their owners.  It should help with most of the key items to make the MOD. 
 
 ## STL Files
-- This mod uses a combination of original Switchwire and modified parts.  Most of the parts are modified/new as the Switchwire and Ender 3 frames are much different.  The following is a listing of the STL files, organized by location.
+This mod uses a combination of original Switchwire and modified parts.  Most of the parts are modified/new as the Switchwire and Ender 3 frames are much different.  I kept all the Voron naming conventions to provide consistancy. The following is a listing of the STL files, organized by location:
+
 1. Deck:
 	- [a]_deck_y_chain_anchor
 	- deck_front_right
@@ -80,6 +86,4 @@ I have included several images and the Fusion 360 CAD model.  Full disclosure, I
 
 ** Denotes STL files that have not been modified from the baseline Switchwire design
 
-To do:
-1. I will try to work a BOM in the near future.  In general, the primary change is the additional rail.  I chose to use the LDO motor set, but I don't see a reason to not use the stock E3P steppers; except for the extruder motor.
-2. I designed this for a future enclosure.  I am not sure how/when I will do this.  But, it might be nice to print ABS.
+
