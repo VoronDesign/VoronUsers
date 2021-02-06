@@ -6,7 +6,7 @@ This mod is derived from [wago_221_mount](../../../legacy_printers/printer_mods/
 mounts for the Wago 221 terminals (2 and 3 contacts) to clip and to screw for 1515 extrusions.
 
 ## Wago-Mount for screws
-I use this mount [WAGO_221-413_3x3-mount-screw.stl](./WAGO_221-413_3x3-mount-screw.stl) at the power inlet to distribute the power to pad/ssr and the PSU. There is also a [WAGO_221-412_3x2_mount-screw.stl](./WAGO_221-412_3x2-mount_screw.stl), if you plan using Wago 221-412 (2 contacts).
+I use this mount [WAGO_221-413_3x3-mount-screw.stl](./WAGO_221-413_3x3-mount-screw.stl) at the power inlet to distribute the power to pad/ssr and the PSU. There is also a [WAGO_221-412_3x2-mount_screw.stl](./WAGO_221-412_3x2-mount_screw.stl), if you plan using Wago 221-412 (2 contacts).
 ![Screw Mount Usage](./images/ScrewMountUsage.jpg "Screw Mount Usage")
 Any m3 screw - BHCS or SHCS - should fit.
 
