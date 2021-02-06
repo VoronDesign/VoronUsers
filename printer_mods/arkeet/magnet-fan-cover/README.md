@@ -24,7 +24,7 @@ until they bottom out; the heads should protrude 4mm from the surface.
 Images
 ------
 
-![Photo](images/photo.jpg|width=)
+![Photo](images/photo.jpg)
 
 ![Render](images/render1.png)
 
