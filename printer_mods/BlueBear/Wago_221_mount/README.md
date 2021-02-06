@@ -13,7 +13,7 @@ Any m3 screw - BHCS or SHCS - should fit.
 ## Snap-In mounts
 The snap-in mounts can be easily attached and removed from the extrusions. For using that mount print the desired stl
 ([WAGO_221-412_3x2-mount.stl](./WAGO_221-412_3x2-mount.stl) or [WAGO_221-412_5x2-mount.stl](./WAGO_221-412_5x2-mount.stl)
-together with at least two of the mounting clips(either [LDO](./1515_SnapIn_LDO.stl) or [MakerBeam](./1515_Snapin_Makerbeam.stl) depending on your extrusion).
+together with at least two of the mounting clips(either [LDO](./1515_SnapIn_LDO.stl) or [MakerBeam](./1515_SnapIn_Makerbeam.stl) depending on your extrusion).
 
 Don't rotate the clips for printing. They must be printed upright, as shown in the picture. Otherwise the clips might break upon inserting into the extrusion.
 
