@@ -22,4 +22,4 @@ You will also need 2 metal corner brackets, some screws, nuts and tnuts to attac
 
 ## Instructions
 Video Instructions: [Youtube](https://youtu.be/YtxrM_qPr9c) *(live on 29 May 2020)*
-Written version: [MANUAL.pdf](./MANUAL.pdf)
+Written version: [MANUAL.pdf](./Manual.pdf)
