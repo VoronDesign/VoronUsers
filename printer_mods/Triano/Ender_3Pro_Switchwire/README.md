@@ -21,6 +21,9 @@ I have included several images and the Fusion 360 CAD model.  Full disclosure, I
 ## BOM
 A BOM has been added that is based on the baseline Switchwire.  This will not be perfect as the Ender 3's get a lot of mods by their owners.  It should help with most of the key items to make the MOD. 
 
+## Config
+Phalanx and Lord Derpson have shared their printer.cfg files.  I used a V1.2 board which has different pins.
+
 ## STL Files
 This mod uses a combination of original Switchwire and modified parts.  Most of the parts are modified/new as the Switchwire and Ender 3 frames are much different.  I kept all the Voron naming conventions to provide consistancy. The following is a listing of the STL files, organized by location:
 
