@@ -1,10 +1,10 @@
 # v2.4_Hinge_mod
 
 ## v2.4 300mm BOM:
-- 4mm rods (2 x 41mm)
+- [4mm rods](https://www.aliexpress.com/item/32297671032.html?spm=2114.13010708.0.0.3a994c4dbA1iDS) (2 x 41mm)
 - 6mm rods (4 x 448mm) 
-- 4x LM6UU linear bearing (6mm ID, 12mm OD, 19mm length) 
-- 4x HK0408 needle bearing
+- 4x [LM6UU linear bearing](https://www.aliexpress.com/item/32815449673.html?spm=a2g0s.8937460.0.0.12852e0eL5v9BS) (6mm ID, 12mm OD, 19mm length) 
+- 4x [HK0408 needle bearing](https://www.aliexpress.com/item/4000273016481.html?spm=2114.13010708.0.0.3a994c4dbA1iDS)
 
 - 8x M3x16 sockethead
 - 8x M3 T-nuts
