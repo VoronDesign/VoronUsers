@@ -1,4 +1,4 @@
-# v2-4_Hinge_mod
+# v2.4_Hinge_mod
 
 ## v2.4 300mm BOM:
 - 4mm rods (2 x 41mm)
