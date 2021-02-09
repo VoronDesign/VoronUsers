@@ -1,4 +1,4 @@
-# v2.4_Hinge_mod
+# v2.4 Side-Slide Hinges
 
 ## v2.4 300mm BOM:
 - [4mm rods](https://www.aliexpress.com/item/32297671032.html?spm=2114.13010708.0.0.3a994c4dbA1iDS) (2 x 41mm)
