@@ -39,6 +39,3 @@ _mOOngaze#5007_
 ![](https://github.com/moongaze/v2.4_Hinge_mod/blob/main/Photos/mOOngaze_Hinge_Open.jpg)
 ![](https://github.com/moongaze/v2.4_Hinge_mod/blob/main/Photos/mOOngaze_Hinge_Parked.jpg)
 
-
-
-Check out the wiki for the BOM, info and pics!
