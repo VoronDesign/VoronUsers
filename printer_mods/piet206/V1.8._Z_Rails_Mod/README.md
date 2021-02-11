@@ -26,6 +26,7 @@ The z motors are shifted inwards 2.07 mm (towards the center of the bed) so you 
 
 The y gantry extrusions have an allen key clearance hole drilled 170.8 mm from the front end cut.
 
+I've added leadscrew-mgn12 block stl's for both the 300 and 250 build sizes so choose accordingly.
 Had trouble with warping when printing the leadscrew-mgn12 blocks on my ender 3 with glass bed. Had to use elmers purple gluestick for adhesion.
 These blocks have been tested with the link cnc 8x2 and bigtreetech 8x8 integrated lead screws. I highly recommend the [bigtreetech](https://www.aliexpress.com/item/32977907686.html?spm=a2g0s.9042311.0.0.43bf4c4drPPHbq) 8x8 lead screws with the only downside being that the bed drops slighly when the motors turn off. 
 
