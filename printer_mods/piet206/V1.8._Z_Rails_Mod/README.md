@@ -29,7 +29,7 @@ The y gantry extrusions have an allen key clearance hole drilled 170.8 mm from t
 Had trouble with warping when printing the leadscrew-mgn12 blocks on my ender 3 with glass bed. Had to use elmers purple gluestick for adhesion.
 These blocks have been tested with the link cnc 8x2 and bigtreetech 8x8 integrated lead screws. I highly recommend the [bigtreetech](https://www.aliexpress.com/item/32977907686.html?spm=a2g0s.9042311.0.0.43bf4c4drPPHbq) 8x8 lead screws with the only downside being that the bed drops slighly when the motors turn off. 
 
-The 2 extrusions for the mgn12 rail are aligned to the center of the bed. It is very important that the end cuts are square and exactly the same length. Misumi cut mine perfectly, so no issues on my end. But since it is bolted flush to your gantry extrusion this is critical. Others have used right angle brackets with success.
+The 2 extrusions for the mgn12 rail are aligned to the center of the bed. It is very important that the end cuts are square and exactly the same length. Misumi cut mine so no issues on my end. But since it is bolted flush to your gantry extrusion this is critical. Others have used right angle brackets with success.
 
 You can center the mgn12 to extrusions using the stl located in the switchwire repo [here](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/Gantry/2020_MGN12_guide_x2.stl).
 
@@ -37,5 +37,5 @@ The 2 bed extrusions in the x direction are shortened to 350mm because they're n
 
 **Testing:**
 
-This mod has been tested by a handful of people on the Discord including myself. I am open to future improvements. Let me know what you think!
+This mod has been tested by a handful of people on the Discord including myself. I am open to future improvements. Let me know if you need anything!
 
