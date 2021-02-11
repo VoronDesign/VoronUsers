@@ -23,7 +23,7 @@ For those of you without foam gaskets, I have included a "NoFoamGasket" version 
 I have tried a 2x 6mm rod version of this concept. 
 The door (mine is 4mm thick) is too heavy and causes the bottom linear bearing to slide away which not only looks bad , but also does not make it easy to slide the door back as you have to lift it just right.
 Even with the 4 6mm rods the problem persists just a tiny bit. 
-I solved this by securing the bottom-back two rodholders by a few millimeters to create a slight racking/binding.
+I solved this by securing the bottom-back two rodholders a few millimeters higher to create a slight racking/binding.
 For 250 and 350 sized v2 Vorons it should suffice to subtract or add 50mm to the 6mm rods. The 350 could have increased weight problems though.
 
 I have not tried double doors with 2 rods on each side. 
