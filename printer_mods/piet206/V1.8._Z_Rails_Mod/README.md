@@ -22,7 +22,7 @@
 
 **Notes:**
 
-The z motors are shifted inwards 2.07 mm (towards the center of the bed) so you must modify the deck panel slighly. See dxf folder.
+The z motors are shifted inwards 2.07 mm (towards the center of the bed) so you must modify the deck panel slighly. See the dxf folder for the modified dimensions.
 
 The y gantry extrusions have an allen key clearance hole drilled 170.8 mm from the front end cut.
 
