@@ -22,21 +22,17 @@
 
 **Notes:**
 
-The z motors are shifted inwards 2.07 mm (towards the center of the bed) so you must modify the deck panel slighly. See the dxf folder for the modified dimensions.
+The z motors are shifted inwards 2.07 mm (towards the center of the bed) so you must modify the deck panel slighly. This was necessary to provide clearance for the rails. See the dxf folder for the modified dimensions.
 
-The y gantry extrusions have an allen key clearance hole drilled 170.8 mm from the front end cut.
+The y extrusions have an allen key clearance hole drilled 170.8 mm from the front end cut. This is for the blind joint that fastens the new extrusions the mgn12's are mounted to. These 2 extrusions are in line with center of the bed. It is very important that the end cuts are square and exactly the same length. This can potential bend your gantry extrusions if they are not square. I did not have any issues with Misumi's end cuts. Others have used right angle brackets with success and this might be a better way.
 
 I've added leadscrew-mgn12 block stl's for both the 300 and 250 build sizes so choose accordingly.
-I had trouble with warping when printing the leadscrew-mgn12 blocks on my ender 3 with a glass bed. Had to use elmers purple gluestick for adhesion.
+I had trouble with warping when printing the leadscrew-mgn12 blocks on my ender 3 with a glass bed. Elmers purple gluestick on the buildplate saved the day.
 These blocks have been tested with the link cnc 8x2 and bigtreetech 8x8 integrated lead screws. I highly recommend the [bigtreetech](https://www.aliexpress.com/item/32977907686.html?spm=a2g0s.9042311.0.0.43bf4c4drPPHbq) 8x8 lead screws with the only downside being that the bed drops slighly when the motors turn off. 
-
-The 2 extrusions for the mgn12 rail are aligned to the center of the bed. It is very important that the end cuts are square and exactly the same length. Misumi cut mine so no issues on my end. But since it is bolted flush to your gantry extrusion this is critical. Others have used right angle brackets with success.
 
 You can center the mgn12 to 2020 extrusions using the stl located in the switchwire repo [here](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/Gantry/2020_MGN12_guide_x2.stl).
 
-The 2 bed extrusions in the x direction are shortened to 350mm because they're no longer necessary to hold the lm8luu bearing mounts. Although the stock length extrusions (420mm) will still work they will be protruding out in space.
+The 2 bed extrusions in the x direction are shortened to 350mm because they're no longer necessary to hold the lm8luu bearing mounts. Although the stock length extrusions (420mm) will still work, they will be protruding out in space.
 
-**Testing:**
-
-This mod has been tested by a handful of people on the Discord including myself. I am open to future improvements. Let me know if you need anything!
+Let me know if you have any questions or need anything. There is also a video of my mod on [youtube](https://www.youtube.com/watch?v=qd7ciNlM-1k) if you would like to see it in action.
 
