@@ -1,4 +1,4 @@
-# V1.8._Z_Rails_Mod
+# V1.8_Z_Rails_Mod
 **Z Linear Rail Mod for Voron 1.8 (300x300x250)**
 
 **Parts list:**
