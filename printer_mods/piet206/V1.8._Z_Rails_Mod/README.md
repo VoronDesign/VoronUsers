@@ -32,7 +32,7 @@ These blocks have been tested with the link cnc 8x2 and bigtreetech 8x8 integrat
 
 The 2 extrusions for the mgn12 rail are aligned to the center of the bed. It is very important that the end cuts are square and exactly the same length. Misumi cut mine so no issues on my end. But since it is bolted flush to your gantry extrusion this is critical. Others have used right angle brackets with success.
 
-You can center the mgn12 to extrusions using the stl located in the switchwire repo [here](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/Gantry/2020_MGN12_guide_x2.stl).
+You can center the mgn12 to 2020 extrusions using the stl located in the switchwire repo [here](https://github.com/VoronDesign/Voron-Switchwire/blob/master/STL/Gantry/2020_MGN12_guide_x2.stl).
 
 The 2 bed extrusions in the x direction are shortened to 350mm because they're no longer necessary to hold the lm8luu bearing mounts. Although the stock length extrusions (420mm) will still work they will be protruding out in space.
 
