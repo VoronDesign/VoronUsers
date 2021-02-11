@@ -5,8 +5,8 @@
 * 2 modified z motor mounts (printed in abs with the standard voron settings)
 * 2 leadscrew-mgn12 blocks (printed in abs with the standard voron settings)
 * 2 mgn12h (300mm long for 250 z) 
-* 4 m3x16 shcs (lead screw nut)
-* 4 m3 nuts (lead screw nut)
+* 4 m3x16 shcs (fasten lead screw nut to block)
+* 4 m3 nuts (fasten lead screw nut to block)
 * 12 m5x16 bhcs (fasten blocks to extrusions and extrusions to frame)
 * 8 m5 t-nuts 
 * 8 m3x20 shcs (fasten blocks to mgn12's)
