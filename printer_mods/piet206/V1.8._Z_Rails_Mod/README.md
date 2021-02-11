@@ -2,8 +2,8 @@
 **Z Linear Rail Mod for Voron 1.8 (300x300x250)**
 
 **Parts list:**
-* 2 modified z motor mounts (printed)
-* 2 leadscrew-mgn12 blocks  (printed)
+* 2 modified z motor mounts (printed in abs with the standard voron settings)
+* 2 leadscrew-mgn12 blocks (printed in abs with the standard voron settings)
 * 2 mgn12h (300mm long for 250 z) 
 * 4 m3x16 shcs (lead screw nut)
 * 4 m3 nuts (lead screw nut)
