@@ -3,7 +3,7 @@ Voron V0 Z Belt mod using a M4 extruder as base.
 <b>This is a beta release. </b> Still testing and some minor design changes may occur.
 
 # NOTICE:
-Some have found the bed mount pieces may be an issue for some with clearance with the mid-plate. As a result there is version that has the back part shaved a mm.  This parts still needs to be tested by those having issues and report back.  Once I get feedback I will have the part moved from the <b>need-to-test</b> directory under STL
+Some have found the bed mount pieces may be an issue for some with clearance with the mid-plate. As a result there is version that has the back part shaved a mm.  This parts still needs to be tested by those having issues and report back.  Additionally there's been one report of the bearing in the stepper mount being too loose.  I created a version that tightens the bearing opening slightly.  Once I get feedback I will have the part(s) moved from the <b>need-to-test</b> directory under STL
 
 <b>Design Notes</b>
 * Designed to take advantage of the 4:1 gearing to prevent the belted Z / bed from dropping when motors are powered off.
