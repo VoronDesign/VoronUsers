@@ -152,5 +152,5 @@ like so:
 | | [V0 Electronics Cover](./xbst_/V0_Electronic_Panel)| A printed cover for v0 electronics. Requires larger printer to print. | :heavy_check_mark: | :x: | :x: | :x: |
 | | [V0 PiCam Mount](./xbst_/V0_Picam)| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
-
+| GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 ---
