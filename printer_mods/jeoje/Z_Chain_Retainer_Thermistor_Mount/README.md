@@ -1,6 +1,6 @@
-# Voron V2.4 Z Chain Retainer with Integrated Thermistor Mount
+# Voron V2.4 Z Chain Guide with Integrated Thermistor Mount
 
-When looking for a clean way to mount a chamber temperature sensor, the Z chain retainer seemed like a perfect opportunity.  It should fit any thermistor with a 3mm barrel.
+When looking for a clean way to mount a chamber temperature sensor, the Z chain guide seemed like a perfect opportunity.  It should fit any thermistor with a 3mm barrel.
 
 <div align="center">
     <img src="images/render1.png" height="350" hspace="10">
