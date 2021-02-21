@@ -18,6 +18,3 @@ When looking for a clean way to mount a chamber temperature sensor, the Z chain 
 
 <br />
 <img src="images/max-z.png">
-
-mages/max-z.png">
-
