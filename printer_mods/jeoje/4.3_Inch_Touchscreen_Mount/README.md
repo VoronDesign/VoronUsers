@@ -7,8 +7,8 @@ This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waves
 <div align="center">
     <img src="images/CAD_front_profile.png" height="400">
     <img src="images/CAD_side_profile.png" height="400">
-    <img src="images/CAD_mount_side_profile_angle.png" height="300">
-    <img src="images/CAD_mount_offset_profile.png" height="300">
+    <img src="images/CAD_mount_side_profile_angle.png" height="400">
+    <img src="images/CAD_mount_offset_profile.png" height="400">
 </div>
 
 
