@@ -14,7 +14,7 @@ When looking for a clean way to mount a chamber temperature sensor, the Z chain 
 3. Insert the thermistor into the mount
 4. Attach the mount to the extrusion, positioned to hold the Z chain vertical*
 
-****NOTE:** Ensure you have enough links in your Z chain to clear the retainer when at max Z.*
+****NOTE:** Ensure you have enough links in your Z chain to clear the guide when at max Z.*
 
 <br />
 <img src="images/max-z.png">
