@@ -76,6 +76,7 @@ like so:
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
+| | [V2.4 4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 Vorons |:x: |:x: |:heavy_check_mark: |:x:|
 | JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: |
