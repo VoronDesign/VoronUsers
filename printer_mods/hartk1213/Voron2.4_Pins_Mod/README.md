@@ -36,6 +36,7 @@ here is what the XY Joint will look like
 
 
 the following 5mm Pin hardware is what is needed as well 
+
 **BOM**
 ```
 [A-B] 
