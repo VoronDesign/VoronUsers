@@ -31,6 +31,9 @@ either one of these based on if you are using 6mm or 9mm belt
 the following 5mm Pin hardware is what is needed as well 
 these can be purchased from here 
 
+here is what the XY Joint will look like
+![XY Joint](Images/1.png) 
+
 Smooth pins
  [https://www.aliexpress.com/item/1739093502.html](https://www.aliexpress.com/item/1739093502.html "https://www.aliexpress.com/item/1739093502.html")
 
