@@ -28,17 +28,15 @@ either one of these based on if you are using 6mm or 9mm belt
 - [a]_z_tensioner_x4_6mm_pinned.stl
 - [a]_z_tensioner_x4_9mm_pinned.stl
 
-the following 5mm Pin hardware is what is needed as well 
-these can be purchased from here 
+
 
 here is what the XY Joint will look like
+
 ![XY Joint](Images/1.png) 
 
-Smooth pins
- [https://www.aliexpress.com/item/1739093502.html](https://www.aliexpress.com/item/1739093502.html "https://www.aliexpress.com/item/1739093502.html")
 
-threaded pinse 
-https://www.ebay.com/itm/%CF%865mm-%CF%8612mm-Female-Thread-Cylindrical-Pin-Dowel-Pins-A2-304-Stainless-Steel/184373551069
+the following 5mm Pin hardware is what is needed as well 
+**BOM**
 ```
 [A-B] 
 threaded @  30mm (x2)
@@ -53,6 +51,17 @@ smooth   @  43mm (x2)
 [Z Idlers]
 smooth   @  28mm (x4)
 ```
+
+these can be purchased from here 
+
+Smooth pins
+
+[https://www.aliexpress.com/item/1739093502.html](https://www.aliexpress.com/item/1739093502.html "https://www.aliexpress.com/item/1739093502.html")
+
+threaded pins 
+
+https://www.ebay.com/itm/%CF%865mm-%CF%8612mm-Female-Thread-Cylindrical-Pin-Dowel-Pins-A2-304-Stainless-Steel/184373551069
+
 **NOTE:**
 2 smooth pins can be substituted for the threaded pins, the reason the threaded pins are there is for easy removal without the need to remove the stepper. but if you dont plan on removing the pins without removing the stepper than smooth pins would work just fine for you in this situation. 
 
