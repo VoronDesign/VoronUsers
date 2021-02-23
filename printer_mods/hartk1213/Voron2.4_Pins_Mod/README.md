@@ -53,7 +53,7 @@ smooth   @  43mm (x2)
 [Z Idlers]
 smooth   @  28mm (x4)
 ```
-NOTE: 2 smooth pins can be substituted for the threaded pins, the reason the threaded pins are there is for easy removal without the need to remove the stepper. but if you dont plan removing the pins without removing the stepper than smooth pins would work just fine for you in this situation. 
+NOTE: 2 smooth pins can be substituted for the threaded pins, the reason the threaded pins are there is for easy removal without the need to remove the stepper. but if you dont plan on removing the pins without removing the stepper than smooth pins would work just fine for you in this situation. 
 
 
 The following users are the main contributors to this mod
