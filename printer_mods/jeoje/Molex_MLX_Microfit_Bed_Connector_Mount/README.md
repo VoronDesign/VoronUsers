@@ -1,6 +1,6 @@
 # Molex MLX and Microfit Bed Connector Mount
 
-This part provides a solid mount for the 3 circuit MLX receptacle and a 2 circuit Micro-Fit 3.0 plug housing.  I recommend you put these connectors on the electronics side.  Mounting the connectors this way allows you to more easily hide the wires and disconnect the bed from the printer with one hand while after lifting the bed.  It can be mounted on either bed rail, and in either Y orientation you prefer.  Example orientations are shown in the images.
+This part provides a solid mount for the 3 circuit MLX receptacle and a 2 circuit Micro-Fit 3.0 plug housing from the v2.4 BOM.  I recommend you put these connectors on the electronics side.  Mounting the connectors this way allows you to more easily hide the wires and disconnect the bed from the printer with one hand after lifting the bed.  It can be mounted on either bed extrusion, and in either Y orientation you prefer.  Example orientations are shown in the images.
 
 <div align="center">
     <img src="images/MLX_MF3_Render.png" height=400>
