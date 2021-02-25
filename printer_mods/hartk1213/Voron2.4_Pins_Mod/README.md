@@ -1,5 +1,6 @@
 
 
+
 This mod is for the V2, it involves printing new AB drive frames, new XY Joints, new Front Tensioners, and new Z idlers
 
 The pins have replaced m5 screws, at any location where the screw acts like a shaft, holding bearings, pulleys or idlers. This allows for smoother rotation and stops the possibility of motion parts being caught in threads. This work was done by everyone, thanks to ABS plastic and voron printers for the fast iteration, @doomweasel? they fall out yet?
@@ -62,6 +63,16 @@ Smooth pins
 threaded pins 
 
 https://www.ebay.com/itm/%CF%865mm-%CF%8612mm-Female-Thread-Cylindrical-Pin-Dowel-Pins-A2-304-Stainless-Steel/184373551069
+
+Misumi Part Numbers 
+
+|Part NO.  |Qty  |
+|--|--|
+| SFRT5-30-M3 | 2 |
+| SFR5-43 | 2 |
+| SFR5-40 | 4 |
+| SFR5-28 | 6 |
+
 
 **NOTE:**
 2 smooth pins can be substituted for the threaded pins, the reason the threaded pins are there is for easy removal without the need to remove the stepper. but if you dont plan on removing the pins without removing the stepper than smooth pins would work just fine for you in this situation. 
