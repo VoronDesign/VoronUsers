@@ -38,6 +38,7 @@ like so:
 |claytono|[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
+| BladeScraper-Designs | [Microswitch_Pod_With_Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
