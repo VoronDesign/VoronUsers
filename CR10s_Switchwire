@@ -1,14 +1,14 @@
-#  CR10s to Switchwire Mod
+#  CR10_CR10s to Switchwire Mod
 
-This is a conversion of the Creality CR10s to a Switchwire type coreXZ printer.  My goal was to use most of the CR10 components while maintaining the core Voron design look and feel.
-This was a really good experience, I learned a lot of CAD stuff and I'm still refining my CAD skills. I will continue to maintain this as long as there is interest.
+This is a conversion of the Creality CR10_CR10s to a Switchwire type coreXZ printer.  My goal was to use most of the CR10_CR10s components while maintaining the core Voron design look and feel.
+This was a really good experience, I learned a lot of CAD stuff and I'm still refining my CAD skills. I will continue to maintain this as long as there is interest on it.
 
-![Home](Images/Home.png)
+<a href="https://ibb.co/7kPdwFZ"><img src="https://i.ibb.co/DrhHxnv/Screenshot-2021-03-07-214620.jpg" alt="Screenshot-2021-03-07-214620" border="0"></a>
 
 ## Overview
 - This mod uses most of the key components from the CR10s while providing a coreXZ capability.  The highlights of this include:
-1. The frame is all CR10s.
-2. The electronics are the stock Switchwire ones, however, one of the main improvements over the stock CR10s is the incorporation of a 24v PSU, all the electronics are stowed under the deck as this follows the Switchwire design. The LCD display is not included as hardly use it with Mainsail (MainsailOS), I'm willing to make changes to this based on requests it can easily be added.
+1. The frame is all CR10_CR10s.
+2. The electronics are the stock Switchwire ones, however, one of the main improvements over the stock CR10_CR10s is the incorporation of a 24v PSU, all the electronics are stowed under the deck as this follows the Switchwire design. The LCD display is not included as hardly use it with Mainsail (MainsailOS), I'm willing to make changes to this based on requests it can easily be added.
 3. The deck is easily printed in 4 sections.
 4. The XZ and gantry are slightly modified from the Switchwire baseline.  The X axis extrusion needs to be trimmed 35mm and the X rail needs to be not longer than 335mm, Aliexpress have rails at 333mm which are the perfect fit for this mod.
 5. The Y axis uses 2 rails. I do believe this provides more stability to the entire build surface. It also simplified the Y belt routing through the extrustion.
