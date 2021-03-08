@@ -3,8 +3,6 @@
 This is a conversion of the Creality CR10_CR10s to a Switchwire type coreXZ printer.  My goal was to use most of the CR10_CR10s components while maintaining the core Voron design look and feel.
 This was a really good experience, I learned a lot of CAD stuff and I'm still refining my CAD skills. I will continue to maintain this as long as there is interest on it.
 
-<a href="https://ibb.co/7kPdwFZ"><img src="https://i.ibb.co/DrhHxnv/Screenshot-2021-03-07-214620.jpg" alt="Screenshot-2021-03-07-214620" border="0"></a>
-
 ## Overview
 - This mod uses most of the key components from the CR10s while providing a coreXZ capability.  The highlights of this include:
 1. The frame is all CR10_CR10s.
