@@ -14,5 +14,5 @@ The MakerBeam version is lower than the LDO version.
 
 - layer height: 0.2mm
 
-
+![IMG1](./IMG1.jpg)
 ![IMG2](./IMG2.jpg)
