@@ -4,11 +4,15 @@ It is a great help during installation to prevent the nuts from moving. During t
 
 
 ## hardware:
-- M3 Square Nuts from Aliexpress (5.5mm x 5.5mm x 2mm)
 
-The hex nut is too high, it is difficult to print because only one or two layers get under the nut. (depending on the frame) But it also works.
+- M3 Square Nuts from Aliexpress (5.5mm x 5.5mm x 2mm)  (Recommended!)
 
-The MakerBeam version is lower than the LDO version. 
+or
+
+- M3 hex nuts. The hex nut is too high, it is difficult to print because only one or two layers get under the nut. (depending on the frame) But it also works.
+
+
+The MakerBeam version is lower than the LDO version.  
 
 ## print settings:
 
