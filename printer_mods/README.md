@@ -42,7 +42,7 @@ like so:
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
-| Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo/README.md) | Voron Parts Logo for you back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
+| Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for you back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
 |DaGrooch13 |[Tophat Exhaust Filter V0](./DaGrooch13/Tophat_Exhaust_Filter) |Activated charcoal exhaust filter with HEPA that replaces the rear tophat panel |:heavy_check_mark: |:x: |:x: |:x:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |:x:|
