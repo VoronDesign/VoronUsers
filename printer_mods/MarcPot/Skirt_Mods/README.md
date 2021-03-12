@@ -2,6 +2,7 @@
 ![All Options](Images/all_skirt_mods.JPEG)
 
 **WARNING I HAVE NOT TESTED THE 250 and 350 VERSIONS. PLEASE TELL ME IF YOU DID AND I'LL EDIT THIS WARNING.**
+Update 2021-03-12 - I can confirm it's working on the 350 version.
 
 **WARNING to give the hour counter enough clearance in the 250 version the hour counter will overlap the plug panel, this should not matter. But again, I haven't tested it.**
 
