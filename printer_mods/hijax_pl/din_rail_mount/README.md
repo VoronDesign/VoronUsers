@@ -2,11 +2,11 @@
 
 ### Overview
 
-This is a mount for 35mm DIN RAIL in legacy v2.2 way.
-![Visualisation](din_rail_mount.png?raw=true "DIN 35mm Rail mount")
+This is a mount for 35mm DIN RAIL in legacy v2.2 way. Available in regular and angled version.
 
-Panel version can be used to attach DIN rail to the back of Voron 2.4.
-![Visualisation](din_rail_mount_angle_panel.png?raw=true "DIN 35mm Rail mount")
+![Visualisation](din_rail_mount.png)
+
+Panel version (only angled) can be used to attach DIN rail to the back of Voron 2.4.
 
 ### Print parameters
 
