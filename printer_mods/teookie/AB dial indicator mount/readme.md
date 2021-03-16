@@ -14,7 +14,7 @@ Usefull for:
 - manual bed mesh
 - leveling x rails
 - verify QGL
-- etc
+- quantify the taco
 
 ![AB dial indicator mount](image1.png)
 
