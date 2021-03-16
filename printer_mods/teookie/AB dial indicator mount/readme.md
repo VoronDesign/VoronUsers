@@ -10,3 +10,5 @@ Usefull for:
 - leveling x rails
 - verify QGL
 - etc
+
+![AB dial indicator mount](image1.png)
