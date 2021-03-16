@@ -12,3 +12,5 @@ Usefull for:
 - etc
 
 ![AB dial indicator mount](image1.png)
+
+![AB dial indicator mount](image2.png)
