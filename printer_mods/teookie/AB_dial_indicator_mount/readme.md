@@ -16,6 +16,6 @@ Usefull for:
 - verify QGL
 - quantify the taco
 
-[AB dial indicator mount](image1.png)
+![AB dial indicator mount](image1.png)
 
-[AB dial indicator mount](image2.png)
+![AB dial indicator mount](image2.png)
