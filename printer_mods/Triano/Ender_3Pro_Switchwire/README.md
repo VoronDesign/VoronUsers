@@ -13,7 +13,7 @@ I had a lot of fun doing this and am willing to make any suggested changes.  I h
 4. The XZ and gantry are slightly modified from the Switchwire baseline.  The X axis rail is 300mm and is a tight squeeze on the shorteded 2020 extrusion.  I wanted to keep the standard rail length in case I wanted to build a stock Switchwire.
 5. The Y axis uses 2 rails.  I liked the look of it and it seemed more stable that way.  It also simplified the Y belt routing through the extrustion.  I also removed the springs on the bed corners and replaced them with spacers.  The spacers come off the E3P V-wheels.  With the bed mesh probing, this seemsed like a better approach than worrying about the bed changing positions if the knobs rotated/loosened.
 6. This configuration also worked without too much modification to the stock E3P wire lengths.
-7. The E3P motors can be reused if you can pull of the gears.  You
+7. The E3P motors can be reused if you can pull of the gears.
 
 ## Images / CAD
 I have included several images and the Fusion 360 CAD model.  Full disclosure, I am just learning CAD, so my skills are somewhat limited.
