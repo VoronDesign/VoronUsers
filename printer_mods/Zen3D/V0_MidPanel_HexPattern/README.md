@@ -11,6 +11,8 @@
 - 4 x M3x8 BHCS
 - 4 x M3 nut
 
+
+![IMG1](./IMG/IMG0.jpg)
 ![IMG1](./IMG/IMG1.jpg)
 ![IMG2](./IMG/IMG2.jpg)
 ![IMG3](./IMG/IMG3.jpg)
