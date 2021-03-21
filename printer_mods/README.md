@@ -64,6 +64,7 @@ like so:
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |:x:|
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
+| GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
 | hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :x: | :x: | :heavy_check_mark: |
