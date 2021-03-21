@@ -4,7 +4,7 @@ After struggling for hours to build the V0 bed assembly (which requires aligning
 
 This mod is a whole family of printable inserts to **hold your V0 nuts in place**, inside the extrusions, and even automatically do the alignment for specific locations.
 
-They fit larger LDO and probably MakerBeamXL extrusions, but not OpenBeam-style ones.
+They fit larger LDO extrusions, but not MakerBeamXL or OpenBeam.
 
 This will make your V0 build go happier, **guaranteed**, especially for the bed, panel mounts, and mid panel.
 
