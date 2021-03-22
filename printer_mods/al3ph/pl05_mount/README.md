@@ -8,4 +8,4 @@ Requires 8 x 6mmx3mm Round Neodymium Magnets.
 
 This is designed for temporary installation to level bed and build bedmesh.
 
-<img src="./probe.jpg">
+![Probe](probe.jpg)
