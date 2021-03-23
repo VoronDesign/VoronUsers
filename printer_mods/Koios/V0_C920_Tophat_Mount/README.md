@@ -8,3 +8,5 @@ This is how the finished project looks:
 ![Cable Route](./Images/Cable_Routing.jpg)
 ![From Above](./Images/From_Above.jpg)
 ![Front view of the mount](./Images/Mount.jpg)
+
+Note: this will not work with the sherpa & extended top hat per goopyplastic V0.263
