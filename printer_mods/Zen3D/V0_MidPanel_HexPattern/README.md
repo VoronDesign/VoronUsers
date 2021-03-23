@@ -1,4 +1,4 @@
-# Voron0 MidPanle with Hex pattern and Wire cover 
+# Voron0 MidPanel with Hex pattern and Wire cover 
 
 ## print settings:
 
