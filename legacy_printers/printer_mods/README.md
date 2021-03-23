@@ -60,8 +60,7 @@ like so:
 |Gamsche | [Keystone Skirt Panel](./Gamsche/skirt_keystone)| 25mm skirt panel with integrated keystone jack.  Use with 50mm smaller adjacent skirts for proper fit. |:grey_question: |:grey_question: |:heavy_check_mark:|
 |Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |GustavTheMighty | [4.3 PanelDue Case](./GustavtheMighty/4.3-Paneldue_Case)|Case/mount for the 4.3 PanelDue LCD Display  |:heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:  |
-|Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|
-| | [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
+|Iakabos| [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
 |JaredC01 | [Mini 12864 Voron Knob](./JaredC01/Mini_12864_Voron_Knob) | Upgraded knob for Fystec Mini 12864 RGB LED Display | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -89,9 +88,6 @@ like so:
 | |[WAGO Mount](./Jink/VORON_2.1/WAGO_Mount) |Mount for 3x WAGO connectors |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
 | JustinVoelker|[Mains Plug Panel with RJ45](./JustinVoelker/VORON2) | Mains plug panel with ethernet cutout|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | K1JWG|[PanelDue 7i Custom Logo](./K1JWG/PanelDue7iLogo) |Custom Voron 2 logo for use as a PanelDue 7i startup splash screen |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
-|Koios |[Front Panel Locks](./Koios/6mm_Glass) |Front panel locks for 6mm tempered glass panels | :x: | :heavy_check_mark: | :grey_question:|
-| |[Logitech C920 Mount](./Koios) |Mount for C920 secured to the top front extrusion |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
-| |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
 |masgar |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
 | |[BTT SKR Mini v1.1 mounting frame](./masgar/BTT_SKR_Mini_v1.1_mounting_frame)   | Mounting frame for BigTreeTech SKR Mini v1.1 | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
@@ -99,6 +95,8 @@ like so:
 |meteyou |[Gcode Buttons](./meteyou/gcode_buttons) |Buttons in the skirt to execute gcode |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 |mildw4ve |[Beltchain Remake](./mildw4ve/Beltchain_Remake) |Beltchain Remake for Voron 2.2| :x: | :x: | :heavy_check_mark:|
 | |[IR Probe Mount](./mildw4ve/IR_Probe_Mount_V2.2) |DUET IR Probe Mount| :x: | :x: | :heavy_check_mark:|
+|Nashuar |[IKEA LEDBERG Spot Mount](./Nashuar/LEDBERG_LED_Mount) |LED Spot mount for IKEA LEDBERG |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
+| |[WaveShare 7" Screen Mount](./Nashuar/7.0-WaveShare_Screen) |Display Case for 7" Waveshare LCD |:grey_question: |:grey_question: |:heavy_check_mark: |
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
