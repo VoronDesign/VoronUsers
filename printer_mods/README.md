@@ -56,6 +56,7 @@ like so:
 | | [v0 Power Wagos](./deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | :heavy_check_mark: | :x: | :x: |:x:|
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
+|doubletrouble |[V0 Skirt Mod](./doubletrouble/V0_Skirt_Mod) |V0 Skirt Mod |:heavy_check_mark: |:x: |:x: |:x:|
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
