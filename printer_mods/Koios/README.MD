@@ -9,3 +9,6 @@ Mount a C920 at the top front of your printer, for maximum field of view and min
 # Glass mount
 
 Using the 2.1 panel sizes, I mounted 6mm thick tempered glass panels on my voron.  These files allow the locking latches to secure the panels to the front & sides of the printer. This works fine with 2.4.
+
+# V0 C920 Mount
+Similar to the above C920 mount, but re-engineered to fit nicely on the V0 tophat, including cable management clips.
