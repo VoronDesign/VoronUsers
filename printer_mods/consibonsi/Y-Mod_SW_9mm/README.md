@@ -18,7 +18,7 @@ This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y 
 * 1x 1m GT2 Belt (9mm W)
 * 3x M3 Heat inserts (from the SW BOM)
 
-## Noted regarding the Deckpanels:
+## Notes regarding the Deckpanels:
 * The files for the panels are orientated like the name of the files.
 * If you want a nice finish i recommend to flip them upside down and print on a textured pei sheet.
 * If you want a smooth finish you can try "ironing" the toplayer, then leave the files at the current orientation.
