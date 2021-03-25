@@ -17,3 +17,11 @@ This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y 
 * 1x GT2 20T Pulley (5mm B, 9mm W)
 * 1x 1m GT2 Belt (9mm W)
 * 3x M3 Heat inserts (from the SW BOM)
+
+## Noted regarding the Deckpanels:
+* The files for the panels are orientated like the name of the files.
+* If you want a nice finish i recommend to flip them upside down and print on a textured pei sheet.
+* If you want a smooth finish you can try "ironing" the toplayer, then leave the files at the current orientation.
+* The panels also tend to bent at cooldown after printing after printing, a good tip is to remove the panel from the surface 
+* immediately after printing and quickly place it on a flat surface, then quickly place a thick book on top and weigh it down properly. 
+* I just stood on it, worked great.
