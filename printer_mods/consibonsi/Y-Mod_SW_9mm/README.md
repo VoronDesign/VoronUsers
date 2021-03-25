@@ -6,6 +6,8 @@ This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y 
 
 ![image02](./images/image02.jpg "Usage")
 
+![image02](./images/image03.jpg "Usage")
+
 ## BOM:
 * 2x M5x25 BHCS
 * 2x M5x30 BHCS
