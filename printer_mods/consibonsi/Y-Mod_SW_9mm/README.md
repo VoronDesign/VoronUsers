@@ -16,4 +16,4 @@ This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y 
 * 4x 695 2RS 5x13x4 Bearing without flange
 * 1x GT2 20T Pulley (5mm B, 9mm W)
 * 1x 1m GT2 Belt (9mm W)
-* 3x m3 Heat inserts (from the SW BOM)
+* 3x M3 Heat inserts (from the SW BOM)
