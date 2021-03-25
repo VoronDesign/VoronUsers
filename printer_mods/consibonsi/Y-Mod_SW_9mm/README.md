@@ -1,6 +1,6 @@
 # Overview
 
-This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y axis to 9mm Belts.
+This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y axis to a 9mm belt.
 
 ![image01](./images/image01.jpg "Usage")
 
