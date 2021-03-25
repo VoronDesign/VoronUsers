@@ -168,5 +168,5 @@ like so:
 | Zen3D | [V0 Handle](./Zen3D/V0_Handle)| Voron0 Handle for 3mm panels | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 MidPanel HexPattern](./Zen3D/V0_MidPanel_HexPattern)| Voron0 MidPanel with Hex pattern and Wire cover  | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
-|consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod SW 9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
+|consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 ---
