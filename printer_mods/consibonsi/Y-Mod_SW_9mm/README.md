@@ -2,6 +2,8 @@
 
 This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y axis to a 9mm belt.
 
+As you can see in the picture below, you can expect a significant improvement in terms of resonances for Y.
+
 ![image01](./images/image01.jpg "Usage")
 
 ![image02](./images/image02.jpg "Usage")
@@ -19,7 +21,7 @@ This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y 
 * 1x 1m GT2 Belt (9mm W)
 * 3x M3 Heat inserts (from the SW BOM)
 
-## Slicer settins:
+## Slicer settings:
 * Mainly this should be printed with the Voron PIF settings (4P, 40% Infill etc.)
 * But i recommend to print the panels and motor top mount with 100% infill. The panels will bent less and the section of the motor mount where you screw it to the 2020 extrusion is more stable.
 
