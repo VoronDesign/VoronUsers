@@ -23,7 +23,7 @@ As you can see in the picture below, you can expect a significant improvement in
 
 ## Slicer Settings:
 * Mainly this should be printed with the Voron PIF settings (4P, 40% Infill etc.)
-* But i recommend to print the panels and motor top mount with 100% infill. The panels will bent less and the section of the motor mount where you screw it to the 2020 extrusion is more stable.
+* But i recommend to print the panels and "Motor Top Mount" with 100% infill. The panels will bent less and the section of the motor mount where you screw it to the 2020 extrusion is more stable.
 
 ## Notes regarding the Belt Anchor:
 * The limit switch is only held by one screw instead of two screws like in the original design, otherwise the screw would hit the belt.
