@@ -2,8 +2,6 @@
 
 One part rear skirt for V0.
 
-![Rear skirt](Images/Rear_skirt.jpg) ![Mounting](Images/mounting.png)
-
 ## Requirements
 
 1. Bigger printer than V0
@@ -17,3 +15,10 @@ One part rear skirt for V0.
 3. Install modded feet
 4. Install rear skirt
 5. Install C14 inlet
+
+## Pictures
+### Rear skirt
+![Rear skirt](Images/Rear_skirt.jpg) 
+
+### Mounting
+![Mounting](Images/mounting.png)
