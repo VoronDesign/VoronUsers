@@ -28,5 +28,6 @@ This is a simple mod for the SW. It converts the existing 6mm beltpath of the Y 
 * The files for the panels are orientated like the name of the files.
 * If you want a nice finish i recommend to flip them upside down in slicer and print on a textured pei sheet.
 * If you want a smooth finish you can try "ironing" the toplayer, then leave the files at the current orientation.
+* You can glue the panels together where the front and back snaps together if you want. I just pushed them together and didnt glue them, works great and sits tight. Lay both on a flat surface, snap them together and press with something heavy at the connection points.
 * The panels also tend to bent at cooldown after printing, a good tip is to remove the panel with the pei sheet from the printbed immediately(!) after printing and quickly place it on a flat surface (for example on the floor), then quickly place a thick book on top and weigh it down properly. 
 I just stood on it for 10 minutes, worked great. This step is important, otherwise the panel will bent and the belt anchor will hit the panel when traveling.
