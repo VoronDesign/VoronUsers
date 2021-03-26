@@ -21,9 +21,12 @@ As you can see in the picture below, you can expect a significant improvement in
 * 1x 1m GT2 Belt (9mm W)
 * 3x M3 Heat inserts (from the SW BOM)
 
-## Slicer settings:
+## Slicer Settings:
 * Mainly this should be printed with the Voron PIF settings (4P, 40% Infill etc.)
 * But i recommend to print the panels and motor top mount with 100% infill. The panels will bent less and the section of the motor mount where you screw it to the 2020 extrusion is more stable.
+
+## Notes regarding the Belt Anchor:
+* The limit switch is only held by one screw instead of two screws like in the original design, otherwise the screw would hit the belt.
 
 ## Notes regarding the Deckpanels:
 * For the "Bottom Y Idler" you will need 2 small cutouts on your panels (see pictures). You can drill it out, or print the panels.
