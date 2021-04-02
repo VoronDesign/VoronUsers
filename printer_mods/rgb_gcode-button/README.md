@@ -23,7 +23,7 @@ Assemble Guide
 Furthermore:
 - I revised the 2.4 skirts (and the ones for the common z-mod) so that the lower hexagon row also can take in buttons
 - The hardcore version enlarged the lower outer one also if you want to fit a button in there too, that makes it a bit more challanging to print them
-
+- I already added a lot of buttons which could be helpful in my opinion but I also added the step file for personal edits
 --------------------------------------------------------------------------------
 Configure your Firmware
 --------------------------------------------------------------------------------
