@@ -9,7 +9,7 @@ Also I wanted them to have different colors with different status (e.g. bed temp
 How to build
 --------------------------------------------------------------------------------
 
-![explode-image](/pictures/button.png)
+![explode-image](pictures/button.png)
 
 --------------------------------------------------------------------------------
 Assemble Guide
