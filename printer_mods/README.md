@@ -47,7 +47,7 @@ like so:
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
-| chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
+|consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
 |DaGrooch13 |[Tophat Exhaust Filter V0](./DaGrooch13/Tophat_Exhaust_Filter) |Activated charcoal exhaust filter with HEPA that replaces the rear tophat panel |:heavy_check_mark: |:x: |:x: |:x:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |:x:|
@@ -99,6 +99,7 @@ like so:
 | Koios | [6mm Tempered Glass Mod](./Koios/6mm_Glass) | Lock levers and rests for 6mm Tempered glass panels | :x: | :x:| :heavy_check_mark: | :x: |
 | | [C920 Low Profile Mount](./Koios/C920_Mount) | Low profile mount for a C920 Webcam | :x: | :x: | :heavy_check_mark: | :x: |
 | | [LED Bar Mounts](./Koios/LED_Mounts) | Low profile mount for led bar lights | :x: | :x: | :heavy_check_mark: | :x: |
+| | [V0 C920 Tophat Mount](./Koios/V0_C920_Tophat_Mount) | Mounting bracket for a Logitech C920 on the tophat  | :heavy_check_mark: | :x: | :x: | :x: |
 | Kruppes |[Belt Tension Meter](./Kruppes/Tension_Meter) | Print in place tension meter to easily tighten multiple belts to the same tension |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 | |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |:x:|
 | |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |:x:|
@@ -143,6 +144,7 @@ like so:
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |:x:|
+|teookie|[AB_dial_indicator_mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |:x:|
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
