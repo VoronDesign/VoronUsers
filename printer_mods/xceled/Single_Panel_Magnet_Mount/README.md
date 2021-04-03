@@ -2,6 +2,10 @@
 
 Mounting system for attaching a panel to the Voron 2.4 frame using magnets, primarily intended for the front panel.
 
+![Alt text](Images/CoverMagnetMount.png "Cover Magnet Mount")
+![Alt text](Images/RailMagnetMount.png "Rail Magnet Mount")
+
+
 ###### BOM:
 
 1. Magnets (quantity 64): https://www.kjmagnetics.com/proddetail.asp?prod=B842
@@ -19,5 +23,3 @@ If you use different size magnets or heat set inserts you'll want to adjust the 
 
 The design is two parts, the magnet rail mounts which attach to the extrusion and hosts one set of magnets. 
 The outer part are the panel covers which contain the remaining set of magnets and attach to the panel using M3 screws.
-
- 
