@@ -24,7 +24,7 @@ like so:
 ---
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW |
-| --- | --- | --- | --- | --- | --- | --- |
+|sloscotty|[Switchwire Back Plate](./sloscotty/SW_Back_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 |42bios|[LED mount](./42bios/LED_mount)|LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
