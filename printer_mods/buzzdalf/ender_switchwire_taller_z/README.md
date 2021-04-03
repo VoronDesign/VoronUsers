@@ -3,7 +3,7 @@ These parts are to extend the usable z-height of the printer back up around 250m
 
 I also designed a bowden guide that will let you route your bowden tube between the belts and the upper cross member of the printer as seen in the picture below.  This works really well with a bowden setup, like the dual M4 extruders I use.
 
-You will need a base conversion for your Ender 3 in addition to these files.  You can find Gizzle's Ender 3 conversion in the VoronUsers github page.
+You will need a base conversion for your Ender 3 in addition to these files.  You can find [Gizzle's Ender 3 conversion](../../Gizzle/ender-3_(pro)_switchwire) in the VoronUsers github page.
 
 ![image1](IMAGES/picture.jpg)
 
