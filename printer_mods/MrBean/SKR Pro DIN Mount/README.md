@@ -2,7 +2,7 @@
 
 **Printed Parts:**
 1x SKR PRO DIN Mounts
-2x Standard DIN spring clips
+2x Standard DIN clamps or 2x Stretched DIN Clamps (to rotate mounting direction)
 
 **Hardware:** 
   2x M2 x 12 self tapers 
