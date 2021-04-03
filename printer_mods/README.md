@@ -24,8 +24,7 @@ like so:
 ---
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW |
-
-|sloscotty|[Switchwire Back Plate](./sloscotty/SW_Back_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
+| --- | --- | --- | --- | --- | --- | --- |
 |42bios|[LED mount](./42bios/LED_mount)|LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
@@ -140,6 +139,7 @@ like so:
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
+|sloscotty|[Switchwire Back Plate](./sloscotty/SW_Back_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
