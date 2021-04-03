@@ -35,7 +35,8 @@ STL file naming: TR - top right, TL - top left, BR - bottom right, BL - bottom l
 
 ###### To-Do/Improvements
 
-1. Find the 'ideal' magnet which has just enough pull-force, the current magnets are a little overpowered and thus need to be recessed slightly in the panel cover design to compensate. This will likely be a slightly smaller/lower grade magnet than the one in the above BOM. The count of magnets may also be able to be reduced but I was trying to ensure an airtight seal all around so I overcompensated. 
-2. Reduce strain/potential for cracking on the panel (more important for acrylic I think) by designing a screw plate for the panels that will live on the opposite side of the panel inside the enclosure to spread out compression force of the screws.
-3. The panel covers have a gap behind them to allow removal with fingers but handles could also be useful.
+1. Create a drilling template for the panel M3 holes 
+2. Find the 'ideal' magnet which has just enough pull-force, the current magnets are a little overpowered and thus need to be recessed slightly in the panel cover design to compensate. This will likely be a slightly smaller/lower grade magnet than the one in the above BOM. The count of magnets may also be able to be reduced but I was trying to ensure an airtight seal all around so I overcompensated. 
+3. Reduce strain/potential for cracking on the panel (more important for acrylic I think) by designing a screw plate for the panels that will live on the opposite side of the panel inside the enclosure to spread out compression force of the screws.
+4. The panel covers have a gap behind them to allow removal with fingers but handles could also be useful.
   
