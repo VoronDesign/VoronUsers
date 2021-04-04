@@ -27,7 +27,7 @@ After that you can use this part as a replacement for the standard chain anchor.
 | --- | -------------------------------------------------- |
 | /   | Afterburner: Chain Anchor Parts                    |
 | 4   | M3 ruthex Threaded Insert                          |
-| 2   | M3x8 Screw                                         |
+| 2   | M3x6 Screw                                         |
 | 1   | ADXL345 - Triple Axis Accelerometer Breakout board |
 ## Klipper config
 
