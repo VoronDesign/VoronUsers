@@ -51,7 +51,7 @@ M3 Threaded Insert   [x8]
 ```
 
 ## Printing
-Use the default recommended Voron parts. Can be done in PLA but I have not tested this. If having issues printing side mounts
+Use the default recommended for Voron parts. Can be done in PLA but I have not tested this. If having issues printing side mounts
 you may need to add a brim to those and trim before installation
 
 ```
