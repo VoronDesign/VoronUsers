@@ -12,12 +12,12 @@ I downloaded the CAD files of the Afterburner hotend and searched for a suitable
 ![Chain Anchor](../../padok/chain_anchor-ADXL345_mount/img/VORON2_v2.4_Assembly_1.png)
 
 
-I printed the part like all other parts on my printer with eSUN ABS+ Black/PeekGreen, but this one unfortunately got a little bit overextrusion.
-After I added the threaded inserts, I sanded the plateau with some P180 Sandpaper that I laid on a flat surface, to ensure the best possible contact surface for the adapter board.
+I printed the part on my printer using eSUN ABS+ Black/PeekGreen like all the other parts, but this one was unfortunately a little bit overextruded.
+After adding the threaded inserts, I sanded the plateau with some P180 sandpaper that I placed on a flat surface to ensure the best possible contact surface for the adapter board.
 
 ![Chain Anchor](../../padok/chain_anchor-ADXL345_mount/img/IMG_01.jpg)
 
-Afterwards you can use that board as an drop in replacement for the stock Chain Anchor.
+After that you can use this part as a replacement for the standard chain anchor.
 
 ![Chain Anchor](../../padok/chain_anchor-ADXL345_mount/img/IMG_06.jpg)
 
