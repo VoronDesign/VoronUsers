@@ -20,14 +20,14 @@ Note: Overall size is about 225x50 (about 10mm thick)
 
 2. Use backplate_and_drillguide to drill holes in your back panel
 
-3. Glue badges into respective recesses on the base (no need to glue base to backplate)
+3. Use thin strips of vhb tape, or acetone to affix the badges into respective recesses on the base (no need to affix base to backplate)
     
     Note: badge tolerances are tight - you might need to sand a bit off the edges of the badges.
 
 ![](Images/assembled1.jpg)
 4. Attach to back panel with (4) M3x8 screws
 
-(Optional: to use on front grill, glue all parts together and glue the optional nolcd_grill_mount to the center top of the backplate.)
+(Optional: To use on front grill, affix all parts together using vhb tape or acetone and similarly affix the optional nolcd_grill_mount to the center top of the backplate.)
 
 ## CAD
 
