@@ -13,6 +13,12 @@ To match the skirt with the [Midpanel with Hex Pattern](https://github.com/Voron
 
 ## Skirt.stl, Skirt_mirror.stl
 
+![img5](./IMG/img5.jpg)
+
+## Skirt_EmptyNamePlate.stl
+
+![img5](./IMG/img6.jpg)
+
 ## Skirt_SSR.stl
 
 ## Skirt_PowerSwitch.stl
