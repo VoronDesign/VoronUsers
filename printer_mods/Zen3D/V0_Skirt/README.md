@@ -27,11 +27,20 @@ Empty nameplate for serial number. For example, with Tinkercad you can easily pu
 
 ## Skirt_SSR.stl
 
+SSR holder with led window.
+
 ![img7](./IMG/img7.jpg)
 
 ## Skirt_PowerSwitch.stl
 
+12mm x 19mm windows for power switch.
+
 ![img8](./IMG/img8.jpg)
+
+
+
+
+### Overview
 
 
 ![img3](./IMG/img3.jpg)
