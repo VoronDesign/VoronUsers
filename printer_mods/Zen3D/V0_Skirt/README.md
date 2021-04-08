@@ -17,9 +17,13 @@ Left and right skirt part with 40 degree chamfers for color change printing. The
 
 ![img5](./IMG/img5.jpg)
 
-## Skirt_EmptyNamePlate.stl
+## Skirt_EmptyNameplate.stl
+
+Empty nameplate for serial number. For example, with Tinkercad you can easily put the number on it.
 
 ![img6](./IMG/img6.jpg)
+
+![img9](./IMG/img9.jpg)
 
 ## Skirt_SSR.stl
 
