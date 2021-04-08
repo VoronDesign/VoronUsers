@@ -1,4 +1,4 @@
-# Voron0 dual color skirt
+# Voron0 dual color skirt set (SSR, PowerSwitch, Nameplate)
 
 To match the skirt with the [Midpanel with Hex Pattern](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Zen3D/V0_MidPanel_HexPattern)  by sterminatore's idea
 
