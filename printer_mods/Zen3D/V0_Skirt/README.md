@@ -13,6 +13,8 @@ To match the skirt with the [Midpanel with Hex Pattern](https://github.com/Voron
 
 ## Skirt.stl, Skirt_mirror.stl
 
+Left and right skirt part with 40 degree chamfers for color change printing. There is an extra hole for tightening the middle M3 screw.
+
 ![img5](./IMG/img5.jpg)
 
 ## Skirt_EmptyNamePlate.stl
