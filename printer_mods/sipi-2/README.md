@@ -13,5 +13,5 @@ Some hardware changes are necessary:
 - Profiles for bed (2020) must be 10 mm longer (380 mm)
 - The bearings in Z drive were changed from 3x 625 to 4x F695
 - For Z drive you need 24x M3x50 instead M3x40 and M3 nuts
-- For Z idles you need M3x25 (or optinal M4x25) instead M3x16
-- For Bed profiles holder you need M5x16 or 18 screws and 5x nuts
+- For Z idlers you need M3x25 (or optional M4x25) instead M3x16
+- For Bed profiles holder you need M5x16 or 18 screws and M5 nuts
