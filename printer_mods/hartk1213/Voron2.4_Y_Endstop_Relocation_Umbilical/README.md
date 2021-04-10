@@ -22,8 +22,12 @@ There is also an umbilical toolhead mount for this if you wanted to get rid of t
 ![Umbilical mount](Images/5.png)
 
 to use the umbilical you will need the following 
+
 [M12 Cable strain relief](https://www.amazon.com/uxcell-Waterproof-Adjustable-Locknut-4-5-7-8mm/dp/B07R56F4F1/)
+
 2x m3 heatsets
+
 2x m3x8 screws 
+
 1x m3x50 SHCS
 
