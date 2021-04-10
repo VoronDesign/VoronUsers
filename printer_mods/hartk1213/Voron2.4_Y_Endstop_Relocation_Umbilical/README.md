@@ -17,4 +17,13 @@ you might need to bend the pins a little bit to get them to fit around the curve
 ![JST with bent pins](Images/4.png)
 
 
+There is also an umbilical toolhead mount for this if you wanted to get rid of the cable chains on the X and Y , this is for the MGN12 mod, but im sure it could be adapted to work with stock mgn9
+
+![Umbilical mount](Images/5.png)
+
+to use the umbilical you will need the following 
+[M12 Cable strain relief](https://www.amazon.com/uxcell-Waterproof-Adjustable-Locknut-4-5-7-8mm/dp/B07R56F4F1/)
+2x m3 heatsets
+2x m3x8 screws 
+1x m3x50 SHCS
 
