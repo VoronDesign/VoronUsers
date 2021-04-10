@@ -11,4 +11,4 @@ This mod can be used in either direction by simply changing the din clips. The s
 - 4x M3 x 6 BHCS
 - 4x M2 self tapers 
 
-![Image of mod](https://github.com/0lympu5/VoronUsers/blob/master/printer_mods/MrBean66/SKR%20PRO%20Example.png)
+![Image of mod](SKR_PRO_Example.png)
