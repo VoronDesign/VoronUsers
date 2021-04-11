@@ -3,7 +3,7 @@ Works with 8-12mm LED stripes<br>
 
 v0.1 needs two M3x10 screws / set and T- or hammerhead nuts to mount on normal 2020 extrusions.<br>
 v1.0 "AngryLED"  needs two M3x20 screws / set and T- or hammerhead nuts to mount on normal 2020 extrusions.<br>
- optimized cable path so that the cable goes into the extrusion nut
+ -> optimized cable path so that the cable goes into the extrusion nut
 <br>
 <br>
 v0.1<br>
