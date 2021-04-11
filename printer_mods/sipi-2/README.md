@@ -15,3 +15,7 @@ Some hardware changes are necessary:
 - For Z drive you need 24x M3x50 instead M3x40 and M3 nuts
 - For Z idlers you need M3x25 (or optional M4x25) instead M3x16
 - For Bed profiles holder you need M5x16 or 18 screws and M5 nuts
+
+<img src="Pictures/Voron_3030_01.jpg" width="600">
+
+<img src="Pictures/Voron_3030_03.jpg" width="600">
