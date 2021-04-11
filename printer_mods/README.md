@@ -25,7 +25,9 @@ like so:
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW |
 | --- | --- | --- | --- | --- | --- | --- |
-|42bios|[LED mount](./42bios/LED_mount)|LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
+|42bios
+||[Exhaust filter housing - side thread](./42bios/exhaust_filter_housing_side)|Exhaust filter housing with the G1-8 "thread on the side. |:x:|:grey_question:|:heavy_check_mark:|:x:|
+||[LED mount](./42bios/LED_mount)|LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[MeanWell UHP-xxx DIN mount](./aeresov/MeanWell_UHP_DIN_mount)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
@@ -33,7 +35,7 @@ like so:
 ||[SKR 1.3/1.4 DIN mount](./aeresov/SKR_DIN_mount)|A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
 ||[cable tie DIN mount](./aeresov/cable_tie_DIN_mount)|A bracket for cable ties to route cables across DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
 |albert|[IKEA Dioder Led Mount](./albert/IKEA_Dioder_Led_Mount)|A mount for the IKEA Dioder LED strip | :grey_question: | :grey_question: | :heavy_check_mark: |:x:|
-|al3ph|[LED Mount](./al3ph/led_mount)|A mount for 10mm LED WS2812 strips |:heavy_check_mark:|:x:|:x:|:x:| 
+|al3ph|[LED Mount](./al3ph/led_mount)|A mount for 10mm LED WS2812 strips |:heavy_check_mark:|:x:|:x:|:x:|
 | |[Analog Timer Mount](./al3ph/analog_timer_mount)|A skirt mount for analog timer |:heavy_check_mark:|:x:|:x:|:x:|
 | |[Filament Runout Sensor](./al3ph/filament_runout)|A simple filament runout sensor |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[PL05 Sensor Mount](./al3ph/pl05_mount)|A mount PL05 inductive sensor |:heavy_check_mark:|:x:|:x:|:x:|
