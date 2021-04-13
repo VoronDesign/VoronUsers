@@ -52,7 +52,8 @@ like so:
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
- ByteChild | ESP32_DIN_Rail_Bracket(./ByteChild/ESP32_DIN_Rail_Bracket) | Mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
+ ByteChild | [ESP32_DIN_Rail_Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | Mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
+ || [2_Channel_Relay__DIN_Rail_Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | Mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
