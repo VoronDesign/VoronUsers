@@ -9,6 +9,6 @@ Clips your SKR DIN rail mounts together
 
 ![skr_brace](pic1.png)
 
-![skr_brace](pic2.png)
+![skr_brace](pic2.jpg)
 
 ![skr_brace](pic3.png)
