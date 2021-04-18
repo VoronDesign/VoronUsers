@@ -11,3 +11,7 @@ https://uk.rs-online.com/web/p/iec-filters/1704958/
 - add the display chapter to your printer.cfg in klipper
 
 - use the attached schematic for the wiring
+
+- The small bottom acrylic panel in the back is not used
+
+- The acrylic backpanel is cut to a height of 240mm
