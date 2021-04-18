@@ -14,7 +14,7 @@ https://uk.rs-online.com/web/p/iec-filters/1704958/
 
 - add the display chapter to your printer.cfg in klipper (Display_Config.txt)
 
-- use the attached schematic for the wiring (Display_wiring.png)
+- use the attached schematic for the wiring (<a href="https://raw.githubusercontent.com/PurchenZuPoden/VoronUsers/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/Display_wiring.png">Display_wiring.png</a>)
 
 - The small bottom acrylic panel in the back is not used
 
