@@ -1,7 +1,7 @@
 SKR Brace.
 
 Clips your SKR DIN rail mounts together
-- Rigidizes and imobolizes the mounts
+- Rigidizes and immobolizes the mounts
 - Keeps the boards square to one another
 - Soothes your OCD
 
