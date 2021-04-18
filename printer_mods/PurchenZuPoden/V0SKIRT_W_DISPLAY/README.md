@@ -1,5 +1,6 @@
 This is my V0 Skirt Mod to add a FYSETC-Mini-12864-Panel Display, Version 2.1
 
+![alt text](https://github.com/PurchenZuPoden/VoronUsers/blob/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/03.JPG?raw=true)
 
 - The cut-out in the Back Skirt is for a DC Power Connector with filter:
 https://uk.rs-online.com/web/p/iec-filters/1704958/
