@@ -12,9 +12,9 @@ https://uk.rs-online.com/web/p/iec-filters/1704958/
 
 - All parts are also available as a step file if you need to modify or adapt them
 
-- add the display chapter to your printer.cfg in klipper (Display_Config.txt)
+- add the display chapter to your printer.cfg in klipper (<a href="https://github.com/PurchenZuPoden/VoronUsers/blob/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/Display_Config.txt" target="_blank">Display_Config.txt</a>)
 
-- use the attached schematic for the wiring (<a target="_blank" href="https://raw.githubusercontent.com/PurchenZuPoden/VoronUsers/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/Display_wiring.png">Display_wiring.png</a>)
+- use the attached schematic for the wiring (<a href="https://raw.githubusercontent.com/PurchenZuPoden/VoronUsers/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/Display_wiring.png" target="_blank">Display_wiring.png</a>)
 
 - The small bottom acrylic panel in the back is not used
 
