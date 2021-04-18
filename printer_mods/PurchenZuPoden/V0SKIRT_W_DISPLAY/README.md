@@ -8,9 +8,9 @@ https://uk.rs-online.com/web/p/iec-filters/1704958/
 
 - All parts are also available as a step file if you need to modify or adapt them
 
-- add the display chapter to your printer.cfg in klipper
+- add the display chapter to your printer.cfg in klipper (Display_Config.txt)
 
-- use the attached schematic for the wiring
+- use the attached schematic for the wiring (Display_wiring.png)
 
 - The small bottom acrylic panel in the back is not used
 
