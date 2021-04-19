@@ -20,6 +20,8 @@
 ## V0.0: 
 
 Compatibility: 
+ - Pocketwatch
+ - [Z Belt mod](https://github.com/theFPVgeek/VoronUsers/tree/master/printer_mods/theFPVgeek/v0-zbelt-mod)
 
 ![V01_1](./IMG/V00_1.jpg)
 ![V01_2](./IMG/V00_2.jpg)
