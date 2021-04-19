@@ -12,7 +12,6 @@
 
 ### hardware:
 
-- 8 x M3x6 BHCS
 - 4 x M3x8 BHCS
 - 4 x M3 nut
 
