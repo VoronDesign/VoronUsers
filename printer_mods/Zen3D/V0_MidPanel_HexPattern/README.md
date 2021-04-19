@@ -26,7 +26,7 @@ Compatibility:
 ### hardware:
 
 - 8 x M3x6 BHCS
-- 8 M3 Threaded Insert
+- 8 x M3 Threaded Insert
 - 4 x M3x8 BHCS
 - 4 x M3 nut
 
