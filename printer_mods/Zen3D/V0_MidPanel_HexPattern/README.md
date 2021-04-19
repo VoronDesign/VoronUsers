@@ -7,13 +7,14 @@
 
 ## V0.1
 
-![V01_1](./IMG/V01_1.jpg)
-![V01_2](./IMG/V01_2.jpg)
-
 ### hardware:
 
 - 4 x M3x8 BHCS
 - 4 x M3 nut
+
+![V01_1](./IMG/V01_1.jpg)
+![V01_2](./IMG/V01_2.jpg)
+
 
 
 ## V0.0: 
@@ -22,15 +23,17 @@ Compatibility:
  - Pocketwatch
  - [Z Belt mod](https://github.com/theFPVgeek/VoronUsers/tree/master/printer_mods/theFPVgeek/v0-zbelt-mod)
 
-![V01_1](./IMG/V00_1.jpg)
-![V01_2](./IMG/V00_2.jpg)
-
 ### hardware:
 
 - 8 x M3x6 BHCS
 - 8 M3 Threaded Insert
 - 4 x M3x8 BHCS
 - 4 x M3 nut
+
+![V01_1](./IMG/V00_1.jpg)
+![V01_2](./IMG/V00_2.jpg)
+
+
 
 
 ![IMG1](./IMG/IMG0.jpg)
