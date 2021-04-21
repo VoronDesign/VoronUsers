@@ -2,6 +2,8 @@ This mod is for the V2 A Drive to go along with [Arkeets MGN12](https://github.c
 and that is moving the Y endstop to the A drive this requires a 2pin jst to be soldered to the switch, 
 the best way i have done it is to solder the wires to the jst first, then install it with a dab of super glue , then solder the wires to the omron switch 
 
+note: the umbilical mod for the toolhead is still a WIP so it may not work with every setup , i am currently working on making it better and easier to use
+
 - a_drive_frame_upper_with_jst_y_endstop_pinned
 
 here are a few pics for reference
