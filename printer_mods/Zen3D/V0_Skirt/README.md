@@ -33,7 +33,9 @@ SSR holder with led window.
 
 ## Skirt_PowerSwitch.stl
 
-12mm x 19mm windows for power switch.
+12mm x 19mm windows for power switch. 
+- Example power switch on aliexpress: [On/Off Switch 6A-10A 110V 250V 21MM*15MM](https://www.aliexpress.com/item/32802764284.html)
+
 
 ![img8](./IMG/img8.jpg)
 
