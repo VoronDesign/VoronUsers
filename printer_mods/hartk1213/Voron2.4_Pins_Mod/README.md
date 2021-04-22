@@ -24,7 +24,9 @@ To complete this mod the following files will need to be reprinted
 - xy_joint_left_lower_pinned.stl
 - xy_joint_right_upper_pinned.stl
 - xy_joint_right_lower_pinned.stl
+- 
 or 
+
 - MGN12_xy_joint_left_upper_pinned.stl
 - MGN12_xy_joint_left_lower_pinned.stl
 - MGN12_xy_joint_right_upper_pinned.stl
