@@ -23,7 +23,8 @@ Empty nameplate for serial number. For example, with Tinkercad you can easily pu
 
 ![img6](./IMG/img6.jpg)
 
-![img9](./IMG/img9.jpg)
+
+[![IMAGE ALT TEXT HERE](https://img.youtube.com/vi/D3W7nkzlX2c/0.jpg)](https://www.youtube.com/watch?v=D3W7nkzlX2c)
 
 ## Skirt_SSR.stl
 
