@@ -184,6 +184,7 @@ like so:
 | Zen3D | [V0 Handle](./Zen3D/V0_Handle)| Voron0 Handle for 3mm panels | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 MidPanel HexPattern](./Zen3D/V0_MidPanel_HexPattern)| Voron0 MidPanel with Hex pattern and Wire cover  | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
+|See1807|[TopHead Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod)|A mount for 10mm LED strips and Exhaust for Voron V0 |:heavy_check_mark:|:x:|:x:|:x:|
 
 
 ---
