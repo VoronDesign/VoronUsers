@@ -41,5 +41,5 @@ STL file naming: TR - top right, TL - top left, BR - bottom right, BL - bottom l
 
 1. Reduce strain/potential for cracking on the panel (more important for acrylic I think) by designing a screw plate for the panels that will live on the opposite side of the panel inside the enclosure to spread out compression force of the screws.
 2. The panel covers have a gap behind them to allow removal with fingers but handles could also be useful.
-3. Create 250 and 350 versions of the STL files
+
   
