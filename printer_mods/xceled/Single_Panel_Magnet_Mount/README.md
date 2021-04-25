@@ -1,4 +1,4 @@
-# **Voron 2.4 300 Front Magnet Panel Mounting System**
+# **Voron 2.4 Front Magnet Panel Mounting System**
 
 Mounting system for attaching a panel to the Voron 2.4 frame using magnets, primarily intended for the front panel.
 
@@ -19,7 +19,7 @@ Approximate total BOM cost: $90
 
 ###### Instructions
 
-STL files are for the 300 size 2.4 build. In the Fusion 360 file, the design was created using parametric modeling and has a lot of predefined parameters that you can adjust to fit to your needs.
+In the Fusion 360 file, the design was created using parametric modeling and has a lot of predefined parameters that you can adjust to fit to your needs.
 
 If you use different size magnets or heat set inserts you'll want to adjust the parameters for those dimensions.
 
