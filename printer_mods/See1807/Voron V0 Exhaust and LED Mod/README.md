@@ -17,7 +17,7 @@ Since the lack of suction on the VO bothered me and, in my opinion, printers sho
 
 - 4 Heatset Insert M3
 - 4 Screw M3x12 BHCS
-- 4 Screw M3x8 BHCS
+- 4 Screw M3x10 BHCS
 - 2 x 10cm LED Stripe 24V 60LED7Meter
 
 ## Build
@@ -33,6 +33,6 @@ There are 2 back panels in the folder. One with holes to pull the cables of the 
 The LED mountigplate is provided with two heatset inserts at the outer holes. The two inner holes are used for mounting on the head. to do this, the original M3x10 screws are exchanged for M3x12.
 
 The LED strips are glued into the LED carrier after 24 AWG cables have been soldered to them. there is a separate carrier for each side with a recess to pull the cables out of the lamp.
-Finally, the carriers are screwed between the LED cover and the mounting plate with two M3x8mm screws each.
+Finally, the carriers are screwed between the LED cover and the mounting plate with two M3x10mm screws each.
 
 A 12mm 24V switch can be used as a switch. I have included an adapted skirt for this.
