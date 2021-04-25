@@ -13,8 +13,9 @@ Mounting system for attaching a panel to the Voron 2.4 frame using magnets, prim
 3. M3 T-nuts (quantity 24 ~$12), with a centered threaded hole, I used the type I could roll into the frame: https://us.misumi-ec.com/vona2/detail/110302247910/?HissuCode=HNTAJ5-3&PNSearch=HNTAJ5-3&searchFlow=results2type&KWSearch=HNTAJ5-3
 4. M3 x.5mm x 6mm button head screws (quantity 48, ~$4.8): https://www.boltdepot.com/Product-Details.aspx?product=13334
 5. 3mm panel (quantity 1, ~$17), I like polycarbonate panels for ease of drilling. I would suggest having it cut short by about 5mm on height and width of the Voron BOM panel size. This will avoid issues with tolerance attaching/removing the panel. The panels can not exceed the standard Voron BOM panel size, if they do, they will not fit into the area inside the rail magnet mounts.
-6. 1/4 inch wide x 1/8th inch thick closed cell foam. This can be adhered to the panel or to the frame and will create an airtight seal of the panel to the frame when the magnets of the outer panel cover pull towards the magnets on the rail mounts. https://smile.amazon.com/gp/product/B08MTXJBR5
+6. 1/4 inch wide x 1/8th inch thick closed cell foam (qty 1, $10). This can be adhered to the panel or to the frame and will create an airtight seal of the panel to the frame when the magnets of the outer panel cover pull towards the magnets on the rail mounts. https://smile.amazon.com/gp/product/B08MTXJBR5
   
+Approximate total BOM cost: $90
 
 ###### Instructions
 
