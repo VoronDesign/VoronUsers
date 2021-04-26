@@ -8,7 +8,6 @@ The pins have replaced m5 screws, at any location where the screw acts like a sh
 To complete this mod the following files will need to be reprinted 
 
 **A and B drive units**
-
  - a_drive_frame_lower_pinned.stl 
  - a_drive_frame_upper_pinned.stl 
  - b_drive_frame_lower_pinned.stl 
@@ -19,10 +18,19 @@ To complete this mod the following files will need to be reprinted
 - [a]_b_tensioner_pinned.stl
 
 **XY Joints**
+
+*NOTE: There are now 2 versions of these files , 1 set for Stock 2.4 and 1 set for  [Arkeets MGN12](../../arkeet/mgn12)*
 - xy_joint_left_upper_pinned.stl
 - xy_joint_left_lower_pinned.stl
 - xy_joint_right_upper_pinned.stl
 - xy_joint_right_lower_pinned.stl
+- 
+or 
+
+- MGN12_xy_joint_left_upper_pinned.stl
+- MGN12_xy_joint_left_lower_pinned.stl
+- MGN12_xy_joint_right_upper_pinned.stl
+- MGN12_xy_joint_right_lower_pinned.stl
 
 **Z Idlers**
 either one of these based on if you are using 6mm or 9mm belt
@@ -34,6 +42,11 @@ either one of these based on if you are using 6mm or 9mm belt
 here is what the XY Joint will look like
 
 ![XY Joint](Images/1.png) 
+
+
+There is a new file for the A Drive to go along with [Arkeets MGN12](../../arkeet/mgn12) mod that has the X endstop on the toolhead 
+
+the files for the endstop relocation mod are here [Voron2.4_Y_Endstop_Relocation](../Voron2.4_Y_Endstop_Relocation)
 
 
 the following 5mm Pin hardware is what is needed as well 
