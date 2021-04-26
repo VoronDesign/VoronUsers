@@ -19,7 +19,7 @@ To complete this mod the following files will need to be reprinted
 
 **XY Joints**
 
-*NOTE: There are now 2 versions of these files , 1 set for Stock 2.4 and 1 set for  [Arkeets MGN12](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12)*
+*NOTE: There are now 2 versions of these files , 1 set for Stock 2.4 and 1 set for  [Arkeets MGN12](../../arkeet/mgn12)*
 - xy_joint_left_upper_pinned.stl
 - xy_joint_left_lower_pinned.stl
 - xy_joint_right_upper_pinned.stl
@@ -44,9 +44,9 @@ here is what the XY Joint will look like
 ![XY Joint](Images/1.png) 
 
 
-There is a new file for the A Drive to go along with [Arkeets MGN12](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12) mod that has the X endstop on the toolhead 
+There is a new file for the A Drive to go along with [Arkeets MGN12](../../arkeet/mgn12) mod that has the X endstop on the toolhead 
 
-the files for the endstop relocation mod are here [Voron2.4_Y_Endstop_Relocation](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_Y_Endstop_Relocation)
+the files for the endstop relocation mod are here [Voron2.4_Y_Endstop_Relocation](../Voron2.4_Y_Endstop_Relocation)
 
 
 the following 5mm Pin hardware is what is needed as well 
