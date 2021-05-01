@@ -10,6 +10,7 @@ This part provides a solid mount for the 3 circuit MLX receptacle and a 2 circui
     <img src="images/photo4.jpg" height=400>
 </div>
 
+## Parts Required
 | Part | Quantity | Comment|
 |------|------|--------|
 | M3 X 8 SHCS | 2 | |
