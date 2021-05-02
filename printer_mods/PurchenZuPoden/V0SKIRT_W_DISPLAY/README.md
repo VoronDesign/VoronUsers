@@ -1,9 +1,9 @@
 This is my Skirt Mod to add a FYSETC-Mini-12864-Panel Display, Version 2.1 to the V0
  
-![alt text](https://github.com/PurchenZuPoden/VoronUsers/blob/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/03.JPG?raw=true)
-![alt text](https://github.com/PurchenZuPoden/VoronUsers/blob/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/04.JPG?raw=true)
-![alt text](https://github.com/PurchenZuPoden/VoronUsers/blob/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/02.JPG?raw=true)
-![alt text](https://github.com/PurchenZuPoden/VoronUsers/blob/master/printer_mods/PurchenZuPoden/V0SKIRT_W_DISPLAY/01.JPG?raw=true)
+![alt text](03.JPG?raw=true)
+![alt text](04.JPG?raw=true)
+![alt text](02.JPG?raw=true)
+![alt text](01.JPG?raw=true)
 
 - The cut-out in the Back Skirt is for a 
 Schaffner FN282-2-06 DC Power Connector with filter:
@@ -13,7 +13,7 @@ https://uk.rs-online.com/web/p/iec-filters/1704958/
 
 - All parts are also available as a step file if you need to modify or adapt them
 
-- Add the display chapter to your printer.cfg in klipper
+- Add this display chapter to your printer.cfg in klipper:
 
 ```
 [display]
@@ -39,7 +39,7 @@ initial_BLUE: 0.0
 color_order: RGB
 ```
 
-- Use this schematic for the wiring
+- Use this schematic for the wiring:
 
 ![Display_wiring.png](Display_wiring.png)
 
