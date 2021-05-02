@@ -41,7 +41,7 @@ color_order: RGB
 
 - Use this schematic for the wiring
 
-[Display_wiring.png](Display_wiring.png)
+![Display_wiring.png](Display_wiring.png)
 
 - The small bottom acrylic panel in the back is not used
 
