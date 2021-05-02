@@ -14,15 +14,18 @@ Since the lack of suction on the VO bothered me and, in my opinion, printers sho
 ## BOM
 ## _Exhaust_
 
-- 1 (5) Heatset Insert M3
+- 1 (5 optional) Heatset Insert M3
+- 4 Nuts M3 (optional)
 - 1 Screw M3x8 BHCS
-
+- 1 Fan 40x40x X (10 or 20mm tail)
+- 4 scrwe M3x X (depending on the fan)
+ 
 ## _LED Light_
 
 - 4 Heatset Insert M3
 - 4 Screw M3x12 BHCS
 - 4 Screw M3x10 BHCS
-- 2 x 10cm LED Stripe 24V 60LED7Meter
+- 2 x 10cm LED Stripe 24V 10LED/Meter
 
 ## Build
 
