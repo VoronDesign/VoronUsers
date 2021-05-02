@@ -9,13 +9,14 @@
 * 6 M3 threaded inserts
 * 2 M3 hammered nuts
 
-### Instruction
+### Instructions
 1. Put one M3 threaded insert in each arm end.
 2. Put four M3 threaded insert in the back of the screen case.
-3. Install the two slides with M3x8.
-4. Use two pieces of filament as hinges.
-5. Adjust the tension of the screws that pass through the slides to keep the position.
-6. The optional installation of the SD extender requires four self tapping M3x8.
+3. Remove the built-in support in the fork of both arms.
+4. Install the two slides with M3x8.
+5. Use two pieces of filament as hinges.
+6. Adjust the tension of the screws that pass through the slides to keep the position.
+7. The optional installation of the SD extender requires four self tapping M3x8.
 
 **Since the screen is larger than the original piece you will have to replace your sides skirts. These are included too.**
 
