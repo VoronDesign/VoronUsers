@@ -40,7 +40,7 @@ There are 2 back panels in the folder. One with holes to pull the cables of the 
 
 ## _LED Light_
 
-The LED mountig plate is provided with two heatset inserts at the outer holes. The two inner holes are used for mounting on the TopHat. To do this, the original M3x10 screws are exchanged for M3x12.
+The LED mounting plate is provided with two heatset inserts at the outer holes. The two inner holes are used for mounting on the TopHat. To do this, the original M3x10 screws are exchanged for M3x12.
 
 The LED strips are mounted into the LED carrier after 24 AWG cables have been soldered to them. Cheap LED strips can become detached from the heat. To be on the safe side, these can be glued firmly, even if they cannot fall off. 
 There is a separate carrier for each side with a recess to pull the cables out of the lamp.
