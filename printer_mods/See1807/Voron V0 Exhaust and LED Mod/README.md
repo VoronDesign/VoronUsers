@@ -46,10 +46,10 @@ The LED strips are mounted into the LED carrier after 24 AWG cables have been so
 There is a separate carrier for each side with a recess to pull the cables out of the lamp.
 Finally, the carriers are screwed between the LED cover and the mounting plate with two M3x10mm screws each.
 
-A 12mm 24V switch can be used as a switch. I have included an adapted skirt for this. -> 
+A 12mm 24V switch can be used as a [switch](https://de.aliexpress.com/item/32903566664.html?spm=a2g0o.productlist.0.0.309a75a9pKEjqh&algo_pvid=null&algo_expid=null&btsid=2100bdcf16199863007972392e9fd1&ws_ab_test=searchweb0_0,searchweb201602_,searchweb201603_). I have included an adapted skirt for this.
 
 
-![Optional Skirt](STL/Skirt 12mm switch.stl)
+
 
 ![Foto_1](img/Foto_1.jpg)
 ![Foto_2](img/Foto_2.jpg)
