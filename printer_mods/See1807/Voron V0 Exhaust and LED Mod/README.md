@@ -25,7 +25,7 @@ Since the lack of suction on the VO bothered me and, in my opinion, printers sho
 - 4 Heatset Insert M3
 - 4 Screw M3x12 BHCS
 - 4 Screw M3x10 BHCS
-- 2 x 10cm LED Stripe 24V 10LED/Meter
+- 2 x 10cm LED Stripe 24V 60LED/Meter
 
 ## Build
 
