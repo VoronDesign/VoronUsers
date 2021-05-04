@@ -139,8 +139,8 @@ like so:
 | |[Remixed Panel Mounts](./Nomsplease/V0_Mods/panel_mounts) | Remixed rear bottom panel mounts with stop |:heavy_check_mark: |:x: |:x: |:x:|
 | |[Pi Cam/ZeroW Mount](./Nomsplease/V0_Mods/pi_zero_camera_mount) | Mount for pi camera and ZeroW |:heavy_check_mark: |:x: |:x: |:x:|
 | |[Pocket Watch Rear Reolcation Bracket](./Nomsplease/V0_Mods/pocket_watch_rear_relocation) | Pocket watch rear reolcation bracket |:heavy_check_mark: |:x: |:x: |:x:|
-|Oakman |[FYSETC Spider Metal DIN Mount](./Oakman/FYSETC Spider Metal DIN Mount) |Use a metal DIN mount for your FYSETC Spider |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-| |[BTT 24V UPS Metal DIN Mount](./Oakman/BTT 24V UPS Metal DIN Mount) | Adapter to use a metal DIN mount for the BTT 24V UPS |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|Oakman |[FYSETC Spider Metal DIN Mount](./Oakman/FYSETC_Spider_Metal_DIN_Mount) |Use a metal DIN mount for your FYSETC Spider |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+| |[BTT 24V UPS Metal DIN Mount](./Oakman/BTT_24V_UPS_Metal_DIN_Mount) | Adapter to use a metal DIN mount for the BTT 24V UPS |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[RPI Metal DIN Mount](./Oakman/RPI Metal DIN Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
