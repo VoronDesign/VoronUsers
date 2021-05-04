@@ -144,7 +144,7 @@ I have included stls for an optional de-earing tool (5015-deearing-tool and 5015
 Step 2: Fan test fit.\
 The fan fits into AB-BN-30_fan_front. We have learned that different "5015" fans have very different shapes. AB-BN is designed to allow for adjustment for your fan. Here's how:\
 \
-Test fit the fan in AB-BN-30_fan_front. Looking at it from the front, move the fan around to center the turbine blades. You may need to trim your fan housing a little more. Once the fan is centered, turn this over and note where you need to add shims between AB-BN-30_fan_front and the fan.\
+Test fit the fan in AB-BN-30_fan_front. Looking at it from the front, move the fan around to center the turbine blades. You may need to trim your fan housing a little more. Once the fan is centered, turn this over and note where you need to add shims between AB-BN-30_fan_front and the fan. To shim this I recommend vhb tape.\
 \
 Step 3: Spring THEN Fan\
 Once you have your shims in the right spots, remove the fan and install the printed leaf spring (AB-BN-28_spring) into fan front. The little circle tab should be cut off, it's a integral print support only.
