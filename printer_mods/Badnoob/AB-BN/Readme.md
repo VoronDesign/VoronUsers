@@ -147,7 +147,7 @@ The fan fits into AB-BN-30_fan_front. We have learned that different "5015" fans
 Test fit the fan in AB-BN-30_fan_front. Looking at it from the front, move the fan around to center the turbine blades. You may need to trim your fan housing a little more. Once the fan is centered, turn this over and note where you need to add shims between AB-BN-30_fan_front and the fan. To shim this I recommend vhb tape.\
 \
 Step 3: Spring THEN Fan\
-Once you have your shims in the right spots, remove the fan and install the printed leaf spring (AB-BN-28_spring) into fan front. The little circle tab should be cut off, it's a integral print support only.
+Once you have your shims in the right spots, remove the fan and install the printed leaf spring (AB-BN-28_spring) into fan front. The little circle tab should be cut off, it's an integral print support only.
 ![Don't forget to remove the integral print support](fanspring.png)
 
 Insert fan into 5015 front and secure with fan spring. The spring bends back to hold the fan in place.
