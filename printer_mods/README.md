@@ -75,6 +75,7 @@ like so:
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |:x:|
+| ElPoPo | [Removable Doors](./ElPoPo/RemovableDoors) | New hinge to easily remove the door and have a wide opening  V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | Empusas | [Power Skirt 2.x FN284-10-06](./Empusas/PowerSkirt_FN284-10-06) | Power Skirt for Schaffner FN284-10-06 V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
