@@ -138,7 +138,7 @@ Everyone will need:
 
 Step 1: Cut the ears off the 5015 fan. In order to fit, you must cut the ears (mounting tabs) off the 5015 fan, and take off the top cover. The ears can be cut with diagonal clippers, hacksaw, bread knife, belt sander...whatever you have at hand. Just make it look like the image above. If you cut too much it's probably fine, as long as you don't damage the turbine.\
 \
-I have included stls for an optional de-earing tool (5015-deearing-tool and 5015-deearing-tool-b). The tool is meant as an handle and guide to saw off the ears. The tool fits around the ear and it's edge can be used as a saw guide to cut the mounting ear off.
+I have included stls for an optional de-earing tool (5015-deearing-tool and 5015-deearing-tool-b). The tool is meant as a handle and guide to saw off the ears. The tool fits around the ear and its edge can be used as a saw guide to cut the mounting ear off.
 
 
 Step 2: Fan test fit.\
