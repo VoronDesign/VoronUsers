@@ -63,19 +63,21 @@ This version of the afterburner fan and duct is a drop in replacement to the spe
 
 \* Cleaner airflow for better overhangs
 
-### What has changed from AB-BN-28 to AB-BN-30?
+### CHANGE Log
 
-In AB BN 28 and 29, we moved to a single piece front. This has a few advantages, but it appears there may be an issue causing hotend fan failures by stressing the 4010 fan at a weak point in its housing.\
-\
-The issue is fixed in AB-BN-30_fan_front.stl\
-\
+Added support for Phaetus BMS and Phaetus BMO hotend
+
+Release to VoronUsers
+
+In AB BN 28 and 29, we moved to a single piece front. This has a few advantages, but it appears there may be an issue causing hotend fan failures by stressing the 4010 fan at a weak point in its housing. The issue is fixed in AB-BN-30_fan_front.stl\
+
 I also made some slight changes to focus the part cooling flow for the dragon toolhead only. I didn't see much difference from this, so I did not migrate these changes to Mosquito or E3DV6.
 
-### I just did AB-BN-xx!...why should I move to v30?
+### I just did AB-BN-xx!...why should I move to the current version?
 
 If you are using AB-BN-28 or 29, I recommend you update the fan front piece.\
 \
-performance wise, ab-bn-25 is nearly identical to -30, but there are some changes.\
+Performance wise, ab-bn-25 is nearly identical to -30, but there are some changes.\
 \
 Compared to the version (AB-BN-25):
 
@@ -118,6 +120,14 @@ Everyone will need:
 * AB-BN-28_spacer.stl
 
   ##### Depending on your hotend you will need:
+  
+  ##### Phaetus BMS:
+* AB-BN-30_Hotend-Phaetus_BMS-front.stl
+* AB-BN-30_Hotend-Phaetus_BMS-back.stl
+
+  ##### Phaetus BMO:
+* AB-BN-30_Hotend-Phaetus_BMO-front.stl
+* AB-BN-30_Hotend-Phaetus_BMO-back.stl
 
   #####   E3DV6:
 * AB-BN-28_Hotend-E3Dv6-front.stl
