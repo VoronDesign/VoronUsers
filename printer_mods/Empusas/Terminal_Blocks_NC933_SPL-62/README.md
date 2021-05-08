@@ -17,7 +17,7 @@ SPL-62 (https://de.aliexpress.com/item/4000505115328.html)
 * You can use two M2 self tapping screws to mount them
 * I recommend a stack of washers or a 3D printed spacer for the SPL-62 as the mount holes are not flat on the backside.
 
-Again, use them at your own risk. You should not work on mains voltage if you don't what you are doing.
+Again, use them at your own risk. You should not work on mains voltage if don't know you're doing.
 And your printer should be properly protected by fuses, circuit breakers or even a ground fault circuit interrupter.
 If you have any concerns, don't use them, get genuine WAGO/Phoenix Contact instead!
 
