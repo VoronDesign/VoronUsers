@@ -13,7 +13,7 @@ This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waves
 </div>
 
 
-#### Combine with [Roboticator's modified skirts](../../roboticator24/front%2Brear_skirts_for_v2.4) for a cleaner look.
+#### Combine with [Roboticator's modified skirts](https://github.com/roboticator24/VoronUsers/tree/master/printer_mods/roboticator24/front%2Brear_skirts_for_v2.4) for a cleaner look.
 
 <div align="center">
     <img src="images/Mounted_1.jpg" height="250">
