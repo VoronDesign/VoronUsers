@@ -12,6 +12,5 @@ When using different leds, the slicer scaling function can be used to shorten th
 ## How to print them 
 
 The clips were made to print upright, but will probably require a brim for bed adhesion. 
-There is a combined STL that combines the normal and mirrored version [here](STL/led_mount_clippable_plate.stl).
 
 ![print orientation](images/slicer_brim.jpg)
