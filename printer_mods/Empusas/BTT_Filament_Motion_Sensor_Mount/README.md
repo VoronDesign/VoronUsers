@@ -9,7 +9,7 @@ I did not want to add more weight to my x-carriage, so I designed the mount for 
 
 ### Description
 These mounts fit for the BTT Smart Filament Motion Sensor. You can also use two of the housing screws and I have seen other mounts that replace the back of the housing, but I wanted something that is easy to remove, if I have to. You just have to unplug the cable and then the sensor snaps into the mount. To unmount unplug the cable first.
-I have created two version to mount the part vertically or horizontally. I did print them with supports.
+I have created two version to mount the part vertically or horizontally.
 
 ![vertical filament path](IMG_2384.png)
 ![horizontal filament path](IMG_2385.png)
