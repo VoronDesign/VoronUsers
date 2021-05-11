@@ -9,7 +9,7 @@ I did not want to add more weight to my x-carriage, so I designed the mount for 
 
 ### Description
 These mounts fit for the BTT Smart Filament Motion Sensor. You can also use two of the housing screws and I have seen other mounts that replace the back of the housing, but I wanted something that is easy to remove, if I have to. You just have to unplug the cable and then the sensor snaps into the mount. To unmount unplug the cable first.
-I have created two version to mount the part vertically or horizontally.
+I have created two versions to mount the part vertically or horizontally.
 
 ![vertical filament path](IMG_2384.png)
 ![horizontal filament path](IMG_2385.png)
@@ -28,7 +28,7 @@ S=Signal, G=Ground(-) and V=Voltage(+3.3-5V)
 The next step is to configure Klipper. If you use the E0 DET connector then the pin is P1.26 (or xP1.26 if you connected to the x board).
 It is documented here -> [klipper Config_Reference](https://www.klipper3d.org/Config_Reference.html#filament_motion_sensor)
 Open your printer.cfg and add the section, then adjust the config as in the example below. You can use your own name for the sensor, I used "btt_sensor".
-I added this section right above the Marco section.
+I added this section right above the Macro section.
 ```printer.cfg
 [filament_motion_sensor btt_sensor]
 detection_length: 7.0
