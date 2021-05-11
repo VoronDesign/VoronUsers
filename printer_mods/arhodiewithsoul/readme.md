@@ -1,8 +1,6 @@
 Components modified or created as follows:
 
-[a]_leadscrew_block_202008_x2: Recessed T8 nut, holes line up for M3 fixings (BHCS). Heads of fixings should be slightly sub-flush to bottom surface. *Requires supports in recess - not tested without supports.
-
-z_motor_mount_180_x2: Motor Mount for 180-200mm beds
+z_motor_mount_180_x2: Motor Mount for 180-200mm beds <br/>
 z_motor_mount_200_x2: Motor Mount for 200-250mm beds
 
 skirt_200_middle_x3: Skirt Middle for 200mm beds
