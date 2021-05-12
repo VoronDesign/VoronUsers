@@ -40,4 +40,4 @@ Note: The mounting holes on the Spider board are very tight for M3 Screws. I dri
 
 Disclaimer: It is your printer. If you do this and something breaks or if someone gets hurt, it is fully your responsibility. I take no responsibility.
 
-If you have any questions or problems: ping me on Discord hoschi#0238
+In case of doubt ping me on Discord hoschi#0238
