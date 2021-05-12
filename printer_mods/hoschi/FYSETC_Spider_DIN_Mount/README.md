@@ -30,6 +30,8 @@ Put the four screws thru the Spider mounting holes an screw it in the spacers. T
 
 Then screw the board on evenly on the mounts.
 
+![FYSETC_Spider_DIN_Mount](./IMG/bracket.jpg)
+
 ![FYSETC_Spider_DIN_Mount](./IMG/horizontal.jpg)
 
 Note: The mounting holes on the Spider board are very tight for M3 Screws. I drilled the holes out with a 3,2mm drill, but don't encourage anyone to do so, because of ... reasons.
