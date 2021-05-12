@@ -1,6 +1,8 @@
-FYSETC Spider DIN Mount for horizontal or vertical mounting
+FYSETC Spider DIN Rail Mount
 
-![FYSETC_Spider_DIN_Mount](./IMG/horizontal_rail.jpg)
+for horizontal or vertical mounting
+
+![FYSETC_Spider_DIN_Mount](./IMG/main.jpg)
 
 Required material:
 
