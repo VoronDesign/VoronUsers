@@ -8,17 +8,17 @@ Required materials:
 
 for horizontal mounting:
 
-- 1x printed bracket terminal side of the Spider Board: ![spider_bracket_horizontal_terminal.stl](./STL/spider_bracket_horizontal_terminal.stl)
-- 1x printed bracket USB-Port side of the Spider Board: ![spider_bracket_horizontal_usb.stl](./STL/spider_bracket_horizontal_usb.stl)
+- 1x printed bracket terminal side of the Spider Board: [spider_bracket_horizontal_terminal.stl](./STL/spider_bracket_horizontal_terminal.stl)
+- 1x printed bracket USB-Port side of the Spider Board: [spider_bracket_horizontal_usb.stl](./STL/spider_bracket_horizontal_usb.stl)
 
 for vertical mounting:
 
-- 1x printed bracket terminal side of the Spider Board: ![spider_bracket_vertical_terminal.stl](./STL/spider_bracket_vertical_terminal.stl)
-- 1x printed bracket USB-Port side of the Spider Board: ![spider_bracket_vertical_usb.stl](./STL/spider_bracket_vertical_usb.stl)
+- 1x printed bracket terminal side of the Spider Board: [spider_bracket_vertical_terminal.stl](./STL/spider_bracket_vertical_terminal.stl)
+- 1x printed bracket USB-Port side of the Spider Board: [spider_bracket_vertical_usb.stl](./STL/spider_bracket_vertical_usb.stl)
 
 for both types:
 
-- 4x printed spacers: ![spider_spacer_x4.stl](./STL/spider_spacer_x4.stl)
+- 4x printed spacers: [spider_spacer_x4.stl](./STL/spider_spacer_x4.stl)
 - 4x M3 x 8mm BHCS/SHCS 
 - 4x M3 x 4mm threaded inserts
 
