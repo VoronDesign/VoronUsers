@@ -88,9 +88,6 @@ like so:
 | |[WAGO Mount](./Jink/VORON_2.1/WAGO_Mount) |Mount for 3x WAGO connectors |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
 | JustinVoelker|[Mains Plug Panel with RJ45](./JustinVoelker/VORON2) | Mains plug panel with ethernet cutout|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | K1JWG|[PanelDue 7i Custom Logo](./K1JWG/PanelDue7iLogo) |Custom Voron 2 logo for use as a PanelDue 7i startup splash screen |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
-|Koios |[Front Panel Locks](./Koios/6mm_Glass) |Front panel locks for 6mm tempered glass panels | :x: | :heavy_check_mark: | :grey_question:|
-| |[Logitech C920 Mount](./Koios) |Mount for C920 secured to the top front extrusion |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
-| |[LED Mounts](./Koios) |Different mounts for LED light bars |:grey_question: |:heavy_check_mark: | :heavy_check_mark:|
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
 |masgar |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
 | |[BTT SKR Mini v1.1 mounting frame](./masgar/BTT_SKR_Mini_v1.1_mounting_frame)   | Mounting frame for BigTreeTech SKR Mini v1.1 | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
