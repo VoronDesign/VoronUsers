@@ -1,4 +1,4 @@
-# V0 No-Drop Nuts (LDO only)
+# V0 No-Drop Nuts (LDO frames only)
 
 After struggling for hours to build the V0 bed assembly (which requires aligning 4 nuts simultaneously!), I had to do something.
 
