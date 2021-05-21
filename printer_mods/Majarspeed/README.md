@@ -1,1 +1,1 @@
-Hartk board mount for galileo. 
+Hartk board mount for galileo.  
