@@ -30,7 +30,17 @@ module cable_ramp(cut=false) {
             
             
             translate([0,0,7.5]) {
-                cube([length,width,thick]);
+                difference() {
+                    cube([length,width,thick]);
+                    hull() {
+                        translate([3.7,width/2-6/2,-1]) {
+                            cube([16,6,10]);
+                        }
+                        translate([3.7,width/2-3/2,-1]) {
+                            cube([18,3,10]);
+                        }
+                    }
+                }
             }
             translate([0,0,7.5]) {
                 cube([length+thick,thick,7.5]);
@@ -54,7 +64,7 @@ module cable_ramp(cut=false) {
             }
             hull() {
                 translate([0,6,7.5]) {
-                    cube([50,width-12,0.1]);
+                    //cube([50,width-12,0.1]);
                 }
                 translate([0,0,7.5]) {
                     cube([5,width,0.1]);
@@ -93,12 +103,8 @@ module cable_ramp(cut=false) {
                     cylinder(d=head,h=xx+0.1,$fn=120);
                 }
                 // screw access
+                /*
                 translate([xx,0,0]) {
-                    translate([0,0,6]) {
-                        rotate([0,90,0]) {
-//                            cylinder(d=8, h=20, $fn=4);
-                        }
-                    }
                     sphere(d=head,$fn=120);
                     rotate([0,75.5,0]) {
                         hull() {
@@ -109,6 +115,7 @@ module cable_ramp(cut=false) {
                         }
                     }
                 }
+                */
             }
         }
         // ziptie mounts
