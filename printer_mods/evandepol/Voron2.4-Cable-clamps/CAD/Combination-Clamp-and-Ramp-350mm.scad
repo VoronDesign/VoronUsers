@@ -8,6 +8,10 @@ translate([2,-15.5,5]) {
     }
 }
 
+translate([2,-10.5,0]) {
+    cube([5,1.5,15]);
+}
+
 rotate([90,0,0]) {
-    cable_ramp();
+    cable_ramp(true);
 }

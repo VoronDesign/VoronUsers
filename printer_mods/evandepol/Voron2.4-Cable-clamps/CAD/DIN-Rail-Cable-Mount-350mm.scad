@@ -9,13 +9,13 @@ head   = 6.5;
 $fn=60;
 
 rotate([90,0,0])
-cable_ramp();
+cable_ramp(false);
 
-module cable_ramp() {
+module cable_ramp(cut=false) {
     difference() {
         union() {
             // ziptie mounts
-            for (x=[20-3:25:length]) {
+            for (x=[20-3+25:25:length]) {
                 translate([x,0,7.5]) {
                     difference() {
                         cube([6,width,7.5]);
@@ -41,9 +41,16 @@ module cable_ramp() {
             translate([length-4,0,7.5-thick-1.5]) {
                 cube([4.01,width,thick]);
             }
-            hull() {
-                cube([thick,width,15]);
-                cube([5,width,7.5]);
+            if (cut) {
+                hull() {
+                    cube([thick,width,10]);
+                    cube([5,width,7.5]);
+                }
+            } else {
+                hull() {
+                    cube([thick,width,15]);
+                    cube([5,width,7.5]);
+                }
             }
             hull() {
                 translate([0,6,7.5]) {
@@ -80,20 +87,32 @@ module cable_ramp() {
             }
         }
         for (z=[5]) {
+            xx=3.623;
             translate([2,width/2,z]) {
                 rotate([0,90,0]) {
-                    cylinder(d=head,h=5);
+                    cylinder(d=head,h=xx+0.1,$fn=120);
                 }
                 // screw access
-                translate([2,0,0]) {
-                    rotate([0,80-5,0]) {
-                        cylinder(d=head,h=50.2);
+                translate([xx,0,0]) {
+                    translate([0,0,6]) {
+                        rotate([0,90,0]) {
+//                            cylinder(d=8, h=20, $fn=4);
+                        }
+                    }
+                    sphere(d=head,$fn=120);
+                    rotate([0,75.5,0]) {
+                        hull() {
+                            cylinder(d=head,h=50.2,$fn=120);
+                            translate([-6,0,0]) {
+                                cylinder(d=head,h=50.2,$fn=120);
+                            }
+                        }
                     }
                 }
             }
         }
         // ziptie mounts
-        for (x=[20-3:25:length]) {
+        for (x=[20-3+25:25:length]) {
             translate([x+1,0,7.5]) {
                 difference() {
                     translate([-0.1,10,10.5]) {
@@ -109,7 +128,7 @@ module cable_ramp() {
                 }
             }
         }
-        for (x=[20-3-12.5:25:length]) {
+        for (x=[7,19,31,55,80,105,130,155,180]) {
             translate([x,-10,11.5]) {
                 cube([6,30,2.25]);
             }
