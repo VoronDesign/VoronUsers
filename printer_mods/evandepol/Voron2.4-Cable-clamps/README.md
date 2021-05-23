@@ -2,7 +2,7 @@
 
 I used this set of clamps to route and secure the wiring in my Voron 2.4 350mm.
 
-There are three types, each requiring an m3 bolt and t-nut in order to secure them to the inside perimeter of the upper (meaning closest to the deck) 2020 extrusion. The deck should rest on top of the clamps.
+There are three types, each requiring an m3 bolt and t-nut in order to secure them to the inside perimeter of the upper (meaning closest to the deck) 2020 extrusion. The deck should rest on top of the clamps. You'll likely need a ball-end hex driver in order to connect to the nut at an angle via the access hole.
 
 ![Example installation](Images/annotated.jpg)
 
@@ -37,4 +37,3 @@ Closeup of how I wiring is routed and secured alongside the SKR controller board
 ## Printing
 
 Parts are intended to be printed in the provided orientation (on the side). I Used ABS, standard Voron print settings.
-
