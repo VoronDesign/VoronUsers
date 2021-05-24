@@ -1,4 +1,6 @@
-#Basic movements to dock and undock probe
+# NOTE: All of this is based on my printer, which is a Voron 2.4 300
+
+# Basic movements to dock and undock probe
 #   Get Probe
 [gcode_macro Get_Probe]
 gcode:
@@ -21,6 +23,7 @@ gcode:
 	
 	
 # My homing override, QGL, and Mesh settings **MAKE SURE TO HOME Y BEFORE X**
+# NOTE: All of this is based on my printer, which is a Voron 2.4 300
 [homing_override]
 axes: z
 set_position_z: 0
