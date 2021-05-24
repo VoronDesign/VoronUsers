@@ -2,46 +2,46 @@
 #   Get Probe
 [gcode_macro Get_Probe]
 gcode:
-    G0 X46.3 Y305 Z20 F12000		#Spot above where the carriage magnets line up with the magprobe magnets 
-									#	(with magprobe in the dock)
-	G0 X46.3 Y305 Z2 F3600			#move -Z to where all the magnets pairs first fully grab onto each other
-	G0 X46.3 Y290 Z2 F1800			#Move -Y so the probe is fully clear of the the arms of the dock
-	G0 X46.3 Y290 Z20 F3600			#move +Z so any move from here clears the buildplate.
+    G0 X46.3 Y305 Z20 F12000			#Spot above where the carriage magnets line up with the magprobe magnets 
+						#	(with magprobe in the dock)
+    G0 X46.3 Y305 Z2 F3600			#move -Z to where all the magnets pairs first fully grab onto each other
+    G0 X46.3 Y290 Z2 F1800			#Move -Y so the probe is fully clear of the the arms of the dock
+    G0 X46.3 Y290 Z20 F3600			#move +Z so any move from here clears the buildplate.
 
 #   Dock Probe
 [gcode_macro Dock_Probe]
 gcode:
-	G0 X46.3 Y290 z10 F12000		#Above +Z and forward -Y of where magprobe side cutouts line up with dock arms
-									#	(allows build plate clearance for next downward move to line up magprobe to arms)
-	G0 X46.3 Y290 Z2 F3600			#Location where the side cutouts of the magprobe line up with the front of dock arms
-	G0 X46.3 Y305 Z2 F3600			#move the magprobe +Y into the dock, engaging the arms
-	G0 X80 Y305 Z10 F1800			#move +X and +Z to disengage the magprobe from the carriage
-	G0 X80 Y290 Z20 F3600			#Move +Z and -Y to a safe spot where further moves won't collide with dock
+    G0 X46.3 Y290 z10 F12000			#Above +Z and forward -Y of where magprobe side cutouts line up with dock arms
+						#	(allows build plate clearance for next downward move to line up magprobe to arms)
+    G0 X46.3 Y290 Z2 F3600			#Location where the side cutouts of the magprobe line up with the front of dock arms
+    G0 X46.3 Y305 Z2 F3600			#move the magprobe +Y into the dock, engaging the arms
+    G0 X80 Y305 Z10 F1800			#move +X and +Z to disengage the magprobe from the carriage
+    G0 X80 Y290 Z20 F3600			#Move +Z and -Y to a safe spot where further moves won't collide with dock
 
 	
 	
-#My homing override, QGL, and Mesh settings
+# My homing override, QGL, and Mesh settings **MAKE SURE TO HOME Y BEFORE X**
 [homing_override]
 axes: z
 set_position_z: 0
 gcode:
-   G90
-   G0 Z5 F600	#Move up a little to clear
+    G90
+    G0 Z5 F600	#Move up a little to clear
    
-   G28 Y 		#Home Y before X with Mantis to avoid collision with front idlers
-   G28 X
+    G28 Y 		#Home Y before X with Mantis to avoid collision with front idlers
+    G28 X
    
-   ##	XY Location of the Z Endstop Switch
-   ##	Update X0 and Y0 to your values (such as X157, Y305) after going through
-   ##	Z Endstop Pin Location Definition step.
-   #home on z pin at this location
-   G0 X200 Y305 F3600 
+    ##	XY Location of the Z Endstop Switch
+    ##	Update X0 and Y0 to your values (such as X157, Y305) after going through
+    ##	Z Endstop Pin Location Definition step.
+    #home on z pin at this location
+    G0 X200 Y305 F3600 
    
-   G28 Z
-   G0 Z10 F1800
+    G28 Z
+    G0 Z10 F1800
   
 	#	Go to middle of bed for 300 build
-   	G0 X150 Y150 Z30 F3600
+    G0 X150 Y150 Z30 F3600
    
    
 [quad_gantry_level]
@@ -84,51 +84,3 @@ algorithm: bicubic
 relative_reference_index: 12
 mesh_min: 25,50
 mesh_max: 275,275
-
-	
-	
-	
-	
-#This is my config for the Z-Calibration addon by protoloft.  it's awesome!	
-#https://github.com/protoloft/klipper_z_calibration	
-
-[z_calibration]
-probe_nozzle_x: 					#   The X and Y coordinates (in mm) for clicking the nozzle on the
-probe_nozzle_y: 					#   Z endstop.									
-
-probe_switch_x: 	 				#   The X and Y coordinates (in mm) for clicking the probe's switch
-probe_switch_y: 					#   on the Z endstop.
-
-probe_bed_x: 						#   The X and Y coordinates (in mm) for probing on the print surface
-probe_bed_y: 						#   (e.g. the center point) These coordinates will be adapted by the
-									#   probe's X and Y offsets.
-
-switch_offset: 0.58					#   The trigger point offset of the used mag-probe switch.
-									#   This needs to be fined out manually. Lower = Less Squish
-
-max_deviation: 1					#   The maximum allowed deviation of the calculated offset.
-									#   If the offset exceeds this value, it will stop!
-									#   The default is 1.0 mm.
-
-clearance: 5 						#   Default 2 * z_offset from the [probe] section
-									#   The distance in mm to move up before moving to the next
-									#   position. The default is two times the z_offset from the probe's
-									#   configuration.
-
-speed: 300							#   The moving speed in X and Y. The default is 50 mm/s.
-
-probing_speed: 10					#   default homing_speed from [stepper_z] section.
-									#   The fast probing speed (in mm/s) used, when probing_first_fast
-									#   is activated. The default is from the Z rail configuration.
-
-probing_second_speed: 5				#   default second_homing_speed from [stepper_z] section.
-									#   The slower speed (in mm/s) for probing the recorded samples.
-									#   The default is second_homing_speed of the Z rail configuration.
-
-probing_retract_dist: 1.5			#   default homing_retract_dist from [stepper_z] section.
-									#   Distance to backoff (in mm) before probing the next sample.
-									#   The default is homing_retract_dist from the Z rail configuration.
-probing_first_fast: True
-									#   If true, the first probing is done faster by the probing speed.
-									#   This is to get faster down and the result is not recorded as a
-									#   probing sample. The default is false.
