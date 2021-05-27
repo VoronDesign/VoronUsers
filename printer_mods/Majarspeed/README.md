@@ -1,9 +1,9 @@
 # Simple mount for Hartk board for galileo.
 
 Used to mount the Hartk board using the cover screw mounting locations for the galileo. Uses 1 m3 heat insert and 2 captive M3 nuts. 
-Board is available for purchase [here](https://formosissima.com/products/toolhead-board-for-voron-v2-4 =50%) 
+Board is available for purchase [here](https://formosissima.com/products/toolhead-board-for-voron-v2-4) 
 Github for the board located [here](https://github.com/hartk1213/Voron-Hardware/tree/hartk1213/Voron-Hardware/Afterburner_Toolhead_PCB)
-![hbgm](./Hartk_Mount_Galileo/hbgm.jpg)
+![hbgm](./Hartk_Mount_Galileo/hbgm.jpg =50%)
 ![AFB mount](./Hartk_Mount_Galileo/AFB_mount.jpg)
 
 Thanks to Hartk for making and amazing board for out voron needs.
