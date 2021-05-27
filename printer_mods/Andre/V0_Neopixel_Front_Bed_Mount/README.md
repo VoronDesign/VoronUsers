@@ -13,7 +13,7 @@ Instructions
   long enough to reach from the front bed mount, under the bed, through the cable chain and all the way to your mainboard.
 
 - insert the LED into the slot on the front of the bed mount, and route the wires through one or both of the channels
-- insert the diffuser in the slot in front of the LED
+- insert the diffuser in the slot in front of the LED, ensure a good friction fit.  if necessary, print the diffuser slightly thicker or thinner by scaling it in your slicer.
 - Install the new Bed mount, making sure the wires are not pinched by the extrusions, they should run directly into the slot, you can use zip ties to secure it.  
 - route the wires through the cable chain, and around to wherever your mainboard is mounted.
 - mainboard connections and klipper configuration are left as an exercise to the reader.
