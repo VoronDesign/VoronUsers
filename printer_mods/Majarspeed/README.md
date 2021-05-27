@@ -6,4 +6,4 @@ Github for the board located [here](https://github.com/hartk1213/Voron-Hardware/
 ![hbgm](./Hartk_Mount_Galileo/hbgm.jpg)
 ![AFB mount](./Hartk_Mount_Galileo/AFB_mount.jpg)
 
-Thanks to Hartk for making and amazing board for out voron needs.
+Thanks to Hartk for making an amazing board for our voron needs.
