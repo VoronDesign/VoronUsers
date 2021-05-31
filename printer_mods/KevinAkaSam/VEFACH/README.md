@@ -13,7 +13,7 @@ Since the printer produces many small particles, the goal is to filter out as ma
 The air first blows through activated coal particles and then through the Hepa filter. This still doesn't remove all particles, but it is better than nothing. This mod is fully compatible with the stock exhaust fan housing, except original M3x30mm screws that hold the fan are too long and need to be replaced with M3x25mm. The filter materials can be removed and replaced very easily via the original cover.
 
 ### Which version?
-You just need to print the two inserts for the housing. There are two versions for the activated coal insert: One with a modeled-in mesh and one without. The insert without mesh is for creating your own mesh by using the infill.
+You just need to print the two inserts for the housing. There are two versions for the activated coal insert: One with a modeled-in mesh and one without. The insert without mesh is for creating your own mesh by using the infill. **You need a custom mesh if you use particles smaller than 0.8 mm.**
 
 #### STLs needed:
 1: with modeled mesh        |  2: with custom mesh
@@ -43,7 +43,6 @@ Just set the top and bottom layers of the bucket to 0, so the whole bottom of th
 For both variants you should choose the infill density so that the coal particles can not fall out, but also not too high, so as not to close the airflow too much. Please test before printing. The settings given are for demonstration purposes only!
 
 ### Why use the infill?
-I had already created a design that integrated the grid. But I decided not to use it and to use the infill via modifier instead. My reasons why:
 1. **Variability of the design.** Depending on local access, the activated coal particles may differ in size, so some will need a finer grid and others can use a coarser one. Therefore, the filter must be adjustable to the different materials.
 2. **Different print settings.** Depending on the print settings, a drawn mesh might not be printable. If the line width changes, e.g. due to a larger nozzle or adapted slicer settings, it may happen that the mesh is no longer recognized by the slicer. In order to support as many print settings as possible, a finished mesh was deliberately omitted.
 3. **Possibilities for improvements.** On the one hand I uploaded the step file, so that everybody could add their own mesh if they want to. For another, my idea is surely not perfect and can be improved.  Changing the infill pattern or the infill density is a good way to improve it, which can also be done by users without any CAD knowledge. With a given mesh this possibility would be denied to them.
@@ -54,7 +53,7 @@ I had already created a design that integrated the grid. But I decided not to us
 
 1x 40mmx80mm Hepa filter (https://www.aliexpress.com/item/1005001615722382.html)
 
-~500g activated coal particles (~1mm)
+~500g activated coal particles (~1mm) 
 
 ### Credits:
 Idea by Deutherius.
