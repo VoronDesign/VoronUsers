@@ -27,7 +27,7 @@ like so:
 
 | Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
 | --- | --- | --- | --- | --- | --- | --- |
-| eddie  | [SKR 1.3 V2 Universal Config](./klipper/eddie) | Universal Config and Setup Guide for SKR 1.3 and V2 | :x: | :x: | :heavy_check_mark: | :x: |
+|   |  |  |  |  |  |  |
 
 ---
 
