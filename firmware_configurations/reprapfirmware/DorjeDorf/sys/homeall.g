@@ -11,7 +11,7 @@ G1 X-5 Y-5 F6000      ; go back a few mm
 G1 H1 X355 F360       ; move slowly to X axis endstop once more (second pass)
 G1 H1 Y355            ; then move slowly to Y axis endstop
 G90				  	; absolute positioning
-G1 X207 Y304 F6000	; move above the endstop switch
+M98 P"/macros/Home/move_over_microswitch.g"		; move above the endstop switch
 M98 P"/macros/Home/z_current_low.g"
 G30 K1 Z-99999
 M98 P"/macros/Home/z_current_low.g"
