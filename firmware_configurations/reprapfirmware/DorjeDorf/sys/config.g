@@ -46,7 +46,7 @@ M84 S30
 
 ; Axis Limits
 M208 X1 Y0 Z0 S1                                   	; set axis minima
-M208 X301 Y305 Z300 S0                             	; set axis maxima
+M208 X301 Y305 Z265 S0                             	; set axis maxima
 
 ; Endstops
 M574 X2 S1 P"!io1.in"                               ; X Hall effect endstop
