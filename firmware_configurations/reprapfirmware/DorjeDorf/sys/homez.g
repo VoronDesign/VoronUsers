@@ -6,6 +6,6 @@ M98 P"/macros/Home/z_current_low.g"
 G91               	; relative positioning
 G1 H2 Z10 F6000    	; lift Z relative to current position
 G90				  	; absolute positioning
-G1 X207 Y304 F6000	; move above the endstop switch
+M98 P"/macros/Home/move_over_microswitch.g"		; move above the endstop switch
 G30 K1 Z-99999
 M98 P"/macros/Home/z_current_high.g"
