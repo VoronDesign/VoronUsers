@@ -9,7 +9,7 @@ BOM: <br>
 1 x Length of PTFE Tubing (Approx 110mm)<br>
 
 To install, first put two M3 T-Nuts into the horizontal extrusion, one on the top and one on the side.  Then, put the M3x12 SHCS through the top hole of the holder, and screw it down loosely into the T-Nut.  Then, after making sure the side hole is aligned, screw the M3x8 SHCS into the other T-Nut.  This screw is technically not required, but does improve strength, as well as keep the holder pointed straight out.  Without this screw, the holder will tilt up slightly without the weight of a spool. Far from a deal breaker, but I would generally suggest using both screws.
-![spool holder](img/Holder.png)
+![spool holder](img/Holder_1.png)
 ![spool_holder](img/Holder-Real.jpg)
 ![spool_holder](img/Holder-with-spool.jpg)
 
