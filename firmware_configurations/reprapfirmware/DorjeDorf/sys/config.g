@@ -55,7 +55,7 @@ M574 Z0 P"nil" 										; No endstop
 
 ; Z microswitch
 M558 K1 P8 C"io3.in" I1 H2 F350:60 T18000 A10 S0.01 R0.2 ; set Z probe type to switch and the dive height + speeds
-G31 K1 P500 X0 Y25 Z-0.17                          ; set Z probe trigger value, offset and trigger height -0.8
+G31 K1 P500 X0 Y0 Z-0.17                          ; set Z probe trigger value, offset and trigger height -0.8
 
 ; Z-Probe
 M558 K0 P8 C"io4.in" I1 H5 F350:120 T18000 A5 S0.01 R0.2  ; set Z probe type to switch and the dive height + speeds
