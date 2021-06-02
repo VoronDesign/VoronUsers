@@ -14,7 +14,7 @@ G90				  	; absolute positioning
 M98 P"/macros/Home/move_over_microswitch.g"		; move above the endstop switch
 M98 P"/macros/Home/z_current_low.g"
 G30 K1 Z-99999
-M98 P"/macros/Home/z_current_low.g"
+M98 P"/macros/Home/z_current_high.g"
 
 
 ; Uncomment the following lines to lift Z after probing
