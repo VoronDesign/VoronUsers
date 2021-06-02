@@ -36,6 +36,6 @@ like so:
 | Creator | Config title | Description | V0 | V1.8 | V2.4 |
 | --- | --- | --- | --- | --- | --- |
 | fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: |
-| DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.1.1 work in progress config | :x: | :x: | :heavy_check_mark: | 
+| DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.3 example config | :x: | :x: | :heavy_check_mark: | 
 
 ---
