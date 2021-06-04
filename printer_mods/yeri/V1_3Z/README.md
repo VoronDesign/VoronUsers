@@ -4,6 +4,8 @@ This is a 3z mod for the V1 printer which utilizes the original hardware as much
 
 This has been tested with an BTT MOT-EXP board on a BTT SKR 1.4 as an inexpensive alternative to a complete board swap.
 
+**NOTE:** DXF files have been provided with updated motor locations, however the 250 DXF has not been verified. It should be correct but please verify the measurements if you have a 250 build
+
 ![](./images/final_installation_view.jpg)
 &nbsp; 
 ## BOM:
