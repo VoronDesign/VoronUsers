@@ -12,7 +12,7 @@ To mount:
 - 4x M3x12 (8 for both sides)
 - 3x M3 Nut (6 for both sides)
 
-Print the two of the file that fits with your side panel thickness
+Print two of the file that fits your side panel thickness
 - 2.5mm
 - 3mm
 
