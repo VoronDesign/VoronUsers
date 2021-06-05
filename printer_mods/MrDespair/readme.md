@@ -22,7 +22,7 @@ Instructions
 
 Images
 ------
-![CAD](Images/CAD_1.png)
-![CAD](Images/CAD_2.png)
-![CAD](Images/CAD_3.png)
+![CAD](Images/CAD1.png)
+![CAD](Images/cad2.png)
+![CAD](Images/cad3.png)
 
