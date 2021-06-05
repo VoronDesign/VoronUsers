@@ -1,4 +1,6 @@
-This is where I will store the y-tensioner mod for the Gizzle Ender 3 conversion
+This mod adds a y-tensioner to the Gizzle Ender 3 conversion.
+
+You will need a base conversion for your Ender 3 in addition to these files.  You can find [Gizzle's Ender 3 conversion](../../Gizzle/ender-3_(pro)_switchwire) in the VoronUsers github page.
 
 HARDWARE: 
   m5x30 BHCS,
