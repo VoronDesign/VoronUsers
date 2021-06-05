@@ -15,7 +15,7 @@ Instructions
 ------------
 
 - Print the new toolhead
-- Install it on your V0.1
+- Install it on your V0.1, I wired up the ground and signal pin to my z-endstop port and the 5v to the bltouch port on my skr mini e3 v2. 
 - Install the pinda probe and tighten it down and follow the probe calibrate guide here: https://www.klipper3d.org/Probe_Calibrate.html
 - My offsets wound up being x_offset: -30.7 and y_offset: -13, but you should double check on your own machine just to be safe!
 
