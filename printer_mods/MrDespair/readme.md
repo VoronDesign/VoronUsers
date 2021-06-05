@@ -6,7 +6,7 @@ A modified dragon toolhead cowling to mount a pinda (or superpinda, or vinda) pr
 BOM
 ---
 
-- 1x Some kind of Pinda probe. Looking for something that's about 8mm diameter. 
+- 1x Some kind of Pinda probe. Looking for something that's about 8mm diameter. Ideally you'd get a superpinda or vinda probe, the temperature drift with a standard style pinda v2 probe is wild and makes it hard to use if you don't preheat your chamber (in addition to your bed and hotend!). 
 - 1x M2x8 self tapping screw. Head is countersunk for a Flat Head style screw, but a BHCS should work too, there's clearance for it to stick out. 
 - Everything else you'd need for a standard Dragon MiniAB toolhead. 
 
