@@ -1,7 +1,7 @@
 Mini Afterburner Pinda Probe Mount
 ==============================
 
-A modified dragon toolhead cowling to mount a pinda (or superpinda, or vinda) probe to your VO.1!
+A modified dragon toolhead cowling to mount a pinda (or superpinda, or vinda) probe to your VO.1! (Mosquito will come someday if I get this working). 
 
 BOM
 ---
@@ -18,6 +18,7 @@ Instructions
 - Install it on your V0.1, I wired up the ground and signal pin to my z-endstop port and the 5v to the bltouch port on my skr mini e3 v2. 
 - Install the pinda probe and tighten it down and follow the probe calibrate guide here: https://www.klipper3d.org/Probe_Calibrate.html
 - My offsets wound up being x_offset: -30.7 and y_offset: -13, but you should double check on your own machine just to be safe!
+- Using just the v2 style probe isn't the most consistent, I'd suggest using the relative reference index mode with the normal v0 endstop... still testing this!
 
 
 Images
