@@ -12,6 +12,10 @@ This work is based on [sttts's Waveshare 5.5inch mount](../../sttts/Waveshare-5.
 - 4x M2.5x4mm (included in the BTT PITFT50 v2)
 - 500mm ~ 600mm Ribbon Flat Cable for Raspberry Pi Camera (depends on the position of the Raspberry Pi. The included one is too short)
 
+## Instructions
+
+Please use the [mount in sttts's mods](../../sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl) to amount this to the frame. No re-print of skirts is required!
+
 ## Print Settings
 
 Standard Voron recommended print settings
