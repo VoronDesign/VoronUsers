@@ -34,6 +34,7 @@ like so:
 ||[Raspberry Pi DIN mount](./aeresov/Raspberry_Pi_DIN_mount)|A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
 ||[SKR 1.3/1.4 DIN mount](./aeresov/SKR_DIN_mount)|A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
 ||[cable tie DIN mount](./aeresov/cable_tie_DIN_mount)|A bracket for cable ties to route cables across DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
+|alanho|[BTT PITFT50 v2 Mount](./alanho/BTT_PITFT50_v2_Mount)|A mount for the BTT PITFT50 v2 Touch Display |:x:|:grey_question:|:heavy_check_mark:|:x:|
 |albert|[IKEA Dioder Led Mount](./albert/IKEA_Dioder_Led_Mount)|A mount for the IKEA Dioder LED strip | :grey_question: | :grey_question: | :heavy_check_mark: |:x:|
 |al3ph|[LED Mount](./al3ph/led_mount)|A mount for 10mm LED WS2812 strips |:heavy_check_mark:|:x:|:x:|:x:|
 | |[Analog Timer Mount](./al3ph/analog_timer_mount)|A skirt mount for analog timer |:heavy_check_mark:|:x:|:x:|:x:|
@@ -57,8 +58,10 @@ like so:
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
+||[Ender 3 Switchwire Y Tensioner Mod](./buzzdalf/ytension) | Y Tension Mod | :x: | :x: | :x: | :heavy_check_mark: |
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
+| Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 |claytono|[Fysetc S6 V2 Mount](./claytono/fysetc-s6-v2-mount)| DIN Mount for the Fysetc S6 V2 controller |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
