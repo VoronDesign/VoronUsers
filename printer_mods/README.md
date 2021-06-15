@@ -203,6 +203,7 @@ like so:
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |:x:|
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
+| Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
