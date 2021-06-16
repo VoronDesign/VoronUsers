@@ -8,8 +8,8 @@
 
 - 2 x M4 nuts
 
-![Bracket Back](Voron_V0_SSR_Mount v5_Back.png)
-![Bracket Front](Voron_V0_SSR_Mount v5_Front.png)
+![Bracket Back](Voron_V0_SSR_Mount_v5_Back.png)
+![Bracket Front](Voron_V0_SSR_Mount_v5_Front.png)
 ![Installation Step 1](Voron_V0_SSR_Mount_Install_Step_1.jpg)
 ![Installation Step 2](Voron_V0_SSR_Mount_Install_Step_2.jpg)
 ![Installation Step 3](Voron_V0_SSR_Mount_Install_Step_3.jpg)
