@@ -11,4 +11,4 @@
 - 4 x M2.5x8
 ![No_RPi](Voron_V0_Duet_2_Wifi_Bracket_v14.png)
 ![Main View](Duet2WifiMountingBracket.jpg)
-![No_RPi](Voron_V0_Duet_2_Wifi_Bracket_with_RPi_v14.png)
+![With_RPi](Voron_V0_Duet_2_Wifi_Bracket_with_RPi_v14.png)
