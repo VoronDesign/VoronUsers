@@ -7,6 +7,8 @@ https://de.aliexpress.com/item/1005002596904062.html?spm=a2g0s.9042311.0.0.27424
 
 ## BOM:
 
+- 3 x M3x5 heat inserts
+
 - 3 x M3x6 (for the bracket to the panel)
 
 - 2 x M3x3.5 (for the power supply to the bracket)
