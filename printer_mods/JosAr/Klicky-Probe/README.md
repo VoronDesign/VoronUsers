@@ -25,26 +25,46 @@ The probe dock is mounted on the gantry, allowing it to be use as a Z endstop if
 
 There are three gantry extrusion mounts possible:
 - one fixed to be used on the Voron V2.4 or V1.8 AB with MGN12 or MGN9
+<img src="Photos/Fixed_mount_complete.jpg" width="100">
 - one that has some variance for other toolheads
+<img src="Photos/Variable_mount_complete.jpg" width="100">
 - one fixed sidemount dock to allow a purge/scrub bucket on the left side of the bed
+<img src="Photos/Fixed_sidemount_complete.jpg" width="100">
 
 The fixed gantry extrusion mounts have been confirmed to work on the Voron V2.4 and V1.8
 
-It is not necessary any soldering, the AB mount wires are connected with pressure from the magnets and the probe microswitch connectors are also press-fit on the magnets.
-<p float="left">
-  <img src="/Photos/probe_v1_underside.jpg" width="350" />
-  <img src="/Photos/AB_Mount_wiring_complete.jpg" width="350" /> 
-</p>
 The normal magnet installation is that the two magnets that attach to the microswitch are installed with the same polarity, the 3rd magnet should have the inverse polarity.
 There is however the possibility that the magnets will demagnetize over time due to the alternating magnetic fields thay may result in a slow but sure demagnetization of the magnets, the magnets are so strong that may take a long time to show the effects of demagnetization YMMV.
+
+It is not necessary any soldering the probe microswitch connectors are also press-fit on the magnets.
+<p float="left">
+  <img src="/Photos/probe_components.jpg" width="150" />
+  <img src="/Photos/probe_install.jpg" width="150" />
+  <img src="/Photos/Probe_topside.jpg" width="150" />
+  <img src="/Photos/probe_v1_underside.jpg" width="150" />
+  <img src="/Photos/probe_complete.jpg" width="150" />
+</p>
+
+The AB mount wires are also connected with pressure from the magnets, you can use the probe magnets as a template to insert the AB mount magnets, it is easier that way to don't insert the magnets the wrong way.
+<p float="left">
+  <img src="/Photos/AB_Mount_wiring_1.jpg" width="150" />
+  <img src="/Photos/AB_Mount_wiring_2.jpg" width="150" />
+  <img src="/Photos/AB_Mount_wiring_3.jpg" width="150" />
+  <img src="/Photos/AB_Mount_wiring_4.jpg" width="150" />
+  <img src="/Photos/AB_Mount_wiring_complete.jpg" width="150" /> 
+</p>
+
 You will not lose Y travel on any configuration in the tests that were done.
 
 It is also recommended to glue the magnets in place, superglue is good.
 
 You will need to add macros to klipper to be able to dock and undock the probe as necessary to do the Endstop (if necessary) and Quad Gantry Level, it is in the Klipper Macro directory.
 
+<img src="/Photos/All_Klicky_probe_components.jpg" width="600" />
+
 Probe BOM:
 - 1x microswitch (the omron D2F-5 or D2F-5L (removing the lever) is recommended)
+- 2x M2x10 self tapping
 - 4x 6x3 magnets
 
 AB mount BOM:
@@ -83,6 +103,14 @@ The probe offsets are:
 - z_offset = 6.42
 - x_offset: 0
 - y_offset: 19.75
+
+Assembled Klicky Probe
+<p>
+<img src="/Photos/Voron_V2.4_300mm_back.jpg" />
+
+Dock and undock video
+
+https://user-images.githubusercontent.com/16675722/122302371-eb9c4e00-cef9-11eb-91d3-3aded131bae0.mp4
 
 
 It is working very well, if you decide to use it, give me feedback, either here, or on discord, my discord user is JosAr#0517.
