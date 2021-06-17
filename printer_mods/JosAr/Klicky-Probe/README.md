@@ -38,20 +38,20 @@ There is however the possibility that the magnets will demagnetize over time due
 
 It is not necessary any soldering the probe microswitch connectors are also press-fit on the magnets.
 <p float="left">
-  <img src="/Photos/probe_components.jpg" width="150" />
-  <img src="/Photos/probe_install.jpg" width="150" />
-  <img src="/Photos/Probe_topside.jpg" width="150" />
-  <img src="/Photos/probe_v1_underside.jpg" width="150" />
-  <img src="/Photos/probe_complete.jpg" width="150" />
+  <img src="Photos/probe_components.jpg" width="150" />
+  <img src="Photos/probe_install.jpg" width="150" />
+  <img src="Photos/Probe_topside.jpg" width="150" />
+  <img src="Photos/probe_v1_underside.jpg" width="150" />
+  <img src="Photos/probe_complete.jpg" width="150" />
 </p>
 
 The AB mount wires are also connected with pressure from the magnets, you can use the probe magnets as a template to insert the AB mount magnets, it is easier that way to don't insert the magnets the wrong way.
 <p float="left">
-  <img src="/Photos/AB_Mount_wiring_1.jpg" width="150" />
-  <img src="/Photos/AB_Mount_wiring_2.jpg" width="150" />
-  <img src="/Photos/AB_Mount_wiring_3.jpg" width="150" />
-  <img src="/Photos/AB_Mount_wiring_4.jpg" width="150" />
-  <img src="/Photos/AB_Mount_wiring_complete.jpg" width="150" /> 
+  <img src="Photos/AB_Mount_wiring_1.jpg" width="150" />
+  <img src="Photos/AB_Mount_wiring_2.jpg" width="150" />
+  <img src="Photos/AB_Mount_wiring_3.jpg" width="150" />
+  <img src="Photos/AB_Mount_wiring_4.jpg" width="150" />
+  <img src="Photos/AB_Mount_wiring_complete.jpg" width="150" /> 
 </p>
 
 You will not lose Y travel on any configuration in the tests that were done.
@@ -60,7 +60,7 @@ It is also recommended to glue the magnets in place, superglue is good.
 
 You will need to add macros to klipper to be able to dock and undock the probe as necessary to do the Endstop (if necessary) and Quad Gantry Level, it is in the Klipper Macro directory.
 
-<img src="/Photos/All_Klicky_probe_components.jpg" width="600" />
+<img src="Photos/All_Klicky_probe_components.jpg" width="600" />
 
 Probe BOM:
 - 1x microswitch (the omron D2F-5 or D2F-5L (removing the lever) is recommended)
@@ -106,7 +106,7 @@ The probe offsets are:
 
 Assembled Klicky Probe
 <p>
-<img src="/Photos/Voron_V2.4_300mm_back.jpg" />
+<img src="Photos/Voron_V2.4_300mm_back.jpg" />
 
 Dock and undock video
 
