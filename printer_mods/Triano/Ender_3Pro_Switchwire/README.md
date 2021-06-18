@@ -12,20 +12,23 @@ This is a conversion of the Ender 3 Pro and V2 to a Switchwire type coreXZ print
 ![Home](Images/Right.png)
 
 ## Overview
-- This mod uses most of the key components from the Ender 3 Pro (E3P) while providing a coreXY capability.  The highlights of this include:
+- This mod uses most of the key components from the Ender 3 Pro (E3P) while providing a coreXZ capability.  The highlights of this include:
 1. The frame is all E3P.
-2. The electrons are the stock Switchwire ones, but the E3P 24V power supply is used.  I wanted to get all the electronics under the deck as this follows the Switchwire design.  I had to get a little creative with the mounts to make this work.  I did not include the LCD display.   Mainsail (MainsailOS) is so amazing, I never use the LCD on the Voron 2.4 so I left it out.  It can easily be added.
+2. The electronics are the stock Switchwire ones, but the E3P 24V power supply is used.  I wanted to get all the electronics under the deck as this follows the Switchwire design.  I had to get a little creative with the mounts to make this work.  I did not include the LCD display.   Mainsail (MainsailOS) is so amazing, I never use the LCD on the Voron 2.4 so I left it out.  It can easily be added.
 3. The deck is easily printed in 4 sections.
-4. The XZ and gantry are slightly modified from the Switchire baseline.  The X asis rail is 300mm and is a tight squeeze on the shorteded 2020 extrusion.  I wanted to keep the standard rail length in case I wanted to build a stock Switchwire.
-5. The Y axis uses 2 rails.  I liked the look of it and it seemed more stable that way.  It also simplified the Y belt routing through the extrustion.  I also removed the springs on the bed corners and replaced them with spacers.  The spacers come off the E3P V-wheels.  With the bed mesh probing, this seemed like a better approach than worrying about the bed changing positions if the knobs rotated/loosened.
+4. The XZ and gantry are slightly modified from the Switchire baseline.  The X asis rail is 300mm and is a tight squeeze on the shortened 2020 extrusion.  I wanted to keep the standard rail length in case I wanted to build a stock Switchwire.
+5. The Y axis uses 2 rails.  I liked the look of it and it seemed more stable that way.  It also simplified the Y belt routing through the extrusion.  I also removed the springs on the bed corners and replaced them with spacers.  The spacers come off the E3P V-wheels.  With the bed mesh probing, this seemed like a better approach than worrying about the bed changing positions if the knobs rotated/loosened.
 6. This configuration also worked without too much modification to the stock E3P wire lengths.
-7. The E3P motors can be reused if you can pull of the gears.  You
+7. The E3P motors can be reused if you can pull of the gears.  Thingiverse has a printable gear puller (I haven't tried it).
 
 ## Images / CAD
 I have included several images and the Fusion 360 CAD model.  CAD files and images are included in the repository
 
 ## BOM
 A BOM has been added that is based on the baseline Switchwire.  This will not be perfect as the Ender 3's get a lot of mods by their owners.  It should help with most of the key items to make the MOD. 
+
+## Firmware:
+Use the baseline Switchwire configuration available in the Voron-Switchire repository.  The Voron-documentation has excellent instructions for making the adjustments.
 
 ## STL Files
 This mod uses a combination of original Switchwire and modified parts.  Most of the parts are modified/new as the Switchwire and Ender 3 frames are much different.  I kept all the Voron naming conventions to provide consistency. The following is a listing of the STL files, organized by location:
@@ -91,5 +94,4 @@ This mod uses a combination of original Switchwire and modified parts.  Most of 
 	- 4040_rail_tool 
 
 ** Denotes STL files that have not been modified from the baseline Switchwire design and are located in the Switchwire repository
-
 
