@@ -5,11 +5,10 @@ This is a conversion of the Ender 3 Pro and V2 to a Switchwire type coreXZ print
 ![Home](Images/SN049.jpg)
 ![Home](Images/Home.png)
 ![Home](Images/Bottom.png)
-![Home](Images/Top.png)
 ![Home](Images/Back.png)
-![Home](Images/Front.png)
 ![Home](Images/Left.png)
 ![Home](Images/Right.png)
+![Home](Images/Top.png)
 
 ## Overview
 - This mod uses most of the key components from the Ender 3 Pro (E3P) while providing a coreXZ capability.  The highlights of this include:
