@@ -16,10 +16,10 @@ This is a conversion of the Ender 3 Pro and V2 to a Switchwire type coreXZ print
 1. The frame is all E3P.
 2. The electronics are the stock Switchwire ones, but the E3P 24V power supply is used.  I wanted to get all the electronics under the deck as this follows the Switchwire design.  I had to get a little creative with the mounts to make this work.  I did not include the LCD display.   Mainsail (MainsailOS) is so amazing, I never use the LCD on the Voron 2.4 so I left it out.  It can easily be added.
 3. The deck is easily printed in 4 sections.
-4. The XZ and gantry are slightly modified from the Switchire baseline.  The X asis rail is 300mm and is a tight squeeze on the shortened 2020 extrusion.  I wanted to keep the standard rail length in case I wanted to build a stock Switchwire.
+4. The XZ and gantry are slightly modified from the Switchwire baseline.  The X asis rail is 300mm and is a tight squeeze on the shortened 2020 extrusion.  I wanted to keep the standard rail length in case I wanted to build a stock Switchwire.
 5. The Y axis uses 2 rails.  I liked the look of it and it seemed more stable that way.  It also simplified the Y belt routing through the extrusion.  I also removed the springs on the bed corners and replaced them with spacers.  The spacers come off the E3P V-wheels.  With the bed mesh probing, this seemed like a better approach than worrying about the bed changing positions if the knobs rotated/loosened.
 6. This configuration also worked without too much modification to the stock E3P wire lengths.
-7. The E3P motors can be reused if you can pull of the gears.  Thingiverse has a printable gear puller (I haven't tried it).
+7. The E3P motors can be reused if you can pull off the gears.  Thingiverse has a printable gear puller (I haven't tried it).
 
 ## Images / CAD
 I have included several images and the Fusion 360 CAD model.  CAD files and images are included in the repository
