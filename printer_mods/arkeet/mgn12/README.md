@@ -4,8 +4,12 @@ MGN12 X axis
 This replaces the dual MGN9H rails on the V2.4 X axis with a single MGN12H
 rail.  The belt is directly clamped to the MGN12 block by the carriage.
 
-The stock PL-08N probe is not supported as it is too long.  Use one of the
-alternatives listed below.
+The stock PL-08N probe _might_ be too long to fit.  Recommended alternatives
+are listed below.
+
+As an option, the `x_carriage_frame_right_V2.4_endstop.stl` allows mounting
+the X endstop switch on the carriage, which is useful on an umbilical cable
+setup.
 
 Thanks to joshmurrah, hartk, and everyone else who helped out in one way or
 another.
@@ -20,10 +24,10 @@ required:
 - 1x M3x40 SHCS
 - 4x M3x8 __BHCS__ (or 2x BHCS and 2x SHCS)
 
-Supported probes:
+Recommended probes:
 - Omron TL-Q5MC2 (use M3x25 or M3x30 screws)
 - Panasonic GL-18HB/18HLB (use M3x25 or M3x30 screws)
-- Panasonic GX-H15B/HL15B (use the 9mm probe bracket and M3x16 screws)
+- Panasonic GX-H15B/HL15B (use the 9mm probe bracket, and M3x16 or M3x20 screws)
 
 Instructions
 ------------
