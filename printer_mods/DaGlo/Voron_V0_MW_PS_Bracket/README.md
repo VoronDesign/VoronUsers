@@ -3,7 +3,7 @@
 This bracket works for the panel kit from Funssor from AliExpress, which has already some holes on the bottom bracket.
 
 "Funssor upgrade Voron 0 V 0,1 acryl pannel kit für Voron 0,1 3D drucker DIY kit"
-https://de.aliexpress.com/item/1005002596904062.html?spm=a2g0s.9042311.0.0.27424c4djYAPzu
+https://de.aliexpress.com/item/1005002596904062.html
 
 ## BOM:
 
