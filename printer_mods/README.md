@@ -70,6 +70,8 @@ like so:
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
 |DaGlo| [V0.1 Duet 2 Wifi mounting brackets](./DaGlo/Voron_V0_Duet_2_WiFi_Mounting_Brackets/) | Voron 0.1 Mounting brackets with/without RPi 4 | :heavy_check_mark: | :x: | :x: | :x: |
+|| [Voron V0 Mean Well power supply bracket (Funssor Kit)](./DaGlo/Voron_V0_MW_PS_Bracket/) | Voron V0 Mean Well power supply bracket (Funssor Kit) | :heavy_check_mark: | :x: | :x: | :x: |
+|| [Voron V0 SSR Mount](./DaGlo/Voron_V0_SSR_Mount/) | Voron V0 SSR Mount for the bottom | :heavy_check_mark: | :x: | :x: | :x: |
 |DaGrooch13 |[Tophat Exhaust Filter V0](./DaGrooch13/Tophat_Exhaust_Filter) |Activated charcoal exhaust filter with HEPA that replaces the rear tophat panel |:heavy_check_mark: |:x: |:x: |:x:|
 |Dan88 |[V0 one-part Skirts](./Dan88/V0skirt) |One part Skirts for the V0 |:heavy_check_mark: |:x: |:x: |:x:|
 |DC67|[Plug Panel Mod for Schaffner FN286-10-06](./DC67/plug_panel_schaffner)|A modified plug panel for the Power Entry Connector Schaffner FN286-10-06 with two integreated Keystone sockets. |:x:|:grey_question:|:heavy_check_mark:| :x: |
