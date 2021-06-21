@@ -1,5 +1,7 @@
 Adapted version of FPVGeek's Belted Z Drive mod for the Voron V0.1 which uses the M4 extruder as base.  
 
+![Zbelt-1](Images/ZBelt-ISO-01.PNG)
+
 <b>As with the original, this is a beta release. </b> Still testing and some minor design changes may happen in the future.
 
 # NOTICE:
@@ -12,7 +14,10 @@ The belt clamp/bed mount part accounts for the 3.2mm shift forward for the bed o
 * Designed the bottom mount to utilize V0.0 M3 nuts already in the 1515 extrusions. For a V0.1 you'll need to add one extra M3 nut in the back of each Z rail extrusion and two in the rear of the rear bottom extrusion.
 * Optional bottom panel filler can also be used for this version.
 
-![Zbelt-1](Images/ZBelt-ISO-02.png)
+
+* V0-zbelt-BEDMOUNT_MODIFIED_V0.1 has built in supports that need to be removed.
+![Zbelt-1](Images/ZBelt-Support-01.PNG)
+
 
 # Klipper Stepper Settings:
 
@@ -35,8 +40,8 @@ hold_current: 0.4
 
 Step 1 - As you're building the printer frame, you'll need to check that you have M3 nuts in the following locations and then just get to page 56 of the V0.1 manual.
 
-![NutPlacement-1](Images/m3nut_check_1.png)
-![NutPlacement-2](Images/m3nut_check_2.png)
+![NutPlacement-1](Images/m3nut_check_1.PNG)
+![NutPlacement-2](Images/m3nut_check_2.PNG)
 
 Step 2 - Put the frame front facing down.  Mount the V0-zbelt-BEDMOUNT_MODIFIED_V0.1 to the center of the rear bed extrusion.  Then mount the mid panel.
 
@@ -82,9 +87,9 @@ Step 19 - Test (please start slow) and enjoy.
 
 # Addtional Pics:
 
-![Zbelt-Mod01](Images/ZBelt-ISO-02.png)
+![Zbelt-Mod01](Images/ZBelt-ISO-02.PNG)
 
-![Zbelt-Mod02](Images/ZBelt-ISO-03.png)
+![Zbelt-Mod02](Images/ZBelt-ISO-03.PNG)
 
-![Zbelt-Mod04](Images/ZBelt-ISO-04.png)
+![Zbelt-Mod04](Images/ZBelt-ISO-04.PNG)
 
