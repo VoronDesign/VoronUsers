@@ -110,6 +110,7 @@ like so:
 | | [Voron2.4_Pins_Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|
 | | [Voron2.4_Y_Endstop_Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
+| henrikssn | [Euler Extruder for Voron AfterBurner](./henrikssn/euler_extruder) | The Euler extruder is a Sherpa Mini meets Clockwork, lightweight with full AfterBurner compatibility. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |:x:|
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
@@ -151,7 +152,7 @@ like so:
 | | [Mosquito PTFE 15mm Tube Cutting Jig](./LoCoCNC/Mosquito_PTFE_Cutting_Jig) | Tool to precicely cut 15mm PTFE Tube |:heavy_check_mark:|:x:|:x:|:x:|
 | | [3mm Top Hat Panels Clips](./LoCoCNC/3mm_tophat_panel_parts) | Required to use the 3mm (1/8") thick top hat panels for V0.1 |:heavy_check_mark:|:x:|:x:|:x:|
 | | [Strain Relief w/ 10 Pin Microfit](./LoCoCNC/Strain_Relief_w_Microfit) | Strain Relief with 10 pin Microfit connector |:heavy_check_mark:|:x:|:x:|:x:|
-| | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:| 
+| | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:|
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | v2.4 MGN12 Dual 5015 Toolhead  |:x:|:x:|:heavy_check_mark:|:x:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
