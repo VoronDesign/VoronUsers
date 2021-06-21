@@ -12,11 +12,19 @@ To mount:
 - 4x M3x12 (8 for both sides)
 - 3x M3 Nut (6 for both sides)
 
-Print two of the file that fits your side panel thickness
+Print two of the file that fit your side panel thickness
 - 2.5mm
 - 3mm
 
 **You will have to add 3 nuts to the top extrusions as the handle replaces the top panel clip and requires 4 nuts (3 new + 1 old from panel clip)**
+
+1. Remove the middle clip on the top extrusions but keep the nut in place. 
+2. Unscrew both screws that hold the top right and left extrusions in place. 
+3. Lift the extrusions just enough to be able to add 3 nuts in the outward channels.
+4. Seat the extrusions back into place and tighten the screws holding them in place. 
+5. Reuse the existing nut (old panel clip) and the 3 new nuts to attach handle.
+
+
 ![Screenshot2.png](Screenshot2.png)
 ![Screenshot3.png](Screenshot3.png)
 
