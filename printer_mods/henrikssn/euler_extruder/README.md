@@ -10,6 +10,7 @@ Performance-wise it is the same as Sherpa Mini, which is very similar to Orbiter
 [Huvud]: https://github.com/bondus/KlipperToolboard
 
 
+<img src="Images/0.png" height=486 width=567 />
 <img src="Images/1.jpg" height=400 width=533 />
 <img src="Images/2.jpg" height=400 width=533 />
 <img src="Images/3.jpg" height=400 width=533 />
