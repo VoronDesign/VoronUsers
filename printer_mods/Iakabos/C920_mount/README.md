@@ -10,7 +10,7 @@ Qty | Item
 2 | M3x8 SHCS
 
 ## Instructions
-1. Disassemble webcam using instructions [seen here](https://www.ifixit.com/Guide/Logitech+C920+Webcam+Disassembly/115077)
+1. Disassemble webcam using instructions [seen here](https://www.ifixit.com/Guide/Logitech+C920+Webcam+Disassembly/115077) stopping after step 5
 2. Remove the metal arms can be removed from the factory supplied mount
 3. Push the plastic bushings on the metal arms into the holes on the printed mount
 4. Reattach the metal arms to the webcam 
