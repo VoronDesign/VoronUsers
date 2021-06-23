@@ -1,4 +1,4 @@
-Adapted version of FPVGeek's Belted Z Drive mod for the Voron V0.1 which uses the M4 extruder as base.  
+Adapted version of [FPVGeek's Belted Z Drive](https://github.com/theFPVgeek/VoronUsers/tree/master/printer_mods/theFPVgeek/v0-zbelt-mod) mod for the Voron V0.1 which uses the M4 extruder as base.  
 
 ![Zbelt-1](Images/ZBelt-ISO-01.PNG)
 
