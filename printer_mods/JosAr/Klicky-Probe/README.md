@@ -87,7 +87,7 @@ variable Dock mount:
 - 2x M5x10
 - 2x M5 t-nut or equivalent
 
-I will add more detail to this repository as we go along.
+If you would like to check a possibly more uptodate repository, check ![here](https://github.com/jlas1/Klicky-Probe)
 
 The macro is based on a version provided by the user garrettwp on Discord, many thanks to him.
 I have tweaked it a lot.
