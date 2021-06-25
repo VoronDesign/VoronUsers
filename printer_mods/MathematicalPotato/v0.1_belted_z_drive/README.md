@@ -16,7 +16,7 @@ The belt clamp/bed mount part accounts for the 3.2mm shift forward for the bed o
 
 
 * V0-zbelt-BEDMOUNT_MODIFIED_V0.1 has built in supports that need to be removed.
-![Zbelt-1](Images/ZBelt-Support-01.PNG)
+![Zbelt-1](Images/ZBelt-Support-01.png)
 
 
 # Klipper Stepper Settings:
