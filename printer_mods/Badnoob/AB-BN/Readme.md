@@ -64,6 +64,7 @@ This version of the afterburner fan and duct is a drop in replacement to the spe
 \* Cleaner airflow for better overhangs
 
 ### CHANGE Log
+Added step file for AB-BN-30
 
 Added support for Phaetus BMS and Phaetus BMO hotend
 
