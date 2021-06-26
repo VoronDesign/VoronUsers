@@ -1,7 +1,7 @@
 MGN9C X axis
 ============
 
-This replaces the MGN7H rail on the V0.0 X axis with a single MGN9C
+This replaces the MGN7H rail on the V0.1 X axis with a single MGN9C
 rail.
 
 
@@ -17,7 +17,7 @@ required:
 Instructions
 ------------
 
-Assembly is exactly the same as the stock V0.0 X axis 
+Assembly is exactly the same as the stock V0.1 X axis 
 
 
 Images
