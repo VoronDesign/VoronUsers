@@ -64,5 +64,5 @@ sawing off the test print I used to check the fit.]
 ## Files
 
 - [STL](./STLs/astrodyne-inlet.stl)
-- [STEP file](./CAD/astrodyne-inlet.step)
-- [Fusion 360 design](./CAD/astrodyne-inlet.f3d)
+- [STEP file](./CAD/power-inlet-astrodyne.step)
+- [Fusion 360 design](./CAD/power-inlet-astrodyne.f3d)
