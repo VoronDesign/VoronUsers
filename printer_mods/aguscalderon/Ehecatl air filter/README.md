@@ -1,8 +1,8 @@
 Ehecatl Air Filter
 ==============================
 
-I really like the Nevermore Micro air filter. 
-Look at it here: 
+I like the Nevermore Micro air filter. 
+You can look at it here: 
 https://github.com/0ndsk4/VoronUsers/tree/0ndsk4/printer_mods/0ndsk4/Nevermore_Air_Filter/Nevermore_Micro
 
 But wanted other features like:
@@ -31,11 +31,13 @@ You may crack one or two walls and still be good to go but don't breake the whol
 Images
 ------
 
-![CAD](Images/ehecatl1.png)
-![CAD](Images/ehecatl2.png)
-![CAD](Images/ehecatl3.png)
-![CAD](Images/ehecatl4.png)
-
+![CAD](Images/ehecatl1.jpg)
+![CAD](Images/ehecatl2.jpg)
+![CAD](Images/ehecatl3.jpg)
+![CAD](Images/ehecatl4.jpg)
+![CAD](Images/ehecatl5.jpg)
+![CAD](Images/ehecatl6.jpg)
+![CAD](Images/ehecatl7.jpg)
 
 
 Ehecatl God of Air and Wind
