@@ -19,6 +19,7 @@ BOM
 
 Instructions
 ------------
+The filter and fan partes are provided with and without logos.
 The walls of the base are very thin try to assemble the thing slow and carefully
 You may crack one or two walls and still be good to go but don't breake the whole thing
  
@@ -32,12 +33,13 @@ Images
 ------
 
 ![CAD](Images/ehecatl1.jpeg)
+![CAD](Images/ehecatl4.jpeg)
+![CAD](Images/ehecatl7.jpeg)
+![CAD](Images/ehecatl6.jpeg)
+![CAD](Images/ehecatl5.jpeg)
 ![CAD](Images/ehecatl2.jpeg)
 ![CAD](Images/ehecatl3.jpeg)
-![CAD](Images/ehecatl4.jpeg)
-![CAD](Images/ehecatl5.jpeg)
-![CAD](Images/ehecatl6.jpeg)
-![CAD](Images/ehecatl7.jpeg)
+
 
 
 Ehecatl God of Air and Wind
