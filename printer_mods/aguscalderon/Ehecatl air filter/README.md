@@ -19,7 +19,7 @@ BOM
 
 Instructions
 ------------
-The filter and fan partes are provided with and without logos.
+The filter and fan stl's are provided with and without logos.
 The walls of the base are very thin try to assemble the thing slow and carefully
 You may crack one or two walls and still be good to go but don't breake the whole thing
  
