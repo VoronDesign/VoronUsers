@@ -19,11 +19,10 @@ BOM
 
 Instructions
 ------------
-The base stl has supports built in
-The middle and fan case stl's are provided with and without logos.
-The walls of the base are very thin try to assemble the thing slow and carefully
-You may crack one or two walls and still be good to go but don't breake the whole thing
- 
+- The base stl has supports built in
+- The middle and fan case stl's are provided with and without logos.
+- The walls of the base are very thin try to assemble the thing slow and carefully
+- You may crack one or two walls and still be good to go but don't breake the whole thing
 - Fix the base to the deck panel with double sided tape or any other way
 - Prepare the middle filter by cutting and placing a 40mm square of your filter and add small quantity of activated carbon you should change it when the filtering effect is lost.
 - Insert your fan in its holder(be very careful with the cables), you can orient your fan pushing or pulling air it should work either direction (Will test it both ways and update this if I find one way is significant more efficient)
