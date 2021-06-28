@@ -41,3 +41,4 @@ Images
 Ehecatl God of Air and Wind
 ==================================
 At the beginning the sun and moon were static in the sky until Ehecatl blew on them.
+![CAD](Images/Ehecatl.jpg)
