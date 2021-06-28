@@ -19,7 +19,8 @@ BOM
 
 Instructions
 ------------
-The filter and fan stl's are provided with and without logos.
+The base stl has supports built in
+The middle and fan case stl's are provided with and without logos.
 The walls of the base are very thin try to assemble the thing slow and carefully
 You may crack one or two walls and still be good to go but don't breake the whole thing
  
@@ -40,8 +41,13 @@ Images
 ![CAD](Images/ehecatl2.jpeg)
 ![CAD](Images/ehecatl3.jpeg)
 
+________________________________________________________
+--------------------------------------------------------
+________________________________________________________
+--------------------------------------------------------
 
-
+________________________________________________________
+--------------------------------------------------------
 Ehecatl God of Air and Wind
 ==================================
 At the beginning the sun and moon were static in the sky until Ehecatl blew on them.
