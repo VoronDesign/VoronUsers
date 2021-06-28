@@ -22,10 +22,10 @@ Instructions
 The walls of the base are very thin try to assemble the thing slow and carefully
 You may crack one or two walls and still be good to go but don't breake the whole thing
  
--Fix the base to the deck panel with double sided tape or any other way
--Prepare the middle filter by cutting and placing a 40mm square of your filter and add small quantity of activated carbon you should change it when the filtering effect is lost.
--Insert your fan in its holder(be very careful with the cables), you can orient your fan pushing or pulling air it should work either direction (Will test it both ways and update this if I find one way is significant more efficient)
--You'll have to figure out your wiring as each build is unique (be aware of your fan voltage)
+- Fix the base to the deck panel with double sided tape or any other way
+- Prepare the middle filter by cutting and placing a 40mm square of your filter and add small quantity of activated carbon you should change it when the filtering effect is lost.
+- Insert your fan in its holder(be very careful with the cables), you can orient your fan pushing or pulling air it should work either direction (Will test it both ways and update this if I find one way is significant more efficient)
+- You'll have to figure out your wiring as each build is unique (be aware of your fan voltage)
 
 
 Images
@@ -40,5 +40,4 @@ Images
 
 Ehecatl God of Air and Wind
 ==================================
-The myth tells he played the underworld God and stole the bones of a previous race to create humans.
 At the beginning the sun and moon were static in the sky until Ehecatl blew on them.
