@@ -13,6 +13,6 @@
 
 ---
 
-* Discord: [@geoffreyyoung#3737](geoffreyyoung#3737)
+* Discord: @geoffreyyoung#3737
 * GitHub: [geoffrey-young](https://github.com/geoffrey-young/)
 
