@@ -3,7 +3,7 @@ Microswitch probe with magnetic attachment, primarily aimed at CoreXY 3d printer
 
 The objectives for this project are:
 - drop in replacement for Omron TL-Q5MC2 or PL-08N2 (you don't need to replace the toolhead)
-- easier and faster to build that similar probe types
+- easier and faster to build than similar probe types
   - does not require soldering
   - fixed probe dock mount (for the printers that are suported), less variables to adjust
 - be able to detect all the print surfaces
@@ -108,7 +108,7 @@ Assembled Klicky Probe
 <p>
 <img src="Photos/Voron_V2.4_300mm_back.jpg" />
 
-![Dock and undock video](Photos/Dock_and_Undock.mp4)
+[Dock and undock video](Photos/Dock_and_Undock.mp4)
 
 
 It is working very well, if you decide to use it, give me feedback, either here, or on discord, my discord user is JosAr#0517.
