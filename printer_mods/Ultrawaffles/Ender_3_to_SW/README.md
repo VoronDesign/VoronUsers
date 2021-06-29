@@ -31,4 +31,26 @@ This mod uses some combination of both original stls and my own edited versions.
 
 2. Y axis
   - [a]_y_belt_clip
-  - 
+  - [a]_y_chain_bed_mount_igus
+  - [a]_y_chain_bed_mount_generic
+  - y_idler_lower
+  - y_idler_upper
+  - y_motor_mount_a
+  - y_motor_mount_b
+
+4. XY axis
+  - [a]_xz_tensioner_x2
+  - [a]_xz_cable_cover
+  - keybak_mount_plate
+
+5. X carriage (printheads, direct feed, and bowden folders are untouched)
+  - [a]_xz_belt_clip_x2
+  - [a]_blower_housing_front
+  - hotend_fan_mount
+  - blower_housing_rear
+  
+6. MISC
+  - pool_holder
+  - spool body
+
+
