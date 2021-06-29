@@ -18,7 +18,7 @@ Things to note:
 11. Not sure if im allowed to do this, but all of the files (execpt for electronic mounts) are in the stls.rar file
 
 STLs files:
-This mod uses some combination of both original stls and my own edited versions. The following list is parts that are unchanged
+This mod uses some combination of both original stls and my own edited versions. The following list is parts that are unchanged. All electronic mounts execpt for the massive psu are from the v2.2 
 1. Enclosure parts
   - feed_slot
   - light_bar_x2
