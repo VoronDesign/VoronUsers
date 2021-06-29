@@ -16,3 +16,19 @@ Things to note:
 9. This version allows you to enclose it without any problems
 10. For now, the screen and door panel conflicts with each other, Ill fix it when I find a solution
 11. Not sure if im allowed to do this, but all of the files (execpt for electronic mounts) are in the stls.rar file
+
+STLs files:
+This mod uses some combination of both original stls and my own edited versions. The following list is parts that are unchanged
+1. Enclosure parts
+  - feed_slot
+  - light_bar_x2
+  - rear_panel_bracket_x6
+  - side_strap_x4
+  - top_door_latch
+  - door_handle_a_x2
+  - door_handle_b_x2
+  - door_hinge_x4
+
+2. Y axis
+  - [a]_y_belt_clip
+  - 
