@@ -1,8 +1,8 @@
 # "Other" V2 Idlers
  Alternative Idlers that allow the usage of "Full-Figured" toolheads without the 10mm loss of travel at the front corners of the bed.
 
-These idlers were developed to allow the usage of wider toolheads with the Voron V2, better align the tensioning screw to the centerline of the idler shaft, add guides to the parts to allow them to interlock and provide a robust tensioning system, all while streamlining the process of making fine adjustments to tensioning. 
-I am currently running these on my machine and have not seen any performance issues.  
+These idlers were developed with the goal to allow the usage of wider toolheads with the Voron V2, better align the tensioning screw to the centerline of the idler shaft, add guides to the parts to allow them to interlock and provide a robust tensioning system, all while streamlining the process of making fine adjustments to tensioning. 
+This design iteration has been running on my machine for 50+ hrs with no issues or print quality degradation.  
 
 The idler design is ambidextrous to allow simplified batch printing. All parts are converted to stl in optimal printing orientation with quantities specified per Voron standards: 
 
