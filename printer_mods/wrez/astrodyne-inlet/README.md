@@ -28,13 +28,23 @@ fuse, plus room for a spare in the front).
 
 -------
 
+## Assembled view
+
 ![Assembled housing in place](./images/in-situ.jpg)
+
+## Printed part render
 
 ![Part render](./images/power-inlet-astrodyne.png)
 
+## Unassembled view
+
 ![Assembly](./images/disassembled.jpg)
 
+## Front view
+
 ![Front view](./images/front-view.jpg)
+
+## Rear view
 
 ![Rear view](./images/rear-view.jpg)
 
