@@ -41,6 +41,8 @@ Step | Image
 | Update printer.cfg with new Z_TILT_ADJUST positions from the example configs|
 | Follow normal procedures to align rods and leadscrews|
 
+The provided configuration files assume that the Z1 motor is in the front right and the Z2 motor is in the rear right. If you wire them differently you will need to change the positions in the Z_TILT_ADJUST configuration to match.
+
 &nbsp; 
 ## Notes:
 
