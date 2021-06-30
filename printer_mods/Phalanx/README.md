@@ -16,7 +16,7 @@ The idler design is ambidextrous to allow simplified printing. All parts are con
 2 ea. Voron - standard heat set
 2 ea. M3 x 16 SHCS
 
-These components will soon be offered as a kit by https://formosissima.com/products/other-v2-idlers-kit
+These components are offered as a kit by https://formosissima.com/products/other-v2-idlers-kit
 
 This mod also requires that you run https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl
 on both top and bottom as belt clips, so that the design is not handed. 
