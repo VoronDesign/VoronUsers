@@ -5,8 +5,28 @@ Tech
 IEC-GS-1-100](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135)
 (which has been on back-order at Digikey for quite a while at the time of
 this writing) with an
-[Astrodyne
-082S/082SM](https://www.mouser.com/ProductDetail/astrodyne-tdi/082sm0150000/?qs=eP2BKZSCXI4KQZVxn1eqpw%3D%3D).
+[Astrodyne/TDI
+082S](https://www.mouser.com/ProductDetail/Astrodyne-TDI/082S0150000?qs=eP2BKZSCXI7jG836kH3rhw%3D%3D).
+
+-------
+
+**WARNING**: I just discovered that the 082SM ("M" for "medical") has small tabs on both sides of
+the inlet (**not** shown in the datasheet). These tabs physically prevent normal C13 power
+cords (what the Brits would call "bog standard kettle cords") from fitting into the
+receptacle. I _think_ but am not yet sure that the 082S (general purpose model)
+does not have the tabs (I think they are to prevent non-certified
+cords from being used accidentally). I've ordered an 082S to verify and will
+update this README once I've confirmed.
+
+Also, as should be obvious: You will need to acquire and insert 250VAC buss
+fuses (by pulling out the little drawer &mdash; there is a slot for the active
+fuse, plus room for a spare in the front).
+
+## View of Tab in 082SM version
+
+![082S side tab](./images/082SM-tabs.jpg)
+
+-------
 
 ![Assembled housing in place](./images/in-situ.jpg)
 
