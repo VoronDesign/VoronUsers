@@ -4,7 +4,7 @@
 These idlers were developed to allow the usage of wider toolheads with the Voron V2, better align the tensioning screw to the centerline of the idler shaft, add guides to the parts to allow them to interlock and provide a robust tensioning system, all while streamlining the process of making fine adjustments to tensioning. 
 I am currently running these on my machine and have not seen any performance issues.  
 
-The idler design is ambidextrous to allow simplified printing. All parts are converted to stl in optimal printing orientation with quantitie specified per Voron standard. 
+The idler design is ambidextrous to allow simplified batch printing. All parts are converted to stl in optimal printing orientation with quantities specified per Voron standards: 
 
 ![image](https://user-images.githubusercontent.com/65414930/123886695-a1619680-d915-11eb-8a33-212a3cb1b8ef.png)
 
