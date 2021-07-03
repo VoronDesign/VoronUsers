@@ -4,7 +4,7 @@ This top panel can be easily removed for printer maintenance or giving more cool
 3D models are designed to match your buildplate size.
 For versions 1.8 and 2.4 in 250, 300 and 350mm.
 
-https://user-images.githubusercontent.com/85416803/120906040-da129680-c61b-11eb-813c-af05dc87f28a.mp4
+https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Magnetic_Top_Panel.mp4
 
 # BOM
 250:  
