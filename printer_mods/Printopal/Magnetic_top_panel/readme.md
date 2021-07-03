@@ -40,7 +40,7 @@ I don’t recommend using glass plate because of its weight, this may result in 
 #
 ![Split](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Split.jpg)
 #
-![Magnet](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Magnet.jpg)
+![Magnet](/Images/Magnet.jpg)
 
 
 
