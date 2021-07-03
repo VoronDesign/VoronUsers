@@ -38,9 +38,9 @@ I don’t recommend using glass plate because of its weight, this may result in 
 ![Magnetic_top_panel](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Magnetic_top_panel.jpg)
 
 #
-![Split](https://user-images.githubusercontent.com/85416803/120906056-f0b8ed80-c61b-11eb-85a5-56ec779e1308.jpg)
+![Split](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Split.jpg)
 #
-![Magnet](https://user-images.githubusercontent.com/85416803/120909785-443c3300-c63e-11eb-9460-4f6da6025673.jpg)
+![Magnet](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Magnet.jpg)
 
 
 
