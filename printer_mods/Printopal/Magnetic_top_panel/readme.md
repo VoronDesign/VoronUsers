@@ -35,10 +35,10 @@ I don’t recommend using glass plate because of its weight, this may result in 
 6. Glue top corner skirt on the acrylic panel sheet.
 7. Adjust top skirt length and glue on the acrylic panel sheet. You can easily adjust the length in your slicer.
 #
-![Magnetic_top_panel](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Magnetic_top_panel.jpg)
+![Magnetic_top_panel](Images/Magnetic_top_panel.jpg)
 
 #
-![Split](https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Split.jpg)
+![Split](Images/Split.jpg)
 #
 ![Magnet](Images/Magnet.jpg)
 
