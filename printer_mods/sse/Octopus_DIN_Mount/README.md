@@ -2,9 +2,9 @@
 
 This is a DIN Rail bracket for Bigtreetech Octopus board.
 
-Print two parts and secure each pcb_din_clip.stl with m2 self-tapping screw.
+Use default pcb_din_clip.stl x2, and print two parts and secure with m2 self-tapping screw.
 
-The board uses m3 screws and can be secured to this bracket without nuts.
+The bracket can be secured with M3 screw, without nuts.
 
 ![Screenshots](./img/octobk-00.png)
 
