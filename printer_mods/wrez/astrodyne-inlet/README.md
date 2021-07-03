@@ -1,32 +1,20 @@
 # Astrodyne IEC 320 C14 Power Inlet Housing for V0.1
 
-This mod is a replacement housing for the stock v0.1 power inlet, replacing the [Adam
-Tech
-IEC-GS-1-100](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135)
-(which has been on back-order at Digikey for quite a while at the time of
-this writing) with an
-[Astrodyne/TDI
-082S](https://www.mouser.com/ProductDetail/Astrodyne-TDI/082S0150000?qs=eP2BKZSCXI7jG836kH3rhw%3D%3D).
+This mod is a replacement housing for the stock v0.1 power inlet, replacing the
+[Adam Tech
+IEC-GS-1-100](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135) 
+(which has been on back-order at Digikey for quite a while at the time of this
+writing) with an [Astrodyne/TDI
+082S/082SM](https://www.mouser.com/ProductDetail/Astrodyne-TDI/082S0150000?qs=eP2BKZSCXI7jG836kH3rhw%3D%3D).
 
--------
+In addition to the power inlet you will also need to acquire some inexpensive 5
+mm diameter X 20 mm long 250V fast-acting fuses (see the v0 sourcing guide for details).
 
-**WARNING**: I just discovered that the 082SM ("M" for "medical") has small tabs on both sides of
-the inlet (**not** shown in the datasheet). These tabs physically prevent normal C13 power
-cords (what the Brits would call "bog standard kettle cords") from fitting into the
-receptacle. I _think_ but am not yet sure that the 082S (general purpose model)
-does not have the tabs (I think they are to prevent non-certified
-cords from being used accidentally). I've ordered an 082S to verify and will
-update this README once I've confirmed.
+## Files
 
-Also, as should be obvious: You will need to acquire and insert 250VAC buss
-fuses (by pulling out the little drawer &mdash; there is a slot for the active
-fuse, plus room for a spare in the front).
-
-## View of Tab in 082SM version
-
-![082S side tab](./images/082SM-tabs.jpg)
-
--------
+- [STL](./STLs/astrodyne-inlet.stl)
+- [STEP file](./CAD/power-inlet-astrodyne.step)
+- [Fusion 360 design](./CAD/power-inlet-astrodyne.f3d)
 
 ## Assembled view
 
@@ -48,11 +36,15 @@ fuse, plus room for a spare in the front).
 
 ![Rear view](./images/rear-view.jpg)
 
+## Fuses
+
+![Fuses](./images/fuses.jpg)
+
 ## Printing notes
 
 Slice and print with standard Voron settings (ABS, 40% infill, 0.4mm line width,
 0.2mm layer height, 5 top/bottom layers, 4 walls) but there isn't a lot of
-surface area in contact with the bed so you may struggle with warping unless
+surface area in contact with the bed, so you may struggle with warping unless
 your first layer is dialed in perfectly (perhaps with a little extra squish).
 There is no shame in printing this part with a brim (I've not added any fillets
 to the front edge for precisely this reason).
@@ -83,16 +75,25 @@ printing tolerances, but my first print of the part worked perfectly: the
 power-inlet snapped into place with a quite satisfying click, and felt quite
 secure.
 
+**WARNING**: Both the 082S (general purpose) and the 082SM ("M" for "medical")
+models have small tabs on each side of
+the inlet (**not** shown in the data-sheet). Apparently, these tabs are intended
+to bend slightly when a C13 power cord is inserted
+into the receptacle, taking up any side-to-side play. The tabs are
+free to move on three edges and only attached at the rear-most edge. The tabs move
+**very** stiffly, however, especially for the first several insertions. I found it
+necessary to insert a tool (e.g. a letter opener or screwdriver) and gently bend
+the tabs a bit before I could insert a cord the first time.
+
+## View of the side tabs
+
+![082S side tab](./images/082SM-tabs.jpg)
+
 ## Disassembly
 
 No.
 
-[Just kidding. It _might_ be possible to sneak a couple of butter knives or
-narrow putty knives down the sides to release the clips, but I ended up just
-sawing off the test print I used to check the fit.]
-
-## Files
-
-- [STL](./STLs/astrodyne-inlet.stl)
-- [STEP file](./CAD/power-inlet-astrodyne.step)
-- [Fusion 360 design](./CAD/power-inlet-astrodyne.f3d)
+[Just kidding. It _might_ be possible to remove the inlet from the printed
+housing if you sneak a couple of butter knives or narrow putty knives down the
+sides to release the clips, but I ended up just sawing off the test print I used
+to check the fit.]
