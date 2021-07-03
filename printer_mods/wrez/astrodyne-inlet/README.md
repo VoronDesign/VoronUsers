@@ -2,7 +2,7 @@
 
 This mod is a replacement housing for the stock v0.1 power inlet, replacing the
 [Adam Tech
-IEC-GS-1-100](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135)
+IEC-GS-1-100](https://www.digikey.com/en/products/detail/adam-tech/IEC-GS-1-100/9831135) 
 (which has been on back-order at Digikey for quite a while at the time of this
 writing) with an [Astrodyne/TDI
 082S/082SM](https://www.mouser.com/ProductDetail/Astrodyne-TDI/082S0150000?qs=eP2BKZSCXI7jG836kH3rhw%3D%3D).
@@ -15,6 +15,7 @@ mm diameter X 20 mm long 250V fast-acting fuses (see the v0 sourcing guide for d
 - [STL](./STLs/astrodyne-inlet.stl)
 - [STEP file](./CAD/power-inlet-astrodyne.step)
 - [Fusion 360 design](./CAD/power-inlet-astrodyne.f3d)
+
 ## Assembled view
 
 ![Assembled housing in place](./images/in-situ.jpg)
@@ -38,6 +39,7 @@ mm diameter X 20 mm long 250V fast-acting fuses (see the v0 sourcing guide for d
 ## Fuses
 
 ![Fuses](./images/fuses.jpg)
+
 ## Printing notes
 
 Slice and print with standard Voron settings (ABS, 40% infill, 0.4mm line width,
