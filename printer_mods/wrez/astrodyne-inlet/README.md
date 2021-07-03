@@ -8,10 +8,7 @@ writing) with an [Astrodyne/TDI
 082S/082SM](https://www.mouser.com/ProductDetail/Astrodyne-TDI/082S0150000?qs=eP2BKZSCXI7jG836kH3rhw%3D%3D).
 
 In addition to the power inlet you will also need to acquire some inexpensive 5
-mm diameter X 20 mm long 250V fast-acting fuses (either 15A or 10A fuses are
-fine for a Voron 0.1 as long as you purchase a power inlet rated for 15A).  For
-example, [this package of 20 fuses is available from Amazon](
-https://www.amazon.com/dp/B07V28CMZK/ref=cm_sw_em_r_mt_dp_TBB5AXGSCTWASD5DWWDW).
+mm diameter X 20 mm long 250V fast-acting fuses (see the v0 sourcing guide for details).
 
 ## Files
 
