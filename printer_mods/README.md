@@ -100,6 +100,7 @@ like so:
 | evandepol | [Crydom GN Terminal Guard](./evandepol/Crydom-GN-Guard) | A simple safety guard for the terminals on a Crydom GN SSR | :x: | :x: | :heavy_check_mark: |:x:|
 |  | [Voron 2.4 cable clamps](./evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring on your build | :x: | :x: | :heavy_check_mark: |:x:|
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
+| geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
@@ -135,6 +136,7 @@ like so:
 | | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |:x: |
 | joposter | [V0 Clippable LED Caselight](./joposter/v0_clippable_ledmounts) | LED Case light for the V0 that clips into the extrusions | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
@@ -161,6 +163,7 @@ like so:
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
 | |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |:x:|
+|MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
 |Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 Deck Logo](./Maverick_/V0_Deck_Logo_LED) | A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
@@ -215,6 +218,7 @@ like so:
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |:x:|
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
+| wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
