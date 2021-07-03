@@ -4,7 +4,7 @@ This top panel can be easily removed for printer maintenance or giving more cool
 3D models are designed to match your buildplate size.
 For versions 1.8 and 2.4 in 250, 300 and 350mm.
 
-(https://github.com/Printopal/VoronUsers/blob/master/printer_mods/Printopal/Magnetic_top_panel/Images/Magnetic_Top_Panel.mp4)
+(Images/Magnetic_Top_Panel.mp4)
 
 # BOM
 250:  
@@ -36,7 +36,6 @@ I don’t recommend using glass plate because of its weight, this may result in 
 7. Adjust top skirt length and glue on the acrylic panel sheet. You can easily adjust the length in your slicer.
 #
 ![Magnetic_top_panel](Images/Magnetic_top_panel.jpg)
-
 #
 ![Split](Images/Split.jpg)
 #
