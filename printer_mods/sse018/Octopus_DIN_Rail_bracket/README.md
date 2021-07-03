@@ -6,12 +6,12 @@ Use default pcb_din_clip.stl x2, and print two parts and secure with m2 self-tap
 
 Octopus board can be secured to this bracket with M3 screw, without nuts.
 
-![Screenshots](./img/octobk-00.png)
+[Screenshots](./img/octobk-00.png)
 
-![Screenshots](./img/octobk-01.png)
+[Screenshots](./img/octobk-01.png)
 
 #### STL:
-![STL](./STL/Octopus_DIN_bracket_x2.stl)
+[STL](./STL/Octopus_DIN_bracket_x2.stl)
 
 #### CAD:
-![CAD](./CAD/octopus_din_bracket.step)
+[CAD](./CAD/octopus_din_bracket.step)
