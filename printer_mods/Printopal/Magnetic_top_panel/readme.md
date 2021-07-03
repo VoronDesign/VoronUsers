@@ -35,7 +35,7 @@ I don’t recommend using glass plate because of its weight, this may result in 
 6. Glue* top corner skirt on the acrylic panel sheet.
 7. Adjust top skirt length and glue* on the acrylic panel sheet. You can easily adjust the length in your slicer.
 
-* Any liquid super glue works fine, be sure to not use VHB tape as you will add an extra height that will cancel the foam seal.
+ * Any liquid super glue works fine, be sure to not use VHB tape as you will add an extra height that will cancel the foam seal.
 #
 ![Magnetic_top_panel](Images/Magnetic_top_panel.jpg)
 #
