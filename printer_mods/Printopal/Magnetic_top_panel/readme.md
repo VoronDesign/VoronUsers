@@ -4,7 +4,7 @@ This top panel can be easily removed for printer maintenance or giving more cool
 3D models are designed to match your buildplate size.
 For versions 1.8 and 2.4 in 250, 300 and 350mm.
 
-(Images/Magnetic_Top_Panel.mp4)
+https://user-images.githubusercontent.com/85416803/124365682-2c40da80-dc0f-11eb-949d-a02bff7e0871.mp4
 
 # BOM
 250:  
