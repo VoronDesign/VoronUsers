@@ -190,6 +190,7 @@ like so:
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |:x:|
 ||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |:x:|
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
+| revnull | [Raspberry Pi 7inch Display Mount](./revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
