@@ -6,7 +6,7 @@ corners for the backplate. It is split in two parts to fit on a spec V0.
 
 For mounting you will need: 
 - 2x M3x35 as replacement for 2x M3x30 in the A-B-Motormounts
-- 2x M3x8 for mounting on the V0.0 oder V0.1 frame. M3 nuts should already be in the 1515 profile.
+- 2x M3x8 for mounting on the V0.0 or V0.1 frame. M3 nuts should already be in the 1515 profile.
 - 2x M3x6 for mounting on the V0.1 A-B-Motormounts
 
 ![Backplate](DSC_2959.jpg)
