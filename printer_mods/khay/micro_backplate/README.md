@@ -1,4 +1,4 @@
-Scrolling through Discord, there a V0 owners like me that experienced really hot electronics or motors because of the enclosed back of the printer.
+Scrolling through Discord, there are V0 owners like me that experienced really hot electronics or motors because of the enclosed back of the printer.
 As a serious adult without kids or furry kids, you could leave the backplate off the printer to allow for airflow for the electronics/motors. 
 Unfortunately this will result in losing hot air from the printchamber. 
 So in addition to Weaslus "Electronics-Bay-Separator" or the V0.1 revision motor panel I have sketched this "Micro Backplate" out of the original
