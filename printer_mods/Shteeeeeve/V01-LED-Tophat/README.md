@@ -1,23 +1,19 @@
-V0.1 LED Tophat
+# V0.1 LED Tophat
 
 ![Image 1](Images/V01-LED-Tophat-01.jpg)
 
-Printed Parts:
+## Printed Parts:
 1. LED Tophat - Main Body
 2. LED Tophat - Top Cover
 3. LED Tophat - Logo Insert
 
-Parts:
+## Parts:
 1. 4x M3x6 BHCS
 2. 4x M3x5x4 Heat Inserts
 3. 24V LED Lightstrip \\\ URL: https://tinyurl.com/7axzaff4
 4. 22 AWG Wire
 
-Printer Config:
-
-#####################################################################
-#     LED Control
-#####################################################################
+## Printer Config:
 
 [output_pin caselight]
 pin: PC9
@@ -36,9 +32,9 @@ gcode:  SET_PIN PIN=caselight VALUE=.25
 gcode:  SET_PIN PIN=caselight VALUE=1
 
 
-Note -- I am using AC Bed with SSR. SSR output on PC12 (PWR-DET) and LED Lights are running off PC9 (BED)
+### Note -- I am using AC Bed with SSR. SSR output on PC12 (PWR-DET) and LED Lights are running off PC9 (BED)
 
-##### Pictures
+## Pictures
 ![Image 1](Images/V01-LED-Tophat-02.jpg)
 ![Image 2](Images/V01-LED-Tophat-03.jpg)
-![Image 3](V01-LED-Tophat-wireframe.jpg)
+![Image 3](Images/V01-LED-Tophat-wireframe.jpg)
