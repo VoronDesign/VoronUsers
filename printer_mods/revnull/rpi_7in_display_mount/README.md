@@ -21,7 +21,7 @@ This is a combo remix of [driftology's](https://www.thingiverse.com/driftology) 
 * [luc_e](https://www.thingiverse.com/thing:1585924)
 * [mjcopper](https://www.thingiverse.com/thing:4574770)
 
-Assemble the parts in the following orientation making sure not to overtighten/scrip the screws. The movement should be smooth, but tight enough to hold position.
+Assemble the parts in the following orientation making sure not to overtighten/strip the screws. The movement should be smooth, but tight enough to hold position.
 ![Image](./Images/mount_flat.jpg)
 ![Image](./Images/mount_vertical.jpg)
 
