@@ -1,5 +1,7 @@
 V0.1 LED Tophat
 
+![Image 1](Images/V01-LED-Tophat-01.jpg)
+
 Printed Parts:
 1. LED Tophat - Main Body
 2. LED Tophat - Top Cover
@@ -34,4 +36,9 @@ gcode:  SET_PIN PIN=caselight VALUE=.25
 gcode:  SET_PIN PIN=caselight VALUE=1
 
 
-Note -- I am using AC Bed with SSR. SSR output on PC12 (PWR-DET) and LED Lights are running off PC9 (BED)  
+Note -- I am using AC Bed with SSR. SSR output on PC12 (PWR-DET) and LED Lights are running off PC9 (BED)
+
+##### Pictures
+![Image 1](Images/V01-LED-Tophat-02.jpg)
+![Image 2](Images/V01-LED-Tophat-03.jpg)
+![Image 3](V01-LED-Tophat-wireframe.jpg)
