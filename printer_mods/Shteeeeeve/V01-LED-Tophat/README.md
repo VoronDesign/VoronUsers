@@ -14,7 +14,7 @@
 4. 22 AWG Wire
 
 ## Printer Config:
-
+```
 [output_pin caselight]
 pin: PC9
 pwm:true
@@ -30,7 +30,7 @@ gcode:  SET_PIN PIN=caselight VALUE=.25
 
 [gcode_macro LEDMAX]
 gcode:  SET_PIN PIN=caselight VALUE=1
-
+```
 
 ### Note -- I am using AC Bed with SSR. SSR output on PC12 (PWR-DET) and LED Lights are running off PC9 (BED)
 
