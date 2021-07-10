@@ -4,15 +4,10 @@
 These idlers were developed with the goal to allow the usage of wider toolheads with the Voron V2, better align the tensioning screw to the centerline of the idler shaft, add guides to the parts to allow them to interlock and provide a robust tensioning system, all while streamlining the process of making fine adjustments to tensioning. 
 This design iteration has been running on my machine for 50+ hrs with no issues or print quality degradation.  
 
-The idler design is ambidextrous to allow simplified batch printing. All parts are converted to stl in optimal printing orientation with quantities specified per Voron standards: 
-
-![image](https://user-images.githubusercontent.com/65414930/123886695-a1619680-d915-11eb-8a33-212a3cb1b8ef.png)
-
+The idler design is ambidextrous to allow simplified batch printing. All parts are converted to stl in optimal printing orientation with quantities specified per Voron standards.
 
 # Print Settings:
-All parts should be printed to standard Voron print settings:
-
-![image](https://user-images.githubusercontent.com/65414930/123886729-b63e2a00-d915-11eb-81b5-52c1082b56c9.png)
+All parts should be printed to standard Voron print settings for durability.
 
 Note: If your printer is not properly tuned i.e. printing dimensionally-accurate parts free from functional defects, the slide mechanism WILL NOT work proerly. 
 
@@ -20,7 +15,7 @@ Note: If your printer is not properly tuned i.e. printing dimensionally-accurate
 2 ea. 5mm OD x 45mm L pins - may need to be polished down to fit the bearings depending on source. 
 4 ea. F695 bearings
 4 ea. 0.5mm thick 5mm shims
-2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. 
+2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. This screw should be fully threaded for proper fit.  
 2 ea. M3 flat washer
 2 ea. M3 nut
 2 ea. Voron - standard heat set
@@ -32,8 +27,7 @@ This mod also requires that you run https://github.com/VoronDesign/Voron-2/blob/
 on both top and bottom as belt clips, so that the design is not handed. 
 
 
-![image](https://user-images.githubusercontent.com/65414930/122688357-6a86d480-d1e1-11eb-9a6a-7131d131655e.png)
-
+![image](./Phalanx/Other-V2-Idlers/Images/20210619_204308.jpg)
 "Other" Idlers Thickness vs. stock V2.4 idlers
 
 
@@ -44,7 +38,7 @@ on both top and bottom as belt clips, so that the design is not handed.
 ![image](https://user-images.githubusercontent.com/65414930/122688437-c6515d80-d1e1-11eb-84bf-6041ab9b4e93.png)
 
 
-![20210619_102801](https://user-images.githubusercontent.com/65414930/122848149-98961280-d2ce-11eb-99c0-5b0b7387a849.jpg)
+![20210619_102801](./Phalanx/Other-V2-Idlers/Images/20210619_102801.jpg)
 Be sure to fully insert the m3 heat sink so that it doesn't interfere with the bearings!
 
 ![20210619_114935](https://user-images.githubusercontent.com/65414930/122848219-b95e6800-d2ce-11eb-8364-58fcbf4ed25d.jpg)
