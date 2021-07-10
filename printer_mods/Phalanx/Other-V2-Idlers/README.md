@@ -38,7 +38,7 @@ on both top and bottom as belt clips, so that the design is not handed.
 ![image](https://user-images.githubusercontent.com/65414930/122688437-c6515d80-d1e1-11eb-84bf-6041ab9b4e93.png)
 
 
-![20210619_102801](./Phalanx/Other-V2-Idlers/Images/20210619_102801.jpg)
+![20210619_102801](VoronUsers/printer_mods/Phalanx/Other-V2-Idlers/Images/20210619_102801.jpg)
 Be sure to fully insert the m3 heat sink so that it doesn't interfere with the bearings!
 
 ![20210619_114935](https://user-images.githubusercontent.com/65414930/122848219-b95e6800-d2ce-11eb-8364-58fcbf4ed25d.jpg)
