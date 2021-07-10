@@ -15,7 +15,7 @@ Note: If your printer is not properly tuned i.e. printing dimensionally-accurate
 - 2 ea. 5mm OD x 45mm L pins - may need to be polished down to fit the bearings depending on source. 
 - 4 ea. F695 bearings
 - 4 ea. 0.5mm thick 5mm shims
-- 2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. This screw should be fully threaded for proper fit.  
+- 2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. **NOTE: This screw should be fully threaded for proper fit.  
 - 2 ea. M3 flat washer
 - 2 ea. M3 nut
 - 2 ea. Voron - standard heat set
@@ -39,7 +39,7 @@ on both top and bottom as belt clips, so that the design is not handed.
 
 
 ![20210619_102801](printer_mods/Phalanx/Other-V2-Idlers/Images/20210619_102801.jpg)
-Be sure to fully insert the m3 heat sink so that it doesn't interfere with the bearings!
+Be sure to fully insert the m3 heat set insert so that it doesn't interfere with the bearings!
 
 ![20210619_114935](https://user-images.githubusercontent.com/65414930/122848219-b95e6800-d2ce-11eb-8364-58fcbf4ed25d.jpg)
 
