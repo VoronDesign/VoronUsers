@@ -12,14 +12,14 @@ All parts should be printed to standard Voron print settings for durability.
 Note: If your printer is not properly tuned i.e. printing dimensionally-accurate parts free from functional defects, the slide mechanism WILL NOT work proerly. 
 
 # BOM:
-2 ea. 5mm OD x 45mm L pins - may need to be polished down to fit the bearings depending on source. 
-4 ea. F695 bearings
-4 ea. 0.5mm thick 5mm shims
-2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. This screw should be fully threaded for proper fit.  
-2 ea. M3 flat washer
-2 ea. M3 nut
-2 ea. Voron - standard heat set
-2 ea. M3 x 16 SHCS
+- 2 ea. 5mm OD x 45mm L pins - may need to be polished down to fit the bearings depending on source. 
+- 4 ea. F695 bearings
+- 4 ea. 0.5mm thick 5mm shims
+- 2 ea. M3x35mm length SHCS - Stock 40mm may be run if not using the bolted door hinge mod. This screw should be fully threaded for proper fit.  
+- 2 ea. M3 flat washer
+- 2 ea. M3 nut
+- 2 ea. Voron - standard heat set
+- 2 ea. M3 x 16 SHCS
 
 These components are being offered as a kit by https://formosissima.com/products/other-v2-idlers-kit
 
