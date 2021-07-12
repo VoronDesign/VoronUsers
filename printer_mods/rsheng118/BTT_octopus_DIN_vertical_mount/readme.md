@@ -1,7 +1,7 @@
-# BTT octopus virtical mount
+# BTT octopus vertical mount
 
 ## Overview
-This is a mount for new BTT octopus mount for rail. it mounts the board virtically to take full advantage of the fan to cool those stepper motor
+This is a mount for new BTT octopus mount for rail. it mounts the board vertically to take full advantage of the fan to cool those stepper motor
 
 remember to use the spacer.
 
