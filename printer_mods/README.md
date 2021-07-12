@@ -49,7 +49,7 @@ like so:
 |deepfriedheroin |[V2 Bed Wagos](./deepfriedheroin/v2_bed_wagos) |Wire management for the v2 bed |:x: |:x:|:heavy_check_mark: |:x:|
 | | [v0 Wago Bed Mounts](./deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | :heavy_check_mark: | :x: | :x: |:x:|
 | | [v0 Power Wagos](./deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | :heavy_check_mark: | :x: | :x: |:x:|
-|Derpimus |[V0.1 Block Handle](.Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | :heavy_check_mark: | :X: | :X: | :X: |
+|Derpimus |[V0.1 Block Handle](.Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | :heavy_check_mark: | :x: | :x: | :x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
