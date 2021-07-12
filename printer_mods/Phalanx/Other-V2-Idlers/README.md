@@ -26,16 +26,16 @@ These components are being offered as a kit by https://formosissima.com/products
 This mod also requires that you run https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl
 on both top and bottom as belt clips, so that the design is not handed. 
 
-![Idler comparison](images/comparison.png)
+![Idler comparison](images/comparison.jpg)
 "Other" Idlers Thickness vs. stock V2.4 idlers
 
-![Idler Front](images/front.png)
+![Idler Front](images/front.jpg)
 
-![Idler Front](images/heatset.png)
+![Idler Front](images/heatset.jpg)
 Be sure to fully insert the m3 heat set insert so that it doesn't interfere with the bearings!
 
-![Installed](images/Installed.png)
+![Installed](images/Installed.jpg)
 
-![Installed 2](images/Installed2.png)
+![Installed 2](images/Installed2.jpg)
 
 
