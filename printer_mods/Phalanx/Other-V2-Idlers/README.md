@@ -5,10 +5,10 @@ These idlers were developed with the goal to allow the usage of wider toolheads 
 This design iteration has been running on my machine for 50+ hrs with no issues or print quality degradation.  
 
 The idler design is ambidextrous to allow simplified batch printing. All parts are converted to stl in optimal printing orientation with quantities specified per Voron standards.
-
+![Voron File Standards](Images/filekey.jpg)
 # Print Settings:
 All parts should be printed to standard Voron print settings for durability.
-
+![Print Settings](Images/printset.jpg)
 Note: If your printer is not properly tuned i.e. printing dimensionally-accurate parts free from functional defects, the slide mechanism WILL NOT work proerly. 
 
 # BOM:
