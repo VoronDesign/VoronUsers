@@ -26,24 +26,16 @@ These components are being offered as a kit by https://formosissima.com/products
 This mod also requires that you run https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Gantry/%5Ba%5D_z_belt_clip_lower_x4.stl
 on both top and bottom as belt clips, so that the design is not handed. 
 
-![Idler comparison](images/Idler comparison.png)
-![image](./Phalanx/Other-V2-Idlers/Images/20210619_204308.jpg)
+![Idler comparison](images/comparison.png)
 "Other" Idlers Thickness vs. stock V2.4 idlers
 
+![Idler Front](images/front.png)
 
-![image](https://user-images.githubusercontent.com/65414930/122688376-7ffbfe80-d1e1-11eb-84d0-311bcf6c26bf.png)
-
-
-
-![image](https://user-images.githubusercontent.com/65414930/122688437-c6515d80-d1e1-11eb-84bf-6041ab9b4e93.png)
-
-
-![20210619_102801](printer_mods/Phalanx/Other-V2-Idlers/Images/20210619_102801.jpg)
+![Idler Front](images/heatset.png)
 Be sure to fully insert the m3 heat set insert so that it doesn't interfere with the bearings!
 
-![20210619_114935](https://user-images.githubusercontent.com/65414930/122848219-b95e6800-d2ce-11eb-8364-58fcbf4ed25d.jpg)
+![Installed](images/Installed.png)
+
+![Installed 2](images/Installed2.png)
 
 
-![20210620_155754](https://user-images.githubusercontent.com/65414930/122848232-bd8a8580-d2ce-11eb-8203-3d85482990ca.jpg)
-
-![20210619_213153](https://user-images.githubusercontent.com/65414930/122848297-e14dcb80-d2ce-11eb-9942-082bb1cd4e2e.jpg)
