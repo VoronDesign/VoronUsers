@@ -11,7 +11,6 @@ I downloaded the CAD files of the Afterburner hotend and searched for a suitable
 
 ![Chain Anchor](../../padok/chain_anchor-ADXL345_mount/img/VORON2_v2.4_Assembly_1.png)
 
-
 I printed the part on my printer using eSUN ABS+ Black/PeekGreen like all the other parts, but this one was unfortunately a little bit overextruded.
 After adding the threaded inserts, I sanded the plateau with some P180 sandpaper that I placed on a flat surface to ensure the best possible contact surface for the adapter board.
 
@@ -29,9 +28,10 @@ After that you can use this part as a replacement for the standard chain anchor.
 | 4   | M3 ruthex Threaded Insert                          |
 | 2   | M3x6 Screw                                         |
 | 1   | ADXL345 - Triple Axis Accelerometer Breakout board |
+
 ## Klipper config
 
-```
+```EditorConfig
 #####################################################################
 #  G Sensor definition
 #####################################################################
