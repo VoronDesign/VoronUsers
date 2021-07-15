@@ -10,7 +10,7 @@
 ## Parts:
 1. 4x M3x6 BHCS
 2. 4x M3x5x4 Heat Inserts
-3. 24V LED Lightstrip \\\ URL: https://tinyurl.com/7axzaff4
+3. 24V LED Lightstrip \\\ URL: https://www.amazon.ca/gp/product/B074XCKJYB/
 4. 22 AWG Wire
 
 ## Printer Config:
