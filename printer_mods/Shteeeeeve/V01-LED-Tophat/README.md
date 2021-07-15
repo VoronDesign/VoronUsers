@@ -38,3 +38,4 @@ gcode:  SET_PIN PIN=caselight VALUE=1
 ![Image 1](Images/V01-LED-Tophat-02.jpg)
 ![Image 2](Images/V01-LED-Tophat-03.jpg)
 ![Image 3](Images/V01-LED-Tophat-wireframe-1.jpg)
+![Image 4](Images/V0-LED-Tophat-Photo.jpg)
