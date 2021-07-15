@@ -1,21 +1,21 @@
-my ender switchwire
+My Ender Switchwire
 
-The goal of this build is to convert your ender 3 (original version) to a switchwire without changing the design too much.
+The goal of this build is to convert your Ender 3 (original version) to a Switchwire without changing the design too much.
 
-![overview](https://github.com/UltraWaffles/Voron-Switchwire/blob/master/Mods/UltraWaffles/Images/Fusion360_icWbvkmAlb.png)
+![overview](Images/Fusion360_icWbvkmAlb.png)
 
 Things to note:
-1. This build can work with the ender 3 pro (I have not tested this, as I dont have an ender 3 pro)
-2. You only have to cut 1 extrusion by yourself (gotta tap one yourself also, unless theres a different way u can mount extrusions)
-3. You have to buy a few extrusions (they dont have to be from misumi)
+1. This build can work with the Ender 3 pro (I have not tested this, as I don't have an Ender 3 pro)
+2. You only have to cut 1 extrusion by yourself (gotta tap one yourself also, unless there's a different way you can mount extrusions)
+3. You have to buy a few extrusions (they don't have to be from Misumi)
 4. This design is made for 2020/2040 extrusions
-5. You will be using alot of parts from the original ender 3
+5. You will be using a lot of parts from the original Ender 3
 6. I have a BoM for all the parts you need
 7. Hammerhead tnuts works just as well as those expensive sliding ones.
-8. if you buy shorter M4 flathead screws, you can reduce the height of the bed, thus creating more z height.
+8. If you buy shorter M4 flathead screws, you can reduce the height of the bed, thus creating more z height.
 9. This version allows you to enclose it without any problems
-10. For now, the screen and door panel conflicts with each other, Ill fix it when I find a solution
-11. Not sure if im allowed to do this, but all of the files (execpt for electronic mounts) are in the stls.rar file
+10. For now, the screen and door panel conflict with each other, I'll fix it when I find a solution
+11. For parts z_motor_mount_a.stl and y_belt_anchor.stl have built in support, be sure to remove it after 
 
 STLs files:
 This mod uses some combination of both original stls and my own edited versions. The following list is parts that are unchanged
