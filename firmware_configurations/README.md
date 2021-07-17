@@ -19,23 +19,23 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Config Title](link) | Description | :x: | :x: | :x: |`
+| Creator | [Config Title](link) | Description | :x: | :x: | :x: | :x: |`
 
 ---
 
 ## Klipper
 
-| Creator | Config title | Description | V0 | V1.8 | V2.4 |
-| --- | --- | --- | --- | --- | --- |
-| eddie  | [SKR 1.3 V2 Universal Config](./klipper/eddie) | Universal Config and Setup Guide for SKR 1.3 and V2 | :x: | :x: | :heavy_check_mark: |
+| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
+| --- | --- | --- | --- | --- | --- | --- |
+| revnull | [BTT Octopus Board Pins](./klipper/revnull/btt_octopus_pins) | Defines a set of `[board_pins]` aliases for use with the BTT Octopus controller | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 
 ---
 
 ## RepRapFirmware
 
-| Creator | Config title | Description | V0 | V1.8 | V2.4 |
-| --- | --- | --- | --- | --- | --- |
-| fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: |
-| DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.3 example config | :x: | :x: | :heavy_check_mark: | 
+| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
+| --- | --- | --- | --- | --- | --- | --- |
+| DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.3 example config | :x: | :x: | :heavy_check_mark: | :x: |
+| fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: | :x: |
 
 ---

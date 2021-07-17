@@ -19,11 +19,16 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Config Title](link) | Description | :x: | :x: | :x: |`
+| Creator | [Config Title](link) | Description | :x: | :x: | :x: | :x: |`
 
 ---
 
-| Creator | Config title | Description | V0 | V1.8 | V2.4 |
-| --- | --- | --- | --- | --- | --- |
-| hijax_pl_ | [Simplify3D](./Simplify3D/hijax_pl/beds) | Bed images for Simplify3D | :x: | :x: | :heavy_check_mark: |
+| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
+| --- | --- | --- | --- | --- | --- | --- |
+| hartk1213 | [PrusaSlicer V0 Bed and Textures](./PrusaSlicer/hartk1213/V0) | Bed STL and textures for Prusa Slicer | :heavy_check_mark: | :x: | :x: | :x: |
+| hijax_pl_ | [Simplify3D](./Simplify3D/hijax_pl/beds) | Bed images for Simplify3D | :x: | :x: | :heavy_check_mark: | :x: |
+| hoangnam123 | [SuperSlicer v2.4 Bed](./SuperSlicer/hoangnam123) | Bed STL for SuperSlicer | :x: | :x: | :heavy_check_mark: | :x: |
+| jgehrig | [Cura V0 Configuration ](./Cura/jgehrig/V0) | Generic Cura configuration and Bed STL | :heavy_check_mark: | :x: | :x: | :x: |
+| koonweee | [SuperSlicer v1.8 Bed](./SuperSlicer/koonweee/beds) | Bed STL for SuperSlicer | :x: | :heavy_check_mark: | :x: | :x: |
+
 ---
