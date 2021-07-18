@@ -1,1 +1,4 @@
-Longs Mantis Dual 5015 Toolhead for v2.4 and MGN12h.  Please read the readme.pdf file.
+**Mantis Dual 5015 Toolhead by Long** 
+![](images/mantis.jpg)  
+![](images/images.jpg)  
+Please see the ([readme.pdf]readme.pdf)
