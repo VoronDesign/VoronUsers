@@ -18,7 +18,7 @@ Things to note:
 11. For parts z_motor_mount_a.stl and y_belt_anchor.stl have built in support, be sure to remove it after 
 
 STL files:
-This mod uses some combination of both original STLs and my own edited versions. The following list is parts that are unchanged. All electronic mounts execpt for the massive psu are from the v2.2 
+This mod uses some combination of both original STL and my own edited versions. The following list is parts that are unchanged. All electronic mounts execpt for the massive psu are from the v2.2 
 1. Enclosure parts
   - feed_slot
   - light_bar_x2
