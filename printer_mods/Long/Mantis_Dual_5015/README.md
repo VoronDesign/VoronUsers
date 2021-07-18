@@ -1,7 +1,7 @@
 Mantis Dual 5015 Toolhead by Long
 ============
   
-**Please see the ([readme.pdf](readme.pdf)) for full description, bom, etc**  
+**Please see the ([readme.pdf](readme_v1.06.pdf)) for full description, bom, etc**  
   
 ![](images/mantis.jpg)    
   
