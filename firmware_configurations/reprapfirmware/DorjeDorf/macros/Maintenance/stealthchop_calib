@@ -1,0 +1,7 @@
+; StealthCop calibration
+G4 P150
+M17
+G4 P150
+G1 X1 Y1 Z1
+G4 P150
+M18
