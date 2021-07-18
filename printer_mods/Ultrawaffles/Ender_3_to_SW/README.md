@@ -17,8 +17,8 @@ Things to note:
 10. For now, the screen and door panel conflict with each other, I'll fix it when I find a solution
 11. For parts z_motor_mount_a.stl and y_belt_anchor.stl have built in support, be sure to remove it after 
 
-STLs files:
-This mod uses some combination of both original stls and my own edited versions. The following list is parts that are unchanged. All electronic mounts execpt for the massive psu are from the v2.2 
+STL files:
+This mod uses some combination of both original STLs and my own edited versions. The following list is parts that are unchanged. All electronic mounts execpt for the massive psu are from the v2.2 
 1. Enclosure parts
   - feed_slot
   - light_bar_x2
