@@ -1,9 +1,9 @@
-# BTT octopus vertical mount
+# BTT Octopus vertical mount
 
 ## Overview
-This is a mount for new BTT octopus mount for rail. it mounts the board vertically to take full advantage of the fan to cool those stepper motor
+This is a mount for new BTT octopus mount for DIN rail. It mounts the board vertically to take full advantage of the fan to cool those stepper motor drivers.
 
-remember to use the spacer.
+Remember to use the spacer and place it in between the board and mounts.
 
 ### Note: you may need to adjust your DIN rail distance, it should be snug but not too far apart that you can't release the board.
 
