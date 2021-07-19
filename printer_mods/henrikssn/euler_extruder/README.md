@@ -4,10 +4,11 @@
 
 The Euler Extruder is the most lightweight extruder option for the Voron AfterBurner, coming in at just 139 grams (including all hardware). There is a mount available for Nema17 based toolhead boards, such as [TurboCAN] and [Huvud], or you can screw any of the IGUS/Generic drag chain mount there.
 
-Performance-wise it is the same as Sherpa Mini, which is very similar to Orbiter/Galileo. All these are more performant than original Clockwork.
+Performance-wise it is the same as Sherpa Mini, which is very similar to Orbiter/Galileo. All these are [more performant than original Clockwork].
 
 [TurboCAN]: https://github.com/henrikssn/TurboCAN
 [Huvud]: https://github.com/bondus/KlipperToolboard
+[more performant than original Clockwork]:
 
 
 <img src="Images/0.png" height=486 width=567 />
@@ -17,7 +18,7 @@ Performance-wise it is the same as Sherpa Mini, which is very similar to Orbiter
 
 ### Printed parts
 
-Print the `extruder_motor_plate.stl`, all other parts can be reused from your existing extruder, given that you have the latest version of clockwork (with the short latch). If you are unsure, you can find correct version of all the clockwork parts in the STL directory.
+Print the `extruder_motor_plate.stl`, all other parts can be reused from your existing extruder, given that you have the latest version of clockwork (with the short latch).
 
 Additonally, one of:
 

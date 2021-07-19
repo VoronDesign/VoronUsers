@@ -110,7 +110,7 @@ like so:
 | | [Voron2.4_Pins_Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|
 | | [Voron2.4_Y_Endstop_Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
-| henrikssn | [Euler Extruder for Voron AfterBurner](./henrikssn/euler_extruder) | The Euler extruder is a Sherpa Mini meets Clockwork, lightweight with full AfterBurner compatibility. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
+| | [Euler Extruder for Voron AfterBurner](./henrikssn/euler_extruder) | The Euler extruder is a Sherpa Mini meets Clockwork, lightweight with full AfterBurner compatibility. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |:x:|
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
