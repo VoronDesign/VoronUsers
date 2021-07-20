@@ -11,11 +11,11 @@ Items needed:
 
 
 Assembly:
-          1. Print part
-          2. Remove stock mount from camera
-          3. Install camera on mount
-          4. Put nuts into the frame slots
-          5. Screw on the mount
-          6. Route the wire through the frame
-          7. Plug into RPi
-          8. Enjoy!
+1. Print part
+2. Remove stock mount from camera
+3. Install camera on mount
+4. Put nuts into the frame slots
+5. Screw on the mount
+6. Route the wire through the frame
+7. Plug into RPi
+8. Enjoy!
