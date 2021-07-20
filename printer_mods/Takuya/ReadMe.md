@@ -1,0 +1,20 @@
+This my my contribution to the awesome Voron Community!
+Its a camera mount for a USB Camera.
+
+![Screenshot_4](https://user-images.githubusercontent.com/54855101/126408342-3fb0ea8e-ef64-45e4-821c-6806f4884df7.jpg)
+
+
+Items needed:
+2 M3x8 Bolts
+2 M3 Slide-in Nuts / T-nuts
+
+
+Assembly:
+          1. Print part
+          2. Remove stock mount from camera
+          3. Install camera on mount
+          4. Put nuts into the frame slots
+          5. Screw on the mount
+          6. Route the wire through the frame
+          7. Plug into RPi
+          8. Enjoy!
