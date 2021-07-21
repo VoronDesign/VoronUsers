@@ -8,7 +8,7 @@ Performance-wise it is the same as Sherpa Mini, which is very similar to Orbiter
 
 [TurboCAN]: https://github.com/henrikssn/TurboCAN
 [Huvud]: https://github.com/bondus/KlipperToolboard
-[more performant than original Clockwork]:
+[more performant than original Clockwork]: https://github.com/Annex-Engineering/Annex-Engineering.github.io/blob/master/extruder_force.md
 
 
 <img src="Images/0.png" height=486 width=567 />
@@ -23,7 +23,7 @@ Print the `extruder_motor_plate.stl`, all other parts can be reused from your ex
 Additonally, one of:
 
 * `[a]_chain_adapter.stl`: For attaching IGUS/Generic chain mount.
-* `[a]_turbocan_mount.stl`: For attaching [TurboCAN] or [Huvud] toolhead board.
+* `[a]_toolhead_board_mount.stl`: For attaching [TurboCAN] or [Huvud] toolhead board.
 
 ### Hardware
 
