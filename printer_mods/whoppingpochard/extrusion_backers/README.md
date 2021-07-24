@@ -65,7 +65,7 @@ A 1.5 mm titanium backer does even better:
 
 ### Sourcing
 
-A set of 3 backers in 1.9 mm steel can be bought at [SendCutSend](www.sendcutsend.com) for somewhere in the neighborhood of $10 (presuming you've met their minimum order of $29). 
+A set of 3 backers in 1.9 mm steel can be bought at [SendCutSend](https://www.sendcutsend.com) for somewhere in the neighborhood of $10 (presuming you've met their minimum order of $29). 
 
 If you're feeling spendy, even the Ti backers still cost about the same as cheapo linear rails, with a set of three costing around $60.
 
