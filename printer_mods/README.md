@@ -161,7 +161,6 @@ like so:
 | | [Strain Relief w/ 10 Pin Microfit](./LoCoCNC/Strain_Relief_w_Microfit) | Strain Relief with 10 pin Microfit connector |:heavy_check_mark:|:x:|:x:|:x:|
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:| 
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | v2.4 MGN12 Dual 5015 Toolhead  |:x:|:x:|:heavy_check_mark:|:x:|
-|MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
@@ -177,6 +176,7 @@ like so:
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
 |mpfl |[V0.1 OLED-skirt](./mpfl/V0.1_skirt_OLED) |V0.1 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MrBean66| [SKR Pro DIN Mount](./MrBean66/SKR_PRO_Mount/) |Simple mod to mount the SKR Pro board from BTT to a DIN rails. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |:x:|
