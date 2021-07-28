@@ -30,8 +30,8 @@ After that you can use this part as a replacement for the standard chain anchor.
 
 | #   | Part                                               |
 | --- | -------------------------------------------------- |
-| /   | Afterburner: Chain Anchor Parts                    |
-| 4   | M3 standart Voron Threaded Insert                  |
+| /   | Afterburner: Chain-Anchor Parts                    |
+| 4   | M3 standard Voron Threaded-Insert                  |
 | 2   | M3x6 Screw                                         |
 | 1   | ADXL345 - Triple Axis Accelerometer Breakout board |
 
