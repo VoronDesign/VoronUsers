@@ -189,6 +189,7 @@ like so:
 | |[RPI Metal DIN Mount](./Oakman/RPI_Metal_DIN_Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
+|padok |[Chain Anchor - ADXL345 mount Mod](./padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner |:x: |:grey_question: |:heavy_check_mark: |:grey_question: |
 |Phalanx |["Other" Idlers Mod](./Phalanx/Other-V2-Idlers/) | Allow usage of wider toolheads on the V2 |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: | 
@@ -200,12 +201,14 @@ like so:
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
+| rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
+| Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | sttts | [Waveshare 5.5inch HDMI AMOLED Mount](./sttts/Waveshare-5.5-inch-HDMI-AMOLED) | Mod to mount a Waveshare 5.5inch full HD display on a V2 | :x: | :x: | :heavy_check_mark: | :x: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
@@ -222,6 +225,7 @@ like so:
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
 | Triano | [Ender 3 Pro or V2 to Switchwire Mod](./Triano/Ender_3Pro_Switchwire) | Convesion of an Ender 3 Pro or V2 to a Switchwire | :x: | :x: | :x: | :heavy_check_mark: |
+| UltraWaffles | [Ender 3 to SW conversion](./Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches| :x: | :x: | :x: | :heavy_check_mark: |
 | warriorofwire | [Slenderfan for Afterburner](./warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | :x: | :x: | :heavy_check_mark: |:x:|
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
@@ -248,6 +252,7 @@ like so:
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | Xceled | [Single Panel Magnet Mount](./xceled/Single_Panel_Magnet_Mount)| Mount your front panel using only magnets | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | Yeri | [V0 Magnetic Panels](./yeri/V0_Magnetic_Panels)| Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
 | Zen3D | [V0 Handle](./Zen3D/V0_Handle)| Voron0 Handle for 3mm panels | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 MidPanel HexPattern](./Zen3D/V0_MidPanel_HexPattern)| Voron0 MidPanel with Hex pattern and Wire cover  | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|
