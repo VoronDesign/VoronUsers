@@ -15,6 +15,7 @@ Front piece and Logo piece requires supports. Used recommended settings for Voro
 
 ## Assembly
 First print out "Cut tool", check fans compatibility, if fit is acceptable remove fans top body part and cut lower part according to “Cut tool”. Insert fans into “Back piece” (adjust fit if needed by cutting additional plastic from lower fan body). Fans should hold firmly in back part. Close them with “front piece” and secure them using “logo piece” using m3x20 SCHS screw. 
+
 <img src="Visual/Using_cut_tool_2.jpg" width="400px" />
 
 ### Optional I: 
