@@ -13,7 +13,7 @@ Materials needed :
 3x m2x6 (m2 x 4 can also be used if you have those on hand)
 
 Screw the PCB on the webcam_mount using the 3x m2's
-![PCB mount](img/webcam mount.png)
+![PCB mount](img/webcam_mount.png)
 attach the webcam swivelmount to the top extrusion with the 2 T-nuts and the 2x m3x's.
 It'll end up looking like this:
-![webcam mounted](img/webcam mounted.png)
+![webcam mounted](img/webcam_mounted.png)
