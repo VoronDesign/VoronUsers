@@ -1,6 +1,6 @@
 This my my contribution to the awesome Voron Community!
 
-It's a camera mount for a USB Camera.
+It's a camera mount for a WANSVIEW 1080p USB Camera.
 
 ![Screenshot_4](Screenshot_4.jpg)
 
