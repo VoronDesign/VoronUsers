@@ -2,7 +2,7 @@ This my my contribution to the awesome Voron Community!
 
 It's a camera mount for a USB Camera.
 
-![Screenshot_4](screenshot4.jpg)
+![Screenshot_4](screenshot_4.jpg)
 
 
 Items needed:
