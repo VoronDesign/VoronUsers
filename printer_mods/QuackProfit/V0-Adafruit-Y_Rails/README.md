@@ -24,7 +24,7 @@ _Inspired by the mod [from JNP](https://github.com/VoronDesign/VoronUsers/tree/m
 * Solder wires of appropriate length onto the back of each PCB (VDC, GND, DIN, and DOUT)
 * If using JST-XH as disconnects, solder the other ends of the wires to 4-position (male) connectors - the connector should fit inside the body cavity once assembled
 * Mount the PCBs inside the printed bodies using M2x8s
-* Don't install the printed covers as this stage
+* Don't install the printed covers at this stage
 
 ![Wired](images/wired.jpg)
 
@@ -51,7 +51,7 @@ _Inspired by the mod [from JNP](https://github.com/VoronDesign/VoronUsers/tree/m
 
 ## Klipper Config
 * Create a "neopixel" section in printer.cfg and give it a name
-* Refer to your Controller documentation to find the pin name that controlls the neopixel data signal
+* Refer to your Controller documentation to find the pin name that controls the neopixel data signal
 * Example:
 ```
 [neopixel lights]
