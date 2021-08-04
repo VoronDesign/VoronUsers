@@ -1,8 +1,8 @@
 This my my contribution to the awesome Voron Community!
 
-Its a camera mount for a USB Camera.
+It's a camera mount for a USB Camera.
 
-![Screenshot_4](https://user-images.githubusercontent.com/54855101/126408342-3fb0ea8e-ef64-45e4-821c-6806f4884df7.jpg)
+![Screenshot_4](screenshot4.jpg)
 
 
 Items needed:
