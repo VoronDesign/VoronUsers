@@ -1,4 +1,4 @@
-This my my contribution to the awesome Voron Community!
+This is my contribution to the awesome Voron Community!
 
 It's a camera mount for a WANSVIEW 1080p USB Camera.
 The distance between the screw holes is 15mm so if you have a camera that has this kind of mounting solution then it might work out for you
