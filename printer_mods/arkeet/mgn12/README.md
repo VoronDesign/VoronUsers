@@ -7,7 +7,7 @@ rail.  The belt is directly clamped to the MGN12 block by the carriage.
 The stock PL-08N probe _might_ be too long to fit.  Recommended alternatives
 are listed below.
 
-As an option, the `x_carriage_frame_right_V2.4_endstop.stl` allows mounting
+As an option, the `x_carriage_frame_right_endstop.stl` allows mounting
 the X endstop switch on the carriage, which is useful on an umbilical cable
 setup.
 
@@ -62,3 +62,17 @@ Images
 ![Carriage mounting](Images/carriage_mounting.png)
 
 ![Photo](Images/photo.jpg)
+
+Changelog
+---------
+
+### 2021-07-26
+- Fixed magnet position for Hall effect endstop. Both halves need to be
+  reprinted.
+
+### 2021-03-28
+- Added option for mounting X endstop on the carriage.
+- Updated readme to note that stock PL-08N probes _might_ fit.
+
+### 2021-03-21
+- Initial release
