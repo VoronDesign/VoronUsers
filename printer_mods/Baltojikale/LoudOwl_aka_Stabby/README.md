@@ -11,6 +11,8 @@ This is alternative part cooling fan solution which uses dual 5015 fan setup for
 
 ## Printing
 
+## Parts w in build supports have not been tested yet !!!!!!
+
 Front piece and Logo piece requires supports!!!!!!!! Used recommended settings for Voron parts: 4 perimeters, 5 tops/bottoms, 40% infill. Though it is possible to use less plastic to reduce weight of plastic parts: 3 perimeters, 3 tops bottoms, 25% infill.
 
 ## Assembly
