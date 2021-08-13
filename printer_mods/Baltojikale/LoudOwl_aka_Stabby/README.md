@@ -19,6 +19,7 @@ First print out "Cut tool", check fans compatibility, if fit is acceptable remov
 <img src="Visual/Using_cut_tool_2.jpg" width="400px" />
 <img src="Visual/Using_cut_tool_1.jpg" width="400px" />
 <img src="Visual/Using_cut_tool_3.jpg" width="400px" />
+<img src="Visual/Fans_in_place.jpg" width="400px" />
 
 ### Optional I: 
 Cut excess wires and solder red to red black to black and additional wires of same colour extend them up to your tool head connectors. 
