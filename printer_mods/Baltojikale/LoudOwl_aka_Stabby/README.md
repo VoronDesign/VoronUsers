@@ -2,7 +2,6 @@
 
 <img src="Visual/LoudOwl_2.jpg" width="400px" />
 <img src="Visual/LoudOWL.jpg" width="400px" />
-<img src="Visual/Prieview.mp4" width="400px" />
 
 This is alternative part cooling fan solution which uses dual 5015 fan setup for Afterburner Toolhead. Replaces original parts that house 4020 fan or any other similar type of mod. This mod is more of situational add on for PLA or similar type filaments which might require a lot of cooling (or printing at super high speeds). It is not constant solution as it increases gantry weight.
 
