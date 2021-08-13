@@ -34,4 +34,4 @@ These two hands came from model https://www.thingiverse.com/thing:4892173 . They
 <img src="Visual/comparison.jpg" width="400px" />
 
 If youre feeling lucky !!!! 
-there is CAD model for aplication with ABBN 30 hotend shroud. Not tested IRL.
+there is CAD model of first addaptation for ABBN 30 hotend shroud. Not tested IRL.
