@@ -46,6 +46,7 @@ like so:
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
 | |[AB-BN Afterburner mod](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
+|Baltojikale | [LoudOwl aka Stabby](./Baltojikale/LoudOwl_aka_Stabby) | Alternative dual 5015 part cooling fan toolhead for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | BladeScraper-Designs | [Microswitch_Pod_With_Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
