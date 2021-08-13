@@ -34,7 +34,7 @@ Print “Fan decoration” spirals as thin as possible. Model is 0.4mm height bu
 
 ## Performance
 
-These two hands came from model https://www.thingiverse.com/thing:4892173 . They are printed boath in Devils Design white PLA. Visable part was directed towars bed, thus it was total overhang printed on suports with interface layers. Colling was directed with stock Afterburners hotend shroud. Personally beleve that better resualts can be achieved with Warbird hotend shroud. 
+These two hands came from model https://www.thingiverse.com/thing:4892173 . They are printed both in Devils Design white PLA. Visable part was directed towars bed, thus it was total overhang printed on suports with interface layers. Colling was directed with stock Afterburners hotend shroud. Personally beleve that better resualts can be achieved with Warbird hotend shroud. 
 
 <img src="Visual/comparison.jpg" width="400px" />
 
