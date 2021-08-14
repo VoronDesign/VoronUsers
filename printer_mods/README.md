@@ -159,6 +159,7 @@ like so:
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:| 
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | v2.4 MGN12 Dual 5015 Toolhead  |:x:|:x:|:heavy_check_mark:|:x:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
+|madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
 | |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |:x:|
