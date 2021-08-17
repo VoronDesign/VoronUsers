@@ -4,13 +4,13 @@ This mod allows for the easy removal of the panels on a V2 ideal for switching b
 
 ## BOM (for top and side panels)
 
-    6x3 Magnets                       - 72
+   | Material | Quantity |
+   |----------|----------|
+   | 6x3 Magnets | 72 |
+   | M3x8 SHCS | 24 |
+   | M3 Roll In or Hammerhead T Nuts | 24|
+   | VHB Tape | |   
   
-    M3x8 SHCS                         - 24
-    
-    M3 Roll In or Hammerhead T Nuts   - 24
-  
-    VHB Tape
   
 To reduce the number of magnets required, it is possible to install just two or even one per printed part. This has not been tested and the hold strength unknown.
 
