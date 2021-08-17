@@ -1,3 +1,39 @@
 # Magnetic Panels
 
-This mod allows for the easy removal of the panels on a V2 ideal for swithc between ABS and PLA printing.
+This mod allows for the easy removal of the panels on a V2 ideal for swithc between ABS and PLA printing. This mod assumes a panel depth of 6mm, either from a 6mm panel or a 3mm panel + 3mm foam tape. It will not hold the panels against the frame without the thickness. 
+
+## BOM (for top and side panels)
+
+    6x3 Magnets                       - 72
+  
+    M3x8 SHCS                         - 24
+    
+    M3 Roll In or Hammerhead T Nuts   - 24
+  
+    VHB Tape
+  
+To reduce the number of magnets required, it is possible to install just two or even one per printed part. This has not been tested and the hold strength unknown.
+
+### Assembly
+
+![Magnetic Mount Assembly](https://github.com/bobbleheed/VoronUsers/blob/bobbleheed-mag_panels/printer_mods/bobbleheed/V2.4_Magnetic_Panels/IMAGES/Mount_Assembly.png)
+
+Pressfit the magnets into the housing. Use the M3x8 SHCS and T Nuts to secure mounts to the frame. 
+
+It is easiest to install using the regular panel clips to hold the panel in position, this allows the mounts to be positioned with some clearance to the panel allowing smoother attachment after installing. To make full use of this added convenience fully complete installation of a single clip before repeating the procedure for the remaining three on each panel.  
+
+<br>
+<br>
+<br>
+
+![Magnetic Cap Assembly](https://github.com/bobbleheed/VoronUsers/blob/bobbleheed-mag_panels/printer_mods/bobbleheed/V2.4_Magnetic_Panels/IMAGES/Cap_Assembly.png)
+
+Pressfit the magnets into the housing ensuring the poles are aligned between the mount and cap. Apply the triangular section of VHB tape and with the panel in position on the frame lower the magnet side into position before pressing the tape firmly against the panel. 
+
+<br>
+<br>
+<br>
+
+![Magnetic Mount Assembly](https://github.com/bobbleheed/VoronUsers/blob/bobbleheed-mag_panels/printer_mods/bobbleheed/V2.4_Magnetic_Panels/IMAGES/Final_Assembly.png)
+
+The panel can now simply be pulled off the frame for removal before being replaced with as much ease. 
