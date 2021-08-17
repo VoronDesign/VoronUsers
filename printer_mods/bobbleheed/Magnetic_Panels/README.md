@@ -1,6 +1,6 @@
 # Magnetic Panels
 
-This mod allows for the easy removal of the panels on a V2 ideal for switching between ABS and PLA printing. This mod assumes a panel depth of 6mm, either from a 6mm panel or a 3mm panel + 3mm foam tape. It will not hold the panels against the frame without the thickness. 
+This mod allows for the easy removal of the panels on a V2, ideal for switching between ABS and PLA printing. This mod assumes a panel depth of 6mm, either from a 6mm panel or a 3mm panel + 3mm foam tape. It will not hold the panels against the frame without the thickness. 
 
 ## BOM (for top and side panels)
 
