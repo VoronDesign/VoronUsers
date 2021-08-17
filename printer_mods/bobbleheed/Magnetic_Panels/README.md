@@ -34,4 +34,4 @@ Pressfit the magnets into the housing ensuring the poles are aligned between the
 
 ![Magnetic Mount Assembly](./IMAGES/Final_Assembly.png)
 
-The panel can now simply be pulled off the frame for removal before being replaced with as much ease. 
+The panel can now be pulled straight off the frame for removal, before being replaced with as much ease. 
