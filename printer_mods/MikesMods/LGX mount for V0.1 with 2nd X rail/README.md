@@ -18,5 +18,8 @@ LGX Extruder 2x M3x16 (bottom of the extruder)
 
 The Carriage Backplate can be optional mounted with 3 M2x16 screws to the carriage, the holes are covers and need to be cut out. It is not necessary to use them, there is enough righty as the backplate is directly mounted to the LGX stepper.
 
+
+![PIC](LGX_3.png)
+![PIC](LGX_4.png)
 ![PIC](LGX_1.png)
 ![PIC](LGX_2.png)
