@@ -18,6 +18,8 @@ LGX Extruder 2x M3x16 (bottom of the extruder)
 
 The Carriage Backplate can be optional mounted with 3 M2x16 screws to the carriage, the holes are covers and need to be cut out. It is not necessary to use them, there is enough righty as the backplate is directly mounted to the LGX stepper.
 
+You will also need 1x 150mm MGN7, I don't recommend w/o the 2nd rail, even with good rail, the tool head will wobble after a while even with original mini AB.
+
 
 ![PIC](LGX_3.png)
 ![PIC](LGX_4.png)
