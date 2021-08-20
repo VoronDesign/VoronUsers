@@ -17,7 +17,7 @@ Don't forget to change the pin(s) for your fans.
 
 ## <B>5015 Fan Mount</B>
 
-Bill of materials:
+Bill of materials (per fan):
 - 1x 5015 fan
 - 1x M3x25
 - 1x M3x20
