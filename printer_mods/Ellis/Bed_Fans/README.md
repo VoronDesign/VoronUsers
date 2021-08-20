@@ -1,13 +1,8 @@
-<B>
-    <span style=font-size:2EM>
-        Macros
-    </span>
-</B>
+#<B>Macros</B>
 
 See <B>bedfans.cfg</B> for klipper macros.
 
-
-The macros will <span style="color:red">intercept bed heating commands</span>, so you do <I>not</I> need to add anything to your other macros. 
+The macros will intercept bed heating commands, so you do <I>not</I> need to add anything to your other macros. 
 
 * <B>variable_threshold</B> sets the target bed temperature at which your bed fans will activate.
 * <B>variable_slow</B> sets the fan speed for when the bed is heating to the target temp.
@@ -18,11 +13,7 @@ Don't forget to change the pin(s) for your fans.
 \*<I>bedfans-dualcontrol.cfg allows separate control for inner and outer bed fans in a quad fan configuration. 
 I like to set a slightly lower speed for the inner fans.</I>
 
-<B>
-    <span style=font-size:2EM>
-        5015 Fan Mount
-    </span>
-</B>
+##<B>5015 Fan Mount</B>
 
 Bill of materials:
 - 1x 5015 fan
