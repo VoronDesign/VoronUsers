@@ -40,5 +40,7 @@ Bill of materials (per fan):
 ![5015 Dual](Images/5015_dual.png)  
 
 #### Quad fans
+Quad fans is used more for even airflow than raw airflow. If you were to set the fans to a high speed, you would outrun your bed heater.
+
 <I>(looks a bit tight since CAD is for a 250mm)</I>
 ![5015 Quad](Images/5015_quad.png)  
