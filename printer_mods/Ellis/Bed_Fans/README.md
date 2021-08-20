@@ -1,17 +1,19 @@
+My chamber now reaches about 63C with a quad fan configuration, whereas it only reached rougly 50C previously. Chamber temp is also reached more quickly.
+
 ## <B>Macros</B>
 
-See <B>bedfans.cfg</B> for klipper macros.
-
-The macros will intercept bed heating commands, so you do <I>not</I> need to add anything to your other macros. 
+See <B>bedfans.cfg</B> and <B>bedfans-dualcontrol.cfg</B>* for klipper macros.
 
 * <B>variable_threshold</B> sets the target bed temperature at which your bed fans will activate.
 * <B>variable_slow</B> sets the fan speed for when the bed is heating to the target temp.
 * <B>variable_fast</B> sets the fan speed for when the bed is at temperature.
 
+The macros will intercept bed heating commands, so you do <I>not</I> need to add anything to your other macros. 
+
 Don't forget to change the pin(s) for your fans.
 
-\*<I>bedfans-dualcontrol.cfg allows separate control for inner and outer bed fans in a quad fan configuration. 
-I like to set a slightly lower speed for the inner fans.</I>
+\* <I>Optionally allows for setting inner and outer fan speeds separately, for a quad fan configuration. I like to set my inner fans to be run slightly slower to try and keep the airflow somewhat even.</I>
+
 
 ## <B>5015 Fan Mount</B>
 
