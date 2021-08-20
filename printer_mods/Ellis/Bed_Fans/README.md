@@ -24,11 +24,13 @@ Bill of materials (per fan):
 - 1x M3x8 or M3x10
 - 1x M3 Threaded Insert
 
+
 ![5015 Fan Mount](Images/5015_mount_isolated.png)  
 <B>Dual fans
 
 ![5015 Dual](Images/5015_dual.png)  
 
 Quad fans</B>
+
 <I>(looks a bit tight since CAD is for a 250mm)</I>
 ![5015 Quad](Images/5015_quad.png)  
