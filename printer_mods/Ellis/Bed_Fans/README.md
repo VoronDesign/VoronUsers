@@ -4,7 +4,8 @@ My chamber now reaches about 63C with a quad fan configuration, whereas it only 
 
 Recommended max_power is 0.4 watts per cm<sup>2</sup>.
 
-For example for a 300 mm^2 bed:
+For example, for a 300 mm^2 bed:
+
 30 cm * 30 cm = 900 cm<sup>2</sup>
 900 cm<sup>2</sup> * 0.4 Watts = 360 Watts.
 If you have a 750 watt heater, that's 48% power, or 0.48 max_power.
