@@ -28,5 +28,5 @@ Bill of materials (per fan):
 
 ![5015 Dual](Images/5015_dual.png)  
 
+(looks a bit tight since CAD is for a 250mm)
 ![5015 Quad](Images/5015_quad.png)  
-(a bit tight since CAD is for a 250mm)
