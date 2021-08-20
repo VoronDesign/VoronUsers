@@ -1,4 +1,4 @@
-#<B>Macros</B>
+## <B>Macros</B>
 
 See <B>bedfans.cfg</B> for klipper macros.
 
@@ -13,7 +13,7 @@ Don't forget to change the pin(s) for your fans.
 \*<I>bedfans-dualcontrol.cfg allows separate control for inner and outer bed fans in a quad fan configuration. 
 I like to set a slightly lower speed for the inner fans.</I>
 
-##<B>5015 Fan Mount</B>
+#### <B>5015 Fan Mount</B>
 
 Bill of materials:
 - 1x 5015 fan
