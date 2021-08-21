@@ -44,3 +44,6 @@ Quad fans is used more for even airflow than raw airflow. If you were to set the
 
 <I>(looks a bit tight since CAD is for a 250mm)</I>
 ![5015 Quad](Images/5015_quad.png)  
+
+![5015 Quad Installed](Images/5015_quad_installed.png)  
+
