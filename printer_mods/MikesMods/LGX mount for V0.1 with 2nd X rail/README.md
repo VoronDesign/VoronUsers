@@ -1,6 +1,8 @@
 V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. 
 Already tested the rigidity of the 2nd rail and there is no up and down tool head movement as with just one. 
 
+For the X end stop bumper, one screw is enough, the 2nd is optional and the one holding the extrusion does not need to be removed.
+
 Few additional screws are needed:
 X bumper 1x M3x10 or 1x M3x12
 Y Bumper 1x Mx6
