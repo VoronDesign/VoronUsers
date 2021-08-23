@@ -4,4 +4,6 @@ Modified carriage to:
 * Remove the second MGN9 mount
 * Add optional toolhead X endstop (to allow for umbilical)
 
-![Single_MGN9G_Carriage](Images/Single_MGN9H_Carriage.png)  
+![Single_MGN9G_Carriage](Images/Single_MGN9H_Carriage.png)
+
+![Single_MGN9G_Carriage_Built](Images/Single_MGN9H_Carriage_Built.png)  
