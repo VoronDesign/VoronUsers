@@ -2,9 +2,9 @@
 
 ![Thumbnail](Images/Img.png)
 
-There are already belt driven mods like [theFPVGeek's V0 Z Belt mod](https://github.com/theFPVgeek/VoronUsers/tree/master/printer_mods/theFPVgeek/v0-zbelt-mod) and [MathematicalPotato's adapted version for V0.1](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MathematicalPotato/v0.1_belted_z_drive). This is my attempt to combine the timing belt with a movable pulley system.
+There already are belt-driven mods like [theFPVGeek's V0 Z Belt mod](https://github.com/theFPVgeek/VoronUsers/tree/master/printer_mods/theFPVgeek/v0-zbelt-mod) and [MathematicalPotato's adapted version for V0.1](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MathematicalPotato/v0.1_belted_z_drive). This is my attempt to combine the timing belt with a movable pulley system.
 
-- M4-like driving gear(1:4) with movable pulley on Z bed(1:2), resulting in a 1:8 speed ratio. It provides higher torque and step resolution. The bed doesn't drop when the Z motor is disabled.
+- M4-like driving gear(1:4) with movable pulley on Z bed(1:2), resulting in a 1:8 speed ratio, provides higher torque and step resolution. The bed doesn't drop when the Z motor is disabled.
 - Using a NEMA14 stepper motor (no tight restriction in length) provides another path for V0 to V0.1 upgrade by reusing the Z motor.
 
 ## BOM (Some can be obtained from the original setup)
@@ -38,7 +38,7 @@ There are already belt driven mods like [theFPVGeek's V0 Z Belt mod](https://git
 As shown in the following figure, the belt drive on the motor is a 20T:80T system.
 
 The driven belt path with constant belt length is a movable pulley system with the two belt ends
-fixed at the upper and lower part of the frame.
+fixed at the upper and lower parts of the frame.
 
 ![The Mechanism](./Images/Mechanism.png)
 
@@ -46,20 +46,20 @@ fixed at the upper and lower part of the frame.
 
 ### Assembly of Each Component
 
-Note the places that needs threaded inserts. You can pre-apply them.
+Note the places that need threaded inserts. You can pre-apply them.
 
 1. M4-like driving gear
 
 ![80T Gear](./Images/M4_80T_Gear.png)
 ![M4-like driving gear](./Images/M4.png)
 
-It is very similar to [Voron M4 extruder](https://vorondesign.com/voron_m4). Just mind the placement of the F695 bearings. You can refer to [Nero's video guide](https://www.youtube.com/watch?v=oTCxGellCQk) for details about assembling Voron M4.
+This is very similar to [Voron M4 extruder](https://vorondesign.com/voron_m4). Just mind the placement of the F695 bearings. You can refer to [Nero's video guide](https://www.youtube.com/watch?v=oTCxGellCQk) for details about assembling Voron M4.
 
 2. Bed Holder
 ![Bed Holder](./Images/Bed_Holder.png)
 
 3. Top Idler
-![Top Idler](./Images/Top_Idler.png)
+![Top Idler](./Images/Top_Idler.png)
 
 4. Top Endstop Mount
 ![Top Endstop Mount](./Images/Top_Endstop.png)
@@ -73,7 +73,7 @@ Use the stock Z endstop and the two M2 self tapping screws.
    (Note: If you don't want to take the frame apart, it *can* be mounted without these two nuts but it may be less rigid. Don't tighten the belt too much then. NOT TESTED!)
 ![Preload nuts](./Images/Preload_Nuts.png)
 
-1. Make a loop of one end of the belt and press it into the printed part. Then mount the printed part to the frame with 2 M3x8 screws.
+1. Make a loop on one end of the belt and press it into the printed part. Then mount the printed part to the frame with 2 M3x8 screws.
 ![Lower End](./Images/Lower_End.png)
 
 1. Mount each component to the frame (don't fully tighten up yet). There should be preloaded nuts if you followed the V0.1 manual. The two upper components and their nuts can be slid in from the top.
@@ -81,7 +81,7 @@ Use the stock Z endstop and the two M2 self tapping screws.
 
 1. Route the belt path as shown in the [mechanism figure](#mechanism).
 
-1. Slightly adjust the positions of each component so the bed holder is at the middle of the extrusion and the four marked segments of belt are as parallel to the Z rails as possible.
+1. Slightly adjust the position of each component so the bed holder is at the middle of the extrusion and the four marked segments of the belt are as parallel to the Z rails as possible.
    ![Belt Path](./Images/Belt_Path.png)
 
 1. Belt tensioning.
@@ -92,7 +92,7 @@ Use the stock Z endstop and the two M2 self tapping screws.
 
    ![Upper End](./Images/Top_Belt_End.png)
 
-   (Note: As marked in the figure, keep the top idler mount and endstop mount below the bottom of the horizontal aluminum extrusion, or the mini-AB might crash onto the screw heads or printed parts.)
+   (Note: As marked in the figure, keep the top idler mount and endstop mount below the bottom of the horizontal aluminum extrusion, or the mini-AB might crash into the screw heads or printed parts.)
 
    ![Top Position](./Images/Top_Position.png)
 
