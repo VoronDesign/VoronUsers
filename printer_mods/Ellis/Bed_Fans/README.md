@@ -1,4 +1,4 @@
-My chamber now reaches about 63C with a quad fan configuration, whereas it only reached rougly 50C previously. Chamber temp is also reached more quickly.
+My chamber now reaches about 63C with a quad fan configuration, whereas it stuggled to reach roughly 50C previously. Chamber temp is also reached more quickly.
 
 <B>I do not recommend increasing your bed's max_power to increase heat output.</B> Since you can't control max power at runtime, your bed will run at too high of a power while heating, risking warping your bed. 
 
