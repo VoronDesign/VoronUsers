@@ -1,7 +1,7 @@
 Switchwire Fan Mount without using Tape
 ---------------------------------------
 
-No change to any required file is required. I justed wanted an easy way to mount the 60x20 fan without using tape like suggested in the manual.
+No change to any required file is required. I just wanted an easy way to mount the 60x20 fan without using tape like suggested in the manual.
 
 Required hardware
 -----------------
