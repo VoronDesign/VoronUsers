@@ -37,11 +37,13 @@ I just used generic multi-pack fans. There is no need for anything fancy here.
 
 Triple/quad fans is used more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. 
 
-I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures.
+I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. Quad is likely not worth the extra fan over triple, but I had spares so I went for it.
 
 #### Is "dual control" necessary?
 
 Almost certainly not. I originally set it up that way because it was easier to wire in my particular case. But since I had had it set up that way, I took advantage of it to keep my inner fans running a bit lower since the airflow is more channeled.
+
+Triple fans with "single" control is probably the sanest approach.
 
 #### I insist on running quad fans at 100%, why am I having a bad time?
 
