@@ -37,7 +37,7 @@ I just used generic multi-pack fans. There is no need for anything fancy here.
 
 Triple/quad fans is used more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. 
 
-I personally prefer quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures.
+I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures.
 
 #### I insist on running quad fans at 100%, why am I having a bad time?
 
