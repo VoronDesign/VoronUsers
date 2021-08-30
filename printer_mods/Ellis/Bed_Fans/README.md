@@ -33,17 +33,19 @@ Yes, this is normal. It should recover within 60 seconds. If not, then your fan 
 
 I just used generic multi-pack fans. There is no need for anything fancy here.
 
-#### Should I use dual or triple/quad fans?
+#### Should I use single, dual or triple/quad fans?
 
-Triple/quad fans is used more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. 
+Triple/quad fans is more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. 
 
-I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. Quad is likely not worth the extra fan over triple, but I had spares so I went for it.
+I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. 
+
+Triple fans is probably the sweet spot. I had the spare fans sitting around so I went for quad.
 
 #### Is "dual control" necessary?
 
 Almost certainly not. I originally set it up that way because it was easier to wire in my particular case. But since I had had it set up that way, I took advantage of it to keep my inner fans running a bit lower since the airflow is more channeled.
 
-Triple fans with "single" control is probably the sanest approach.
+Triple fans with "single" control is probably the best balance.
 
 #### I insist on running quad fans at 100%, why am I having a bad time?
 
@@ -86,13 +88,9 @@ Bill of materials (per fan):
 
 ![5015 Fan Mount](Images/5015_mount_isolated.png)  
 
-#### Dual fans
-![5015 Dual](Images/5015_dual.png)  
-
-#### Quad fans
+#### Photos
 
 <i>(looks a bit tight since CAD is for a 250mm)</i>
-![5015 Quad](Images/5015_quad.png)  
-
+![5015 Triple](Images/5015_triple.png)  
 ![5015 Quad Installed](Images/5015_quad_installed.png)  
 
