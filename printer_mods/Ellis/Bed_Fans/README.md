@@ -39,6 +39,10 @@ Triple/quad fans is used more for <i>even</i> airflow than <i>raw</i> airflow. I
 
 I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures.
 
+#### Is "dual control" necessary?
+
+Almost certainly not. I originally set it up that way because it was easier to wire in my particular case. But since I had had it set up that way, I took advantage of it to keep my inner fans running a bit lower since the airflow is more channeled.
+
 #### I insist on running quad fans at 100%, why am I having a bad time?
 
 No. Stop it. Bad.
