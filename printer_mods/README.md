@@ -57,6 +57,7 @@ like so:
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
+| bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic corner clips to allow for easy removal and install of panels | :x: | :grey_question: | :heavy_check_mark: | :x: |
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
@@ -65,12 +66,14 @@ like so:
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
+| christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |claytono|[Fysetc S6 V2 Mount](./claytono/fysetc-s6-v2-mount)| DIN Mount for the Fysetc S6 V2 controller |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 ||[V0 Zip Tie Skirts](./claytono/v0-zip-tie-skirts)|V0 skirts with small loops added along the top to allow zip tyiing cables to them|:heavy_check_mark:|:x:|:x:|:x:
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
 ||[Voron_V0.1_Parts_Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
+|csch0 | [SW Fan Mount No Tape](./csch0/SW_FanMount_No_Tape)| 60x20 Fan Mount for SW without tape| :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
 |DaGlo| [V0.1 Duet 2 Wifi mounting brackets](./DaGlo/Voron_V0_Duet_2_WiFi_Mounting_Brackets/) | Voron 0.1 Mounting brackets with/without RPi 4 | :heavy_check_mark: | :x: | :x: | :x: |
 || [Voron V0 Mean Well power supply bracket (Funssor Kit)](./DaGlo/Voron_V0_MW_PS_Bracket/) | Voron V0 Mean Well power supply bracket (Funssor Kit) | :heavy_check_mark: | :x: | :x: | :x: |
