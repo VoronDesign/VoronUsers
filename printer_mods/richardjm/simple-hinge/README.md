@@ -19,7 +19,7 @@ or
 or
 - M3x40 either threaded or with optional heat set insert
 
-_Note: I've only printed an older version of the M3x50 variant_
+_Note: I've only printed an older version of the M3x50 variant, also I've only allowed 3.2mm for the m3 bolt otherwise the hinge has too much play_
 
 ![Closed](Images/Closed.jpg)
 
