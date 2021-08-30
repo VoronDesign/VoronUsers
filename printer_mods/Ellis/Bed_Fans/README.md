@@ -29,6 +29,21 @@ I did not find it necessary. Bed heaters do not seem to be terribly sensitive to
 
 Yes, this is normal. It should recover within 60 seconds. If not, then your fan speeds are too high.
 
+#### What brand fans should I use?
+
+I just used generic multi-pack fans. There is no need for anything fancy here.
+
+#### Should I use dual or triple/quad fans?
+
+Triple/quad fans is used more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. 
+
+I personally prefer quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures.
+
+#### I insist on running quad fans at 100%, why am I having a bad time?
+
+No. Stop it. Bad.
+
+
 ## <b>Macros and Usage</b>
 
 See <b>bedfans.cfg</b> or <b>bedfans-dualcontrol.cfg</b>* for klipper macros.
@@ -69,7 +84,6 @@ Bill of materials (per fan):
 ![5015 Dual](Images/5015_dual.png)  
 
 #### Quad fans
-Quad fans is used more for even airflow than raw airflow. If you were to set the fans to a high speed, you would outrun your bed heater.
 
 <i>(looks a bit tight since CAD is for a 250mm)</i>
 ![5015 Quad](Images/5015_quad.png)  
