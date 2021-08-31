@@ -23,6 +23,7 @@ There already are belt-driven mods like [theFPVGeek's V0 Z Belt mod](https://git
 - 4 x M3 Hex Nut
 - 3 x M5x20 BHCS/SHCS
 - 3 x M5 Hex Nut
+- 1 x M5 Washer (about 1mm thick, dosen't have to be accurate)
 
 ### Motion
 
