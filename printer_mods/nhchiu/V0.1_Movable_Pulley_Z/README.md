@@ -55,6 +55,8 @@ Note the places that need threaded inserts. You can pre-apply them.
 
 This is very similar to [Voron M4 extruder](https://vorondesign.com/voron_m4). Just mind the placement of the F695 bearings. You can refer to [Nero's video guide](https://www.youtube.com/watch?v=oTCxGellCQk) for details about assembling Voron M4.
 
+The `80T_gear_7mm.stl` provided is a thinner version of the [M4 toothed gear](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_80t_gear.stl) with 7mm of tooth width instead of 9mm to save a little weight and space. Both should work fine here.
+
 2. Bed Holder
 ![Bed Holder](./Images/Bed_Holder.png)
 
