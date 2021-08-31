@@ -50,23 +50,26 @@ Note the places that need threaded inserts. You can pre-apply them.
 
 1. M4-like driving gear
 
-![80T Gear](./Images/M4_80T_Gear.png)
-![M4-like driving gear](./Images/M4.png)
+   ![80T Gear](./Images/M4_80T_Gear.png)
+   ![M4-like driving gear](./Images/M4.png)
 
-This is very similar to [Voron M4 extruder](https://vorondesign.com/voron_m4). Just mind the placement of the F695 bearings. You can refer to [Nero's video guide](https://www.youtube.com/watch?v=oTCxGellCQk) for details about assembling Voron M4.
+   This is very similar to [Voron M4 extruder](https://vorondesign.com/voron_m4). Just mind the placement of the F695 bearings. You can refer to [Nero's video guide](https://www.youtube.com/watch?v=oTCxGellCQk) for details about assembling Voron M4.
 
-The `80T_gear_7mm.stl` provided is a thinner version of the [M4 toothed gear](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_80t_gear.stl) with 7mm of tooth width instead of 9mm to save a little weight and space. Both should work fine here.
+   The `80T_gear_7mm.stl` provided is a thinner version of the [M4 toothed gear](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_80t_gear.stl) with 7mm of tooth width instead of 9mm to save a little weight and space. Both should work here.
 
-2. Bed Holder
-![Bed Holder](./Images/Bed_Holder.png)
+1. Bed Holder
 
-3. Top Idler
-![Top Idler](./Images/Top_Idler.png)
+   ![Bed Holder](./Images/Bed_Holder.png)
 
-4. Top Endstop Mount
-![Top Endstop Mount](./Images/Top_Endstop.png)
-Use the stock Z endstop and the two M2 self tapping screws.
-![Top Endstop Mount](./Images/Top_Endstop2.png)
+1. Top Idler
+
+   ![Top Idler](./Images/Top_Idler.png)
+
+1. Top Endstop Mount
+
+   ![Top Endstop Mount](./Images/Top_Endstop.png)
+   Use the stock Z endstop and the two M2 self tapping screws.
+   ![Top Endstop Mount](./Images/Top_Endstop2.png)
 
 ### Assembly
 
@@ -76,14 +79,17 @@ Use the stock Z endstop and the two M2 self tapping screws.
 ![Preload nuts](./Images/Preload_Nuts.png)
 
 1. Make a loop on one end of the belt and press it into the printed part. Then mount the printed part to the frame with 2 M3x8 screws.
-![Lower End](./Images/Lower_End.png)
+
+   ![Lower End](./Images/Lower_End.png)
 
 1. Mount each component to the frame (don't fully tighten up yet). There should be preloaded nuts if you followed the V0.1 manual. The two upper components and their nuts can be slid in from the top.
-![Top mount](./Images/Top.png)
+
+   ![Top mount](./Images/Top.png)
 
 1. Route the belt path as shown in the [mechanism figure](#mechanism).
 
 1. Slightly adjust the position of each component so the bed holder is at the middle of the extrusion and the four marked segments of the belt are as parallel to the Z rails as possible.
+
    ![Belt Path](./Images/Belt_Path.png)
 
 1. Belt tensioning.
