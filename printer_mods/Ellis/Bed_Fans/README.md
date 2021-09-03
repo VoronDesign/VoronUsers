@@ -38,21 +38,24 @@ Bill of materials (per fan):
 
 #### Can I push it further?
 
-* Technically your bed heater is not being run at full power with the default configs, however I <i>do not recommend pushing it.</i>
-
-* Since you can't control max power at runtime, your bed will run at too high of a power while heating, risking warping your bed. 
+* Technically your bed heater is not being run at full power with the default configs, however I <i>do not recommend pushing it.</i> Since you can't control max power at runtime, your bed will run at too high of a power while heating, risking warping your bed. 
 
 * <i>I also do not recommend tinkering with your verify_heater (thermal runaway protection) settings.</i>
 
 #### What power should I run my bed heater at?
 
-* Recommended max_power is 0.4 watts per cm<sup>2</sup>.
+* Recommended max_power is 0.4 watts per cm<sup>2</sup>:
 
-* For example, for a 300 mm^2 bed:\
-30 cm * 30 cm = 900 cm<sup>2</sup>\
-900 cm<sup>2</sup> * 0.4 Watts = 360 Watts.
+```
+For example, for a 300 mm^2 bed:
 
-* If you have a 750 watt heater, that's 48% power, or 0.48 max_power.
+30 cm * 30 cm = 900 cm^2.
+900 cm^2 * 0.4 Watts = 360 Watts max.
+If you have a 750 watt heater, that's 48% power, or 0.48 max_power.
+```
+
+
+
 
 #### Do I need to PID tune my bed again?
 
@@ -68,17 +71,11 @@ Bill of materials (per fan):
 
 #### Should I use single, dual or triple/quad fans?
 
-* Triple/quad fans is more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. 
-
-* I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. 
-
-* Triple fans is probably the sweet spot. I had the spare fans sitting around so I went for quad.
+* Triple/quad fans is more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. Triple fans is probably the "sweet spot".
 
 #### Is "dual control" necessary?
 
-* Almost certainly not. I originally set it up that way because it was easier to wire in my particular case. But since I had had it set up that way, I took advantage of it to keep my inner fans running a bit lower since the airflow is more channeled.
-
-* Triple fans with "single" control is probably the best balance.
+* Almost certainly not. I originally set it up that way because it was easier to wire in my particular case, so I took advantage of it. Triple fans with "single" control is probably the best balance of cost, complexity, and performance.
 
 #### I insist on running quad fans at 100%, why am I having a bad time?
 
