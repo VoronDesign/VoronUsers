@@ -134,6 +134,7 @@ like so:
 | | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | | [Sturdy Handles](./jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points |:x: |:grey_question:|:heavy_check_mark:|:x:|
 | | [Molex MLX and Microfit 3.0 Bed Connector Mount](./jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors |:x: |:x:|:heavy_check_mark:|:x:|
+| jgehrig | [V0 LCD Touchscreen Skirt](./jgehrig/v0_lcdskirt) | 3.2" LCD Touch Screen Skirt | :heavy_check_mark: | :x: | :x: | :x: |
 | JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: |
