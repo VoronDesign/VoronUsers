@@ -95,9 +95,11 @@ like so:
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
-| Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
+| Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
+| |[Bed Fans](./Ellis/Bed_Fans) | Bed fan control macros and 5015 bed fan mounts | :x: | :x: |:heavy_check_mark: |:x:|
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |:x:|
+| |[Single MGN9H Carriage](./Ellis/Single_MGN9H_Carriage) | Single MGN9H toolhead carriage with umbilical (x endstop) support |:x: |:grey_question: |:heavy_check_mark: |:grey_question:|
 | ElPoPo | [Removable Doors](./ElPoPo/RemovableDoors) | New hinge to easily remove the door and have a wide opening  V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | Empusas | [Power Skirt 2.x FN284-10-06](./Empusas/PowerSkirt_FN284-10-06) | Power Skirt for Schaffner FN284-10-06 V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Mounts for Terminal Blocks NC933 SPL-62](./Empusas/Terminal_Blocks_NC933_SPL-62) | Mounts for Terminal Blocks NC933 and SPL-62 from AliExpress | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question:|
