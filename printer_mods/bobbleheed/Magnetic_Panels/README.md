@@ -14,6 +14,19 @@ This mod allows for the easy removal of the panels on a V2, ideal for switching 
   
 To reduce the number of magnets required, it is possible to install just two or even one per printed part. This has not been tested and the hold strength unknown.
 
+For larger builds or less rigid panels there are also midspan clips which can be used for additional support.
+<br>
+<br>
+BOM (per midspan clip)
+   | Material | Quantity |
+   |----------|----------|
+   | 6x3 Magnets | 4 |
+   | M3x8 SHCS | 1 |
+   | M3 Roll In or Hammerhead T Nuts | 1 |
+   | VHB Tape | | 
+<br>
+
+
 ### Assembly
 
 #### Mount Assembly 
@@ -35,3 +48,6 @@ Pressfit the magnets into the housing ensuring the poles are aligned between the
 ![Magnetic Mount Assembly](./IMAGES/Final_Assembly.png)
 
 The panel can now be pulled straight off the frame for removal, before being replaced with as much ease. 
+
+
+Repeat previous steps as required if fitting midspan clips.
