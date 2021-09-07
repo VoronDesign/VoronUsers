@@ -42,7 +42,7 @@ sudo systemctl disable getty@tty3
 
 ## Add the new splash screen
 
-Let's setup the custom image as your new splash screen. To make the image readable install `fbi`. `fbi` is a framebuffer image viewer.
+To make the image readable install `fbi`. `fbi` is a frame-buffer image viewer.
 
 Install `fbi`
 ```cmd
@@ -72,9 +72,9 @@ StandardOutput=tty
 [Install]
 WantedBy=sysinit.target
 ```
- * `-d/dev/fb0` - Tells the `fbi` which image to display.
+ * `-d/dev/fb0` - Tells `fbi` which image to display.
 
- * `--noverbose` - Suppresses the `fbi` ‘status bar’ at the bottom.
+ * `--noverbose` - Suppresses `fbi` ‘status bar’ at the bottom.
 
  * `-a` - If the selected image is in the proper measurements then no editing is required if not then “-a” will act as editor.
 
