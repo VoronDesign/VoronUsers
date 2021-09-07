@@ -1,7 +1,7 @@
 # Voron Bootscreens
 ![](images/boot_tile.png)
 
-More in the images folder! Feel free to reach out to me on discord [Samwiseg0#4034](https://discord.com/users/Samwiseg0#4034). I will be happy to customize the serial number on any of the splash screens.
+More in the images folder! Feel free to reach out to me on discord [Samwiseg0#4034](https://discord.com/users/210122378317922308). I will be happy to customize the serial number on any of the splash screens.
 
  ## How to remove the text and logo on raspbian buster
 
