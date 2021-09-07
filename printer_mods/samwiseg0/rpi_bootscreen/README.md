@@ -42,10 +42,16 @@ sudo systemctl disable getty@tty3
 
 ## Add the new splash screen
 
-Now place the desired picture as your new splash screen. To make the image readable install fbi, the image reader and the framebuffer. For installation write
+Let's setup the custom image as your new splash screen. To make the image readable install `fbi`. `fbi` is a framebuffer image viewer.
 
+Install `fbi`
+```cmd
 sudo apt install fbi
-It will take a few seconds to install. After this we have to create a file by
+```
+
+It will take a few seconds to install. After this we have to
+create a file by
+
 ```cmd
 sudo nano /etc/systemd/system/splashscreen.service
 ```
