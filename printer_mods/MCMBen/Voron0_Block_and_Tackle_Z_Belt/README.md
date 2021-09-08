@@ -6,7 +6,8 @@ By default this mod uses 40T & 16T pulleys, combining with the 2:1 of the block 
 
 Larger pulleys - up to 64 teeth - can be used to increase this ratio, but will require longer timing belts.
 
-This mod requires a taller skirt than the standard V0, such as hartk1213's extrusion skirt mod or doubletrouble023's skirt mod. The V0.1 skirt has enough height, though a 64T pulley may be a squeeze.
+This mod requires a taller skirt than the standard V0, such as hartk1213's extrusion skirt mod or doubletrouble023's skirt mod.
+The V0.1 skirt has enough height, though a 64T pulley may be a squeeze.
 
+![image](./Images/Block_and_Tackle_Z_Belt.png)
 
-![image](https://user-images.githubusercontent.com/7535373/132533947-01f69361-c3f2-4177-b46b-fbfc95dd8ce9.png)
