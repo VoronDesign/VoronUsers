@@ -123,6 +123,8 @@ like so:
 | | [Voron0_MGN9C_X_Axis](./hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0  | :heavy_check_mark:| :x: | :x: |:x:|
 | | [Voron2.4_Pins_Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|
 | | [Voron2.4_Y_Endstop_Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|
+| | [Voron2.4_GE5C](./hartk1213/Voron2.4_GE5C) | This mod replaces the stack of printed z joints with a metal spherical bearing  | :x:| :x: | :heavy_check_mark: |:x:|
+| | [Voron2.4_SexBolt_ZEndstop](./hartk1213/Voron2.4_SexBolt_ZEndstop) | This mod replaces stock V2 Z endstop with a different style| :x:| :x: | :heavy_check_mark: |:x:|
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Parametric Spool Holder](./henrikssn/parametric_spool_holder) | Spool holder where the length is a parameter. | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:  | :heavy_check_mark:|
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |:x:|
