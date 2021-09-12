@@ -13,6 +13,8 @@ Requirements:
 
 6 x M3x12
 
+![image](Images/TopHathinge_render.png)
+
 ![image](Images/Zoom_open.jpg)
 
 ![image](Images/Tophat_open.jpg)
