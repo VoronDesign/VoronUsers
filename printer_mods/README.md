@@ -189,6 +189,7 @@ like so:
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
 |mpfl |[V0.1 OLED-skirt](./mpfl/V0.1_skirt_OLED) |V0.1 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MrBean66| [SKR Pro DIN Mount](./MrBean66/SKR_PRO_Mount/) |Simple mod to mount the SKR Pro board from BTT to a DIN rails. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: |
