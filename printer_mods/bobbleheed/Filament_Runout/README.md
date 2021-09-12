@@ -22,7 +22,7 @@ The KW10 microswitch can likely be swapped out for an Omron D2F-5L switch or oth
 
 Optionally, wires could be soldered directly to the microswitch negating the need for the JST terminal. 
 
-Also two of the M3x8 and the threade inserts are not required if you do not want to fit a cover over the switch.  
+Also two of the M3x8 and the threaded inserts are not required if you do not want to fit a cover over the switch.  
 <br>
 
 ## Assembly
@@ -37,7 +37,7 @@ Insert the switch into the housing with the lever opening facing the wider of th
 
 ![Cross Section](./IMAGES/Switch_Cross_Section.png)
 
-Place the JST terminal inside close to the switch and affixing with glue, bridge the the terminals of the switch and JST with solder in the NC position. 
+Place the JST terminal inside close to the switch and affixing with glue, bridge the the terminals of the switch and JST with solder in the NO position. 
 
 Create a cable to connect the switch to your controller board. 
 
