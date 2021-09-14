@@ -1,9 +1,6 @@
 # Cricut_Voron_Logos
 This repository is to contain vector files I have created for the Voron community and for my own Voron builds.
 
-## This repository can be downloaded as one large zip file from my Google drive at:
-## https://drive.google.com/file/d/14QIpSQR2A_7X76ElYTESmkU4XZkp02k1/view?usp=sharing
-
 ---
 
 # Puropse of this repository
@@ -17,6 +14,8 @@ The purpose of this repository to share vector files that I have created for my 
 # Link to Cricut Design Space for Voron 2.4 1_Color_Layer:
 ## https://design.cricut.com/landing/project-detail/6137795f68f6f90001d7abfd
 
+# Link to my Repository on Github that contains all files I used to produce the Voron 2.4 1_Color_Layer .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer/Current%20Design%20Files
+
 <img src="https://github.com/GadgetAngel/VoronUsers/blob/master/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_1Color.jpg?raw=true" />
 
 ---
@@ -25,6 +24,8 @@ The purpose of this repository to share vector files that I have created for my 
 
 # Link to Cricut Design Space for Voron 2.4 3_Color_Layer:
 ## https://design.cricut.com/landing/project-detail/6137b53b0b4942000143ea8c
+
+# Link to my Repository on Github that contains all files I used to produce the Voron 2.4 3_Color_Layers .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/3_Color_Layers/Current%20Design%20Files
 
 <img src="https://github.com/GadgetAngel/VoronUsers/blob/master/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_3Color.jpg?raw=true" />
 
