@@ -1,7 +1,7 @@
 # Picam corner mount
 
 About the only place I found to mount the picam with a view low down
-of the bed. This was inspired by the [v0 design by xbst](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/xbst_/V0_Picam)
+of the bed. This was inspired by the [v0 design by xbst](../../xbst_/V0_Picam)
 
 ## Hardware
 
