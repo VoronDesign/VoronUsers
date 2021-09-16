@@ -1,6 +1,7 @@
+# Overview
 A block & tackle Z belt implementation for the Voron 0.
 
-The goal was to make use of the original V0 Z motor and timing belt in a compact format, using hardware and screws already in the BoM where possible.
+The goal was to make use of the original V0 Z motor and timing belt in a compact format, using hardware and screws already in the BoM where possible. No additional M3 nuts need to be preloaded, though two will need to be inserted into one of the Z axis extrusions.
 
 By default this mod uses 40T & 16T pulleys, combining with the 2:1 of the block and tackle, to give a 5:1 ratio.
 
@@ -11,3 +12,35 @@ The V0.1 skirt has enough height, though a 64T pulley may be a squeeze.
 
 ![image](./Images/Block_and_Tackle_Z_Belt_Render.png)
 ![image](./Images/Block_and_Tackle_Z_Belt_Drawing.png)
+
+# BoM
+This BoM doesn't include the 2x self-tapping screws, M3x12 BHCS, and Omron switch for the Z stop, though for clarity it does include some hardware which is reused from the V0 and V0.1 builds.
+## Common
+Component | Quantity
+--- | :-:
+M3x8 BHCS | 2
+M3x10 BHCS | 5
+M3x12 BHCS | 3
+M3x16 BHCS | 6
+M3x25 BHCS | 3
+M3x30 BHCS | 2
+M3 threaded insert | 6
+3x12 pin | 1
+F623 bearing | 6
+F695 2RS bearing | 1
+MF105 bearing | 1
+GT2 16T pulley | 3
+NEMA14 motor | 1
+3x6x0.5 shim | 6
+5x10x0.5 shim (optional) | 2-4
+5x50 shaft | 1
+GATES GT2 open belt | ~700mm
+
+## Timing Belt
+Ratio | Type | Length
+--- | :-: | ---
+5:1 | GATES GT2 | 110mm
+6:1 | GATES GT2 | 122mm
+8:1 | GATES GT2 | 152mm
+&nbsp; | **OR** | &nbsp;
+8:1 | GT2 | 146mm
