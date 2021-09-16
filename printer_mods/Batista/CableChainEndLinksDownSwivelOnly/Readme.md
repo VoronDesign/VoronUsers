@@ -24,7 +24,6 @@ The solution number 2, placing the flexible end on the moving side, will solve a
   My solution is to use an end link that only swivels to one side, exactly the same behavior as a normal link. This constrains the drag chain to not ride up, but does not block the next link from going down. This solves the issues with both solutions mentioned above. 
   
   ![ ](Images/Chain1.jpg)
-  ![ ](Images/Chain2.jpg)
 
 ## Printing it and design choices
 The link has a big chamfer on the bottom where the of the shelf ones are rounded, this is for printability, allows us to print it without any support. In the pictures it's printed in 0.8 width and 0.32 height, but that's just because it was what I had installed at the moment, print it however you like. I did need to file the overhand on the two holes to make it more round, that will depend on your printer and settings, just make sure the link fully snaps in place. 
