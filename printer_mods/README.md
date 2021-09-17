@@ -53,8 +53,8 @@ like so:
 | |[AB-BN Afterburner mod](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
 |Baltojikale | [LoudOwl aka Stabby](./Baltojikale/LoudOwl_aka_Stabby) | Alternative dual 5015 part cooling fan toolhead for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| BladeScraper-Designs | [Microswitch_Pod_With_Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
-| | [Horizontal-Spool-Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
+| BladeScraper-Designs | [Microswitch Pod With Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
+| | [Horizontal Spool Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
@@ -73,7 +73,7 @@ like so:
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 ||[V0 Zip Tie Skirts](./claytono/v0-zip-tie-skirts)|V0 skirts with small loops added along the top to allow zip tyiing cables to them|:heavy_check_mark:|:x:|:x:|:x:
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
-||[Voron_V0.1_Parts_Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
+||[Voron V0.1 Parts Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 |csch0 | [SW Fan Mount No Tape](./csch0/SW_FanMount_No_Tape)| 60x20 Fan Mount for SW without tape| :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
@@ -96,7 +96,7 @@ like so:
 |doubletrouble |[V0 Skirt Mod](./doubletrouble/V0_Skirt_Mod) |V0 Skirt Mod |:heavy_check_mark: |:x: |:x: |:x:|
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
-| |[LED_Bar_Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
+| |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
@@ -119,15 +119,15 @@ like so:
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
 | hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :x: | :x: | :heavy_check_mark: |
-| hartk1213 | [Voron0_deck_panel_with_logo_and_VORON0](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron0_display_dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron0_C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron0_Hinged_Top_Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron0_ExtendedLegs](./hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more  | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron0_ExtrusionSkirt](./hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom   | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron0_MGN9C_X_Axis](./hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0  | :heavy_check_mark:| :x: | :x: |:x:|
-| | [Voron2.4_Pins_Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|
-| | [Voron2.4_Y_Endstop_Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|
+| hartk1213 | [Voron0 deck panel with logo and VORON0](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron0 display dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron0 C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron0 Hinged Top Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron0 ExtendedLegs](./hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more  | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron0 ExtrusionSkirt](./hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom   | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron0 MGN9C X Axis](./hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0  | :heavy_check_mark:| :x: | :x: |:x:|
+| | [Voron2.4 Pins Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|
+| | [Voron2.4 Y Endstop Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Parametric Spool Holder](./henrikssn/parametric_spool_holder) | Spool holder where the length is a parameter. | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:  | :heavy_check_mark:|
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |:x:|
@@ -135,7 +135,7 @@ like so:
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |:x:|
 |hoschi| [FYSETC Spider DIN Rail Mount](./hoschi/FYSETC_Spider_DIN_Mount) | DIN rail mount for FYSETC Spider | :x: | :grey_question: | :heavy_check_mark: | :grey_question: |
-|Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
@@ -158,6 +158,7 @@ like so:
 | Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
+| | [Trident Schurter Inlet Skirt](./KiloQubit/trident_schurter_power_inlet)| Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
 | Koios | [6mm Tempered Glass Mod](./Koios/6mm_Glass) | Lock levers and rests for 6mm Tempered glass panels | :x: | :x:| :heavy_check_mark: | :x: |
 | | [C920 Low Profile Mount](./Koios/C920_Mount) | Low profile mount for a C920 Webcam | :x: | :x: | :heavy_check_mark: | :x: |
@@ -240,8 +241,8 @@ like so:
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |:x:|
-|teookie|[AB_dial_indicator_mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| | [SKR_Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
+|teookie|[AB dial indicator mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| | [SKR Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
 |Tircown| [Display mount 5"](./Tircown/Display_mount_5inch) | Tiltable mount for a 5" tactile display | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Raspberry in plug panel](./Tircown/Raspberry_plug_panel) | Raspberry mount vertically in the plug panel, allow easy access to ports  | :x: | :x: | :heavy_check_mark: | :x: |
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
