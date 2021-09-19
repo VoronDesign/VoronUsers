@@ -9,7 +9,7 @@ cables.
 ## Hardware
 
 - A single m3x25 bolt, m3 washer and t-nut
-- JST-XH 3 way connectors and short cable runs from end to end
+- JST-XH 3 way connectors and short cable runs from end to end (whatever connectors suits your LED strips best)
 - LED strip - I used neopixels but you can use whatever
 - 15.5mm quarter round LED extrusion with diffiser
 - VHB tape if necessary
@@ -33,7 +33,7 @@ fasten a corner or end into the extrusion using the m3x25, t-nut and washer.
 Put the other corner up and run the cable through, putting the bolt in after making sure
 not to crush it.
 
-Attach to the next strip and put the strip in the corner mount /before/ fitting the second
+Attach to the next strip and put the strip in the corner mount _before_ fitting the second
 bolt. This allows the cable more space to fold into the mount. Fit the bolt while holding
 the extrusion up and continue around the printer fitting as many corners or ends as you need. 
 
