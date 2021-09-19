@@ -19,7 +19,7 @@ Fasteners
 
 -2x M3 Threaded Insert
 
-Use Allen key for tension your belt,
+Use Allen key for tensioning your belt,
 You can use brim while printing "Body" part
 
 Have a good prints (:
