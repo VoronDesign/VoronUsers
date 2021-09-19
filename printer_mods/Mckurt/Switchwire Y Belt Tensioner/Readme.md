@@ -22,6 +22,6 @@ Fasteners
 Use Allen key for tensioning your belt,
 You can use brim while printing "Body" part
 
-Have a good prints (:
+Have a good print (:
 
 Photos might be differences then STLs, because of upgrades at latest and tested parts are Ready for your download
