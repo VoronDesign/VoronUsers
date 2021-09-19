@@ -24,4 +24,4 @@ You can use brim while printing "Body" part
 
 Have a good print (:
 
-Photos might be differences then STLs, because of upgrades at latest and tested parts are Ready for your download
+Photos might be different from STLs because of updates.  Latest and tested parts are ready for your download.
