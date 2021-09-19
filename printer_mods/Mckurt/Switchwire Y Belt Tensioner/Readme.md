@@ -1,4 +1,4 @@
-![parts](Images/mod.png)
+![parts](Images/mod.jpg)
 ![parts](Images/asembly.jpg)
 
 This mod for Voron Switchwires Y axis Belt tension, you dont need cut panels
