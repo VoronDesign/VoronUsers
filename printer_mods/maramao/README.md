@@ -1,6 +1,6 @@
 # BTT piTFT43 v2 Mount
 
-this is a quick remix based on the work of alanho [BTT_PITFT50_v2_Mount] (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount) 
+This is a quick remix based on the work of alanho [BTT_PITFT50_v2_Mount] (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount) 
 to fit on the screen mount of [sttts's Waveshare 5.5inch mount] (https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED)
 to use the BTT piTFT43 
 
