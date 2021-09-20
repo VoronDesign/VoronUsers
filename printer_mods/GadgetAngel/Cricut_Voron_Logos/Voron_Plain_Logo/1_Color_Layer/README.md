@@ -2,6 +2,8 @@
 
 ---
 
+# For "Voron Plain Logo with 1 Color" to be used by ANY Voron Build
+
 # Link Cricut Design Space for "Voron Plain Logo 1_Color_Layer":
 ## https://design.cricut.com/landing/project-detail/6137b8cce6ad93000134232e
 
