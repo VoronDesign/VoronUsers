@@ -9,6 +9,9 @@ to use the BTT piTFT43
 - 4x M2.5x4mm (included in the BTT PITFT50 v2)
 - 500mm ~ 600mm Ribbon Flat Cable for Raspberry Pi Camera (depends on the position of the Raspberry Pi. The included one is too short)
 
-## Instrucions
+## Instructions
 Use the mount in [sttts's mods] (https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl) to mount this to the frame.
 
+![Mount side view](Pictures/1.jpg)
+![Mount front view](Pictures/2.jpg)
+![Display](Pictures/3.jpg)
