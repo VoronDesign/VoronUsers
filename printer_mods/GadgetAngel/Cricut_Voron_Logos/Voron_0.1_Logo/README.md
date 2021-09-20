@@ -13,7 +13,7 @@
 
 ---
 
-# For "Voron 0.1 Build with 1 Color and without LOGO Outline"
+# For "Voron 0.1 Build with 1 Color and without LOGO Outline" with a Silhouette Layer
 
 # Link for "Voron 0.1 1Color_WithOut_Logo_Outline_With_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147bad19e2fcb000119bb71
@@ -24,7 +24,7 @@
 
 ---
 
-# For "Voron 0.1 Build with 1 Color and without LOGO Outline"
+# For "Voron 0.1 Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
 # Link for "Voron 0.1 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147bc71d61aad00013c14f6

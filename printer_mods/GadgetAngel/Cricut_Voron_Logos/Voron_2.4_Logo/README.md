@@ -13,7 +13,7 @@
 
 ---
 
-# For "Voron 2.4 Build with 1 Color and Without LOGO outline"
+# For "Voron 2.4 Build with 1 Color and Without LOGO outline" with a Silhouette Layer
 
 # Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette":
 ## https://design.cricut.com/landing/project-detail/614501c2623cde00018a4fe6
@@ -25,7 +25,7 @@
 
 ---
 
-# For "Voron 2.4 Build with 1 Color and Without LOGO outline"
+# For "Voron 2.4 Build with 1 Color and Without LOGO outline" WITHOUT the Silhouette Layer
 
 # Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette":
 ## https://design.cricut.com/landing/project-detail/614502f434e2330001c7de37

@@ -21,7 +21,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For "Voron 2.4 Build with 1 Color and Without LOGO outline"
+# For "Voron 2.4 Build with 1 Color and Without LOGO outline" with a Silhouette Layer
 
 # Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette":
 ## https://design.cricut.com/landing/project-detail/614501c2623cde00018a4fe6
@@ -33,7 +33,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For "Voron 2.4 Build with 1 Color and Without LOGO outline"
+# For "Voron 2.4 Build with 1 Color and Without LOGO outline" WITHOUT the Silhouette Layer
 
 # Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette":
 ## https://design.cricut.com/landing/project-detail/614502f434e2330001c7de37
@@ -68,7 +68,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For "Voron 0.1 Build with 1 Color and without LOGO Outline"
+# For "Voron 0.1 Build with 1 Color and without LOGO Outline" with a Silhouette Layer
 
 # Link for "Voron 0.1 1Color_WithOut_Logo_Outline_With_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147bad19e2fcb000119bb71
@@ -79,7 +79,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For "Voron 0.1 Build with 1 Color and without LOGO Outline"
+# For "Voron 0.1 Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
 # Link for "Voron 0.1 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147bc71d61aad00013c14f6
@@ -103,7 +103,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For "Voron Switch Wire Build with 1 Color and without LOGO Outline"
+# For "Voron Switch Wire Build with 1 Color and without LOGO Outline" with a Silhouette Layer
 
 # Link for "Voron Switch Wire 1Color_WithOut_Logo_Outline_With_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147c7da7e75d400012c4684
@@ -114,7 +114,7 @@ The purpose of this repository to share vector files that I have created for my 
 
 ---
 
-# For "Voron Switch Wire Build with 1 Color and without LOGO Outline"
+# For "Voron Switch Wire Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
 # Link for "Voron Switch Wire 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147c95a2a3d570001fae277

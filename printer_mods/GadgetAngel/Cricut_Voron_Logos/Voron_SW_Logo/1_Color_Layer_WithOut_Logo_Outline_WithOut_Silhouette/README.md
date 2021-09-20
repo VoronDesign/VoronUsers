@@ -2,7 +2,7 @@
 
 ---
 
-# For "Voron Switch Wire Build with 1 Color and without LOGO Outline"
+# For "Voron Switch Wire Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
 # Link for "Voron Switch Wire 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
 ## https://design.cricut.com/landing/project-detail/6147c95a2a3d570001fae277
