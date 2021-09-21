@@ -6,4 +6,4 @@ Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge.
 
 ![Rails_Installed](IMAGES/Rails_installed.JPG)
 
-![Installed](IMAGES/Rail_with_idler.JPG)
+![Installed](IMAGES/Rail_with_idler.jpg)
