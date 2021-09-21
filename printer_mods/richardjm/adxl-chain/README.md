@@ -1,4 +1,4 @@
-# Picam corner mount
+# WIP: ADXL345 GY-291 Cable mount
 
 **WARNING: Dupont connectors can foul with your z-chain when homing, solder wires directly or ensure you have clearance.**
 
