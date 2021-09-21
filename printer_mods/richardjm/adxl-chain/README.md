@@ -1,6 +1,6 @@
 # Picam corner mount
 
-*** WARNING: Dupont connectors can foul with your z-chain when homing, solder wires directly or solve in another way ***
+**WARNING: Dupont connectors can foul with your z-chain when homing, solder wires directly or ensure you have clearance.**
 
 ![The damage](Images/TheDamage.jpg)
 
