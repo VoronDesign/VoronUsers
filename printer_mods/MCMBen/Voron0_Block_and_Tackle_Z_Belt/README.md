@@ -1,7 +1,7 @@
 # Overview
-A block & tackle Z belt implementation for the Voron 0.
+A block & tackle Z belt implementation for the Voron 0 / Voron 0.1.
 
-The goal was to make use of the original V0 Z motor and timing belt in a compact format, using hardware and screws already in the BoM where possible. No additional M3 nuts need to be preloaded, though two will need to be inserted into one of the Z axis extrusions.
+The goal was to make use of the original V0 Z motor and timing belt in a compact format, using hardware and screws already in the V0.1 BoM where possible. No additional M3 nuts need to be preloaded - so no disassembly of the frame - though two will need to be inserted into one of the Z axis extrusions.
 
 By default this mod uses 40T & 16T pulleys, combining with the 2:1 of the block and tackle, to give a 5:1 ratio.
 
@@ -10,7 +10,7 @@ Larger pulleys - up to 64 teeth - can be used to increase this ratio, but will r
 This mod requires a taller skirt than the standard V0, such as hartk1213's extrusion skirt mod or doubletrouble023's skirt mod.
 The V0.1 skirt has enough height, though a 64T pulley may be a squeeze.
 
-Currently only the V0.1 bed mount is supported. I'll add a V0 version shortly.
+Both the V0 and V0.1 bed positions are now supported - just print the appropriate bed_front_\*.stl file.
 
 ![image](./Images/Block_and_Tackle_Z_Belt_Render.png)
 ![image](./Images/Block_and_Tackle_Z_Belt_Drawing.png)
