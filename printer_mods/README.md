@@ -134,6 +134,8 @@ like so:
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |:x:|
 |hoschi| [FYSETC Spider DIN Rail Mount](./hoschi/FYSETC_Spider_DIN_Mount) | DIN rail mount for FYSETC Spider | :x: | :grey_question: | :heavy_check_mark: | :grey_question: |
+|hymness1| [Quickdraw_probe_Voron_Switchwire](./hymness1/Quickdraw_probe_Voron_Switchwire) | Detachable magnetic probe with docking system for VSW | :x: | :x: | :x: | :heavy_check_mark: |
+| | [10x11mm_chain_VSW](./hymness1/10x11mm_chain_VSW) | Printable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
