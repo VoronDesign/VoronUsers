@@ -10,6 +10,8 @@ Larger pulleys - up to 64 teeth - can be used to increase this ratio, but will r
 This mod requires a taller skirt than the standard V0, such as hartk1213's extrusion skirt mod or doubletrouble023's skirt mod.
 The V0.1 skirt has enough height, though a 64T pulley may be a squeeze.
 
+Currently only the V0.1 bed mount is supported. I'll add a V0 version shortly.
+
 ![image](./Images/Block_and_Tackle_Z_Belt_Render.png)
 ![image](./Images/Block_and_Tackle_Z_Belt_Drawing.png)
 
