@@ -5,7 +5,7 @@ For the X end stop bumper, one screw is enough, the 2nd is optional and the one 
 
 Few additional screws are needed:
 - X bumper 1x M3x10 or 1x M3x12
- -Y Bumper 1x Mx6
+- Y Bumper 1x Mx6
 
 Strain Relief 
  -2x M3x8
