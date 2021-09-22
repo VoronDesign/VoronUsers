@@ -6,7 +6,7 @@
 
 This is an in-development mod for mounting the ADXL permanently. It moves your drag chain up by 5.5mm on the motor.
 
-![CAD](Images/CAD.jpg)
+![CAD](Images/CAD.png)
 
 A previous version had the ADXL mounted further right using a third corner of the motor but this fouls the x drag chain when X approaches 0.
 
