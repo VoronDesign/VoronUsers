@@ -13,6 +13,7 @@ A previous version had the ADXL mounted further right using a third corner of th
 ## Hardware
 
 - ADXL345 GY-291 board (21mm by 16mm)
-- M3x8 BHCS
+- M3x6 BHCS
+- M3 Nylon washer (optional)
 - M3 Threaded Insert * 4 or 5 (IGUS or Generic)
-- DO NOT USE dupont on the ADXL board, ensure you have clearance when homing or solder wires directly
+- DO NOT USE dupont on the ADXL board, ensure you have clearance when homing using JST XH connectors or solder wires directly
