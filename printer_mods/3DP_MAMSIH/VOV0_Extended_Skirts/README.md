@@ -1,6 +1,6 @@
 # VOV0 Extended skirts with minimal display
 ## Description 
-extended skirts with more than 15mm to allow put any motor size for the Z-Axis and not just sticking with one option i use a regulair motor with integrated lead screw 
+extended skirts with more than 15mm to allow me use any motor size for the Z-Axis and not just sticking with one option i use a regulair motor with integrated lead screw 
 of 38mm , more than that so i can use the front for adding a display with rotary knob , minimal display.
 
 ![V0 1 v4](https://user-images.githubusercontent.com/70104136/134428953-ea42ec26-fc77-484b-8fd5-7e1ff1d7ee43.png)
