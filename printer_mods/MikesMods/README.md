@@ -1,1 +1,1 @@
-Few mods for V0.1 and Trident
+Few mods for V0.1
