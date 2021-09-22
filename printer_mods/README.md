@@ -155,9 +155,9 @@ like so:
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: |
-| Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: |
-| | [Fan for V2-200mm²](./khay/V2-200_4020_Electronics_Fan) | Middle Skirt for V2-200mm² Electronics Compartment | :x: | :x: | :heavy_check_mark: | :x: |
-| | [3x Keystone PlugPanel](./khay/V2_3x_Keystone_Plugpanel) | PlugPanel with Options for 3 Keystones | :x: | :x: | :heavy_check_mark: | :x: |
+| Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| | [Fan for V2-200mm²](./khay/V2-200_4020_Electronics_Fan) | Middle Skirt for V2-200mm² Electronics Compartment | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| | [3x Keystone PlugPanel](./khay/V2_3x_Keystone_Plugpanel) | PlugPanel with Options for 3 Keystones | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
 | | [Trident Schurter Inlet Skirt](./KiloQubit/trident_schurter_power_inlet)| Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet | :x: | :x: | :x: | :x: | :heavy_check_mark: |
