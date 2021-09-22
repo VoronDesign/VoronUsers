@@ -30,7 +30,9 @@ The Carriage Backplate can be optional mounted with 3 M2x16 screws to the carria
 
 You will also need 1x 150mm MGN7, I don't recommend w/o the 2nd rail, even with good rail, the tool head will wobble after a while even with original mini AB.
 
-
+![PIC](LGX_0_1.png)
+![PIC](LGX_0_2.png)
+![PIC](LGX_0.png)
 ![PIC](LGX_3.png)
 ![PIC](LGX_4.png)
 ![PIC](LGX_1.png)
