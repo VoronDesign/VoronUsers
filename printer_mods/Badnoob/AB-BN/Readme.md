@@ -64,6 +64,7 @@ This version of the afterburner fan and duct is a drop in replacement to the spe
 \* Cleaner airflow for better overhangs
 
 ### CHANGE Log
+Added support for Zodiac BMO and BMS
 Removed support for Slice.
 
 Added step file for AB-BN-30
@@ -131,6 +132,14 @@ Everyone will need:
   ##### Phaetus BMO:
 * AB-BN-30_Hotend-Phaetus_BMO-front.stl
 * AB-BN-30_Hotend-Phaetus_BMO-back.stl
+
+  ##### Zodiac BMS:
+* AB-BN-30_Hotend-Zodiac_BMS-front.stl
+* AB-BN-30_Hotend-Zodiac_BMS-back.stl
+
+  ##### Zodiac BMO:
+* AB-BN-30_Hotend-Zodiac_BMO-front.stl
+* AB-BN-30_Hotend-Zodiac_BMO-back.stl
 
   #####   E3DV6:
 * AB-BN-28_Hotend-E3Dv6-front.stl
