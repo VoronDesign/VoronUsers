@@ -8,7 +8,7 @@ Few additional screws are needed:
 - Y Bumper 1x Mx6
 
 Strain Relief 
- -2x M3x8
+- 2x M3x8
 
 Carriage Backplate 
 - 1x M3x6 
