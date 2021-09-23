@@ -173,6 +173,7 @@ like so:
 | | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
+|MikesMods|[LGX_mount_for_V0.1_with_2nd_X_rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
