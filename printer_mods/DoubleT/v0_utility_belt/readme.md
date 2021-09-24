@@ -2,8 +2,8 @@
 
 to be updated soon!
 
-![image1](./images/image1.png)
+![image0](./images/image0.png)
 
-![image2](./images/image2.png)
+![image1](./images/image1.jpeg)
 
-![image2](./images/image2.png)
+![image2](./images/image2.jpeg)
