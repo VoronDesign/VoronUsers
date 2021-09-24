@@ -8,7 +8,7 @@ This is an in-development mod for mounting the ADXL permanently. It moves your d
 
 ![CAD](Images/CAD.png)
 
-A previous version had the ADXL mounted further right using a third corner of the motor but this fouls the x drag chain when X approaches 0.
+![Clearance](Images/Clearance.jpg)
 
 ## Hardware
 
@@ -17,3 +17,11 @@ A previous version had the ADXL mounted further right using a third corner of th
 - M3 Nylon washer (optional)
 - M3 Threaded Insert * 4 or 5 (IGUS or Generic)
 - DO NOT USE dupont on the ADXL board, ensure you have clearance when homing using JST XH connectors or solder wires directly
+
+## Ideas that didn't work
+
+- Dupont connectors on the ADXL board are too tall and foul the drag chain when homing.
+- Attempting to use the three motor mounts doesn't work. Using the top hole would interfere with the drag chain as it's closer to the motor than the bolt. Using the bottom hole fouls the drag chain when X approaches 0.
+- Using M3x8 bolts on the board moves the board closer to the back risking fouling with JST-XH connectors - would probably be ok if soldering wires directly.
+- Attempting to not move the drag chain mounting up the motor doesn't give clearance as X approaches 0 for the board, it's too close to the bottom of the motor.
+- Flipping the drag chain mount so it's level with the top of the motor instead of moving it up just makes the radius of the drag chain tighter and more awkward to fit.
