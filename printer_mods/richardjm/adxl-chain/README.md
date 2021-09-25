@@ -1,4 +1,4 @@
-# WIP: ADXL345 GY-291/Adafruit Cable mount
+# ADXL345 GY-291/Adafruit Cable chain anchor mount
 
 **WARNING: Dupont connectors can foul with your z-chain when homing, solder wires directly or ensure you have clearance.**
 
