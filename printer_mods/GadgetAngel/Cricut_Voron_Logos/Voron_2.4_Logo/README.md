@@ -10,7 +10,7 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 Build with 1 Color":
-![Voron2.4 1Color](./images/Voron2.4_1Color.jpg)
+![Voron2.4 1Color](../images/Voron2.4_1Color.jpg)
 
 ---
 
@@ -22,7 +22,7 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron 2.4 Build with 1 Color and Without LOGO outline" with a Silhouette Layer:
-![Voron2.4 1Color WithOut Logo Outline With Silhouette](./images/Voron2.4_1Color_WithOut_Logo_Outline_With_Silhouette.jpg)
+![Voron2.4 1Color WithOut Logo Outline With Silhouette](../images/Voron2.4_1Color_WithOut_Logo_Outline_With_Silhouette.jpg)
 
 ---
 
@@ -34,7 +34,7 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette and BackPanel":
-![Voron2.4 1Color WithOut Logo Outline WithOut Silhouette](./images/Voron2.4_1Color_WithOut_Logo_Outline_WithOut_Silhouette.jpg)
+![Voron2.4 1Color WithOut Logo Outline WithOut Silhouette](../images/Voron2.4_1Color_WithOut_Logo_Outline_WithOut_Silhouette.jpg)
 
 ---
 
@@ -46,5 +46,5 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 3_Color_Layers" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/3_Color_Layers/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 Build with 3 Colors":
-![Voron2.4 3Color](./images/Voron2.4_3Color.jpg)
+![Voron2.4 3Color](../images/Voron2.4_3Color.jpg)
 

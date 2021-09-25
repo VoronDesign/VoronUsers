@@ -10,4 +10,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 Build with 1 Color":
-![Voron2.4 1Color](../images/Voron2.4_1Color.jpg)
+![Voron2.4 1Color](../../images/Voron2.4_1Color.jpg)

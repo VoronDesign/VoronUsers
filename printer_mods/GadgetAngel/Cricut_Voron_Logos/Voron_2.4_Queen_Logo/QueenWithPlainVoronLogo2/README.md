@@ -10,4 +10,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 QueenWithPlainVoronLogo2" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/QueenWithPlainVoronLogo2/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 QueenWithPlainVoronLogo2":
-![QueenWithPlainVoronLogo2](../images/QueenWithPlainVoronLogo2.png)
+![QueenWithPlainVoronLogo2](../../images/QueenWithPlainVoronLogo2.png)

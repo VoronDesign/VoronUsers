@@ -10,7 +10,7 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Cricut_Voron2.4Logo_BackPanel" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/Cricut_Voron2.4Logo_BackPanel/Current%20Design%20Files
 
 ### Picture of "Cricut_Voron2.4Logo_BackPanel":
-![Voron2.4 3Color](./images/Voron2.4_3Color.jpg)
+![Voron2.4 3Color](../images/Voron2.4_3Color.jpg)
 
 ---
 
@@ -22,7 +22,7 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 QueenWithComplexVoronLogo" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/QueenWithComplexVoronLogo/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 QueenWithComplexVoronLogo":
-![QueenWithComplexVoronLogo](./images/QueenWithComplexVoronLogo.jpg)
+![QueenWithComplexVoronLogo](../images/QueenWithComplexVoronLogo.jpg)
 
 ---
 
@@ -34,7 +34,7 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 QueenWithPlainVoronLogo" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/QueenWithPlainVoronLogo/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 QueenWithPlainVoronLogo":
-![QueenWithPlainVoronLogo](./images/QueenWithPlainVoronLogo.png)
+![QueenWithPlainVoronLogo](../images/QueenWithPlainVoronLogo.png)
 
 ---
 
@@ -46,4 +46,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 QueenWithPlainVoronLogo2" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/QueenWithPlainVoronLogo2/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 QueenWithPlainVoronLogo2":
-![QueenWithPlainVoronLogo2](./images/QueenWithPlainVoronLogo2.png)
+![QueenWithPlainVoronLogo2](../images/QueenWithPlainVoronLogo2.png)
