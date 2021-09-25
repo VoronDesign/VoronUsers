@@ -10,5 +10,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Switch Wire 1Color_WithOut_Logo_Outline_With_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_SW_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron Switch Wire Build with 1 Color and without LOGO Outline" with a Silhouette Layer:
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Cricut_VoronSW_Logo_RearPanel_1Layer_WithOut_Logo_Outline_With_Silhouette.jpg?raw=true" />
-
+![Cricut VoronSW Logo RearPanel 1Layer WithOut Logo Outline With Silhouette](../images/Cricut_VoronSW_Logo_RearPanel_1Layer_WithOut_Logo_Outline_With_Silhouette.jpg)

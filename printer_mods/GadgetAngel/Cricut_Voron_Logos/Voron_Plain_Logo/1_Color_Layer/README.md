@@ -10,4 +10,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Plain Logo 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron%20Plain%20Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron Plain Logo with 1 Color":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron_Design_Plain_Logo.jpg?raw=true" />
+![Voron Design Plain Logo](../images/Voron_Design_Plain_Logo.jpg)

@@ -10,5 +10,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Cricut_Voron2.4Logo_BackPanel" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/Cricut_Voron2.4Logo_BackPanel/Current%20Design%20Files
 
 ### Picture of "Cricut_Voron2.4Logo_BackPanel":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_3Color.jpg?raw=true" />
-
+![Voron2.4 3Color](../images/Voron2.4_3Color.jpg)

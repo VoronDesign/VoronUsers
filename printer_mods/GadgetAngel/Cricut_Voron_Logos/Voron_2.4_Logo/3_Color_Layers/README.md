@@ -10,4 +10,5 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 3_Color_Layers" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/3_Color_Layers/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 Build with 3 Colors":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_3Color.jpg?raw=true" />
+![Voron2.4 3Color](../images/Voron2.4_3Color.jpg)
+

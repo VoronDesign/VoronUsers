@@ -3,9 +3,9 @@ This repository contains vector files I have created for the Voron community and
 
 ---
 
-# Puropse of this repository
+# Purpose of this repository
 
-The purpose of this repository to share vector files that I have created for my Voron Builds.
+The purpose of this repository is to share vector files that I have created for my Voron Builds.
 
 ---
 ---
@@ -18,7 +18,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 Build with 1 Color":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_1Color.jpg?raw=true" />
+![Voron2.4 1 Color](images/Voron2.4_1Color.jpg)
 
 ---
 
@@ -30,7 +30,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron 2.4 Build with 1 Color and Without LOGO outline" with a Silhouette Layer:
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_1Color_WithOut_Logo_Outline_With_Silhouette.jpg?raw=true" />
+![Voron2.4 1Color WithOut Logo Outline With Silhouette](images/Voron2.4_1Color_WithOut_Logo_Outline_With_Silhouette.jpg)
 
 ---
 
@@ -42,7 +42,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette and BackPanel":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_1Color_WithOut_Logo_Outline_WithOut_Silhouette.jpg?raw=true" />
+![Voron2.4 1Color WithOut Logo Outline WithOut Silhouette](images/Voron2.4_1Color_WithOut_Logo_Outline_WithOut_Silhouette.jpg)
 
 ---
 
@@ -54,7 +54,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 3_Color_Layers" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/3_Color_Layers/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 Build with 3 Colors":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron2.4_3Color.jpg?raw=true" />
+![Voron2.4 3Color](images/Voron2.4_3Color.jpg)
 
 ---
 ---
@@ -67,7 +67,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 0.1 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_0.1_Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron 0.1 Build with 1 Color":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Combined_Red_Path_300ppi.png?raw=true" />
+![Combined Red Path 300ppi](images/Combined_Red_Path_300ppi.png)
 
 ---
 
@@ -79,7 +79,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 0.1 1Color_WithOut_Logo_Outline_With_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_0.1_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron 0.1 Build with 1 Color and without LOGO Outline" with a Silhouette Layer:
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron0.1_withOut_Logo_Outline_With_Silhouette.jpg?raw=true" />
+![Voron0.1 withOut Logo Outline With Silhouette](images/Voron0.1_withOut_Logo_Outline_With_Silhouette.jpg)
 
 ---
 
@@ -91,7 +91,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 0.1 1Color_WithOut_Logo_Outline_WithOut_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_0.1_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron 0.1 1Color_WithOut_Logo_Outline_WithOut_Silhouette and BackPanel":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron0.1_withOut_Logo_Outline_WithOUT_Silhouette_and_BackPanel.jpg?raw=true" />
+![Voron0.1 withOut Logo Outline WithOUT Silhouette and BackPanel](images/Voron0.1_withOut_Logo_Outline_WithOUT_Silhouette_and_BackPanel.jpg)
 
 ---
 ---
@@ -104,7 +104,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Switch Wire 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_SW_Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron Switch Wire Build with 1 Color":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Cricut_VoronSW_Logo_RearPanel_1Layer.jpg?raw=true" />
+![Cricut VoronSW Logo RearPanel 1Layer](images/Cricut_VoronSW_Logo_RearPanel_1Layer.jpg)
 
 ---
 
@@ -116,7 +116,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Switch Wire 1Color_WithOut_Logo_Outline_With_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_SW_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron Switch Wire Build with 1 Color and without LOGO Outline" with a Silhouette Layer:
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Cricut_VoronSW_Logo_RearPanel_1Layer_WithOut_Logo_Outline_With_Silhouette.jpg?raw=true" />
+![Cricut VoronSW Logo RearPanel 1Layer WithOut Logo Outline With Silhouette](images/Cricut_VoronSW_Logo_RearPanel_1Layer_WithOut_Logo_Outline_With_Silhouette.jpg)
 
 ---
 
@@ -128,7 +128,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Switch Wire 1Color_WithOut_Logo_Outline_WithOut_Silhouette" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_SW_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files
 
 ### Picture of "Voron Switch Wire 1Color_WithOut_Logo_Outline_WithOut_Silhouette and BackPanel":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Cricut_VoronSW_Logo_RearPanel_1Layer_WithOut_Logo_Outline_WithOUT_Silhouette_and_BackPanel.jpg?raw=true" />
+![Cricut VoronSW Logo RearPanel 1Layer WithOut Logo Outline WithOUT Silhouette and BackPanel](images/Cricut_VoronSW_Logo_RearPanel_1Layer_WithOut_Logo_Outline_WithOUT_Silhouette_and_BackPanel.jpg)
 
 ---
 ---
@@ -141,7 +141,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Plain Logo 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron%20Plain%20Logo/1_Color_Layer/Current%20Design%20Files
 
 ### Picture of "Voron Plain Logo with 1 Color":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/Voron_Design_Plain_Logo.jpg?raw=true" />
+![Voron Design Plain Logo](images/Voron_Design_Plain_Logo.jpg)
 
 ---
 ---
@@ -154,7 +154,7 @@ The purpose of this repository to share vector files that I have created for my 
 ### Link to my Repository on Github that contains all files I used to produce the "Voron 2.4 QueenWithPlainVoronLogo2" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Queen_Logo/QueenWithPlainVoronLogo2/Current%20Design%20Files
 
 ### Picture of "Voron 2.4 QueenWithPlainVoronLogo2":
-<img src="https://github.com/GadgetAngel/VoronUsers/blob/Cricut_Voron_Logos_by_GadgetAngel/printer_mods/GadgetAngel/Cricut_Voron_Logos/images/QueenWithPlainVoronLogo2.png?raw=true" />
+![QueenWithPlainVoronLogo2](images/QueenWithPlainVoronLogo2.png)
 
 ---
 
