@@ -7,7 +7,7 @@
 ### Link Cricut Design Space for "Voron Plain Logo 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137b8cce6ad93000134232e
 
-### Link to my Repository on Github that contains all files I used to produce the "Voron Plain Logo 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron%20Plain%20Logo/1_Color_Layer/Current%20Design%20Files
+### Link to my Repository on Github that contains all files I used to produce the "Voron Plain Logo 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_Plain_Logo/1_Color_Layer/Current_Design_Files
 
 ### Picture of "Voron Plain Logo with 1 Color":
 ![Voron Design Plain Logo](../../images/Voron_Design_Plain_Logo.jpg)
