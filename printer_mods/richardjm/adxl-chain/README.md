@@ -4,7 +4,9 @@
 
 ![The damage](Images/TheDamage.jpg)
 
-This is an in-development mod for mounting the ADXL permanently. It moves your drag chain up by 5.5mm on the motor.
+This is a mod for mounting the ADXL permanently. It moves your drag chain up by 5.5mm on the motor.
+
+From testing this mount eliminates the Z component when measuring the Y resonance.
 
 ![CAD](Images/CAD.png)
 
@@ -12,13 +14,15 @@ Check for clearance at the limits of movement
 
 ![Clearance](Images/Clearance.jpg)
 
+Clearance cad check for Adafruit board.
+
 ![CAD-Adafruit](Images/CAD-Adafruit.png)
 
 ## Hardware
 
 - ADXL345 GY-291 board (21mm by 16mm) or Adafruit board (1in by 0.8in)
 - M3x6 BHCS
-- M3 Nylon washer (optional)
+- M3 Nylon/Printed washer (optional)
 - M3 Threaded Insert * 4 or 5 (IGUS or Generic)
 - DO NOT USE dupont on the ADXL board, ensure you have clearance when homing using JST XH connectors or solder wires directly
 
