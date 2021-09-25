@@ -1,4 +1,4 @@
-# WIP: ADXL345 GY-291 Cable mount
+# WIP: ADXL345 GY-291/Adafruit Cable mount
 
 **WARNING: Dupont connectors can foul with your z-chain when homing, solder wires directly or ensure you have clearance.**
 
@@ -8,11 +8,15 @@ This is an in-development mod for mounting the ADXL permanently. It moves your d
 
 ![CAD](Images/CAD.png)
 
+Check for clearance at the limits of movement
+
 ![Clearance](Images/Clearance.jpg)
+
+![CAD-Adafruit](Images/CAD-Adafruit.png)
 
 ## Hardware
 
-- ADXL345 GY-291 board (21mm by 16mm)
+- ADXL345 GY-291 board (21mm by 16mm) or Adafruit board (1in by 0.8in)
 - M3x6 BHCS
 - M3 Nylon washer (optional)
 - M3 Threaded Insert * 4 or 5 (IGUS or Generic)
