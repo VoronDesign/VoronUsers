@@ -19,7 +19,7 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: |`
+| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: | :x:|`
 
 ---
 
@@ -60,6 +60,7 @@ like so:
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
 | bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic clips to allow for easy removal and installation of panels | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | | [Filament Runout Sensor](./bobbleheed/Filament_Runout) | Filament runout sensor that replaces the stock bowden retainer | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
+|Boingomw|[Wago mount](./Boingomw/Wago_mount)| Smaller 5 port Wago mount that fits parallel to the support rails |:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
@@ -112,6 +113,7 @@ like so:
 |  | [Voron 2.4 cable clamps](./evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring on your build | :x: | :x: | :heavy_check_mark: |:x:|
 | falo | [Magnetic Exhaust Grill Cover](./falo/magnetic_grill_cover) | A magnetic cover to seal the filtered exhaust | :x: | :x: | :heavy_check_mark: | :x: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
+| GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire and Voron 0.0/0.1. These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
@@ -150,6 +152,7 @@ like so:
 | | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |:x: |
+| Jon | [adxl345 skirt keystone](./Jon/adxl345_skirt_keystone) | Skirt keystone for ADXL345 using Microfit 3.0 | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |
 | joposter | [V0 Clippable LED Caselight](./joposter/v0_clippable_ledmounts) | LED Case light for the V0 that clips into the extrusions | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
@@ -188,6 +191,8 @@ like so:
 | | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
+| MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
+|MikesMods|[LGX mount for V0.1 with 2nd X rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
@@ -220,6 +225,7 @@ like so:
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | richardjm | [ADXL drag chain mount](./richardjm/adxl-chain) | Permanent mount for ADXL boards on the back of the motor, replacing the drag chain mount. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+| | [LED 15.5mm quarter round mounts](./richardjm/led-mounts) | Mounting corners with integrated cable runs for 15.5mm quarter round aluminium led extrusions. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | | [Picam corner mount](./richardjm/picam-corner) | Out of the way corner mounted picam | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
