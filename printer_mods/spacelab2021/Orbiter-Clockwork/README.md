@@ -17,7 +17,7 @@ One of the main issues I observed when using the orbiter was a lack of a quick f
 
   
 ## Assembly Guide
-* [Orbiter Clockwork Assembly Guide](./docs/Orbiter_Cockwork_Manual.pdf)
+* [Orbiter Clockwork Assembly Guide](./docs/Orbiter_Clockwork_Manual.pdf)
 
 ## Orbiter Clockwork Module Images
 ![Image](./docs/images/Orbiter-Clockwork-Main.png)
