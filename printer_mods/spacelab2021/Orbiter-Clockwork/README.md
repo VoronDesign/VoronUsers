@@ -2,7 +2,7 @@
 This Clockwork module allows the use of the Orbiter v1.5 Extruder in the Voron Afterburner.
 
 ## Features
-One of the main issues I observed when using the orbiter was a lack of a quick filament release in additional to a lack of a suitable clockwork adapter that would swap an orbiter directly into the Afterburner ecosystem. Many of the issues observed were addressed with this Clockwork Module. This version provides a chain anchor for the Voron 2.4 and the Switchwire, a Cable Cover, and a quick filament release lever.
+One of the main issues I observed when using the orbiter was a lack of a quick filament release in addition to a lack of a suitable clockwork adapter that would swap an orbiter directly into the Afterburner ecosystem. Many of the issues observed were addressed with this Clockwork Module. This version provides a chain anchor for the Voron 2.4 and the Switchwire, a Cable Cover, and a quick filament release lever.
 
 ## Bill of Materials (BOM)
 
