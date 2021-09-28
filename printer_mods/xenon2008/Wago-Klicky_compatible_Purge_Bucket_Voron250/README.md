@@ -25,5 +25,5 @@ For the Purge Bucket i have reduced the size on the inside of the Profiles by a 
 ***Please do not forget to adjust the Z endstop position and the position of the purge bucket in the config !!!***
 
 *And since pictures say more than 1000 words, I have uploaded pictures for Illustration:*
-![ddd](/images)
+![ddd](*/images)
 
