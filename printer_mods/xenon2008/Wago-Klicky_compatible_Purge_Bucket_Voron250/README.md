@@ -22,9 +22,11 @@ For the Purge Bucket i have reduced the size on the inside of the Profiles by a 
  2. Print & Install the Bed Wago Mount with the smaller one from here
  3. Print & Install the few mm smaller one (on one side only) Purge
     Bucket on the right Bed Profile
+     
 ***Please do not forget to adjust the Z endstop position and the position of the purge bucket in the config !!!***
 
 ***Note:***
+ 
 This is one of my first Fusion 360 "Mods"and also my first Github Upload.
 So please forgive me for any beginner mistakes.
 Also my English skills are not the best, and I hope everyone understands what I'm talking about ;)
