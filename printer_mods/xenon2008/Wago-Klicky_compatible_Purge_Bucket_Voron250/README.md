@@ -1,5 +1,5 @@
 # Bed Wago & Klicky Compatible Purge Bucket for Voron 2.4 250mm
-I am Building my first Voron, a 2.4 250mm and wanted to install / integrate the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) with https://github.com/protoloft/klipper_z_calibration Script.
+I am Building my first Voron, a 2.4 250mm and wanted to install / integrate the [Klicky Probe](https://github.com/jlas1/Klicky-Probe) with [Auto Z Calibration](https://github.com/protoloft/klipper_z_calibration) Script.
 
 But since I also installed the [Bed Wago Mount Mod](https://github.com/xenon2008/VoronUsers/tree/master/printer_mods/deepfriedheroin/v2_bed_wagos), I didn't have enough space for the [Purge Bucket.](https://github.com/xenon2008/VoronUsers/tree/master/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber)
 In addition, when the Klicky holder was installed (on the left side of the gantry), the X Carriage always brushed against the holder for the Klicky probe when the nozzle was cleaned.
@@ -25,4 +25,5 @@ For the Purge Bucket i have reduced the size on the inside of the Profiles by a 
 ***Please do not forget to adjust the Z endstop position and the position of the purge bucket in the config !!!***
 
 *And since pictures say more than 1000 words, I have uploaded pictures for Illustration:*
+![ddd](/images)
 
