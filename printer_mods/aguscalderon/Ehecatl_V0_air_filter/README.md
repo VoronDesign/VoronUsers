@@ -32,14 +32,16 @@ Instructions
 Images
 ------
 
-![CAD](Images/ehecatl1.jpeg)
-![CAD](Images/ehecatl8.jpeg)
-![CAD](Images/ehecatl4.jpeg)
-![CAD](Images/ehecatl7.jpeg)
-![CAD](Images/ehecatl6.jpeg)
-![CAD](Images/ehecatl5.jpeg)
-![CAD](Images/ehecatl2.jpeg)
-![CAD](Images/ehecatl3.jpeg)
+![CAD](Images/ehecatl1.jpg)
+![CAD](Images/ehecatl8.jpg)
+![CAD](Images/ehecatl4.jpg)
+![CAD](Images/ehecatl7.jpg)
+![CAD](Images/ehecatl6.jpg)
+![CAD](Images/ehecatl5.jpg)
+![CAD](Images/ehecatl2.jpg)
+![CAD](Images/ehecatl3.jpg)
+![CAD](Images/ehecatl9.jpg)
+![CAD](Images/fantpe.gif)
 
 ________________________________________________________
 --------------------------------------------------------
