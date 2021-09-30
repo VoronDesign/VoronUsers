@@ -24,7 +24,7 @@ Instructions
 - Fix the base to the deck panel with double sided tape or M3 screw.
 - Prepare the middle filter by cutting and placing a 40mm square of your filter and add small quantity of active carbon you should change it when the filtering effect is lost.
 - Insert your fan in its holder(be very careful with the cables), you can orient your fan pushing or pulling air it should work either direction
-- I recommend printing the fan holder in TPE or TPU to absorb fan vibration.
+- Printing the fan holder in TPE or TPU help absorb fan vibrations.
 - You'll have to figure out your wiring as each build is unique (be aware of your fan voltage)
 
 
