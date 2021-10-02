@@ -6,5 +6,4 @@ like with @tayto-chip´s mod.
 
 ![Plug_Panel](Img/DSC_3253.JPG)
 
-tayto-chip´s "skirt_switch_mod":
-https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/tayto-chip/skirt_switch_mod
+tayto-chip's [Skirt Switch Mod](../../tayto-chip/skirt_switch_mod)
