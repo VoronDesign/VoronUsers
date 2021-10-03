@@ -12,6 +12,7 @@ This mod allows use of a 120mm fan and includes an adapter to connect a 4in duct
 |------|------|--------|
 | M3 Threaded Insert | 12 | |
 | M3x10 SHCS | 2 | |
+| M3x6 SHCS | 2 | |
 | M3x8 SHCS | 4 | |
 | M3x30 SHCS | 4 | |
 | 120mm x 120mm x 25mm fan | 1 | |
