@@ -26,34 +26,34 @@ This mod allows use of a 120mm fan and includes an adapter to connect a 4in duct
 
 - Install M3 threaded inserts into the printed pieces.
 <div align="center">
-    <img src="images/housing_inserts.png" height=400>
+    <img src="images/housing_inserts.png">
 </div>
 <div align="center">
-    <img src="images/fan_mount_inserts.png" height=400>
+    <img src="images/fan_mount_inserts.png">
 </div>
 
 ## Installation
 1. The standard exhaust grill and mounts will be used, and they should be installed before the new housing.
 <div align="center">
-    <img src="images/step1.png" height=400>
+    <img src="images/step1.png">
 </div>
 2. Remove the top middle panel clip.
 <div align="center">
-    <img src="images/step2.png" height=400>
+    <img src="images/step2.png">
 </div>
 3. Install the new housing using 2 M3x10 SHCS.
 <div align="center">
-    <img src="images/step3.png" height=400>
+    <img src="images/step3.png">
 </div>
 4. Install the bowden adapter panel mount using 2 M3x6 SHCS.
 <div align="center">
-    <img src="images/step4.png" height=400>
+    <img src="images/step4.png">
 </div>
 5. Install the fan mount box using 4 M3x8 SHCS.
 <div align="center">
-    <img src="images/step5.png" height=400>
+    <img src="images/step5.png">
 </div>
 6. Install the fan and duct adapter using 4 M3x30 SHCS.
 <div align="center">
-    <img src="images/step6.png" height=400>
+    <img src="images/step6.png">
 </div>
