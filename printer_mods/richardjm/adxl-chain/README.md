@@ -22,7 +22,7 @@ Clearance cad check for Adafruit board.
 - DO NOT USE dupont on the ADXL boards, ensure you have clearance when homing using JST XH connectors or solder wires directly
 
 ### ADXL345 GY-291 board (21mm by 16mm)
-- ADXL345 GY-291 board (21mm by 16mm) or Adafruit board (1in by 0.8in)
+- ADXL345 GY-291 board (21mm by 16mm)
 - M3x6 BHCS
 - M3 nylon/Printed washer (optional)
 - M3 Threaded Insert * 3 or 5 (IGUS or Generic)
