@@ -10,4 +10,4 @@ Klipper configuration of FLY-Super8 motherboard for Voron2.4
 ## zh_CN
 ![cn v2.4 pins](voron2.4-ZH_cn.jpg)
 
-[CN Docs](http://fly3d.org/docs/#/board/fly_super8/)
+[CN Docs](https://docs.3dmellow.com/zh_CN/#/board/fly_super8/)
