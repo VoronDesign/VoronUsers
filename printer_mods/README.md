@@ -132,6 +132,7 @@ like so:
 | | [Voron2.4 Y Endstop Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Parametric Spool Holder](./henrikssn/parametric_spool_holder) | Spool holder where the length is a parameter. | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:  | :heavy_check_mark:|
+| hergtoler | [Exhaust Housing for 120mm Fan and 4in Duct](./hergtoler/exhaust_120mm_duct) | v2.4 Exhaust Housing for 120mm Fan and 4in Duct | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |:x:|
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
