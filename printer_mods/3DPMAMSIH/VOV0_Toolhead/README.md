@@ -7,13 +7,7 @@
 ![V0VO_01](img/V0VO_01.jpg)
 # Updated Version Re.01 
 ## AirFlow improvement for the fanDuct 
-<div align="center">
-    <![Capture](img/Capture.PNG" height="400">
-    <![ref v3902](img/ref_v3902.png" height="400">
-    <![ref v3901](img/ref_v3901.png" height="400">
-    <![ref v3903](img/ref_v3903.png" height="400">
-</div>
-
+![div_01](img/div_01.jpg)
 ## How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
