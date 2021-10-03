@@ -18,7 +18,7 @@ For the Purge Bucket i have reduced the size on the inside of the Profiles by a 
 
 ## Summary:
 
- 1. Z Endstop moves from right to left Bed Profil
+ 1. Z Endstop moves from right to left Bed Profile
  2. Print & Install the Bed Wago Mount with the smaller one from here
  3. Print & Install the few mm smaller one (on one side only) Purge
     Bucket on the right Bed Profile
