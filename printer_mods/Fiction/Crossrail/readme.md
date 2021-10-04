@@ -8,7 +8,7 @@ Crossrail is an adapter for an RSP-200-24 or LRP-200-24 power supply, or other d
 !["Crossrail image 3"](./images/Crossrail_03.jpg)
  Attach to DRP-03 with 2 more M4x6 button head screws
 !["Crossrail image 4"](./images/Crossrail_04.jpg)
-Attch to the power supply
+Attach to the power supply
 !["Crossrail image 5"](./images/Crossrail_05.jpg)
 And clip onto the DIN rails
 !["Crossrail image 6"](./images/Crossrail_07.jpg)
