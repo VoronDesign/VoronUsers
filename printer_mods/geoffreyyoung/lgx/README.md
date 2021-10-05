@@ -16,7 +16,7 @@ Thanks to `@Nemgrea V2.199 V0.000` and the crew for their efforts designing and 
 
 For my own build, I found that my third-party M3x20 screws had a large enough head that the toolhead couldn't mount to the X Carriage assembly properly without a bit more clearance.  If you find yourself in this situation this model is nearly identical to the one on Discord but with slightly more clearance for the bottom screws.
 
-  * [`lgx_AftB_Mount_Front.STL`](STLs/lgx_AftB_Mount_Front.STL)
+  * [`lgx_AftB_Mount_Front.stl`](STLs/lgx_AftB_Mount_Front.stl)
 
 ### Klipper config
 
