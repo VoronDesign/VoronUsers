@@ -10,7 +10,7 @@ Mounting the LXG to AfterBurner requires some additional mounting plates.  You w
   * `lgx_AftB_Mount_Front.STL`
   * `lgx_AftB_Mount_Rear.STL`
 
-These models are pinned in the [#voronuser_mods](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621) channel on Discord, and can be found in [this message](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621).  
+These models are pinned in the [#voronuser_mods](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621) channel on Discord, and can be found in [this message](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621).
 
 Thanks to `@Nemgrea V2.199 V0.000` and the crew for their efforts designing and testing the mounts.
 
