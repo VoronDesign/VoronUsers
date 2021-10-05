@@ -8,6 +8,11 @@
 # Updated Version Re.01 
 ## AirFlow improvement for the fanDuct 
 ![div_01](img/div_01.jpg)
+# Update 04/10/2021 
+## pre-support files 
+![pre-supported_02](img/pre-supported_02.png)
+![pre-supported_03](img/pre-supported_03.png)
+
 ## How to print supported parts to VOV0 tool-head
 https://www.youtube.com/watch?v=CkwsMm29IuA
 
