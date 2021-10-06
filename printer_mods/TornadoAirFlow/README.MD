@@ -11,6 +11,10 @@
   ![one Side View](VORON2_v2.4_Assembly_2021-Oct-05_09-41-32AM-000_CustomizedView21229218298.png)
   ![one Side View](VORON2_v2.4_Assembly_2021-Oct-05_09-41-46AM-000_CustomizedView1155125900.png)
   
+## IMPROVING PLA PRINT QUALITY
+![one Side View](compare.jpg)
+First one printed with low air flow, second one using Tornado Air Flow at 100% power
+  
   ## Printing
 
 Tested with recommended settings for Voron parts: ABS, 4 perimeters, 5 tops/bottoms, 40% infill.
