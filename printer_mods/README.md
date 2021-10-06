@@ -155,7 +155,7 @@ like so:
 | Jon | [adxl345 skirt keystone](./Jon/adxl345_skirt_keystone) | Skirt keystone for ADXL345 using Microfit 3.0 | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |
 | joposter | [V0 Clippable LED Caselight](./joposter/v0_clippable_ledmounts) | LED Case light for the V0 that clips into the extrusions | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: |
-| KageUrufu | [Euclid Probe Carriage](./kageurufu/mgn12-euclid) | A MGN-12 carriage with an inset mount for a Euclid Probe | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: |
+| KageUrufu | [Euclid Probe Carriage](./kageurufu/mgn12-euclid) | A MGN-12 carriage with an inset mount for a Euclid Probe | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: |
 | Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: | :x: |
