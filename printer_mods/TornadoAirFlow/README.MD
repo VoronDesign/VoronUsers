@@ -1,9 +1,8 @@
 <H1>TORNADO AIR FLOW for AfterBurner</H1><BR>
-  
+  ![one Side View](IMAGE/view_1.PNG)
   ![Fan Side View](VORON2_v2.4_Assembly_2021-Oct-05_09-40-37AM-000_CustomizedView7330558810.png)
   
   Using two 5015 fans to get very powerful workpiece cooling air flow and necessary to get quality prints when using PLA material which needs strong air flow to cool immediately.
-  
   ![one Side View](VORON2_v2.4_Assembly_2021-Oct-05_09-38-42AM-000_CustomizedView3324193497.png)
   ![one Side View](VORON2_v2.4_Assembly_2021-Oct-05_09-43-26AM-000_CustomizedView21683038362.png)
   ![one Side View](VORON2_v2.4_Assembly_2021-Oct-05_09-39-30AM-000_CustomizedView5963653453.png)
