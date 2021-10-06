@@ -53,6 +53,7 @@ like so:
 | |[AB-BN Afterburner mod](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
 |Baltojikale | [LoudOwl aka Stabby](./Baltojikale/LoudOwl_aka_Stabby) | Alternative dual 5015 part cooling fan toolhead for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+|beaugalbraith| [Nova Printhead](./beaugalbraith/Nova_Printhead) | Use Nova Hotend with Afterburner | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question:|
 | BladeScraper-Designs | [Microswitch Pod With Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
 | | [Horizontal Spool Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
 |Blamm|[LRS-100 DIN mount](./Blamm/lrs-100)|DIN rail mount for an extra LRS-100 Power Supply | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:| :heavy_check_mark:|
