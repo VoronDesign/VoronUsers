@@ -26,7 +26,7 @@ like so:
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 
-https://github.com/Simone67/VoronUsers/tree/master/printer_mods/TornadoAirFlow
+
 
 |Simone67|[Tornado Air Flow](./Simone67/TornadoAirFlow)| Use two 5015 fan to get a super airflow|  :x: | :x: | :heavy_check_mark: | :x: | :x:|
 |120decibell|[Side entry exhaust housing](./120decibell/exhaust_housing_side_entry)| Exhaust housing with dual cover screws and single or dual side entry filament paths. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
