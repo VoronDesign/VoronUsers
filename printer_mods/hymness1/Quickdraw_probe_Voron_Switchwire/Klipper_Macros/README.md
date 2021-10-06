@@ -7,3 +7,7 @@ For the initial homing for the Z-axis, there are options for probe homing, senso
 You need to add [include dock_macros.cfg] in your printer.cfg file
 
 There are some safety measures but this is still a work in progress. Be sure to add dock_probe to your start_print macro.
+
+A tutorial to get all this working will be available [here]](https://docs.google.com/document/d/1dSgqjHQ3RNvcPwyRcuyMOceWPvVQUWRSjj3-KcRRMoo/edit?usp=sharing)
+
+In any case, you can hit me up on Discord @hymness1#0546
