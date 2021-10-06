@@ -15,7 +15,14 @@
 ![one Side View](compare.jpg)
 First one printed with low air flow, second one using Tornado Air Flow at 100% power
   
-  ## Printing
+## Printing
 
 Tested with recommended settings for Voron parts:Layer 0.2 - ABS, 4 perimeters, 5 tops/bottoms, 40% infill.
+Only the Cover (COPERTURA.stl) need supports, print the others without supports.
 STL were tested by printing and assembling !!!
+
+  ## Hardware
+  5pcs - M3 Threaded Insert<BR>
+  4pcs - M3x20 SHCS<BR>
+  1pcs - M3x8 SHCS<BR>
+  1pcs - M3x6 BHCS<BR>
