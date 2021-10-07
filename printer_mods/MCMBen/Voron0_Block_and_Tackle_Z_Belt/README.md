@@ -7,8 +7,10 @@ By default this mod uses 40T & 16T pulleys, combining with the 2:1 of the block 
 
 Larger pulleys - up to 64 teeth - can be used to increase this ratio, but will require longer timing belts.
 
-This mod requires a taller skirt than the standard V0, such as hartk1213's extrusion skirt mod or doubletrouble023's skirt mod.
+This mod requires a taller skirt than the standard V0, such as [hartk1213's extrusion skirt mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron0_ExtrusionSkirt), [doubletrouble023's skirt mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/doubletrouble/V0_Skirt_Mod), or [my own Trident-style skirt mod (WiP)](https://github.com/Fleafa/VoronUsers/tree/V0.1-Trident-skirt/printer_mods/MCMBen/Voron0_Block_and_Tackle_Z_Belt).
 The V0.1 skirt has enough height, though a 64T pulley may be a squeeze.
+
+*Testing has shown there is a maximum of 115mm in Z with the current design. Changes will be made to hopefully get 120mm.*
 
 Both the V0 and V0.1 bed positions are now supported - just print the appropriate bed_front_\*.stl file.
 
