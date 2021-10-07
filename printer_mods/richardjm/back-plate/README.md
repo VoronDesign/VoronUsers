@@ -10,4 +10,4 @@ Very rough and ready:
 
 ![The inside](Images/Inside.jpg)
 
-Ignore the missing nuts it's because the led bar interferes.
+Ignore the missing m3 screws holding the grill in place, it's because the led bar interferes.
