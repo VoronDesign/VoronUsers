@@ -1,5 +1,5 @@
 # Salad Fork Display Mount
-Articulating Display Mount for the v0.1 OLED Display
+Articulating Display Mount for Timmit99's v0 OLED Display
 
 Designed for the Salad Fork project, Mounts to 1515 extrusions
 
