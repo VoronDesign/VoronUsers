@@ -6,8 +6,7 @@ Very rough and ready:
 - Take out the one strut of the exhaust grill that interfers with bowden
 - Screw to frame, clamp to back panel with exhaust grill from the inside
 
-[Images/Outside.jpg]
+![The outside](Images/Outside.jpg)
 
-
-[Images/Inside.jpg]
+![The inside](Images/Inside.jpg)
 Ignore the missing nuts it's because the led bar interferes.
