@@ -26,7 +26,12 @@ STL were tested by printing and assembling !!!
   ![one Side View](orientation.jpg) 
 
   ## Hardware
-  5pcs - M3 Threaded Insert<BR>
-  4pcs - M3x20 SHCS<BR>
-  1pcs - M3x8 SHCS<BR>
-  1pcs - M3x6 BHCS<BR>
+  
+Qty | Item
+:-- | :--
+5 | M3 Threaded Insert
+4 | M3x20 SHCS
+1 | M3x8 SHCS
+1 | M3x6 BHCS
+2 | 5015 FAN
+
