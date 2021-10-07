@@ -9,4 +9,5 @@ Very rough and ready:
 ![The outside](Images/Outside.jpg)
 
 ![The inside](Images/Inside.jpg)
+
 Ignore the missing nuts it's because the led bar interferes.
