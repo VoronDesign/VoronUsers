@@ -3,6 +3,8 @@ Articulating Display Mount for the v0.1 OLED Display
 
 Designed for the Salad Fork project, Mounts to 1515 extrusions
 
+May be compatible with other 1515 extrusion based projects
+
 ![View 1](Images/Display_Mount_1500.jpg)
 
 ## BOM:
