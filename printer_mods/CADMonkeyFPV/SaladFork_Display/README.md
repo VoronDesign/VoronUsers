@@ -28,6 +28,8 @@ Designed for the Salad Fork project, Mounts to 1515 extrusions
 13. Slip assembly onto bolts and tighten in place
 14. Enjoy your tiny display 
 
+More info on the v0.1 OLED Display --> [Voron Hardware Repo](https://github.com/VoronDesign/Voron-Hardware/tree/master/V0_Display)
+
 More Forky goodness --> [Salad Fork Repo](https://github.com/Yeriwyn/Salad_Fork)
 
 Salad Fork Discussion --> [Salad Fork on Discord](https://discord.gg/RHtQhxPF)
