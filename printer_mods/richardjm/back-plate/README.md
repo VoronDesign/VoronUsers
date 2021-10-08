@@ -1,13 +1,13 @@
 # Back plate blanking plate
 
-If you choose not to use the exhaust - perhaps you're planning on fitting a nevermore instead. This is a blanking plate with integrated bowden tube route for that goes in place of the exhaust filter housing.
+If you choose not to use the exhaust - perhaps you're planning on fitting a nevermore instead. This is a blanking plate with integrated bowden tube route that goes in place of the exhaust filter housing.
 It makes use of the existing grill with one strut removed (use the stl here or cut out a strut of a grill you already have printed) as I liked the look of it.
 
 ![The CAD - outside](Images/CAD1.png)
 
 ![The CAD - inside](Images/CAD2.png)
 
-## Insructions
+## Instructions
 - Choose the appropriate blanking plate, the depth should be that of your back plate including the foam (distance from the flat of the extrusion to the flat of the back plate)
 - Put foam on the edges of the blanking plate that contact the back plate and extrusion
 - Cut out a strut from the exhaust grill or print a new one
