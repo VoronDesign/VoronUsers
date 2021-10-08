@@ -6,6 +6,6 @@ For the initial homing for the Z-axis, there are options for probe homing, senso
 
 You need to add [include dock_macros.cfg] in your printer.cfg file
 
-There are some safety measures but this is still a work in progress. Be sure to add dock_probe to your start_print macro.
+There are some safety measures, but this is still a work in progress. For the moment, failing to dock will report an error state and pause any ongoing action. As for failing to attach the probe, you'll get an error message too stating that the probe reports as triggered prior to movement. Be sure to add dock_probe to your start_print macro after your bed mesh or other probing actions.
 
 I plan to write a tutorial here for initial startup. In the meantime, you can hit me up on Discord @hymness1#0546
