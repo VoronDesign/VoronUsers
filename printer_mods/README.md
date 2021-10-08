@@ -229,8 +229,8 @@ like so:
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
-| Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
-| Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
+| Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
+| | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|

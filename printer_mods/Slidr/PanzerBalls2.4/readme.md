@@ -13,10 +13,10 @@ How do i install Panzerballs?
 - Panzerballs are a drop in replacement for the base plate
 - You need:
   - 4x squash balls (super slow, double yellow dot, diameter 39.5-40.5 mm)
-    o german source: https://www.decathlon.de/p/squashballe-sb-990-2er-pack-zwei-gelbe-punkte/_/R-p-312192?currentPage=1&filter=all&mc=8572487&orderId=de2200321911
+    o german source:https:\\www.decathlon.de\p\squashballe-sb-990-2er-pack-zwei-gelbe-punkte\_\R-p-312192
   - 4x printed Panzerballs:
     o Use '01-Normal\[a]_PanzerBall_x4.stl' if you have not modded your z-Drive
-    o If you use edwardyeeks V2.4_z_drive_tensioner_mod (https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod)
+    o If you use edwardyeeks [V2.4_z_drive_tensioner_mod](../../edwardyeeks/V2.4_z_drive_motor_tensioner_mod)
     is also supported: install the Panzerballs from folder '02-Optional_z-Drive-Mod\*.stl'
 - Screws as Voron Spec build
 
