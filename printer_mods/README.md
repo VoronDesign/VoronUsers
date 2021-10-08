@@ -228,6 +228,7 @@ like so:
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | richardjm | [ADXL drag chain mount](./richardjm/adxl-chain) | Permanent mount for ADXL boards on the back of the motor, replacing the drag chain mount. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+| | [Back blanking plate](./richardjm/back-plate) | Back blanking plate that can be used instead of the exhaust filter housing if you are using something like a nevermore filter instead. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | | [LED 15.5mm quarter round mounts](./richardjm/led-mounts) | Mounting corners with integrated cable runs for 15.5mm quarter round aluminium led extrusions. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | | [Picam corner mount](./richardjm/picam-corner) | Out of the way corner mounted picam | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
