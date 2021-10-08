@@ -23,4 +23,5 @@ It makes use of the existing grill with one strut removed (use the stl here or c
 ![The outside](Images/Outside.jpg)
 
 ![The inside](Images/Inside.jpg)
+
 Ignore the missing m3 screws holding the grill in place, it's because the led bar interferes.
