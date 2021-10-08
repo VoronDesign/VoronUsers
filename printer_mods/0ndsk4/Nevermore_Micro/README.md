@@ -100,7 +100,13 @@ Enter, _The Nevermore_.
 
 Nevermore V4 is a refinement of the V3. V4 adds a air guides, as the previous versions had the majority of air flow on just one side of the filter (most recent version has all supports removed yet again!). The cartridge lid also mounts a bit sturdier, and V4 now has separate base pieces for use with Vorons other than 2.4.
 
-This was the first official release of the Nevermore Micro to the public.
+This was the first official release of the Nevermore Micro to the public. Following that, the V5 Duo was released that changes the direction of air flow, better suited for when the Nevermore Micro would be placed flat on the bottom or top of the printer.
+
+![](images/nevermore-micro-duo.jpg)
+
+_(Nevermore V5 Duo. used with permission from Tightwad(JT)#6055)_
+
+This repository hosts both versions, as they the same in design and function.
 
 # FAQs
 
@@ -122,9 +128,15 @@ Also, the V4 single fan version may be better suited for printers where the Micr
 
 _(Voron V0.1 w/Nevermore V4. used with permission from DoubleT#0448)_
 
-The single fan version of the V4 design in the Voron V0.1 above would draw the air from under the build plate, and exhaust it upwards, creating a circulation flow within the printer.
+The single fan version of the V4 design in the Voron V0 above would draw the air from under the build plate, and exhaust it upwards, creating a circulation flow within the printer.
 
 Air circulation is critical to filter as much of the VOCs within the build chamber as possible. Not only that, but it would help heat the chamber faster and achieve higher chamber temps.
+
+However, on a Voron V2 or similar printer, the V5 Duo version would be better suited when placed under the bed as the upward exhaust venting creates a good circulation effect.
+
+![](images/voron-v2-nevermore.jpg)
+
+_(Voron V2 w/Nevermore V5. used with permission from Laserbeak43#2729)_
 
 ## What other changes does V5 bring?
 
@@ -267,11 +279,11 @@ However, if your MCU does have an additional fan output, then it is recommended 
 
 ## Final Thoughts on Usage
 
-The Nevermore Micro's activate carbon will not filter the Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants since they have built-in negative-pressure fans.
+The Nevermore Micro's activate carbon will not filter Ultra-Fine Particulates (UFP). This is what the HEPA filter does in the Nevermore Mini (not released yet) and [Nevermore Max](https://github.com/nevermore3d/Nevermore_Max) variants since they have built-in negative-pressure fans.
 
-However, you can achieve the same results with the Nevermore Micro by using a HEPA filter of your own and creating slightly negative air-pressure within your build chamber. Since you are filtering with the Nevermore, the vast majority of VOCs will be filters by the active carbon filtration.
+However, you can achieve the same results with the Nevermore Micro by using a HEPA filter of your own and creating slightly negative air-pressure within your build chamber, exhausting air outwards at a slow pace. Since you are filtering with the Nevermore, the vast majority of VOCs will be filters by the active carbon filtration, leaving the HEPA filter to capture the remaining UFPs. This also greatly extends the live of your HEPA filter as the Nevermore Micro will be accumulating the larger particulates.
 
-To create a negative pressure within your build chamber, simply install a fan to slowly draw air out of your build chamber and through a HEPA filter.
+To create a negative pressure within your build chamber, simply install a fan to slowly draw air out of your build chamber and our through a HEPA filter. Voron machines already have such a design with their rear exhaust housing for HEPA filters.
 
 The negative pressure will also eliminate diffusion, especially if your build chamber is not completely sealed.
 
