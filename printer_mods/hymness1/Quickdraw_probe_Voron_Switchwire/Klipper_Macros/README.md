@@ -1,3 +1,5 @@
+## Warning : This is for an official Voron Switchwire. It is also assumed that your toolhead can be clear of the bed when the bed is push all the way to the rear of the printer. If not, I recommend using a Z-max endstop microswitch for initial Z-homing, or manually attaching and detaching the probe.
+
 The macros are working on official Klipper firmware.
 
 The values that are in the config file are the values I use for my Switchwire. You can still use these macros if you use the files for the probe and dock from Annex Engineering. If you do, you'll want to change the value for variable_detach from 1 to 2.
@@ -59,3 +61,5 @@ The Z endstop microswitch (whether using the modded KeyBak mount or a switch loc
 When homing with the probe attached, terminal will report a wrong value for Z position and should be way higher than supposed, in example `probe at 125.000,84.500 is z=236.425000`. It is normal behavior and is a workaround the fact that you can't have 2 different Z endstops. After homing, position of the toolhead is set to probe z_offset.
 
 Be sure to add `Dock_probe` in your print_start macro after the bed mesh or other probing actions.
+
+Sensorless homing for initial Z homing does work, but I don't recommend it. The KeyBak can be somewhat inconsistent in its tension and can lead to unwanted behavior.
