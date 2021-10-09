@@ -1,4 +1,4 @@
-## Warning : This is for an official Voron Switchwire. It is also assumed that your toolhead can be clear of the bed when the bed is push all the way to the rear of the printer. If not, I recommend using a Z-max endstop microswitch for initial Z-homing, or manually attaching and detaching the probe.
+#### Warning : This is for an official Voron Switchwire. It is also assumed that your toolhead can be clear of the bed when the bed is pushed all the way to the rear of the printer. If not, I recommend using a Z-max endstop microswitch for initial Z-homing, or manually attaching and detaching the probe.
 
 The macros are working on official Klipper firmware.
 
