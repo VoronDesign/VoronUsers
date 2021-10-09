@@ -36,7 +36,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
  * Move the toolhead 25mm to the left. Probe should detach and stay in the dock. If everything is good, repeat the last steps another time to verify and go to the next step.
 10. Update `dock_macros.cfg` with your dock coordinates. Also update all the other values in the GlobalVariables section with your printer specific values. Save and exit.
 11. In `printer.cfg` :
-   * Remove of comment `[safe_z_home]` and/or `[homing_override]` sections
+   * Remove or comment `[safe_z_home]` and/or `[homing_override]` sections
    * In `[stepper_z]` section, change `endstop_pin` for the pin used for the modded KeyBak microswitch
    * In the same section, add the parameter `position_endstop` and enter the value for the Z coordinate of the modded KeyBak microswitch location (for example, mine is set at `-2.6`). We'll calibrate it in the next step. Save and restart firmware.
 12. Detach the probe from the toolhead. Manually move the toolhead at the middle of the gantry. Push the bed all the way to the rear.
