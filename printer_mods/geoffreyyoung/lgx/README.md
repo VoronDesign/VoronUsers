@@ -2,21 +2,27 @@
 
 Useful links, info, and models for using the The LGX™ Large Gears eXtruder with Afterburner...
 
+- [Afterburner LGX Mounts](#afterburner-lgx-mounts)
+- [Klipper config](#klipper-config)
+- [Extra LGX Models](#extra-lgx-models)
+  * [LGX Cable Cover](#lgx-cable-cover)
+  * [LGX Gear Cover](#lgx-gear-cover)
+  * [LGX Lever Cover](#lgx-lever-cover)
+
+---
 
 ### Afterburner LGX Mounts
 
-Mounting the LXG to AfterBurner requires some additional mounting plates.  You will need both of the following:
+Mounting the LXG to AfterBurner requires some additional mounting plates.  You will need both of `@Nemgrea`'s mounts from Discord:
 
-  * `lgx_AftB_Mount_Front.STL`
-  * `lgx_AftB_Mount_Rear.STL`
+  * [`lgx_AftB_Mount_Front.STL`](https://cdn.discordapp.com/attachments/635687829254701107/823914498700083220/lgx_AftB_Mount_Front.STL)
+  * [`lgx_AftB_Mount_Rear.STL`](https://cdn.discordapp.com/attachments/635687829254701107/823914501405540442/lgx_AftB_Mount_Rear.STL)
 
 These models are pinned in the [#voronuser_mods](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621) channel on Discord, and can be found in [this message](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621).
 
-Thanks to `@Nemgrea V2.199 V0.000` and the crew for their efforts designing and testing the mounts.
+Thanks to `@Nemgrea V2.199 V0.000` and the crew for their efforts designing and testing the mounts, and offering them to the community.
 
-For my own build, I found that my third-party M3x20 screws had a large enough head that the toolhead couldn't mount to the X Carriage assembly properly without a bit more clearance.  If you find yourself in this situation this model is nearly identical to the one on Discord but with slightly more clearance for the bottom screws.
-
-  * [`lgx_AftB_Mount_Front.stl`](STLs/lgx_AftB_Mount_Front.stl)
+<sub>*Aside: For my own build, I found that my third-party M3x20 screws had a large enough head that the toolhead couldn't mount to the X Carriage assembly properly without a bit more clearance.  If you find yourself in this situation, [this mod of @Nemgrea's mount](STLs/lgx_AftB_Mount_Front.stl) is nearly identical to the one on Discord but with slightly more clearance for the bottom screws.  Please try the (semi)official one first before using this mod :)*</sub>
 
 ### Klipper config
 
