@@ -25,7 +25,7 @@ The modded KeyBak mount with a D2F-5L (or any other microswitch of this size wit
 5. Screws in 2 (ferric) M2x12mm
 
 ## Dock Arm
-1. Insert 2 M3x5x4 theaded inserts
+1. Insert 2 M3x5x4 threaded inserts
 
 ## Dock
 1. Insert 2 pairs of 6x3mm magnets. Polarity doesn't matter.
@@ -33,10 +33,10 @@ The modded KeyBak mount with a D2F-5L (or any other microswitch of this size wit
 
 ## Modded KeyBak Mount (if you go with it)
 1. Remove the integrated support and clean the surface if need be.
-2. Insert 2 M3x5x4 theaded inserts as per the official Voron Switchwire Assembly Guide
+2. Insert 2 M3x5x4 threaded inserts as per the official Voron Switchwire Assembly Guide
 3. Screw in a microswitch with lever towards the rear of the printer.
 
 ## Final assembly
-1. Mount the Dock Arm on the right hand side of the 3030 vertical extrusion, just under the end block.
+1. Mount the Dock Arm on the right hand side 3030 vertical extrusion, just under the lower end block, using 2 M5x12mm
 2. Insert the Probe in the Dock. Adjust the M2 screws so they barely touch the dock magnets
 3. If using the modded KeyBak Mount, replace the old one with this one. Connect wires from the microswitch to a signal and ground pins on the MCU
