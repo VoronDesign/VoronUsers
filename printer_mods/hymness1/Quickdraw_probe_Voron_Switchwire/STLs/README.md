@@ -37,6 +37,6 @@ The modded KeyBak mount with a D2F-5L (or any other microswitch of this size wit
 3. Screw in a microswitch with lever towards the rear of the printer.
 
 ## Final assembly
-1. Mount the Dock Arm on the right hand side 3030 vertical extrusion, just under the lower end block, using 2 M5x12mm
+1. Mount the Dock Arm on the right hand side vertical 3030 extrusion, just under the lower end block, using 2 M5x12mm
 2. Insert the Probe in the Dock. Adjust the M2 screws so they barely touch the dock magnets
 3. If using the modded KeyBak Mount, replace the old one with this one. Connect wires from the microswitch to a signal and ground pins on the MCU
