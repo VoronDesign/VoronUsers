@@ -22,7 +22,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
    * If it reports as open when detached and triggered when attached, you'll need to invert the pin in your `printer.cfg` file in the `[probe]` section.
    * Press down the trigger of the probe microswitch and issue a `query_probe` command. It should report as triggered. A third hand might be handy.
 6. Manually move the toolhead higher up. Home the toolhead and test that it triggers by pressing the trigger on the probe. If not kill the printer.
-7. In `printer.cfg`, in the `[probe]` section, change `y_offset` to `-34.5` and `speed` to `3`
+7. In `printer.cfg`, in the `[probe]` section, change `y_offset` to `-34.5` and `speed` to `3`. Save and restart firmware.
 8. Set your Z-offset
    * Home the toolhead
    * Manually remove the probe from the toolhead
