@@ -33,7 +33,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
 9. Get the dock coordinates
    * Home the toolhead
    * Using Fluidd or Mainsail UI, or the terminal, go at Z15 (or any height higher than the dock) and slowly move the toolhead towards the dock (it should be at X250). Slowly move the toolhead down 1mm at a time, verify that the dock and the probe are aligned on the X direction (if not, adjust the X coordinates or if you can't, you might need the spacer). Continue to move the toolhead down up to the point that the probe is in the dock (without pressing down against it). Take notes of the coordinates.
- * Move the toolhead 25mm to the left. Probe should detach and stay in the dock. If everything is good, repeat the last steps another time to verify and go to the next step.
+   * Move the toolhead 25mm to the left. Probe should detach and stay in the dock. If everything is good, repeat the last steps another time to verify and go to the next step.
 10. Update `dock_macros.cfg` with your dock coordinates. Also update all the other values in the GlobalVariables section with your printer specific values. Save and exit.
 11. In `printer.cfg` :
    * Remove or comment `[safe_z_home]` and/or `[homing_override]` sections
