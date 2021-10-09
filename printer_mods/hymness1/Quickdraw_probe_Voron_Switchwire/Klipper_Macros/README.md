@@ -6,7 +6,7 @@ For the initial homing for the Z-axis, there are options for probe homing, senso
 
 You need to add [include dock_macros.cfg] in your printer.cfg file
 
-There are some safety measures, but this is still a work in progress. For the moment, failing to dock will report an error state and pause any ongoing action. As for failing to attach the probe, you'll get an error message too stating that the probe reports as triggered prior to movement. Be sure to add dock_probe to your start_print macro after your bed mesh or other probing actions.
+There are some safety measures, but this is still a work in progress. For the moment, failing to dock will kill the printer (M112), as failing to dock properly could result in damaging the probe itself or the bed. As for failing to attach the probe, you'll get an error message stating that the probe reports as triggered prior to movement. Be sure to add dock_probe to your start_print macro after your bed mesh or other probing actions.
 
 You can find my printer.cfg and other relevant macros for reference [here](https://github.com/hymness1/Switchwire_Things/tree/main/klipper_config)
 
