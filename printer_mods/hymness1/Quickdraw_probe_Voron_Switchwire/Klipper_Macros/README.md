@@ -48,7 +48,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
 16. Still with the toolhead in the middle of the gantry and the bed all the way to the rear, issue a `G28 Z0` command.
 17. In the terminal, issue `G0 Z15` command. Manually attach the probe to the toolhead.
 18. In the terminal, issue `G28 X0` command.
-19. Using Fluidd or Mainsail UI, or using the terminal, move to the dock X coordinate. Move the toolhead down 1mm at a time and babystep so the probe enter the dock. Try to have it at the same location as when you calculated the dock coordinates earlier. Note the Z coordinate.
+19. Using Fluidd or Mainsail UI, or using the terminal, move to the dock X coordinate. Move the toolhead down 1mm at a time and babystep so the probe enters the dock as in step 9. Try to have it at the same location as when you calculated the dock coordinates earlier. Note the Z coordinate.
     * This doesn't have to be super precise. Z endstop homing is only used for the initial Z homing in order to attach the probe from the dock.
 20. Calculate `last step dock Z coordinate` minus `dock Z coordinate from step 7`.
 21. In `printer.cfg`
