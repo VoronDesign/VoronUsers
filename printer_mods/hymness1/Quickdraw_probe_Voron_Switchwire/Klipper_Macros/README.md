@@ -24,7 +24,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
 6. Manually move the toolhead higher up. Home the toolhead and test that it triggers by pressing the trigger on the probe. If not kill the printer.
 7. Set your Z-offset
    * Home the toolhead
-   * Manually remove the probe
+   * Manually remove the probe from the toolhead
    * Use the paper test to get your Z-offset
    * Update your printer.cfg [probe] section with the calculated Z-offset, change `y_offset` to `-34.5` and change `speed` to `3`.
    * Save and restart firmware
