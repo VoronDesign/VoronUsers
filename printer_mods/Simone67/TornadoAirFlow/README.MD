@@ -8,7 +8,7 @@
 
   
 ## IMPROVING PLA PRINT QUALITY
-![one Side View](compare.jpg)
+![one Side View](./IMAGE/compare.jpg)
 First one printed with low air flow, second one using Tornado Air Flow at 100% power
   
 ## Printing
@@ -18,7 +18,7 @@ All STL files are correctly oriented and do not need support.
 STL were tested by printing and assembling !!!
   
 ## Printing Orientation
-  ![one Side View](orientation.jpg) 
+  ![one Side View](./IMAGE/orientation.jpg) 
 
   ## Hardware
   
