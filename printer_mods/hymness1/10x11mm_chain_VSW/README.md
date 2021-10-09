@@ -4,6 +4,6 @@
 
 ![alt text](Pictures/10x11mm_chains_closed.jpg)
 
-There's an integrated support on the link that you'll have to remove before assembling.
+There are integrated support on the link and the end pieces that you'll have to remove before assembling. Just twist them slowly to remove them and trim away any remaining plastic.
 
 I recommend setting *Fill Gaps Between Walls* to Everywhere in Cura.
