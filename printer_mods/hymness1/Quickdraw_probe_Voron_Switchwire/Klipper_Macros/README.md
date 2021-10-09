@@ -58,7 +58,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
 
 The Z endstop microswitch (whether using the modded KeyBak mount or a switch located at Z-max) is only used for initial Z homing if the probe is not already attached to the toolhead. It is a good idea to add `Park_toolhead` to your end_print macro or cancel_print macro, so the probe is virtually always attached to the toolhead.
 
-When homing with the probe attached, terminal will report a wrong value for Z position and should be way higher than supposed, in example `probe at 125.000,84.500 is z=236.425000`. It is normal behavior and is a workaround the fact that you can't have 2 different Z endstops. After homing, position of the toolhead is set to probe z_offset.
+When homing with the probe attached, terminal will report a wrong value for Z position that should be way higher than supposed, in example `probe at 125.000,84.500 is z=236.425000`. It is normal behavior and is a workaround the fact that you can't have 2 different Z endstops. After homing, position of the toolhead is set to probe z_offset.
 
 Be sure to add `Dock_probe` in your print_start macro after the bed mesh or other probing actions.
 
