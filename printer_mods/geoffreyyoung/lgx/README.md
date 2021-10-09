@@ -34,7 +34,7 @@ microsteps: 16
 full_steps_per_rotation: 200
 
 # use either
-#    gear_ratio: 45:14, 37:17
+#    gear_ratio: 44:14, 37:17
 #    rotation_distance: 55
 # or
 #    rotation_distance: 8
