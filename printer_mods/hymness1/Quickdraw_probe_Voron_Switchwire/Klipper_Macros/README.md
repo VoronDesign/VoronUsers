@@ -63,3 +63,5 @@ When homing with the probe attached, terminal will report a wrong value for Z po
 Be sure to add `Dock_probe` in your print_start macro after the bed mesh or other probing actions.
 
 Sensorless homing for initial Z homing does work, but I don't recommend it. The KeyBak can be somewhat inconsistent in its tension and can lead to unwanted behavior.
+
+If you don't plan to use a Z endstop microswitch or sensorless homing for initial Z homing, don't change your `endstop_pin` in the `stepper_z` section of `printer.cfg`.
