@@ -16,7 +16,7 @@ First one printed with low air flow, second one using Tornado Air Flow at 100% p
 ![one Side View](./IMAGE/screen.jpg
   
 ## Printing
-
+  
 Tested with recommended settings for Voron parts:Layer 0.2 - ABS, 4 perimeters, 5 tops/bottoms, 40% infill.
 All STL files are correctly oriented and do not need support.
 STL were tested by printing and assembling !!!
