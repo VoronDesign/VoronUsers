@@ -13,7 +13,7 @@ First one printed with low air flow, second one using Tornado Air Flow at 100% p
 
   
 ## Screenshot
-![one Side View](./IMAGE/screen.jpg
+![one Side View](./IMAGE/screenshot.jpg
   
 ## Printing
   
