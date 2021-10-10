@@ -10,6 +10,10 @@
 ## IMPROVING PLA PRINT QUALITY
 ![one Side View](./IMAGE/compare.jpg)
 First one printed with low air flow, second one using Tornado Air Flow at 100% power
+
+  
+## Screenshot
+![one Side View](./IMAGE/screen.jpg
   
 ## Printing
 
