@@ -31,7 +31,7 @@ First just insert two of the sleeve bearings into the top, they should bottom ou
 
 ![1](Images/3.png) 
 
-Next insert the female side of a 5mmx20mm chicago screw (sex bolt, binding barrel) and screw in the M4x6 or M4x8 SHCS with some loctite to make sure it doenst move over time
+Next insert the female side of a 5mmx20mm chicago screw (sex bolt, binding barrel) and screw in the M4x6 or M4x8 SHCS with some loctite to make sure it doens't move over time
 
 ![1](Images/4.png) 
 
