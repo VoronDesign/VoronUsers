@@ -16,6 +16,8 @@
 Size | Qty
 --- | ---
 M2x8 or M2x10 (Self Tapping Screws) | 4
+M3x8 or M3x10 | 2
+M3 T-Nut | 2
 ≤ 4"(10cm) Cable Zip Ties | 2
 
 ### [Microfit 3.0 1x4](https://www.molex.com/molex/products/part-detail/crimp_housings/0436400401)
