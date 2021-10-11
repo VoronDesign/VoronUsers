@@ -13,13 +13,13 @@ Screws
 Size|Qty| Link
 ---|---|---			
 M4x8 SHCS|1|[Bolt Depot - M4x8 SHCS](https://www.boltdepot.com/Product-Details.aspx?product=6505)		
-5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC/ref=cm_sw_r_cp_apa_glt_fabc_PQ6VRNP7R9MHFDZFW9XW?_encoding=UTF8&psc=1)		
-M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4?psc=1&ref=ppx_yo2_dt_b_product_details)		
-5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT/ref=cm_sw_r_cp_apa_glt_fabc_SRMPXN8QGTP20751SVQA?_encoding=UTF8&psc=1)
-Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://formosissima.com/products/z-endstop-pcb-for-voron-v2-4)
+5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC/)		
+M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4)		
+5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT/)
+Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://deepfriedhero.in/products/z-endstop-pcb-for-voron-v2-4)
 
 
-Full kit can be purchased [here](https://formosissima.com/products/voron-2-4-sexbolt-kit) 
+Full kit can be purchased [here](https://deepfriedhero.in/products/voron-2-4-sexbolt-kit) 
 ##
 
 ![1](Images/1.png) 
