@@ -1,0 +1,28 @@
+RED:
+dd1e36
+
+GOLD:
+ecaa1f
+
+Grey:
+7d7d81
+
+Black:
+000000
+
+BLUE:
+4c5fae
+=======================================
+Voron 2.4 Back Panel:
+
+In Circut: Width 9.443 inches
+           Height 11.4 inches
+		   
+Voron 0.1 DECK panel 5.6" x 7.4"
+Height = 172mm - 24mm -6mm = 142mm =  5.59055 inches
+Width = 209mm -6mm -15mm = 188mm =  7.40157 inches
+
+Switch Wire (REAR panel) 12"x 9.41"
+Height = 422mm =  16.6142 inches -4.61" margin = 12.0042" or 12.00"
+Width = 356mm =  14.0157 inches -4.61" margin = 9.4057" or 9.41"
+		   

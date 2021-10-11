@@ -19,13 +19,14 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: |`
+| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: | :x:|`
 
 ---
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |120decibell|[Side entry exhaust housing](./120decibell/exhaust_housing_side_entry)| Exhaust housing with dual cover screws and single or dual side entry filament paths. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+||[Huvud Chain Mount](./120decibell/huvud_chain_mount)| Huvud rear mount for Clockwork or LGX that supports a cable chain. |:x:|:heavy_check_mark:|:grey_question:|:x:|:heavy_check_mark:|
 |42bios|[Corner panel clip w. cable](./42bios/corner_panel_clip_cable)| Corner panel clip with an internal cable path. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 | |[Exhaust filter housing - side thread](./42bios/exhaust_filter_housing_side)|Exhaust filter housing with the G1-8 "thread on the side. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 | |[LED mount](./42bios/LED_mount)|AngryLED - LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
@@ -52,12 +53,16 @@ like so:
 | |[AB-BN Afterburner mod](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
 |Baltojikale | [LoudOwl aka Stabby](./Baltojikale/LoudOwl_aka_Stabby) | Alternative dual 5015 part cooling fan toolhead for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| BladeScraper-Designs | [Microswitch_Pod_With_Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
-| | [Horizontal-Spool-Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
+|beaugalbraith| [Nova Printhead](./beaugalbraith/Nova_Printhead) | Use Nova Hotend with Afterburner | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question:|
+| BladeScraper-Designs | [Microswitch Pod With Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
+| | [Horizontal Spool Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
+|Blamm|[LRS-100 DIN mount](./Blamm/lrs-100)|DIN rail mount for an extra LRS-100 Power Supply | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:| :heavy_check_mark:|
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
-| bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic corner clips to allow for easy removal and install of panels | :x: | :grey_question: | :heavy_check_mark: | :x: |
+| bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic clips to allow for easy removal and installation of panels | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
+| | [Filament Runout Sensor](./bobbleheed/Filament_Runout) | Filament runout sensor that replaces the stock bowden retainer | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
+|Boingomw|[Wago mount](./Boingomw/Wago_mount)| Smaller 5 port Wago mount that fits parallel to the support rails |:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
@@ -71,7 +76,7 @@ like so:
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 ||[V0 Zip Tie Skirts](./claytono/v0-zip-tie-skirts)|V0 skirts with small loops added along the top to allow zip tyiing cables to them|:heavy_check_mark:|:x:|:x:|:x:
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
-||[Voron_V0.1_Parts_Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
+||[Voron V0.1 Parts Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 |csch0 | [SW Fan Mount No Tape](./csch0/SW_FanMount_No_Tape)| 60x20 Fan Mount for SW without tape| :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
@@ -84,15 +89,13 @@ like so:
 |deepfriedheroin |[V2 Bed Wagos](./deepfriedheroin/v2_bed_wagos) |Wire management for the v2 bed |:x: |:x:|:heavy_check_mark: |:x:|
 | | [v0 Wago Bed Mounts](./deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | :heavy_check_mark: | :x: | :x: |:x:|
 | | [v0 Power Wagos](./deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | :heavy_check_mark: | :x: | :x: |:x:|
+|Derpimus |[V0.1 Block Handle](Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | :heavy_check_mark: | :x: | :x: | :x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
-|DoubleT |[Afterburner Triple Bowden](./DoubleT/afterburner_triple_bowden) |AfterBurner Triple Bowden|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| |[Spider Mount Extrusion](./DoubleT/fysetc_spider_mount_extrusion) |Spider Mount for 2020/3030 extrusions|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| |[TFT Display skirt for Switchwire](./DoubleT/switchwire_tft_display) |TFT Display skirt for Switchwire|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| |[Input Shaper mount for Afterburner](./DoubleT/input_shaper_mount) |Input shaper mount for Afterburner|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |doubletrouble |[V0 Skirt Mod](./doubletrouble/V0_Skirt_Mod) |V0 Skirt Mod |:heavy_check_mark: |:x: |:x: |:x:|
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
+| |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
@@ -108,8 +111,11 @@ like so:
 |  | [Voron 2.4 cable clamps](./evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring on your build | :x: | :x: | :heavy_check_mark: |:x:|
 | falo | [Magnetic Exhaust Grill Cover](./falo/magnetic_grill_cover) | A magnetic cover to seal the filtered exhaust | :x: | :x: | :heavy_check_mark: | :x: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
+| GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire and Voron 0.0/0.1. These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+|  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
+| | [LGX Info, Links, and Models](./geoffreyyoung/lgx) | Useful information and models for using the Bondtech LGX extruder wth Afterburner| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
@@ -127,14 +133,16 @@ like so:
 | | [Voron2.4 SexBolt ZEndstop](./hartk1213/Voron2.4_SexBolt_ZEndstop) | This mod replaces stock V2 Z endstop with a different style| :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Parametric Spool Holder](./henrikssn/parametric_spool_holder) | Spool holder where the length is a parameter. | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:  | :heavy_check_mark:|
+| hergtoler | [Exhaust Housing for 120mm Fan and 4in Duct](./hergtoler/exhaust_120mm_duct) | v2.4 Exhaust Housing for 120mm Fan and 4in Duct | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | hernsl | [Bottom Panel Mag Clip](./hernsl/bottom_panel_mag_clip) | v2.4 magnetic clips to retain bottom panel | :x: | :x: | :heavy_check_mark: |:x:|
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |:x:|
 |hoschi| [FYSETC Spider DIN Rail Mount](./hoschi/FYSETC_Spider_DIN_Mount) | DIN rail mount for FYSETC Spider | :x: | :grey_question: | :heavy_check_mark: | :grey_question: |
-|Iakabos| [c920_Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
+| Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
 | | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | | [Sturdy Handles](./jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points |:x: |:grey_question:|:heavy_check_mark:|:x:|
@@ -148,13 +156,18 @@ like so:
 | | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |:x: |
+| Jon | [adxl345 skirt keystone](./Jon/adxl345_skirt_keystone) | Skirt keystone for ADXL345 using Microfit 3.0 | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |
 | joposter | [V0 Clippable LED Caselight](./joposter/v0_clippable_ledmounts) | LED Case light for the V0 that clips into the extrusions | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: |
+| KageUrufu | [Euclid Probe Carriage](./kageurufu/mgn12-euclid) | A MGN-12 carriage with an inset mount for a Euclid Probe | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: |
-| Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: |
+| Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| | [Fan for V2-200mm²](./khay/V2-200_4020_Electronics_Fan) | Middle Skirt for V2-200mm² Electronics Compartment | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| | [3x Keystone PlugPanel](./khay/V2_3x_Keystone_Plugpanel) | PlugPanel with Options for 3 Keystones | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
+| | [Trident Schurter Inlet Skirt](./KiloQubit/trident_schurter_power_inlet)| Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
 | Koios | [6mm Tempered Glass Mod](./Koios/6mm_Glass) | Lock levers and rests for 6mm Tempered glass panels | :x: | :x:| :heavy_check_mark: | :x: |
 | | [C920 Low Profile Mount](./Koios/C920_Mount) | Low profile mount for a C920 Webcam | :x: | :x: | :heavy_check_mark: | :x: |
@@ -165,7 +178,6 @@ like so:
 | |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |:x:|
 | lakai | [Bruag Skirts](./lakai/Bruag_Skirts) | V2 350mm skirts inspired by Bruag Facades | :x: | :x: | :heavy_check_mark: | :x: |
 |leandromarceddu|[PowerSkirt](./leandromarceddu/PowerSkirt) |Modified skirtpiece for a digital power monitor|:x:|:grey_question:|:heavy_check_mark:|:grey_question:|
-||[Galileo adxl356 mount](./leandromarceddu/GalileoADXL) |Modified galileo chain anchor to fit an adxl356|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |:x:|
 |LoCoCNC| [MGN7H Shims](./LoCoCNC/MGN7H_Shims) | Shims for making bearing cartridges coplanar |:heavy_check_mark:|:x:|:x:|:x:|
 | | [Mosquito PTFE 15mm Tube Cutting Jig](./LoCoCNC/Mosquito_PTFE_Cutting_Jig) | Tool to precicely cut 15mm PTFE Tube |:heavy_check_mark:|:x:|:x:|:x:|
@@ -185,11 +197,14 @@ like so:
 | | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
+| MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
+|MikesMods|[LGX mount for V0.1 with 2nd X rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
 |mpfl |[V0.1 OLED-skirt](./mpfl/V0.1_skirt_OLED) |V0.1 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MrBean66| [SKR Pro DIN Mount](./MrBean66/SKR_PRO_Mount/) |Simple mod to mount the SKR Pro board from BTT to a DIN rails. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: |
@@ -215,13 +230,19 @@ like so:
 | revnull | [Raspberry Pi 7inch Display Mount](./revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
+| richardjm | [ADXL drag chain mount](./richardjm/adxl-chain) | Permanent mount for ADXL boards on the back of the motor, replacing the drag chain mount. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+| | [Back blanking plate](./richardjm/back-plate) | Back blanking plate that can be used instead of the exhaust filter housing if you are using something like a nevermore filter instead. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+| | [LED 15.5mm quarter round mounts](./richardjm/led-mounts) | Mounting corners with integrated cable runs for 15.5mm quarter round aluminium led extrusions. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+| | [Picam corner mount](./richardjm/picam-corner) | Out of the way corner mounted picam | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
-| Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
+| Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
+| | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
+| spacelab2021 | [Orbiter Clockwork Mount](spacelab2021/Orbiter-Clockwork) | A clockwork adaptor for the Orbiter v1.5 Extruder with full integration into the Afterburner. Includes a filament quick release lever for simple filament loading and unloading. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
 | Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
@@ -235,8 +256,8 @@ like so:
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |:x:|
-|teookie|[AB_dial_indicator_mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| | [SKR_Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
+|teookie|[AB dial indicator mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| | [SKR Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
 |Tircown| [Display mount 5"](./Tircown/Display_mount_5inch) | Tiltable mount for a 5" tactile display | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Raspberry in plug panel](./Tircown/Raspberry_plug_panel) | Raspberry mount vertically in the plug panel, allow easy access to ports  | :x: | :x: | :heavy_check_mark: | :x: |
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
