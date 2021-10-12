@@ -20,7 +20,7 @@ For crossrail.stl the DIN rails need to be spaced 120mm apart centre-to-centre (
 ### DRP-03 before cutting and in normal use
 ![crossrail](./images/_DSF0725.jpg)
 ![crossrail](./images/_DSF0724.jpg)
-### 2 x DRP-03s after cutting
+### 2 x DRP-03 after cutting
 ![crossrail](./images/_DSF0727.jpg)
 ### crossrail.stl
 ![crossrail](./images/crossrail_01.jpg)
