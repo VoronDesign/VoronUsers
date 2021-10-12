@@ -2,7 +2,7 @@
 
 ~~Crossrail is a railway construction project underway mainly in central London. Its aim is to provide...~~
 
-Crossrail is a printed adapter for RSP-200-24 or LRP-200-24 power supplies and DRP-03 brackets. It alows the power supply to be mounted across the rails (or vertically as it's sometimes called).
+Crossrail is a printed adapter for RSP-200-24 or LRP-200-24 power supplies and DRP-03 brackets. It alows the power supply to be mounted securely across the rails (or vertically as it's sometimes called).
 
 ![](./images/_DSF0728.jpg)
 
