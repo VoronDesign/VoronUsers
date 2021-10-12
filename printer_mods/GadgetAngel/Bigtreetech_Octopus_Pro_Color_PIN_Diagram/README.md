@@ -6,24 +6,26 @@ This repository contains .jpg and .pdf files for the BIGTREETECH's Octopus Pro V
 
 ### Why use the PDF file of the Color PIN Diagram:
 
-The PDF file looks the same as the JPG file. You can enlarge the image for both file type to 
-get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text the with the PDF file you just click on the URL and it will take you to that web site.
+The PDF file looks the same as the JPG file. You can enlarge the image for both file types to 
+get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
 
-You can view the PDF file by clicking on the filename "BIGTREETECH-Octopus-Pro-color-PIN.pdf"
+You can view the PDF  in you browser by clicking on the filename "BIGTREETECH-Octopus-Pro-color-PIN.pdf" and then hit the download button.
 
 ## A Picture of the Color PIN Diagram for the Octopus Pro V1.0:
 
+You can download the .jpg file for this Color PIN Diagram by clicking on the file "BIGTREETECH-Octopus-Pro-color-PIN.jpg" and then hit the download button.
+
 ![JPG of Color PIN Diagram](images/BIGTREETECH-Octopus-Pro-color-PIN.jpg)
 
-## Picture of the Original PIN Diagram from Bigtreetech:
+## Picture of the Original PIN Diagram from Bigtreetech for the Octopus Pro V1.0:
 
 ![JPG of original PIN Diagram](images/BIGTREETECH_Octopus_Pro-original-PIN.jpg)
 
-## The Bigtreetech original wiring diagram:
+## The Original Bigtreetech Wiring Diagram for the Octopus Pro V1.0:
 
 ![Original Wiring Diagram](images/BIGTREETECH-Octopus-PRO-Original-Wiring-Diagram.jpg)
 
-## Bigtreetech has a Github repository:
+## Bigtreetech has a Github repository for the Octopus Pro V1.0:
 
 The Bigtreetech Github repository is located at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-Pro
 
