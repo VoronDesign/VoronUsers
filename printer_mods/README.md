@@ -115,6 +115,7 @@ like so:
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
+| | [LGX Info, Links, and Models](./geoffreyyoung/lgx) | Useful information and models for using the Bondtech LGX extruder wth Afterburner| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
@@ -228,6 +229,7 @@ like so:
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
 | richardjm | [ADXL drag chain mount](./richardjm/adxl-chain) | Permanent mount for ADXL boards on the back of the motor, replacing the drag chain mount. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+| | [Back blanking plate](./richardjm/back-plate) | Back blanking plate that can be used instead of the exhaust filter housing if you are using something like a nevermore filter instead. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | | [LED 15.5mm quarter round mounts](./richardjm/led-mounts) | Mounting corners with integrated cable runs for 15.5mm quarter round aluminium led extrusions. | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | | [Picam corner mount](./richardjm/picam-corner) | Out of the way corner mounted picam | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
@@ -235,7 +237,8 @@ like so:
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
-| Slidr | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:|
+| Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
+| | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 | spacelab2021 | [Orbiter Clockwork Mount](spacelab2021/Orbiter-Clockwork) | A clockwork adaptor for the Orbiter v1.5 Extruder with full integration into the Afterburner. Includes a filament quick release lever for simple filament loading and unloading. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
