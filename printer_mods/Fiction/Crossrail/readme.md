@@ -9,7 +9,7 @@ Crossrail is a printed adapter for RSP-200-24 or LRP-200-24 power supplies and D
 crossrail_slot is the same mount but with a slot to allow 10mm adjustment in either direction
 
 ## Bill of materials
- - 2 x DRP-03 DIN rail power supply plate (Mouser, Digikey, Time, Ebay, powersuppliesonline.co.uk etc). These have to cut to create one fixed end and one sprung end. I used a chop saw but a hacksaw or grinder would work too
+ - 2 x DRP-03 DIN rail power supply plate (Mouser, Digikey, Time, Ebay, powersuppliesonline.co.uk etc). These need to be cut to create one fixed end and one sprung end. I used a chop saw but a hacksaw or grinder would work too. File or deburr the cut edges if needed.
  - 8 x M4x6 socket button head screws
  - 2 x crossrail.stl or crossrail_slot.stl (or one of each)
 
