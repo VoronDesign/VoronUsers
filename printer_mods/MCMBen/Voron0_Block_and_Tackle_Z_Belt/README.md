@@ -48,3 +48,37 @@ Ratio | Type | Length
 8:1 | GATES GT2 | 152mm
 &nbsp; | **OR** | &nbsp;
 8:1 | GT2 | 146mm
+
+#Klipper Config
+This assumes SKR Mini E3 v2 and stock V0 Z motor.
+```
+[stepper_z]
+step_pin: PB0
+dir_pin: !PC5           # Remove ! if moving opposite direction
+enable_pin: !PB1
+rotation_distance: 32
+gear_ratio: 40:16, 2:1
+full_steps_per_rotation: 200
+microsteps: 16
+endstop_pin: PC2
+position_endstop: -0.10
+position_max: 120       # Check that there is enough travel - you may need to reduce this by a couple of mm
+position_min: -1.5
+homing_speed: 20        # Default 20, Max 100
+second_homing_speed: 3.0
+homing_retract_dist: 3.0
+
+[tmc2209 stepper_z]
+uart_pin: PC11
+tx_pin: PC10
+uart_address: 1
+interpolate: True
+run_current: 0.37       # For V0 spec NEMA17 LDO-35STH42-0504AH
+hold_current: 0.35
+sense_resistor: 0.110
+stealthchop_threshold: 500
+
+[printer]
+max_z_velocity: 30      # Default 15, test before increasing
+max_z_accel: 350        # Default 45, test before increasing
+```
