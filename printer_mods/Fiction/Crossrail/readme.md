@@ -17,8 +17,9 @@ crossrail_slot is the same mount but with a slot to allow 10mm adjustment in eit
 For crossrail.stl the DIN rails need to be spaced 120mm apart centre-to-centre (that's a 85mm gap for 35mm rails). crossrail_slot.stl has 10mm adjustment in either direction to allow for different rail spacing (although the rails should still be parallel).
 
 ## Images
-### One DRP-03 before cutting
+### DRP-03 before cutting and in normal use
 ![crossrail](./images/_DSF0725.jpg)
+![crossrail](./images/_DSF0724.jpg)
 ### 2 x DRP-03s after cutting
 ![crossrail](./images/_DSF0727.jpg)
 ### crossrail.stl
