@@ -72,6 +72,7 @@ like so:
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
+| chestwood96 | [Smoothbrain v0.1 Door Latch](./chestwood96/Smoothbrain_v0.1_Door_Latch) | Door latch that can be taped on using VHB in case you forgot the nuts | :heavy_check_mark: | :x: | :x: | :x: |
 | christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |claytono|[Fysetc S6 V2 Mount](./claytono/fysetc-s6-v2-mount)| DIN Mount for the Fysetc S6 V2 controller |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
