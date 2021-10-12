@@ -6,6 +6,8 @@ Crossrail is an adapter for RSP-200-24 or LRP-200-24 power supplies and DRP-03 b
 
 ![](./images/_DSF0728.jpg)
 
+crossrail_slot is the same mount but with a slot to allow 10mm adjustment in either direction
+
 **Bill of materials**
  - 2 x DRP-03 DIN rail power supply plate (Mouser, Digikey, Time, Ebay, powersuppliesonline.co.uk etc) cut down so that one will be static and the other has the spring
  - 8 x M4x6 socket button head screws
@@ -19,3 +21,4 @@ The DIN rails need to be spaced 120mm apart centre-to-centre (85mm gap)
 ![crossrail](./images/crossrail_02.jpg)
 ![crossrail](./images/crossrail_04.jpg)
 ![crossrail](./images/crossrail_03.jpg)
+![crossrail](./images/crossrail_05.jpg)
