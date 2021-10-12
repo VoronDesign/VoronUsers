@@ -74,6 +74,6 @@ If you don't plan to use a Z endstop microswitch or sensorless homing for initia
 The Switchwire has about 230mm of print area in the Y direction, but has around 250mm of Y travel (mine has 257mm), from the endstop to the endblock. About 20 of those millimeters are located outside the bed at the front when the bed is pushed all the way to the rear of the printer. At this location, the nozzle and the part cooling ducts can be clear of the bed when homing at Z_min. The default `printer.cfg` for the VSW with an SKR Mini E3 V2 calls for 0 as position_min and 250 as position_max, whilst it should be, at least that is my case, -25 as position_min and 232 as position_max. When populating the variables in `dock_macros.cfg`, be sure to enter an existing value for `variable_y_min`, and that this value is located outside the bed. If you are using default config for `printer.cfg`, 0 should be a safe coordinate. If you changed the config file for the real travel in the Y axis, -20 should be a safe coordinate. Failure to enter an existing or safe value could at best prevent you from homing with the message `Move out of range`, or at worst crash the nozzle into the bed.
 
 ![SW_Y_travel](/printer_mods/hymness1/Quickdraw_probe_Voron_Switchwire/Pictures/SW_Y_travel.png)
-In yellow : Printable area
-In red : Full Y travel area
-In green : Y travel outside the bed. Lower end of this area is a safe place to home at Z_min
+* In yellow : Printable area
+* In red : Full Y travel area
+* In green : Y travel outside the bed. Lower end of this area is a safe place to home at Z_min
