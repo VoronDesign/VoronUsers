@@ -9,7 +9,7 @@ This repository contains .jpg and .pdf files for the BIGTREETECH's Octopus Pro V
 The PDF file looks the same as the JPG file. You can enlarge the image for both file type to 
 get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text the with the PDF file you just click on the URL and it will take you to that web site.
 
-![PDF of Color PIN Diagram](BIGTREETECH-Octopus-Pro-color-PIN.pdf)
+![PDF of Color PIN Diagram](https://docs.google.com/viewer?url=${BIGTREETECH-Octopus-Pro-color-PIN.pdf}
 
 ## Picture of the Color PIN Diagram for the Octopus Pro V1.0:
 
