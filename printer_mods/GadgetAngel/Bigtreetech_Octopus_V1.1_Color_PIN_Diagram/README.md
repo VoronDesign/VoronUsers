@@ -1,19 +1,19 @@
-# Color PIN Diagram for Bigtreetech Octopus V1.0 and Octopus V1.1 Board:
+# "Color PIN Diagram" for Bigtreetech Octopus V1.0 and Octopus V1.1 Board:
 
 This repository contains JPG and PDF files for the BIGTREETECH's Octopus V1.1 board.
 
-## The PDF file of the Color PIN Diagram for the Octopus V1.0 and Octopus V1.1 Board:
+## The PDF file of the "Color PIN Diagram" for the Octopus V1.0 and Octopus V1.1 Board:
 
-### Why use the PDF file of the Color PIN Diagram:
+### Why use the PDF file of the "Color PIN Diagram":
 
 The PDF file looks the same as the JPG file. You can enlarge the image for both file types to
 get all the details, but the PDF file contains URL links that will take you to websites that contain further information.  For example there are URL links that will take you to the processor datasheet.  If the color diagram contains a URL in text then just click on the URL and the PDF  will take you to that URL.
 
 You can view the PDF in your browser by clicking on the filename "BIGTREETECH-Octopus-V1.1-color-PIN.pdf" and then hit the download button.
 
-## A Picture of the Color PIN Diagram for the Octopus V1.0 and Octopus V1.1 Board:
+## A Picture of the "Color PIN Diagram" for the Octopus V1.0 and Octopus V1.1 Board:
 
-You can download the JPG file for this Color PIN Diagram by clicking on the file "BIGTREETECH-Octopus-1.1-color-PIN.jpg" and then hit the download button.  Again, to download the PDF just click on the filename "BIGTREETECH-Octopus-V1.1-color-PIN.pdf" and hit the download button.
+You can download the JPG file for this "Color PIN Diagram" by clicking on the file "BIGTREETECH-Octopus-1.1-color-PIN.jpg" and then hit the download button.  Again, to download the PDF just click on the filename "BIGTREETECH-Octopus-V1.1-color-PIN.pdf" and hit the download button.
 
 ![JPG of Color PIN Diagram](BIGTREETECH-Octopus-1.1-color-PIN.jpg)
 
@@ -50,7 +50,7 @@ If you decide later you want to look for a free I/O pin please do not make the m
 
 If you are using the "PROBE" connector for a proximity sensor you will need to add a [probe] section to the "generic-bigtreetech-octopus.cfg" file and ensure that the sensor_pin: PB7
 
-Please use this color pin diagram in this repository to obtain the correct PIN assigments.
+Please use the "Color PIN Diagram" in this repository to obtain the correct PIN assigments.
 
 If you decide to flash a new bootloader to the Octopus V1.1 board (you should not need to because you can upload the new Klipper firmware using the micro-SD card reader) and find that the micro-SD card bootloader no longer works you will want to return the board to it's shipment state by finding the original bootloader and "bootlaoder+firmware" files at https://github.com/GadgetAngel/BTT_SKR_13_14_14T_SD-DFU-Bootloader/tree/main/bootloader_bin/backed_up_original_bootloaders
 
