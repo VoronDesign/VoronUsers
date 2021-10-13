@@ -27,11 +27,11 @@ You can download the JPG file for this Color PIN Diagram by clicking on the file
 
 ![Original Wiring Diagram](images/BIQU-Octopus-wiring-diagram-V1.0-2021-7-9.png)
 
-### For Voron 2.4 builders:
+## For Voron 2.4 builders:
 
 You can find a Voron 2.4 wiring diagram at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Octopus%20works%20on%20Voron%20v2.4/Firmware/BTT_OctoPus_Voron2.4_Wiring_English.pdf
 
-Here is a picture of the Voron 2.4 harness wiring diagram by Thomas White for the Octopus V1.0 or Octopus V1.1 baord to the tool head (no tool head PCB):
+Here is a picture of the Voron 2.4 wiring harness diagram by Thomas White for the Octopus V1.0 or Octopus V1.1 baord to the tool head (no tool head PCB):
 
 ![Original Wiring Diagram](Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.JPG)
 
