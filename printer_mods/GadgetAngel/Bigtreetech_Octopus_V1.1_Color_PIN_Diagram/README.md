@@ -1,8 +1,8 @@
-# Color PIN Diagram for Bigtreetech Octopus V1.1 Board
+# Color PIN Diagram for Bigtreetech Octopus V1.0 and Octopus V1.1 Board:
 
 This repository contains JPG and PDF files for the BIGTREETECH's Octopus V1.1 board.
 
-## The PDF file of the Color PIN Diagram for the Octopus V1.1:
+## The PDF file of the Color PIN Diagram for the Octopus V1.0 and Octopus V1.1 Board:
 
 ### Why use the PDF file of the Color PIN Diagram:
 
@@ -11,17 +11,17 @@ get all the details, but the PDF file contains URL links that will take you to w
 
 You can view the PDF in your browser by clicking on the filename "BIGTREETECH-Octopus-V1.1-color-PIN.pdf" and then hit the download button.
 
-## A Picture of the Color PIN Diagram for the Octopus V1.1:
+## A Picture of the Color PIN Diagram for the Octopus V1.0 and Octopus V1.1 Board:
 
 You can download the JPG file for this Color PIN Diagram by clicking on the file "BIGTREETECH-Octopus-1.1-color-PIN.jpg" and then hit the download button.
 
 ![JPG of Color PIN Diagram](BIGTREETECH-Octopus-1.1-color-PIN.jpg)
 
-## Picture of the Original PIN Diagram from Bigtreetech for the Octopus V1.1:
+## Picture of the Original PIN Diagram from Bigtreetech for the Octopus V1.0 and Octopus V1.1 Board:
 
 ![JPG of original PIN Diagram](images/BIGTREETECH-Octopus-V1.1-original-PIN.jpg)
 
-## The Original Bigtreetech Wiring Diagram for the Octopus V1.1:
+## The Original Bigtreetech Wiring Diagram for the Octopus V1.0 and Octopus V1.1 Board:
 
 ### For general purposes:
 
@@ -31,11 +31,11 @@ You can download the JPG file for this Color PIN Diagram by clicking on the file
 
 You can find a Voron 2.4 wiring diagram at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Octopus%20works%20on%20Voron%20v2.4/Firmware/BTT_OctoPus_Voron2.4_Wiring_English.pdf
 
-## Bigtreetech has a Github repository for the Octopus V1.1:
+## Bigtreetech has a Github repository for the Octopus V1.0 and Octopus V1.1 Board:
 
 The Bigtreetech Github repository is located at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0
 
-## Klipper firmware supports the Octopus V1.1 board:
+## Klipper firmware supports the Octopus V1.0 and Octopus V1.1 Board:
 
 Here is the link to the config file on github for the Octopus V1.1 board https://github.com/Klipper3d/klipper/blob/master/config/generic-bigtreetech-octopus.cfg.
 
