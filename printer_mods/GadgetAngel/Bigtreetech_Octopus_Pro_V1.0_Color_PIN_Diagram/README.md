@@ -13,7 +13,7 @@ You can view the PDF in your browser by clicking on the filename "BIGTREETECH-Oc
 
 ## A Picture of the Color PIN Diagram for the Octopus Pro V1.0:
 
-You can download the JPG file for this Color PIN Diagram by clicking on the file "BIGTREETECH-Octopus-Pro-V1.0-color-PIN.jpg" and then hit the download button.
+You can download the JPG file for this Color PIN Diagram by clicking on the file "BIGTREETECH-Octopus-Pro-V1.0-color-PIN.jpg" and then hit the download button.  Again, to download the PDF just click on the filename "BIGTREETECH-Octopus-Pro-V1.0-color-PIN.pdf" and hit the download button.
 
 ![JPG of Color PIN Diagram](BIGTREETECH-Octopus-Pro-V1.0-color-PIN.jpg)
 
