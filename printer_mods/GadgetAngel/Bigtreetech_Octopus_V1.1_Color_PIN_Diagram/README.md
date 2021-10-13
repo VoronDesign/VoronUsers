@@ -31,13 +31,9 @@ You can download the JPG file for this Color PIN Diagram by clicking on the file
 
 You can find a Voron 2.4 wiring diagram at https://github.com/bigtreetech/BIGTREETECH-OCTOPUS-V1.0/blob/master/Octopus%20works%20on%20Voron%20v2.4/Firmware/BTT_OctoPus_Voron2.4_Wiring_English.pdf
 
-Here is a picture of the Voron 2.4 wiring harness diagram by Thomas White for the Octopus V1.0 or Octopus V1.1 baord to the tool head (no tool head PCB):
+Here is a picture of the Voron 2.4 wiring harness diagram by Thomas White for the Octopus V1.0 or Octopus V1.1 baord to the tool head (no tool head PCB). You can find Thomas White's Voron 2.4 wiring harness diagram in PDF format here in this repository.  To download the PDF just click on the filename "Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.pdf" and hit the download button.
 
 ![Original Wiring Diagram](Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.JPG)
-
-Here is the PDF of the Voron 2.4 harness wiring diagram by Thomas White for the Octopus V1.0 or Octopus V1.1 board to the tool head (no tool head PCB).  To download the PDF just click on the filename "Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.pdf" and hit the download button:
-
- ![Voron 2.4 Wiring Harness Diagram by Thomas White](Voron_2.4_Octopus_Cable_Chain_wiring_by_Thomas_White.pdf)
 
 
 ## Bigtreetech has a Github repository for the Octopus V1.0 and Octopus V1.1 Board:
