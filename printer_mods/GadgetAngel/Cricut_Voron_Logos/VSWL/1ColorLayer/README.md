@@ -10,4 +10,4 @@
 ### Link to my Repository on Github that contains all files I used to produce the "Voron Switch Wire 1_Color_Layer" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_SW_Logo/1_Color_Layer/Current_Design_Files
 
 ### Picture of "Voron Switch Wire Build with 1 Color":
-![Cricut VoronSW Logo RearPanel 1Layer](../../images/VoronSWLogoRear1Layer.jpg)
+![Cricut VoronSW Logo RearPanel 1Layer](../../images/VSWRearP.jpg)
