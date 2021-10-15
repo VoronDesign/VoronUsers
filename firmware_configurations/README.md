@@ -25,7 +25,7 @@ like so:
 
 ## Klipper
 
-| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
+| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- |
 | jaeger | [FYSETC Spider on V1.8](./klipper/jaeger/Spider_1.1_V1.8) | Example configuration and wiring diagram for a FYSETC Spider 1.1 board on the V1.8 | :x: | :heavy_check_mark: | :x: | :x: |
 | MarcPot | [Fysetc Spider Board Pins](./klipper/MarcPot/fysetc_spider_pins) | Defines a set of `[board_pins]` aliases for use with the Fysetc Spider controller | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -35,9 +35,9 @@ like so:
 
 ## RepRapFirmware
 
-| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
+| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- |
 | DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.3 example config | :x: | :x: | :heavy_check_mark: | :x: |
 | fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: | :x: |
-
+| MacNite | [Duet 3 Config](./reprapfirmware/MacNite) | RRF 3.4 config with Klickyprobe | :x: | :x: | :x: | :x: | :heavy_check_mark: | 
 ---
