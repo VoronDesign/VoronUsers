@@ -25,12 +25,12 @@ G29                                                     ; run mesh bed compensat
 ```
 End G-code:
 ```
-M104 S0 T0; turn off hotend1
-M140 S0; turn off bed
-M106 S0; turn off fan
+M104 S0 T0                                              ; turn off hotend
+M140 S0                                                 ; turn off bed
+M106 S0                                                 ; turn off fan
 {if max_layer_z < max_print_height}G1 Z{z_offset+min(max_layer_z+30, max_print_height)}{endif} ; Move bed down if possible
 G1 X10
-M84     ; disable motors
+M84                                                     ; disable motors
 ```
 Before layer change G-code:
 ```
