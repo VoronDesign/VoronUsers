@@ -1,4 +1,4 @@
-![](./Pictures/Foto1.png)
+![](./Pictures/Foto1.jpg)
 
 This mod is to mount a PanelDue5i by Fysetc (not the original from Duet3D) to the front of the Voron V1.8, Voron Trident and Voron 2.4
 
