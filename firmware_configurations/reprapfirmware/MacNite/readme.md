@@ -12,16 +12,29 @@ in the toollength.g-file. You can find this file under system-toollength.g.
 
 This is a config that will work on RRF 3.4 - probably on different versions as well but I have not tested that.
 
-I use the following start- and end-gcode in SuperSlicer:
-Start-Gcode:
+I use the following Start and End G-code in SuperSlicer:
+Start G-code:
 ```
-set global.bed_temp = <temp here> 
-set global.hotend_temp = <temp heree>
-M98 P"0:/macros/Print/Print start"
+M104 T[current_extruder] S[first_layer_temperature]     ; set extruder temp
+M140 S[first_layer_bed_temperature]                     ; set bed temp
+G28                                                     ; home all axes
+M190 S[first_layer_bed_temperature]                     ; wait for bed temp
+M109 T[current_extruder] S[first_layer_temperature]     ; wait for extruder temp
+G32                                                     ; call bed.g to align z-axis
+G29                                                     ; run mesh bed compensation
 ```
-End-Gcode:
+End G-code:
 ```
-M98 P"0:/macros/Print/Print end" 
+M104 S0 T0; turn off hotend1
+M140 S0; turn off bed
+M106 S0; turn off fan
+{if max_layer_z < max_print_height}G1 Z{z_offset+min(max_layer_z+30, max_print_height)}{endif} ; Move bed down if possible
+G1 X10
+M84     ; disable motors
+```
+Before layer change G-code:
+```
+;[layer_z]
 ```
 
 I tried to visualise my wiring below:
