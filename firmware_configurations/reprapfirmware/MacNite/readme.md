@@ -38,4 +38,5 @@ Before layer change G-code:
 ```
 
 I tried to visualise my wiring below:
-![](./Pictures/Wiring.png)
+
+![](./Pictures/Wiring.PNG)
