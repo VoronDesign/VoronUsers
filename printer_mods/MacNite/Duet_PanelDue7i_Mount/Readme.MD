@@ -1,4 +1,4 @@
-![](./Pictures/Foto1.jpg)
+![](./Pictures/Picture1.PNG)
 
 This mod is to mount a genuine PanelDue 7i by FysetDuet 3D to the front of the Voron V1.8, Voron Trident and Voron 2.4. This mod replaces the standard LCD-Panel mount.
 
@@ -17,5 +17,3 @@ You'll need the following
 - 2x BCHS M5x10
 - 2x M5 T-Nut
 - Duet3D PanelDue 7i (genuine)
-
-![](./Pictures/NewCut.PNG)
