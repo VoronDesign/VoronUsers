@@ -12,4 +12,4 @@ You'll need the following
 
 Just print the 2 inlcluded STL files, insert the threaded inserts into the front piece and assemble everything. The only part which needs change are the front doors of your Voron to allow for access to the panel.
 
-![](./Pictures/NewCut.png)
+![](./Pictures/NewCut.PNG)
