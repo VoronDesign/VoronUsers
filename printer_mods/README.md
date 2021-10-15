@@ -189,9 +189,9 @@ like so:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 | |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |:x:|
-|MacNite |[Fysetc PanelDue 5i Mount](./MacNite/Fysetc PanleDue5i Mount)|Fysetc PanelDue 5i mount for Voron 1.8, Trident and V2.4. |:x: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
-| |[Duet PanelDue 7i mount](./MacNite/Duet PanelDue7i Mount)|Duet3D PanelDue 7i mount for Voron 1.8, Trident and V2.4. |:x: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
-| |[Duet 3HC & 6HC](./MacNite/Duet 3HC & 6HC Mount)|Duet3D Duet 3HC and 6HC holder for DIN Rails. |:x: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
+|MacNite |[Fysetc PanelDue 5i Mount](./MacNite/Fysetc PanleDue5i Mount)|Fysetc PanelDue 5i mount for Voron 1.8, Trident and V2.4. |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:||:heavy_check_mark:|
+| |[Duet PanelDue 7i mount](./MacNite/Duet PanelDue7i Mount)|Duet3D PanelDue 7i mount for Voron 1.8, Trident and V2.4. |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:||:heavy_check_mark:|
+| |[Duet 3HC & 6HC](./MacNite/Duet 3HC & 6HC Mount)|Duet3D Duet 3HC and 6HC holder for DIN Rails. |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:||:heavy_check_mark:|
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
 | |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |:x:|
