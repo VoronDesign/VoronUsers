@@ -1,4 +1,4 @@
-![](./Pictures/1.jpg)
+![](./Pictures/1.PNG)
 
 This is a simple Filament Runout Sensor Design I came up with for my Voron printers. It uses a left-over microswitch, a magnet and a 10mm ball bearing ball.
 
