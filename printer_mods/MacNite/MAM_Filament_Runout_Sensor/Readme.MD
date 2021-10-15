@@ -1,4 +1,4 @@
-![](./Pictures/1.PNG)
+![](./Pictures/4.jpg)
 
 This is a simple Filament Runout Sensor Design I came up with for my Voron printers. It uses a left-over microswitch, a magnet and a 10mm ball bearing ball.
 
@@ -14,4 +14,5 @@ You'll need the following
 
 Assembly is pretty self explanatory. After assembly you have to "adjust" the microswitchs position using the slotted holes. The microswitch should be actuated when filamen is inserted and released if it is missing. You can adjust the actuation point by inserting and removing filament manually while listening to the switches klick-sound.
 
+![](./Pictures/1.PNG)
 ![](./Pictures/3.PNG)
