@@ -36,9 +36,9 @@ like so:
 ## RepRapFirmware
 
 | Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
-| --- | --- | --- | --- | --- | --- | --- |
-| DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.3 example config | :x: | :x: | :heavy_check_mark: | :x: |
-| fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: | :x: |
+| --- | --- | --- | --- | --- | --- | --- |  --- |
+| DorjeDorf | [Duet 3 Config](./reprapfirmware/DorjeDorf) | RRF 3.3 example config | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| fulg | [Duet 2 Config](./reprapfirmware/fulg) | RRF 2.05 example config | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | MacNite | [Duet 3 Config](./reprapfirmware/fulg) | RRF3.4 Duet 6HC with KlickyProbe | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 
 ---
