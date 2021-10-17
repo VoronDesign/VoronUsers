@@ -1,0 +1,5 @@
+M104 S255 ; set extruder temp
+M109 S255 ; wait for extruder temp
+G1 E80 F6000
+G1 E10 F300
+
