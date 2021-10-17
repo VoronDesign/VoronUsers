@@ -7,7 +7,9 @@ Also I have commented out the tool length sensor because for my applications it 
 ;M98 P"toollength.g"
 
 Also double-check the position of the tool length sensor. Mine is:
-G1 X... Y...
+```
+G1 X190 Y350
+```
 in the toollength.g-file. You can find this file under system-toollength.g.
 
 This is a config that will work on RRF 3.4 - probably on different versions as well but I have not tested that.
