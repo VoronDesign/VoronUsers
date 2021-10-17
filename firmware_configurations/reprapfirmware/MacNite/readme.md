@@ -21,7 +21,6 @@ G28                                                     ; home all axes
 M190 S[first_layer_bed_temperature]                     ; wait for bed temp
 M109 T[current_extruder] S[first_layer_temperature]     ; wait for extruder temp
 G32                                                     ; call bed.g to align z-axis
-G29                                                     ; run mesh bed compensation
 ```
 End G-code:
 ```
