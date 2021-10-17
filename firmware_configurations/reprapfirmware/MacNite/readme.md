@@ -10,7 +10,11 @@ Also double-check the position of the tool length sensor. Mine is:
 ```
 G1 X190 Y350
 ```
-in the toollength.g-file. You can find this file under system-toollength.g.
+in the toollength.g-file. You can find this file under system-toollength.g. You have to adjust the Actuation Point of your Nozzle Probe / Tool  Length Sensor as well:
+```
+G92 Z-0.2
+```
+
 
 This is a config that will work on RRF 3.4 - probably on different versions as well but I have not tested that.
 
