@@ -14,7 +14,7 @@ The modded KeyBak mount with a D2F-5L (or any other microswitch of this size wit
 5. Screws in 2 (ferric) M2x12mm.
 
 ## Probe Drop-in Replacement
-1. Crimp 2 15cm 24AWG wires with MicroFit3 Male pins and flatten the end (other pins might work too).
+1. Crimp 2 20cm 24AWG wires with MicroFit3 Male pins and flatten the end (other pins might work too).
 2. Insert the flattened crimped wires in the holes next to the magnets holes. This should be a tight fit.
 3. Insert the magnets in the magnet holes against the wire pins. Magnets should be of opposite polarity. A little dab of superglue at the bottom, and NOT touching the pins, goes a long way.
 4. Trim any excess pins so they sit flush with the magnets.
