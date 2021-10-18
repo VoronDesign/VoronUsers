@@ -18,7 +18,7 @@ The modded KeyBak mount with a D2F-5L (or any other microswitch of this size wit
 2. Insert the flattened crimped wires in the holes next to the magnets holes. This should be a tight fit.
 3. Insert the magnets in the magnet holes against the wire pins. Magnets should be of opposite polarity. A little dab of superglue at the bottom, and NOT touching the pins, goes a long way.
 4. Trim any excess pins so they sit flush with the magnets.
-5. Mount the Drop-in Replacement in place of the probe on the Afterburner. Crimp the other end of the wires and if you reuse the old probe connector (with 3 positions), be sure to insert the wires in the signal and ground positions. You can disconnect the 24V probe wire from the MCU.
+5. Mount the Drop-in Replacement in place of the probe on the Afterburner. Crimp the other end of the wires and if you reuse the old probe connector (with 3 positions) on the wire loom, be sure to insert the wires in the signal and ground positions. You can disconnect the 24V probe wire from the MCU.
 
 ## Dock Arm
 1. Insert 2 M3x5x4 threaded inserts.
