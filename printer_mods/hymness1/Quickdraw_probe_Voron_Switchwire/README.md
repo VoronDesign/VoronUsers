@@ -20,7 +20,7 @@ For the dock arm, dock, probe drop-in replacement and probe you will find here, 
 * 2x M5X12mm SHCS
 * 2x M5 T-nut for 3030 extrusion
 * 2x M3x5x4 threaded heat inserts
-* 30cm of 24AWG wire
+* 40cm of 24AWG wire
 * 2x MicroFit3 male pins
 
 If you want to use the modded KeyBak mount, you'll need :
