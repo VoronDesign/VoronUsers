@@ -24,7 +24,7 @@ For the dock arm, dock, probe drop-in replacement and probe you will find here, 
 * 2x MicroFit3 male pins
 
 If you want to use the modded KeyBak mount, you'll need :
-* 1x Omron D2F-5 microswitch (recommended, but other microswitches of the same size should work too)
+* 1x Omron D2F-5L microswitch (recommended, but other microswitches of the same size with a lever should work too)
 * 2x M3x5x4 threaded heat inserts
 * 2x M2x10 Self Tapping
 * About 1m of 24AWG wire
