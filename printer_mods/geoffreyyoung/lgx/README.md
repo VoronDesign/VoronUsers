@@ -3,6 +3,7 @@
 Useful links, info, and models for using the The LGX™ Large Gears eXtruder with Afterburner...
 
 - [Afterburner LGX Mounts](#afterburner-lgx-mounts)
+- [Wiring](#wiring)
 - [Klipper config](#klipper-config)
 - [Extra LGX Models](#extra-lgx-models)
   * [LGX Cable Cover](#lgx-cable-cover)
@@ -23,6 +24,12 @@ These models are pinned in the [#voronuser_mods](https://discord.com/channels/46
 Thanks to `@Nemgrea V2.199 V0.000` and the crew for their efforts designing and testing the mounts, and offering them to the community.
 
 <sub>*Aside: For my own build, I found that my third-party M3x20 screws had a large enough head that the toolhead couldn't mount to the X Carriage assembly properly without a bit more clearance.  If you find yourself in this situation, [this mod of @Nemgrea's mount](STLs/lgx_AftB_Mount_Front-extra_clearance.stl) is nearly identical to the one on Discord but with slightly more clearance for the bottom screws.  Please try the (semi)official one first before using this mod :)*</sub>
+
+### Wiring
+
+The LGX uses a JST-PH 6-pin connector, which is not part of any standard Voron BOM so you'll need to source that on your own.
+
+Technical specifications for the motor can be found on the [Bondtech website](https://www.bondtech.se/product/lgx-pancake-25mm-stepper-motor/), including a [wiring diagram](https://www.bondtech.se/wp-content/uploads/2021/01/Bondtech-E-Motor-LDO-42STH25-1004ACGBDT-RevB.pdf).  In case the wiring diagram goes away you can also find it [here](images/Bondtech-E-Motor-LDO-42STH25-1004ACGBDT-RevB.pdf).
 
 ### Klipper config
 
