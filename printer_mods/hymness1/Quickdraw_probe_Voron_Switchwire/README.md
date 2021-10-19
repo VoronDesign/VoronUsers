@@ -12,7 +12,7 @@ By using the dock, you will loose 27mm of X travel.
 Here's a video of initial homing sequence with the probe docked and not attached to the toolhead :
 https://youtu.be/5mihNdWIw-k
 
-For the dock arm, dock, probe drop-in replacement and probe you will find here, you'll need :
+For the dock arm, dock, probe drop-in attachment and probe you will find here, you'll need :
 * 1x Omron D2F-5 microswitch (recommended)
 * 8x 6x3mm magnets
 * 2x M2x12mm screws (magnetic)
@@ -29,4 +29,4 @@ If you want to use the modded KeyBak mount, you'll need :
 * 2x M2x10 Self Tapping
 * About 1m of 24AWG wire
 
-If you want to go with the modded carriage instead of the probe drop-in replacement, you can find it at Annex Engineering : https://github.com/Annex-Engineering/Quickdraw_Probe
+If you want to go with the modded carriage instead of the probe drop-in attachment, you can find it at Annex Engineering : https://github.com/Annex-Engineering/Quickdraw_Probe
