@@ -7,6 +7,7 @@ All the files are ready to print, they are in the recommended orientation.
 - Version 0.2 - Revised probe and dock to improve the docking fit, remaining components are compatible
   - Thanks to oc_geek for improving the probing of a badly tilted gantry (10º) and the probe and dock attachment, it's much better now
   
+
 The Klicky Probe consists on four different components:
 - Afterburner (AB) mount
 - the probe itself
