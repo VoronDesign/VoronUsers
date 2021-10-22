@@ -11,3 +11,9 @@ I use this extrusion profile cover to hide the cable (https://www.thingiverse.co
 2x M3x8 SHCS
 
 2x M3 T-nut
+
+<b>Screenshots</b>
+
+![Screenshot](C270_Top_Center_Mount_1.jpg)
+![Screenshot](C270_Top_Center_Mount_2.jpg)
+![Screenshot](C270_Top_Center_Mount_View.jpg)
