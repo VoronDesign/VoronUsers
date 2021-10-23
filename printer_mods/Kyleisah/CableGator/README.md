@@ -1,7 +1,7 @@
 # The CableGator!
 The cable comb that takes a BITE out of dragchain frustration!
 
-<img src="Images/Stylish View.png" width="480px" />
+<img src="Images/StylishView.png" width="480px" />
 
 ## Why do I need this?
 Keeping your wiring tidy as you're installing your dragchains can be a hassle, sometimes quite the croc!
