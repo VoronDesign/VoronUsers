@@ -209,6 +209,25 @@ After everything is assembled let's check again for continuity.
 
 <img src="./Photos/ABMountCheckforContiuity.jpg" width="600px;" />
 
+## Step 3.1: Press-fit the magnets
+
+You can now press fit the magnets in place, with the AB_mount_press_Helper and Klicky_probe_press_Helper parts:
+
+<p float="left">
+  <img src="./Photos/Klicky_probe_press_Helper.jpg" width="300" />
+  <img src="./Photos/AB_mount_press_Helper.jpg" width="300" />
+</p>
+
+Insert the AB mount and probe in the helper parts and you can then press fit with a vice or on a hard surface.
+
+<p float="left">
+  <img src="./Photos/Klicky_probe_press_Helper_inuse.jpg" width="300" />
+  <img src="./Photos/AB_mount_press_Helper_inuseBack.jpg" width="300" />
+  <img src="./Photos/AB_mount_press_Helper_inuseTop.jpg" width="300" />
+</p>
+
+
+
 ## Step 4: AB Mount installation and wiring
 
 For the installation you need the following parts:
