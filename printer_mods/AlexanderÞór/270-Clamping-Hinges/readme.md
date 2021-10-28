@@ -4,7 +4,7 @@ The design of this hinge is based on [_chrisgonzales_](https://github.com/VoronD
 
 ### Important Notice ###
 
-If you're going for a super sealed enclosure, then these hinges are not for you. In testing ( at the moment with only 2 hinges per panel ) I found after opening and closing the doors several times, they would slowly lose alignment ( only by fractions of a mm ) and just need a little push to re-align so the panels would close properly and not collide. This means you'll probably have a gap of a couple mm between the panels at the front if you don't want to be driven crazy by them not staying super aligned. A potential fix would be to print 3 hinges for each panel but I am yet to test this although I strongly recommend you do if you have a printer larger than 250x250 ( what I'm testing them on ).
+If you're going for a super sealed enclosure, then these hinges are not for you. In testing ( at the moment with only 2 hinges per panel ) I found after opening and closing the doors several times, they would slowly lose alignment ( only by fractions of a mm ) and just need a little push to re-align so the panels would close properly and not collide. This means you'll probably have a gap of a couple mm between the panels at the front if you don't want to be driven crazy by them not staying super aligned. A potential fix would be to print 3 hinges for each panel but I am yet to test this although I strongly recommend you do use 3 hinges per panel if you have a printer larger than 250x250 ( what I'm testing them on ).
 
 ### Using Foam Tape ###
 
