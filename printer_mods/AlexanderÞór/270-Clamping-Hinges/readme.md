@@ -27,6 +27,8 @@ M3 T-Nut               [x1]
 
 ![Clamping-Hinges-Assembly.gif](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/270-Clamping-Hinges-Assembly.gif?raw=true)
 
+![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
+
 1. Attach the _face_plate_bottom_ to the _face_plate_top_ using 2x M3x8mm Bolts and 2x Hex Nuts - Keep the bolts loose for now
 2. Attach the face plate assembly to the _side_mount_ using 2x M3x8mm Bolts - Again, don't overtighten these so the hinge moves easily
 3. Install the finished hinge assembly to the frame using 1x M3 T-Nut and 1x M3x8mm Bolt - Position them now to your liking
