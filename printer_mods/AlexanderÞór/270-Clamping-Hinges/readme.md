@@ -10,6 +10,10 @@ If you're going for a super sealed enclosure, then these hinges are not for you.
 
 At the moment I have only tested using 3mm thick foam and that works well, you may be able to get away with 4mm foam, but for anything thicker, you'll need to modify part of the hinge to accommodate this.
 
+Face Plate Style One             |  Face Plate Style Two
+:-------------------------------:|:-------------------------------:
+![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)         |  ![Logo-Variation-2.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)
+
 ## BOM - Per Hinge ##
 **Printed Parts**
 ```
