@@ -14,7 +14,7 @@ At the moment I have only tested using 3mm thick foam and that works well, you m
 **Printed Parts**
 ```
 face_plate_top.stl     [x1]
-face_plate_bottom.stl  [x1] - This part can be printed in an accent colour for more coolness ;)
+face_plate_bottom.stl  [x1]
 side_mount.stl.        [x1]
 ```
 **Additional Hardware**
@@ -23,14 +23,27 @@ M3 x 8mm SHCS          [x5]
 M3 Hex Nuts            [x2]
 M3 T-Nut               [x1]
 ```
+## Printing ##
+
+I recommend following the default settings for Voron Parts, and none of the parts require support material.
+```
+Layer Height       : 0.2 mm
+Extrusion Width    : 0.4 mm
+Infill             : 40 %
+Perimeters         : 4
+Solid Top/Bottom   : 5
+Supports           : No
+Brim               : Optional
+```
 ## Assembly ##
 
 ![Clamping-Hinges-Assembly.gif](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/270-Clamping-Hinges-Assembly.gif?raw=true)
 
 ![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
+_Better photos will come in good time ;)_
 
-1. Attach the _face_plate_bottom_ to the _face_plate_top_ using 2x M3x8mm Bolts and 2x Hex Nuts - Keep the bolts loose for now
-2. Attach the face plate assembly to the _side_mount_ using 2x M3x8mm Bolts - Again, don't overtighten these so the hinge moves easily
+1. Attach the _face_plate_bottom_ to the _face_plate_top_ using 2x M3 x 8 mm Bolts and 2x Hex Nuts - Keep the bolts loose for now
+2. Attach the face plate assembly to the _side_mount_ using 2x M3 x 8 mm Bolts - Again, don't overtighten these so the hinge moves easily
 3. Install the finished hinge assembly to the frame using 1x M3 T-Nut and 1x M3x8mm Bolt - Position them now to your liking
 4. Once all the hinges are on the frame. Slot in a panel on one side, before tightening down the M3x8mm Bolts in the face plate assembly. And repeat for the other panel.
 5. Loosen of the panels clamps and postion accordingly, repeat for the other panel.
