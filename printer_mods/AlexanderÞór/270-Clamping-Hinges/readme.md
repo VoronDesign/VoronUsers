@@ -12,7 +12,7 @@ At the moment I have only tested using 3mm thick foam and that works well, you m
 
 Face Plate Style One             |  Face Plate Style Two
 :-------------------------------:|:-------------------------------:
-![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)         |  ![Logo-Variation-2.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)
+![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)         |  ![Logo-Variation-2.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
 
 ## BOM - Per Hinge ##
 **Printed Parts**
