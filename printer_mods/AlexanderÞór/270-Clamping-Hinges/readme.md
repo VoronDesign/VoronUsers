@@ -10,16 +10,20 @@ If you're going for a super sealed enclosure, then these hinges are not for you.
 
 At the moment I have only tested using 3mm thick foam and that works well, you may be able to get away with 4mm foam, but for anything thicker, you'll need to modify part of the hinge to accommodate this.
 
-Face Plate Style One             |  Face Plate Style Two
-:-------------------------------:|:-------------------------------:
-![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)         |  ![Logo-Variation-2.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
+### Different Styles Of Face Plates ###
+
+The file names match up with the digrams below.
+
+Face Plate Style Zero             |  Face Plate Style One         | Face Plate Style Two
+:-------------------------------:|:-------------------------------:|:-------------------------------:
+![Logo-Variation-0.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-0.png?raw=true)         |  ![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)  | ![Logo-Variation-2](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
 
 ## BOM - Per Hinge ##
 **Printed Parts**
 ```
 face_plate_top.stl     [x1]
 face_plate_bottom.stl  [x1]
-side_mount.stl.        [x1]
+side_mount.stl         [x1]
 ```
 **Additional Hardware**
 ```
@@ -42,8 +46,6 @@ Brim               : Optional
 ## Assembly ##
 
 ![Clamping-Hinges-Assembly.gif](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/270-Clamping-Hinges-Assembly.gif?raw=true)
-
-![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
 _Better photos will come in good time ;)_
 
 1. Attach the _face_plate_bottom_ to the _face_plate_top_ using 2x M3 x 8 mm Bolts and 2x Hex Nuts - Keep the bolts loose for now
@@ -52,3 +54,7 @@ _Better photos will come in good time ;)_
 4. Once all the hinges are on the frame. Slot in a panel on one side, before tightening down the M3x8mm Bolts in the faceplate assembly. And repeat for the other panel.
 5. Loosen the panel's clamps and position accordingly, repeat for the other panel.
 6. For the handles, I just re-used the correct ones that _chrisgonzales_ made :). 
+
+## Installed On My 2.4 ##
+
+![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
