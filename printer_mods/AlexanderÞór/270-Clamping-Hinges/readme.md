@@ -1,12 +1,14 @@
 # 270 Degree Clamping Hinges #
 
-This hinge design builds off of the already incredible 270 degree hinges created by _chrisgonzales_ - linked below. The main design goal was to have the front panels mounted in a way that **didn't use any VHB tape or holes that needed to be drilled into the acrylic**, and of course, use minimal amounts of additional hardware. After many design iterations and improvements I came to a fairly simple soloution.
-
-https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/chrisrgonzales/270_degree_hinge/README.md
+This hinge design builds off of the already incredible 270 degree hinges created by [_chrisgonzales_](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge). The main design goal was to have the front panels mounted in a way that **didn't use any VHB tape or holes that needed to be drilled into the acrylic**, and of course, use minimal amounts of additional hardware. After many design iterations and improvements I came to a fairly simple soloution.
 
 ### Important Notice ###
 
 If your going for a super sealed enclosure, then these hinges are not for you. In testing ( at the moment with only 2 hinges per panel ) I found after opening and closing the doors serveral times, they would slowly lose alignemnt ( only by a fraction of a mm ) and just need a little push to re-allign so the panels would close properly and not collide. This means you'll probably have a gap of a couple mm between the panels at the front if you dont wan't to be driven crazy by them not staying super alligned. A potential fix would be to print 3 hinges for each panel but I am yet to test this although I strongly recommend you do if your have a printre larger than 250x250 ( what I'm testing them on ).
+
+### Using Foam Tape ###
+
+At the moment I have only tested using 3mm thick foam and that works well, you may be able to get away with 4mm foam, but for anything thicker you'll need to modifiy part of the hinge to accomadate this.
 
 ## BOM - Per Hinge ##
 **Printed Parts**
@@ -15,7 +17,7 @@ face_plate_top.stl     [x1]
 face_plate_bottom.stl  [x1] - This part can be printed in an accent colour for more coolness ;)
 side_mount.stl.        [x1]
 ```
-**Additional Hardware*
+**Additional Hardware**
 ```
 M3 x 8mm SHCS          [x5]
 M3 Hex Nuts            [x2]
