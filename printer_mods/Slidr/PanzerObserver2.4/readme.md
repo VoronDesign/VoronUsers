@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="PanzerObserver.png" width="600" title="hover text">
+</p>
+
 What is PanzerObserver?
 - A mount for the Waveshare 15301 OV5648 5MP USB Camera
 - ...to mount it on the upper front extrusion above the doors (and probably on the back gantry extrusion)
@@ -5,7 +9,7 @@ What is PanzerObserver?
 Why do they exist?
 - i ran out of cheap Logitech C270 and needed a mount for that new cam... yeah that is it.
 
-What do i need to buy?
+What do i need to build it?
 - Waveshare 15301 OV5648 5MP USB Camera (A)
   - german source: https://www.welectron.com/Waveshare-15301-OV5648-5MP-USB-Camera-A
 - 4x M3x8 Socket Head Screws
