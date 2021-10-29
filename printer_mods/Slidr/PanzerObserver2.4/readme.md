@@ -25,6 +25,8 @@ How do i install PanzerObserver?
   - Press Camera into Body_x1.stl
   - Fit Cover_x1.stl over Body_x1.stl and Camera
   - Clamp assembly into Mount_x1.stl and screw the screws in (first side tight, second slightly loose)
-  - Mount everything into your Voron with the last 2 screws.  
+  - Move the camera up and down a few times, retighten the screws and make sure the cable sits well
+  - zip tie the cable in place
+  - Mount everything into your Voron with the remaining two screws.  
  
  Enjoy!
