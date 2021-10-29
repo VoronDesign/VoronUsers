@@ -12,8 +12,10 @@ Why do they exist?
 What do i need to build it?
 - Waveshare 15301 OV5648 5MP USB Camera (A)
   - german source: https://www.welectron.com/Waveshare-15301-OV5648-5MP-USB-Camera-A
-- 4x M3x8 Socket Head Screws
+- 2x M3x8 Socket Head Screws (Camera Mount Assembly)
+- 2x M3x6 Socket Head Screws (Mount to Frame)
 - 2x M3 Heat Inserts (low profile)
+- M3 Nuts for Aluminium Extrusion
 - Printed Parts
 
 How do i install PanzerObserver?
@@ -25,9 +27,9 @@ How do i install PanzerObserver?
   - Plug USB Cable into Camera
   - Press Camera into Body_x1.stl
   - Fit Cover_x1.stl over Body_x1.stl and Camera
-  - Clamp assembly into Mount_x1.stl and screw the screws in (first side tight, second slightly loose)
+  - Clamp assembly into Mount_x1.stl and screw the M3x8 screws in (first side tight, second slightly loose)
   - Move the camera up and down a few times, retighten the screws and make sure the cable sits well
   - zip tie the cable in place
-  - Mount everything into your Voron with the remaining two screws.  
+  - Mount everything into your Voron with the remaining two M3x6 screws.  
  
  Enjoy!
