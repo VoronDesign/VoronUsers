@@ -17,6 +17,7 @@ What do i need to build it?
 - Printed Parts
 
 How do i install PanzerObserver?
+- See folder 'images'
 - In Order:
   - Insert heat inserts to the sides of Body_x1.stl
   - Pull USB Cable through side of Mount_x1.stl
