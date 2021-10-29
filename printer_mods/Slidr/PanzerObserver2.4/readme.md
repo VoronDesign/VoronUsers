@@ -18,13 +18,13 @@ What do i need to build it?
 
 How do i install PanzerObserver?
 - In Order:
-  o Insert heat inserts to the sides of Body_x1.stl
-  o Pull USB Cable through side of Mount_x1.stl
-  o Pull USB Cable through Body_x1.stl from back to front
-  o Plug USB Cable into Camera
-  o Press Camera into Body_x1.stl
-  o Fit Cover_x1.stl over Body_x1.stl and Camera
-  o Clamp assembly into Mount_x1.stl and screw the screws in (first side tight, second slightly loose)
-  o Mount everything into your Voron with the last 2 screws.  
+  - Insert heat inserts to the sides of Body_x1.stl
+  - Pull USB Cable through side of Mount_x1.stl
+  - Pull USB Cable through Body_x1.stl from back to front
+  - Plug USB Cable into Camera
+  - Press Camera into Body_x1.stl
+  - Fit Cover_x1.stl over Body_x1.stl and Camera
+  - Clamp assembly into Mount_x1.stl and screw the screws in (first side tight, second slightly loose)
+  - Mount everything into your Voron with the last 2 screws.  
  
  Enjoy!
