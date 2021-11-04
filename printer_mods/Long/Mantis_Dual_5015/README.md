@@ -51,6 +51,10 @@ Mantis Dual 5015 Toolhead by Long
     - Depending on how much you tighten your screw, the standard 12mm one will work.
 
 
+**Please see the ([Readme_v1.07.pdf](Readme_v1.07.pdf)) for full description, bom, etc**  
+  
+**Note that updates are staged at ([https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)).  Go there for most recent stuff.**
+
 Changes
 -----------------
 11-3-2021
