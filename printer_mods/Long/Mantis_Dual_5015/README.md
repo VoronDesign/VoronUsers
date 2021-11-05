@@ -27,17 +27,18 @@ Mantis Dual 5015 Toolhead by Long
  * Stiffer
     - Single piece carriage and hotend mounts are stiffer than spec.
  * Detachable Bed Probe (magprobe)
-    - Decreases weight and allows shrinkage of the carriage.  
+    - Decreases weight, allows shrinkage of the carriage, and movement of weight closer to the extrusion.
     - Direct probing of the bed surface.  Allows usage of any bed surface. 
- * More balanced weight
+ * Weight moved closer to the rail for less lever.
     - Hotend is moved closer the rail +y, and upwards +z
+    - Fans are rotated so the mass is further back.  
     - Gain in Y and Z travel (~5mm each)
  * Decreased length from extruder to hotend
     - Bowden from mini-sherpa to Dragon is only 19mm
  * X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
+    - My cable chain weighs about 150g on my Voron 300.  
     - Y-endstop can still be from the spec endstop pod on the right xy-joint.
- * Area around heat block is very open.  Ducts give wide berth to block.  Duct shouldn’t have any issues with melting.  
-    - Josh Murrah has been printing ABS at 300c without duct melt.  
+ * Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
     
  **Cons:**
  * With spec front idlers, you will lose space at the front corners of the bed ~10mm in X at each idler.  
