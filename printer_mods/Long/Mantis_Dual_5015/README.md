@@ -2,7 +2,7 @@
 Mantis Dual 5015 Toolhead by Long
 ============
   
-**Please see the ([Readme_v1.07.pdf](Readme_v1.07.pdf)) for full description, bom, etc**  
+**Please see the ([Readme_v1.07.pdf](Readme_v1.07.pdf)) for full description, bom, build instructions, etc**  
   
 **Note that updates are staged at ([https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)).  Go there for most recent stuff.**
   
@@ -61,7 +61,7 @@ Changes
 11-3-2021
 1.  Updated MGN12 carriage (Carriage_MGN12_v1.040.stl).  Updated the wire path from the magnets and x-endstop switch so they don't go through the hotend exhaust path.  Also improved the hotend exhaust path so it should flow a bit better.
 2.  Added a usermods folder.  Adding the mods in and crediting the creator in the filename was getting unwieldy, so Mantis now has a usermods folder.
-3.  Charles made a mount for a Hartk PCB Board.
+3.  Added a mount for Hartk PCB Board by Charles
 
 10-11-2021
 1.  Added Mantis Toolhead PCB by Henrikssn.  
