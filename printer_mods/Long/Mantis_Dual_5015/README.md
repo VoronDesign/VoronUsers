@@ -52,7 +52,7 @@ Mantis Dual 5015 Toolhead by Long
 
 Readme and Link to Long's repository
 -----------------
-**Please see the ([Readme_v1.07.pdf](Readme_v1.07.pdf)) for full description, bom, etc**  
+**Please see the ([Readme_v1.07.pdf](Readme_v1.07.pdf)) for full description, bom, build instructions, etc**  
   
 **Note that updates are staged at ([https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015)).  Go there for most recent stuff.**
 
