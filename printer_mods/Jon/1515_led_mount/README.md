@@ -16,7 +16,7 @@ Print 9 normal and 9 mirrored.
 Mounting:
 
 Push one in, then slide the led strip into it and keep things in the back. Then keep adding one and one until finished. Et voila. Slide the cable over the back panel and into the electronics bay. Wire them in parallel and put them into the BTT SKR Mini E3 V2 neopixel slot.
-![](IMG/wiring.jpg)
+<img src="IMG/wiring.jpg" width="250" height="250">
 
 
 Klipper config:
@@ -33,6 +33,6 @@ initial_BLUE: 1
 
 
 If this looks familiar contact me so i can credit you. This is based on some other 1515 mount. I just redid the hole for the led strip. It's angled downwards at 5 degrees.
-![](IMG/led_strip.jpg)
-![](IMG/colors.jpg)
-![](IMG/print_finish.gif)
+
+<img src="IMG/led_strip.jpg" width="825" height="461">
+<img src="IMG/print_finish.gif">
