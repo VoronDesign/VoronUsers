@@ -1,0 +1,3 @@
+; Home, but only if homing is needed
+if !move.axes[2].homed
+  G28 Z
