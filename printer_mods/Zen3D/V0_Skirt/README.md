@@ -45,7 +45,7 @@ SSR holder with led window.
 
 Adxl connector, 6P microfit 3.0: https://www.digikey.com/en/products/detail/molex/0430200600/252492 
 
-![img9](./IMG/img8.jpg)
+![img9](./IMG/img9.jpg)
 
 
 
