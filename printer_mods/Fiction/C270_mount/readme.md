@@ -1,2 +1,2 @@
-
-![]("./Images/Screenshot 2021-11-08 at 13.28.51.png")
+![](./Images/C270_mount.png)
+![](./Images/C270_focusing_ring.png)
