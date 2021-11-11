@@ -31,11 +31,13 @@ The LGX uses a JST-PH 6-pin connector, which is not part of any standard Voron B
 
 Technical specifications for the motor can be found on the [Bondtech website](https://www.bondtech.se/product/lgx-pancake-25mm-stepper-motor/), including a [wiring diagram](https://www.bondtech.se/wp-content/uploads/2021/01/Bondtech-E-Motor-LDO-42STH25-1004ACGBDT-RevB.pdf).  In case the wiring diagram goes away you can also find it [here](images/Bondtech-E-Motor-LDO-42STH25-1004ACGBDT-RevB.pdf).
 
-Note that the wiring diagram mixes up the wire color names:
+Note that the wiring diagram mixes up the wire color names with the color representation
 
 ![wires.jpg](images/wires.jpg)
 
-Once wired up, be sure to buzz your extruder stepper [as described in the Voron Startup Guide](https://docs.vorondesign.com/build/startup/#stepper-motor-check).  For example:
+so don't necessarily rely on the colors (which you shouldn't be doing anyway - see the [Stepper Motor Wiring](https://docs.vorondesign.com/build/electrical/#stepper-motor-wiring) notes in the Voron build guide).
+
+Once wired up, be sure to buzz your extruder stepper, as described in the [Voron initial startup](https://docs.vorondesign.com/build/startup/#stepper-motor-check) documentation.  For example:
 
 ```
 STEPPER_BUZZ STEPPER=extruder
