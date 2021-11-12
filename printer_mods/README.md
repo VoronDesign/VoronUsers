@@ -50,7 +50,8 @@ like so:
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
-| |[AB-BN Afterburner mod](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:grey_question:|
+| |[AB-BN Afterburner mod (5015)](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| |[AB-BN for Stock Afterburner (4020)](./Badnoob/ABBN_for_Stock)|Improved Dragon and Rapido toolhead for stock Afterburner with 4020 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
 |Baltojikale | [LoudOwl aka Stabby](./Baltojikale/LoudOwl_aka_Stabby) | Alternative dual 5015 part cooling fan toolhead for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |beaugalbraith| [Nova Printhead](./beaugalbraith/Nova_Printhead) | Use Nova Hotend with Afterburner | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question:|
@@ -69,6 +70,7 @@ like so:
 ||[Ender 3 Switchwire Y Tensioner Mod](./buzzdalf/ytension) | Y Tension Mod | :x: | :x: | :x: | :heavy_check_mark: |
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
+|bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 | christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -137,6 +139,8 @@ like so:
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |:x:|
 |hoschi| [FYSETC Spider DIN Rail Mount](./hoschi/FYSETC_Spider_DIN_Mount) | DIN rail mount for FYSETC Spider | :x: | :grey_question: | :heavy_check_mark: | :grey_question: |
+|hymness1| [Quickdraw probe Voron Switchwire](./hymness1/Quickdraw_probe_Voron_Switchwire) | Detachable magnetic probe with docking system for VSW | :x: | :x: | :x: | :heavy_check_mark: |:x:|
+| | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
