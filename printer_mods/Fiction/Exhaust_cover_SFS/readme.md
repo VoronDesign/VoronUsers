@@ -1,4 +1,4 @@
-# Exhaust cover and BTT Smart Filament Sensor mount
+# Voron V2.4 exhaust cover and BTT Smart Filament Sensor mount
 
 The STLs will work with 3mm foam (compressed to 2.5mm) but other thicknesses are possible
 
