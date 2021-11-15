@@ -9,7 +9,7 @@ Design "influenced" by https://github.com/VoronDesign/VoronUsers/tree/master/pri
 ![](./Images/_DSF0923.jpg)
 
 ![](./Images/Exhaust_cover_SFS_04.jpg)
-![](./Images/Exhaust_cover_SFS_07.jpg)
+![](./Images/Exhaust_cover_SFS_08.jpg)
 ![](./Images/Exhaust_cover_SFS_06.jpg)
 
 Fiction#5826 on Discord
