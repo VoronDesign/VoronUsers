@@ -1,7 +1,7 @@
 <div style="text-align: right"><sub>A Team Dropbear Production</sub></div>
 <img align="right" width="100" height="100" src="images/db.png">
 
-## Tridentified V2.4 Power Inlet
+## Tridentified V2.4 Power Inlet by Killcode
 ### Trident style side plug skirts for V2.4 to suit Edwardyeeks z-drive tensioner mod
 ![Model.png](images/Model.png)
 
