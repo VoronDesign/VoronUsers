@@ -66,7 +66,7 @@ This version of the afterburner fan and duct is a drop in replacement to the spe
 ## This duct doesn't look right!
 
 With AB-BN-30, the nozzle should protrude approx. 1.7 mm from the lowest part of the duct.  When you look at the duct, people often think it looks like to air is pointed too high.
-The aim was done empirically over many iterations.  If the nozzle sticks out 1.7mm then its where I intended it.
+The aim was done empirically over many iterations.  If the nozzle sticks out 1.7mm then it's where I intended it.
 ![Stickout shown on Rapido](RapidoStickout.png)
 
 ### CHANGE Log
