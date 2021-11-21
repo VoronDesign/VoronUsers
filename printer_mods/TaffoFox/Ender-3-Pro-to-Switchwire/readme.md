@@ -10,6 +10,9 @@ Changelog (from original mod):
 - XZ Blocks have been updated so they can use the original screws.
 - Y tensioner slider has been updated to be more robust. The original one broke very easily if slightly over-tensioned.
 
+Upcoming:
+- Y motor mounts will have holes so screws can be accessed without taking the assembly apart.
+
 ![Home](Images/Front_UPDATED.jpg)
 ![Home](Images/Side_UPDATED.jpg)
 
