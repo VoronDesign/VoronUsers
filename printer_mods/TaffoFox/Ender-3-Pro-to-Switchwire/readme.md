@@ -1,6 +1,6 @@
 ## Ender 3 Pro/V2 to Switchwire Mod
 
-Credits for original mod goes to Triano (who has given me permission). Currently being maintained (as a separate mod) by TaffoFox#1571.
+Credits for original mod goes to Triano#2524 (who has given me permission). Currently being maintained (as a separate mod) by TaffoFox#1571. Original files can be found here: https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Triano/Ender_3Pro_Switchwire
 
 Any files with "_UPDATED" on the end are my modifications/fixes, and the rest are made by the original owner.
 
