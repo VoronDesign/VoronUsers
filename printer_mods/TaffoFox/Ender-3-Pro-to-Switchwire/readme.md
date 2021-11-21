@@ -6,7 +6,8 @@ Any files with "_UPDATED" on the end are my modifications/fixes, and the rest ar
 
 I decided to make a mod of Triano's E3P to Switchwire mod. Although a great mod, the original owner seems a bit busy and is currently unable to fix/update a few parts that flaws have been found in. Some of these flaws can affect some of the functional parts and cause the printer to break more often. Some other fixes are general quality updates that improve the function of the printer or make it a little easier to work with.
 
-
+![Home](Images/Front_UPDATED.jpg)
+![Home](Images/Side_UPDATED.jpg)
 
 
 ## Original documentation:
