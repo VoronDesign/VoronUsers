@@ -12,6 +12,8 @@ Changelog (from original mod):
 
 Upcoming:
 - Y motor mounts will have holes so screws can be accessed without taking the assembly apart.
+- Deck panels will be more secure so they do not require spacers to keep them in place.
+- Optional dedicated ADXL port on the grill for ease of use. (Bed slingers require 2 ADXLs, one for the toolhead and one for the bed)
 
 ![Home](Images/Front_UPDATED.jpg)
 ![Home](Images/Side_UPDATED.jpg)
