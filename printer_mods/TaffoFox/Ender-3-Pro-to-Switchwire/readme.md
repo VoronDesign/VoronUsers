@@ -1,8 +1,13 @@
-## Ender 3 Pro/V2 to Switchwire mod.
+## Ender 3 Pro/V2 to Switchwire Mod
 
 ## Credits for original mod goes to Triano (who has given me permission). Currently being maintained (as a separate mod) by TaffoFox#1571.
 
-## Any files with "_UPDATED" on the end are my modifications, and the rest are made by the original owner.
+## Any files with "_UPDATED" on the end are my modifications/fixes, and the rest are made by the original owner.
+
+I decided to make a mod of Triano's E3P to Switchwire mod. Although a great mod, the original owner seems a bit busy and is currently unable to fix/update a few parts that flaws have been found in. Some of these flaws can affect some of the functional parts and cause the printer to break more often. Some other fixes are general quality updates that improve the function of the printer or make it a little easier to work with.
+
+
+## Original documentation:
 
 This is a conversion of the Ender 3 Pro and V2 to a Switchwire type coreXZ printer.  My goal was to use most of the Ender 3 components while maintaining the core Voron design look and feel.
 
