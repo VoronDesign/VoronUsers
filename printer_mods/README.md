@@ -143,6 +143,7 @@ like so:
 | | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
+| jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
