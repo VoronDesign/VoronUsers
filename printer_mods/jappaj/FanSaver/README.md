@@ -1,7 +1,7 @@
 # MiniAB_FanSaver
 A 3D-printable baffle to prevent Voron V0.1 Mini Afterburner blower fans from overheating
 
-![image](/printer_mods/jappaj/FanSaver/photos/FanSaver_Overview.png)
+![FanSaver_Overview](/printer_mods/jappaj/FanSaver/photos/FanSaver_Overview.png)
 
 
 Is your Mini Afterburner toolhead struggling to keep up with the part cooling you request? Are you running into weird overheating artifacts despite setting absurdly high part cooling speeds? Have you noticed your blower fans slowing down or audibly changing in pitch over the course of a print?
@@ -14,7 +14,7 @@ While there are a number of ways to overcome this issue, such as mini-heatsink i
 
 The goal of this project was to make an all-in-one heat-deflecting solution that could be printed on any ABS-capable printer and installed without disassembly of your Mini Afterburner, while still requiring no additional materials or reprints / replacements of existing parts. The result is the MiniAB FanSaver: a combination air dam and heat barrier that keeps your blower fans cool with minimal time and material investment.
 
-![image](https://user-images.githubusercontent.com/16828635/142791590-98ef35b4-4009-4260-a9ef-7b3c9291664a.png)
+![FanSaver_ObjectRender](/printer_mods/jappaj/FanSaver/photos/FanSaver_ObjectRender.png)
 
 The print itself should only take around 20-25 minutes at moderate printing speeds and consumes approximately 3g of material. The installation is fairly straightforward and only requires cutting your two cable management zipties on the sides of the toolhead to slip the FanSaver in underneath. The installation process can be made easier by removing the toolhead from the X-carriage so you don't have to work upside-down inside your printer, but it will fit comfortably without doing so. Before starting with this modification, it is recommended to have two new zipties, a pair of flush cutters / wire cutters, a small hex key or other skinny blunt object for moving the wires around inside the toolhead, and a dental pick, needle, or similar pointy tool for removing your blower fan stickers.
 
@@ -24,23 +24,23 @@ The installation process is as follows:
 
 0. (Optional) Clip all toolhead zipties, remove strain relief & stepper screws, unscrew all 5 toolhead mounting bolts, and lay toolhead face down on print surface.
 
-1. Using a dental pick, needle, X-acto knife, or other pointy tool, get under the edge of the stickers on the backs of your two blower fans and peel the stickers off completely. These insulate the PWM chip from the airflow we're about to provide it, but still let through enough radiant heat that they're not providing any substantial protection in their default state. Be careful not to stab into the wiring cavities that the sticker covers.![Instructions-1](https://user-images.githubusercontent.com/16828635/142790176-4311ac3c-41e9-4de3-a3c9-8db06afee233.jpg)
+1. Using a dental pick, needle, X-acto knife, or other pointy tool, get under the edge of the stickers on the backs of your two blower fans and peel the stickers off completely. These insulate the PWM chip from the airflow we're about to provide it, but still let through enough radiant heat that they're not providing any substantial protection in their default state. Be careful not to stab into the wiring cavities that the sticker covers.![Instructions-1](/printer_mods/jappaj/FanSaver/photos/FanSaver_Instructions-1.jpg)
 
 
-2. Clip left and right cable management zip ties and pull heater and thermistor wires toward the back of the toolhead shroud.![Instructions-2_ARROW](https://user-images.githubusercontent.com/16828635/142791039-67841dfb-deee-4443-b1f8-1e1b7f399cd8.jpg)
+2. Clip left and right cable management zip ties and pull heater and thermistor wires toward the back of the toolhead shroud.![Instructions-2_ARROW](/printer_mods/jappaj/FanSaver/photos/FanSaver_Instructions-2_ARROW.jpg)
 
 
-3. Begin installation of FanSaver with the flat base facing down (same orientation relative to toolhead as it was printed). The semicircular scoops should be facing toward the front of the shroud / hotend fan and the rear rectangular crossbar with external tabs should face the rear of the shroud.![Instructions-3](https://user-images.githubusercontent.com/16828635/142791049-dfaac6f2-f365-476a-a9ab-bc80db52d8c9.jpg)
+3. Begin installation of FanSaver with the flat base facing down (same orientation relative to toolhead as it was printed). The semicircular scoops should be facing toward the front of the shroud / hotend fan and the rear rectangular crossbar with external tabs should face the rear of the shroud.![Instructions-3](/printer_mods/jappaj/FanSaver/photos/FanSaver_Instructions-3.jpg)
 
 
-4. Press your heater and thermistor wires close to the hotend so they're between the two vertical FanSaver panels (this may require more or less wrangling with your hex key or other skinny blunt tool depending on the specific heater and thermistor you have installed and the relative thickness / stiffness of their wires).![Instructions-4_ARROW](https://user-images.githubusercontent.com/16828635/142791071-4222600b-8270-468d-88d4-c48eaf2cfb2e.jpg)
+4. Press your heater and thermistor wires close to the hotend so they're between the two vertical FanSaver panels (this may require more or less wrangling with your hex key or other skinny blunt tool depending on the specific heater and thermistor you have installed and the relative thickness / stiffness of their wires).![Instructions-4_ARROW](/printer_mods/jappaj/FanSaver/photos/FanSaver_Instructions-4_ARROW.jpg)
 
 5. Ride the rear crossbar's external tabs on the flat backs of the shroud like rails and slide the FanSaver into the shroud while guiding the heater and thermistor wires into the cable management channels.
 
-6. Once you hit the "ceiling" of the shroud with the pointy tops of the rear columns, check for left/right alignment and then gently press the front crossbar upward and forward to lock the FanSaver into place. (If you removed your toolhead, take this opportunity to reassemble the 5 main bolts before continuing)![Instructions-6](https://user-images.githubusercontent.com/16828635/142791098-9ea83386-1fe5-4b85-8732-b7fbb83ea98a.jpg)
+6. Once you hit the "ceiling" of the shroud with the pointy tops of the rear columns, check for left/right alignment and then gently press the front crossbar upward and forward to lock the FanSaver into place. (If you removed your toolhead, take this opportunity to reassemble the 5 main bolts before continuing)![Instructions-6](/printer_mods/jappaj/FanSaver/photos/FanSaver_Instructions-6.jpg)
 
 
-7. Pull your heater and thermistor wires taut through the cable management channels and zip tie them to the X-carriage. You don't have to go nuts here, but the presence of these wires is what locks the FanSaver in place and prevents the rear crossbar tabs from coming out of their mounting points.![Instructions-7](https://user-images.githubusercontent.com/16828635/142791109-15f38343-175c-4084-97e1-d46261e7371d.jpg)
+7. Pull your heater and thermistor wires taut through the cable management channels and zip tie them to the X-carriage. You don't have to go nuts here, but the presence of these wires is what locks the FanSaver in place and prevents the rear crossbar tabs from coming out of their mounting points.![Instructions-7](/printer_mods/jappaj/FanSaver/photos/FanSaver_Instructions-7.jpg)
 
 
 You've successfully installed your FanSaver!
