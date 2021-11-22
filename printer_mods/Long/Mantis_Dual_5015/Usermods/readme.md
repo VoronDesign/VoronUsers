@@ -1,7 +1,7 @@
 **Mantis Usermods**
 |User| Link | Description  | 
 |--|--|--|	
-| BeWater| [Flat Flexible Cable Mod](bewater/) | Adapts Schmidt Proto's FFC Mod to Mantis|
+| BeWater| [Flat Flexible Cable Mod](BeWater/) | Adapts Schmidt Proto's FFC Mod to Mantis|
 |Charles| [Hartk PCB Mount](Charles/)| Mount to allow usage of Hartk PCB Mount| 
 |DustinSpeed| [MGN9 Belt Clamp Hex Nut](DustinSpeed/belt_clamp_nut_block.stl) | Use Hex Nut instead of Makerbeam t-nut for MGN9 Carriage|
 | | [Hartk_PCB_Mount](DustinSpeed/Hartk_PCB_Mount/)| Another Hartk PCB Mount
