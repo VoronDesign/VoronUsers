@@ -1,7 +1,7 @@
 # MiniAB_FanSaver
 A 3D-printable baffle to prevent Voron V0.1 Mini Afterburner blower fans from overheating
 
-![image](/photos/FanSaver_Overview.png)
+![image](/printer_mods/jappaj/FanSaver/photos/FanSaver_Overview.png)
 
 
 Is your Mini Afterburner toolhead struggling to keep up with the part cooling you request? Are you running into weird overheating artifacts despite setting absurdly high part cooling speeds? Have you noticed your blower fans slowing down or audibly changing in pitch over the course of a print?
