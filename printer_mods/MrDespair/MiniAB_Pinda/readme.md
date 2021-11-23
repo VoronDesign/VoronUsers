@@ -18,7 +18,38 @@ Instructions
 - Install it on your V0.1, I wired up the ground and signal pin to my z-endstop port and the 5v to the bltouch port on my skr mini e3 v2. 
 - Install the pinda probe and tighten it down and follow the probe calibrate guide here: https://www.klipper3d.org/Probe_Calibrate.html
 - My offsets wound up being x_offset: -30.7 and y_offset: -13, but you should double check on your own machine just to be safe!
-- Using just the v2 style probe isn't the most consistent, I'd suggest using the relative reference index mode with the normal v0 endstop... still testing this!
+- I've been using just the superPinda as my endstop and bedmesh using the following settings in my printer.cfg: 
+
+```
+[probe]
+pin: PC14
+#z_offset: 2.345
+x_offset: -30.7
+y_offset: -13
+samples: 3
+speed: 100
+samples_tolerance: 0.010
+samples_tolerance_retries: 4
+
+[bed_mesh]
+speed: 250
+horizontal_move_z: 5
+mesh_min: 15,10
+mesh_max: 89, 105
+#mesh_pps: 2,3
+move_check_distance: 3.0
+split_delta_z: .01
+probe_count: 5,5
+algorithm: bicubic
+relative_reference_index: 12
+
+# ~~~probe homing~~~
+[safe_z_home]
+home_xy_position: 60,60
+speed: 100
+z_hop: 15
+z_hop_speed: 5
+```
 
 
 Images
