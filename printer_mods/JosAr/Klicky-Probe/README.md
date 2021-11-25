@@ -362,7 +362,7 @@ position_max: 305
 If you want to use the Z endstop switch of the Voron to calculate the Z-Offset, use the new [automatic Z calibration](https://github.com/protoloft/klipper_z_calibration).
 
 Most of necessary macros are already included in the klicky-probe.cfg, what is missing is the specific z_calibration configuration and the macro that is called to do the actual calibration.
-All of this is included in the [Klicky automatic Z calibration configuration](./klipper_macro/z_calibration.cfg)
+All of this is included in the [Klicky automatic Z calibration configuration](./Klipper_macro/z_calibration.cfg)
 
 You should then add a call to CALIBRATE_Z at the end of your PRINTER_START (before any purge line).
 
