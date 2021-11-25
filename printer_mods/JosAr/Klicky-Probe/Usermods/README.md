@@ -2,7 +2,7 @@
 
 [## Klicky Probe with additional holes](./StefanRaatz/) by StefanRaatz
 
-This is a modified Klicky probe with two holes so that you can feed through the uninsolated part of the cable a little bit more.
+This is a modified Klicky probe with two holes so that you can feed through the uninsulated part of the cable a little bit more.
 Gave me better contact
 
 [## KlickyVoron 2.4 Direct Mount MGN12 X Carriage](./bluedragonx/) by bluedragonx
@@ -13,7 +13,7 @@ with the Klicky. This is based on [Arkeet's MGN12 carriage](https://github.com/V
 [## More Roboust Klicky Probe](./oc_geek/) by oc_geek
 
 Beefier column and revised holes for zip tie (was def too small); reduced height 1mm (was excess)
-Chanfered bottom in all direction (also sides) on the probe carriage
+Chamfered bottom in all direction (also sides) on the probe carriage
 Microswitch body exposed by a tiny bit
 
 [## Fixed gantry Klicky dock mount for Legacy](./Baltojikale/) by Baltojikale

@@ -26,7 +26,7 @@ And one of the two dock mounts depending on where you wish the dock to live:
 - v2.4_x_carriage_dock_side_mount_fixed.stl
 
 Bolt together the two halfs of the carriage as normal. Follow the instructions
-for the regular Klippy AB mount to install the magnets and wiring.
+for the regular Klicky AB mount to install the magnets and wiring.
 
 ### Setup
 
