@@ -15,7 +15,7 @@ The objectives for this project are:
 
 It can also be used with the new [automatic Z calibration](https://github.com/protoloft/klipper_z_calibration) klipper plugin to effectively calculate the Z offset from the probe and from the Z endstop.
 
-The inspiration for the Klicky Probe comes from the Quickdraw(https://github.com/Annex-Engineering/Quickdraw_Probe) and the [Euclid probe](https://github.com/nionio6915/Euclid_Probe), it uses some concepts from each of the projects.
+The inspiration for the Klicky Probe comes from the [Quickdraw](https://github.com/Annex-Engineering/Quickdraw_Probe) and the [Euclid probe](https://github.com/nionio6915/Euclid_Probe), it uses some concepts from each of the projects.
 
 Updated instructions provided by StefanRaatz.
 oc_geek and TurBoxxs were also a great help in refining and testing the CAD files.
@@ -41,7 +41,7 @@ probe accuracy results: maximum 6.430000, minimum 6.426250, range 0.003750, aver
 
 # Print Settings
 
-There are no need for supports, recommended settings is 4 perimeters/top/bottom, 13% infill, the STL's are already oriented.
+There is no need for supports, recommended settings are 4 perimeters/top/bottom, 13% infill, the STL's are already oriented
 
 ![](./Photos/Klicky_Probe_recommended_printing_orientation.png)
 
@@ -288,11 +288,11 @@ Would also like to thank the Voron discord community and VoronDesign for all the
 
 ### klipper Configuration and Probe offset
 
-Download the appropriate Klicky Probe.cfg and upload it to your klipper Config folder.
+Download the appropriate klicky-probe.cfg and upload it to your klipper Config folder.
 
 Then open your printer.cfg file and add the following line before the "Macros" Section.
 
-`[include Klicky-probe.cfg]`
+`[include klicky-probe.cfg]`
 
 Within your printer.cfg file search for the `[probe]` section and change the pin assignment to the new one `z:P1.28` or the ID where you connected your Klicky Probe to. Depending on your switch you may need to add a `!` to invert that pin (normally open vs. normally closed).
 
@@ -339,7 +339,7 @@ For this we need to make sure that the gantry is [deracked](https://www.youtube.
 Now manually move the toolhead to the probe dock and move it so far to the back that the probe docks, note the Y-Position.
 Next, again manually, move the toolhead left and right until the probe it is perfectly aligned with the mount, note the X.Position.
 
-Open your `Klicky-probe.cfg` and find the `#dock location` section and edit the following two lines
+Open your `klicky-probe.cfg` and find the `#dock location` section and edit the following two lines
 
 ```python
 variable_docklocation_x:
