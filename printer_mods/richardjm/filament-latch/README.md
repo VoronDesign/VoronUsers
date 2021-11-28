@@ -32,7 +32,7 @@ Another user is creating cad and variants - [https://github.com/v6cl/My-Voron2.4
 
 ## Assembly
 
-![Assembly.png](Images/Assembly.png)
+![Assembly.gif](Images/Assembly.gif)
 
 1. Print parts (do test prints to ensure you're happy with the fit before going wild)
 1. Assemble to correct orientation
