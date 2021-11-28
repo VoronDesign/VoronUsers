@@ -1,15 +1,22 @@
 Mantis Dual 5015 Toolhead by Long
 ============
   
-**Please see the ([Readme_v1.06.pdf](Readme_v1.06.pdf)) for full description, bom, etc**  
+**Please see the ([Readme_v1.07.pdf](Readme_v1.07.pdf)) for full description, bom, etc**  
   
 ![](images/mantis.jpg)    
   
 ![](images/cfd.png)    
+  
+![](images/exploded.png)   
 
 
 Changes
 -----------------
+9-23-2021
+1.  Added carriage for Mantis that uses a single MGN9 linear rail.  I am currently using this with a RobotDigg 440 SUS rail and it's working well.  Thanks to Bob Arctor and Henrikssn for their bravery in testing the early versions of this.
+2.  Updated ([Readme_v1.07.pdf](Readme_v1.07.pdf)).  Added info for the MGN9 Carriage, fixed some wording, added link to Rama's option for narrow front idlers.
+3.  Added ducts for Voron 2.4 that are 1.5mm shorter.  Decreases the clearance from 3.5 to 2mm.  No real advantage except if you like the shorter duct arm appearance.
+  
 7-18-2021
 1.  Now compatible with Voron 1.8!
 2.  updated readme
