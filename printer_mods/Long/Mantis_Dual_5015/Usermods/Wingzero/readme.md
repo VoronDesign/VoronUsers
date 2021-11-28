@@ -1,7 +1,7 @@
 Slice Mosquito Mount for Mantis by Wingzero
 ============
   
-![](images/mantis_mosquito_25mm.png)    
+![](images/mantis_mosquito_25mm.png)    ![](images/mantis_mosquito_30mm.png)  
   
 Info
 -----------------
