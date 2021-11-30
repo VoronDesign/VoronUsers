@@ -59,6 +59,11 @@ Readme and Link to Long's repository
 
 Changes
 -----------------
+11-29-2021
+1.  Added WingZero's [Mosquito Hotend Mount](Usermods/Wingzero/mosquito_mount/) for Mantis using 2510 hotend fan.  Thanks for a lot of work and testing for this mod!
+2.  Added my mod of WingZero's mosquito mount which uses a 3010 fan instead of the 2510.  This mount is still alpha and needs more testing for confirmation.
+3.  Added alpha part cooling ducts that should work with dragon/[crazy volcano block](https://www.aliexpress.com/item/1005003506351141.html).
+
 11-3-2021
 1.  Updated MGN12 carriage (Carriage_MGN12_v1.040.stl).  Updated the wire path from the magnets and x-endstop switch so they don't go through the hotend exhaust path.  Also improved the hotend exhaust path so it should flow a bit better.
 2.  Added a usermods folder.  Adding the mods in and crediting the creator in the filename was getting unwieldy, so Mantis now has a usermods folder.
