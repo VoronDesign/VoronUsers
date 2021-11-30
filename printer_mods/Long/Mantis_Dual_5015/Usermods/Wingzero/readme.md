@@ -1,3 +1,4 @@
+
 Slice Mosquito Mount for Mantis by Wingzero
 ============
   
@@ -14,3 +15,9 @@ Info
        - m2.5x12 or m2.5x14 (x2) for attaching the fan to the mosquito heatsink
   - 30mm Fan Version (modification of Wingzeros Mount to use a 30mm Fan by Long)
     - Two versions in the folder.  One has support inbuilt.  Other if you want to generate your own supports.  This will actually print OK without supports also depending on your bridging abilities.  
+
+Changelog
+-----------------
+- hotend_mount_mosquito_30mm_fan_v0.42
+  - tightened tolerance between mosquito heatsink and the mount.
+  - split the supports into four pieces for easier removal.
