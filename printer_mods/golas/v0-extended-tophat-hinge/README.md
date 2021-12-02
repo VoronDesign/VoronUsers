@@ -5,13 +5,11 @@
 ## Contents
 
 * stl files with print number suffix
-* ~~manual for simplier assembly
-* ~~BOM
 
 ## BOM
 * 8 standard BOM magnets 6x3mm
-* 
+* ...
 
 ## Render
 
-## Printed parts live image
+## Printed parts live image - WIP
