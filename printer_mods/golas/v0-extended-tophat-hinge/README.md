@@ -5,11 +5,11 @@
 ## Contents
 
 * stl files with print number suffix
-* manual for simplier assembly
-* BOM
+* ~~manual for simplier assembly
+* ~~BOM
 
 ## BOM
-* 4 standard BOM heat set inserts
+* 8 standard BOM magnets 6x3mm
 * 
 
 ## Render
