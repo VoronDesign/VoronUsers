@@ -1,17 +1,15 @@
 # V0.1 Extended tophat hinge
 
-![Image of V0.1 extended tophat hinge](images/v0.1_trident_skirt_remix_render.jpg)
+![Image of V0.1 extended tophat hinge](images/tophat_render.png)
 
 ## Contents
 
 * stl files with print number suffix
-* manual for simplier assembly
-* BOM
 
 ## BOM
-* 4 standard BOM heat set inserts
-* 
+* 8 standard BOM magnets 6x3mm
+* ...
 
 ## Render
 
-## Printed parts live image
+## Printed parts live image - WIP
