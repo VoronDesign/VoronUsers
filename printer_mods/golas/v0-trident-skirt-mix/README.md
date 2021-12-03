@@ -4,9 +4,10 @@
 
 ## Contents
 
-* stl files with print number suffix
-* manual for simplier assembly
+* STL files with print number suffix
+* Manual for simplier assembly
 * BOM
+* Renders
 
 ## BOM
 In addition to preloaded nuts and screw that are in default v0.1 version you need also:
@@ -15,6 +16,9 @@ In addition to preloaded nuts and screw that are in default v0.1 version you nee
 * 2 x M3x6 BHCS
 * BTT MINI 12864 V1.0
 
-## Render
+## Renders
 
-## Printed parts live image
+![Image of V0.1 skirt remixed render](images/v0.1_trident_skirt_remix_render.png)
+![Image of V0.1 skirt remixed bottom](images/bottom-view.png)
+![Image of V0.1 skirt remixed corner](images/corner-view.png)
+![Image of V0.1 remixed](images/v01-remixed-render.png)
