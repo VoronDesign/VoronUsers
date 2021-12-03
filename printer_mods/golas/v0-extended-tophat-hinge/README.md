@@ -24,6 +24,7 @@ In addition to preloaded nuts and screws that are in stock v0.1 you also need:
 ## Renders
 
 ![Image of V0.1 ](images/tophat_render.png)
+![Image of V0.1 ](images/tophat_render_closed.png)
 ![Image of V0.1 ](images/tophat-front.png)
 ![Image of V0.1 ](images/tophat-side.png)
 ![Image of V0.1 remixed](images/v01-remixed-render.png)
