@@ -42,9 +42,15 @@ or
 
 <i>Applicable for usage of direct USB cable connection</i>
 
-Note down the wiring of your USB cable at the JST SH connector. Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin. Then push the open ends of the USB cable through the cable guide channel of the starboard mount starting at the rear of the mount and leaving at the mounting bolt. Pass the cable ends through the starboard borehole of the camera housing, outside in. Now re-position each cable line to the appropriate position in the JST SH connector and connect the camera module to the JST SH connector. Check the pinning of the JST SH connector at least twice against your initial notes, to avoid damage of the camera module !
+Note down the wiring of your USB cable at the JST SH connector. Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin. Then push the open ends of the USB cable through the cable guide channel of the starboard mount starting at the rear of the mount and leaving at the mounting bolt. 
 
-Route the USB cable to your Raspberry Pi. Remember to guide your USB cable via all necessary cable chains, if you mount the camera to moving parts of your printer ( e.g. z-axis cable chain if on rear of gantry).
+![Cable Path Starboard Mount](Images/Starboard_Mount_-_Cable_Path.png)
+
+Pass the cable ends through the starboard borehole of the camera housing, outside in. Now re-position each cable line to the appropriate position in the JST SH connector and connect the camera module to the JST SH connector. Check the pinning of the JST SH connector at least twice against your initial notes, to avoid damage of the camera module !
+
+![Cable Path Camera Housing](Images/Camera_Housing_Cable_Path.png)
+
+Route the USB cable to your Raspberry Pi. Remember to guide your USB cable via all necessary cable chains, if you mount the camera to moving parts of your printer ( e.g. z-axis cable chain if mounted on rear of gantry).
 
 ### Using an adapter cable to allow longer USB cables (n)
 
@@ -102,4 +108,3 @@ After reboot activate the webcam support in the Octopi Settings: OctoPi Settings
 
 ![Rear Cover - Top View](Images/Rear_Cover_TopView.png)
 ![Rear Cover - Bottom View](Images/Rear_Cover_BottomView.png)
-![Rear Cover - Side View](Images/Rear_Cover_BottomView.png)
