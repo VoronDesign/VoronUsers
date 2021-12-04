@@ -1,4 +1,4 @@
-## <b> Angry CAM USB</b>
+# <b> Angry CAM USB</b>
 
 Please find my USB Camera Mod based on Waveshare OV5648 5MP USB Camera Module (A), which allows mounting to rear gantry or other position on a frame profile.
 
@@ -38,7 +38,7 @@ or
 
 ## <b>Mounting</b>
 
-## Using the original USB Cable or the 1.5m USB cable replacement with pre-crimped JST SH connector
+### Using the original USB Cable or the 1.5m USB cable replacement with pre-crimped JST SH connector
 
 <i>Applicable for usage of direct USB cable connection</i>
 
@@ -46,7 +46,7 @@ Note down the wiring of your USB cable at the JST SH connector. Remove each line
 
 Route the USB cable to your Raspberry Pi. Remember to guide your USB cable via all necessary cable chains, if you mount the camera to moving parts of your printer ( e.g. z-axis cable chain if on rear of gantry).
 
-## Using an adapter cable to allow longer USB cables (n)
+### Using an adapter cable to allow longer USB cables (n)
 
 <i>Required for frame sizes >300mm and the usage of 24AWG wire harness cables, when mounting to gantry and in case other mounting positions are chosen.</i>
 
@@ -56,7 +56,7 @@ At the open end of the adapter cable, attach the cable connector of your choice 
 
 Connect the adapter cable with the standard USB cable and route the standard USB cable to your Raspberry PI. Remember to guide your USB cable via all necessary cable chains, if you mount the camera to moving parts of your printer ( e.g. z-axis cable chain if on rear of gantry).
 
-## Module Mounting Procedure
+### Module Mounting Procedure
 
 Place the camera module in the Camera Housing. Take care of the mounting frames and domes in the camera housing to ensure proper position and direction. Close the housing with the rear cover.
 
@@ -69,14 +69,14 @@ Start at one end of the rear opening and then gently press the cover to its posi
 
 ![Rear Cover - Start of Mounting](Images/Rear_Cover_Mount_HowTo_Start.png)
 
-## Mounting to Frame or Gantry
+### Mounting to Frame or Gantry
 
 Place the camera module with the mounts to your desired mounting position. Use the M3x20 screws and the T-nuts to fix it to the frame. Take care to not squish the adapter cable or USB cable with the T-nuts, when guiding the cable in the frame profile.
 
 If you mount the module to the gantry, make sure to guide the USB cable through the z-axis cable chain to allow free movement of the gantry in z direction.
 
 
-## Raspberry Pi and Software Configuration
+### Raspberry Pi and Software Configuration
 
 Connect the USB-A connector to your Raspberry Pi and enable the USB webcam support as described in https://www.waveshare.com/wiki/OV5648_5MP_USB_Camera_(A) with <b>sudo raspi-config</b>. IF you are using Octopi OS image, no additional application needs to be installed. Finalize you installation with a reboot of your Raspberry Pi.
 
@@ -96,9 +96,9 @@ After reboot activate the webcam support in the Octopi Settings: OctoPi Settings
 
 ## <b>Images</b>
 
-![Camera Housing with Mounts - Front View](Images/Test.png)
-![Camera Housing with Mounts - Rear View - Larboard](Images/Test.png)
-![Camera Housing with Mounts - Rear View - Starboard](Images/Test.png)   
+![Camera Housing with Mounts - Front View](Images/Camera_Housing_+_Mounts_front.png)
+![Camera Housing with Mounts - Rear View - Larboard](Images/Camera_Housing_+_Mounts_rear_larboard.png)
+![Camera Housing with Mounts - Rear View - Starboard](Images/Camera_Housing_+_Mounts_rear_starboard.png)   
 
 ![Rear Cover - Top View](Images/Rear_Cover_TopView.png)
 ![Rear Cover - Bottom View](Images/Rear_Cover_BottomView.png)
