@@ -8,6 +8,7 @@
 * Manual for simplier assembly
 * BOM
 * Renders
+* Live photos
 
 ## BOM
 In addition to preloaded nuts and screw that are in default v0.1 version you need also:
@@ -22,3 +23,10 @@ In addition to preloaded nuts and screw that are in default v0.1 version you nee
 ![Image of V0.1 skirt remixed bottom](images/bottom-view.png)
 ![Image of V0.1 skirt remixed corner](images/corner-view.png)
 ![Image of V0.1 remixed](images/v01-remixed-render.png)
+
+## Live photos
+
+![Image of V0.1 remixed](images/revnull1.jpg)
+Courtesy of Revnull
+![Image of V0.1 remixed](images/revnull2.jpg)
+Courtesy of Revnull
