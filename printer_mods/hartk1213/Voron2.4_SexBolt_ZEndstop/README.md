@@ -13,9 +13,9 @@ Screws
 |Size|Qty|Link|
 |---|---|---|			
 |M4x8 SHCS|1|[Bolt Depot - M4x8 SHCS](https://www.boltdepot.com/Product-Details.aspx?product=6505)|
-|5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC/)|
+|5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC)|
 |M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4)|		
-|5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT/)|
+|5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT)|
 |Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://deepfriedhero.in/products/z-endstop-pcb-for-voron-v2-4)|
 
 
@@ -31,7 +31,7 @@ First just insert two of the sleeve bearings into the top, they should bottom ou
 
 ![1](Images/3.png) 
 
-Next insert the female side of a 5mmx20mm chicago screw (sex bolt, binding barrel) and screw in the M4x6 or M4x8 SHCS with some loctite to make sure it doens't move over time
+Next insert the female side of a 5mmx20mm chicago screw (sex bolt, binding barrel) and screw in the M4x6 or M4x8 SHCS with some loctite to make sure it doesn't move over time
 
 ![1](Images/4.png) 
 
