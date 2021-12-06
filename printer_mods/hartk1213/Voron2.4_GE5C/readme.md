@@ -5,14 +5,14 @@
 
 ### BOM
 Screws			
-Size|Qty|
----|---|		
-M3x12 |4|
-M3x16 or M3x20 SHCS|16|	
-M5x20 |4|	
-Ge5C Bearing|4|
-M5x1mm spacer|4|
-If using Halleffect 6x3 magnet | 1 |
+|Size|Qty|
+|---|---|		
+|M3x12 |4|
+|M3x16 or M3x20 SHCS|16|	
+|M5x20 |4|	
+|Ge5C Bearing|4|
+|M5x1mm spacer|4|
+|If using Halleffect 6x3 magnet | 1 |
 
 
 ![1](Images/1.png) 
