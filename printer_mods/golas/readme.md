@@ -1,6 +1,6 @@
 # V0.1 Remix
 
-![Image of V0.1 remixed render](v0-extended-tophat-hinge/images/v0.1_trident_skirt_remix_render.png)
+![Image of V0.1 remixed render](v0.1_remix_render.png)
 
 # Contents
 
