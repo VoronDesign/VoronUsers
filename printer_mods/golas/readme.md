@@ -1,6 +1,6 @@
 # V0.1 Remix
 
-![Image of V0.1 remixed render](v0.1_remix_render.png)
+![Image of V0.1 remixed render](/v01-remixed-render.png)
 
 # Contents
 
