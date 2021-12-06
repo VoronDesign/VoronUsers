@@ -10,13 +10,13 @@ this is pretty simple to assemble. The reason behind this is to help keep the pi
 
 ### BOM
 Screws			
-Size|Qty| Link
----|---|---			
-M4x8 SHCS|1|[Bolt Depot - M4x8 SHCS](https://www.boltdepot.com/Product-Details.aspx?product=6505)		
-5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC/)		
-M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4)		
-5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT/)
-Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://deepfriedhero.in/products/z-endstop-pcb-for-voron-v2-4)
+|Size|Qty|Link|
+|---|---|---|			
+|M4x8 SHCS|1|[Bolt Depot - M4x8 SHCS](https://www.boltdepot.com/Product-Details.aspx?product=6505)|
+|5mmx20mm Binding Screw|1|[Amazon - Binding Screw](https://www.amazon.com/dp/B07SNQXKKC/)|
+|M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4)|		
+|5x7x8 Sleeve Bearing|2|[Amazon - Sleeve Bearing](https://www.amazon.com/dp/B07JLVRYKT/)|
+|Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://deepfriedhero.in/products/z-endstop-pcb-for-voron-v2-4)|
 
 
 Full kit can be purchased [here](https://deepfriedhero.in/products/voron-2-4-sexbolt-kit) 
