@@ -9,6 +9,7 @@
 * Manual for simplier assembly
 * BOM
 * Renders
+* cad file
 
 ## BOM
 In addition to preloaded nuts and screws that are in stock v0.1 you also need:
