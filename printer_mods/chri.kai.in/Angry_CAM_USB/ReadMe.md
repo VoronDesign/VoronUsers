@@ -6,11 +6,11 @@ Please find my USB Camera Mod based on Waveshare OV5648 5MP USB Camera Module (A
 
 ## <b>Printing</b>
 
-Printing succesful with standard VORON settings. Distance between mounts and camera housing already set to 0.3 mm in *.stl file, which allows printing of mounts and housing in one print.
+Printing succesful with standard VORON settings. Distance between mounts and camera housing set to 0.3 mm in *.stl file, which allows printing of mounts and housing in one print.
 
 Use the following two *.stl files for realization in one print:
-- Camera Housing + Mounts.stl
-- Rear Cover.stl
+- Camera_Housing_+_Mounts.stl
+- Rear_Cover.stl
 
 ![Camera Housing with Mounts - Front View](Images/Camera_Module_+_Mounts_Drawing.png)  
 ![Rear Cover - Top View](Images/Rear_Cover_Drawing_TopView.png)  
@@ -19,7 +19,7 @@ Use the following two *.stl files for realization in one print:
 
 Bill of Material:
 - 1x Waveshare OV5648 5 MP Camera Module (A), incl. USB-A to JST SH PCB connector cable
-- 2x M3x20 SHCS screw
+- 2x M3x16 SHCS screws
 - 2x M3 T-Nut for 2020 frame profile
 - 1x Camera Housing + Mounts and Rear Cover from the printing source of your trust.
 
@@ -42,7 +42,15 @@ or
 
 <i>Applicable for usage of direct USB cable connection</i>
 
-Note down the wiring of your USB cable at the JST SH connector. Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin. Then push the open ends of the USB cable through the cable guide channel of the starboard mount starting at the rear of the mount and leaving at the mounting bolt. 
+Note down the wiring of your USB cable at the JST SH connector. 
+
+![JST SH USB connector](Images/AngryCAM_USB_JST_SH_Connector.png)
+
+Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin.  Calm hands and a ligthed magnifying glass can help with this task.
+
+![JST SH USB connector](Images/AngryCAM_USB_Open_Connector.png)
+
+Then push the open ends of the USB cable through the cable guide channel of the starboard mount starting at the rear of the mount and leaving at the mounting bolt. 
 
 ![Cable Path Starboard Mount](Images/Starboard_Mount_-_Cable_Path.png)
 
@@ -57,6 +65,10 @@ Route the USB cable to your Raspberry Pi. Remember to guide your USB cable via a
 <i>Required for frame sizes >300mm and the usage of 24AWG wire harness cables, when mounting to gantry and in case other mounting positions are chosen.</i>
 
 Connect the camera module with the short pre-crimped JST SH cable and guide the open end of the cable through the starboard borehole of the housing, inside out. Then pull the open end of the cable through the guide channel in the mount, starting at the mounting bolt and leaving the mount at the rear side.
+
+At the end your premounted camera module should look similar to the following picture.
+
+![Adapter Cable Routing](Images/AngryCAM_USB_Mounting_Adapter_Cable.png)
 
 At the open end of the adapter cable, attach the cable connector of your choice ( e.g. Molex Microfit 3.0).  Cut a standard USB cable on the microUSB or USB-C connector side and crimp every line and the shielding to a dedicated pin in your connector of choice (-> 5pol). You can save one pin at your connector when connecting GND line and shielding to one position of the connector (-> 4pol).
 
@@ -75,6 +87,11 @@ Start at one end of the rear opening and then gently press the cover to its posi
 
 ![Rear Cover - Start of Mounting](Images/Rear_Cover_Mount_HowTo_Start.png)
 
+This is how it could look like in real life.
+
+![Rear Cover Mounting in Reality](Images/AngryCAM_USB_Closing_the_Rear_Cover.png)
+
+
 ### Mounting to Frame or Gantry
 
 Place the camera module with the mounts to your desired mounting position. Use the M3x20 screws and the T-nuts to fix it to the frame. Take care to not squish the adapter cable or USB cable with the T-nuts, when guiding the cable in the frame profile.
@@ -84,12 +101,14 @@ If you mount the module to the gantry, make sure to guide the USB cable through 
 
 ### Raspberry Pi and Software Configuration
 
-Connect the USB-A connector to your Raspberry Pi and enable the USB webcam support as described in https://www.waveshare.com/wiki/OV5648_5MP_USB_Camera_(A) with <b>sudo raspi-config</b>. IF you are using Octopi OS image, no additional application needs to be installed. Finalize you installation with a reboot of your Raspberry Pi.
+Connect the USB-A connector to your Raspberry Pi and enable the USB webcam support as described in https://www.waveshare.com/wiki/OV5648_5MP_USB_Camera_(A) with <b>sudo raspi-config</b>. 
+
+If you are using Octopi OS image, no additional application needs to be installed. Finalize you installation with a reboot of your Raspberry Pi.
 
 After reboot activate the webcam support in the Octopi Settings: OctoPi Settings -> Functions -> Webcam & ...
 
 
-<b>Finally arrange your camera module to your desired angle and enjoy !</b>
+<b>Arrange your camera module to your desired view angle and enjoy !</b>
 
 
 ## <b>FAQ</b>
