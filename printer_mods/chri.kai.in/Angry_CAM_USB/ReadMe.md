@@ -9,7 +9,7 @@ Please find my USB Camera Mod based on Waveshare OV5648 5MP USB Camera Module (A
 Printing succesful with standard VORON settings. Distance between mounts and camera housing set to 0.3 mm in *.stl file, which allows printing of mounts and housing in one print.
 
 Use the following two *.stl files for realization in one print:
-- Camera_Housing_+_Mounts.stl
+- Camera_Housing+Mounts.stl
 - Rear_Cover.stl
 
 ![Camera Housing with Mounts - Front View](Images/Camera_Module_+_Mounts_Drawing.png)  
@@ -46,7 +46,7 @@ Note down the wiring of your USB cable at the JST SH connector.
 
 ![JST SH USB connector](Images/AngryCAM_USB_JST_SH_Connector.png)
 
-Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin.  Calm hands and a ligthed magnifying glass can help with this task.
+Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin. Calm hands and an illuminated magnifying glass can help with this task.
 
 ![JST SH USB connector](Images/AngryCAM_USB_Open_Connector.png)
 
@@ -60,7 +60,7 @@ Pass the cable ends through the starboard borehole of the camera housing, outsid
 
 Route the USB cable to your Raspberry Pi. Remember to guide your USB cable via all necessary cable chains, if you mount the camera to moving parts of your printer ( e.g. z-axis cable chain if mounted on rear of gantry).
 
-### Using an adapter cable to allow longer USB cables (n)
+### Using an adapter cable to allow longer USB cables
 
 <i>Required for frame sizes >300mm and the usage of 24AWG wire harness cables, when mounting to gantry and in case other mounting positions are chosen.</i>
 
@@ -79,13 +79,9 @@ Connect the adapter cable with the standard USB cable and route the standard USB
 Place the camera module in the Camera Housing. Take care of the mounting frames and domes in the camera housing to ensure proper position and direction. Close the housing with the rear cover.
 
 Make sure you place the wider edge of the rear cover first. This allows carved out areas in the rear cover to match to the mounting bolts and the rear cover will snap to the camera housing without glueing necessary. 
-
-![Rear Cover - Side View Drawing](Images/Rear_Cover_Drawing_Side_View.png)
-![Rear Cover - Cover Orientation During Mount](Images/Rear_Cover_Mount_Cover_Orientation.png)
-
 Start at one end of the rear opening and then gently press the cover to its position.
 
-![Rear Cover - Start of Mounting](Images/Rear_Cover_Mount_HowTo_Start.png)
+![Rear Cover - Mounting Guide](Images/AngryCAM_USB_Mounting_Rear_Cover.png)
 
 This is how it could look like in real life.
 
