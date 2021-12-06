@@ -9,6 +9,7 @@
 * BOM
 * Renders
 * Live photos
+* cad file
 
 ## BOM
 In addition to preloaded nuts and screw that are in default v0.1 version you need also:
