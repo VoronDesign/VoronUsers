@@ -64,7 +64,10 @@ Changes
 - Rapido Hotend Compatibility
     -  The Rapido hotend is the same length as the Crazy Volcano/Dragon and should work using the Crazy Volcano ducts and magprobe.  I will be confirming part cooling CFDs and will make adjustments to make it fully compatible soon.  I have a Rapido on order so will be able to personally test this as well.  
     - The Rapido sock is very chonky.  For optimum part cooling, I will probably need to rotate the hotend slightly (slightly modified hotend mount part).  
-    - I'm also considering making two sets of ducts for Rapido: One where the airflow clears the Rapido Sock; Second set of ducts where the sock is trimmed slightly at the bottom to allow for slightly bigger duct outlets and slightly better part cooling.  Note that both of these part cooling ducts will outperform the standard Mantis ducts because the Rapido is narrower at the bottom than the Dragon.  
+    - I'm considering making two sets of ducts for Rapido
+      - One where the airflow clears the Rapido Sock
+      - Second set of ducts where the sock is trimmed slightly at the bottom to allow for slightly bigger duct outlets and slightly better part cooling.  Trimming the sock will allow a better angle of attack for part cooling to the nozzle.
+      - Note that both of these part cooling ducts will outperform the standard Mantis ducts because the Rapido is narrower at the bottom than the Dragon.  
 
 11-29-2021
 - Added WingZero's [Mosquito Hotend Mount](Usermods/Wingzero) for Mantis using 2510 hotend fan.  Thanks for a lot of work and testing for this mod!
