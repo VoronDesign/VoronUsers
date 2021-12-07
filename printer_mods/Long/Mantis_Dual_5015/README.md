@@ -16,7 +16,7 @@ Mantis Dual 5015 Toolhead by Long
 * Now compatible with single MGN9 and MGN12 X-Rail.  
  * Hotends
    * Dragon
-   * Mosquito (from usermod by WingZero
+   * Mosquito (from usermod by WingZero)
    * Crazy Volcano block with Dragon heatsink
    * Rapido compatibility soon.
  * Dual 5015
@@ -65,7 +65,7 @@ Changes
 12-07-2021
 - Rapido Hotend Compatibility
     -  The Rapido hotend is the same length as the Crazy Volcano/Dragon and should work using the Crazy Volcano ducts and magprobe.  I will be confirming part cooling CFDs and will make adjustments to make it fully compatible soon.  I have a Rapido on order so will be able to personally test this as well.  
-    - The Rapido sock is very chonky.  For optimum part cooling, I will probably need to rotate the hotend slightly (slightly modified hotend mount part).  When mounted into the existing dragon heatsink holes, the triangular sock of the Rapido is isn't square to the front of the carriage at the bottom (will need to confirm this when I receive mine).  
+    - The Rapido sock is very chonky.  For optimum part cooling, I will probably need to rotate the hotend slightly (slightly modified hotend mount part).  When mounted into the existing dragon heatsink holes, the triangular sock of the Rapido isn't square to the front of the carriage at the bottom (will need to confirm this when I receive mine).  
     - I'm considering making two sets of ducts for Rapido
       - One where the airflow clears the Rapido Sock
       - Second set of ducts where the sock is trimmed slightly at the bottom to allow for slightly bigger duct outlets and slightly better part cooling.  Trimming the sock will allow a better angle of attack for part cooling to the nozzle.
