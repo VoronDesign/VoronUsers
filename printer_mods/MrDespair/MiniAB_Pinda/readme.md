@@ -1,7 +1,7 @@
 Mini Afterburner Pinda Probe Mount
 ==============================
 
-A modified dragon toolhead cowling to mount a pinda (or superpinda, or vinda) probe to your VO.1! (Mosquito will come someday if I get this working). 
+A modified dragon toolhead cowling to mount a pinda (or superpinda, or vinda) probe to your V0.1! (Mosquito will come someday if I get this working). 
 
 BOM
 ---
