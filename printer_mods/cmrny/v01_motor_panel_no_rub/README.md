@@ -2,7 +2,7 @@
 ![Voron v0.1 Motor Panel Modification No Rub <](images/motor_panel_no_rub.png)
 
 ## What is this?
-This modification keeps the umbilical and bowtub from rubbing against the motor belts.
+This modification keeps the umbilical and reverse bowden tube from rubbing against the motor belts.
 
 ## How do I use it?
 
