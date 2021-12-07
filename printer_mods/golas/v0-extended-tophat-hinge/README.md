@@ -11,6 +11,9 @@
 * Renders
 * cad file
 
+## Explanation
+For people who cant print hinged tophat parts as it not fits v0 bed, you can print **hinge_for_stock_tophat_x2.stl** and connect it to default v0.1 tophat with 2x10mm self tapping screws, small 1.2mm holes needs to be made in tophat back parts to secure it with screws.
+
 ## BOM
 In addition to preloaded nuts and screws that are in stock v0.1 you also need:
 * 8 x standard v0.1 BOM magnets 6x3mm
