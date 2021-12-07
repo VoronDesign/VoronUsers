@@ -1,4 +1,4 @@
-# Quick release latch for panels on 2020 extrusion
+# Printable quick release latch for panels on 2020 extrusion
 
 This is originally inspired by a youtube video - [https://www.youtube.com/watch?v=6p7M18oPn3k](https://www.youtube.com/watch?v=6p7M18oPn3k)
 
