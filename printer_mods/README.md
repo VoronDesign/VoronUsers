@@ -42,6 +42,7 @@ like so:
 | |[Analog Timer Mount](./al3ph/analog_timer_mount)|A skirt mount for analog timer |:heavy_check_mark:|:x:|:x:|:x:|
 | |[Filament Runout Sensor](./al3ph/filament_runout)|A simple filament runout sensor |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[PL05 Sensor Mount](./al3ph/pl05_mount)|A mount PL05 inductive sensor |:heavy_check_mark:|:x:|:x:|:x:|
+|Amarpal89|[Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) |Trident style side power inlet for V2.4 using Z Drive Motor Tensioner Mod |:x: |:x: |:heavy_check_mark: |:x:|:x:|
 |Andre|[Mini Afterburner Strain Relief](./Andre/Mini_Afterburner_Strain_Relief)|A replacement strain relief for the Mini Afterburner toolhead|:heavy_check_mark:|:x:|:x:|:x:|
 | |[V0 Neopixel Front Bed Mount](./Andre/V0_Neopixel_Front_Bed_Mount)|A replacement Front Bed Mount with room for a neopixel or dotstar behind the logo|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
@@ -100,7 +101,6 @@ like so:
 | |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
-| |[Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) |Trident style side power inlet for V2.4 using Z Drive Motor Tensioner Mod - By @Amarpal89 |:x: |:x: |:heavy_check_mark: |:x:|:x:|
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
 | |[Bed Fans](./Ellis/Bed_Fans) | Bed fan control macros and 5015 bed fan mounts | :x: | :x: |:heavy_check_mark: |:x:|
