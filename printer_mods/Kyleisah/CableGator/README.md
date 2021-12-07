@@ -22,7 +22,7 @@ CableGator was designed and prototyped by a stranger you've never met, on the in
 #### Materials:
 #### - (1) M3 Heat-Set insert
 #### - (1) M3x16 SHCS
-#### - (Both) CableGator [parts](https://github.com/kyleisah/VoronUsers/tree/master/printer_mods/Kyleisah/STLs), fresh off the print bed.
+#### - (Both) CableGator [parts](./STLs), fresh off the print bed.
 
 ## Assembly Instructions:
 
