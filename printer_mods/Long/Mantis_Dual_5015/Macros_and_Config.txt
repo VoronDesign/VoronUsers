@@ -1,4 +1,6 @@
-# NOTE: All of this is based on my printer, which is a Voron 2.4 300
+# NOTE: All of this is based on my printer, which is a Voron 2.4 300.  
+# This is what works for me, but your setup may vary quite a bit from this.  
+# Please double check all probing locations and mesh settings etc.  
 
 # Basic movements to dock and undock probe
 #   Get Probe
@@ -37,7 +39,7 @@ gcode:
     ##	XY Location of the Z Endstop Switch
     ##	Update X0 and Y0 to your values (such as X157, Y305) after going through
     ##	Z Endstop Pin Location Definition step.
-    #home on z pin at this location
+    ##home on z pin at this location
     G0 X200 Y305 F3600 
    
     G28 Z
@@ -45,6 +47,20 @@ gcode:
   
 	#	Go to middle of bed for 300 build
     G0 X150 Y150 Z30 F3600
+   
+[probe]
+#  Mag Probe
+x_offset: -1.95 	#This will be positive or negative depending on which way the nub on your magprobe microswitch is oriented.
+y_offset: 32.95
+z_offset: 2.4
+
+speed: 5	
+lift_speed: 5
+samples: 3
+samples_result: median
+sample_retract_dist: 1.5
+samples_tolerance: 0.006
+samples_tolerance_retries: 5
    
    
 [quad_gantry_level]

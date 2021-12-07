@@ -1,4 +1,4 @@
-# Voron v2.4 4.3" Touchscreen Mount
+# Voron v2.4 & Switchwire 4.3" Touchscreen Mount
 
 Inspired by [Roboticator's excellent 4" touchscreen mount](../../roboticator24/4inch_touchscreen_mount_for_v2.4), I wanted to use a capacitive touchscreen and a DSI connection instead.
 
@@ -15,15 +15,23 @@ This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waves
 
 #### Combine with [Roboticator's modified skirts](https://github.com/roboticator24/VoronUsers/tree/master/printer_mods/roboticator24/front%2Brear_skirts_for_v2.4) for a cleaner look.
 
+## 2.4
 <div align="center">
     <img src="images/Mounted_1.jpg" height="250">
     <img src="images/Mounted_2.jpg" height="250">
 </div>
 
+## Switchwire
+<div align="center">
+    <img src="images/Mounted_SW_1.jpg" height="250">
+    <img src="images/Mounted_SW_2.jpg" height="250">
+</div>
+
 ## Parts Required
 | Part | Quantity | Comment|
 |------|------|--------|
-| M3 X 8 SHCS/BHCS Screw | 3 | |
+| M3 X 8 SHCS/BHCS Screw | 3 |2.4 only|
+| M3 X 16 SHCS/BHCS Screw | 2 |Switchwire only|
 | M3 T-Nut | 3 | |
 | M2 x 10 Self Tapping Screws | 2 | Optional |
 | M2.5 Screws | 4 | Included with screen |
@@ -44,9 +52,13 @@ This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waves
 ## Installation
 1. Attach the screen to the mount using 4 x M2.5 screws that were included with the screen
    1. Ensure the screen slid as high on the mount as possible
-2. Slide the faceplate onto the screen from the bottom, ensuring the sides remain latched behind the PCB
-3. Fasten the mount to the bottom extrusion in place of the spec LCD/mount
-   1. You may need to leave the screen screws slightly loose to ensure the M3 screws clear it.  Ensure to tighten afterwards.
+2. Slide the faceplate onto the screen from the bottom (for switchwire from top), ensuring the sides remain latched behind the PCB
+3. Fasten the mount
+   1. 2.4
+      1. Fasten the mount to the bottom extrusion in place of the spec LCD/mount
+      2. You may need to leave the screen screws slightly loose to ensure the M3 screws clear it.  Ensure to tighten afterwards.
+   2. Switchwire
+      1. Screw the mount at the same grill position as the 12864 display
 4. Slide the faceplate up until it is flush to the extrusion
 5. Optional: Secure the faceplate with (2) 2 x 10 self tapping screws through the tabs on each side
 6. Connect your DSI cable
