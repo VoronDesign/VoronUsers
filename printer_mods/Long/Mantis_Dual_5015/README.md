@@ -14,7 +14,11 @@ Mantis Dual 5015 Toolhead by Long
 
 **Features:**
 * Now compatible with single MGN9 and MGN12 X-Rail.  
- * Dragon Hotend only right now although mods are floating around for others
+ * Hotends
+   * Dragon
+   * Mosquito (from usermod by WingZero
+   * Crazy Volcano block with Dragon heatsink
+   * Rapido compatibility soon.
  * Dual 5015
     - Left to Right airflow balance is no longer an issue
     - Single piece ducts without splitting and fewer bends = less duct losses
