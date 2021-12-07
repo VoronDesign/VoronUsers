@@ -17,6 +17,7 @@ For people who cant print hinged tophat parts as it not fits v0 bed, you can pri
 ## BOM
 In addition to preloaded nuts and screws that are in stock v0.1 you also need:
 * 8 x standard v0.1 BOM magnets 6x3mm
+* optional: 2x10mm self taping screws in case of connecting default tophat with **hinge_for_stock_tophat_x2.stl**
 * 2 x M3x16 BHCS
 * 2 x M3 Nylon-Insert Locknut
 * Acrylic/PC 3mm thick or printed panels (dxf included)
