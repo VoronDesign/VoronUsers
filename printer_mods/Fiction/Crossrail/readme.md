@@ -4,7 +4,7 @@
 
 Crossrail is a printed adapter for RSP-200-24 or LRP-200-24 power supplies and DRP-03 brackets. It allows the power supply to be mounted securely across the rails (or vertically as it's sometimes called).
 
-![](./images/_DSF0728.jpg)
+![](./images/crossrail_installed.jpg)
 
 The alternate part *crossrail_slot* is the same mount but with slots to allow 10mm adjustment in either direction
 
@@ -18,10 +18,10 @@ For *crossrail.stl* the DIN rails need to be spaced 120mm apart centre-to-centre
 
 ## Images
 ### DRP-03 before cutting and in normal use
-![crossrail](./images/_DSF0725.jpg)
-![crossrail](./images/_DSF0724.jpg)
+![crossrail](./images/DRP-03_01.jpg)
+![crossrail](./images/DRP-03_02.jpg)
 ### 2 x DRP-03 after cutting
-![crossrail](./images/_DSF0727.jpg)
+![crossrail](./images/DRP-03_03.jpg)
 ### crossrail.stl
 ![crossrail](./images/crossrail_01.jpg)
 ### crossrail_slot.stl
