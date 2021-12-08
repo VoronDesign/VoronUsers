@@ -8,7 +8,9 @@ This work is based on [sttts's Waveshare 5.5inch mount](../../sttts/Waveshare-5.
 
 ## BOM
 
-- 4x M3x6mm
+- 4x M3 Heatset Inserts
+- 4x M3x6mm to attach to the mount
+- 3x M3x10-12mm to attach the mount to the frame
 - 4x M2.5x4mm (included in the BTT PITFT50 v2)
 - 500mm ~ 600mm Ribbon Flat Cable for Raspberry Pi Camera (depends on the position of the Raspberry Pi. The included one is too short)
 
