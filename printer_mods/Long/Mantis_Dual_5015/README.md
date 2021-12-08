@@ -7,7 +7,7 @@ Mantis Dual 5015 Toolhead by Long
   
 ![](images/mantis.jpg)    
   
-![](images/cfd.png)    
+<img src="images/cfd.png" width=30% height=30%>    
   
 ![](images/exploded.png)   
 
