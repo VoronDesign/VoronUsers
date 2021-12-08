@@ -31,5 +31,5 @@ Carriage Assembly
   - m3x8mm bolts to attach carriage to MGN9.
   - Make sure the carriage is straight while tightening. If your carriage is tilted, using Auto-Z calibration will give inconsistent results. If you need to adjust the tile, note that you can loosen the carriage bolts without loosening the belts
 ![Carriage with Heatsets](images/readme/printorientation.png)
-![Carriage rear](images/carriage_assembly_mgn9_rear_thumb.jpg)
+<img src="images/carriage_assembly_mgn9_rear_thumb.jpg" width=50%> height=50%
 ![Carriage side](images/readme/printorientation.png)
