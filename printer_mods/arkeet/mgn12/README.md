@@ -1,6 +1,12 @@
 MGN12 X axis
 ============
 
+**Note:** Voron Trident officially uses a slightly improved version of this
+mod. It is suggested to use the X axis parts from Trident instead.
+https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/Gantry/X_Axis
+
+---
+
 This replaces the dual MGN9H rails on the V2.4 X axis with a single MGN12H
 rail.  The belt is directly clamped to the MGN12 block by the carriage.
 
