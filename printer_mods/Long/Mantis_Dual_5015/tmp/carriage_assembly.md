@@ -1,3 +1,4 @@
+
 Carriage Assembly
 ============
 **Carriage Assembly:**
@@ -9,14 +10,14 @@ Carriage Assembly
   - Place the second magnet on top of the soldered magnet, and then press the two magnets into the hole so the unsoldered magnet is out. The magnets should be “proud” of the carriage.
   - I use a flat surface to press the magnets in and then lap them so they mate well with the mag probe.
   - Note, previously, attaching the magnets by pinching the wires was thought to be ok.  After further testing, the "wire pinch" method of attaching the wires to the magnets is no longer recommended due to failures of the connection over time.
-![Assembled Carriage from Bottom](images/readme/printorientation.png)
+  - <img src="images/carriage_assembly_solder_magnet.jpg" width=50% height=50%><img src="images/carriage_assembly_carriage_bottom.jpg" width=50% height=50%>
 - Misc Notes
   - Adjust the tilt of your magprobe by screwing in and out the m3x6 button head screw on the bottom of the carriage.
   - Do not forget to put superglue into the holes in the carriage prior to putting in the magnets.
   - Hole on left side of carriage is for ADXL mounting. (Thanks @Koonweee)
 - Heatsets
   - As shown on front and top. There will be an extra hole on top/right. This extra hole is currently unused and is present to allow for mods.  
-
+<img src="images/carriage_assembly_side.jpg" width=33% height=33%><img src="images/carriage_assembly_heatsets.jpg" width=33% height=33%><img src="mgn12rearassemblypic" width=33% height=33%>
 **MGN9 Carriage Notes:**
 - Notes
   - Mounting Mantis with a single MGN9 carriage is possible. I am currently testing this with a Robotdigg 440 SUS MGN9 rail. So far, I am not noticing any loss in quality after switching from MGN12 using the same slicer profile. However, your results may vary depending on the quality of your linear rail.
@@ -30,6 +31,4 @@ Carriage Assembly
   - I used openbuild T-nuts (because I had them around) and dremeled them narrower
   - m3x8mm bolts to attach carriage to MGN9.
   - Make sure the carriage is straight while tightening. If your carriage is tilted, using Auto-Z calibration will give inconsistent results. If you need to adjust the tile, note that you can loosen the carriage bolts without loosening the belts
-![Carriage with Heatsets](images/readme/printorientation.png)
-<img src="images/carriage_assembly_mgn9_rear_thumb.jpg" width=30% height=30%>
-![Carriage side](images/readme/printorientation.png)
+<img src="images/carriage_assembly_mgn9_front.jpg" width=25% height=25%><img src="images/carriage_assembly_mgn9_front_mounted.jpg" width=25% height=25%><img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=25% height=25%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=25% height=25%>
