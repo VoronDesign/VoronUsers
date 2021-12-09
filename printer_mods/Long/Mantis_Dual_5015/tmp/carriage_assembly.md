@@ -18,6 +18,7 @@ Carriage Assembly
 - Heatsets
   - As shown on front and top. There will be an extra hole on top/right. This extra hole is currently unused and is present to allow for mods.  
 <img src="images/carriage_assembly_side.jpg" width=33% height=33%><img src="images/carriage_assembly_heatsets.jpg" width=33% height=33%><img src="mgn12rearassemblypic" width=33% height=33%>
+
 **MGN9 Carriage Notes:**
 - Notes
   - Mounting Mantis with a single MGN9 carriage is possible. I am currently testing this with a Robotdigg 440 SUS MGN9 rail. So far, I am not noticing any loss in quality after switching from MGN12 using the same slicer profile. However, your results may vary depending on the quality of your linear rail.
@@ -31,4 +32,5 @@ Carriage Assembly
   - I used openbuild T-nuts (because I had them around) and dremeled them narrower
   - m3x8mm bolts to attach carriage to MGN9.
   - Make sure the carriage is straight while tightening. If your carriage is tilted, using Auto-Z calibration will give inconsistent results. If you need to adjust the tile, note that you can loosen the carriage bolts without loosening the belts
-<img src="images/carriage_assembly_mgn9_front.jpg" width=25% height=25%><img src="images/carriage_assembly_mgn9_front_mounted.jpg" width=25% height=25%><img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=25% height=25%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=25% height=25%>
+<img src="images/carriage_assembly_mgn9_front.jpg" width=25% height=50%><img src="images/carriage_assembly_mgn9_front_mounted.jpg" width=25% height=50%>
+<img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=25% height=50%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=25% height=50%>
