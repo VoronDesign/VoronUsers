@@ -20,9 +20,8 @@ Mag Probe
 
 
 - Magprobe Config
-  - This can be a bit daunting…You can do it though!
+  - This seems pretty daunting to do…but it's not as bad as you think.  Check out the klicky or annex macros linked below.  
   - I highly recommend you print extra dock arms while you are figuring this out—especially if you are doing bed extrusion mounted.
-  - The general movements for docking and undocking are in Macros_and_Config.txt
   - Don’t forget to home y before x in homing_override.
   - For smart macros
     - Annex repo for their magprobe at  https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
