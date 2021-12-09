@@ -32,5 +32,7 @@ Carriage Assembly
   - I used openbuild T-nuts (because I had them around) and dremeled them narrower
   - m3x8mm bolts to attach carriage to MGN9.
   - Make sure the carriage is straight while tightening. If your carriage is tilted, using Auto-Z calibration will give inconsistent results. If you need to adjust the tile, note that you can loosen the carriage bolts without loosening the belts
-<img src="images/carriage_assembly_mgn9_front.jpg" width=25% height=50%><img src="images/carriage_assembly_mgn9_front_mounted.jpg" width=25% height=50%>
-<img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=25% height=50%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=25% height=50%>
+ 
+<img src="images/carriage_assembly_mgn9_front.jpg" width=50% height=50%><img src="images/carriage_assembly_mgn9_front_mounted.jpg" width=50% height=50%>
+
+<img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=50% height=50%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=50% height=50%>
