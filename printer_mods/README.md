@@ -25,6 +25,5 @@ like so:
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
-
 |3vilson|[V0.1_Skirt_Inlet](./3vilson/V0.1_Skirt_Inlet)|Skirt with C14 inlet + New feet to screw into|:heavy_check_mark:| :x: | :x: | :x: | :x:|
 | |[V0.1_Skirt_Holes](./3vilson/V0.1_Skirt_Holes)|Skirt with Access Holes from the bottom|:heavy_check_mark:| :x: | :x: | :x: | :x:|
