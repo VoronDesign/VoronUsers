@@ -344,7 +344,8 @@ like so:
 | | [V0 PiCam Mount](./xbst_/V0_Picam)| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | Xceled | [Single Panel Magnet Mount](./xceled/Single_Panel_Magnet_Mount)| Mount your front panel using only magnets | :x: |:grey_question: |:heavy_check_mark: |:x:|
-| Yeri | [V0 Magnetic Panels](./yeri/V0_Magnetic_Panels)| Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access | :heavy_check_mark: | :x: | :x: | :x: |
+| Yenda | [SW More Robust XZ Belt Paths](./yenda/vsw_more_robust_belt_paths)| Small mods to belt routing components to ensure a better/more robust alignment| :heavy_check_mark: | :x: | :x: | :x: |
+| Yeri | [V0 Magnetic Panels](./yeri/V0_Magnetic_Panels)| Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
 | Zen3D | [V0 Handle](./Zen3D/V0_Handle)| Voron0 Handle for 3mm panels | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 MidPanel HexPattern](./Zen3D/V0_MidPanel_HexPattern)| Voron0 MidPanel with Hex pattern and Wire cover  | :heavy_check_mark: |:x: |:x: |:x:|
