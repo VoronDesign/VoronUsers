@@ -37,7 +37,7 @@ I recommend following the default settings for Voron Parts, and none of the part
 ```
 Layer Height       : 0.2 mm
 Extrusion Width    : 0.4 mm
-Infill             : 40 %
+Infill             : 40 % ( 100% For face_plate_bottom.stl )
 Perimeters         : 4
 Solid Top/Bottom   : 5
 Supports           : No
