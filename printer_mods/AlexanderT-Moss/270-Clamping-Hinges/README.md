@@ -10,12 +10,16 @@
  ### Using Foam Tape ###
 
  At the moment I have only tested using 3mm thick foam and that works well, you may be able to get away with 4mm foam, but for anything thicker, you'll need to modify part of the hinge to accommodate this.
+ 
+ ### Keeping The Doors Shut ###
+ 
+ I am currently using this clamps designed by [_v6cl_](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
 
  ### Different Styles Of Face Plates ###
 
  The file names match up with the digrams below.
 
- Face Plate Style Zero             |  Face Plate Style One         | Face Plate Style Two
+ Face Plate No Logo               |  Face Plate Embossed Logo         | Face Plate Through Logo
  :-------------------------------:|:-------------------------------:|:-------------------------------:
  ![Logo-Variation-0.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-0.png?raw=true)         |  ![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)  | ![Logo-Variation-2](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
 
