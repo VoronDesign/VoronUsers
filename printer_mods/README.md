@@ -42,7 +42,7 @@ like so:
 | |[Analog Timer Mount](./al3ph/analog_timer_mount)|A skirt mount for analog timer |:heavy_check_mark:|:x:|:x:|:x:|
 | |[Filament Runout Sensor](./al3ph/filament_runout)|A simple filament runout sensor |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[PL05 Sensor Mount](./al3ph/pl05_mount)|A mount PL05 inductive sensor |:heavy_check_mark:|:x:|:x:|:x:|
-|AlexanderT-Moss|[270 Clamping Hinges](./AlexanderÞór/270-Clamping-Hinges)|Simple 270 degree hinges that clamp to the front panels instead of using VHB or drilled holes|:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
+|AlexanderT-Moss|[270 Clamping Hinges](./AlexanderT-Moss/270-Clamping-Hinges)|Simple 270 degree hinges that clamp to the front panels instead of using VHB or drilled holes|:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 |Andre|[Mini Afterburner Strain Relief](./Andre/Mini_Afterburner_Strain_Relief)|A replacement strain relief for the Mini Afterburner toolhead|:heavy_check_mark:|:x:|:x:|:x:|
 | |[V0 Neopixel Front Bed Mount](./Andre/V0_Neopixel_Front_Bed_Mount)|A replacement Front Bed Mount with room for a neopixel or dotstar behind the logo|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
