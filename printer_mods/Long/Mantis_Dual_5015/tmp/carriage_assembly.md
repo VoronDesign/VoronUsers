@@ -17,7 +17,7 @@ Carriage Assembly
   - Hole on left side of carriage is for ADXL mounting. (Thanks @Koonweee)
 - Heatsets
   - As shown on front and top. There will be an extra hole on top/right. This extra hole is currently unused and is present to allow for mods.  
-<img src="images/carriage_assembly_side.jpg" width=33% height=33%><img src="images/carriage_assembly_mgn12_front.jpg" width=33% height=33%><img src="images/carriage_assembly_mgn12_rear.jpg" width=33% height=33%>
+<img src="images/carriage_assembly_mgn12_front.jpg" width=50% height=50%><img src="images/carriage_assembly_mgn12_rear.jpg" width=50% height=50%>
 
 **MGN9 Carriage Notes:**
 - Notes
