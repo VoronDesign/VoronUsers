@@ -13,7 +13,8 @@ of the stepper axle. You'd probably be able to address these issues without
 if you were careful and knew about them. Using this design is just much faster.
 ![Stepper cages](images/motor_cage.png)
 
-##Additional mods##
+## Additional mods ##
+
 The **xz blocks** have a slot for M5 button head screw that can be used to fix
 tilting of the blocks w.r.t. the plane defined by the X gantry extrusion.
 The original blocks have already some measures to prevent this, but apparently
