@@ -34,11 +34,9 @@ but I think this is the most exhaustive version.
 
 ## Print Instructions
 
-![all 6 in SuperSlicer](images/sliced.png)
-
 **Print Settings:** Standard Voron PIF sttings -- at least 40 percent infill, 4 perims, 5 solid layers top and bottom
 
-**Quantities: **Quantities are noted in the filenames -- each part needs to be printed only in single copy.
+**Quantities:** Quantities are noted in the filenames -- each part needs to be printed only in single copy.
 
 ## Installation
 
