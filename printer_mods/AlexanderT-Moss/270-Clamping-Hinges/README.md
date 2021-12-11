@@ -13,7 +13,7 @@
  
  ### Keeping The Doors Shut ###
  
- I am currently using this clamps designed by [_v6cl_](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
+ I am currently using clamps designed by [_v6cl_](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
 
  ### Different Styles Of Face Plates ###
 
