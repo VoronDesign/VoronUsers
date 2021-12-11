@@ -21,7 +21,7 @@
 
  Face Plate No Logo               |  Face Plate Embossed Logo         | Face Plate Through Logo
  :-------------------------------:|:-------------------------------:|:-------------------------------:
- ![Logo-Variation-0.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-0.png?raw=true)         |  ![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)  | ![Logo-Variation-2](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
+ ![Logo-Variation-0.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-0.png?raw=true)         |  ![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)  | ![Logo-Variation-2](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
 
  ## BOM - Per Hinge ##
  **Printed Parts**
@@ -50,7 +50,7 @@
  ```
  ## Assembly ##
 
- ![Clamping-Hinges-Assembly.gif](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/270-Clamping-Hinges-Assembly.gif?raw=true)
+ ![Clamping-Hinges-Assembly.gif](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/270-Clamping-Hinges-Assembly.gif?raw=true)
  _Better photos will come in good time ;)_
 
  1. Attach the _face_plate_bottom_ to the _face_plate_top_ using 2x M3 x 8 mm Bolts and 2x Hex Nuts - Keep the bolts loose for now
@@ -62,5 +62,5 @@
 
  ## Installed On My 2.4 ##
 
- ![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderÞór/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
+ ![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
  _Better photos will come in good time ;)_
