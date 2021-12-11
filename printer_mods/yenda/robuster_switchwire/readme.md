@@ -40,11 +40,18 @@ but I think this is the most exhaustive version.
 **Quantities:** Quantities are noted in the filenames -- each part needs to be printed only in single copy.
 
 ## Installation
+Install should be fairly straightforward, the naming of the parts should follow the original naming,
+so you could follow the SW manual.
+Few pictures
+![Stepper cage 1](images/install_cage_a.jpg)
+![Stepper cage 2](images/install_cage_b.jpgg)
+![Stepper cage 3 and XZ blocks](images/install_xz_blocks.jpg)
+![Upper XZ blocks](images/install_upper_xz_blocks.jpg)
 
-Pop in the nut and slide in.  Most parts will align to the extrusion edges or auto-align from a corner.
-
-The sizing is designed to hold them in place, but to make it easy to adjust the position with your fingernail or an allen wrench.
 
 ### Overal BOM
-
+6x M5x10 BHCS
+6x M5 T-Nut for 3030
+2x M3x16 SHCS
+2x M3 Threaded Insert (standard "Voron")
 
