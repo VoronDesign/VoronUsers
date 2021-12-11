@@ -47,7 +47,11 @@ Few pictures
 ![Stepper cage 2](images/install_cage_b.jpgg)
 ![Stepper cage 3 and XZ blocks](images/install_xz_blocks.jpg)
 ![Upper XZ blocks](images/install_upper_xz_blocks.jpg)
-
+Please note that the last picture contains an old revision of the upper XZ block (that was
+reducing the Z travel), but the provided version installs the same way and does not 
+reduce the Z travel.
+Generally speaking, I suggest tightening the screw attaching the stepper to the vertical extrusion
+as a very last step. 
 
 ### Overal BOM
 6x M5x10 BHCS
