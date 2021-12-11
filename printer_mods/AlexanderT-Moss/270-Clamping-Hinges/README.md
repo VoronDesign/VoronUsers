@@ -9,7 +9,7 @@
  
 ### Update Log ###
 
-**11.12.21** - Made subtle changes to dimensions to hold panels closer together whilst having them fully seated in the clamps for maximum strength, also changed recommended print settings for stronger face_plate_back.stl.
+**11.12.21** - Made subtle changes to dimensions to hold panels closer together whilst having them fully seated in the clamps for maximum strength, also changed recommended print settings for stronger face_plate_bottom.stl.
 
  ### Using Foam Tape ###
 
