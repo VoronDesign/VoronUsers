@@ -1,4 +1,4 @@
-This is my config for the Voron 2.4 based on Duet 6HC and 3HC. 
+This is my config for the Voron 2.4 300mm based on Duet 6HC and 3HC. 
 
 If you have any questions - ping me on voron discord. 
 
