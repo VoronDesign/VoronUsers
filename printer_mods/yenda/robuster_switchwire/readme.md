@@ -44,7 +44,7 @@ Install should be fairly straightforward, the naming of the parts should follow 
 so you could follow the SW manual.
 Few pictures
 ![Stepper cage 1](images/install_cage_a.jpg)
-![Stepper cage 2](images/install_cage_b.jpgg)
+![Stepper cage 2](images/install_cage_b.jpg)
 ![Stepper cage 3 and XZ blocks](images/install_xz_blocks.jpg)
 ![Upper XZ blocks](images/install_upper_xz_blocks.jpg)
 Please note that the last picture contains an old revision of the upper XZ block (that was
@@ -54,8 +54,8 @@ Generally speaking, I suggest tightening the screw attaching the stepper to the 
 as a very last step. 
 
 ### Overal BOM
--6x M5x10 BHCS
--6x M5 T-Nut for 3030
--2x M3x16 SHCS
--2x M3 Threaded Insert (standard "Voron")
+- 6x M5x10 BHCS
+- 6x M5 T-Nut for 3030
+- 2x M3x16 SHCS
+- 2x M3 Threaded Insert (standard "Voron")
 
