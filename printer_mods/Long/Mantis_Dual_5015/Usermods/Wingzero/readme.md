@@ -19,6 +19,12 @@ Info
 
 Changelog
 -----------------
+12-13-2021
+- hotend_mount_NFCrazy_14mm_thick_30mm_fan_v0.42_with_support.stl
+  - added this mount.  Apparently some of the NF Crazy heat sinks are 14mm thick.  This version accomodates that thickness.
+  - I have reservations about the NF crazy version of mosquito because the block extends further backwards and is pretty close to the carriage.  This may cause issues with melting of the carriage.  It'll probably be ok and not affect performance, but I wouldn't be surprised.  
+
+11-29-2021
 - hotend_mount_mosquito_30mm_fan_v0.42
   - tightened tolerance between mosquito heatsink and the mount.
   - split the supports into four pieces for easier removal.
