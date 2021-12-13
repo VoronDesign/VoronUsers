@@ -1,12 +1,11 @@
 |  Link  | Description |
 |--|--|
-| [Readme](readme.md)  |  Mantis Description  |
+| [Readme](readme.md)  |  Mantis Description and Updates |
 |  [Print Orientation](print_orientation.md)  |  Printing the parts  |
 |  [BOM and Acknowledgements](bom_acknowledgements.md)  |  BOM, links to other repositories, acknowledgements  |
 | [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
 |  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
 |  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
-|  [Change log](changelog.md)  |  Change Log
 |  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here.  |
 
 Mag Probe 
