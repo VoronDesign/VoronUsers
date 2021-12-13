@@ -1,9 +1,17 @@
 Mantis Dual 5015 Toolhead by Long
 ============
-  
-**Please see the [Readme_v1.07.pdf](Readme_v1.07.pdf) for full description, bom, build instructions, etc**  
-  
+    
 **Note that updates are staged at [https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).  Go there for most recent stuff.**
+
+|  Link  | Description |
+|--|--|
+| [Readme](readme.md)  |  Mantis Description  |
+|  [Print Orientation](print_orientation.md)  |  Printing the parts  |
+|  [BOM and Acknowledgements](bom_acknowledgements.md)  |  BOM, links to other repositories, acknowledgements  |
+| [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
+|  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
+|  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
+|  [Change log](changelog.md)  |  Change Log
   
 ![](images/mantis.jpg)    
   
@@ -55,10 +63,18 @@ Mantis Dual 5015 Toolhead by Long
     - Depending on how much you tighten your screw, the standard 12mm one will work.
 
 Readme and Link to Long's repository
------------------
-**Please see the [Readme_v1.07.pdf](Readme_v1.07.pdf) for full description, bom, build instructions, etc**  
-  
+-----------------  
 **Note that updates are staged at [https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).  Go there for most recent stuff.**
+
+|  Link  | Description |
+|--|--|
+| [Readme](readme.md)  |  Mantis Description  |
+|  [Print Orientation](print_orientation.md)  |  Printing the parts  |
+|  [BOM and Acknowledgements](bom_acknowledgements.md)  |  BOM, links to other repositories, acknowledgements  |
+| [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
+|  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
+|  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
+|  [Change log](changelog.md)  |  Change Log
 
 Changes
 -----------------
