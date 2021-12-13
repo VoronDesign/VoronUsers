@@ -60,4 +60,4 @@ Slicer settings
   - The higher fan percent will increase your chamber temps and offset the higher fan usage. 
   - I often see 55c+ chamber temps in my uninsulated Voron 300. 
   - If I’m printing a single ABS part with short layer times I’ll often use 50%+ fan for the whole part. I haven’t had issues with layer splitting when I do this.
-![Slicer Settings](images/readme/slicersettings.png)
+![Slicer Settings](images/firmware_slicer_cooling_settings.png)
