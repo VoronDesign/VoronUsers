@@ -31,6 +31,7 @@ like so:
 | |[Exhaust filter housing - side thread](./42bios/exhaust_filter_housing_side)|Exhaust filter housing with the G1-8 "thread on the side. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 | |[LED mount](./42bios/LED_mount)|AngryLED - LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 | |[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
+|ademuri|[Lights, Camera, Voron](./ademuri/Lights_Camera_Voron)|A mount for LED strips and Picam for the V0.1|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[MeanWell UHP-xxx DIN mount](./aeresov/MeanWell_UHP_DIN_mount)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
 ||[Raspberry Pi DIN mount](./aeresov/Raspberry_Pi_DIN_mount)|A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or across.|:x:|:grey_question:|:heavy_check_mark:|
@@ -46,6 +47,7 @@ like so:
 |Andre|[Mini Afterburner Strain Relief](./Andre/Mini_Afterburner_Strain_Relief)|A replacement strain relief for the Mini Afterburner toolhead|:heavy_check_mark:|:x:|:x:|:x:|
 | |[V0 Neopixel Front Bed Mount](./Andre/V0_Neopixel_Front_Bed_Mount)|A replacement Front Bed Mount with room for a neopixel or dotstar behind the logo|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
+|antoinecellerier|[DS18B20 Sensor Mount](./antoinecellerier/ds18b20-sensor-mount)|DS18B20 temperature sensor mount|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[Magnetic hotend fan cover](./arkeet/magnet-fan-cover)|A replacement hotend fan cover, held with magnets instead of screws. |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
@@ -148,6 +150,7 @@ like so:
 | | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
+| jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
@@ -218,7 +221,7 @@ like so:
 |MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
-| nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: |
+| nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Duet Wifi Mount](./Nomsplease/V0_Mods/duet_wifi_mount) | Duet wifi mount in pocketwatch location |:heavy_check_mark: |:x: |:x: |:x:|
 | |[LED Mounts](./Nomsplease/V0_Mods/led_mounts) | Basic LED mounts for 10 and 12mm strips |:heavy_check_mark: |:x: |:x: |:x:|
@@ -271,6 +274,7 @@ like so:
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |:x:|
 |teookie|[AB dial indicator mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | | [SKR Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
+| TiagoBarata |[Logitech C270 Mount](./TiagoBarata/Logitech_C270_Mount)| Logitech C270 Top Center Mount |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 |Tircown| [Display mount 5"](./Tircown/Display_mount_5inch) | Tiltable mount for a 5" tactile display | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Raspberry in plug panel](./Tircown/Raspberry_plug_panel) | Raspberry mount vertically in the plug panel, allow easy access to ports  | :x: | :x: | :heavy_check_mark: | :x: |
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
