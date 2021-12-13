@@ -8,6 +8,8 @@
 |  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
 |  [Change log](changelog.md)  |  Change Log
 
+BOM, Links, and Acknowledgements
+============
 **BOM:**
 - Fasteners
   - m2 x 10 (or m2 x 12) self tapping screws
