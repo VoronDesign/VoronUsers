@@ -14,7 +14,6 @@ Carriage Assembly
 - Magnets:
   - Sand the side of 2 m6x3 magnets. Place a magnet on a bigger stack of magnets then solder a piece of wire to the side as shown.
   - If you don’t have the magnet on the bigger stack, your magnet will lose some of its magnetic strength. I haven’t tested, but I think it’s probably ok because of the double stack with an unsoldered magnet.
-![Magnet Soldered to Wire on Stack of Magnets](images/readme/printorientation.png)
   - Put superglue into the magnet holes.
   - Place the second magnet on top of the soldered magnet, and then press the two magnets into the hole so the unsoldered magnet is out. The magnets should be “proud” of the carriage.
   - I use a flat surface to press the magnets in and then lap them so they mate well with the mag probe.
