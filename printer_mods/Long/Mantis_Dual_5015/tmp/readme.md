@@ -12,7 +12,7 @@ Mantis Dual 5015 Toolhead by Long
 |  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
 |  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
 |  [Change log](changelog.md)  |  Change Log
-|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
+|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here.  |
   
 ![](images/mantis.jpg)    
   
