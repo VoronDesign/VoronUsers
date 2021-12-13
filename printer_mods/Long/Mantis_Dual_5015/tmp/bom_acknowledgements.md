@@ -1,3 +1,4 @@
+
 |  Link  | Description |
 |--|--|
 | [Readme](readme.md)  |  Mantis Description  |
@@ -17,34 +18,33 @@ BOM, Links, and Acknowledgements
   - Assorted BHCS and SHCS
     - The only Socket Head screws I used are (2) m3x20 that go into the upper hotend mount holes to attach the hotend mount to the carriage.  
   - m3x5x4 heatsets – Standard Voron heatsets
-- Other
-  - Magnets
-    - m6x3 magnets (standard Voron magnets)
-    - larger diameter magnet stack 
-      - used when solding wire to magnets so that magnetic field loss is minimized during soldering.  Honestly though I think it probably doesn't matter if you don't worry about it.  See the magprobe build page for more details.  
-  - MGN9 Carriage
-    - (2) Makerbeam XL m3 T-nuts
-      - https://www.amazon.com/gp/product/B06XHQHD4H
-    - Alternatively use m3 Openbuild T-nuts
+- Magnets
+  - m6x3 magnets (standard Voron magnets)
+  - larger diameter magnet stack 
+    - used when solding wire to magnets so that magnetic field loss is minimized during soldering.  Honestly though I think it probably doesn't matter if you don't worry about it.  See the magprobe build page for more details.  
+- MGN9 Carriage
+  - (2) Makerbeam XL m3 T-nuts
+    - https://www.amazon.com/gp/product/B06XHQHD4H
+  - Alternatively use m3 Openbuild T-nuts
       - https://www.aliexpress.com/item/4000886303032.html
       - These will need to be ground down so they’re around 5.5-6mm wide
     - m3x10mm screws will make threading the belts easier but aren’t required.  
-  - Microswitches
-    - D2F-5 is recommend by Annex
-    - I’ve had better luck with cheap KW10 microswitches from Aliexpress
-      - https://www.aliexpress.com/item/32829746929.html
-    - tested at least 3-4 of the D2F-5L (with lever ripped off) microswitches, which were genuine bought from Digikey or Mouser. While using these I would often see random probings which would sound different and give results that were not precise. Since switching to the KW10 switches, my bed probing has been much more precise. Maybe I got a bad batch if D2F-5? Who knows….
-  -  Fans
-    - 5015 fans x2
-      - Sunon MF50151VX-B00U-A99 (12v)
-        - https://www.digikey.com/short/zrwpw9
-        - Note, make sure it is MF5015V ***X**** the X is important
-      - Delta BFB0524HH (24v)
-        - Delta: https://www.digikey.com/short/z4b1vtpj
-        - Delta slightly better than Sunon >> GDSTime >> Winsinn
-    - 3010 Hotend Fan
-      - I’m using Sunon 3010v1 (12v)
-        - This fan is kinda "spinny" but I don't notice it once the panels are on.  
+- Microswitches
+  - D2F-5 is recommend by Annex
+  - I’ve had better luck with cheap KW10 microswitches from Aliexpress
+    - https://www.aliexpress.com/item/32829746929.html
+  - I've tested at least 3-4 of the D2F-5L (with lever ripped off) microswitches, which were genuine bought from Digikey or Mouser. While using these I would often see random probings which would sound different and give results that were not precise. Since switching to the KW10 switches, my bed probing has been much more precise. Maybe I got a bad batch if D2F-5? Who knows….
+-  Fans
+     - (2) 5015 fans
+        - Sunon MF50151VX-B00U-A99 (12v)
+          - https://www.digikey.com/short/zrwpw9
+          - Note, make sure it is MF5015V ***X**** the X is important
+        - Delta BFB0524HH (24v)
+          - Delta: https://www.digikey.com/short/z4b1vtpj
+          - Delta slightly better than Sunon >> GDSTime >> Winsinn
+      - 3010 Hotend Fan
+        - I’m using Sunon 3010v1 (12v)
+          - This fan is kinda "spinny" but I don't notice it once the panels are on.  
         - https://www.digikey.com/short/t5dpqw4w
       - Sunon 3010v2 (12v)
         - This is a quieter alternative to the 3010v1.  
