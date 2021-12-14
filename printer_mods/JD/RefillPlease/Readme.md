@@ -21,7 +21,6 @@ You will need :
 
 And some tools :
 * pair of pliers
-* pair of good connector crimpling pliers
 * small Philips screwdriver
 * soldering iron
 * a multimeter (optional, but it makes you look smart when using it)
