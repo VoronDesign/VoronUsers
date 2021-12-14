@@ -59,6 +59,8 @@ Step 2: Bring out your inner artist\
 Using your pliers, try to form the lever to look like the picture (cut length if needed).\
 You may have to adjust the leer shape after trying to insert the filament so the switch is depressed each time.
 
+![](images/lever.png)
+
 Step 3: Prepare the electronics\
 Put the micro switch and the JST connector in the Core part 
 Be careful:
@@ -66,6 +68,8 @@ Be careful:
 * the JST connector notched face should go directly on the core part (you should see a matching notch)
 Use this as a template to cut the piece of wires to the correct length.\
 Strip the wire with pliers.
+
+![](images/notch.png)
 
 Step 4: Soldering\
 Tin plate the JST pins and the wires.\
