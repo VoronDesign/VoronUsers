@@ -2,7 +2,7 @@
 
 |  Link  | Description |
 |--|--|
-|<font size=2> [Readme](readme.md)  |<font size=2>  Mantis Description and Updates |
+|<font size=1> [Readme](readme.md)  |<font size=1>  Mantis Description and Updates |
 |<font size=2>  [Print Orientation](print_orientation.md)  |<font size=2>  Printing the parts  |
 |<font size=2>  [BOM and Acknowledgements](bom_acknowledgements.md)  |<font size=2>  BOM, links to other repositories, acknowledgements  |
 |<font size=2> [Carriage Assembly](carriage_assembly.md) |<font size=2> Building the MGN9, MGN12 Carriage, Hotend Mounts |
