@@ -20,6 +20,10 @@ Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion a
 ## Printing instructions
 Normal Voron print settings. You can drop the infill percentage if you want as the 4 perimeters are what take the load.
 
+## Results
+The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
+![Weight Comparsion](Images/weights.jpg)
+
 ## Questions
 Reach me in Voron's [Discord](https://discord.gg/xgXWctB) @aTinyShellScript#3121 if you have any questions.
 
