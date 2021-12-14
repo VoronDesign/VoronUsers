@@ -51,13 +51,13 @@ You'll need:
  
 # Assembly:
 
-![This in the interior of the mod](images/interior90.png)
+<img src="images/interior90.png" width="640">
 
 Step 1: Take a refill of coffee
 
 Step 2: Bring out your inner artist\
-Using your pliers, try to form the lever to look like the picture (cut length if needed).\
-You may have to adjust the leer shape after trying to insert the filament so the switch is depressed each time.
+Using your pliers, try to form the lever to look like the picture (cut the lever if needed).\
+You may have to adjust the lever shape and length after trying to insert the filament so the switch is depressed each time the filament is inserted.
 
 ![](images/lever.png)
 
