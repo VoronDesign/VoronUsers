@@ -21,6 +21,9 @@ Final Assembly
 <table width=100%>
 <TR>
 <TD width=50% align="center"><img src="images/final_assembly_heater_back.jpg"><BR>The heater is always oriented towards the back with Mantis</TD>
-<TD width=50% align="center"><img src="images/final_assembly_crazy_volcano.jpg"><BR>Crazy Volcano's narrow heat block allows for the largest amount of part cooling to the nozzle.  </TD>
+<TD width=50% align="center"></TD>
+<TR>
+<TD width=50% align="center"><img src="images/final_assembly_crazy_volcano.jpg"><BR>Crazy Volcano.  Heater also goes towards back.</TD>
+<TD width=50% align="center"><img src="images/final_assembly_crazy_volcano_rear.jpg"><BR>Crazy Volcano's narrow heat block allows nice angles of attack for part cooling to the nozzle and better part cooling airflow than with dragon, mosquito, or rapido.</TD>
 </TR>
 </TABLE>
