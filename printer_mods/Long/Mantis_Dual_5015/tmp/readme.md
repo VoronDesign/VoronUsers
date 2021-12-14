@@ -17,7 +17,11 @@ Mantis Dual 5015 Toolhead by Long
   
 ![](images/mantis.jpg)    
   
-<img src="images/cfd_dragon.png" width=33% height=33%><img src="images/cfd_crazy_volcano.png" width=33% height=33%><img src="images/cfd_rapido.png" width=33% height=33%>    
+<TABLE>
+<TR>
+<TD width=33% align="center"><img src="images/cfd_dragon.png" width=33% height=33%><BR>Dragon</TD><TD width=33% align="center"><img src="images/cfd_crazy_volcano.png" width=33% height=33%><BR>Crazy Volcano with Dragon Heatsink</TD><TD width=33% align="center"><img src="images/cfd_rapido.png" width=33% height=33%><BR>Rapido</TD>
+</TR>
+</TABLE>
   
 ![](images/exploded.png)   
 
