@@ -2,7 +2,7 @@
 
 <img src="images/Overview.png" width="1080">
 
-<img src="images/RefillPlease.png" width="640">
+<img src="images/refillplease.png" width="640">
 
 > Your mission, should you choose to accept it, is to build a simple yet cool looking filament runout sensor for your Voron printer.<br>
 As always, should you or any of your printers be hurt in the process, the Secretary and myself will disavow any knowledge of your actions.<br>
