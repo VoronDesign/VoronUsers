@@ -1,6 +1,3 @@
-
-
-
 |  Link  | Description |
 |--|--|
 | [Readme](readme.md)  |  Mantis Description and Updates |
@@ -21,4 +18,9 @@ Final Assembly
 -  ****note the heater cartridge location**
    - heater cartridge should be towards the back
 - ADXL can be mounted on the left side of the carriage or using one of the 3010 mount holes.
-<img src="images/final_assembly_heater_back.jpg" width=50% height=50%><img src="images/final_assembly_top.jpg" width=50% height=50%>
+<table width=100%>
+<TR>
+<TD width=50% align="center"><img src="images/final_assembly_heater_back.jpg"><BR>The heater is always oriented towards the back with Mantis</TD>
+<TD width=50% align="center"><img src="images/final_assembly_crazy_volcano.jpg"><BR>Crazy Volcano's narrow heat block allows for the largest amount of part cooling to the nozzle.  </TD>
+</TR>
+</TABLE>
