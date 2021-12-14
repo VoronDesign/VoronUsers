@@ -1,12 +1,17 @@
+
+
 |  Link  | Description |
 |--|--|
-| [Readme](readme.md)  |  Mantis Description and Updates |
-|  [Print Orientation](print_orientation.md)  |  Printing the parts  |
-|  [BOM and Acknowledgements](bom_acknowledgements.md)  |  BOM, links to other repositories, acknowledgements  |
-| [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
-|  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
-|  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
-|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here.  |
+|<font size=2> [Readme](readme.md)  |<font size=2>  Mantis Description and Updates |
+|<font size=2>  [Print Orientation](print_orientation.md)  |<font size=2>  Printing the parts  |
+|<font size=2>  [BOM and Acknowledgements](bom_acknowledgements.md)  |<font size=2>  BOM, links to other repositories, acknowledgements  |
+|<font size=2> [Carriage Assembly](carriage_assembly.md) |<font size=2> Building the MGN9, MGN12 Carriage, Hotend Mounts |
+|<font size=2>  [Magprobe Assembly](magprobe.md)  |<font size=2>  Assembly of Mag Probe  |
+|<font size=2>  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |<font size=2>  Firmware and Slicer Settings |
+|<font size=2> [Voron 1.8 and Trident](1.8_trident.md)|<font size=2> Notes on Voron 1.8 and Trident|
+|<font size=2>  [Final Assembly](final_assembly.md)|<font size=2> Notes and Pictures of final assembly
+|<font size=2>  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) |<font size=2> Long's Repository for Mantis.  Updates and newest stuff will be found here  |
+
 
 BOM, Links, and Acknowledgements
 ============
