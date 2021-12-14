@@ -6,7 +6,9 @@
 | [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
 |  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
 |  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
-|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here.  |
+| [Voron 1.8 and Trident](1.8_trident.md)| Notes on Voron 1.8 and Trident|
+|  [Final Assembly](final_assembly.md)| Notes and Pictures of final assembly
+|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
 
 Print Orientation
 ============
@@ -19,7 +21,7 @@ Slicer Tips:
   - I’ve been using 4 perimeters/15%
 - Ducts
   - Check that this outlet divider is sliced in a sane way.
-  - In superslicer, under Print Settings>>Perimeters & Shell>>Advanced>>No Perimeters on Bridge Areas, I find the “keep only bridges” works well for the ducts
-  - <img src="images/print_orientation_keep_only_bridges.png" width=66% height=66%><img src="images/print_orientation_duct_divider.jpg" width=33% height=33%>
+  - In superslicer, I find the “keep only bridges” option under "Perimeters & Shell” works well for the ducts
+  - <img src="images/print_orientation_keep_only_bridges.png" width=50% height=50%><img src="images/print_orientation_duct_divider.jpg" width=50% height=50%>
   - The ducts have some tough overhangs, so orient the part so the over hangs print the best for you. Prioritize good quality for the outlet. The 5015 mount surface will generally be rough, but that’s ok.
 <img src="images/print_orientation_ducts.jpg">

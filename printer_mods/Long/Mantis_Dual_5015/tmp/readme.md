@@ -11,7 +11,9 @@ Mantis Dual 5015 Toolhead by Long
 | [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
 |  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
 |  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
-|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here.  |
+| [Voron 1.8 and Trident](1.8_trident.md)| Notes on Voron 1.8 and Trident|
+|  [Final Assembly](final_assembly.md)| Notes and Pictures of final assembly
+|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
   
 ![](images/mantis.jpg)    
   
@@ -74,7 +76,9 @@ Readme and Link to Long's repository
 | [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
 |  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
 |  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
-|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here.  |
+| [Voron 1.8 and Trident](1.8_trident.md)| Notes on Voron 1.8 and Trident|
+|  [Final Assembly](final_assembly.md)| Notes and Pictures of final assembly
+|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
 
 Changes
 -----------------

@@ -1,5 +1,3 @@
-
-
 |  Link  | Description |
 |--|--|
 | [Readme](readme.md)  |  Mantis Description and Updates |
