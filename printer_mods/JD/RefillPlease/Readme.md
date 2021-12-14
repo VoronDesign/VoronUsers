@@ -14,7 +14,7 @@ Good luck.
 This part is designed to replace the stock bowden tube holder, so you can reuse the M3x8 SHCS and the M3 Hammer Head T nut.
 
 You will need :
-* 1 x micro switch (body : 20x6x10mm) with a lever
+* 1 x micro switch (body : 20x6x10mm) with a lever (search for 'SPDT 5A, 125V 250V 29mm')
 * 1 x JST 2 pins female connector
 * 4 x M2x10 self tapping screws
 * two piece of wire (30mm length each)
