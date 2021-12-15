@@ -33,7 +33,6 @@ Mag Probe
 
 <img src="images/magprobe_bed_mount_front.jpg" height=33% width=33%><img src="images/magprobe_bed_mount_rear.jpg" height=33% width=33%><img src="images/magprobe_bed_mount.jpg" height=33% width=33%>
 
-<img src="images/magprobe_attached_to_carriage.jpg" height=50% width=50%>
 
 - Magprobe Config
   - This seems pretty daunting to do…but it's not as bad as you think.  Check out the klicky or annex macros linked below.  
@@ -42,3 +41,6 @@ Mag Probe
   - For smart macros
     - Annex repo for their magprobe at  https://github.com/Annex-Engineering/Annex-Engineering_Other_Printer_Mods/tree/master/All_Printers/Microswitch_Probe
     - Klicky probe repo at https://github.com/jlas1/Klicky-Probe
+
+
+<img src="images/magprobe_attached_to_carriage.jpg" height=50% width=50%>
