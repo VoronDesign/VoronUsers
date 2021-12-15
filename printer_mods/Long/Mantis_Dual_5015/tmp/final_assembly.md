@@ -1,6 +1,3 @@
-
-
-
 |  Link  | Description |
 |--|--|
 | [Readme](readme.md)  |  Mantis Description and Updates |
@@ -28,5 +25,9 @@ Final Assembly
 <TR>
 <TD width=50% align="center"><img src="images/final_assembly_crazy_volcano.jpg"><BR>Crazy Volcano.  Heater also goes towards back.</TD>
 <TD width=50% align="center"><img src="images/final_assembly_crazy_volcano_rear.jpg"><BR>Crazy Volcano's narrow heat block allows nice angles of attack for part cooling to the nozzle and better part cooling airflow than with dragon, mosquito, or rapido.</TD>
+</TR>
+<TR>
+<TD width=50% align="center"><img src="images/final_assembly_adxl_front.jpg"></TD>
+<TD width=50% align="center"><img src="final_assembly_adxl_carriage.jpg"></TD>
 </TR>
 </TABLE>
