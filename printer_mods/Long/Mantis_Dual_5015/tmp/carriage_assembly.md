@@ -1,3 +1,4 @@
+
 |  Link  | Description |
 |--|--|
 | [Readme](readme.md)  |  Mantis Description and Updates |
@@ -10,14 +11,14 @@
 |  [Final Assembly](final_assembly.md)| Notes and Pictures of final assembly
 |  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
 
-Carriage Assembly
+Carriage and Hotend Mount Assembly
 ============
 **Carriage Assembly:**
 - Magnets:
   - Sand the side of 2 m6x3 magnets. Place a magnet on a bigger stack of magnets then solder a piece of wire to the side as shown.
   - If you don’t have the magnet on the bigger stack, your magnet will lose some of its magnetic strength. I haven’t tested, but I think it’s probably ok because of the double stack with an unsoldered magnet.
   - Put superglue into the magnet holes.
-  - Place the second magnet on top of the soldered magnet, and then press the two magnets into the hole so the unsoldered magnet is out. The magnets should be “proud” of the carriage.
+  - Place the second magnet on the soldered magnet, and then press the two magnets into the hole so the unsoldered magnet is out. The magnets should sit “proud” of the carriage.  
   - I use a flat surface to press the magnets in and then lap them so they mate well with the mag probe.
   - Note, previously, attaching the magnets by pinching the wires was thought to be ok.  After further testing, the "wire pinch" method of attaching the wires to the magnets is no longer recommended due to failures of the connection over time.
   - <img src="images/carriage_assembly_solder_magnet.jpg" width=50% height=50%><img src="images/carriage_assembly_carriage_bottom.jpg" width=50% height=50%>
@@ -46,3 +47,8 @@ Carriage Assembly
 <img src="images/carriage_assembly_mgn9_front.jpg" width=50% height=50%><img src="images/carriage_assembly_mgn9_front_mounted.jpg" width=50% height=50%>
 
 <img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=50% height=50%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=50% height=50%>
+
+**Hotend Mount Assembly:**
+- Install heat sets into the obvious places.  
+- 3010 fan uses screws directly into plastic.
+<img src="images/carriage_assembly_hotend_mount_front.jpg" width=50% height=50%><img src="images/carriage_assembly_hotend_mount_top.jpg" width=50% height=50%>
