@@ -28,6 +28,6 @@ Final Assembly
 </TR>
 <TR>
 <TD width=50% align="center"><img src="images/final_assembly_adxl_front.jpg"></TD>
-<TD width=50% align="center"><img src="final_assembly_adxl_carriage.jpg"></TD>
+<TD width=50% align="center"><img src="images/final_assembly_adxl_carriage.jpg"></TD>
 </TR>
 </TABLE>
