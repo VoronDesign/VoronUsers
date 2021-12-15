@@ -25,11 +25,14 @@ Mag Probe
 - Dock Type
   - Gantry Mounted
     - This is generally the most popular version of the mount.  It is easy to set up and you don't have to worry about your z-offset when attaching and docking the probe.
+<img src="images/magprobe_gantry_mount_front.jpg" height=50% width=50%><img src="images/magprobe_gantry_mount_side.jpg" height=50% width=50%>
+
   - Bed Mounted
     - Bed mounted dock also works well.  Just a matter of personal preference.
 
-<img src="images/magprobe_attached_to_carriage.jpg" height=33% width=33%><img src="images/magprobe_bed_mount.jpg" height=33% width=33%><img src="images/gantrymount.jpg" height=33% width=33%>
+<img src="images/magprobe_bed_mount_front.jpg" height=33% width=33%><img src="images/magprobe_bed_mount_rear.jpg" height=33% width=33%><img src="images/magprobe_bed_mount.jpg" height=33% width=33%>
 
+<img src="images/magprobe_attached_to_carriage.jpg" height=50% width=50%>
 
 - Magprobe Config
   - This seems pretty daunting to do…but it's not as bad as you think.  Check out the klicky or annex macros linked below.  
