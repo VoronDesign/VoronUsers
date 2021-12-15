@@ -49,6 +49,15 @@ Carriage and Hotend Mount Assembly
 <img src="images/carriage_assembly_mgn9_rear_belts.jpg" width=50% height=50%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg" width=50% height=50%>
 
 **Hotend Mount Assembly:**
-- Install heat sets into the obvious places.  
-- 3010 fan uses screws directly into plastic.
+- Heatsets and screws
+  - Install heat sets into the obvious places.  
+  - 3010 fan uses screws directly into plastic.
+
 <img src="images/carriage_assembly_hotend_mount_front.jpg" width=50% height=50%><img src="images/carriage_assembly_hotend_mount_top.jpg" width=50% height=50%>
+
+- Hotends
+  - Dragon and Dragon/Crazy Volcano
+    - Both use the same Dragon Hotend Mount
+  - Rapido
+    - Uses a slightly modified hotend mount that rotates the heatsink slightly.  This is to allow the Rapido sock to be mounted symmetrically at the bottom with the logo forward.  
+    - The Rapido sock isn't a symmetrical hexagon.  It is important for the Phaetus logo to be facing forward.  The part cooling ducts for Rapido have been designed to blow air under the sock in this orientation.  
