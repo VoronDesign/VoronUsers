@@ -12,7 +12,7 @@
 
 Mag Probe 
 ============
-- Assembly
+- Magprobe Assembly
   - Solder a short length of flexible wire to two m6x3 magnets then press the magnets into the holes.
   - When pressing in the magnets, I used a clamp and a flat surface to try to get the magnets flat.
   - Screw in two of the m2x10 or m2x12 self-tapping screws (silver ones on the red pictured magprobe below) prior to soldering the microswitch in. Take care not to damage the wires.
@@ -22,7 +22,7 @@ Mag Probe
   - Test fit the magprobe to the carriage and adjust the level of the probe using the m3x6 button head on the bottom of the carriage.
   - Insert magnets into dock arms and secure to bed extrusion or gantry extrusion.
   - You don’t have to remove your bat85 diode when wiring in the wires to the magnets on the carriage, just omit the 24v.
-- Dock Type
+- Dock Assembly
   - Gantry Mounted
     - This is generally the most popular version of the mount.  It is easy to set up and you don't have to worry about your z-offset when attaching and docking the probe.  
     - Note that the red magprobe in these photos is the longer variant for rapido and crazy volcano.
