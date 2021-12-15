@@ -24,7 +24,8 @@ Mag Probe
   - You don’t have to remove your bat85 diode when wiring in the wires to the magnets on the carriage, just omit the 24v.
 - Dock Type
   - Gantry Mounted
-    - This is generally the most popular version of the mount.  It is easy to set up and you don't have to worry about your z-offset when attaching and docking the probe.
+    - This is generally the most popular version of the mount.  It is easy to set up and you don't have to worry about your z-offset when attaching and docking the probe.  
+    - Note that the red magprobe in these photos is the longer variant for rapido and crazy volcano.
 
 <img src="images/magprobe_gantry_mount_front.jpg" height=50% width=50%><img src="images/magprobe_gantry_mount_side.jpg" height=50% width=50%>
 
