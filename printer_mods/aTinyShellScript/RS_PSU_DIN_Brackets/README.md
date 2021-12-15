@@ -6,6 +6,12 @@ DIN brackets for MeanWell RS series PSUs (bolt holes 80mm center-to-center), edi
 
 CAD file included.
 
+## BOM
+* 4x M3x8 FHCS 
+
+   **OR**
+* 4x M3x6 SHCS
+
 ## Printing instructions
 Normal Voron print settings.
 
