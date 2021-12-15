@@ -17,6 +17,7 @@ Mag Probe
   - When pressing in the magnets, I used a clamp and a flat surface to try to get the magnets flat.
   - Screw in two of the m2x10 or m2x12 self-tapping screws (silver ones on the red pictured magprobe below) prior to soldering the microswitch in. Take care not to damage the wires.
   - Solder the other ends of the wires to the outer prongs (NC) of the microswitch. Note the image with the black magprobe is an older version.
+
 <img src="images/magprobe_solder_switch.jpg" height=50% width=50%><img src="images/magprobe_assembled.jpg" height=50% width=50%>
   - Press in the microswitch now and screw in two more m2x10 or m2x12 to secure the microswitch. If there is any play in the microswitch, use some superglue to remove the play.
   - Test fit the magprobe to the carriage and adjust the level of the probe using the m3x6 button head on the bottom of the carriage.
