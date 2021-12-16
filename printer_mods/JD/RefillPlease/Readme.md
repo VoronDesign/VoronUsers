@@ -82,3 +82,12 @@ Step 6: Close everything\
 Put the cover on using the M2x10 self tapping screws, but let the top ones loose.\
 Insert the PTFE tubes on each sides, and tighten the screws to block everything in place. 
 
+## Software
+
+Sample configuration for Klipper can be found in the `/klipper` directory.
+
+To use it, add the file `filament_runout_detection.cfg` from your UI and load it in your `printer.cfg` file using the following directive :
+`[include filament_runout_detection.cfg]`.
+
+Adapt the switch_pin according to your mcu configuration (sample file is for an Octopus mcu).
+The sample config come with a M600 filament change macro provided by VintageGriffin on Discord.
