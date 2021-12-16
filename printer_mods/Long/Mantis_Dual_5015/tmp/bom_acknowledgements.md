@@ -68,9 +68,9 @@ BOM, Links, and Acknowledgements
   - There may be several mgn12 mods floating around. This is one of them:
   - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12
 -  JoshMurrah
-  - Just wanted to note him here as he has been extremely helpful in some insane stress testing. His speed benchies have been fun as hell to watch and a motivation for me to keep improving. His testing has resulted in a lot of improvements to this toolhead.
+  -  Just wanted to note him here as he has been extremely helpful in some insane stress testing. His speed benchies have been fun as hell to watch and a motivation for me to keep improving. His testing has resulted in a lot of improvements to this toolhead.
 -  JosAr
-  - Thank you to JosAr for his work on creating a gantry mounted magprobe dock.
+  -  Thank you to JosAr for his work on creating a gantry mounted magprobe dock.
 - Rama
   - For his version of narrow idlers. 
     - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers
