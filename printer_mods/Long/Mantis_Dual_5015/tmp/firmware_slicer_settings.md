@@ -41,6 +41,7 @@ Firmware Settings
        
 - Homing override to home y before x.
   - To avoid collision with the ducts with the front idlers.  This is less of an issue these days with narrow idlers released.
+ 
        
        [homing_override]
        axes: z
