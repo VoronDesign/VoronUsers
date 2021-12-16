@@ -48,7 +48,7 @@ Carriage and Hotend Mount Assembly
     <TD align="CENTER"><img src="images/carriage_assembly_mgn9_front.jpg"></TD><TD align="CENTER"><img src="images/carriage_assembly_mgn9_front_mounted.jpg"></TD>
   </TR>
 <TR>
-  <TD align="CENTER"><img src="images/carriage_assembly_mgn9_rear_belts.jpg"><BR>I'm using a filed down openbuild T-Nut here.  There are other mods to use t-nuts and hex nuts in [usermods](usermods/readme.md)</TD><TD align="CENTER"><img src="images/carriage_assembly_mgn9_rear_wiring.jpg"></TD>
+  <TD align="CENTER"><img src="images/carriage_assembly_mgn9_rear_belts.jpg"><BR>I'm using a filed down openbuild T-Nut here.  There are other mods to use t-nuts and hex nuts in <a href="usermods/readme.md">usermods.</a></TD><TD align="CENTER"><img src="images/carriage_assembly_mgn9_rear_wiring.jpg"></TD>
 </TR>
 </table>
   
