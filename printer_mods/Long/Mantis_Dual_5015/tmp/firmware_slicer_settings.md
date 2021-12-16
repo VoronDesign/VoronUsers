@@ -1,3 +1,4 @@
+
 |  Link  | Description |
 |--|--|
 | [Readme](readme.md)  |  Mantis Description and Updates |
@@ -41,8 +42,8 @@ Firmware Settings
        
 - Homing override to home y before x.
   - To avoid collision with the ducts with the front idlers.  This is less of an issue these days with narrow idlers released.
- 
-       
+
+       ```
        [homing_override]
        axes: z
        set_position_z: 0
@@ -55,6 +56,7 @@ Firmware Settings
        G28 Z
        G0 Z10 F1800 # move up a little for clearance
        G0 X150 Y150 Z30 F3600 # Go to middle of bed
+       ```
 
 Slicer settings
 ============
