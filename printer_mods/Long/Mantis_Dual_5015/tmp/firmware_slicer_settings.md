@@ -40,6 +40,7 @@ Firmware Settings
        drop_first_result: true #only used if you’re using the ignore first probe.
        
 - Homing override to home y before x.
+  - To avoid collision with the ducts with the front idlers.  This is less of an issue these days with narrow idlers released.
        
        [homing_override]
        axes: z
