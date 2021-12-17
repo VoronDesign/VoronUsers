@@ -13,6 +13,7 @@
 
 Firmware Settings
 ============
+- **note that all these settings are based on my printer which is a Voron 300. Your settings may vary from mine**
 - PWM
   - With my Sunon 5015s I have been able to pwm down to 7% using these settings
 
@@ -52,7 +53,7 @@ Firmware Settings
        G0 Z5 F600 # move up a little for clearance
        G28 Y
        G28 X
-       G0 X200 Y305 F3600 # home on z pin at this location (update your own)
+       G0 X200 Y305 F3600 # home on z pin at this location (CHANGE THIS TO YOUR OWN ENDSTOP LOCATION)
        G28 Z
        G0 Z10 F1800 # move up a little for clearance
        G0 X150 Y150 Z30 F3600 # Go to middle of bed
