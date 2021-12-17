@@ -75,6 +75,7 @@ BOM, Links, and Acknowledgements
    -  Thank you to JosAr for his work on creating a gantry mounted magprobe dock.
 - Rama
   - For his version of narrow idlers. 
+    - I highly recommend changing your idlers to these while you're changing things out.  This mod will gain you *almost* all all the build area at the front idlers back.  I think it's down to 2mm loss if you use these.
     - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers
 - Phalanx
   - For his “Other V2 Idlers” 
