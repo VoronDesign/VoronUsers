@@ -46,13 +46,14 @@ BOM, Links, and Acknowledgements
           - Delta: https://www.digikey.com/short/z4b1vtpj
           - Delta slightly better than Sunon >> GDSTime >> Winsinn
       - 3010 Hotend Fan
-        - I’m using Sunon 3010v1 (12v)
+        - Sunon 3010v1 (12v)
+          - This is the fan I tested first and is a great fan with great specs.  I never had any issues with it.
           - This fan is kinda "spinny" but I don't notice it once the panels are on.  
-        - https://www.digikey.com/short/t5dpqw4w
-      - Sunon 3010v2 (12v)
-        - This is a quieter alternative to the 3010v1.  
-        - I have been testing this fan lately and it seems to be working fine with my dragon/crazy volcano setup printing ABS with chamber temps of 50-60c.  I have not yet tried printing PLA yet with this.  
-        -  https://www.mouser.com/ProductDetail/Sunon/MF30101V2-1000UA99?qs=EU6FO9ffTwfZ4Kz3LWY0zg%3D%3D
+          - https://www.digikey.com/short/t5dpqw4w
+        - Sunon 3010v2 (12v)
+          - This is a quieter alternative to the 3010v1.  
+          - I have been testing this fan lately (a few weeks) and it working fine so far with my dragon/crazy volcano setup printing ABS with chamber temps of 50-60c.  I have not yet tried printing PLA yet with this.  
+          -  https://www.mouser.com/ProductDetail/Sunon/MF30101V2-1000UA99?qs=EU6FO9ffTwfZ4Kz3LWY0zg%3D%3D
       - I know of people using winsinn fans and all kinds of random 3010 fans they find in drawers.  They all seem to be working as far as I know.  
         
 **References, Acknowledgements:**
@@ -75,9 +76,9 @@ BOM, Links, and Acknowledgements
 - Rama
   - For his version of narrow idlers. 
     - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers
-  - Phalanx
-    - For his “Other V2 Idlers” 
-      - https://github.com/selliott79/Other-V2-Idlers
+- Phalanx
+  - For his “Other V2 Idlers” 
+    - https://github.com/selliott79/Other-V2-Idlers
 - Henrikssn
   - Helping with early testing of the MGN9 carriage.
   - Created an awesome [toolhead board](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015/Usermods/Henrikssn/Toolhead_PCB) and a modified carriage allowing for Klicky compatability.
