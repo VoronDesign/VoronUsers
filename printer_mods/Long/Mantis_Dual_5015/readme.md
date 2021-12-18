@@ -90,6 +90,7 @@ Changes
 - Added my mod of WingZero's mosquito mount which uses a 3010 fan instead of the 2510.  This mount is still alpha and needs more testing for confirmation.
 - Crazy Volcano is now compatible
   - Added beta part cooling ducts and mag probe that should work with dragon/[crazy volcano block](https://www.aliexpress.com/item/1005003506351141.html).  
+  - These ducts have been optimized for the crazy volcano block.  They allow much higher part cooling airflow!
   - Note, to use the crazy volcano with dragon heatsink, the only different files you will need are the crazy volcano ducts (located in the 2.4 folder), and the longer magprobe (in the magprobe directory).
   - The part cooling ducts require cutting the rear fan ears off of your 5015s.  If you dont want to cut the ears off your ducts, I will post higher mounting 5015 ducts soon, or message me directly.  
 
