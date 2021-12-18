@@ -68,10 +68,6 @@ Mantis Dual 5015 Toolhead by Long
     - (Replaces stock 6mm x 1mm x 12mm spring) 
     - Depending on how much you tighten your screw, the standard 12mm one will work.
 
-Readme and Link to Long's repository
------------------  
-**Note that updates are staged at [https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).  Go there for most recent stuff.**
-
 Changes
 -----------------
 12-18-2021
