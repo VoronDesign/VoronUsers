@@ -20,4 +20,4 @@ Instructions
 
 Circuit Diagram
 ---
-![Images/CircuitDiagram.png](reduction_overview.jpg?raw=true)
+![CircuitDiagram.png](Images/CircuitDiagram.png)
