@@ -9,7 +9,7 @@ BOM
 
 Instructions
 ---
-- Print 4 of the "Neopixel_Mount" (2 for each side)
+- Print 4 of the "**Neopixel_Mount**" (2 for each side)
 - Solder only the 5V and GND wires on the led strips
 - Slide them into the mounts
 - Solder the signal wire based on the diagram below (There is a hole in the mount to allow the wire to go from the one strip to the other)
