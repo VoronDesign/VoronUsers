@@ -17,6 +17,13 @@ Instructions
 - Remove the 3 screws that attach the panels onto each extrusion
 - Slide the mounts onto each extrusion and screw the extrusions in place
 
+Neopixel Holder
+---
+![White](Images/WhiteLight.jpg)
+![Blue](Images/BlueLight.jpg)
+![Print](Images/LitUpPrint.jpg)
+![Pink](Images/PinkLightMacro.jpg)
+
 Printed Parts
 ---
 ![Neopixel_Holder](Images/CloseUp.jpg)
@@ -24,3 +31,10 @@ Printed Parts
 Circuit Diagram
 ---
 ![CircuitDiagram](Images/CircuitDiagram.png)
+
+Assembly
+---
+![Extrusion](Images/Extrusion.jpg)
+![LedStripConnections](Images/LedStripConnections.jpg)
+
+
