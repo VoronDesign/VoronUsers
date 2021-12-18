@@ -15,15 +15,15 @@ Mantis Dual 5015 Toolhead by Long
 |  [Final Assembly](final_assembly.md)| Notes and Pictures of final assembly
 |  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
   
-![](images/readme_mantis.jpg)    
+![](images/mantis.jpg)    
   
 <TABLE>
 <TR>
-<TD width=33% align="center"><img src="images/readme_cfd_dragon.png"><BR>Dragon</TD><TD width=33% align="center"><img src="images/readme_cfd_crazy_volcano.png"><BR>Crazy Volcano with Dragon Heatsink</TD><TD width=33% align="center"><img src="images/readme_cfd_rapido.png"><BR>Rapido</TD>
+<TD width=33% align="center"><img src="images/cfd_dragon.png"><BR>Dragon</TD><TD width=33% align="center"><img src="images/cfd_crazy_volcano.png"><BR>Crazy Volcano with Dragon Heatsink</TD><TD width=33% align="center"><img src="images/cfd_rapido.png"><BR>Rapido</TD>
 </TR>
 </TABLE>
   
-![](images/readme_exploded.png)   
+![](images/exploded.png)   
 
 
 **Features:**
@@ -68,24 +68,14 @@ Mantis Dual 5015 Toolhead by Long
     - (Replaces stock 6mm x 1mm x 12mm spring) 
     - Depending on how much you tighten your screw, the standard 12mm one will work.
 
-Readme and Link to Long's repository
------------------  
-**Note that updates are staged at [https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015).  Go there for most recent stuff.**
-
-|  Link  | Description |
-|--|--|
-| [Readme](readme.md)  |  Mantis Description and Updates |
-|  [Print Orientation](print_orientation.md)  |  Printing the parts  |
-|  [BOM and Acknowledgements](bom_acknowledgements.md)  |  BOM, links to other repositories, acknowledgements  |
-| [Carriage Assembly](carriage_assembly.md) | Building the MGN9, MGN12 Carriage, Hotend Mounts |
-|  [Magprobe Assembly](magprobe.md)  |  Assembly of Mag Probe  |
-|  [Firmware and Slicer Settings](firmware_slicer_settings.md)  |  Firmware and Slicer Settings |
-| [Voron 1.8 and Trident](1.8_trident.md)| Notes on Voron 1.8 and Trident|
-|  [Final Assembly](final_assembly.md)| Notes and Pictures of final assembly
-|  [Long's Mantis Repository](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015) | Long's Repository for Mantis.  Updates and newest stuff will be found here  |
 
 Changes
 -----------------
+12-18-2021
+- Updated readme so it is now in markdown.  No more readme.pdf!
+- Added ducts for Rapido HF v0.02 under 2.4.  You will also need to print a different hotend mount.  **When installing the sock, the Phaetus logo should face directly forward.** The wires for the hotend should come out the right.
+  - As with all my ducts, these have been optimized for the particular hotend that is being used.  As I have not yet received my Rapido, I can't confirm that these ducts/hotend mount works correctly yet.
+- Rearranged files somewhat to accomodate a growing number of ducts
 12-07-2021
 - Rapido Hotend Compatibility
     -  The Rapido hotend is the same length as the Crazy Volcano/Dragon and should work using the Crazy Volcano ducts and magprobe.  I will be confirming part cooling CFDs and will make adjustments to make it fully compatible soon.  I have a Rapido on order so will be able to personally test this as well.  
