@@ -17,7 +17,10 @@ Instructions
 - Remove the 3 screws that attach the panels onto each extrusion
 - Slide the mounts onto each extrusion and screw the extrusions in place
 
+Printed Parts
+---
+![Neopixel_Holder](Images/CloseUp.jpg)
 
 Circuit Diagram
 ---
-![CircuitDiagram.png](Images/CircuitDiagram.png)
+![CircuitDiagram](Images/CircuitDiagram.png)
