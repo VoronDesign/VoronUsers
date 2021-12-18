@@ -72,7 +72,8 @@ Changes
 -----------------
 12-18-2021
 - Updated readme so it is now in markdown.  No more readme.pdf!
-- Added ducts for Rapido HF v0.02 under 2.4.  You will also need to print a different hotend mount.  **When installing the sock, the Phaetus logo should face directly forward.** The wires for the hotend should come out the right.
+- Added ducts for Rapido HF v0.02 under 2.4.  
+  - You will also need to the rapido hotend mount.  **When installing the sock, the Phaetus logo should face directly forward.** The wires for the hotend should come out the right.
   - As with all my ducts, these have been optimized for the particular hotend that is being used.  As I have not yet received my Rapido, I can't confirm that these ducts/hotend mount works correctly yet.
 - Rearranged files somewhat to accomodate a growing number of ducts
 
