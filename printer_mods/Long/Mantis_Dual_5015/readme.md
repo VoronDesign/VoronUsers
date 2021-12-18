@@ -76,6 +76,7 @@ Changes
 - Added ducts for Rapido HF v0.02 under 2.4.  You will also need to print a different hotend mount.  **When installing the sock, the Phaetus logo should face directly forward.** The wires for the hotend should come out the right.
   - As with all my ducts, these have been optimized for the particular hotend that is being used.  As I have not yet received my Rapido, I can't confirm that these ducts/hotend mount works correctly yet.
 - Rearranged files somewhat to accomodate a growing number of ducts
+
 12-07-2021
 - Rapido Hotend Compatibility
     -  The Rapido hotend is the same length as the Crazy Volcano/Dragon and should work using the Crazy Volcano ducts and magprobe.  I will be confirming part cooling CFDs and will make adjustments to make it fully compatible soon.  I have a Rapido on order so will be able to personally test this as well.  
