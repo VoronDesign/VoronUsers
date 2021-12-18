@@ -16,3 +16,8 @@ Instructions
 - Remove the 2 screws holding each extrusion into place
 - Remove the 3 screws that attach the panels onto each extrusion
 - Slide the mounts onto each extrusion and screw the extrusions in place
+
+
+Circuit Diagram
+---
+![CircuitDiagram.png](reduction_overview.jpg?raw=true)
