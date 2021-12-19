@@ -278,7 +278,7 @@ Normally the endstop pin have a hardware solution.
 
 
 ## Step 6: klipper configuration Dock/Undock Macro
-You will need to add macros to klipper to be able to dock and undock the probe as necessary to do the Endstop (if necessary) and Quad Gantry Level, it is in the klipper Macro directory.
+You will need to add macros to klipper to be able to dock and undock the probe as necessary to do the Endstop (if necessary) and Quad Gantry Level, to ease updates on this repository, they are on the main [Klicky repository](https://github.com/jlas1/Klicky-Probe)
 
 The macro is based on a version provided by the user garrettwp on Discord, many thanks to him.
 I have tweaked it a lot.
@@ -364,7 +364,7 @@ position_max: 305
 If you want to use the Z endstop switch of the Voron to calculate the Z-Offset, use the new [automatic Z calibration](https://github.com/protoloft/klipper_z_calibration).
 
 Most of necessary macros are already included in the klicky-probe.cfg, what is missing is the specific z_calibration configuration and the macro that is called to do the actual calibration.
-All of this is included in the [Klicky automatic Z calibration configuration](./Klipper_macro/z_calibration.cfg)
+All of this is included in the Klicky automatic Z calibration configuration, that can be found on the main [Klicky repository](https://github.com/jlas1/Klicky-Probe)
 
 You should then add a call to CALIBRATE_Z at the end of your PRINTER_START (before any purge line).
 
