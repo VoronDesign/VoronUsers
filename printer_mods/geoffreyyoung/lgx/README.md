@@ -16,8 +16,8 @@ Useful links, info, and models for using the The LGX™ Large Gears eXtruder wit
 
 Mounting the LXG to AfterBurner requires some additional mounting plates.  You will need both of `@Nemgrea`'s mounts from Discord:
 
-  * `lgx_AftB_Mount_Front.STL` ([Discord file link](https://cdn.discordapp.com/attachments/635687829254701107/823914498700083220/lgx_AftB_Mount_Front.STL))
-  * `lgx_AftB_Mount_Rear.STL` ([Discord file link](https://cdn.discordapp.com/attachments/635687829254701107/823914501405540442/lgx_AftB_Mount_Rear.STL))
+  * `@Nemgrea`'s `lgx_AftB_Mount_Front.STL` ([Discord file link](https://cdn.discordapp.com/attachments/635687829254701107/823914498700083220/lgx_AftB_Mount_Front.STL))
+  * `@Nemgrea`'s `lgx_AftB_Mount_Rear.STL` ([Discord file link](https://cdn.discordapp.com/attachments/635687829254701107/823914501405540442/lgx_AftB_Mount_Rear.STL))
 
 These models are pinned in the [#voronuser_mods](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621) channel on Discord, and can be found in [this message](https://discord.com/channels/460117602945990666/635687829254701107/823914498808217621).
 
@@ -31,6 +31,21 @@ The LGX uses a JST-PH 6-pin connector, which is not part of any standard Voron B
 
 Technical specifications for the motor can be found on the [Bondtech website](https://www.bondtech.se/product/lgx-pancake-25mm-stepper-motor/), including a [wiring diagram](https://www.bondtech.se/wp-content/uploads/2021/01/Bondtech-E-Motor-LDO-42STH25-1004ACGBDT-RevB.pdf).  In case the wiring diagram goes away you can also find it [here](images/Bondtech-E-Motor-LDO-42STH25-1004ACGBDT-RevB.pdf).
 
+Note that the wiring diagram mixes up the wire color names with the color representation
+
+![wires.jpg](images/wires.jpg)
+
+so don't necessarily rely on the colors (which you shouldn't be doing anyway - see the [Stepper Motor Wiring](https://docs.vorondesign.com/build/electrical/#stepper-motor-wiring) notes in the Voron build guide).
+
+Once wired up, be sure to buzz your extruder stepper, as described in the [Voron initial startup](https://docs.vorondesign.com/build/startup/#stepper-motor-check) documentation.  For example:
+
+```
+STEPPER_BUZZ STEPPER=extruder
+```
+
+If your LGX grinds instead of operating normally, make sure that you have the inner two wires (pins 3 and 4) matched up properly - inverting center two wires is a common initial issue.
+
+
 ### Klipper config
 
 Bondtech has some official documentation for configuring Klipper [here](https://www.bondtech.se/product-category/upgrade-kits/lgx/).  Below is the configuration I am currently running.
@@ -40,12 +55,15 @@ rotation_distance: 8
 microsteps: 16
 full_steps_per_rotation: 200
 
-# use either
+# use either these two config options together
 #    gear_ratio: 44:14, 37:17
 #    rotation_distance: 55
 # or
 #    rotation_distance: 8
-# but not both!
+# by itself, but definitely not
+#    gear_ratio: 44:14, 37:17
+#    rotation_distance: 8
+# or bad things will happen!
 ```
 
 The `either...or` warning is not from Bondtech, but provided here to honor the memory and sacrifice of my first hotend and save those that may come after from suffering the same fate...
