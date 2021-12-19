@@ -70,6 +70,12 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+12-19-2021
+- Hotend_Mount_Dragon_v1.040
+  - noticed a slight interference between the hotend mount and the ducts.  adjusted so no more interference.  This should only affect you if you're using crazy volcano.
+- Rapdio UHF ducts
+  - Added ducts that are 8.5mm longer than the Rapido HF ducts.  If the measurement of rapido HF is 62.5mm from top of heatsink to nozzle tip, then these will work.  I don't have a UHF so will need people to confirm this.
+    
 12-18-2021
 - Updated readme so it is now in markdown.  No more readme.pdf!
 - Added ducts for Rapido HF v0.02 under 2.4.  
