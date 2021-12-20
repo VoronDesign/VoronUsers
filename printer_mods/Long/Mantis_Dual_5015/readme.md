@@ -55,7 +55,7 @@ Mantis Dual 5015 Toolhead by Long
  * X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
     - X-endstop must be relocated because the Mantis carriage does not hang down far enough to trigger the endstop pod.
     - Y-endstop can still be from the spec endstop pod on the right xy-joint.
-    - Ditching the cable chain would save around 150g on a Voron 300.  
+    - Ditching the cable chain would save around 150g on the x-axis for a Voron 300.  
  * Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
     
  **Cons:**
