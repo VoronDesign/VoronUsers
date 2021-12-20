@@ -75,6 +75,7 @@ Changes
   - noticed a slight interference between the hotend mount and the ducts.  adjusted so no more interference.  This should only affect you if you're using crazy volcano.
 - Rapdio UHF ducts
   - Added ducts that are 8.5mm longer than the Rapido HF ducts.  If the measurement of rapido HF is 62.5mm from top of heatsink to nozzle tip, then these will work.  I don't have a UHF so will need people to confirm this.
+  - **Don't forget to also make the longer Rapido UHF magprobe**
     
 12-18-2021
 - Updated readme so it is now in markdown.  No more readme.pdf!
