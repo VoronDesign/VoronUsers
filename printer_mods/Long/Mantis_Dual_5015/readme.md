@@ -32,11 +32,11 @@ Mantis Dual 5015 Toolhead by Long
    * Dragon
    * Mosquito (from usermod by WingZero)
    * Crazy Volcano block with Dragon heatsink
-   * Rapido compatibility soon.
+   * Rapido HF/UHF compatibility soon.
  * Dual 5015
     - Left to Right airflow balance is no longer an issue
     - Single piece ducts without splitting and fewer bends = less duct losses
-    - Total airflow is ~3x more than Longsfang using the same fans. 
+    - Way more airflow than a single 5015.  
 * Lighter
     - This entire tool head weighs ~290g including the carriage
     - Spec AB is ~470g.  Spec AB with gailieo is ~375g.
@@ -49,18 +49,17 @@ Mantis Dual 5015 Toolhead by Long
  * Weight moved closer to the rail for less lever.
     - Hotend is moved closer the rail +y, and upwards +z
     - Fans are rotated so the mass is further back.  
-    - Gain in Y and Z travel (~5mm each)
  * Decreased length from extruder to hotend
     - Bowden from mini-sherpa to Dragon is only 19mm
  * X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
-    - X-endstop must be relocated because the Mantis carriage does not hang down far enough to trigger the endstop pod.
+    - X-endstop must be relocated because the Mantis carriage is smaller and does not hang down far enough to trigger the endstop pod.
     - Y-endstop can still be from the spec endstop pod on the right xy-joint.
     - Ditching the cable chain would save around 150g on the x-axis for a Voron 300.  
  * Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
     
  **Cons:**
  * With spec front idlers, you will lose space at the front corners of the bed ~10mm in X at each idler.  
- * There are now alternative idlers that allow use of Mantis without any loss of build area
+ * There are now alternative idlers that allow use of Mantis with minimal to no loss of build area
     - Rama - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers 
     - Phalanx - https://github.com/selliott79/Other-V2-Idlers 
  * Some parts like the ducts and hotend mount are a bit tricky to print.
