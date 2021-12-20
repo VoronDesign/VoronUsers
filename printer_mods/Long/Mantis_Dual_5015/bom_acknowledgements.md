@@ -22,8 +22,9 @@ BOM, Links, and Acknowledgements
   - m3x5x4 heatsets – Standard Voron heatsets
 - Magnets
   - m6x3 magnets (standard Voron magnets)
-  - larger diameter magnet stack 
-    - used when solding wire to magnets so that magnetic field loss is minimized during soldering.  Honestly though I think it probably doesn't matter if you don't worry about it.  See the magprobe build page for more details.  
+  - larger diameter magnet stack (not required)
+    - used when solding wire to magnets so that magnetic field loss is minimized during soldering.  
+    - I bet it's prob ok to not worry about losing magnetic field with soldering because of the non-soldered magnets that are stacked outwards of the soldered magnets.  
 - MGN9 Carriage
   - (2) Makerbeam XL m3 T-nuts
     - https://www.amazon.com/gp/product/B06XHQHD4H
