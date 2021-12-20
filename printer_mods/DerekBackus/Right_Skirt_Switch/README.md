@@ -1,10 +1,9 @@
-# Voron Mods
+# Trident Right Skirt Switch
 
-A couple things I've made to make my Voron experience more pleasureable.
+This mod moves the power switch to the right side front panel of the skirt. I've only made the skirt for the 300mm version.
 
-### Trident
+The switch hole in the back skirt is no longer necessary.
 
-1) Right_Skirt_Switch Skirt mod to move the power switch to the right side front panel of the skirt. (300mm)
-2) No_Switch_Hole_Power_Skirt Skirt mod to remove the power switch hole from the back plate, leaving only the filtered main plug. (all sizes)
+Remixed to fit the Trident from this [tayto-gp Voron 2.4 Skirt mod](../../tayto-chip/skirt_switch_mod)
 
-
+<img src="Images/Front_View.png" width="300" alt="Front View"><img src="Images/ISO_View.png" width="250" alt="ISO View">
