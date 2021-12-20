@@ -1,4 +1,4 @@
-# Right Skirt Switch
+# Trident Right Skirt Switch
 
 This mod moves the power switch to the right side front panel of the skirt. I've only made the skirt for the 300mm version.
 
