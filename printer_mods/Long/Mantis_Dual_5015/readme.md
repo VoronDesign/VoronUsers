@@ -53,8 +53,9 @@ Mantis Dual 5015 Toolhead by Long
  * Decreased length from extruder to hotend
     - Bowden from mini-sherpa to Dragon is only 19mm
  * X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
-    - My cable chain weighs about 150g on my Voron 300.  
+    - X-endstop must be relocated because the Mantis carriage does not hang down far enough to trigger the endstop pod.
     - Y-endstop can still be from the spec endstop pod on the right xy-joint.
+    - Ditching the cable chain would save around 150g on a Voron 300.  
  * Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
     
  **Cons:**
@@ -64,9 +65,9 @@ Mantis Dual 5015 Toolhead by Long
     - Phalanx - https://github.com/selliott79/Other-V2-Idlers 
  * Some parts like the ducts and hotend mount are a bit tricky to print.
  * Thumb screw for the mini-sherpa will not fit.  Use a buttonhead to save space.
-    - I bought 6mm diameter x 0.9mm coil diameter x 10mm length springs for extra clearance.
+    - Standard 12mm spring should work with the button head.  
+    - I used 6mm diameter x 0.9mm coil diameter x 10mm length springs for extra clearance, but this is unnecessary.
     - (Replaces stock 6mm x 1mm x 12mm spring) 
-    - Depending on how much you tighten your screw, the standard 12mm one will work.
 
 Changes
 -----------------
