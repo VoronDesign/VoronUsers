@@ -1,10 +1,5 @@
-# Voron Mods
+# Filtered Main Skirt
 
-A couple things I've made to make my Voron experience more pleasureable.
+Removes the power switch from the filtered main skirt. Works on all Trident sizes.
 
-### Trident
-
-1) Right_Skirt_Switch Skirt mod to move the power switch to the right side front panel of the skirt. (300mm)
-2) No_Switch_Hole_Power_Skirt Skirt mod to remove the power switch hole from the back plate, leaving only the filtered main plug. (all sizes)
-
-
+<img src="Images/Front_View.png" width="300" alt="Front View"><img src="Images/ISO_View.png" width="250" alt="ISO View">
