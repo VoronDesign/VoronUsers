@@ -12,7 +12,7 @@ Gantry Mounted Mag Probe
     - I have my dock adjusted so that the magprobe, when docked, is actually a few mm further back (+y) than where the magnets of the carriage can reach.  
       - For example.  If the carriage magnets are at y305.  Then the mag probe magnets, when in the dock, can be at around y308 (out of the actual moveable range of the printer)
     - When picking up the probe, the mag probe will snap forward to the carriage magnets.  
-    - When docking, as the toolhead moves to the side, the mag probe will snap back to the dock.  
+    - When dropping off the probe, as the toolhead moves to the side, the mag probe will snap back to the dock.  
     - This allows you to have the magprobe just a few more mm out of your printing area.  
 
 
