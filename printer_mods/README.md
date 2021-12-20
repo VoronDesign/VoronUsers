@@ -101,6 +101,7 @@ like so:
 | | [v0 Wago Bed Mounts](./deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | :heavy_check_mark: | :x: | :x: |:x:|
 | | [v0 Power Wagos](./deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | :heavy_check_mark: | :x: | :x: |:x:|
 |DerekBackus |[Trident Right Skirt Switch](DerekBackus/Right_Skirt_Switch) | Moves power switch to right front skirt on the Trident | :x: | :x: | :x: | :x: | ✔️ |
+|DerekBackus |[Remove Power Switch from Trident Skirt](DerekBackus/Filtered_Main_Skirt) | Removes the power switch cutout on the Trident skirt | :x: | :x: | :x: | :x: | ✔️ |
 |Derpimus |[V0.1 Block Handle](Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | :heavy_check_mark: | :x: | :x: | :x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
