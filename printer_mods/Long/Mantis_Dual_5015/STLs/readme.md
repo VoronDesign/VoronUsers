@@ -1,4 +1,4 @@
-What to Print 
+What to Print for Each Hotend
 ============
 ****note that Voron 1.8 is only compatible with Dragon hotend at the moment.**  If you need something else just let me know and I'll work with you.
 
