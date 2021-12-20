@@ -1,9 +1,8 @@
-
 What to Print 
 ============
 ****note that Voron 1.8 is only compatible with Dragon hotend at the moment.**  If you need something else just let me know and I'll work with you.
 
-<table width=100%> 
+<table width=100% border=1> 
 <TR>
 <TD align="center" width=50% bgcolor="black"><font color="white"><B>Hotend</TD>
 <TD align="center" width=50% bgcolor="black"><B><font color="white">Parts</TD>
