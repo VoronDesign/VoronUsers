@@ -1,6 +1,6 @@
 # LED Strip Holder
 
-<img src="Images/LED_Strip_Example.jpg" width="200" alt="LED Strip">
+<img src="Images/LED_Strip_Example.jpg" width="300" alt="LED Strip">
 
 Works on Trident & 2.4 any size.
 
