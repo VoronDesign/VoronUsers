@@ -9,7 +9,7 @@ What to Print
 <TD align="center" width=50% bgcolor="black"><B><font color="white">Parts</TD>
 </TR>
 <TR>
-<TD align="center" width=50%>Dragon</TD>
+<TD align="center" width=50%>Dragon<BR>2.4 and Trident</TD>
 <TD align="center" width=50%>Hotend_Mount_Dragon_v1.040.stl
 <BR>duct_dragon_v1.037_left.stl
 <BR>duct_dragon_v1.037_right.stl
