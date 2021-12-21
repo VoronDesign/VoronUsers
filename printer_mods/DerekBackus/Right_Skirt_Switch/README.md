@@ -8,3 +8,8 @@ Remixed to fit the Trident from this [tayto-gp Voron 2.4 Skirt mod](../../tayto-
 
 <img src="Images/Front_View.png" width="300" alt="Front View">
 <img src="Images/ISO_View.png" width="300" alt="ISO View">
+
+There's also a new filtered main skirt to print with this that removes the power switch. This skirt will work on all Trident sizes.
+
+<img src="Images/Front_View.png" width="300" alt="Front View">
+<img src="Images/ISO_View.png" width="300" alt="ISO View">
