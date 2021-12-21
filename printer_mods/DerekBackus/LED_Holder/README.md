@@ -1,6 +1,6 @@
 # LED Strip Holder
 
-<img src="Images/LED_Strip_Example.jpg" width="100" alt="LED Strip">
+<img src="Images/LED_Strip_Example.jpg" width="200" alt="LED Strip">
 
 Works on Trident & 2.4 any size.
 
@@ -10,6 +10,6 @@ I used [these 24V strips](https://www.amazon.com/gp/product/B00XH59VG4) from Ama
 
 You can mount as many "strips" in your printer as you like. I have one on the front rail and one on each side for a total of three. You can cut the strip at the solder obrounds and connect them with wire to go around the corners. I run the wire in the extrusion down to the controller and use an extrusion cover to hold the wires in.
 
-<img src="Images/Front_View.png" width="300" alt="Front View">
-<img src="Images/ISO_View.png" width="300" alt="ISO View">
+<img src="Images/LED_Holder_ISO.png" width="300" alt="Front View">
+<img src="Images/LED_Holder_Side_View.png" width="300" alt="ISO View">
 <img src="Images/LED_Holder_Picture.jpg" width="300" alt="Voron LED Holder">
