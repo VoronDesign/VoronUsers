@@ -70,6 +70,9 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+12-20-2021
+- Added CAD files for Mantis with Crazy Volcano and Rapido (note that rapido is still in development)
+    
 12-19-2021
 - Hotend_Mount_Dragon_v1.040
   - noticed a slight interference between the hotend mount and the ducts.  adjusted so no more interference.  This should only affect you if you're using crazy volcano.
