@@ -9,5 +9,5 @@ Remixed to fit the Trident from this [tayto-gp Voron 2.4 Skirt mod](../../tayto-
 <img src="Images/Front_View.png" width="300" alt="Front View">
 <img src="Images/ISO_View.png" width="300" alt="ISO View">
 
-<img src="Images/Front_View.png" width="300" alt="Front View">
-<img src="Images/ISO_View.png" width="300" alt="ISO View">
+<img src="Images/Filter_Front_View.png" width="300" alt="Front View">
+<img src="Images/Filter_ISO_View.png" width="300" alt="ISO View">
