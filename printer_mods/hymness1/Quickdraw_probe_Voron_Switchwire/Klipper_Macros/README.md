@@ -24,7 +24,7 @@ I'm assuming you already have an up and running Switchwire prior to using the Qu
 6. Manually move the toolhead higher up. Home the toolhead and test that it triggers by pressing the trigger on the probe. If not kill the printer.
 7. In `printer.cfg` :
    * In the `[probe]` section, change `y_offset` to `34.5` and `speed` to `3`.
-   * In the [homing_override] section, change the last line from `G0 Z5 F500` to `G0 Z15 F500`
+   * In the `[homing_override]` section, change the last line from `G0 Z5 F500` to `G0 Z15 F500`.
    * Save and restart firmware.
 9. Set your Z-offset
    * Home the toolhead
