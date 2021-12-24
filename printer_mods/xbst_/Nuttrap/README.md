@@ -1,0 +1,1 @@
+Nuttraps are for getting rid of the annoying M2 nuttraps used in the v0 printers. It is a metal panel that has M2 (you need to tap them after laser cutting) screws in MGN7 spacing. I used 1.5mm aluminium.

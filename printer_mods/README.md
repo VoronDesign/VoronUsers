@@ -303,6 +303,7 @@ like so:
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
+| | [2020 Top Spool Holder](./xbst_/Top_Spool_Holder)| A mod of the stock Voron spool holder to mount on the top extrusion | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Max31865](./xbst_/Max31865_DIN_Mount)| A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865 PT100 Board. | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
@@ -312,16 +313,20 @@ like so:
 | | [Duct Mount](./xbst_/Duct_Mount) | 100mm/4" ducting mount for ventilation. Also supports umbilical cord and has 3 orientations for bowden adapter. | :x: | :x: |:heavy_check_mark: |:x:|
 | | [V2.4 Skirt Buttons](./xbst_/V2.4_Skirt_Buttons) | Skirt mod for custom Gcode macro buttons  |:x: |:x: |:heavy_check_mark: | :x: |
 | | [HOYMK SSR Mount](./xbst_/HOYMK_SSR_Mount) | Mount for Chinese HOYMK SSR | :heavy_check_mark: | :x: | :x: |:x:|
-| | [ADXL345 V0 Mount](./xbst_/ADXL345_V0_Mount) | V0 Mount for a ADXL345 module | :heavy_check_mark: |:x: |:x: |:x:|
+| | [V0.0 ADXL345 Mount](./xbst_/ADXL345_V0_Mount) | V0 Mount for a ADXL345 module | :heavy_check_mark: |:x: |:x: |:x:|
 | | [Easy Access Rear Panels](./xbst_/Easy_Access_Rear_Panels_v0) | New rear panels designed to expose the extruder for easy filament swapping | :heavy_check_mark: | :x: |:x: |:x:|
-| | [Hat LED Mount](./xbst_/Hat_LED_Mount) | Top Hat LED module mount | :heavy_check_mark: |:x: |:x: |:x:|
+| | [V0.0 Hat LED Mount](./xbst_/Hat_LED_Mount) | Top Hat LED module mount | :heavy_check_mark: |:x: |:x: |:x:|
 | | [ZipClip V0](./xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | :heavy_check_mark: |:x: |:x: |:x:|
 | | [Screwed Front Door Hinge](./xbst_/V0_Screw_Front_Hinge_Mod)| Mod to screw the front door panel (instead of VHB) | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 Buttons & OLED Mount](./xbst_/V0_Skirt_Buttons)| Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0.0 Buttons & OLED Mount](./xbst_/V0_Skirt_Buttons)| Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display | :heavy_check_mark: | :x: | :x: | :x: |
 | | [Mobius 4 (M4) V0 Mod](./xbst_/V0_M4_Mod)| Mod to mount a M4 extruder to a Voron 0 where pocketwatch extruder mounts | :heavy_check_mark: | :x: | :x: | :x: |
-| | [V0 Electronics Cover](./xbst_/V0_Electronic_Panel)| A printed cover for v0 electronics. Requires larger printer to print. | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0.0 Electronics Cover](./xbst_/V0_Electronic_Panel)| A printed cover for v0 electronics. Requires larger printer to print. | :heavy_check_mark: | :x: | :x: | :x: |
 | | [V0 PiCam Mount](./xbst_/V0_Picam)| A Raspberry Pi Camera Mount For V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | | [DuetZero](./xbst_/DuetZero) | Pi Zero mount over a Duet2 for space saving | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
+| | [V0 Nuttrap Replacement DXF](./xbst_/Nuttrap)| A lasercut plate to replace the annoying MGN7 M2 nuttrap assembly | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0.1 Tall Legs](./xbst_/V01_Leg)| Taller legs for bottom electronic cover panels | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0.1 Skirt Buttons](./xbst_/V01_Skirt_Buttons)| Skirt buttons and display mount for V0.1 | :heavy_check_mark: | :x: | :x: | :x: |
+| | [V0.1 Square Tophat](./xbst_/V01_Tophat) | New Tophat with "plastic 1515 extrusions" added to the top, with larger acrylic panels for better view, with diffused top LED lighting & camera mount | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | Xceled | [Single Panel Magnet Mount](./xceled/Single_Panel_Magnet_Mount)| Mount your front panel using only magnets | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | Yeri | [V0 Magnetic Panels](./yeri/V0_Magnetic_Panels)| Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access | :heavy_check_mark: | :x: | :x: | :x: |
 | | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
