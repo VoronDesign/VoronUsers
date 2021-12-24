@@ -20,6 +20,9 @@ Please know that most gas struts aren't rated above 50C, however I don't expect 
 
 You will also need 2 metal corner brackets, some screws, nuts and tnuts to attach. If you don't have any buy a few different styles, they are cheap, and are useful for many applications. In the picture above you can see how I attached a corner bracket to be able to mount the gas spring.
 
+## New Handle
+Only use this if you encounter flex related issues with the stock handle. This one won't have that issue but is more difficult to use because the mechanism is different. I encountered issues only with a new reprint with 1 batch of ABS+, no issues with prints before that. To my knowledge everyone else who used this mod didn't have any issues with the stock handle.
+
 ## Instructions
 Video Instructions: [Youtube](https://youtu.be/YtxrM_qPr9c)
 
