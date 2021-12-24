@@ -31,6 +31,7 @@ like so:
 | MarcPot | [Fysetc Spider Board Pins](./klipper/MarcPot/fysetc_spider_pins) | Defines a set of `[board_pins]` aliases for use with the Fysetc Spider controller | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Mellow | [Fly-Super8 on V2.4](./klipper/Mellow/FLY-Super8) | Example configuration and wiring diagram for a FLY-Super8 board on the V2.4 | :x: | :x: | :heavy_check_mark: | :x: |
 | revnull | [BTT Octopus Board Pins](./klipper/revnull/btt_octopus_pins) | Defines a set of `[board_pins]` aliases for use with the BTT Octopus controller | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
+| RealDeuce | [MKS Makerbase Monster8 v1.0_003](./klipper/RealDeuce/MKS-Makerbase/Monster8_v1.0_003/) | Configuration and instructions for installing an MKS Makerbase Monster8 board | :x: | :grey_question: | :heavy_check_mark: | :x: |
 ---
 
 ## RepRapFirmware
