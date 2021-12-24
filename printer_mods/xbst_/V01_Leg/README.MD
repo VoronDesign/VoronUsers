@@ -1,1 +1,3 @@
-Legs are for mounting bottom panels [../V01_Duet_Panels](like mine) using the feet holes (lol). This requires taller legs so there is no gap between the panels and the legs. Normally you would need 55mm+ M3 screws for this, but they are not common so I designed these to use 16mm M3 to attach to the extrusions, and a threaded insert with 12mm M3 screws for the feet+panel. You will need a ball-end driver for the internal M3 screws.
+# V0.1 Tall Legs
+![ ](./leg.PNG)
+Tall legs are for mounting bottom panels [like mine](../V01_Duet_Panels) using the feet holes (lol). My panels and similar panels require taller legs so there is no gap between the panels and the legs. Normally you would need 55mm+ M3 screws for this, but they are not common so I designed these to use 16mm M3 to attach to the extrusions, and a threaded insert with 12mm M3 screws for the feet+panel. You will need a ball-end driver for the internal M3 screws.
