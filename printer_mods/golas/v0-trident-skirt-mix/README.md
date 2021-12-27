@@ -31,3 +31,10 @@ In addition to preloaded nuts and screw that are in default v0.1 version you nee
 Courtesy of Revnull
 ![Image of V0.1 remixed](images/revnull2.jpg)
 Courtesy of Revnull
+
+## Collaboration
+Big thanks for all who gave ideas, showed mistakes and discussed about this little mod.
+
+Especially for:
+* hartk for lcd_case_front_mini12864 step and stl files
+* DaveR for front_skirt_one_piece.stl and v0.1_trident_skirt_foot_rear_right_bowden_tube_connector_x1.stl

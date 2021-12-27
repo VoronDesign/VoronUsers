@@ -5,8 +5,7 @@
 ## Contents
 
 * STL files with print number suffix
-* acrylic/PC dxf files
-* Manual for simplier assembly
+* Manual for simplier assembly - TBD
 * BOM
 * Renders
 * cad file
