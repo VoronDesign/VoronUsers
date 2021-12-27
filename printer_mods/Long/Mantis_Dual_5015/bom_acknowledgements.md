@@ -66,9 +66,12 @@ BOM, Links, and Acknowledgements
     - https://github.com/Annex-Engineering/Quickdraw_Probe
   - My version is very similar the Annex Mag Probe.  I remade it to be longer, added a 3rd magnet, and modified the dock arms and dock mating surfaces slightly.  
   - The mag probe and being able to remove the bulk of the Omron probe is a major factor in what made this tool head possible. Please see Annex's mag probe repository for the original.
-- Ark’s MGN12H Mod
-  - There may be several mgn12 mods floating around. This is one of them:
-  - https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12
+- HartK Y-Endstop Relocation and Pin Mod
+  - I highly recommend relocating the Y-endstop to the a/b drive.  Since the X endstop is on the carriage, this will allow you to remove the endstop pod completely from the right XY joint.  
+  - Normal 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
+  - [Pin mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod) 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units)
+  - I also like HartK's Pin Mod.  I'm using it on the A/B joints and XY joints.  I'm using Rama's Front Idlers instead of the pin mod front idlers.  
+    - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod)
 -  JoshMurrah
    -  Just wanted to note him here as he has been extremely helpful in some insane stress testing. His speed benchies have been fun as hell to watch and a motivation for me to keep improving. His testing has resulted in a lot of improvements to this toolhead.
 -  JosAr
