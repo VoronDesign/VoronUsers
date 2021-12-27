@@ -53,7 +53,7 @@ Mantis Dual 5015 Toolhead by Long
     - Bowden from mini-sherpa to Dragon is only 19mm
  * X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
     - X-endstop must be relocated because the Mantis carriage is smaller and does not hang down far enough to trigger the endstop pod.
-    - Y-endstop can still be from the spec endstop pod on the right xy-joint, however I highly recommend relocating the y-endstop to the right a/b drive.  
+    - Y-endstop can still be from the spec endstop pod on the right xy-joint, however **I highly recommend relocating the y-endstop to the right a/b drive.**  
       - Normal 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
       - [Pin mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod) 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units)
     - Ditching the cable chain would save around 150g on the x-axis for a Voron 300.  
@@ -77,7 +77,7 @@ Changes
     
 12-19-2021
 - Hotend_Mount_Dragon_v1.040
-  - noticed a slight interference between the hotend mount and the ducts.  adjusted so no more interference.  This should only affect you if you're using crazy volcano.
+  - noticed a slight interference between the hotend mount and the ducts.  Adjusted so no more interference.  This should only affect you if you're using crazy volcano.
 - Rapdio UHF ducts
   - Added ducts that are 8.5mm longer than the Rapido HF ducts to support the UHF.
   - **Don't forget to also make the longer Rapido UHF magprobe**
