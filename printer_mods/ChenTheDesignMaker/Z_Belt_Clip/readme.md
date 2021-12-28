@@ -7,6 +7,8 @@ The 2.4 manual suggested leaving 1 to 2 inch Z belts, however, when the panels a
 
 ![This is an image](/imgs/IMG_3018.jpg)
 
+https://github.com/chenthedesignmaker/VoronUsers/blob/master/printer_mods/ChenTheDesignMaker/Z_Belt_Clip/imgs/IMG_3018.jpg
+
 
 image Extra belts before panel
 
