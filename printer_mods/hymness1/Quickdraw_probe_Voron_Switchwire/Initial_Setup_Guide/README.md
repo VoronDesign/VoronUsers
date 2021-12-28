@@ -15,7 +15,7 @@ You can find my `printer.cfg` and other relevant macros for reference [here](htt
 I'm assuming you already have an up and running Switchwire prior to using the Quickdraw Probe and using the modded KeyBak mount.
 
 1. Backup your `printer.cfg` file
-2. Download [dock_macros.cfg](https://github.com/hymness1/Quickdraw_VSW/blob/main/klipper_config/dock_macros.cfg) and add the file to `klipper_config` folder. Do not include it yet in `printer.cfg`
+2. Download [dock_macros.cfg](https://raw.githubusercontent.com/hymness1/Quickdraw_VSW/main/klipper_config/dock_macros.cfg) and add the file to `klipper_config` folder. Do not include it yet in `printer.cfg`
 3. Manually move the toolhead so you can easily attach and detach the probe manually
 4. With the probe detached, run `query_probe` in the terminal. It should report as triggered
 5. With the probe attached, run `query_probe`. It should report as open
