@@ -79,7 +79,7 @@ like so:
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
-| ChenTheDesignMaker | [Z Belt Clip](./chenthedesignmaker/Z_belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
+| ChenTheDesignMaker | [Z Belt Clip](./ChenTheDesignMaker/Z_Belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 | christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chri.kai.in | [Angry CAM USB](./chri.kai.in/Angry_CAM_USB) | Housing for small USB camera module, allowing mounting to gantry or frame profiles | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
