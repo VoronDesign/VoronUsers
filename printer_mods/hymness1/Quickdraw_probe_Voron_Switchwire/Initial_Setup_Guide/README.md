@@ -68,13 +68,11 @@ When homing with the probe attached, terminal will report a wrong value for Z po
 
 Be sure to add `Dock_probe` in your print_start macro after the bed mesh or other probing actions.
 
-Sensorless homing for initial Z homing does work, but I don't recommend it. The KeyBak can be somewhat inconsistent in its tension and can lead to unwanted behavior.
-
-If you don't plan to use a Z endstop microswitch or sensorless homing for initial Z homing, don't change your `endstop_pin` in the `stepper_z` section of `printer.cfg`.
+If you don't plan to use a Z endstop microswitch for initial Z homing, don't change your `endstop_pin` in the `stepper_z` section of `printer.cfg`.
 
 # About the modded KeyBak mount and the endstop microswitch located at Z_min (or sensorless homing at Z_min) and Y travel
 
-The Switchwire has about 230mm of print area in the Y direction, but has around 250mm of Y travel (mine has 257mm), from the endstop to the endblock. About 20 of those millimeters are located outside the bed at the front when the bed is pushed all the way to the rear of the printer. At this location, the nozzle and the part cooling ducts can be clear of the bed when homing at Z_min. The default `printer.cfg` for the VSW with an SKR Mini E3 V2 calls for 0 as position_min and 250 as position_max, whilst it should be, at least that is my case, -25 as position_min and 232 as position_max. When populating the variables in `dock_macros.cfg`, be sure to enter an existing value for `variable_y_min`, and that this value is located outside the bed. If you are using default config for `printer.cfg`, 0 should be a safe coordinate. If you changed the config file for the real travel in the Y axis, -20 should be a safe coordinate. Failure to enter an existing or safe value could at best prevent you from homing with the message `Move out of range`, or at worst crash the nozzle into the bed.
+The Switchwire has about 230mm of print area in the Y direction, but has around 250mm of Y travel (mine has 257mm), from the endstop to the endblock. About 20 of those millimeters are located outside the bed at the front when the bed is pushed all the way to the rear of the printer. At this location, the nozzle and the part cooling ducts can be clear of the bed when homing at Z_min. If it's not your case, please use another method for initial Z homing, like a microswitch located at Z_max.
 
 ![SW_Y_travel](../Pictures/SW_Y_travel.png)
 * In yellow : Printable area
