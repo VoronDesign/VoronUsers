@@ -5,6 +5,8 @@ The KeyBak mount has been modified so you can screw in a microswitch, allowing t
 
 By using the dock, you will loose 27mm of X travel.
 
+You might want to look at [my fork](https://github.com/hymness1/VoronUsers/edit/master/printer_mods/hymness1/Quickdraw_probe_Voron_Switchwire/) for more up to date files and code.
+
 ![alt text](Pictures/quickdraw_SW_remix.png)
 
 ![alt text](Pictures/quickdraw_SW_probe.png)
