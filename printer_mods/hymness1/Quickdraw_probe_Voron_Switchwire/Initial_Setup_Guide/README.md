@@ -4,7 +4,7 @@ The macros are working on official Klipper firmware.
 
 The values that are in the config file are the values I use for my Switchwire. You can still use these macros if you use the files for the probe and dock from Annex Engineering. If you do, you'll want to change the value for variable_detach from 1 to 2.
 
-For the initial homing for the Z-axis, there are options for probe homing, sensorless homing and endstop microswitch homing.
+For the initial homing for the Z-axis, there are options for probe homing and endstop microswitch homing, be it at Z_min with the modded KeyBak mount or at Z_max.
 
 There are some safety measures, but this is still a work in progress. For the moment, failing to dock will kill the printer (M112), as failing to dock properly could result in damaging the probe itself or the bed. As for failing to attach the probe, you'll get an error message stating that the probe reports as triggered prior to movement. Be sure to add `Dock_probe` to your print_start macro after your bed mesh or other probing actions.
 
