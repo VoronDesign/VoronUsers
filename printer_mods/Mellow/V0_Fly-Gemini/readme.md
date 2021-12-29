@@ -21,6 +21,8 @@
 - Use VHB tape to secure to the V0 backplane
 - Bracket needs to be embedded with brass nuts
 
+#### BOM
+
 | Name | Specification | Quantity |
 | --- | --- | --- |
 | screw | M3x6 BHCS | 4 |
