@@ -79,6 +79,7 @@ like so:
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
+| ChenTheDesignMaker | [Z Belt Clip](./ChenTheDesignMaker/Z_Belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 | christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chri.kai.in | [Angry CAM USB](./chri.kai.in/Angry_CAM_USB) | Housing for small USB camera module, allowing mounting to gantry or frame profiles | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
@@ -100,6 +101,8 @@ like so:
 |deepfriedheroin |[V2 Bed Wagos](./deepfriedheroin/v2_bed_wagos) |Wire management for the v2 bed |:x: |:x:|:heavy_check_mark: |:x:|
 | | [v0 Wago Bed Mounts](./deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | :heavy_check_mark: | :x: | :x: |:x:|
 | | [v0 Power Wagos](./deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | :heavy_check_mark: | :x: | :x: |:x:|
+|DerekBackus |[Trident Right Skirt Switch](DerekBackus/Right_Skirt_Switch) | Moves power switch to right front skirt on the Trident | :x: | :x: | :x: | :x: | ✔️ |
+| |[LED Strip Holder](DerekBackus/LED_Holder) | Simple bracket to mount an LED strip | :x: | :x: | ✔️ | :x: | ✔️ |
 |Derpimus |[V0.1 Block Handle](Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | :heavy_check_mark: | :x: | :x: | :x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
@@ -235,6 +238,7 @@ like so:
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| nikolasbabetas | [Neopixel Holder ](./nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Duet Wifi Mount](./Nomsplease/V0_Mods/duet_wifi_mount) | Duet wifi mount in pocketwatch location |:heavy_check_mark: |:x: |:x: |:x:|
 | |[LED Mounts](./Nomsplease/V0_Mods/led_mounts) | Basic LED mounts for 10 and 12mm strips |:heavy_check_mark: |:x: |:x: |:x:|
