@@ -19,7 +19,7 @@ Mantis Dual 5015 Toolhead by Long
   
 <TABLE>
 <TR>
-<TD width=33% align="center"><img src="images/readme_cfd_dragon.png"><BR>Dragon</TD><TD width=33% align="center"><img src="images/readme_cfd_crazy_volcano.png"><BR>Crazy Volcano with Dragon Heatsink</TD><TD width=33% align="center"><img src="images/readme_cfd_rapido.png"><BR>Rapido</TD>
+<TD width=33% align="center" valign="top"><img src="images/readme_cfd_dragon.png"><BR>Dragon</TD><TD width=33% align="center" valign="top"><img src="images/readme_cfd_crazy_volcano.png"><BR>Crazy Volcano with Dragon Heatsink.  <BR>This duct has highest amount of flow due to the narrow shape of the heatblock.  </TD><TD width=33% align="center" valign="top"><img src="images/readme_cfd_rapido.png"><BR>Rapido <BR>This duct has slightly less flow than the Crazy Volcano version, but significantly more than dragon block.  This is also due to Rapido being narrower than a v6 block at the nozzle.</TD>
 </TR>
 </TABLE>
   
