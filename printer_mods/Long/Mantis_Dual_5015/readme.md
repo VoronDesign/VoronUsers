@@ -38,11 +38,11 @@ Mantis Dual 5015 Toolhead by Long
     - Single piece ducts without splitting and fewer bends = less duct losses
     - Way more airflow than a single 5015.  
 * Lighter
-    - This entire tool head weighs ~290g including the carriage
-    - Spec AB is ~470g.  Spec AB with gailieo is ~375g.
+    - Mantis tool head weighs ~290g including the carriage
+    - Spec AB is ~470g.  Spec AB with gailieo is ~375g.  Stealthburner beta is ~410g.
     - Using single MGN9 removes an additional ~140g from the Y axis on a 300.  
  * Stiffer
-    - Single piece carriage and hotend mounts are stiffer than spec.
+    - Single piece carriage and hotend mounts stiff and light.
  * Detachable Bed Probe (magprobe)
     - Decreases weight, allows shrinkage of the carriage, and movement of weight closer to the extrusion.
     - Direct probing of the bed surface.  Allows usage of any bed surface. 
