@@ -18,7 +18,7 @@ Mantis Dual 5015 Toolhead by Long
 ![](images/readme_mantis.jpg)    
   
 <TABLE>
-<TR><TD colspan=3 align="center" width=100%>Mantis ducts are optimized for the hotend it is paired with.  If the width of the hotend around the nozzle is narrow, the ducts can be opened up and a higher max part cooling flow can be achieved.  
+<TR><TD colspan=3 align="center" width=100%>Mantis ducts are optimized for the hotend it is paired with.  If the width of the hotend around the nozzle is narrow, the ducts can be opened up and a higher max part cooling flow can be achieved.  </TD></TR>
 <TR>
 <TD width=33% align="center" valign="top"><img src="images/readme_cfd_dragon.png"><BR><B>Dragon</TD><TD width=33% align="center" valign="top"><img src="images/readme_cfd_crazy_volcano.png"><BR><B>Crazy Volcano Block/Dragon Heatsink.</B>  <BR>This duct has highest amount of flow due to the narrow shape of the heatblock.  </TD><TD width=33% align="center" valign="top"><img src="images/readme_cfd_rapido.png"><B><BR>Rapido HF<BR></B>This duct has slightly less flow than the Crazy Volcano version, but significantly more than dragon block.</TD>
 </TR>
