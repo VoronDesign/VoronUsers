@@ -6,7 +6,7 @@
 ### Gemini_v0.1_Stent_FLYLOGO.STL
 
 - Use VHB tape to secure to the V0 backplane
-- The bracket and the motherboard are directly connected with 4 M3*6 or M3*8 screws
+- The bracket and the motherboard are directly connected with 4 M3x6 or M3x8 screws
 
 #### BOM
 
