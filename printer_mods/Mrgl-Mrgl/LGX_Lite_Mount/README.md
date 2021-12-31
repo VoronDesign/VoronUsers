@@ -1,4 +1,4 @@
-a mod to mount the LGX Lite to the current X Carriage requires:  
+a mod to mount the LGX Lite to the current X Carriage   requires:  
 4* M3x12 SHCS
 
 new chain mount needs to be printed and tested properly before i upload, the current one collides with the cable chain at low X values  
