@@ -5,6 +5,6 @@ A modified power plug skirt section which accepts generic amazon plug/switch/fus
 
 ![Plug example](img/plug_panel.jpg)
 
-Fasten with 2x M4 self-tapping screws.
+Fasten with 2x M4x10 self-tapping screws.
 
 ![Plug installed](img/plug_panel_generic_combo.jpg)
