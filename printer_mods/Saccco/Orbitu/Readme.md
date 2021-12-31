@@ -32,3 +32,6 @@ Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage. Everything was
 ![Orbitu](Pictures/Orbitu-assembled-1.jpg)
 ![Orbitu](Pictures/Orbitu-assembled-2.jpg)
 
+### **Exploded View**
+
+![Orbitu](Pictures/Orbitu_exploded_view.png)
