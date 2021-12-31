@@ -2,7 +2,8 @@
 
 ![Orbitu](Pictures/Orbitu-mounted-1.jpg)
 
-Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage. Everything was made out of the stls.
+Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage with. Everything was made out of the stls.
+Goal was to mimic the looks of the new Stealthburner.
 
 ### **Printing instructions:**
 - Voron default settings work fine
