@@ -4,10 +4,10 @@
 
 Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage. Everything was made out of the stls.
 
-###### **Printing instructions:**
+### **Printing instructions:**
 - Voron default settings work fine
 
-###### **BOM**
+### **BOM**
 - 2×M3×30mm for mounting on the carriage
 - 2×M3×25mm to tighten the front and back piece
 - 2×M3×20mm for mounting the anchor
@@ -17,17 +17,17 @@ Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage. Everything was
 - 13×M3 heat inserts (6×front; 4×back; 2/3×anchor)
 - PTFE tube
 - Orbiter 2.0 
-- 
-###### **Known issues**
+
+### **Known issues**
 - Door can't fully open if the PTFE is too long. - Will look into this after CAD release.
 
-###### **Pictures**
+### **Pictures**
 ![Orbitu](Pictures/Orbitu_3.png)
 ![Orbitu](Pictures/Orbitu_4.png)
 ![Orbitu](Pictures/Orbitu_1.png)
 ![Orbitu](Pictures/Orbitu_2.png)
 
-###### **Photos**
+### **Photos**
 ![Orbitu](Pictures/Orbitu-assembled-1.jpg)
 ![Orbitu](Pictures/Orbitu-assembled-2.jpg)
 
