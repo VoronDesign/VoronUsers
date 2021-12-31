@@ -21,7 +21,7 @@ Goal was to mimic the looks of the new Stealthburner.
 
 ### **Known issues**
 - Door can't fully open if the PTFE is too long. - Will look into this after CAD release.
-- Heatinserts under the Orbiter are a bit tricky to seat well.
+- Heat inserts under the Orbiter are a bit tricky to seat well.
 
 ### **Pictures**
 ![Orbitu](Pictures/Orbitu_3.png)
