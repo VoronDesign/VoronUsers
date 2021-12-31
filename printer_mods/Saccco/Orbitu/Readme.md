@@ -20,6 +20,7 @@ Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage. Everything was
 
 ### **Known issues**
 - Door can't fully open if the PTFE is too long. - Will look into this after CAD release.
+- Heatinserts under the Orbiter are a bit tricky to seat well.
 
 ### **Pictures**
 ![Orbitu](Pictures/Orbitu_3.png)
