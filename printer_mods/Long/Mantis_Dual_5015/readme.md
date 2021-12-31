@@ -46,6 +46,7 @@ Mantis Dual 5015 Toolhead by Long
     - Left to Right airflow balance is no longer an issue
     - Single piece ducts without splitting and fewer bends = less duct losses
     - Way more airflow than a single 5015.  
+    - Minimum layer time can be much lower.  I'm using 5 seconds conservatively on 0.2 layer height.
 * Lighter
     - Mantis tool head weighs ~290g including the carriage
     - Spec AB is ~470g.  Spec AB with gailieo is ~375g.  Stealthburner beta is ~410g.
