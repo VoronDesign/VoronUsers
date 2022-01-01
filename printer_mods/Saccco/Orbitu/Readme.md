@@ -24,17 +24,18 @@ Goal was to mimic the looks of the new Stealthburner.
 - Heat inserts under the Orbiter are a bit tricky to seat well.
 
 ### **Pictures 2.0**
-![Orbitu](Pictures/Orbitu_3.png)
-![Orbitu](Pictures/Orbitu_4.png)
-![Orbitu](Pictures/Orbitu_1.png)
+<img src="Pictures/Orbitu_3.png" width="500">
+<img src="Pictures/Orbitu_2.png" width="500">
+<img src="Pictures/Orbitu_4.png" width="500">
+<img src="Pictures/Orbitu_1.png" width="500">
 
 ### **Pictures 1.5**
-![Orbitu](Pictures/Orbitu1.5_1.png)
-![Orbitu](Pictures/Orbitu1.5_2.png)
+<img src="Pictures/Orbitu1.5_1.png" width="500">
+<img src="Pictures/Orbitu1.5_2.png" width="500">
 
 ### **Photos 2.0**
-![Orbitu](Pictures/Orbitu-assembled-1.jpg)
-![Orbitu](Pictures/Orbitu-assembled-2.jpg)
+<img src="Pictures/Orbitu-assembled-1.jpg" width="500">
+<img src="Pictures/Orbitu-assembled-2.jpg" width="500">
 
 ### **Exploded View**
 
