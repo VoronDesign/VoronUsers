@@ -2,7 +2,7 @@
 
 ![Orbitu](Pictures/Orbitu-mounted-1.jpg)
 
-Mounting solution for the Orbiter 2.0 and the Voron CW1 carriage with. Everything was made out of the stls.
+Mounting solution for the Orbiter 1.5/2.0 and the Voron CW1 carriage with. Everything was made out of the stls.
 Goal was to mimic the looks of the new Stealthburner.
 
 ### **Printing instructions:**
@@ -17,22 +17,26 @@ Goal was to mimic the looks of the new Stealthburner.
 - 1×M3×6mm to fix the cable cover
 - 13×M3 heat inserts (6×front; 4×back; 2/3×anchor)
 - PTFE tube
-- Orbiter 2.0 
+- Orbiter 1.5/2.0 
 
 ### **Known issues**
 - Door can't fully open if the PTFE is too long. - Will look into this after CAD release.
 - Heat inserts under the Orbiter are a bit tricky to seat well.
 
-### **Pictures**
+### **Pictures 2.0**
 ![Orbitu](Pictures/Orbitu_3.png)
 ![Orbitu](Pictures/Orbitu_4.png)
 ![Orbitu](Pictures/Orbitu_1.png)
-![Orbitu](Pictures/Orbitu_2.png)
 
-### **Photos**
+### **Pictures 1.5**
+![Orbitu](Pictures/Orbitu1.5_1.png)
+![Orbitu](Pictures/Orbitu1.5_2.png)
+
+### **Photos 2.0**
 ![Orbitu](Pictures/Orbitu-assembled-1.jpg)
 ![Orbitu](Pictures/Orbitu-assembled-2.jpg)
 
 ### **Exploded View**
 
 ![Orbitu](Pictures/Orbitu_exploded_view.png)
+* *Version 1.5 is similar* *
