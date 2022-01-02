@@ -12,7 +12,7 @@ There are two version:
 - Standard size: if you have a large size printer I refer this.
 - Small size: can print on Voron V0 bed size.
 
-Print recommened:
+Print recommended:
 - ABS
 - No support needed
 
