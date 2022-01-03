@@ -33,6 +33,7 @@ like so:
 | Mellow | [Fly-Gemini on v0](./klipper/Mellow/FLY-Gemini) | Sample configuration and wiring diagram of Fly-Gemini Linux integrated motherboard in v0 and v0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | revnull | [BTT Octopus Board Pins](./klipper/revnull/btt_octopus_pins) | Defines a set of `[board_pins]` aliases for use with the BTT Octopus controller | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :x: |
 | RealDeuce | [MKS Makerbase Monster8 v1.0_003](./klipper/RealDeuce/MKS-Makerbase/Monster8_v1.0_003/) | Configuration and instructions for installing an MKS Makerbase Monster8 board | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| clee | [BTT SKR E3 mini V3](./klipper/clee/btt_skr_e3_mini_v3) | Configuration for a BTT SKR E3 mini V3 board | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 ---
 
 ## RepRapFirmware
