@@ -2,7 +2,7 @@
 
 This is an alternative DIN Rail bracket for Bigtreetech Octopus board, posted this way back in Voron Discord just never uploaded it to VoronUser Mods
 
-Use default pcb_din_clip.stl x2, and print two parts and secure with m2 self-tapping screw.
+Use default pcb_din_clip.stl x2, and print either one of the available brackets and secure with m2 self-tapping screw.
 
 Octopus board can be secured to this bracket with M3 screw, without nuts.
 
