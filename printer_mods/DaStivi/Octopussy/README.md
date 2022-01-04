@@ -24,6 +24,3 @@ There are also the SVG Files of the Octopus Logo i created, from what i used to 
 
 [Simple Bracket STL](./STL/Simple_Octopus_Bracket_v2.stl)
 
-
-!#### CAD:
-![CAD](./CAD/octopus_din_bracket.step)
