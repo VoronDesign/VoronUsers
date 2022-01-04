@@ -4,7 +4,7 @@ This is a modified version of the raspberrypi_bracket for the VORON Trident. Use
 
 DIN Rail Install:
 
- The STL file for the pcb_din_clip_v2 is located on GitHub at VoronDesign/Voron-Trident/STLs/ElectronicsBay/
+ The STL file for the pcb_din_clip_v2 is located on GitHub at [VoronDesign/Voron-Trident/STLs/ElectronicsBay/](https://github.com/VoronDesign/Voron-Trident/tree/main/STLs/ElectronicsBay)
   
  Use six(6):M2x10 Self-Tapping Screws to mount the bracket to the din clip and then the RPi Zero to the bracket. Note that these fasteners are included in the VORON Trident BOM.
 
