@@ -6,5 +6,5 @@ This should not be use as an indicator for the right tension, you should tension
 
 Print using any filament.  :D
 
-![](BeltTensionEqualizer.png)
-![](BeltTensionEqualizer.jpg)
+![](images/BeltTensionEqualizer.png)
+![](images/BeltTensionEqualizer.jpg)
