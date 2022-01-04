@@ -5,8 +5,9 @@ What to Print
 
 <table width=100% border=1> 
 <TR>
-<TD align="center" width=50% bgcolor="black"><font color="white"><B>Hotend</TD>
-<TD align="center" width=50% bgcolor="black"><B><font color="white">Parts</TD>
+<TD align="center" bgcolor="black"><font color="white"><B>Hotend</TD>
+<TD align="center" bgcolor="black"><B><font color="white">Parts</TD>
+<TD align="center" width=100% bgcolor="black"><B><font color="white">Notes</TD>
 </TR>
 <TR>
 <TD align="center" width=50%>Dragon<BR>(2.4 and Trident)</TD>
@@ -15,7 +16,9 @@ What to Print
 <BR>duct_dragon_v1.037_right.stl
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
-</TR><TR>
+<TD></TD>
+</TR>
+<TR>
 <TD align="center" width=50%>Dragon<BR>(Voron 1.8)</TD>
 <TD align="center" width=50%>Hotend_Mount_Dragon_v1.040.stl
 <BR>Duct_v1.037_Left_+2mm.stl
@@ -31,6 +34,7 @@ Hotend_Mount_Dragon_v1.040.stl
 <BR>duct_dragon_crazy_volcano_v0.3e_right.stl
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
+<TD></TD>
 </TR>
 <TR>
 <TD align="center" width=50%>Rapido HF</TD>
@@ -40,6 +44,7 @@ Hotend_Mount_Rapido_v.03.stl
 <BR>duct_rapido_HF_v0.03_right.stl
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
+<TD></TD>
 </TR>
 <TR>
 <TD align="center" width=50%>Rapido UHF</TD>
@@ -49,6 +54,7 @@ Hotend_Mount_Rapido_v.03.stl
 <BR>duct_rapido_UHF_v0.03_right.stl
 <BR>Magprobe_v0.31_RapidoUHF.stl
 </TD>
+<TD>Because the Rapido uses FOUR screws on the top of the heatsink, and THREE screws to mount the heater to the heatsink, the orientation of the hotend mount versus the heater wire can vary.  The Part cooling ducts for Rapido have been optimized so that the Phaetus logo on the sock should point directly forward (yes the sock is asymmetrical).  Print the hotend mount that allows you to mount the Rapido hotend so that the wires come out right and forward and the logo of the sock faces directly forward. </TD>
 </TR>
 </Table>
 
