@@ -7,7 +7,7 @@ What to Print
 <TR>
 <TD align="center" bgcolor="black"><font color="white"><B>Hotend</TD>
 <TD align="center" bgcolor="black"><B><font color="white">Parts</TD>
-<TD align="center" width=100% bgcolor="black"><B><font color="white">Notes</TD>
+<TD align="center" width=50% bgcolor="black"><B><font color="white">Notes</TD>
 </TR>
 <TR>
 <TD align="center" width=50%>Dragon<BR>(2.4 and Trident)</TD>
