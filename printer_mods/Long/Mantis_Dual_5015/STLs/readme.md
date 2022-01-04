@@ -54,7 +54,7 @@ Hotend_Mount_Rapido_v.03.stl
 <BR>duct_rapido_UHF_v0.03_right.stl
 <BR>Magprobe_v0.31_RapidoUHF.stl
 </TD>
- <TD>See the RapidoHF notes on which hotend mount to print</TD>
+ <TD>See the RapidoHF notes on which hotend mount to print.<BR>Don't forget you will need to switch between magprobes if you switch between UHF and HF variant of the Rapido.</TD>
 </TR>
 </Table>
 
