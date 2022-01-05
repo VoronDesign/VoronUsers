@@ -9,7 +9,7 @@ Please find attached my exhaust adapter to a 100 mm ventilation system. The adap
 Printing succesful with standard VORON settings. Support should not be required, as dedicated structure has been added for increased rigidity and to avoid necessary support structures.
 
 Use the following *.stl file for realization in one print:
-- ![VORON2_v2.4_Exhaust_Adapter_100mm_RC3.stl](STL/VORON2_v2.4_Exhaust_Adapter_100mm_RC3.stl) 
+- [VORON2_v2.4_Exhaust_Adapter_100mm_RC3.stl](STL/VORON2_v2.4_Exhaust_Adapter_100mm_RC3.stl) 
 
 ![Exhaust Adapter ISO View](Images/Exhaust_Adapter_ISO.png)  
 ![Exhaust Adapter Side View](Images/Exhaust_Adapter_sideview.png)  
