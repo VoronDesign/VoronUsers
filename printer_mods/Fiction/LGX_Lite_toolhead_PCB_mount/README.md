@@ -9,11 +9,12 @@ Use with Mrgl-Mrgl's LGX Lite and cable chain mounts https://github.com/Mrgl-Mrg
 
 ## Notes
 - install the threaded inserts from the flat side of the mount. This will leave some plastic between the threaded insert and the PCB to prevent damage to traces etc
+- use the spacer or washers between the mount and the LGX Lite body to avoid interference with the gears
 
 ## Images
 ![](./Images/LGX_Lite_toolhead_PCB_mount_photo_01.jpg)
 ![](./Images/LGX_Lite_toolhead_PCB_mount_01.png)
-![](./Images/LGX_Lite_toolhead_PCB_mount_02.png)
-![](./Images/LGX_Lite_toolhead_PCB_mount_03.png)
+![](./Images/LGX_Lite_toolhead_PCB_mount_05.png)
+![](./Images/LGX_Lite_toolhead_PCB_mount_06.png)
 
 Fiction#5826 on Discord
