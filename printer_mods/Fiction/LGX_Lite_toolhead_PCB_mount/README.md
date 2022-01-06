@@ -16,3 +16,5 @@ Use with Mrgl-Mrgl's LGX Lite and cable chain mounts https://github.com/Mrgl-Mrg
 ![](./Images/LGX_Lite_toolhead_PCB_mount_02.png)
 ![](./Images/LGX_Lite_toolhead_PCB_mount_03.png)
 ![](./Images/LGX_Lite_toolhead_PCB_mount_04.png)
+
+Fiction#5826 on Discord
