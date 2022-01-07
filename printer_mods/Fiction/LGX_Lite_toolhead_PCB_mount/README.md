@@ -3,7 +3,7 @@ Use with Mrgl-Mrgl's LGX Lite and cable chain mounts https://github.com/Mrgl-Mrg
 
 ## Fasteners
 - 2 x M3x5x4 threaded inserts (the standard Voron M3 threaded inserts)
-- 2 x M3x8 countersunk socket head screws to attach the toolhead PCB mount to the LGX Lite body
+- 2 x M3x8 countersunk socket head screws to attach the toolhead PCB mount to the LGX Lite body side (with square nuts installed)
 - 2 x M3x8 socket head cap screws to attach the toolhead PCB to the mount (use plastic washers)
 - 2 x M3 plastic washers
 
@@ -13,6 +13,7 @@ Use with Mrgl-Mrgl's LGX Lite and cable chain mounts https://github.com/Mrgl-Mrg
 
 ## Images
 ![](./Images/LGX_Lite_toolhead_PCB_mount_photo_01.jpg)
+![](./Images/LGX_Lite_toolhead_PCB_mount_07.png)
 ![](./Images/LGX_Lite_toolhead_PCB_mount_01.png)
 ![](./Images/LGX_Lite_toolhead_PCB_mount_05.png)
 ![](./Images/LGX_Lite_toolhead_PCB_mount_06.png)
