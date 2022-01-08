@@ -1,0 +1,4 @@
+if fans[5].actualValue == 1
+	M106 P5 S0
+else 
+	M106 P5 S1

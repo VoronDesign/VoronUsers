@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+<svg xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#" xmlns="http://www.w3.org/2000/svg" xmlns:cc="http://creativecommons.org/ns#" xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd" xmlns:svg="http://www.w3.org/2000/svg" xmlns:ns1="http://sozi.baierouge.fr" xmlns:xlink="http://www.w3.org/1999/xlink" id="svg2" sodipodi:docname="Молния.svg" viewBox="0 0 103.76 250" version="1.1" inkscape:version="0.47 r22583">
+  <sodipodi:namedview id="base" inkscape:zoom="0.98994949" borderopacity="1.0" inkscape:current-layer="layer1" inkscape:cx="91.673682" inkscape:cy="51.21386" inkscape:object-paths="true" inkscape:window-maximized="1" showgrid="false" inkscape:snap-global="true" showguides="false" bordercolor="#666666" inkscape:window-x="-4" inkscape:guide-bbox="true" inkscape:window-y="-4" inkscape:window-width="1280" inkscape:pageopacity="0.0" inkscape:pageshadow="2" pagecolor="#ffffff" inkscape:document-units="px" inkscape:window-height="904" showborder="false">
+    <sodipodi:guide id="guide2889" position="402.6195,52.275397" orientation="-0.5,0.8660254"/>
+    <sodipodi:guide id="guide2891" position="405.39742,37.123107" orientation="-0.5,0.8660254"/>
+    <sodipodi:guide id="guide2893" position="281.32421,-103.03556" orientation="-0.96592583,0.25881905"/>
+    <sodipodi:guide id="guide2895" position="281.32421,-103.03556" orientation="-0.92050485,0.39073113"/>
+    <sodipodi:guide id="guide2897" position="345.83313,-103.03556" orientation="-0.95630476,0.2923717"/>
+    <sodipodi:guide id="guide2899" position="345.83313,-103.03556" orientation="-0.99254615,0.12186934"/>
+    <sodipodi:guide id="guide2901" position="330.47599,109.6646" orientation="0,1"/>
+    <sodipodi:guide id="guide2903" position="345.83299,-103.03556" orientation="-0.98480775,-0.17364818"/>
+    <sodipodi:guide id="guide2905" position="345.83313,-103.03556" orientation="-0.81915204,0.57357644"/>
+    <sodipodi:guide id="guide2907" position="386.07826,-50.886433" orientation="-0.57357644,0.81915204"/>
+    <sodipodi:guide id="guide2909" position="333.55032,-45.961943" orientation="-0.81915204,-0.57357644"/>
+  </sodipodi:namedview>
+  <g id="layer1" inkscape:label="Layer 1" inkscape:groupmode="layer" transform="translate(-34.524 -26.312)">
+    <path id="path2913" sodipodi:nodetypes="cccccccccccc" style="fill:#ff0000" d="m84.815 276.31-10.951-62.1 12.1 17.28 15.276-88.98-66.716 38.52l41.457-154.72h39.53l-43.629 113.46 66.399-38.336-34.333 132.84 19.569-13.227-38.702 55.272"/>
+  </g>
+  <metadata>
+    <rdf:RDF>
+      <cc:Work>
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+        <cc:license rdf:resource="http://creativecommons.org/licenses/publicdomain/"/>
+        <dc:publisher>
+          <cc:Agent rdf:about="http://openclipart.org/">
+            <dc:title>Openclipart</dc:title>
+          </cc:Agent>
+        </dc:publisher>
+        <dc:title>Electric sign «lightning»</dc:title>
+        <dc:date>2010-07-05T22:30:14</dc:date>
+        <dc:description>?? ?????</dc:description>
+        <dc:source>https://openclipart.org/detail/70501/electric-sign-«lightning»-by-rones</dc:source>
+        <dc:creator>
+          <cc:Agent>
+            <dc:title>rones</dc:title>
+          </cc:Agent>
+        </dc:creator>
+        <dc:subject>
+          <rdf:Bag>
+            <rdf:li>electicity</rdf:li>
+            <rdf:li>electro</rdf:li>
+            <rdf:li>lighting</rdf:li>
+            <rdf:li>sigh</rdf:li>
+            <rdf:li>symbol</rdf:li>
+          </rdf:Bag>
+        </dc:subject>
+      </cc:Work>
+      <cc:License rdf:about="http://creativecommons.org/licenses/publicdomain/">
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Reproduction"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#Distribution"/>
+        <cc:permits rdf:resource="http://creativecommons.org/ns#DerivativeWorks"/>
+      </cc:License>
+    </rdf:RDF>
+  </metadata>
+</svg>
