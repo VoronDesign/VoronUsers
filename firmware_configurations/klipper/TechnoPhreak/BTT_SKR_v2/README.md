@@ -4,21 +4,10 @@ This config file is for using two BigTreeTech SKR v2 boards on the Voron V2.4. F
 
 https://github.com/bigtreetech/SKR-2/
 
-## Design goals ##
-* Provide working configuration for Big Tree Tech SKR v2 mainboard
-* Use SKR v2 connections as they were intented when possible
-* Use same connections as SKR v1.4 when possible
-
-## Additional instructions ##
-
-When building the Klipper firmware image, select the correct processor options as follow:
-* Micro-controller Architechture: STMicroelectronics STM32
-* Processor Model: STM32F407
-* Bootloader offset: 32KiB bootloader
-* Clock Reference: 8Mhz crystal
-
-![Klipper Build Menuconfig](Klipper-menuconfig.png)
-
+## Design Goals ##
+* Provide working & tested configuration for using 2 x BigTreeTech SKR v2 mainboards
+* Use SKR v2 pins as they were intented when possible
+* Use same pins as SKR v1.4 when possible
 
 ## IMPORTANT NOTES ##
 
@@ -38,4 +27,14 @@ When building the Klipper firmware image, select the correct processor options a
 ## Wiring Instructions ##
 ![SKR2 - MCU X/Y/E Wiring](SKR2-MCUXYE-wiring.jpg)
 ![SKR2 - MCU X/Y/E Wiring](SKR2-MCUZ-wiring.jpg)
+
+## Compiler Instructions ##
+
+When building the Klipper firmware image, select the correct processor options as follow:
+* Micro-controller Architechture: STMicroelectronics STM32
+* Processor Model: STM32F407
+* Bootloader offset: 32KiB bootloader
+* Clock Reference: 8Mhz crystal
+
+![Klipper Build Menuconfig](Klipper-menuconfig.png)
 
