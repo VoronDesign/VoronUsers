@@ -34,8 +34,12 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 
 ### Printing instructions
 1. Normal Voron print settings. You can drop the infill percentage on the inserts if you want as the 4 perimeters are what take the load.
-2. Print a set of Inserts and your choice of XY Joints
+2. Print a set of Inserts
     - If you're going to use cable chains, be sure to print the correct insert with support for heatsets.
+3. Print a set of XY joints.
+    - Use the Pinned set for the Hartk mod or if you're going to use carbon fiber pins.
+    - You can't reuse your existing ones as they have bits that are designed to go into the slot of a 2020 extrusion.
+4. Print 2-3 [MGN12 rail positioning tools](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/MGN12_rail_guide_x2.stl).
 
 ### Insert Assembly
 1. Slide an M5 tnut into each hole.
