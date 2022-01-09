@@ -6,27 +6,28 @@ Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion a
 Go full weight weenie and replace your idler bolts/pins with carbon fiber too. Carbon fiber everywhere!
 
 ## BOM
-    Required:
-    - 20x20x18mm Carbon Fiber Square Tube
-        - ⚠️Do not buy pullstruded tube for this⚠️
-        - [DroneBuildz (US)](https://dronebuildz.com/collections/flight-controller/products/carbon-fiber-square-tube-grcf-1000mm)
-        - [AliExpress](https://www.aliexpress.com/item/32946654825.html)
-    - 6x M5 tnuts
-        - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
-    - 8+ M3 Flanged Locknuts
-        - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
-    - 8+ M3x10 Socket Head Cap Screws
-    - Blue (Medium) Loctite
-    - Mask or Respirator. Silicosis isn't fun.
+Required:
+- 20x20x18mm Carbon Fiber Square Tube
+    - ⚠️Do not buy pullstruded tube for this⚠️
+    - [DroneBuildz (US)](https://dronebuildz.com/collections/flight-controller/products/carbon-fiber-square-tube-grcf-1000mm)
+    - [AliExpress](https://www.aliexpress.com/item/32946654825.html)
+- 6x M5 tnuts
+    - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
+- 8+ M3 Flanged Locknuts
+    - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
+- 8+ M3x10 Socket Head Cap Screws
+- Blue (Medium) Loctite
+- Mask or Respirator. Silicosis isn't fun.
 
-    Optional:
-    - 2x M3 Heatset Inserts for Cable Chain mount
-        - TODO: Instructions for drilling holes for these.
-    - 5mm OD Carbon Fiber Tube or Rod
-        - TODO: Instructions for lengths
+Optional:
+- 2x M3 Heatset Inserts for Cable Chain mount
+    - TODO: Instructions for drilling holes for these.
+- 5mm OD Carbon Fiber Tube or Rod
+    - 4x cut to 40mm
 
 ## Results
 The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
+
 ![Weight Comparsion](Images/weights.jpg)
 
 ## Instructions
