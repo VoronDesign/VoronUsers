@@ -1,14 +1,14 @@
 Mods by TheWarolf
 ============
-![](images/hotend_mount_filament_sensor_mounted.jpg)
+<image src="images/hotend_mount_filament_sensor_mounted.jpg" height=50%>
   
 Info
 -----------------
 **ERCF Sensor**
 <table width=100%>
 <TR>
-<TD>![](images/hotend_mount_filament_sensor.jpg)</TD>
-<TD>![](images/hotend_mount_filament_sensor_section_view.png)</TD>
+<TD><image src="images/hotend_mount_filament_sensor.jpg"></TD>
+<TD><image src="images/hotend_mount_filament_sensor_section_view.png"></TD>
 </TR>
 </TABLE>
 - BOM:
@@ -20,8 +20,8 @@ Info
 **Sailfin Carriage**
 <table width=100%>
 <TR>
-<TD>![](images/mantis_sailfin.png)</TD>
-<TD>![](images/sailfin_mgn12_carriage.png)</TD>
+<TD><image src="images/mantis_sailfin.png"></TD>
+<TD><image src="images/sailfin_mgn12_carriage.png"></TD>
 </TR>
 </TABLE>
 - Modifies the MGN12 carriage slightly to allow mounting of the [Sailfin extruder](https://github.com/CroXY3D/Sailfin-Extruder).
