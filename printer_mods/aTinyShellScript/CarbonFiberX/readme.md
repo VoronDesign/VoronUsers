@@ -18,11 +18,11 @@ Required:
     - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
 - 8+ M3 Flanged Locknuts
     - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
-- 8+ M3x10 Socket Head Cap Screws
-- 4x M5x12 Button Head Cap Screws
-- 2x M5x30 Button Head Cap Screws
+- 8+ M3x10 Socket Head Cap Screws (Rail mounting)
+- 4x M5x12 Button Head Cap Screws (Top XY Joint)
+- 2x M5x30 Button Head Cap Screws (Bottom XY Joint)
 - Blue (Medium) Loctite
-- Mask or Respirator. Silicosis isn't fun.
+- Mask or Respirator. Don't breathe in carbon fiber dust, please.
 
 Optional:
 - 2x M3 Heatset Inserts for Cable Chain mount
@@ -38,7 +38,8 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 ## Instructions
 
 ### Printing instructions
-1. Normal Voron print settings. You can drop the infill percentage on the inserts if you want as the 4 perimeters are what take the load.
+1. Normal Voron print settings. 
+    - You can drop the infill percentage on the inserts if you want as the 4 perimeters are what take the load.
 2. Print a set of Inserts
     - If you're going to use cable chains, be sure to print the correct insert with support for heatsets.
 3. Print a set of XY joints.
@@ -102,12 +103,27 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
     - Using a hex driver or something flat may be needed to pop it off the last nut.
     - If you need to remove your rail, you will be able to use the nut holder and the spacer.
 6. Repeat for the other side of the rail.
-7. You're done!
 
-### Carbon Fiber Pins
-1. TODO: yes
+### Carbon Fiber Pins (TODO)
+1. Cut pins to 40mm
+2. ???
+3. +5 Horsepower
+
+### Mounting to Printer
+1. Remove your current aluminum extrusion and XY joints.
+2. Leave the bottom printed part on both ends of the extrusion.
+3. Swap over your idler pulleys and mounting hardware.
+4. Using your old extrusion, adjust the overall length of the new carbon fiber tube.
+    - Put long M3 bolts through the MGN9 mounting holes on the new and old extrusions.
+    - If they match up, then there is no adjustment needed.
+    - If they don't, loosen the mounting bolts on the new extrusion and adjust.
+    - If you're significantly off, you may have measured incorrectly somewhere along the lines. :rip:
+    <p align="left">
+    <img src="Images/Length_Test.jpg" alt="Testing Length" class="center" style="width:800px;"/>
+    </p>
+5. Mount onto rails in the printer.
+    - Do the normal racking adjustments.
+6. Hook everything else back up. Good job!
 
 ## Questions
 Reach me in Voron's [Discord](https://discord.gg/xgXWctB) @aTinyShellScript#3121 if you have any questions.
-
-## Images
