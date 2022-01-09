@@ -66,7 +66,9 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 7. Using a small (~1/8") drill bit in a drill press, drill pilot holes at your marked points.
 8. Drill your final holes using an oversized (~1/4") drill bit.
     - Using an oversized drill bit will give you wiggle room in case your measurements are a bit off.
-    - TODO: Insert image.
+    <p align="left">
+    <img src="Images/XY_Drill.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
+    </p>
 9. (Optional) If using cable chains, use your insert as a template for where to drill the mounting holes.
     - Use an 1/8" drill bit for these holes.
 
