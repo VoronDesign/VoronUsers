@@ -21,13 +21,46 @@ Required:
 - 8+ M3x10 Socket Head Cap Screws (Rail mounting)
 - 4x M5x12 Button Head Cap Screws (Top XY Joint)
 - 2x M5x30 Button Head Cap Screws (Bottom XY Joint)
+<p align="left">
+    <img src="Images/Hardware.jpg" alt="Hardware" class="center" style="width:500px;"/>
+</p>
 - Blue (Medium) Loctite
-- Mask or Respirator. Don't breathe in carbon fiber dust, please.
 
 Optional:
 - 2x M3 Heatset Inserts for Cable Chain mount
 - 5mm OD Carbon Fiber Tube or Rod
     - 4x cut to 40mm
+
+## Tools Required
+- Mask or Respirator
+    - Don't breathe in carbon fiber dust, please.
+- Safety Goggles
+- Drill Press
+    - Don't use a hand drill.
+- Drill Bits:
+    - 'Small': 3.5mm OR 1/8"
+    - 'Large': 6.5mm OR 1/4"
+- Hex Drivers
+    - 2.5mm for M3
+    - 3.0mm for M5
+- Saw
+    - If you're going to use a hacksaw, a mitre box can help keep your cut straight.
+    - A mitre saw is the best way to go, if you have a blade that will work.
+- Fine Grit Sandpaper
+- Blue Painters Tape
+
+## Carbon Fiber Safety
+- Do it outside if at all possible
+- Always wear a mask and safety goggles
+- Wear a long sleeved shirt and gloves to protect your skin
+
+## Tips for Drilling/Cutting
+- Use a fine/extrafine toothed saw blade.
+- Use carbide tipped drill bits.
+    - HSS bits will wear out quick.
+- Run your drill press at high speed (3000-5000rpm) and cut slowly, using low pressure.
+- Cover the area you are going to cut in blue painters tape to help avoid delamination.
+- Use sandpaper to smooth out the edges of the cut.
 
 ## Results
 The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
@@ -64,14 +97,14 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 5. Mark and measure 7.65mm and 23.15mm from both ends on the top of the tube.
 6. Mark and measure 7.65mm from both ends on the bottom of the tube.
 7. ⚠️Put on your mask! Don't inhale carbon dust, it is not good for you.⚠️
-8. Using a small (~1/8") drill bit in a drill press, drill pilot holes at your marked points.
-9. Drill your final holes using an oversized (~1/4") drill bit.
+8. Using the 'small' drill bit in a drill press, drill pilot holes at your marked points.
+9. Drill your final holes using the 'large' drill bit.
     - Using an oversized drill bit will give you wiggle room in case your measurements are a bit off.
     <p align="left">
     <img src="Images/XY_Drill.jpg" alt="Tube After XY Holes Drilled" class="center" style="width:800px;"/>
     </p>
 10. (Optional) If using cable chains, use your insert as a template for where to drill the mounting holes.
-    - Use an 1/8" drill bit for these holes. You can use a slightly larger bit if you think you need wiggle room for mounting.
+    - Use the 'small' drill bit for these holes. You can use a slightly larger bit if you think you need wiggle room for mounting.
 
 ### Rail Holes
 1. Install the inserts and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
@@ -83,7 +116,7 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
     </p>
 5. Either mark your holes or use the rail itself as a drill guide.
     - You only need a bolt in every other hole. If you start from each side, you'll end up with two side by side in the middle on a 350mm rail.
-6. Drill your holes with a 1/8" drill bit. No need for a pilot hole.
+6. Drill your holes with the 'small' drill bit. No need for a pilot hole.
 7. Clean up.
     - Remove rail
     - Remove XY Joints
@@ -117,7 +150,7 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
     - Put long M3 bolts through the MGN9 mounting holes on the new and old extrusions.
     - If they match up, then there is no adjustment needed.
     - If they don't, loosen the mounting bolts on the new extrusion and adjust.
-    - If you're significantly off, you may have measured incorrectly somewhere along the lines. :rip:
+    - If you're significantly off, you may have measured incorrectly somewhere along the lines. ⚰️
     <p align="left">
     <img src="Images/Length_Test.jpg" alt="Testing Length" class="center" style="width:800px;"/>
     </p>
