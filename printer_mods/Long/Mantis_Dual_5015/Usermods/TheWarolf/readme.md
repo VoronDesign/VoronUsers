@@ -1,10 +1,9 @@
-Mods by TheWarolf
+ERCF Filament Sensor and Sailfin Extruder Mods by TheWarolf
 ============
 <image src="images/hotend_mount_filament_sensor_mounted.jpg" height=50% width=50%>
   
-Info
+**ERCF Filament Sensor**
 -----------------
-**ERCF Sensor**
 <table width=100%>
 <TR>
 <TD width=50%><image src="images/hotend_mount_filament_sensor.jpg"></TD>
@@ -16,8 +15,9 @@ Info
     - Used to secure the switch to the body and to act as a "fine tuning" point on the pressure on the ball
   - 7mm ball bearing
   
-![](sailfin_mgn12_carriage.png)
+  
 **Sailfin Carriage**
+-----------------
 <table width=100%>
 <TR>
 <TD width=50%><image src="images/mantis_sailfin.png"></TD>
