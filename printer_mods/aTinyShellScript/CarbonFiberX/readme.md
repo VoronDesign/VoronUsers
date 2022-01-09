@@ -1,4 +1,5 @@
 # Carbon Fiber X Extrusion for MGN12
+![Running](Images/Main.jpg | width=800)
 
 ## Overview
 Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion and it looks cool. Probably gives your printer +5 Horsepower.
@@ -28,7 +29,7 @@ Optional:
 ## Results
 The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
 
-![Weight Comparsion](Images/weights.jpg)
+![Weight Comparsion](Images/weights.jpg | width=800)
 
 ## Instructions
 
