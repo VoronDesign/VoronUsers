@@ -8,6 +8,7 @@
 |Henrikssn|[ToolheadPCB](Henrikssn/Toolhead_PCB/)|Custom Mantis Toolhead PCB |
 | | [MGN9 Klicky](Henrikssn/MGN9_Klicky) | Modified MGN9 Carriage that works with Josar's Klicky Probe|
 | | [MGN9 Belt Clamp T-nut](Henrikssn/belt_clamp_t_nut_by_Henrikssn.stl) | Use twist in t-nut instead of makerbeam t-nut for MGN9 carriage |
+|TheWarolf|[ERCF Sensor and Sailfin Carriage](TheWarolf/)|Hotend mount mod to add an ERCF Sensor.  Also, a modified MGN12 carriage to allow usage of a Sailfin Extruder instead of the Sherpa Mini. |
 |Wingzero|[Mosquito Hotend Mount](Wingzero/)|Mount a Mosquito hotend with Mantis |
 
 
