@@ -78,12 +78,12 @@ Optional:
 ## Instructions
 
 ### Printing instructions
-1. Normal Voron print settings. 
+1. Normal Voron [print settings](https://docs.vorondesign.com/sourcing.html#print-settings). 
     - You can drop the infill percentage on the inserts if you want as the 4 perimeters are what take the load.
-2. Print a set of Inserts
+2. Print a set of [Inserts](STLs/Inserts).
     - If you're going to use cable chains, be sure to print the correct insert with support for heatsets.
-3. Print a set of XY joints.
-    - Use the Pinned set for the Hartk mod or if you're going to use carbon fiber pins.
+3. Print a set of [XY joints](STLs/XYjoints).
+    - Use the Pinned set for the Hartk pins mod or if you're going to use carbon fiber pins.
     - You can't reuse your existing ones as they have bits that are designed to go into the slot of a 2020 extrusion.
 4. Print 2-3 [MGN12 rail positioning tools](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/MGN12_rail_guide_x2.stl).
 
