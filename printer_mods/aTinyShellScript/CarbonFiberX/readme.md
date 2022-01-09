@@ -22,7 +22,7 @@ Required:
 - 4x M5x12 Button Head Cap Screws (Top XY Joint)
 - 2x M5x30 Button Head Cap Screws (Bottom XY Joint)
 <p align="left">
-    <img src="Images/Hardware.jpg" alt="Hardware" class="center" style="width:500px;"/>
+    <img src="Images/hardware.jpg" alt="Hardware" class="center" style="width:500px;"/>
 </p>
 - Blue (Medium) Loctite
 
