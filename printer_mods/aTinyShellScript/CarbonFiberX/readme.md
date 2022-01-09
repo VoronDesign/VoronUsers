@@ -1,6 +1,6 @@
 # Carbon Fiber X Extrusion for MGN12
 <p align="center">
-    <img src="Images/Main.jpg" alt="Running" class="center" style="width:800px;"/>
+    <img src="Images/Main_alt.jpg" alt="Running" class="center" style="width:800px;"/>
 </p>
 
 ## Overview
@@ -19,6 +19,8 @@ Required:
 - 8+ M3 Flanged Locknuts
     - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
 - 8+ M3x10 Socket Head Cap Screws
+- 4x M5x12 Button Head Cap Screws
+- 2x M5x30 Button Head Cap Screws
 - Blue (Medium) Loctite
 - Mask or Respirator. Silicosis isn't fun.
 
@@ -76,11 +78,14 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 1. Install the inserts and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
 2. Apply blue painters tape to the face of your tube.
 3. Using the centering tools, set your MGN12 rail on the face of the tube, centered between the two sides.
-    - TODO: Insert image.
-4. Either mark your holes or use the rail itself as a drill guide.
+4. Use blue painters tape to secure the rail to the tube, to stop it from moving side-to-side.
+    <p align="left">
+    <img src="Images/Rail_Centered.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
+    </p>
+5. Either mark your holes or use the rail itself as a drill guide.
     - You only need a bolt in every other hole. If you start from each side, you'll end up with two side by side in the middle on a 350mm rail.
-5. Drill your holes with a 1/8" drill bit. No need for a pilot hole.
-6. Clean up.
+6. Drill your holes with a 1/8" drill bit. No need for a pilot hole.
+7. Clean up.
     - Remove rail
     - Remove XY Joints
     - Remove inserts
