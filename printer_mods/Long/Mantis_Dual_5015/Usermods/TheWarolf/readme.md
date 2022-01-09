@@ -1,7 +1,7 @@
 
 ERCF Filament Sensor and Sailfin Extruder Mods by TheWarolf
 ============
-<CENTER><image src="images/hotend_mount_filament_sensor_mounted.jpg" height=50% width=50%></CENTER>
+<TABLE><TR><TD align="CENTER" width=25%><image src="images/hotend_mount_filament_sensor_mounted.jpg" width=25%></TD></TR></TABLE>
   
 **ERCF Filament Sensor**
 -----------------
