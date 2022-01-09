@@ -8,6 +8,12 @@ Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion a
 
 Go full weight weenie and replace your idler bolts/pins with carbon fiber too. Carbon fiber everywhere!
 
+## Results
+The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
+<p align="center">
+    <img src="Images/weights.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
+</p>
+
 ## BOM
 Required:
 - 20x20x18mm Carbon Fiber Square Tube
@@ -68,12 +74,6 @@ Optional:
 - Run your drill press at high speed (3000-5000rpm) and cut slowly, using low pressure.
 - Cover the area you are going to cut in blue painters tape to help avoid delamination.
 - Use sandpaper to smooth out the edges of the cut.
-
-## Results
-The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
-<p align="center">
-    <img src="Images/weights.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
-</p>
 
 ## Instructions
 
