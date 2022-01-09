@@ -3,25 +3,27 @@
 ## Overview
 Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion and it looks cool. Probably gives your printer +5 Horsepower.
 
+Go full weight weenie and replace your idler bolts/pins with carbon fiber too. Carbon fiber everywhere!
+
 ## BOM
-⚠️<span style="color:red">DO NOT BUY PULLSTRUDED TUBE!!!</span>⚠️
-- 20x20x18mm Carbon Fiber Square Tube 
-    - [DroneBuildz (US)](https://dronebuildz.com/collections/flight-controller/products/carbon-fiber-square-tube-grcf-1000mm)
-    - [AliExpress](https://www.aliexpress.com/item/32946654825.html)
+    Required:
+    - 20x20x18mm Carbon Fiber Square Tube
+        - ⚠️Do not buy pullstruded tube for this⚠️
+        - [DroneBuildz (US)](https://dronebuildz.com/collections/flight-controller/products/carbon-fiber-square-tube-grcf-1000mm)
+        - [AliExpress](https://www.aliexpress.com/item/32946654825.html)
+    - 6x M5 tnuts
+        - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
+    - 8+ M3 Flanged Locknuts
+        - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
+    - 8+ M3x10 Socket Head Cap Screws
+    - Blue (Medium) Loctite
+    - Mask or Respirator. Silicosis isn't fun.
 
-⚠️<span style="color:red">DO NOT BUY PULLSTRUDED TUBE!!!</span>⚠️
-- 6x M5 tnuts
-    - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
-- 8+ M3 Flanged Locknuts
-    - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
-- 8+ M3x8 Socket Head Cap Screws
-- 2x M3 Heatset Inserts (optional)
-    - TODO: Instructions for drilling holes for these.
-- Blue (Medium) Loctite
-- N95 mask. Silicosis isn't fun.
-
-## Printing instructions
-Normal Voron print settings. You can drop the infill percentage on the inserts if you want as the 4 perimeters are what take the load.
+    Optional:
+    - 2x M3 Heatset Inserts for Cable Chain mount
+        - TODO: Instructions for drilling holes for these.
+    - 5mm OD Carbon Fiber Tube or Rod
+        - TODO: Instructions for lengths
 
 ## Results
 The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
@@ -29,9 +31,15 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 
 ## Instructions
 
+### Printing instructions
+1. Normal Voron print settings. You can drop the infill percentage on the inserts if you want as the 4 perimeters are what take the load.
+2. Print a set of Inserts and your choice of XY Joints
+    - If you're going to use cable chains, be sure to print the correct insert with support for heatsets.
+
 ### Insert Assembly
 1. Slide an M5 tnut into each hole.
 2. With an M5 bolt holding the tnut in place over the hole, use tools to spin the tnut 90 degrees.
+3. (Optional) Insert the M3 heatsets if you are using them.
 
 ### XY Joint Holes
 1. Cut your CF tube to size. For a 300mm sized 2.4/Trident, that is 380mm.
@@ -45,15 +53,16 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 5. Find and mark the center of the tube on the top and bottom.
     - You can use your rail and the centering tools to do this.
     - TODO: Insert image.
-6. ⚠️<span style="color:red">PUT ON YOUR MASK! Don't inhale carbon dust!</span>⚠️
+6. ⚠️Put on your mask! Don't inhale carbon dust, it is not good for you.⚠️
 7. Using a small (~1/8") drill bit in a drill press, drill pilot holes at your marked points.
 8. Drill your final holes using an oversized (~1/4") drill bit.
     - Using an oversized drill bit will give you wiggle room in case your measurements are a bit off.
     - TODO: Insert image.
-9. Insert your inserts
+9. (Optional) If using cable chains, use your insert as a template for where to drill the mounting holes.
+    - Use an 1/8" drill bit for these holes.
 
 ### Rail Holes
-1. Attach your XY joints temporarily.
+1. Install the inserts and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
 2. Apply blue painters tape to the face of your tube.
 3. Using the centering tools, set your MGN12 rail on the face of the tube, centered between the two sides.
     - TODO: Insert image.
@@ -79,6 +88,9 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 6. Repeat for the other side of the rail.
 7. You're done!
     - TODO: Insert image.
+
+### Carbon Fiber Pins
+1. TODO: yes
 
 ## Questions
 Reach me in Voron's [Discord](https://discord.gg/xgXWctB) @aTinyShellScript#3121 if you have any questions.
