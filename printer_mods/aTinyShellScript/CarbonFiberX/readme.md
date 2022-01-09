@@ -26,7 +26,6 @@ Required:
 
 Optional:
 - 2x M3 Heatset Inserts for Cable Chain mount
-    - TODO: Instructions for drilling holes for these.
 - 5mm OD Carbon Fiber Tube or Rod
     - 4x cut to 40mm
 
@@ -69,7 +68,7 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 8. Drill your final holes using an oversized (~1/4") drill bit.
     - Using an oversized drill bit will give you wiggle room in case your measurements are a bit off.
     <p align="left">
-    <img src="Images/XY_Drill.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
+    <img src="Images/XY_Drill.jpg" alt="Tube After XY Holes Drilled" class="center" style="width:800px;"/>
     </p>
 9. (Optional) If using cable chains, use your insert as a template for where to drill the mounting holes.
     - Use an 1/8" drill bit for these holes.
@@ -80,7 +79,7 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 3. Using the centering tools, set your MGN12 rail on the face of the tube, centered between the two sides.
 4. Use blue painters tape to secure the rail to the tube, to stop it from moving side-to-side.
     <p align="left">
-    <img src="Images/Rail_Centered.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
+    <img src="Images/Rail_Centered.jpg" alt="Rail Prepped for Drilling" class="center" style="width:800px;"/>
     </p>
 5. Either mark your holes or use the rail itself as a drill guide.
     - You only need a bolt in every other hole. If you start from each side, you'll end up with two side by side in the middle on a 350mm rail.
@@ -95,7 +94,10 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
 1. Using the centering tools, set your MGN12 rail on the face of the tube and align with the drilled holes
     - TODO: Insert image.
 2. Insert nuts into the Nut Holder and press them firmly into it.
-    - TODO: Insert image.
+    - Use pliers to fully seat the nuts into the holder, otherwise it will not fit into the tube.
+    <p align="left">
+    <img src="Images/Nut_Holder_Inserting.jpg" alt="Firmly Grasp It" class="center" style="width:800px;"/>
+    </p>
 3. Slide the Nut Holder and Spacer into the tube, aligning them with the drilled holes.
 4. Using Blue Loctite, screw in M3x8 bolts and tighten.
 5. Remove the spacer and press down on the nut holder. It should pop off the back of the nuts.
@@ -103,7 +105,6 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
     - If you need to remove your rail, you will be able to use the nut holder and the spacer.
 6. Repeat for the other side of the rail.
 7. You're done!
-    - TODO: Insert image.
 
 ### Carbon Fiber Pins
 1. TODO: yes
