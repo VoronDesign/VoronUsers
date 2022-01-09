@@ -18,8 +18,8 @@ decided to test a dust scrubber, and I am currently two spools in without a clog
 <h2>Assembly</h2>
 
 Assembly is quite simple; press fit or super glue the magnets into each hole, carefully paying attention to polarity. Cut up your chosen spongy material and fit
-it into each scrubby half. Place your scrubby halves together, sandwiching the filament between the halves. I put mine right against the bowden retainer, shown
-in the picture above.
+it into each scrubby half. Place your scrubby halves together, sandwiching the filament between the halves. You want enough sponge to get a nice drag on the filament
+to make sure it cleans it as best as possible. I put mine right against the bowden retainer, shown in the picture above.
 
 ![](./images/built.JPG)
 
