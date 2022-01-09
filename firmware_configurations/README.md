@@ -25,12 +25,14 @@ like so:
 
 ## Klipper
 
-| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW |
-| --- | --- | --- | --- | --- | --- | --- |
-| jaeger | [FYSETC Spider on V1.8](./klipper/jaeger/Spider_1.1_V1.8) | Example configuration and wiring diagram for a FYSETC Spider 1.1 board on the V1.8 | :x: | :heavy_check_mark: | :x: | :x: |
-| MarcPot | [Fysetc Spider Board Pins](./klipper/MarcPot/fysetc_spider_pins) | Defines a set of `[board_pins]` aliases for use with the Fysetc Spider controller | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| Mellow | [Fly-Super8 on V2.4](./klipper/Mellow/FLY-Super8) | Example configuration and wiring diagram for a FLY-Super8 board on the V2.4 | :x: | :x: | :heavy_check_mark: | :x: |
-| revnull | [BTT Octopus Board Pins](./klipper/revnull/btt_octopus_pins) | Defines a set of `[board_pins]` aliases for use with the BTT Octopus controller | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
+| Creator | Config title | Description | V0 | V1.8 | V2.4 | VSW | VT |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+| jaeger | [FYSETC Spider on V1.8](./klipper/jaeger/Spider_1.1_V1.8) | Example configuration and wiring diagram for a FYSETC Spider 1.1 board on the V1.8 | :x: | :heavy_check_mark: | :x: | :x: | :x: |
+| MarcPot | [Fysetc Spider Board Pins](./klipper/MarcPot/fysetc_spider_pins) | Defines a set of `[board_pins]` aliases for use with the Fysetc Spider controller | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| Mellow | [Fly-Super8 on V2.4](./klipper/Mellow/FLY-Super8) | Example configuration and wiring diagram for a FLY-Super8 board on the V2.4 | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| Mellow | [Fly-Gemini on v0](./klipper/Mellow/FLY-Gemini) | Sample configuration and wiring diagram of Fly-Gemini Linux integrated motherboard in v0 and v0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| revnull | [BTT Octopus Board Pins](./klipper/revnull/btt_octopus_pins) | Defines a set of `[board_pins]` aliases for use with the BTT Octopus controller | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :x: |
+| RealDeuce | [MKS Makerbase Monster8 v1.0_003](./klipper/RealDeuce/MKS-Makerbase/Monster8_v1.0_003/) | Configuration and instructions for installing an MKS Makerbase Monster8 board | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 ---
 
 ## RepRapFirmware
