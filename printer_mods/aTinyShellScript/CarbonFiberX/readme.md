@@ -56,22 +56,21 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
     - Unless you're very confident in your ability to cut square, cut it a little long and use a sanding block to get it to the correct length.
 2. Use a straight edge to identify the flatest face.
     - Mark this face, it will be the one the rail is mounted to.
-    - TODO: Insert image.
 3. Apply blue painters tape to the top and bottom ends of the tube.
-4. Mark and measure 7.65mm and 23.15mm from both ends on the top of the tube.
-    - Mark and measure 7.65mm from both ends on the bottom of the tube.
-5. Find and mark the center of the tube on the top and bottom.
+4. Find and mark the center of the tube on the top and bottom.
     - You can use your rail and the centering tools to do this.
     - TODO: Insert image.
-6. ⚠️Put on your mask! Don't inhale carbon dust, it is not good for you.⚠️
-7. Using a small (~1/8") drill bit in a drill press, drill pilot holes at your marked points.
-8. Drill your final holes using an oversized (~1/4") drill bit.
+5. Mark and measure 7.65mm and 23.15mm from both ends on the top of the tube.
+6. Mark and measure 7.65mm from both ends on the bottom of the tube.
+7. ⚠️Put on your mask! Don't inhale carbon dust, it is not good for you.⚠️
+8. Using a small (~1/8") drill bit in a drill press, drill pilot holes at your marked points.
+9. Drill your final holes using an oversized (~1/4") drill bit.
     - Using an oversized drill bit will give you wiggle room in case your measurements are a bit off.
     <p align="left">
     <img src="Images/XY_Drill.jpg" alt="Tube After XY Holes Drilled" class="center" style="width:800px;"/>
     </p>
-9. (Optional) If using cable chains, use your insert as a template for where to drill the mounting holes.
-    - Use an 1/8" drill bit for these holes.
+10. (Optional) If using cable chains, use your insert as a template for where to drill the mounting holes.
+    - Use an 1/8" drill bit for these holes. You can use a slightly larger bit if you think you need wiggle room for mounting.
 
 ### Rail Holes
 1. Install the inserts and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
@@ -91,8 +90,7 @@ The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti bac
     - Remove all tape
 
 ### Attaching Rail
-1. Using the centering tools, set your MGN12 rail on the face of the tube and align with the drilled holes
-    - TODO: Insert image.
+1. Using the centering tools, set your MGN12 rail on the face of the tube and align with the drilled holes.
 2. Insert nuts into the Nut Holder and press them firmly into it.
     - Use pliers to fully seat the nuts into the holder, otherwise it will not fit into the tube.
     <p align="left">
