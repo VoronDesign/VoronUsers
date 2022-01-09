@@ -1,9 +1,10 @@
 ﻿# Cover for extrusion with 6mm slot width
 
 Two simple files.
-One is simmetric and can be used for slots that are inside the printer.
-One isnt' simmetric and can be used on external frames, where there are clear panels.
-![](./images/simmetric.jpg)
+One is symmetric and can be used for slots that are inside the printer.
+One isn't symmetric and can be used on external frames, where there are clear panels.
+
+![](./images/symmetric.jpg)
 
 ![](./images/one_side.jpg)
 
