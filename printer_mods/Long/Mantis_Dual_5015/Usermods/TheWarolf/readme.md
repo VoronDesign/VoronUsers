@@ -24,7 +24,7 @@ ERCF Filament Sensor and Sailfin Extruder Mods by TheWarolf
 <TD width=50%><image src="images/sailfin_mgn12_carriage.png"></TD>
 </TR>
 </TABLE>
-- Modifies the MGN12 carriage slightly to allow mounting of the [Sailfin extruder](https://github.com/CroXY3D/Sailfin-Extruder).
+- Modifies the MGN12 carriage slightly to allow mounting of the Sailfin extruder (https://github.com/CroXY3D/Sailfin-Extruder).
   - Make sure to use the version compatible with the Sherpa Mini mounting points.
 - Note: this carriage has been modified to only use 1 set of magnets instead of the magnet stack for the mag probe..  
 
