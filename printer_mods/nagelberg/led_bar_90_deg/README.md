@@ -1,6 +1,6 @@
 Really simple way to mount LED bar angled down. You could easily re-use this mount for anything.
 
-# LED Bar BOM:
+# LED Bar BOM
 
 Mount alone:
 - 2x M3 heat inset
@@ -14,6 +14,8 @@ LED Bar:
 # Print Settings
 
 Same standard settings as 2.4 parts -- 40% infill, 0.2 height, 3 top/bottom are fine
+
+# Assembled
 
 Mount
 ![](./img/extrusion_mount.jpg)
