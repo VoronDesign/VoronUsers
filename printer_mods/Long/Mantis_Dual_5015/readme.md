@@ -82,6 +82,12 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+1/10/2022
+- Added Mods by TheWarolf
+  - ERCF Hotend mount which incorporates a filament sensor
+  - Modified MGN12 carriage which fits the sailfin extruder
+  - Umbilical mount which mates with the popular cable gland people have been using for umbilicals.
+        
 12-20-2021
 - Added CAD files for Mantis with Crazy Volcano and Rapido (note that rapido is still in development)
     
