@@ -1,4 +1,4 @@
-# Carbon Fiber X Extrusion for MGN12
+# Carbon Fiber X Extrusion for MGN12H
 <p align="center">
     <img src="Images/Main_alt.jpg" alt="Running" class="center" style="width:800px;"/>
 </p>
@@ -9,7 +9,7 @@ Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion a
 Go full weight weenie and replace your idler bolts/pins with carbon fiber too. Carbon fiber everywhere!
 
 ## Results
-The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber MGN12 with Pins Mod is almost 300g.
+The weight difference between a stock dual MGN9 300mm v2.4 X extrusion w/ Ti backer and the Carbon Fiber single MGN12H with Pins Mod is almost 300g.
 <p align="center">
     <img src="Images/weights.jpg" alt="Weight Comparsion" class="center" style="width:800px;"/>
 </p>
@@ -29,9 +29,9 @@ Required:
     - 400mm for a 350mm bed size
 - 6x M5 tnuts
     - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
-- 8+ M3 Flanged Locknuts
+- 7-10x M3 Flanged Locknuts
     - [Amazon](https://www.amazon.com/gp/product/B07XXRLMBB/)
-- 8+ M3x10 Socket Head Cap Screws (Rail mounting)
+- 7-10x M3x10 Socket Head Cap Screws (Rail mounting)
 - 4x M5x12 Button Head Cap Screws (Top XY Joint)
 - 2x M5x30 Button Head Cap Screws (Bottom XY Joint)
 <p align="left">
@@ -85,7 +85,7 @@ Optional:
 3. Print a set of [XY joints](STLs/XYjoints).
     - Use the Pinned set for the Hartk pins mod or if you're going to use carbon fiber pins.
     - You can't reuse your existing ones as they have bits that are designed to go into the slot of a 2020 extrusion.
-4. Print 2-3 [MGN12 rail positioning tools](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/MGN12_rail_guide_x2.stl).
+4. Print 2-3 [MGN12H rail positioning tools](https://github.com/VoronDesign/Voron-Trident/blob/main/STLs/Tools/MGN12_rail_guide_x2.stl).
 
 ### Insert Assembly
 1. Slide an M5 tnut into each hole.
@@ -116,7 +116,7 @@ Optional:
 ### Rail Holes
 1. Install the inserts and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
 2. Apply blue painters tape to the face of your tube.
-3. Using the centering tools, set your MGN12 rail on the face of the tube, centered between the two sides.
+3. Using the centering tools, set your MGN12H rail on the face of the tube, centered between the two sides.
 4. Use blue painters tape to secure the rail to the tube, to stop it from moving side-to-side.
     <p align="left">
     <img src="Images/Rail_Centered.jpg" alt="Rail Prepped for Drilling" class="center" style="width:800px;"/>
@@ -131,23 +131,27 @@ Optional:
     - Remove all tape
 
 ### Attaching Rail
-1. Using the centering tools, set your MGN12 rail on the face of the tube and align with the drilled holes.
+1. Using the centering tools, set your MGN12H rail on the face of the tube and align with the drilled holes.
 2. Insert nuts into the Nut Holder and press them firmly into it.
     - Use pliers to fully seat the nuts into the holder, otherwise it will not fit into the tube.
     <p align="left">
     <img src="Images/Nut_Holder_Inserting.jpg" alt="Firmly Grasp It" class="center" style="width:800px;"/>
     </p>
 3. Slide the Nut Holder and Spacer into the tube, aligning them with the drilled holes.
-4. Using Blue Loctite, screw in M3x8 bolts and tighten.
+4. Using Blue Loctite, screw in M3x10 bolts and tighten.
 5. Remove the spacer and press down on the nut holder. It should pop off the back of the nuts.
     - Using a hex driver or something flat may be needed to pop it off the last nut.
     - If you need to remove your rail, you will be able to use the nut holder and the spacer.
 6. Repeat for the other side of the rail.
 
-### Carbon Fiber Pins (TODO)
-1. Cut pins to 40mm
-2. ???
-3. +5 Horsepower
+### Carbon Fiber Pins
+1. Wear your mask and goggles
+2. Cut pins to 40mm
+    - You may want to cut them a bit long (41mm) if you are using tube, so you have a small area to grip to remove them.
+3. Lightly bevel the edges with the sandpaper
+    <p align="left">
+    <img src="Images/Pin_Weights.jpg" alt="An Eigth the Weight" class="center" style="width:800px;"/>
+    </p>
 
 ### Mounting to Printer
 1. Remove your current aluminum extrusion and XY joints.
