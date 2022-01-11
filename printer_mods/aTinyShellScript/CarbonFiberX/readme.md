@@ -1,10 +1,16 @@
-# Carbon Fiber X Extrusion for MGN12H
+# Carbon Fiber X Extrusion for Voron Trident and v2.4 with MGN12H
 <p align="center">
     <img src="Images/Main_alt.jpg" alt="Running" class="center" style="width:800px;"/>
 </p>
 
 ## Overview
-Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion and it looks cool. Probably gives your printer +5 Horsepower.
+Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion and it looks cool. 
+
+Pros:
+- Probably gives your printer +5 Horsepower.
+
+Cons:
+- Doesn't really remove a large amount of weight. Input shaping was able to move from 6100mm/s^3 to 6900mm/s^3.
 
 Go full weight weenie and replace your idler bolts/pins with carbon fiber too. Carbon fiber everywhere!
 
