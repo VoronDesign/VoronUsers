@@ -4,13 +4,15 @@
 </p>
 
 ## Overview
-Everyone loves Carbon Fiber. It weighs 25% as much as your current X-Extrusion and it looks cool. 
+Everyone loves Carbon Fiber. It weighs ~25% as much as your current X-Extrusion and it looks cool. 
 
 Pros:
+- Looks cool.
 - Probably gives your printer +5 Horsepower.
 
 Cons:
-- Doesn't really remove a large amount of weight. Input shaping was able to move from 6100mm/s^3 to 6900mm/s^3.
+- Carbon Fiber dust is really bad for your lungs
+- The amount of weight removed only gives ~10% faster Y accels. More weight savings may be needed for your goals.
 
 Go full weight weenie and replace your idler bolts/pins with carbon fiber too. Carbon fiber everywhere!
 
@@ -122,7 +124,10 @@ Optional:
     - Use the 'small' drill bit for these holes. You can use a slightly larger bit if you think you need wiggle room for mounting.
 
 ### Rail Holes
-1. Install the inserts and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
+1. Install the inserts on the correct sides and attach your XY joints, temporarily. Do not install the idlers and bolts/pins.
+    <p align="left">
+    <img src="Images/Insert.jpg" alt="Insert" class="center" style="width:800px;"/>
+    </p>
 2. Apply blue painters tape to the face of your tube.
 3. Using the centering tools, set your MGN12H rail on the face of the tube, centered between the two sides.
 4. Use blue painters tape to secure the rail to the tube, to stop it from moving side-to-side.
@@ -132,8 +137,11 @@ Optional:
 5. Either mark your holes or use the rail itself as a drill guide.
     - You only need a bolt in every other hole. If you start from each side, you'll end up with two side by side in the middle on a 350mm rail.
 6. Drill your holes with the 'small' drill bit. No need for a pilot hole.
+    <p align="left">
+    <img src="Images/Railed_Drilled.jpg" alt="Holy Rail" class="center" style="width:800px;"/>
+    </p>
 7. Clean up.
-    - Remove rail
+    - Remove and clean rail
     - Remove XY Joints
     - Remove inserts
     - Remove all tape
@@ -146,7 +154,9 @@ Optional:
     <img src="Images/Nut_Holder_Inserting.jpg" alt="Firmly Grasp It" class="center" style="width:800px;"/>
     </p>
 3. Slide the Nut Holder and Spacer into the tube, aligning them with the drilled holes.
-    - TODO: Insert Pic
+    <p align="left">
+    <img src="Images/Nut_Holder.jpg" alt="Mostly Slid In" class="center" style="width:800px;"/>
+    </p>
 4. Using Blue Loctite, screw in M3x10 bolts and tighten.
 5. Remove the spacer and press down on the nut holder. It should pop off the back of the nuts.
     - Using a hex driver or something flat may be needed to pop it off the last nut.
