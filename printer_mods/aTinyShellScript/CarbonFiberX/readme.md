@@ -104,11 +104,13 @@ Optional:
 2. Use a straight edge to identify the flatest face.
     - Mark this face, it will be the one the rail is mounted to.
 3. Apply blue painters tape to the top and bottom ends of the tube.
-4. Find and mark the center of the tube on the top and bottom.
+4. Measure and mark 7.65mm and 23.15mm from both ends on the top of the tube.
+5. Measure and mark 7.65mm from both ends on the bottom of the tube.
+6. Find and mark the center of these points.
     - You can use your rail and the centering tools to do this.
-    - TODO: Insert image.
-5. Mark and measure 7.65mm and 23.15mm from both ends on the top of the tube.
-6. Mark and measure 7.65mm from both ends on the bottom of the tube.
+    <p align="left">
+    <img src="Images/Mark_Holes.jpg" alt="Holes Marked" class="center" style="width:800px;"/>
+    </p>
 7. ⚠️Put on your mask! Don't inhale carbon dust, it is not good for you.⚠️
 8. Using the 'small' drill bit in a drill press, drill pilot holes at your marked points.
 9. Drill your final holes using the 'large' drill bit.
@@ -144,6 +146,7 @@ Optional:
     <img src="Images/Nut_Holder_Inserting.jpg" alt="Firmly Grasp It" class="center" style="width:800px;"/>
     </p>
 3. Slide the Nut Holder and Spacer into the tube, aligning them with the drilled holes.
+    - TODO: Insert Pic
 4. Using Blue Loctite, screw in M3x10 bolts and tighten.
 5. Remove the spacer and press down on the nut holder. It should pop off the back of the nuts.
     - Using a hex driver or something flat may be needed to pop it off the last nut.
@@ -151,10 +154,10 @@ Optional:
 6. Repeat for the other side of the rail.
 
 ### Carbon Fiber Pins
-1. Wear your mask and goggles
-2. Cut pins to 40mm
-    - You may want to cut them a bit long (41mm) if you are using tube, so you have a small area to grip to remove them.
-3. Lightly bevel the edges with the sandpaper
+1. Wear your mask and goggles.
+2. Cut pins to 40mm.
+    - You may want to cut them a bit long (41mm) if you are using tube, so you can pull them out without splitting the XYjoint.
+3. Lightly bevel the edges with sandpaper.
     <p align="left">
     <img src="Images/Pin_Weights.jpg" alt="An Eigth the Weight" class="center" style="width:800px;"/>
     </p>
