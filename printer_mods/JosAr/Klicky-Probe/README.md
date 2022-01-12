@@ -38,7 +38,7 @@ klicky early version.
 
 # Upgrading from an earlier version
 
-If you are upgrading from an earlier version, check the [klipper macros](./Klipper_macros) folder, it contains update instructions.
+If you are upgrading from an earlier version, check the [klipper macros](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros) folder, it contains update instructions.
 
 # Klicky components
 
@@ -54,7 +54,7 @@ The CAD with all the files is located [Here](./CAD)
 Common Klicky STL's (parts that are common to all the printers)  are located [here](./Base_STL).
 Printer specific STL are in each printer directory.
 
-The klipper macros are [here](./Klipper_macros), the RRF [here](./RRF_macros).
+The klipper macros are [here](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros), the RRF [here](https://github.com/jlas1/Klicky-Probe/tree/main/RRF_macros).
 
 
 ## Probe accuracy
