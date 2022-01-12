@@ -312,12 +312,12 @@ For klipper configuration, please check the updated instructions on the [main re
 
 
 ### Step 6: klipper  Dock/Undock  configuration
-#### Y max position adjustment
+#### X max position adjustment
 
-Even in the stock Y endstop with a lever, you normally can add a extra mm of Y travel due to the lever extra trigger distance:
+Even in the stock X endstop with a lever, you normally can add a extra mm of X travel due to the lever extra trigger distance:
 
 ```python
-[stepper_y]
+[stepper_x]
 position_endstop: 120
 position_max: 121
 ```
