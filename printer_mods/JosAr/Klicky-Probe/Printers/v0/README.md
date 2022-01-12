@@ -110,11 +110,11 @@ It is also necessary to use the Screwless variable dock mount
 
 ## Parts location
 
-The probe STL's are located [here](../../../Base_STL).
+The probe STL's are located [here](../../Base_STL).
 
 The printer specific STL's are located [here](./v0_STL).
 
-The CAD with all the parts are [here](../../../CAD).
+The CAD with all the parts are [here](../../CAD).
 
 ## What to print
 
