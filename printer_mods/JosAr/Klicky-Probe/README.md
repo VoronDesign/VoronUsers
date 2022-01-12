@@ -94,15 +94,15 @@ Probe BOM:
 
 ## Directly on this repository
 
-[Voron v2.4](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
+[Voron v2.4](./Printers/v1.8_v2.4_Legacy_Trident)
 
-[Voron v1.8](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
+[Voron v1.8](./Printers/v1.8_v2.4_Legacy_Trident)
 
-[Voron Legacy](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
+[Voron Legacy](./Printers/v1.8_v2.4_Legacy_Trident)
 
-[Voron Trident](./Printers/Voron/v1.8_v2.4_Legacy_Trident)
+[Voron Trident](./Printers/v1.8_v2.4_Legacy_Trident)
 
-[Voron v0](./Printers/Voron/v0)
+[Voron v0](./Printers/v0)
 
 ## Printers supported on other locations
 
