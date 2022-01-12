@@ -61,11 +61,11 @@ There are also some more mounting options on [Usermods](https://github.com/jlas1
 
 ## Parts location
 
-The probe STL's are located [here](../../../Base_STL).
+The probe STL's are located [here](../../Base_STL).
 
 The printer specific STL's are located [here](./v1.8_v2.4_Legacy_Trident_STL).
 
-The CAD with all the parts are [here](../../../CAD).
+The CAD with all the parts are [here](../../CAD).
 
 ## What to print
 
@@ -335,10 +335,6 @@ SET_VELOCITY_LIMIT VELOCITY=100
 
 Enjoy your Klicky Probe!
 
-## Dock and undock video
-
-https://user-images.githubusercontent.com/16675722/122302371-eb9c4e00-cef9-11eb-91d3-3aded131bae0.mp4
-
-It is working very well, if you decide to use it, give me feedback, either here, or on discord, my discord user is JosAr#0517.
+For me, it is working very well, if you decide to use it, give me feedback, either here, or on discord, my discord user is JosAr#0517.
 
 By standing on the shoulders of giants, lets see if we can see further.
