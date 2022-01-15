@@ -15,7 +15,7 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 
 
 ![](IMG/Cornerpanel_Spoolholder.png)
-![](IMG/IRL.png)
+![](IMG/IRL.jpg)
 
 
 ## Notes
