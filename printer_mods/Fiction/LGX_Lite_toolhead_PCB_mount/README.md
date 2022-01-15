@@ -1,6 +1,8 @@
 # LGX Lite toolhead PCB mount
 Use with Mrgl-Mrgl's LGX Lite and cable chain mounts https://github.com/Mrgl-Mrgl/VoronUsers/tree/master/printer_mods/Mrgl-Mrgl/LGX_Lite_Mount
 
+Tested with version 3.2 of the toolhead PCB https://github.com/VoronDesign/Voron-Hardware/tree/master/Afterburner_Toolhead_PCB
+
 ## Fasteners
 - 2 x M3x5x4 threaded inserts (the standard Voron M3 threaded inserts)
 - 2 x M3x8 countersunk socket head screws to attach the toolhead PCB mount to the LGX Lite body side (with square nuts installed)
