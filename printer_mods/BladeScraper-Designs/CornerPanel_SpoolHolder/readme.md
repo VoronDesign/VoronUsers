@@ -2,7 +2,7 @@
 I originally came up with this mod in order to accommodate my custom hinged rear panel.  The stock spoolholder gets in the way of the hinging panel and won't allow it to open without removing the spool holder.  This mod moves the spoolholder to the top rear corner panel clip, allowing for easier access to the rear panel as well as providing a more secure mount.  It requires minimal hardware and is very easy to install.
 
 ## Required Hardware
-1 x M3 Nut (Square, Hex, or NoDropNut, any will work)
+1 x M3 Nut (Square, Hex, or NoDropNut, any will work) <br>
 2 x M3x BHCS
 
 ## Install Instructions
