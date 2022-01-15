@@ -13,4 +13,8 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 5. Install the modified CornerPanel onto the side panel.  
 6. Install the spool holder using the M3x10 BHCS.   One of them will replace the original M3x8 in the old panel clip.
 
+## Notes
+There are four different CornerPanel files.  Each one is sized to different panel thicknesses, like the originals.  Pick one that matches your panel thicknesses.  There is an additional 3.25mm size just because a lot of 3mm panels tend to be actually 3.15-3.25mm in my experience.  If you find that your spoolholder is slightly cocked to one side or the other, the CAD files are supplied so you can extrude them slightly thicker or thinner to get the spoolholder to stick out perfectly straight.  
+
 ![](IMG/Cornerpanel_Spoolholder.png)
+
