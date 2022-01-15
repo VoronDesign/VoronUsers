@@ -6,7 +6,7 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 2 x M3x10 BHCS
 
 ## Print Settings
-4 Walls, 5 Top/Bottom, 40% Infill
+4 Walls, 5 Top/Bottom, 40% Infill <br>
 Standard Voron structural part settings.  You do want this to be relatively strong, especially at the area that screws down.
 
 ## Install Instructions
