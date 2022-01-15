@@ -22,4 +22,6 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 There are four different CornerPanel files.  Each one is sized to different panel thicknesses, like the originals.  Pick one that matches your panel thicknesses.  There is an additional 3.25mm size just because a lot of 3mm panels tend to be actually 3.15-3.25mm in my experience.  
 
 If you find that your spoolholder is slightly skewed to one side or the other, the CAD files are supplied so you can extrude them slightly thicker or thinner to get the spoolholder to stick out perfectly straight.  If this part is too thick for your panels, the spoolholder will be skewed slightly to the left (when viewed from the back of the printer).  If it's too thin for your panels, it'll be skewed to the right.
+
+When properly sized, the spoolholder will be perfectly straight out the back, and there's little to no chance for the edge of the spool to rub on your back panel.
 ![](IMG/Extrude_This.png)
