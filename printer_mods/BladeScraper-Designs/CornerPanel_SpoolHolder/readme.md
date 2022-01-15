@@ -5,6 +5,9 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 1 x M3 Nut (Square, Hex, or NoDropNut, any will work) <br>
 2 x M3x10 BHCS
 
+## Print Settings
+4 Walls, 5 Top/Bottom, 40% Infill
+
 ## Install Instructions
 1. Remove stock spool holder.  You can reuse the PTFE lengths.
 2. Remove left side panel.  
