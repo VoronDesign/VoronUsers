@@ -11,5 +11,6 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 3. Remove top rear corner panel clip from the acrylic panel.  Hopefully you used VHB instead of glue :)
 4. Remove rear left foot and install one extra M3 dropnut (or use NoDropNuts Mod) onto the left side of the rear left extrusion.
 5. Install the modified CornerPanel onto the side panel.  
-6. Install the spool holder using the M3x10 BHCS.
+6. Install the spool holder using the M3x10 BHCS.   One of them will replace the original M3x8 in the old panel clip.
 
+![](IMG/Cornerpanel_Spoolholder.png)
