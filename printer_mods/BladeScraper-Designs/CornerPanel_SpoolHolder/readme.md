@@ -13,9 +13,10 @@ Standard Voron structural part settings.  You do want this to be relatively stro
 1. Remove stock spool holder.  You can reuse the PTFE lengths.
 2. Remove left side panel.  
 3. Remove top rear corner panel clip from the acrylic panel.  Hopefully you used VHB instead of glue :)
-4. Remove rear left foot and install one extra M3 dropnut (or use NoDropNuts Mod) onto the left side of the rear left extrusion.
-5. Install the modified CornerPanel onto the side panel.  
-6. Install the spool holder using the M3x10 BHCS.   One of them will replace the original M3x8 in the old panel clip.
+4. Install the modified CornerPanel onto the side panel.  
+5. Remove rear left foot and install one extra M3 dropnut (or use NoDropNuts Mod) onto the left side of the rear left extrusion.
+6. Reinstall side panel.
+7. Install the spool holder using the M3x10 BHCS.   One of them will replace the original M3x8 in the old panel clip.
 
 
 ![](IMG/Cornerpanel_Spoolholder.png)
