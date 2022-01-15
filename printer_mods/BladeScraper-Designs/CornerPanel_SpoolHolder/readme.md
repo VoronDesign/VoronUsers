@@ -13,4 +13,4 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 5. Install the modified CornerPanel onto the side panel.  
 6. Install the spool holder using the M3x10 BHCS.
 
-[./Cornerpanel_Spoolholder.png]
+![](/Cornerpanel_Spoolholder.png)
