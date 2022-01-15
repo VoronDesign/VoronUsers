@@ -1,0 +1,1 @@
+I originally came up with this mod in order to accommodate my custom hinged rear panel.  The stock spoolholder gets in the way of the hinging panel and won't allow it to open without removing the spool holder.
