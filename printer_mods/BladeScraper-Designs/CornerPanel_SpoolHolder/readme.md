@@ -7,6 +7,7 @@ I originally came up with this mod in order to accommodate my custom hinged rear
 
 ## Print Settings
 4 Walls, 5 Top/Bottom, 40% Infill
+Standard Voron structural part settings.  You do want this to be relatively strong, especially at the area that screws down.
 
 ## Install Instructions
 1. Remove stock spool holder.  You can reuse the PTFE lengths.
