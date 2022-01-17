@@ -39,7 +39,7 @@ Mantis Dual 5015 Toolhead by Long
 
 
 **Features:**
-* Now compatible with single MGN9 and MGN12 X-Rail.  
+* Single MGN9 or MGN12 X-Rail.  Just print out the corresponding carriage.
  * Hotends
    * Dragon
    * Mosquito (from usermod by WingZero)
