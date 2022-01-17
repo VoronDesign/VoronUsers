@@ -129,7 +129,8 @@ like so:
 | | [Crossrail](./Fiction/Crossrail) | Across-the-rails LRS-200-24 or RSP-200-24 mount using DRP-03 brackets | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Exhaust_cover](./Fiction/Exhaust_cover) | Cover for exhaust cutout in back panel | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Exhaust_cover_SFS](./Fiction/Exhaust_cover_SFS) | Exhaust cover and BTT Smart Filament Sensor mount | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
-| FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:||
+| | [LGX Lite toolhead PCB mount](./Fiction/LGX_Lite_toolhead_PCB_mount) | Mount for Hartk's toolhead PCB(s) for LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
 | GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire and Voron 0.0/0.1. These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
 | gen2ng | [Switchwire LED wire pass through](./gen2eng/z_carriage_stop_pass_through) | Z Carriage Stop modification that makes pass through of wires for the LED light bar clean and easy | :x: | :x: | :x: | :heavy_check_mark: | :x: |
@@ -167,19 +168,20 @@ like so:
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:||
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 |JD |[V2.4 Filament runout sensor](./JD/RefillPlease) | Replace the 2.4 stock bowden tube holder and add a filament runout sensor  | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
-|jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:||
-| | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:||
-| | [Sturdy Handles](./jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points |:x: |:grey_question:|:heavy_check_mark:|:x:||
-| | [Molex MLX and Microfit 3.0 Bed Connector Mount](./jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors |:x: |:x:|:heavy_check_mark:|:x:||
-| jgehrig | [V0 LCD Touchscreen Skirt](./jgehrig/v0_lcdskirt) | 3.2" LCD Touch Screen Skirt | :heavy_check_mark: | :x: | :x: | :x: ||
-| JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Front Door](./JNP/Front-Door)| Door in a frame | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Hepa Filter](./JNP/HEPA-Filter)| Filter case with fan´s | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |:x: ||
-| | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |:x: ||
+|jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
+| | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
+| | [Sturdy Handles](./jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points |:x: |:grey_question:|:heavy_check_mark:|:x:|
+| | [Molex MLX and Microfit 3.0 Bed Connector Mount](./jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors |:x: |:x:|:heavy_check_mark:|:x:|
+| JeremyRuhland | [V2.4 Plug Panel Generic Combo](./JeremyRuhland/V2.4_Plug_Panel_Generic_Combo) | Skirt power panel for generic amazon plug/switch/fuse combo module, with 2 keystone sockets | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| jgehrig | [V0 LCD Touchscreen Skirt](./jgehrig/v0_lcdskirt) | 3.2" LCD Touch Screen Skirt | :heavy_check_mark: | :x: | :x: | :x: |
+| JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Front Door](./JNP/Front-Door)| Door in a frame | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Hepa Filter](./JNP/HEPA-Filter)| Filter case with fan´s | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Mid Panel](./JNP/Mid-Panel)| Panel for SKR1.4/1.4 or SKR E3 mini mount | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Neopixel Case](./JNP/Neopixel-Y_Rails) | mounting for Neopixel strip with 8 LED´s | :heavy_check_mark: |:x: |:x: |:x: |
+| | [Side Panels](./JNP/Side-Panels) | Panels with intergrated hinge | :heavy_check_mark: |:x: |:x: |:x: |
 | Jon | [1515 LED Mount](./Jon/1515_led_mount) | Snap in 1515 Led mount for WS2812B |:heavy_check_mark:|:x:|:x:|:x:|:x:|
 | | [adxl345 skirt keystone](./Jon/adxl345_skirt_keystone) | Skirt keystone for ADXL345 using Microfit 3.0 | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | joposter | [V0 Clippable LED Caselight](./joposter/v0_clippable_ledmounts) | LED Case light for the V0 that clips into the extrusions | :heavy_check_mark: | :x: | :x: | :x: | :x: |
