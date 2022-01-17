@@ -2,6 +2,9 @@
 
 Here you will find the necessary files and documentation to print and setup your own klicky probe.
 
+**This is an intermediate/advanced configuration, it's recommended to first build your Voron to the stock configuration**
+That way, you will be better familiarized with the concepts that are presented here and will have a much more enjoyable experience.
+
 This directory has the STL files properly oriented for printing and community mods for the respective printer, there are [klipper](https://github.com/jlas1/Klicky-Probe/tree/main/Klipper_macros) macros, [RRF](https://github.com/jlas1/Klicky-Probe/tree/main/RRF_macros) macros and [usermods](https://github.com/jlas1/Klicky-Probe/tree/main/Printers/Voron/v1.8_v2.4_Legacy_Trident/Usermods) on the main repository, STL files properly oriented for printing.
 
 Above all, have fun and be excellent to one another, now to the instructions.
@@ -263,27 +266,48 @@ If you are using a hall sensor as endstop, you need to make sure that on your Y 
 
 ```python
 [stepper_y]
-position_endstop: 303
-position_max: 305
+position_endstop: y
+position_max: y+2
 ```
 
 Even in the stock Y endstop with a lever, you normally can add a extra mm of Y travel due to the lever extra trigger distance:
 
 ```python
 [stepper_y]
-position_endstop: 303
-position_max: 304
+position_endstop: y
+position_max: y+1
 ```
 
 #### Adjust Probe Pickup Position
 
 One of the last things we need to do is to adjust the probe pickup position.
 
-Make sure that the x and y axis are homed and the probe is manually attached to mount.
+Make sure that the x and y axis are homed and the probe is manually attached to mount, it is easier to do with the hotend and fan duct removed.
 
-Now manually (with gcode commands) move the toolhead to the probe dock and move it so far to the back that the probe docks, note the Y-Position.
+Now manually (with gcode commands) move the toolhead to the front  of the probe dock, adjust X so that moving along Y does not hit the dock arms, ***note the X-Position***.
 
-Next, again manually, move the toolhead parallel to the probe dock until the probe it is perfectly aligned with the mount, note the X.Position.
+```jinja2
+example (for a Ymax of 305):
+G0 X20 Y270
+G0 X20 Y280 (you see that the right side will hit the dock arm)
+G0 X20 Y270
+G0 X19 Y270
+G0 X19 Y280 (still hitting the dock on the right side)
+G0 X19 Y270
+G0 X18 Y270
+G0 X17 Y280 (now does not hit)
+
+Your variable_docklocation_x is 17
+
+```
+
+Now manually (with gcode commands) move the toolhead to the  Xvariable_docklocation_x Y(max-40) position.
+In the example above, it would be "G0 X17 Y365".
+
+The probe and dock magnet can be 1/2 mm away from each other, that is ok, they will attact when the probe is released from the mount.
+
+Now move the toolhead 40m to the side and check if the probe is docked securely.
+If it does, perfect, variable_docklocation_y is your Ymax, if not, you need to either increase the Ymax or add a dock extender and repeat the process.
 
 Open your `klicky-variables.cfg` and find the `#dock location` section and edit the following two line
 
@@ -302,8 +326,13 @@ If you have your Dock mounted to the bed then you need to adjust the `variable_d
 
 #### Automatic Z Calibration
 
+***This requires manual klipper plug-in configuration and installation, it is recommended to be familiar with klipper before attempting this***
+
 If you want to use the Z endstop switch of the Voron to calculate the Z-Offset, use the new [automatic Z calibration](https://github.com/protoloft/klipper_z_calibration).
+
 Besides the macros from this repository, you will need to install the Z autocalibration plugin, the recommended way is via [moonraker](https://github.com/protoloft/klipper_z_calibration#moonraker-updater).
+
+Sometimes after installation it's necessary to run the install script manually, if you installed using the moonraker mothod above, run "/home/pi/klipper_z_calibration/install.sh" on the raspberry pi command prompt.
 
 Regarding the configuration and necessary macros, most of necessary macros are already included in the klick-probe.cfg, what is missing is the specific z_calibration configuration and the macro that is called to do the actual calibration.
 
