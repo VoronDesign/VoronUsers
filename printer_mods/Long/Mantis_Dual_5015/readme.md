@@ -39,45 +39,45 @@ Mantis Dual 5015 Toolhead by Long
 
 
 **Features:**
-* Single MGN9 or MGN12 X-Rail.  Just print out the corresponding carriage.
- * Hotends
-   * Dragon, Rapido HF/UHF, Mosquito (from usermod by WingZero), Crazy Volcano with Dragon or Mosquito Heatsink
- * Dual 5015
-    - ***Minimum layer time can be much lower.***  I'm using 5 seconds conservatively on 0.2 layer height.
-    - Left to Right airflow balance is no longer an issue
-    - Single piece ducts without splitting and fewer bends = less duct losses
-* Lighter
-    - Mantis tool head weighs ~290g including the carriage
-    - Spec AB is ~470g.  Spec AB with gailieo is ~375g.  Stealthburner beta is ~410g.
-    - Using single MGN9 removes an additional ~140g from the Y axis on a 300.  
- * Stiffer
-    - Single piece carriage and hotend mounts stiff and light.
- * Detachable Bed Probe (magprobe)
-    - Decreases weight, allows shrinkage of the carriage, and movement of weight closer to the extrusion.
-    - Direct probing of the bed surface.  Allows usage of any bed surface. 
- * Weight moved closer to the rail for less lever.
-    - Hotend is moved closer the rail +y, and upwards +z
-    - Fans are rotated so the mass is further back.  
- * Decreased length from extruder to hotend
-    - Bowden from mini-sherpa to Dragon is only 19mm
- * X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
-    - X-endstop must be relocated because the Mantis carriage is smaller and does not hang down far enough to trigger the endstop pod.
-    - Y-endstop can still be from the spec endstop pod on the right xy-joint, however **I highly recommend relocating the y-endstop to the right a/b drive.**  
-      - Normal 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
-      - [Pin mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod) 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units)
-    - Ditching the cable chain would save around 150g on the x-axis for a Voron 300.  
- * Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
+- Single MGN9 or MGN12 X-Rail.  Just print out the corresponding carriage.
+- Hotends
+  - Dragon, Rapido HF/UHF, Mosquito (from usermod by WingZero), Crazy Volcano with Dragon or Mosquito Heatsink
+- Dual 5015
+  - ***Minimum layer time can be much lower.***  I'm using 5 seconds conservatively on 0.2 layer height.
+  - Left to Right airflow balance is no longer an issue
+  - Single piece ducts without splitting and fewer bends = less duct losses
+- Lighter
+  - Mantis tool head weighs ~290g including the carriage
+  - Spec AB is ~470g.  Spec AB with gailieo is ~375g.  Stealthburner beta is ~410g.
+  - Using single MGN9 removes an additional ~140g from the Y axis on a 300.  
+- Stiffer
+  - Single piece carriage and hotend mounts stiff and light.
+- Detachable Bed Probe (magprobe)
+  - Decreases weight, allows shrinkage of the carriage, and movement of weight closer to the extrusion.
+  - Direct probing of the bed surface.  Allows usage of any bed surface. 
+-  Weight moved closer to the rail for less lever.
+  - Hotend is moved closer the rail +y, and upwards +z
+  - Fans are rotated so the mass is further back.  
+- Decreased length from extruder to hotend
+  - Bowden from mini-sherpa to Dragon is only 19mm
+- X-endstop relocated to carriage.  Easy to transition to umbilical if desired.
+  - X-endstop must be relocated because the Mantis carriage is smaller and does not hang down far enough to trigger the endstop pod.
+  - Y-endstop can still be from the spec endstop pod on the right xy-joint, however **I highly recommend relocating the y-endstop to the right a/b drive.**  
+    - Normal 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Y_Endstop_Relocation)
+    - [Pin mod](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod) 2.4 version - [https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_Pins_Mod/STLs/Gantry/AB_Drive_Units)
+  - Ditching the cable chain would save around 150g on the x-axis for a Voron 300.  
+- Area around heat block is very open.  Ducts give wide berth to block to decrease melting issues.
     
  **Cons:**
- * With spec front idlers, you will lose space at the front corners of the bed ~10mm in X at each idler.  
- * There are now alternative idlers that allow use of Mantis with minimal to no loss of build area
-    - Rama - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers 
-    - Phalanx - https://github.com/selliott79/Other-V2-Idlers 
- * Some parts like the ducts and hotend mount are a bit tricky to print.
- * Thumb screw for the mini-sherpa will not fit.  Use a buttonhead to save space.
-    - Standard 12mm spring should work with the button head.  
-    - I used 6mm diameter x 0.9mm coil diameter x 10mm length springs for extra clearance, but this is unnecessary.
-    - (Replaces stock 6mm x 1mm x 12mm spring) 
+- With spec front idlers, you will lose space at the front corners of the bed ~10mm in X at each idler.  
+- There are now alternative idlers that allow use of Mantis with minimal to no loss of build area
+  - Rama - https://github.com/Ramalama2/Voron-2-Mods/tree/main/Front_Idlers 
+  - Phalanx - https://github.com/selliott79/Other-V2-Idlers 
+- Some parts like the ducts and hotend mount are a bit tricky to print.
+-  Thumb screw for the mini-sherpa will not fit.  Use a buttonhead to save space.
+  - Standard 12mm spring should work with the button head.  
+  - I used 6mm diameter x 0.9mm coil diameter x 10mm length springs for extra clearance, but this is unnecessary.
+  - (Replaces stock 6mm x 1mm x 12mm spring) 
 
 Changes
 -----------------
