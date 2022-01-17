@@ -86,7 +86,7 @@ Mantis Dual 5015 Toolhead by Long
 Changes
 -----------------
 1/17/2022
-- Uploaded slightly updated ducts (duct_dragon_v1.041, duct_rapido_HF_v0.03b, duct_dragon_crazy_volcano_v1.0).
+- Uploaded slightly updated ducts (duct_dragon_v1.041, duct_rapido_HF_v0.03b, duct_dragon_crazy_volcano_v1.0).  This will be an easy swap for your existing ducts.
   - These ducts increase the diameter of the lower "peg" on the ducts.  This tightens the lower joint of the hotend mount to duct and should help with the ducts pivoting over the joint of the upper duct to hotend mount.
         
 1/10/2022
