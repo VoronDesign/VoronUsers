@@ -41,15 +41,11 @@ Mantis Dual 5015 Toolhead by Long
 **Features:**
 * Single MGN9 or MGN12 X-Rail.  Just print out the corresponding carriage.
  * Hotends
-   * Dragon
-   * Mosquito (from usermod by WingZero)
-   * Crazy Volcano block with Dragon heatsink
-   * Rapido HF/UHF compatibility soon.
+   * Dragon, Mosquito (from usermod by WingZero), Crazy Volcano block with Dragon heatsink, Rapido HF/UHF
  * Dual 5015
+    - ***Minimum layer time can be much lower.***  I'm using 5 seconds conservatively on 0.2 layer height.
     - Left to Right airflow balance is no longer an issue
     - Single piece ducts without splitting and fewer bends = less duct losses
-    - Way more airflow than a single 5015.  
-    - Minimum layer time can be much lower.  I'm using 5 seconds conservatively on 0.2 layer height.
 * Lighter
     - Mantis tool head weighs ~290g including the carriage
     - Spec AB is ~470g.  Spec AB with gailieo is ~375g.  Stealthburner beta is ~410g.
