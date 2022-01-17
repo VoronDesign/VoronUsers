@@ -27,6 +27,15 @@ What to Print
 </TD>
 </TR>
 <TR>
+<TD align="center">Mosquito<BR>(2.4 and Trident)</TD>
+<TD align="center">hotend_mount_mosquito_30mm_fan_v0.42_with_support in [usermods](../Usermods/Wingzero/)
+<BR>duct_dragon_v1.037_left.stl
+<BR>duct_dragon_v1.037_right.stl
+<BR>Magprobe_v0.31_Dragon.stl
+</TD>
+<TD>Thanks to Wingzero for making Mosquito Compatible!</TD>
+</TR>
+<TR>
 <TD align="center">Crazy Volcano with Dragon Heatsink</TD>
 <TD align="center">
 Hotend_Mount_Dragon_v1.040.stl
