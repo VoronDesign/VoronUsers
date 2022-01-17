@@ -28,7 +28,7 @@ What to Print
 </TR>
 <TR>
 <TD align="center">Mosquito<BR>(2.4 and Trident)</TD>
-<TD align="center">hotend_mount_mosquito_30mm_fan_v0.42_with_support in [usermods](../Usermods/Wingzero/)
+<TD align="center">hotend_mount_mosquito_30mm_fan_v0.42 in <a href="../Usermods/Wingzero/">usermods</A>
 <BR>duct_dragon_v1.037_left.stl
 <BR>duct_dragon_v1.037_right.stl
 <BR>Magprobe_v0.31_Dragon.stl
