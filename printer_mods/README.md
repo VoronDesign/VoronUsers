@@ -87,7 +87,7 @@ like so:
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 ||[V0 Zip Tie Skirts](./claytono/v0-zip-tie-skirts)|V0 skirts with small loops added along the top to allow zip tyiing cables to them|:heavy_check_mark:|:x:|:x:|:x:
 | cmrny | [V0.1 Motor Panel Modification](./cmrny/v01_motor_panel_no_rub) | V0.1 Motor panel modification to keep umbilical and bowden tube from rubbing against motor belts | :heavy_check_mark: | :x: | :x: | :x: | :x:|
-|| [V0.1 Belt Tension Equalizer](./cmrny/v01_LGXLiteMount_MiniAfterSherpa) | V0.1 LGX Lite Mount for Mini AfterSherpa | :heavy_check_mark: | :x: | :x: | :x: | :x:|
+|| [V0.1 LGX Lite Mount for Mini AfterSherpa](./cmrny/v01_LGXLiteMount_MiniAfterSherpa) | V0.1 LGX Lite Mount for Mini AfterSherpa | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | Conqueror433 | [Voron Parts Logo](./conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | :x: | :x: | :heavy_check_mark: | :x: |
 ||[Voron V0.1 Parts Logo](./conqueror433/Voron_V0.1_Parts_Logo)|Voron Parts Logo for your V0 deck panel |:heavy_check_mark:|:x:|:x:|:x:|
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
