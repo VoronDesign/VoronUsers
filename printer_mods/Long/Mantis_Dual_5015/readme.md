@@ -41,7 +41,10 @@ Mantis Dual 5015 Toolhead by Long
 **Features:**
 - Single MGN9 or MGN12 X-Rail.  Just print out the corresponding carriage.
 - Hotends
-  - Dragon, Rapido HF/UHF, Mosquito (from usermod by WingZero), Crazy Volcano with Dragon or Mosquito Heatsink
+  - Dragon
+  - Rapido HF/UHF
+  - Mosquito (from usermod by WingZero)
+  - Crazy Volcano with Dragon or Mosquito Heatsink
 - Dual 5015
   - ***Minimum layer time can be much lower.***  I'm using 5 seconds conservatively on 0.2 layer height.
   - Left to Right airflow balance is no longer an issue
