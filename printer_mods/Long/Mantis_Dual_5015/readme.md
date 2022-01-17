@@ -58,7 +58,7 @@ Mantis Dual 5015 Toolhead by Long
 - Detachable Bed Probe (magprobe)
   - Decreases weight, allows shrinkage of the carriage, and movement of weight closer to the extrusion.
   - Direct probing of the bed surface.  Allows usage of any bed surface. 
--  Weight moved closer to the rail for less lever.
+- Weight moved closer to the rail for less lever.
   - Hotend is moved closer the rail +y, and upwards +z
   - Fans are rotated so the mass is further back.  
 - Decreased length from extruder to hotend
