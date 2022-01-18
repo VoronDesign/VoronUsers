@@ -129,6 +129,7 @@ like so:
 | | [Crossrail](./Fiction/Crossrail) | Across-the-rails LRS-200-24 or RSP-200-24 mount using DRP-03 brackets | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Exhaust_cover](./Fiction/Exhaust_cover) | Cover for exhaust cutout in back panel | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Exhaust_cover_SFS](./Fiction/Exhaust_cover_SFS) | Exhaust cover and BTT Smart Filament Sensor mount | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| | [LGX Lite toolhead PCB mount](./Fiction/LGX_Lite_toolhead_PCB_mount) | Mount for Hartk's toolhead PCB(s) for LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
 | GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire and Voron 0.0/0.1. These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
@@ -171,6 +172,7 @@ like so:
 | | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | | [Sturdy Handles](./jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points |:x: |:grey_question:|:heavy_check_mark:|:x:|
 | | [Molex MLX and Microfit 3.0 Bed Connector Mount](./jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors |:x: |:x:|:heavy_check_mark:|:x:|
+| JeremyRuhland | [V2.4 Plug Panel Generic Combo](./JeremyRuhland/V2.4_Plug_Panel_Generic_Combo) | Skirt power panel for generic amazon plug/switch/fuse combo module, with 2 keystone sockets | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | jgehrig | [V0 LCD Touchscreen Skirt](./jgehrig/v0_lcdskirt) | 3.2" LCD Touch Screen Skirt | :heavy_check_mark: | :x: | :x: | :x: |
 | JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
@@ -253,6 +255,7 @@ like so:
 |padok |[Chain Anchor - ADXL345 mount Mod](./padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner |:x: |:grey_question: |:heavy_check_mark: |:grey_question: |
 |Phalanx |["Other" Idlers Mod](./Phalanx/Other-V2-Idlers/) | Allow usage of wider toolheads on the V2 |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
+| Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: |
 |QuackProfit|[V0 Adafruit NeoPixel LED Mounts](./QuackProfit/V0-Adafruit-Y_Rails) | Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions | :heavy_check_mark:|:x:|:x:|:x:|
 | quattroerik | [V2.4 Door Hinge M3 3mm 180deg](./quattroerik/front_door_m3_180_deg_3mm) | Voron 2.4 door hinges for 3mm panel, 180 deg opening and m3 screw as shaft | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
@@ -270,6 +273,7 @@ like so:
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
+| ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
@@ -333,3 +337,4 @@ like so:
 | | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
+
