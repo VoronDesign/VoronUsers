@@ -24,6 +24,9 @@ https://github.com/bigtreetech/SKR-2/
 
   Thanks Chris !
 
+## Jumpers Configuration ##
+![SKR2 - MCU X/Y/E Wiring](SKR2-jumpers.jpg)
+
 ## Wiring Instructions ##
 ![SKR2 - MCU X/Y/E Wiring](SKR2-MCUXYE-wiring.jpg)
 ![SKR2 - MCU X/Y/E Wiring](SKR2-MCUZ-wiring.jpg)
