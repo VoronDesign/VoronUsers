@@ -64,6 +64,7 @@ like so:
 |beaugalbraith| [Nova Printhead](./beaugalbraith/Nova_Printhead) | Use Nova Hotend with Afterburner | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question:|
 | BladeScraper-Designs | [Microswitch Pod With Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
 | | [Horizontal Spool Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
+| | [CornerPanel_SpoolHolder](./BladeScraper-Designs/CornerPanel_SpoolHolder) | A better supported Spool Holder that mounts to a modified corner panel. | :heavy_check_mark: | :x: |:x: | :x: | :x: |
 |Blamm|[LRS-100 DIN mount](./Blamm/lrs-100)|DIN rail mount for an extra LRS-100 Power Supply | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:| :heavy_check_mark:|
 |BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
@@ -235,7 +236,8 @@ like so:
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
 |mpfl |[V0.1 OLED-skirt](./mpfl/V0.1_skirt_OLED) |V0.1 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MrBean66| [SKR Pro DIN Mount](./MrBean66/SKR_PRO_Mount/) |Simple mod to mount the SKR Pro board from BTT to a DIN rails. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-|MrDespair| [MiniAB Pinda Probe Mount](./MrDespair/MiniAB_Pinda/) |Replacement MiniAB Cowling to add a mount for a Pinda style probe. |:heavy_check_mark:|:x:|:x:|:x:|:x:|
+|MrDespair| [MiniAB Pinda Probe Mount](./MrDespair/MiniAB_Pinda/) |Replacement MiniAB Cowling to add a mount for a Pinda style probe. |:heavy_check_mark:|:x:|:x:|:x:|:x:|  
+|Mrgl-Mrgl| [LGX Lite Mount](./Mrgl-Mrgl/LGX_Lite_Mount/) | a mount for the LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 |MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
