@@ -341,7 +341,7 @@ like so:
 | | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
 | Zen3D | [V0 Handle](./Zen3D/V0_Handle)| Voron0 Handle for 3mm panels | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 MidPanel HexPattern](./Zen3D/V0_MidPanel_HexPattern)| Voron0 MidPanel with Hex pattern and Wire cover  | :heavy_check_mark: |:x: |:x: |:x:|
-| | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|
+| | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Adxl, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|:x: |
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 
