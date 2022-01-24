@@ -93,6 +93,7 @@ like so:
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 |csch0 | [SW Fan Mount No Tape](./csch0/SW_FanMount_No_Tape)| 60x20 Fan Mount for SW without tape| :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
+|D4rkCelerity| [Raspberry Pi Zero Bracket](./D4rkCelerity/Raspberry_Pi_Zero_Bracket/) | Modified version of Trident RPi bracket to fit the smaller RPi Zero | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |DaGlo| [V0.1 Duet 2 Wifi mounting brackets](./DaGlo/Voron_V0_Duet_2_WiFi_Mounting_Brackets/) | Voron 0.1 Mounting brackets with/without RPi 4 | :heavy_check_mark: | :x: | :x: | :x: |
 || [Voron V0 Mean Well power supply bracket (Funssor Kit)](./DaGlo/Voron_V0_MW_PS_Bracket/) | Voron V0 Mean Well power supply bracket (Funssor Kit) | :heavy_check_mark: | :x: | :x: | :x: |
 || [Voron V0 SSR Mount](./DaGlo/Voron_V0_SSR_Mount/) | Voron V0 SSR Mount for the bottom | :heavy_check_mark: | :x: | :x: | :x: |
@@ -141,6 +142,8 @@ like so:
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
+| Golas | [V0.1 Extended tophat hinge](./golas/v0-extended-tophat-hinge)| Extended tophat for v0.1 with hinges (integrated or screwed ones). | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+|  | [V0.1 Trident skirt remix with 12864 LCD](./golas/v0-trident-skirt-mix)| Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain skirt. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :x: | :x: | :heavy_check_mark: |
 | hartk1213 | [Voron0 deck panel](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |:x:|
 | | [Voron0 display dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |:x:| :x:| 
@@ -217,6 +220,7 @@ like so:
 | | [V2.4 Bed Wiring Grommet](./LoCoCNC/wire_grommets) | Safely capture your bed wires thru the bottom panel |:x:|:x:|:heavy_check_mark:|:x:|
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | MGN12 Dual 5015 Toolhead for 2.4 & 1.8 |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
+|MakeALeft| [Switchwire Clean Center Grill](./MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | :x: | :x: | :x: | ✔️ | :x:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
@@ -290,6 +294,7 @@ like so:
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
+| |[Parts_Jigs and Mods](./StvPtrsn/Parts_Jigs_and_Mods) |Parts, Jigs and modifications I use for my builds |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|
 | TAKUYA | [WANSVIEW USB Camera Mount](./Takuya/USBCameraMount/) | WANSVIEW 1080p Camera Mount for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: |
 | tameike | [Din Rail SKR 90 deg](./tameike/DIN_Rail_SKR_1.3_90deg) | SKR V1.3 bracket turned 90 degrees | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | | [Din Rail 2020 Holder](./tameike/DIN_Rail_2020_holder) | Attaching DIN Rails to 2020 | :x: | :grey_question: | :heavy_check_mark: |:x:|
@@ -336,7 +341,7 @@ like so:
 | | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
 | Zen3D | [V0 Handle](./Zen3D/V0_Handle)| Voron0 Handle for 3mm panels | :heavy_check_mark: |:x: |:x: |:x:|
 | | [V0 MidPanel HexPattern](./Zen3D/V0_MidPanel_HexPattern)| Voron0 MidPanel with Hex pattern and Wire cover  | :heavy_check_mark: |:x: |:x: |:x:|
-| | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|
+| | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Adxl, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|:x: |
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 
