@@ -93,6 +93,7 @@ like so:
 |consibonsi | [Y-Mod SW 9mm](./consibonsi/Y-Mod_SW_9mm)| 9mm Y belt mod for SW | :x: |:x: |:x: |:heavy_check_mark:|
 |csch0 | [SW Fan Mount No Tape](./csch0/SW_FanMount_No_Tape)| 60x20 Fan Mount for SW without tape| :x: |:x: |:x: |:heavy_check_mark:|
 | d3nny | [Filtered Power Plug with RND_165-00057](./d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | :x: | :x: | :heavy_check_mark: |:x:|
+|D4rkCelerity| [Raspberry Pi Zero Bracket](./D4rkCelerity/Raspberry_Pi_Zero_Bracket/) | Modified version of Trident RPi bracket to fit the smaller RPi Zero | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |DaGlo| [V0.1 Duet 2 Wifi mounting brackets](./DaGlo/Voron_V0_Duet_2_WiFi_Mounting_Brackets/) | Voron 0.1 Mounting brackets with/without RPi 4 | :heavy_check_mark: | :x: | :x: | :x: |
 || [Voron V0 Mean Well power supply bracket (Funssor Kit)](./DaGlo/Voron_V0_MW_PS_Bracket/) | Voron V0 Mean Well power supply bracket (Funssor Kit) | :heavy_check_mark: | :x: | :x: | :x: |
 || [Voron V0 SSR Mount](./DaGlo/Voron_V0_SSR_Mount/) | Voron V0 SSR Mount for the bottom | :heavy_check_mark: | :x: | :x: | :x: |
