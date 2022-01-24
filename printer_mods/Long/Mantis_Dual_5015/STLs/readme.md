@@ -73,7 +73,7 @@ Hotend_Mount_Rapido_v.03.stl
 The Rest
 -----------------
  - Carriage
-   -  Carriage_MGN12_v1.040.stl
+   - Carriage_MGN12_v1.040.stl
    - Carriage_MGN9_v1.0.stl
  - Cable/Umbilical Chain
    - Cable Chain Mounts
@@ -81,6 +81,7 @@ The Rest
      - China - Chain_Anchor_v3.2.stl
    - Umbilical Mount - Umbilical_Mount_v2.stl
    - Also see the usermods for other potential options.
+ - Duct_Brace_v1.0.stl can be used to connect the upper duct arms together (notes in final_assembly.md of the readme).    
  - Gantry or bed extrusion mag probe dock.
    - Gantry
      - Magprobe_Gantry_Extrusion_Mount_by_JosAr_v1.stl
