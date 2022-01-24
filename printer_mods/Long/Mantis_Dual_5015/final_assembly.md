@@ -21,9 +21,9 @@ Final Assembly
 -  ****note the heater cartridge location**
    - heater cartridge should be towards the back
 - ADXL can be mounted on the left side of the carriage or using one of the 3010 mount holes.
-  - Duct_Brace_v1.0.stl can be used to brace the upper duct arms.  
-    - The x-axis Resonance grace sometimes has a second resonance at ~110hz.  This brace can help mitigate that.  Prior to the duct brace, I used the MZV recommendation and didn't really have issues with ringing.  The duct brace improves the resonance graph, but I'm not sure if it makes a real world difference in print quality.  
-    - Put the duct brace between the two upper duct arm/5015 mount holes and mount the fan to the duct arm and the duct brace with a m3x25.  
+- Duct_Brace_v1.0.stl can be used to brace the upper duct arms.  
+  - The x-axis Resonance grace sometimes has a second resonance at ~110hz.  This brace can help mitigate that.  Prior to the duct brace, I used the MZV recommendation and didn't really have issues with ringing.  The duct brace improves the resonance graph, but I'm not sure if it makes a real world difference in print quality.  
+  - Put the duct brace between the two upper duct arm/5015 mount holes and mount the fan to the duct arm and the duct brace with a m3x25.  
 <table width=100%>
 <TR>
 <TD width=50% align="center"><img src="images/final_assembly_heater_back.jpg"><BR>The heater is always oriented towards the back with Mantis</TD>
