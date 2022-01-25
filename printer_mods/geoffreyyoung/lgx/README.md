@@ -5,14 +5,14 @@ Useful links, info, and models for using the The LGX™ Large Gears eXtruder wit
 If you have anything to add/modify/delete hit me up on discord - I'd like to keep this information as useful and current as possible to make LGX life easier for all.
 
 - [Afterburner LGX Mounts](#afterburner-lgx-mounts)
-- [MGN12/Trident X Carriage](#mgn12)
+- [MGN12/Trident X Carriage](#mgn12trident-x-carriage)
 - [Wiring](#wiring)
 - [Klipper config](#klipper-config)
 - [Extra LGX Models](#extra-lgx-models)
   * [LGX Cable Cover](#lgx-cable-cover)
   * [LGX Gear Cover](#lgx-gear-cover)
   * [LGX Lever Cover](#lgx-lever-cover)
-  * [30mm Mount Screws](#lgx-30mm-screws)
+  * [30mm Mount Screws](#30mm-mount-screws)
 
 ---
 
