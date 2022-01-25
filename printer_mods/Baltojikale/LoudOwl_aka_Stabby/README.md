@@ -5,6 +5,8 @@
 
 This is alternative part cooling fan solution which uses dual 5015 fan setup for Afterburner Toolhead. Replaces original parts that house 4020 fan or any other similar type of mod. This mod is more of situational add on for PLA or similar type filaments which might require a lot of cooling (or printing at super high speeds). It is not constant solution as it increases gantry weight.
 
+NOTE: current version left fan performs sub optimaly, thus air flow is weeker on left side.
+
 ## Hardware
 * 2x 5015 24v fans
 * 1x M3x20 SCHS (DIN912)
