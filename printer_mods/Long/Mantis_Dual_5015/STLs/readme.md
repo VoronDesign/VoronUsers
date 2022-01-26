@@ -34,7 +34,7 @@ What to Print
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
 <TD>
-The hotend mount is located in <a href="../Usermods/Wingzero/">usermods</A>
+The hotend mount is located in <a href="https://github.com/mandryd/MantisUsermods/tree/main/Usermods/Wingzero">usermods</A>
 <BR>Thanks to Wingzero for making Mosquito Compatible!</TD>
 </TR>
 <TR>
