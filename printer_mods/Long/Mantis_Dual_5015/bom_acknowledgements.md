@@ -94,4 +94,4 @@ BOM, Links, and Acknowledgements
 - Wingzero
   - Did a lot of testing/design to get the mosquito hotend working with Mantis
 - BeWater, Charles, Dustinspeed, and many others
-  - Mantis has been a working collaboration with many people.  Thanks you to everyone who has used Mantis and provided any feedback and [user mods](Usermods/readme.md).
+  - Mantis has been a working collaboration with many people.  Thanks you to everyone who has used Mantis and provided any feedback and usermods.
