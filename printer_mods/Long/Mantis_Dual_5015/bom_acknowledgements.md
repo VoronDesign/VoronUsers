@@ -88,7 +88,7 @@ BOM, Links, and Acknowledgements
     - https://github.com/selliott79/Other-V2-Idlers
 - Henrikssn
   - Helping with early testing of the MGN9 carriage.
-  - Created an awesome [toolhead board](https://github.com/mandryd/VoronUsers/tree/master/printer_mods/Long/Mantis_Dual_5015/Usermods/Henrikssn/Toolhead_PCB) and a modified carriage allowing for Klicky compatability.
+  - Created an awesome [toolhead board](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/Henrikssn/Toolhead_PCB) and a modified carriage allowing for Klicky compatability.
 - BobArctor
   - BobArctor also helped with early single mgn9 testing and test of the Dragon/Crazy Volcano combination
 - Wingzero
