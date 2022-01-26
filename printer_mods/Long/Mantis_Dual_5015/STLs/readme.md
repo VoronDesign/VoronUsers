@@ -55,7 +55,7 @@ Hotend_Mount_Rapido_v.03.stl
 <BR>duct_rapido_HF_v0.03_right.stl
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
-<TD>Because the Rapido uses FOUR screws on the top of the heatsink, and THREE screws to mount the heater to the heatsink, the orientation of the hotend mount versus the heater wire can vary.  The Part cooling ducts for Rapido have been optimized so that the Phaetus logo on the sock should point directly forward (yes the sock is asymmetrical).  <B>Print the hotend mount that allows you to mount the Rapido hotend so that the wires come out right/forward and the logo of the sock faces directly forward</B>. </TD>
+<TD><B>Print the hotend mount that allows you to mount the Rapido hotend so that the wires come out right/forward and the logo of the sock faces directly forward</B>. <BR>Because the Rapido uses FOUR screws on the top of the heatsink, and THREE screws to mount the heater to the heatsink, the orientation of the hotend mount versus the heater wire can vary.  The Part cooling ducts for Rapido have been optimized so that the Phaetus logo on the sock should point directly forward (yes the sock is asymmetrical).  </TD>
 </TR>
 <TR>
 <TD align="center">Rapido UHF</TD>
