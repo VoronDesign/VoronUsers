@@ -36,4 +36,9 @@ Final Assembly
 <TD width=50% align="center"><img src="images/final_assembly_adxl_front.jpg"></TD>
 <TD width=50% align="center"><img src="images/final_assembly_adxl_carriage.jpg"></TD>
 </TR>
+<TR>
+<TD width=50% align="center"><img src="images/final_assembly_duct_brace.jpg"></TD>
+<TD></TD>
+</TR>
+   
 </TABLE>
