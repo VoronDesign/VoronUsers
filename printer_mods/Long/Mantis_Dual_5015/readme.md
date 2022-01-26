@@ -93,7 +93,7 @@ Changes
   - Updated the CAD files to match these updates.
         
 1-10-2022
-- Added Mods by [Usermods by TheWarolf](Usermods/TheWarolf/)
+- Added Mods by [Usermods by TheWarolf](https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead)
   - ERCF Hotend mount which incorporates a filament sensor
   - Modified MGN12 carriage which fits the sailfin extruder
   - Umbilical mount which mates with the popular cable gland people have been using for umbilicals.
