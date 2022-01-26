@@ -125,7 +125,7 @@ Changes
       - Note that both of these part cooling ducts will outperform the standard Mantis ducts because the Rapido is narrower at the bottom than the Dragon.  
 
 11-29-2021
-- Added WingZero's [Mosquito Hotend Mount](Usermods/Wingzero) for Mantis using 2510 hotend fan.  Thanks for a lot of work and testing for this mod!
+- Added WingZero's [Mosquito Hotend Mount](https://github.com/mandryd/MantisUsermods/tree/main/Usermods/Wingzero) for Mantis using 2510 hotend fan.  Thanks for a lot of work and testing for this mod!
 - Added my mod of WingZero's mosquito mount which uses a 3010 fan instead of the 2510.  This mount is still alpha and needs more testing for confirmation.
 - Crazy Volcano is now compatible
   - Added beta part cooling ducts and mag probe that should work with dragon/[crazy volcano block](https://www.aliexpress.com/item/1005003506351141.html).  
