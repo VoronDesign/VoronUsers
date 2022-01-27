@@ -1,7 +1,7 @@
 <h2>Overview</h2>
   
 Scrubby is a filament dust scrubber that prevents any dust from reaching your nozzle and burning, causing partial clogs. My nozzle was clogging regularly and I 
-decided to test a dust scrubber, and I am currently two spools in without a clog so I thought I would make this design public in case someone else can benefit.
+decided to test a dust scrubber, and I have not had another clog for a very long time, so I thought I would make this design public in case someone else can benefit.
 
 ![](./images/front.PNG)
 ![](./images/back.PNG)
