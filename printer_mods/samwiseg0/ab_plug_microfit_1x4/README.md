@@ -1,5 +1,5 @@
 # Voron 2.4 AB Plug (Microfit 1x4)
- This mod is to add a plug to the gantry to connect the A & B motors. These mount on the underside of the rear extrusion facing the motors themselves. There are 2 different designs. One that supports a Microfit 3.0 1x4 with panel mount ears and the other is _without_ panel mount ears.
+This mod is to add a plug to the gantry to connect the A & B motors. These mount on the underside of the rear extrusion facing the motors themselves. There are 2 different designs. One that supports a Microfit 3.0 1x4 with panel mount ears and the other is _without_ panel mount ears.
 
  Both these plug types have been found on the Lineo harneses. Check which one came with your harness before printing.
 
