@@ -30,7 +30,7 @@ Mantis Dual 5015 Toolhead by Long
 </TR>
 <TR>
     <TD width=33% align="center" valign="top"><B>Dragon</B><BR>Lower part cooling than rapido/crazy volcano ducts due to the wide nature of the v6 block.  Still way more than a single 5015 duct that has been split, and more cooling than most people will ever need.</TD>
-    <TD width=33% align="center" valign="top"><B>Crazy Volcano Block/Dragon Heatsink</B><BR>This duct has highest amount of airflow due to the narrow shape of the heatblock.  This pairs well with the high melting capabilities of Crazy Volcano(~45-50 mm^3/s plastic). </TD>
+    <TD width=33% align="center" valign="top"><B>Crazy Volcano Block/Dragon Heatsink</B><BR>This duct has highest amount of airflow due to the narrow shape of the heatblock.  This pairs well with the high melting capabilities of Crazy Volcano (~45-50 mm^3/s plastic). </TD>
     <TD width=33% align="center" valign="top"><B>Rapido HF</B><BR>This duct has slightly less flow than the Crazy Volcano version, but more than dragon block.</TD>
 </TR>
 </TABLE>
@@ -90,7 +90,7 @@ Changes
 - Usermods has been broken out of the main repository.  Everything is still there, but it is now located [here](https://github.com/mandryd/MantisUsermods/tree/main/Usermods)
         
 1-24-2022
-- added Duct_Brace_v1.stl.  This connects the ducts together via the two upper 5015 mount holes reducing the lateral motion of the 5015 fans and resulting in an improvement in the ADXL graph (helps mitigate a resonance at ~110hz).  I didn't issues with ringing before this brace, but it does make the graph look nicer.  
+- added Duct_Brace_v1.stl.  This connects the ducts together via the two upper 5015 mount holes reducing the lateral motion of the 5015 fans and resulting in an improvement in the ADXL graph (helps mitigate a resonance at ~110hz).  I didn't have issues with ringing before this brace, but it does make the graph look nicer.  
         
 1-17-2022
 - Uploaded slightly updated ducts (duct_dragon_v1.041, duct_rapido_HF_v0.03b, duct_rapido_UHF_v0.03b, duct_dragon_crazy_volcano_v1.0).  This will be an easy swap for your existing ducts.
