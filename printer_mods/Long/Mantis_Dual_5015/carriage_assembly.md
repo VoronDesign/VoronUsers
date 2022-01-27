@@ -47,10 +47,12 @@ Carriage and Hotend Mount Assembly
   - Make sure the carriage is straight while tightening. If your carriage is tilted, using Auto-Z calibration will give inconsistent results. If you need to adjust the tile, note that you can loosen the carriage bolts without loosening the belts
 <table>
   <TR>
-    <TD align="CENTER"><img src="images/carriage_assembly_mgn9_front.jpg"></TD><TD align="CENTER"><img src="images/carriage_assembly_mgn9_front_mounted.jpg"></TD>
+    <TD align="CENTER" width=50%><img src="images/carriage_assembly_mgn9_front.jpg"></TD>
+    <TD align="CENTER" width=50%><img src="images/carriage_assembly_mgn9_front_mounted.jpg"></TD>
   </TR>
 <TR>
-  <TD align="CENTER"><img src="images/carriage_assembly_mgn9_rear_belts.jpg"><BR>I'm using a filed down openbuild T-Nut here.  There are other mods to use t-nuts and hex nuts in <a href="usermods/readme.md">usermods.</a></TD><TD align="CENTER"><img src="images/carriage_assembly_mgn9_rear_wiring.jpg"></TD>
+    <TD align="CENTER" width=50%><img src="images/carriage_assembly_mgn9_rear_belts.jpg"><BR>I'm using a filed down openbuild T-Nut here.  There are other mods to use t-nuts and hex nuts in <a href="usermods/readme.md">usermods.</a></TD>
+    <TD align="CENTER" width=50%><img src="images/carriage_assembly_mgn9_rear_wiring.jpg"></TD>
 </TR>
 </table>
   
