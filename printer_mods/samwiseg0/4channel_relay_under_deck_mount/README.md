@@ -9,7 +9,7 @@ Designed to mount a 4 channel GPIO controlled relay.
 
 Size | Qty
 --- | ---
-[4 Channel relay](https://www.aliexpress.com/item/32649659086.html?spm=a2g0o.9042311.0.0.27424c4d1felLS) | 1
+[4 Channel relay](https://www.aliexpress.com/item/32649659086.html) | 1
 M3x8 or M3x6 | 4
 M5x8 | 2
 M5 T-Nut | 2

@@ -10,7 +10,7 @@ Designed to mount a NTC100K Thermistor Sensor to 2020 extrusions.
 
 Size | Qty
 --- | ---
-[NTC100K Thermistor](https://www.amazon.com/gp/product/B07QDQXDQ5/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1) | 1
+[NTC100K Thermistor](https://www.amazon.com/gp/product/B07QDQXDQ5) | 1
 M3x8 | 1
 M3 T-Nut | 1
 
