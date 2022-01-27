@@ -1,0 +1,17 @@
+# 4 Channel Relay Under Deck Mount
+Designed to mount a 4 channel GPIO controlled relay.
+
+### Printing
+  * Default voron settings
+  * No supports needed
+
+### BOM
+
+Size | Qty
+--- | ---
+[4 Channel relay](https://www.aliexpress.com/item/32649659086.html?spm=a2g0o.9042311.0.0.27424c4d1felLS) | 1
+M3x8 or M3x6 | 4
+M5x8 | 2
+M5 T-Nut | 2
+
+![4 Channel Relay Under Deck Mount](Images/4channel_relay_under_deck_mount.png)
