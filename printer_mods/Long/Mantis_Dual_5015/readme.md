@@ -30,7 +30,7 @@ Mantis Dual 5015 Toolhead by Long
 </TR>
 <TR>
     <TD width=33% align="center" valign="top"><B>Dragon</B><BR>Lower part cooling than rapido/crazy volcano ducts due to the wide nature of the v6 block.  Still way more than a single 5015 duct that has been split, and more cooling than most people will ever need.</TD>
-    <TD width=33% align="center" valign="top"><B>Crazy Volcano Block/Dragon Heatsink</B><BR>This duct has highest amount of airflow due to the narrow shape of the heatblock.  This pairs well with the high melting capabilities (~45-50 mm^3/s plastic). </TD>
+    <TD width=33% align="center" valign="top"><B>Crazy Volcano Block/Dragon Heatsink</B><BR>This duct has highest amount of airflow due to the narrow shape of the heatblock.  This pairs well with the high melting capabilities of Crazy Volcano(~45-50 mm^3/s plastic). </TD>
     <TD width=33% align="center" valign="top"><B>Rapido HF</B><BR>This duct has slightly less flow than the Crazy Volcano version, but more than dragon block.</TD>
 </TR>
 </TABLE>
