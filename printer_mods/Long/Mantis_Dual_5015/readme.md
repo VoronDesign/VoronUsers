@@ -84,6 +84,11 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+1-27-2022
+- TheWarolf has added LGX Lite compatibility in his repository of Mantis mods.
+  - https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead
+- Usermods has been broken out of the main repository.  Everything is still there, but it is now located [here](https://github.com/mandryd/MantisUsermods/tree/main/Usermods)
+        
 1-24-2022
 - added Duct_Brace_v1.stl.  This connects the ducts together via the two upper 5015 mount holes reducing the lateral motion of the 5015 fans and resulting in an improvement in the ADXL graph (helps mitigate a resonance at ~110hz).  I didn't issues with ringing before this brace, but it does make the graph look nicer.  
         
