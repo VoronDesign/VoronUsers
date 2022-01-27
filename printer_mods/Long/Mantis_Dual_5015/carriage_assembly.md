@@ -60,7 +60,16 @@ Carriage and Hotend Mount Assembly
   - Install heat sets into the obvious places.  
   - 3010 fan uses screws directly into plastic.
 
-<img src="images/carriage_assembly_hotend_mount_front.jpg" width=50% height=50%><img src="images/carriage_assembly_hotend_mount_top.jpg" width=50% height=50%>
+<table>
+  <TR>
+    <TD align="CENTER"><img src="images/carriage_assembly_hotend_mount_front.jpg"><BR><B>Dragon</B><BR>Heater cartridge is pointed to the back (opposite of afterburner/stealthburner)</TD>
+    <TD align="CENTER"><img src="images/carriage_assembly_hotend_mount_top.jpg"></TD>
+  </TR>
+<TR>
+  <TD align="CENTER"><img src="images/carriage_assembly_crazy_volcano.jpg"><BR><B>Crazy Volcano</B><BR>Note Heater block orientation and wire pathing.</TD>
+  <TD align="CENTER"><img src="images/carriage_assembly_rapido.jpg"><BR><B>Rapido</B><BR>Print the hotend mount (Hotend_Mount_Rapido_v.03 or Hotend_Mount_Rapido_v.03_Rotated120Degrees) that has the Phaetus logo on the sock facing directly forward.  <BR>Wires should come out right/forward</TD>
+</TR>
+</table>
 
 - Hotends
   - Dragon and Dragon/Crazy Volcano
