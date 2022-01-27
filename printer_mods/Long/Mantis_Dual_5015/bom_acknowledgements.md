@@ -93,5 +93,8 @@ BOM, Links, and Acknowledgements
   - BobArctor also helped with early single mgn9 testing and test of the Dragon/Crazy Volcano combination
 - Wingzero
   - Did a lot of testing/design to get the mosquito hotend working with Mantis
+- TheWarolf
+  - Modified the hotend mount so that an ERCF sensor would fit.
+  - https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead
 - BeWater, Charles, Dustinspeed, and many others
   - Mantis has been a working collaboration with many people.  Thanks you to everyone who has used Mantis and provided any feedback and usermods.
