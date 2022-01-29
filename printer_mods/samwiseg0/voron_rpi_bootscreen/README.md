@@ -86,7 +86,7 @@ WantedBy=sysinit.target
 
 Place the image on the pi and name it `boot-image.png`. The image should live in the main home directory for the `pi` user. The full path for the image is `/home/pi/boot-image.png` **You may use another name but you must change it in the systemd file above.**
 
-You can find a basic guide on how to conect to the pi and transfer a file [here](https://howchoo.com/pi/how-to-transfer-files-to-the-raspberry-pi). Note that when you connect to your pi via any of these methods the default location is `/home/pi/`. You should be able to just drop the file into the default directory after connecting.
+You can find a basic guide on how to connect to the pi and transfer a file [here](https://howchoo.com/pi/how-to-transfer-files-to-the-raspberry-pi). Note that when you connect to your pi via any of these methods the default location is `/home/pi/`. You should be able to just drop the file into the default directory after connecting.
 
 Enable the service by running
 ```cmd
