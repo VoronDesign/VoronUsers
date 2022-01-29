@@ -72,6 +72,9 @@ StandardOutput=tty
 [Install]
 WantedBy=sysinit.target
 ```
+
+Press **ctrl+X, Y for save and Enter** to return to the command line.
+
  * `-d/dev/fb0` - Tells `fbi` which image to display.
 
  * `--noverbose` - Suppresses `fbi` ‘status bar’ at the bottom.
