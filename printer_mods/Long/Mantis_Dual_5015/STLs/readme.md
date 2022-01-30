@@ -12,8 +12,8 @@ What to Print
 <TR>
 <TD align="center">Dragon<BR>(2.4 and Trident)</TD>
 <TD align="center">Hotend_Mount_Dragon_v1.040.stl
-<BR>duct_dragon_v1.037_left.stl
-<BR>duct_dragon_v1.037_right.stl
+<BR>duct_dragon_v1.041_left.stl
+<BR>duct_dragon_v1.041_right.stl
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
 <TD></TD>
@@ -29,8 +29,8 @@ What to Print
 <TR>
 <TD align="center">Mosquito</TD>
 <TD align="center">hotend_mount_mosquito_30mm_fan_v0.42
-<BR>duct_dragon_v1.037_left.stl
-<BR>duct_dragon_v1.037_right.stl
+<BR>duct_dragon_v1.041_left.stl
+<BR>duct_dragon_v1.041_right.stl
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
 <TD>
@@ -41,8 +41,8 @@ The hotend mount is located in <a href="https://github.com/mandryd/MantisUsermod
 <TD align="center">Crazy Volcano with Dragon Heatsink</TD>
 <TD align="center">
 Hotend_Mount_Dragon_v1.040.stl
-<BR>duct_dragon_crazy_volcano_v0.3e_left.stl
-<BR>duct_dragon_crazy_volcano_v0.3e_right.stl
+<BR>duct_dragon_crazy_volcano_v1.0_left.stl
+<BR>duct_dragon_crazy_volcano_v1.0_right.stl
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
 <TD></TD>
@@ -51,8 +51,8 @@ Hotend_Mount_Dragon_v1.040.stl
 <TD align="center">Rapido HF</TD>
 <TD align="center">
 Hotend_Mount_Rapido_v.03.stl
-<BR>duct_rapido_HF_v0.03_left.stl
-<BR>duct_rapido_HF_v0.03_right.stl
+<BR>duct_rapido_HF_v0.03b_left.stl
+<BR>duct_rapido_HF_v0.03b_right.stl
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
 <TD><B>Print the hotend mount that allows you to mount the Rapido hotend so that the wires come out right/forward and the logo of the sock faces directly forward</B>. <BR>Because the Rapido uses FOUR screws on the top of the heatsink, and THREE screws to mount the heater to the heatsink, the orientation of the hotend mount versus the heater wire can vary.  The Part cooling ducts for Rapido have been optimized so that the Phaetus logo on the sock should point directly forward (yes the sock is asymmetrical).  </TD>
@@ -61,8 +61,8 @@ Hotend_Mount_Rapido_v.03.stl
 <TD align="center">Rapido UHF</TD>
 <TD align="center">
 Hotend_Mount_Rapido_v.03.stl
-<BR>duct_rapido_UHF_v0.03_left.stl
-<BR>duct_rapido_UHF_v0.03_right.stl
+<BR>duct_rapido_UHF_v0.03b_left.stl
+<BR>duct_rapido_UHF_v0.03b_right.stl
 <BR>Magprobe_v0.31_RapidoUHF.stl
 </TD>
  <TD>See the RapidoHF notes on which hotend mount to print.<BR>Don't forget you will need to switch between magprobes if you switch between UHF and HF variant of the Rapido.</TD>
