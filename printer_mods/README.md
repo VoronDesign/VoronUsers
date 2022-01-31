@@ -302,7 +302,7 @@ like so:
 | whoppingpochard | [Extrusion Backers](./whoppingpochard/extrusion_backers) | Laser-cut metal pieces to counteract bimetallic frame warping | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
-| xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|:heavy_check_mark: |
+| xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [2020 Top Spool Holder](./xbst_/Top_Spool_Holder)| A mod of the stock Voron spool holder to mount on the top extrusion | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|:heavy_check_mark: |
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|:heavy_check_mark: |
@@ -327,6 +327,7 @@ like so:
 | | [V0.1 Tall Legs](./xbst_/V01_Leg)| Taller legs for bottom electronic cover panels | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 | | [V0.1 Skirt Buttons](./xbst_/V01_Skirt_Buttons)| Skirt buttons and display mount for V0.1 | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 | | [V0.1 Square Tophat](./xbst_/V01_Tophat) | New Tophat with "plastic 1515 extrusions" added to the top, with larger acrylic panels for better view, with diffused top LED lighting & camera mount | :heavy_check_mark: |:x: |:x: |:x:|:x:|
+| | [V0.1 E3D Revo Micro Mount](./xbst_/V01_Revo) | V0.1 Mini-AB mod for the E3D Revo Micro | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | Xceled | [Single Panel Magnet Mount](./xceled/Single_Panel_Magnet_Mount)| Mount your front panel using only magnets | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | Yeri | [V0 Magnetic Panels](./yeri/V0_Magnetic_Panels)| Mount V0 panels with magnets, removes need for hinges and lets you easily detach sides for access | :heavy_check_mark: | :x: | :x: | :x: |
 | | [V1 3Z](./yeri/V1_3Z)| 3Z mod for V1 | :x: | :heavy_check_mark: | :x: | :x: |
