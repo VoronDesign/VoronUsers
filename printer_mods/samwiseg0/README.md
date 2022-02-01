@@ -14,9 +14,6 @@
   </tr>
      <tr>
     <td align="center"><a href="./microfit_2x3_skirt_connector_adxl">Microfit 2x3 Skirt Connector (ADXL)<br><img src="./microfit_2x3_skirt_connector_adxl/Images/[a]_microfit_2x3_skirt_connector_adxl.png" alt="1" width=300px></a></td>
-    <td align="center"><a href="./voron_rpi_bootscreen">Voron RaspberryPi Bootscreens<br><img src="./voron_rpi_bootscreen/Images/boot_tile.png" alt="1" width=300px></a></td>
-  </tr>
-  <tr>
     <td align="center"><a href="./voyager_gtx_din_mount">Corsair Flash Voyager GTX Din Mount<br><img src="./voyager_gtx_din_mount/Images/voyager_gtx_din_mount.png" alt="1" width=300px></a></td>
   </tr>
   </table>
