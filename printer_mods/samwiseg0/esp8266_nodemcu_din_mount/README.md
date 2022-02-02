@@ -1,5 +1,5 @@
 # ESP8266 NodeMCU Din Mount
-Designed to hold an ESP8266 NodeMCU. The ESP can be mounted in either direction.
+Designed to hold an [ESP8266 NodeMCU](https://components101.com/development-boards/nodemcu-esp8266-pinout-features-and-datasheet). The ESP can be mounted in either direction.
 
 The model included can be mounted to the original 2.4 din clip or the newer Trident din clip.
 
