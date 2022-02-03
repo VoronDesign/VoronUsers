@@ -5,7 +5,7 @@ They are large enough to fit 3 pin microfit connectors.
 
 There maybe some small loss in z. Don't forget to check your clearances after installing.
 
- **Pro tip: It may take some fiddling to get the wires to fit. You will know they are in place when it sits flush to the extrusions without wobbling.**
+ **Pro tip: It may take some fiddling to get the wires to fit. You will know they are in place when it sits flush to the extrusions without wobbling. Also disable 'Thin Walls/Detect Thin walls' so the mounting ears print cleanly.**
 
 ### Printing
   * Default voron settings
