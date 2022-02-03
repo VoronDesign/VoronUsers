@@ -18,6 +18,8 @@ The belt clamp/bed mount part accounts for the 3.2mm shift forward for the bed o
 * V0-zbelt-BEDMOUNT_MODIFIED_V0.1 has built in supports that need to be removed.
 ![Zbelt-1](Images/ZBelt-Support-01.png)
 
+* The mid panel will need a cutout in the bottom to make room for the z drive assembly.  The cutout doesn't need to be exact there just needs to be room for the z drive.  Dimensions are approximately 83mm wide and 15mm tall centered on the bottom.
+![Mid-Panel](Images/mid_panel.JPG)
 
 # Klipper Stepper Settings:
 

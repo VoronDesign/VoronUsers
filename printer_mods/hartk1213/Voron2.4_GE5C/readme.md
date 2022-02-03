@@ -14,6 +14,10 @@ Screws
 |M5x1mm spacer|4|
 |If using Halleffect 6x3 magnet | 1 |
 
+#### Notes about IGUS bearings
+
+You can replace the GE5C bearings with IGUS models. There are two IGUS spherical bearings types: the `KGLM` and `EGLM` series. The EGLM are compatible with the files found in the `Z_Joints` folder, the KGLM require the files located in `Z_Joints/Phalanx`.
+
 
 ![1](Images/1.png) 
 
