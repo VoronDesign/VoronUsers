@@ -19,5 +19,5 @@ Steps to perform:
 Step 1. 
 Mount bottom part on X carriage and push thought belts. Keep in mind that loose belt backs square nut (use holes for regulate them)
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img5text.jpg" width="600">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img5text.jpg" width="800">
 
