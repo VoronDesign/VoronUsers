@@ -27,19 +27,19 @@ Mount bottom part on X carriage and push thought belts. Keep in mind that loose 
 
 Step 2. Put top part and pass thought belts. Screw tension bolts to have zero minimal gap between bottom and top plate
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3.jpg" width="500">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3.jpg" width="800">
 
 Step 3. Fix belts on top part but leave loosen on bottom
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img1text.jpg" width="500">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img1text.jpg" width="800">
 
 Step 4. Tension belt by turning the bolts synchronously (do it sequentially by one turn for each)
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img2text.jpg" width="500">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img2text.jpg" width="800">
 
 Step 5. When belt are in tesion fix them using service holes by allen hex key
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3text.jpg" width="500">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3text.jpg" width="800">
 
 Step 6. Loose all M5 and unmount top and bottom tool parts
 
@@ -47,6 +47,6 @@ Step 6. Loose all M5 and unmount top and bottom tool parts
 (Optional). When need to do individual belt tesion use combination of bolts fix or loosen. 
 See example for case when need to do extra tension for top belt
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img1text2.jpg" width="500">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img1text2.jpg" width="800">
 
 
