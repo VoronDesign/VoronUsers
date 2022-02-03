@@ -14,6 +14,8 @@ BOM
 
 - 2 M5 bolts and M5 nuts to perform tension 
 
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img6.jpg" width="800">
+
 While printing use higher infil for bottom or use cylidric modifies to add stength for pads where M5 bolts will do presure 
 See example here:
 <img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Tension_tool_slicing.PNG" width="800">
@@ -27,7 +29,7 @@ Mount bottom part on X carriage and push thought belts. Keep in mind that loose 
 
 Step 2. Put top part and pass thought belts. Screw tension bolts to have zero minimal gap between bottom and top plate
 
-<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3.jpg" width="800">
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3text2.jpg" width="800">
 
 Step 3. Fix belts on top part but leave loosen on bottom
 
