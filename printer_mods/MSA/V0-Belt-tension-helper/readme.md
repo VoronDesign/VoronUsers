@@ -41,4 +41,12 @@ Step 5. When belt are in tesion fix them using service holes by allen hex key
 
 <img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img3text.jpg" width="500">
 
+Step 6. Loose all M5 and unmount top and bottom tool parts
+
+
+(Optional). When need to do individual belt tesion use combination of bolts fix or loosen. 
+See example for case when need to do extra tension for top belt
+
+<img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img1text2.jpg" width="500">
+
 
