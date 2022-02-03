@@ -2,7 +2,7 @@ A belt tension helper - is a tool to do pre-tension of belts
 
 <img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Tension_tool_drawing.PNG" width="600">
 
-Tool as act as helper to do inital belt tension. It is able to do individual belt tension or synced tension of belts
+A tool act as a helper to do initial belt tension. It is able to do individual belt tension or synced tension of belts
 
 <img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img2.jpg" width="600">
 
