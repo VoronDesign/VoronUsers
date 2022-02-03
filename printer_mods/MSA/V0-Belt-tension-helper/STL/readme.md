@@ -1,1 +1,1 @@
-STL files
+STL/3MF files
