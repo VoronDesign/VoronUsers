@@ -8,11 +8,11 @@ Tool as act as helper to do inital belt tension. It is able to do individual bel
 
 BOM 
 
-- 2 or 3 M3 bolts to mount helper to X-carriage 
+- 2 or 3 M3 8mm bolts to mount helper to X-carriage 
 
-- 2 M5 bolts to fix belts when needed
+- 2x15mm M5 bolts to fix belts when needed
 
-- 2 M5 bolts and M5 nuts to perform tension 
+- 2x40mm M5 bolts and M5 nuts to perform tension 
 
 <img src="/printer_mods/MSA/V0-Belt-tension-helper/Images/Belttool-img6.jpg" width="800">
 
