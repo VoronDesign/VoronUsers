@@ -44,5 +44,6 @@ Clearance cad check for Adafruit board.
 
 ## Changes
 2022-04-02 - Addressed issues with Adafruit mount identified by PineappleTuesday
+2022-04-02 - Also fixed issue with IGUS end chain and mounting screw
 
 discord:whistlinric
