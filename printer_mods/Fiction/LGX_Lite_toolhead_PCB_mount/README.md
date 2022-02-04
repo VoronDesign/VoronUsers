@@ -15,6 +15,7 @@ Tested with version 3.2 of the toolhead PCB https://github.com/VoronDesign/Voron
 
 ## STLs
 - if you're having problems downloading the STLs, right-click on the *Download* or *Raw* link and *Save Link As...* or the equivalent for your browser
+
 ![](./Images/github_download.png)
 
 ## Images
