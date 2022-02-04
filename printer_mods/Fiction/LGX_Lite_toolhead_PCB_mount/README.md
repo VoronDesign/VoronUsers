@@ -12,7 +12,9 @@ Tested with version 3.2 of the toolhead PCB https://github.com/VoronDesign/Voron
 ## Notes
 - install the threaded inserts from the flat side of the mount. This will leave some plastic between the threaded insert and the PCB to prevent damage to traces etc
 - use the spacer or washers between the mount and the LGX Lite body to avoid interference with the gears
-- if you're having prblems downloading the STLs, right-click on the *Download* or *Raw* link and *Save Link As...* or the equivalent for your browser
+
+## STLs
+- if you're having problems downloading the STLs, right-click on the *Download* or *Raw* link and *Save Link As...* or the equivalent for your browser
 ![](./Images/github_download.png)
 
 ## Images
