@@ -164,6 +164,8 @@ like so:
 |hijax_pl_ |[Corner panel clip](./hijax_pl/corner_panel_clip) |V2 panel corner frames using 3-way L brackets in the corners |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Din Rail mount](./hijax_pl/din_rail_mount) |Adapter to attach DIN Rail to 2020 extrusion. |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Controler Board adapters](./hijax_pl/ender_compatible_controller_mount) |DIN (rotated) and legacy adapters for boards like SKR mini E3. |:grey_question: |:x: |:heavy_check_mark: |:x:|
+| hobson318 | [Klipper Expander Mount](./Hobson318/Klipper_Expander_Mount) | Mounting brackets for the klipper expander using vhb tape or mounting screws | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Belt Tension Wrench](./Hobson318/Belt_Tension_Wrench) | Wrench for easier turning of the belt tension knobs on V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |hoschi| [FYSETC Spider DIN Rail Mount](./hoschi/FYSETC_Spider_DIN_Mount) | DIN rail mount for FYSETC Spider | :x: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |hymness1| [Quickdraw probe Voron Switchwire](./hymness1/Quickdraw_probe_Voron_Switchwire) | Detachable magnetic probe with docking system for VSW | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 | | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
