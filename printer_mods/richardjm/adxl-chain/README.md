@@ -27,8 +27,8 @@ Clearance cad check for Adafruit board.
 - M3 nylon/Printed washer
 - M3 Threaded Insert * 3 or 5 (IGUS or Generic)
 
-### Adafruit ADXL345 board (1in by 0.8in)
-- Adafruit ADXL345 board (1in by 0.8in)
+### Adafruit ADXL345 board (0.95in by 0.75in)
+- Adafruit ADXL345 board (0.95in by 0.75in)
 - M2.5x6 BHCS (threads into plastic)
 - M2.5 nylon/printed washer
 - M3 Threaded Insert * 2 or 3 (IGUS or Generic)
@@ -43,7 +43,8 @@ Clearance cad check for Adafruit board.
 - Trying to use threaded inserts for the Adafruit board would make the edges too thin
 
 ## Changes
-2022-04-02 - Addressed issues with Adafruit mount identified by PineappleTuesday
-2022-04-02 - Also fixed issue with IGUS end chain and mounting screw
+2022-02-04 - Addressed issues with Adafruit mount identified by PineappleTuesday
+2022-02-04 - Also fixed issue with IGUS end chain and mounting screw
+2022-02-08 - Updated Adafruit with new cad - now 0.95in by 0.75in
 
 discord:whistlinric
