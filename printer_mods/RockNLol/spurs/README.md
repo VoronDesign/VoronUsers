@@ -35,11 +35,11 @@ Recommended support placement:
 All parts should fit comfortably on any V2.4 buildplate.
 <img src="https://github.com/RockNLol/VoronUsers/blob/aaa60968806f294b253d89f0a20c74e227dd634f/printer_mods/RockNLol/spurs/images/buildplate.jpg" width="400">
 
-Melt M3 threaded inserts into the braces.
 
 ### Assembly: ###
-Start with assembling the two corner modules. Insert the braces into the spurs and screw them together using the M3x20 SHCS crews.
-Remove the bottom corner panel clips and insert the T-nuts. Two M5 T-nuts into each vertical extrusion and two M3 T-nuts on each side of the horizontal extrusion.
-Put the corner modules in place and screw them in place by using two M5x10 BHCS and two M3x12 SHCS each.
+Start with melting the M3 threaded inserts into the braces.
+Then insert the braces into the spurs and screw them together using the M3x20 SHCS crews.
+Remove the bottom corner panel clips and insert the T-nuts. Put two M5 T-nuts into each vertical extrusion and two M3 T-nuts on each side of the horizontal extrusion.
+Put the corner modules in place and screw them in with two M5x10 BHCS and two M3x12 SHCS each.
 
-__Optional:__ To increase the stiffness even further you can replace the base plate of the feet with the one of this mod. Its fork pieces fit right into the spurs supporting them during tilting.
+__Optional:__ To increase the stiffness even further you can replace the base plate of the feet with the one of this mod. Its fork tips fit right into the spurs supporting them during tilting.
