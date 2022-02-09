@@ -27,15 +27,13 @@ The test print in the pictures is done with Formfutura rTitan ABS.
 #### Support: ####
 All the STLs are oriented correctly. The spurs themselves have overhangs where the backpanel is supposed to sit. Make sure to support them properly, especially the corner and under the M5 Screw holes, where the material gets thin to avoid voids as experienced in the test prints:
 
-![alt text](https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_01.jpg)
-![alt text](https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_02.jpg)
-
+<img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_01.jpg" width="400">
+<img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_02.jpg" width="400">
 Recommended support placement:
 
-![alt text](https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_03.jpg)
-
+<img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_03.jpg" width="400">
 All parts should fit comfortably on any V2.4 buildplate.
-![alt text](https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/buildplate.jpg)
+<img src="(https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/buildplate.jpg" width="400">
 
 Melt M3 threaded inserts into the braces.
 
