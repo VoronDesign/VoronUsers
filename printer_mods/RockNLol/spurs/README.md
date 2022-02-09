@@ -1,4 +1,4 @@
-# Spurs for Voron V2.4#
+# Spurs for Voron V2.4 #
 This mod is intended to make access to the electronics compartment easier by enabling the printer to be tilted on its back without damaging cables or the exhaust system.
 The spurs are mounted on the vertical extrusions in the back replacing the panel corners. Additionally they are braced against the horizontal back extrusion.
 The mod is designed for and tested with a V2.4, but it might work with a V1 or Trident as well. Due to their higher center of gravity V1 and Trident might need additional feet higher up.
