@@ -6,7 +6,8 @@ The spurs are mounted on the vertical extrusions in the back replacing the panel
 | pcs. | name               |
 |------|--------------------|
 | 4    | M5x10 BHCS         |
-| 4    | M3x12 SHCS         |
+| 4    | M3x10 SHCS         |
+| 2    | M3x20 SHCS         |
 | 4    | M5 T-nut           |
 | 4    | M3 T-nut           |
 | 2    | M3 Threaded Insert |
