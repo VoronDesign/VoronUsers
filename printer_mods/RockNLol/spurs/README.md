@@ -7,7 +7,7 @@ The mod is designed for and tested with a V2.4, but it might work with a V1 or T
 | pcs. | name               |
 |------|--------------------|
 | 4    | M5x10 BHCS         |
-| 4    | M3x10 SHCS         |
+| 4    | M3x12 SHCS         |
 | 2    | M3x20 SHCS         |
 | 4    | M5 T-nut           |
 | 4    | M3 T-nut           |
