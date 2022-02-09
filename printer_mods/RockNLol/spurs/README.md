@@ -31,9 +31,9 @@ All the STLs are oriented correctly. The spurs themselves have overhangs where t
 <img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_02.jpg" width="400">
 Recommended support placement:
 
-<img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_03.jpg" width="400">
+<img src="https://github.com/RockNLol/VoronUsers/blob/aaa60968806f294b253d89f0a20c74e227dd634f/printer_mods/RockNLol/spurs/images/support_03.jpg" width="400">
 All parts should fit comfortably on any V2.4 buildplate.
-<img src="(https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/buildplate.jpg" width="400">
+<img src="https://github.com/RockNLol/VoronUsers/blob/aaa60968806f294b253d89f0a20c74e227dd634f/printer_mods/RockNLol/spurs/images/buildplate.jpg" width="400">
 
 Melt M3 threaded inserts into the braces.
 
