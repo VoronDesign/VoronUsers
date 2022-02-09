@@ -12,4 +12,4 @@ The spurs are mounted on the vertical extrusions in the back replacing the panel
 | 4    | M3 T-nut           |
 | 2    | M3 Threaded Insert |
 
-As all these are in the BOM of a V2.4 or Trident it is higly likely you can do this with leftovers from your printer build.
+As all these are in the BOM of a V2.4 or Trident it is highly likely you can buil this mod with leftovers from your printer.
