@@ -79,6 +79,7 @@ like so:
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+| CGrassin | [V0.1 CR10/E3 all metal hotend](./CGrassin/V0.1_CR10_E3_Mini_Afterburner) | Voron V0.1 Mini Afterburner part to fit a standard CR10/Ender 3 hotend assembly | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | ChenTheDesignMaker | [Z Belt Clip](./ChenTheDesignMaker/Z_Belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
@@ -349,4 +350,3 @@ like so:
 | | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Adxl, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|:x: |
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
-| CGrassin | [V0.1 CR10/E3 all metal hotend](./CGrassin/V0.1_CR10_E3_Mini_Afterburner) | Voron V0.1 Mini Afterburner part to fit a standard CR10/Ender 3 hotend assembly | :heavy_check_mark: | :x: | :x: | :x: |
