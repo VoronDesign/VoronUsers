@@ -1,7 +1,15 @@
-# Spurs for Voron V2.4 #
-This mod is intended to make access to the electronics compartment easier by enabling the printer to be tilted on its back without damaging cables or the exhaust system.
-The spurs are mounted on the vertical extrusions in the back replacing the panel corners. Additionally they are braced against the horizontal back extrusion.
-The mod is designed for and tested with a V2.4, but it might work with a V1 or Trident as well. Due to their higher center of gravity V1 and Trident might need additional feet higher up.
+# RockNRoll - Rockers for Voron V2.4 #
+This mod is intended to make access to the electronics compartment easier by enabling the printer to be rolled on its back without damaging cables or the exhaust system.
+The rockers are mounted on the vertical extrusions in the back replacing the panel corners. Additionally they are braced against the horizontal back extrusion.
+The mod is designed for and tested with a 350mm V2.4, but it might work with a V1 or Trident as well. Due to their higher center of gravity V1 and Trident might need additional feet higher up.
+
+### Gallery: ###
+To give you an example how this works, take a look at these pictures:
+
+<img src="./images/example_01.jpg" width="600">
+<img src="./images/example_02.jpg" width="600">
+<img src="./images/example_03.jpg" width="600">
+<img src="./images/example_04.jpg" width="600">
 
 ### Hardware needed: ###
 | pcs. | name               |
@@ -17,43 +25,58 @@ As all these are in the BOM of a V2.4 it is highly likely you can build this mod
 
 ### Printing: ###
 #### Print Settings: ####
-This mod needs structural integrity and high stiffness. Based on the Voron recommendations for structural printer parts these settings are recommended:
+This mod needs rigidity and stiffness. Based on the Voron recommendations for structural printer parts these settings are recommended:
 - 0.4mm Nozzle
 - 5 Perimeters
 - 40% Infill
 - 10 top and bottom Layers
 
-The test print in the pictures is done with Formfutura rTitan ABS.
+The test prints in the pictures are done with Formfutura rTitan ABS.
 
 #### Support: ####
-All the STLs are oriented correctly. The spurs themselves have overhangs where the backpanel is supposed to sit. Make sure to support them properly, especially the corner and under the M5 Screw holes, where the material gets thin to avoid voids as experienced in the test prints:
+All the STLs are oriented correctly. The rockers themselves have overhangs where the backpanel is supposed to sit. Make sure to support them properly, especially the corner and under the M5 bolt holes, where the material gets thin to avoid voids as experienced in these test prints:
 
-<img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_01.jpg" width="400">
-<img src="https://github.com/RockNLol/VoronUsers/blob/a9d79e99a1176360f75848a9801a3b48c4d6ff6b/printer_mods/RockNLol/spurs/images/support_02.jpg" width="400">
+<img src="./images/support_01.jpg" width="600">
+<img src="./images/support_02.jpg" width="600">
+
 Recommended support placement:
 
-<img src="https://github.com/RockNLol/VoronUsers/blob/aaa60968806f294b253d89f0a20c74e227dd634f/printer_mods/RockNLol/spurs/images/support_03.jpg" width="400">
+<img src="./images/support_03.jpg" width="600">
+
 All parts should fit comfortably on any V2.4 buildplate.
-<img src="https://github.com/RockNLol/VoronUsers/blob/aaa60968806f294b253d89f0a20c74e227dd634f/printer_mods/RockNLol/spurs/images/buildplate.jpg" width="400">
+
+<img src="./images/buildplate.jpg" width="600">
 
 
 ### Assembly: ###
 #### Threaded Inserts: ####
 Start with melting the M3 threaded inserts into the braces:
 
-<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/threaded_inserts_02.jpg" width="400">
+<img src="./images/threaded_inserts_02.jpg" width="600">
 
-If the support on the sides of the hole deforms from the heat, snip it off to prevent interference with the spur:
+If the support on the sides of the hole deforms from the heat, snip it off to prevent interference with the rocker:
 
-<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/threaded_inserts_01.jpg" width="400">
+<img src="./images/threaded_inserts_01.jpg" width="600">
 
-#### Corner Modules: ####
-To assemble the corner modules insert the braces into the spurs and screw them together using the M3x20 SHCS crews:
+#### Mounting the Braces: ####
+Remove the bottom corner panel clips of the back panel and insert the T-nuts. Put two M5 T-nuts into each vertical extrusion and two M3 T-nuts on each side of the horizontal extrusion.
+Put the braces roughly in place and screw them in lightly with two M3x12 SHCS bolts each.
 
-<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/corner_modules_01.jpg" width="400">
-<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/corner_modules_02.jpg" width="400">
+<img src="./images/assembly_braces_02.jpg" width="600">
+<img src="./images/assembly_braces_01.jpg" width="600">
 
-Remove the bottom corner panel clips and insert the T-nuts. Put two M5 T-nuts into each vertical extrusion and two M3 T-nuts on each side of the horizontal extrusion.
-Put the corner modules in place and screw them in with two M5x10 BHCS and two M3x12 SHCS each.
+#### Mounting the Rockers: ####
+Make sure the T-nuts line up with the holes in the rockers and mount the rockers on their braces. They should slot right in. Bolt rocker and brace together with a M3x20 SHCS bolt before mounting the rocker on the vertical extrusion with two M5x10 BHCS bolts. Once every bolt is in place, tighten them all up.
 
-__Optional:__ To increase the stiffness even further you can replace the base plate of the feet with the one of this mod. Its fork tips fit right into the spurs supporting them during tilting.
+<img src="./images/assembly_rockers_01.jpg" width="600">
+
+#### __Optional:__ Mounting the Base Plates: ####
+To increase the support of the rockers you can swap out two of the original base plates of the rubber feet with the ones of this mod. They slot into the rockers tip and support it while tilting. Tilting works fine without them though.
+Start with playing your favorite Elvis song and rocking and rolling the printer on its back for the first time. Remove the rubber feet and the stock base plates:
+
+<img src="./images/assembly_base_plates_01.jpg" width="600">
+<img src="./images/assembly_base_plates_02.jpg" width="600">
+
+Swap the M5 nut of the stock base plate to the new one and slot the fork tips of the new base plate into the rocker. Then screw everything back together:
+
+<img src="./images/assembly_base_plates_03.jpg" width="600">
