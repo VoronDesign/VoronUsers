@@ -7,8 +7,8 @@ The mod is designed for and tested with a 350mm V2.4, but it might work with a V
 To give you an example how this works, take a look at these pictures:
 
 <img src="./images/example_01.jpg" width="600">
-<img src="./images/example_03.jpg" width="600">
 <img src="./images/example_04.jpg" width="600">
+<img src="./images/example_03.jpg" width="600">
 <img src="./images/example_02.jpg" width="600">
 
 ### Hardware needed: ###
