@@ -9,10 +9,9 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 
-'\\\\truenaswien\\3D-Print\\VoronUsers\\VoronUsers\\printer_mods\\Rock
-NLol\\spurs\\CAD\\spurs_right.stp',
-/* time_stamp */ '2022-02-09T12:49:50+01:00',
+/* name */ 'S:\\Dokumente\\Inventor\\Voron_Mod_RockNRoll\\rocker_right.
+stp',
+/* time_stamp */ '2022-02-10T13:56:10+01:00',
 /* author */ ('Hans'),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v18.1',
@@ -31015,16 +31014,15 @@ SOLID_ANGLE_UNIT()
 #30676=PRODUCT_DEFINITION_SHAPE('',$,#30679);
 #30677=SHAPE_REPRESENTATION('',(#19153),#30669);
 #30678=PRODUCT_DEFINITION_CONTEXT('part definition',#30683,'design');
-#30679=PRODUCT_DEFINITION('Kippstaender_R','Kippstaender_R',#30680,#30678);
+#30679=PRODUCT_DEFINITION('Kippstaender_R','rocker_right',#30680,#30678);
 #30680=PRODUCT_DEFINITION_FORMATION('',$,#30685);
-#30681=PRODUCT_RELATED_PRODUCT_CATEGORY('Kippstaender_R',
-'Kippstaender_R',(#30685));
+#30681=PRODUCT_RELATED_PRODUCT_CATEGORY('rocker_right','rocker_right',(#30685));
 #30682=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#30683);
 #30683=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #30684=PRODUCT_CONTEXT('part definition',#30683,'mechanical');
-#30685=PRODUCT('Kippstaender_R','Kippstaender_R',$,(#30684));
+#30685=PRODUCT('Kippstaender_R','rocker_right',$,(#30684));
 #30686=PRESENTATION_STYLE_ASSIGNMENT((#30687));
 #30687=SURFACE_STYLE_USAGE(.BOTH.,#30690);
 #30688=SURFACE_STYLE_RENDERING_WITH_PROPERTIES($,#30694,(#30689));
