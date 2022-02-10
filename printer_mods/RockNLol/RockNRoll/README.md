@@ -1,7 +1,7 @@
 # RockNRoll - Rockers for Voron V2.4 #
 This mod is intended to make access to the electronics compartment easier by enabling the printer to be rolled on its back without damaging cables or the exhaust system.
 The rockers are mounted on the vertical extrusions in the back replacing the panel corners. Additionally they are braced against the horizontal back extrusion.
-The mod is designed for and tested with a 350mm V2.4, but it might work with a V1 or Trident as well. Due to their higher center of gravity V1 and Trident might need additional feet higher up. If you tried this mod on a V1 or trident, let me know how it went on discord RockNLol#5396.
+The mod is designed for and tested with a 350mm V2.4, but it might work with a V1 or Trident as well. Due to their higher center of gravity V1 and Trident might need additional feet higher up. If you tried this mod on a V1 or trident, let me know how it went on [discord](https://discordapp.com/channels/@me/RockNLol#5396/).
 
 ### Gallery: ###
 To give you an example how this works, take a look at these pictures:
