@@ -22,6 +22,7 @@ This mod needs structural integrity and high stiffness. Based on the Voron recom
 - 5 Perimeters
 - 40% Infill
 - 10 top and bottom Layers
+
 The test print in the pictures is done with Formfutura rTitan ABS.
 
 #### Support: ####
@@ -37,8 +38,21 @@ All parts should fit comfortably on any V2.4 buildplate.
 
 
 ### Assembly: ###
-Start with melting the M3 threaded inserts into the braces.
-Then insert the braces into the spurs and screw them together using the M3x20 SHCS crews.
+#### Threaded Inserts: ####
+Start with melting the M3 threaded inserts into the braces:
+
+<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/threaded_inserts_02.jpg" width="400">
+
+If the support on the sides of the hole deforms from the heat, snip it off to prevent interference with the spur:
+
+<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/threaded_inserts_01.jpg" width="400">
+
+#### Corner Modules: ####
+To assemble the corner modules insert the braces into the spurs and screw them together using the M3x20 SHCS crews:
+
+<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/corner_modules_01.jpg" width="400">
+<img src="https://github.com/RockNLol/VoronUsers/blob/0bdaba303162da58cf0aad263dfdc5fdac8f5879/printer_mods/RockNLol/spurs/images/corner_modules_02.jpg" width="400">
+
 Remove the bottom corner panel clips and insert the T-nuts. Put two M5 T-nuts into each vertical extrusion and two M3 T-nuts on each side of the horizontal extrusion.
 Put the corner modules in place and screw them in with two M5x10 BHCS and two M3x12 SHCS each.
 
