@@ -43,11 +43,6 @@ Recommended support placement:
 
 <img src="./images/support_03.jpg" width="600">
 
-All parts should fit comfortably on any V2.4 buildplate.
-
-<img src="./images/buildplate.jpg" width="600">
-
-
 ### Assembly: ###
 #### Threaded Inserts: ####
 Start with melting the M3 threaded inserts into the braces:
@@ -70,8 +65,8 @@ Make sure the T-nuts line up with the holes in the rockers and mount the rockers
 
 <img src="./images/assembly_rockers_01.jpg" width="600">
 
-#### __Optional:__ Mounting the Base Plates: ####
-To increase the support of the rockers you can swap out two of the original base plates of the rubber feet with the ones of this mod. They slot into the rockers tip and support it while tilting. Tilting works fine without them though.
+#### Mounting the Base Plates: ####
+To increase the support of the rockers you can swap out two of the original base plates of the rubber feet with the ones of this mod. They slot into the rockers tip and support it while tilting.
 Start with playing your favorite Elvis song and rocking and rolling the printer on its back for the first time. Remove the rubber feet and the stock base plates:
 
 <img src="./images/assembly_base_plates_01.jpg" width="600">
