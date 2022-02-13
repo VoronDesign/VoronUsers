@@ -1,5 +1,5 @@
 ## Why?
-![6](/Images/6.png)
+
 If you are building Voron 300mm2 or 350mm2, V2.4 or Trident, you will soon discover you need a larger/deeper desk to accomodate your new machine, also if you have 5.5  or larger display mod you will end up with the printer being backed up against the wall and not enough space for the spool holder. After encountering the problem i've started messing with different designns that would provide stable, easily accessible place for the filament spool while keeping the filament path as short as possible.
 
 ## Print
@@ -27,7 +27,7 @@ This version uses 100mm x 8mm rod for spool core mounting. Provides very smooth 
 - 4x M5x16 BHCS
 - 4x M5 Hex Nut
 
-![1](https://github.com/elcrni/VoronUsers/tree/master/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png)
+![1](printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png)
 
 ![2](/Images/2.png)
 
