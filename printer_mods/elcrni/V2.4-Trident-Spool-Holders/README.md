@@ -27,7 +27,7 @@ This version uses 100mm x 8mm rod for spool core mounting. Provides very smooth 
 - 4x M5x16 BHCS
 - 4x M5 Hex Nut
 
-![1](printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png)
+![1](https://github.com/elcrni/VoronUsers/blob/95a3f2efc8a25694ce34373a26691c489f498c57/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png)
 
 ![2](/Images/2.png)
 
