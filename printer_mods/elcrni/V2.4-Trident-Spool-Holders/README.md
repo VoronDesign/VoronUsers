@@ -45,7 +45,7 @@ This version uses classic Voron spool holder design adopted to fit the spool hol
 - 1x M5x30 BHCS
 - 2x 105mm PTFE (4mm OD)
 
-![4](/Images/4.png)
+![4a](/Images/4.png)
 
 ![5](/Images/5.png)
 
