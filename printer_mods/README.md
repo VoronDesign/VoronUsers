@@ -283,6 +283,7 @@ like so:
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 | samwiseg0 | [Microfit 2x3 Skirt Connector (ADXL)](./samwiseg0/microfit_2x3_skirt_connector_adxl) | Mod for a Microfit 2x3 connector to be mounted in a skirt | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
 |  | [4 Channel Relay Under Deck Mount](./samwiseg0/4channel_relay_under_deck_mount) | Mod to mount a 4 channel GPIO controlled relay | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
+|  | [ESP8266 NodeMCU Din Mount](./samwiseg0/esp8266_nodemcu_din_mount) | Din mount for ESP8266 NodeMCU | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |  | [Corner Cable Hide/Cover (LED Wires)](./samwiseg0/corner_cable_hide) | Mod to hide cables around z idlers | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 |  | [Extrusion/Chamber Thermistor Mount](./samwiseg0/extrusion_thermistor_mount) | Extrusion mount for a NTC100K Thermistor extrusion | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |  | [Corsair Flash Voyager GTX Din Mount](./samwiseg0/voyager_gtx_din_mount) | Din carrier for a Corsair Flash Voyager GTX | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
