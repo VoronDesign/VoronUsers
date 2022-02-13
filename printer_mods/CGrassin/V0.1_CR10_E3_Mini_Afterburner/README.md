@@ -12,15 +12,16 @@ It should be compatible with any CR10/Ender 3 hotend but you should buy an "all 
 
 ## Print settings
 
-As stated in the Voron documentation:
-* ABS
-* 0.2mm layer hight
-* 0.4mm extrusion width
-* 40% infill
-* wall count 4
-* top/bottom layers 5
+Print the "stl/Cowling_CR10_AllMetal_builtin_support.STL" file with the settings stated in the Voron documentation:
+* ABS filament
+* layer hight = 0.2 mm 
+* extrusion width = 0.4 mm 
+* infill density = 40% 
+* wall count = 4
+* top/bottom layers count = 5
+* no support material
 
-However, support material is required to support the insert lip. You should use a custom support plugin or tweek the "Minimum support area" setting to avoid getting support material everywhere.
+Note: a version with no built-in support material is also included in this mod "stl/Cowling_CR10_AllMetal.STL". This file is not recommended and requires support material generation under the inserts lip.
 
 ## Bom
 
@@ -31,6 +32,8 @@ The parts required are:
 * All the parts (3D printed and hardware) required to build a normal Mini Afterburner, except the "[a]\_Cowling". Please note that concerning the "[a]\_Mid\_Body" part, you should print the **Dragon** version and add about 10mm of PTFE tube, as instructed in the manual.
 
 ## Build instructions
+
+Remove the support material under the inserts lip.
 
 The build instructions are basically the Voron manual. The only difference is that you need to add two heatstake inserts to be able to secure the hotend.
 
