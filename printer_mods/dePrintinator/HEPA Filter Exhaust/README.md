@@ -6,12 +6,12 @@ Configured in Klipper to power the fan at 50%, and coupled with the nevermore mi
 
 ## <B>Bill of Materials</B>
 
-###New Parts
+### <B>New Parts</B>
 
 - 1x 120x120x25mm fan such as[Noctua NF-F12 iPPC-2000](https://www.amazon.com/gp/product/B00KFCQT6M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). (note that I have an adjustable voltage on my control board, but make sure your fan matches the voltage for your system.)
 - HEPA Filter such as [Nispira True HEPA Filter Replacement with Activated Carbon](https://www.amazon.com/gp/product/B0921DZLPK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
 
-###Parts from Voron BOM
+### <B>Parts from Voron BOM</B>
 
 Parts here are already listed in the Voron 2.x BOM:
 
@@ -23,7 +23,7 @@ Parts here are already listed in the Voron 2.x BOM:
 - 1x 4mm bowden coupler.
 - 1x 2 pin JST terminal.
 
-###Printed Parts:
+### <B>Printed Parts</B>
 
 These can be found in the STL subdirectory.
 
