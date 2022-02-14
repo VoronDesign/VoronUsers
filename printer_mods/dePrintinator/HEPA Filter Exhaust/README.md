@@ -2,6 +2,8 @@
 
 I've designed a new exhaust which uses a 120x120x25 mm fan and HEPA filters (compatible with MELEDEN, RIGOGLIOSO, JINPUS and LTLKY air purifiers). This is a direct replacement for the stock air filter systems.
 
+Configured in Klipper to power the fan at 50%, and coupled with the nevermore micro, this seems to add to negative air pressure in the chamber and have a noticeable impact on reducing fumes, while only reducing chamber temperature by a couple of degrees C at the exhaust port.
+
 ## <B>Bill of Materials</B>
 
 ###New Parts
