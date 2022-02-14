@@ -6,6 +6,7 @@ If you have anything to add/modify/delete hit me up on discord - I'd like to kee
 
 - [Afterburner LGX Mounts](#afterburner-lgx-mounts)
 - [MGN12/Trident X Carriage](#mgn12trident-x-carriage)
+- [Stealthburner](#stealthburner)
 - [Wiring](#wiring)
 - [Klipper config](#klipper-config)
 - [Extra LGX Models](#extra-lgx-models)
@@ -34,6 +35,15 @@ The above Afterburner mounts will work without alteration in the current MGN12/T
   * [`lgx-mgn12-mount-rear.stl`](STLs/mgn12/lgx-mgn12-mount-rear.stl)
 
 ![mgn12-rear.jpg](images/mgn12-rear.jpg)
+
+### Stealthburner
+
+**The Stealthburner beta does not include support for LGX.**
+
+Please don't ask the Stealthburner crew about LGX support, LGX mounts, etc - they have plenty of other Stealthburner things to focus on :)
+
+That said, a number of people are unofficialy running LGX with Stealthburner using the Afterburner mounts.
+
 
 ### Wiring
 
