@@ -49,5 +49,10 @@ Print the parts with 4 perimeters, and at least 22% infill.
 6. Super glue neodymium magnets to the HEPA filter housing and the lid- be careful to insure the polarity is correct.
 7. Slide the M3x30mm bolts through the HEPA filter housing, through the fan, and into the 4 heat set inserts at the front of the exhaust chamber mount. 
 8. Screw the M3x8mm bolt through the exhaust lid, and into the heat set insert on the HEPA filter housing. 
-9. Remove the fins from the HEPA filter cartridge. I use a rotary tool (Dremel) to do this, but you can also use a box cutter or similar.
-10. Insert the HEPA filter cartridge into the HEPA filter housing, and pivot the lid so that it orients with the magnets and locks closed.
+9. Screw in the 4mm bowden coupler into the side of the exhaust-chamber-mount.
+10. Remove the fins from the HEPA filter cartridge. I use a rotary tool (Dremel) to do this, but you can also use a box cutter or similar.
+11. Insert the HEPA filter cartridge into the HEPA filter housing, and pivot the lid so that it orients with the magnets and locks closed.
+12. Attach the exhaust assembly to the printer chamber with two screws into the frame. I have also used some VBH tape against the bottom of the filter for better contact.
+13. Attach the stock grill to the back of the exhaust-chamber-mount with 2x M3x8mm.
+14. Route PTFE tube through the bowden coupler, and through the chamber grille as per normal. The angle will be different than the stock exhaust, but I have found no issues, even at higher Z-heights. 
+15. Connect the controller fan port to the JST terminal. Check once again that the voltage is correct.
