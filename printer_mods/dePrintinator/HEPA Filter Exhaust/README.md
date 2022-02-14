@@ -30,7 +30,7 @@ Parts here are already listed in the Voron 1.x (Trident) & 2.x BOM:
 
 These can be found in the STL subdirectory.
 
-- 1x exhaust-chamber-mount.stl (flip to match which side of your 120mm fan the cable comes out of for neatest appearance).
+- 1x exhaust-chamber-mount.stl (mirror the part to match the cable management to which side of your 120mm fan the cable comes out of for neatest appearance).
 - 1x exhaust-hepa-filter-housing.stl
 - 1x exhaust-lid.stl
 
