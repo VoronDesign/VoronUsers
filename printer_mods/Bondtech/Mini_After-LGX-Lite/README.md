@@ -1,8 +1,6 @@
-
+# LGX Lite Toolhead Setup For Voron V0.1
 
 ![](./Images/mini-after-lgx-lite_header-1200x628.jpg)
-
-#LGX Lite Toolhead Setup For Voron V0.1
 
 ## AN ALTERNATIVE TO THE VORON ORIGINAL SETUP
 
