@@ -41,8 +41,8 @@ Print the parts with 4 perimeters, and at least 22% infill.
 1. Insert threaded heat set inserts into exhaust chamber mount (2 in back, 4 in front.)
 2. Insert threaded heat set insert into exhaust HEPA filter housing.
 3. Route fan cable through the hole and through the cable management groove at the back of the exhaust chamber mount. Cut the fan cables so that you have just enough length to solder them to the JST terminal. Slide some heat shrink tubing on to each of the wires, if you have it.
-4. Solder on the 2 pin JST terminal to the end of the fan wiring. Be sure you have the correct orientation for the voltage and ground pins. 
-5. Super glue the JST terminal to the bottom of the exhaust chamber mount. Make sure the slot is nice and cleaned up so that the terminal will set flush with the back. 
+4. Solder on the 2 pin JST terminal to the end of the fan wiring. Be sure you have the correct orientation for the voltage and ground pins. Slide the heat shrink tubing down over the pins on the back of the JST terminal, and shrink.
+5. Super glue the JST terminal to the bottom of the exhaust chamber mount. Make sure the slot is nice and cleaned up so that the terminal will sit flush with the back. 
 6. Super glue neodymium magnets to the HEPA filter housing and the lid- be careful to insure the polarity is correct.
 7. Slide the M3x30mm bolts through the HEPA filter housing, through the fan, and into the 4 heat set inserts at the front of the exhaust chamber mount. 
 8. Screw the M3x8mm bolt through the exhaust lid, and into the heat set insert on the HEPA filter housing. 
