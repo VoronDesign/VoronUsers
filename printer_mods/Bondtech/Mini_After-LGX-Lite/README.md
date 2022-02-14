@@ -34,10 +34,10 @@ https://github.com/jlas1/Klicky-Probe
 
 Most screws required to perform the installation should be already on your kit. You may need some additional sizes and types. The following list identifies them:
 
-2x M3x6 BHCS for belts
-2x M3x30 BHCS for LGX Lite
-4x M2.5×6 low profile for Copperhead
-2x M3x10 BHCS LGX Lite to cowling
+- 2x M3x6 BHCS for belts
+- 2x M3x30 BHCS for LGX Lite
+- 4x M2.5×6 low profile for Copperhead
+- 2x M3x10 BHCS LGX Lite to cowling
 
 ### Cowling Universal
 ![](./Images/Cowling-Universal.png)
@@ -55,36 +55,10 @@ Most screws required to perform the installation should be already on your kit. 
 ![](./Images/Hotend-Mount-DRAGONFLY-3007-Fan.png)
 ### Hotend Mount DRAGONFLY 3010 Fan
 ![](./Images/Hotend-Mount-DRAGONFLY-3010-Fan.png)
-### Klicky
-![](./STL/Mini-After-LGX-Lite/Klicky.stl)
-### Strain Relief
-![](./STL/Mini-After-LGX-Lite/Strain_relief.stl)
-### Strain Relief Spacers
-![](./STL/Mini-After-LGX-Lite/Strain_relief_Spacer_x2)
 ### X-Carriage
 ![](./Images/X-Carriage.png)
 
 ## Tools
 
-### AdaFruit ADXL345 Adapter
-![](./STL/Tools/adafruit_adxl345_spacer.stl)
-### Generic ADXL345 Adapter
-![](./STL/Tools/adxl345_generic_mount.stl)
 ### PTFE Cutting Jig
 ![](./Images/PTFE-Cutting-Jig.jpg)
-![](./STL/Tools/ptfe_cutting_jig.stl)
-
-## Z-Axis Bed Adjustable Y offset
-
-### Front Bed Mounts
-![](./STL/Z_Bed adjustable Y offset/Front_Bed_Mount.stl)
-### Rear Bed Mount Left
-![](./STL/Z_Bed adjustable Y offset/Rear_Bed_Mount_Left.stl)
-### Rear Bed Mount Right
-![](./STL/Z_Bed adjustable Y offset/Rear_Bed_Mount_Right.stl)
-### Front Bed Mount LGX Lite Spacers
-![](./STL/Z_Bed adjustable Y offset/Front_Bed_Mount_lgx_lite_spacer)
-### Rear Bed Mount Left LGX Lite Spacers
-![](./STL/Z_Bed adjustable Y offset/Rear_Bed_Mount_Left_lgx_lite_spacer.stl)
-### Right Bed Mount Right LGX lite Spacer
-![](./STL/Z_Bed adjustable Y offset/Rear_Bed_Mount_Right_lgx_lite_spacer.stl)
