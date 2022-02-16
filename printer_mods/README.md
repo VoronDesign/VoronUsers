@@ -200,6 +200,7 @@ like so:
 | KiloQubit | [V0 Reverse Bowden Mount](./KiloQubit/V0_reverse_bowden_mount)| V0 reverse bowden mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V2.4 Z Chain Mounts for 3 Hole Chains](./KiloQubit/VORON_2.4_Z_Chain_3_Hole_Mounts)| Z chain mounts for 3 hole generic chain | :x: | :x: | :heavy_check_mark: |:x:|
 | | [Trident Schurter Inlet Skirt](./KiloQubit/trident_schurter_power_inlet)| Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet | :x: | :x: | :x: | :x: | :heavy_check_mark: |
+| | [V2.4 Z Chain Mounts for 3 Hole Chains - With chain support](./KiloQubit/Extended_Chain_Support/)| Z chain mounts for 3 hole generic chain - with chain support | :x: | :x: | :heavy_check_mark: |:x:|
 | kirby | [V0 Sherpa Mini Direct Drive Mod](./kirby/v0_sherpa_mini_direct_drive)| A direct drive mod for the V0 using the Annex Sherpa Mini extruder | :heavy_check_mark: | :x: | :x: |:x:|
 | Koios | [6mm Tempered Glass Mod](./Koios/6mm_Glass) | Lock levers and rests for 6mm Tempered glass panels | :x: | :x:| :heavy_check_mark: | :x: |
 | | [C920 Low Profile Mount](./Koios/C920_Mount) | Low profile mount for a C920 Webcam | :x: | :x: | :heavy_check_mark: | :x: |
