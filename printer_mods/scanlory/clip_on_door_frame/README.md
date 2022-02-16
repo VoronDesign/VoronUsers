@@ -10,7 +10,7 @@ If you use the stock V2.4 magnetic door latch, extended_door_latch is provided w
 
  ### Kind-Of Important Notice ###
 
- The parts are not symetric - there is a 'thick' side and a 'thin' side.  The thin side goes towards the frame.
+ The parts are not symmetrical - there is a 'thick' side and a 'thin' side.  The thin side goes towards the frame.
 
  ## BOM ##
  **Printed Parts**
