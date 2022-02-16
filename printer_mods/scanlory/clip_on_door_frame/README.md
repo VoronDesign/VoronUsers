@@ -19,7 +19,7 @@ If you use the stock V2.4 magnetic door latch, extended_door_latch is provided w
  angle_frame_2_x2.stl           [x1]
  straight_frame_short_x4.stl   [x4] (If you use three hinges per door, x0 otherwise)
  straight_frame_long_x2.stl    [x2] (If you use two hinges per door, x0 otherwise)
- extended_door_latch_x2.stl    [x2] (If using the stock V2.4 door latch)
+ extended_door_latch_x2.stl    [x2] (If using the stock V2.4 door latch, x0 otherwise)
  
  ```
  
