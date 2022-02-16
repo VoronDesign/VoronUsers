@@ -38,8 +38,8 @@ If you use the stock V2.4 magnetic door latch, extended_door_latch is provided w
 
  1. Attach one angle_frame_1 to the bottom of the left door and one angle_frame_1 to the top of the right door.
  2. Attach one angle_frame_2 to the top of the left door and one angle_frame_2 to the bottom of the right door.
- 3. If you have three door latches installed, install two straight_frame_short sections to each door.  If you have two door latches installed, install one straight_frame_long section to each door.
- 4. If you are using the stock V2.4 magnetic door latch, install the magnets into the extended_door_latch and replace the existing door latch with the extended version.
+ 3. If you have three door hinges installed, install two straight_frame_short sections to each door.  If you have two door hinges installed, install one straight_frame_long section to each door.
+ 4. If you are using the stock V2.4 magnetic door latch, install the magnets into the extended_door_latch and replace the existing door latches with the extended version.
  
   ## Installed On My 2.4 ##
 
