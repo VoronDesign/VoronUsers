@@ -4,7 +4,7 @@
  
  The clips consist of three types of components - angle_frame_1,  angle_frame_2, and straight_frame.  Each door will need a one of each angle_frames, with one on the top of the door and one on the bottom of the door.  For the left door, angle_frame_1 goes on the bottom of the door and angle_frame_2 goes on top of the door.  For the right door, angle_frame_1 goes on the top of the door and angle_frame_2 goes on the bottom or the door.
  
- A long and short version of the straight_frame is provided depending on if you have two or three hinges installed on each door.  If you have three hinges installed for each door, you will need to print out two short mid frames for each door.  
+ A long and short version of the straight_frame is provided depending on if you have two or three hinges installed on each door.  If you have three hinges installed for each door, you will need to print out two short straight_frames for each door.  
 
 If you use the stock V2.4 magnetic door latch, extended_door_latch is provided which moves the frame magnets out closer to the handle magnets.
 
