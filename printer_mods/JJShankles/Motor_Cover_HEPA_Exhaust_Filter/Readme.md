@@ -7,15 +7,15 @@ This covers the hole in the back of the chamber since I didn't install the back 
 I made a video tutorial: https://youtu.be/uV1IgC7IFgs
 
 # Images
-<img src="/printer_mods/JJShankles/Motor Cover HEPA Exaust Filter/Images/Left View.JPG" width="700">
+<img src="/printer_mods/JJShankles/Motor_Cover_HEPA_Exhaust_Filter/Images/Left View.JPG" width="700">
 
 
 I shortened the Charcoal Chamber from the original, but it still hold several sheets in there, while not sticking out too much.
-<img src="/printer_mods/JJShankles/Motor Cover HEPA Exaust Filter/Images/Top View.JPG" width="700">
+<img src="/printer_mods/JJShankles/Motor_Cover_HEPA_Exhaust_Filter/Images/Top View.JPG" width="700">
 
-<img src="/printer_mods/JJShankles/Motor Cover HEPA Exaust Filter/Images/Right View.JPG" width="700">
+<img src="/printer_mods/JJShankles/Motor_Cover_HEPA_Exhaust_Filter/Images/Right View.JPG" width="700">
 
-<img src="/printer_mods/JJShankles/Motor Cover HEPA Exaust Filter/Images/Inside View.JPG" width="700">
+<img src="/printer_mods/JJShankles/Motor_Cover_HEPA_Exhaust_Filter/Images/Inside View.JPG" width="700">
 
 # BOM
 * 4x M3x6 screws
