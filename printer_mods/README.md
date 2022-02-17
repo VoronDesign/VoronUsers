@@ -173,6 +173,8 @@ like so:
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
 |JD |[V2.4 Filament runout sensor](./JD/RefillPlease) | Replace the 2.4 stock bowden tube holder and add a filament runout sensor  | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
+| JJShankles | [Motor Cover HEPA Exhaust Filter](./JJShankles/Motor%20Cover%20HEPA%20Exaust%20Filter) | HEPA and Carbon Filter that covers motors at back of printer | :heavy_check_mark: |:x: |:x: |:x: |:x: |
+| | [V0.1 Dual Color Hex Skirt](./JJShankles/V0.1_Dual_Color_Hex_Skirt)| Creates dual color V0.1 skirt with filament swap | :heavy_check_mark: |:x: |:x: |:x: |:x: |
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
 | | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
 | | [Sturdy Handles](./jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points |:x: |:grey_question:|:heavy_check_mark:|:x:|
