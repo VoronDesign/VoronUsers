@@ -5,7 +5,7 @@
 Bracket to mount a C270 in the top corner of a V2.
 This technically works with a Trident too, but I found that it put the camera too close to the gantry to get a good field of view.
 
-The camera hinge connection is borrowed from [Fiction's mount](../../Fiction/C270_Mount/readme.md).
+The camera hinge connection is borrowed from [Fiction's mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Fiction/C270_mount).
 See that readme for a description of how to mount the camera using the stock pin and screw.
 
 ## BOM
