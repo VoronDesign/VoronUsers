@@ -12,7 +12,7 @@ To create an efficient process of toolhead maintenance / swapping.
 - Magnets are used to hold the toolhead in place while screws are removed
 
 ## Moving Forward
-I will no longer continue development on this specific version as I place my focus on enhancing the design.
+**I will no longer continue development on this specific version as I place my focus on enhancing the design.**
 
 ![](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick/Smol_Stealth_Burner/SSB_LGXL_0710/Images/IMG_1.jpg)
 
