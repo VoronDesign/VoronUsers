@@ -153,12 +153,10 @@ like so:
 | | [Voron0 ExtendedLegs](./hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 ExtrusionSkirt](./hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom   | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 MGN9C X Axis](./hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
-| | [Voron2.4 Pins Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|:x: |
+| | [Voron2.4 and Trident Pins Mod](./hartk1213/Voron2.4_Trident_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
 | | [Voron2.4 Y Endstop Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece | :x:| :x: | :heavy_check_mark: |:x:|:x: |
 | | [Voron2.4 GE5C](./hartk1213/Voron2.4_GE5C) | This mod replaces the stack of printed z joints with a metal spherical bearing  | :x:| :x: | :heavy_check_mark: |:x:|:x:|
 | | [Voron2.4 SexBolt ZEndstop](./hartk1213/Voron2.4_SexBolt_ZEndstop) | This mod replaces stock V2 Z endstop with a different style| :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
-| | [Trident Pins Mod](./hartk1213/Trident_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins| :x:| :x: | :x: |:x:|:heavy_check_mark: |
-| | [Trident Y Endstop Relocation](./hartk1213/Trident_Y_Endstop_Relocation) |  This mod relocates the Y endstop to the top A drive piece| :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Parametric Spool Holder](./henrikssn/parametric_spool_holder) | Spool holder where the length is a parameter. | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:  | :heavy_check_mark:|
 | hergtoler | [Exhaust Housing for 120mm Fan and 4in Duct](./hergtoler/exhaust_120mm_duct) | v2.4 Exhaust Housing for 120mm Fan and 4in Duct | :x: | :x: | :heavy_check_mark: | :x: | :x: |
