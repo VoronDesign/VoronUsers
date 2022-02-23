@@ -3,7 +3,7 @@
 ## Goal
 To create an efficient process of toolhead maintenance / swapping. 
 
-![](https://github.com/Maverick-3D/Smol_Stealth_Burner/blob/main/SSB_LGXL_0710/Images/SSB_LGXL_0710_Animation.gif)
+![](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick/Smol_Stealth_Burner/SSB_LGXL_0710/Images/SSB_LGXL_0710_Animation.gif)
 
 ## Key Notes
 - Compatable with MGN9, feel free to adapt to your specific needs
@@ -14,7 +14,7 @@ To create an efficient process of toolhead maintenance / swapping.
 ## Moving Forward
 I will no longer continue development on this specific version as I place my focus on enhancing the design.
 
-![](https://github.com/Maverick-3D/Smol_Stealth_Burner/blob/main/SSB_LGXL_0710/Images/IMG_1.jpg)
+![](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick/Smol_Stealth_Burner/SSB_LGXL_0710/Images/IMG_1.jpg)
 
-![](https://github.com/Maverick-3D/Smol_Stealth_Burner/blob/main/SSB_LGXL_0710/Images/IMG_5.jpg)
+![](https://github.com/Maverick-3D/VoronUsers/blob/master/printer_mods/Maverick/Smol_Stealth_Burner/SSB_LGXL_0710/Images/IMG_5.jpg)
 
