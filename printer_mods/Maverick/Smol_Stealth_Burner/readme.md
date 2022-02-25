@@ -1,6 +1,7 @@
 # Smol Stealth Burner
 
-Variants of the VORON Mini Afterburner. 
+## Variants of the VORON Mini Afterburner - currently supports MGN7H and MGN9C
+
 
 **Nomenclature:** 
 - 0710 = 3007 hotend fan with 3010 part cooling fans
