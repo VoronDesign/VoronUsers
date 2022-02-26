@@ -14,20 +14,19 @@ This mod comes in two parts, a fixed mounting plate which anchors to the v0 fram
 ## Assembly instructions:
 
 ### Front panel
-1. Remove front two feet from V0
-2. Preload 3 m3 nuts to each front extrusion
-3. Attach mounting plate to front of V0 with M3x6 screws
-4. Insert magnets into the 11 holes on the mounting plate
-5. Using VHB tape, affix clear acrlyic to the panel mount part
-6. Insert magnets into the 11 holes on the panel mount, be sure to match polarity properly!
-7. Re-attach front two feet 
+1. Remove 2 front feet from V0.
+2. Preload 3 M3 nuts to each front extrusion.
+3. Attach mounting plate to front of V0 with M3x6 screws.
+4. Insert magnets into the 11 holes on the mounting plate.
+5. Using VHB tape, affix clear acrylic to the panel mount part.
+6. Insert magnets into the 11 holes on the panel mount. Be sure to match polarity properly!
+7. Re-attach 2 front feet to V0.
 
 ### Side panels
-1. Remove side two feet from V0
-2. Preload 3 m3 nuts to each front extrusion
-3. Attach mounting plate to V0 with M3x6 screws
-4. Insert magnets into the 14 holes on the mounting plate
-5. Using VHB tape, affix clear acrlyic to the panel mount part
-6. Insert magnets into the 14 holes on the panel mount, be sure to match polarity properly!
-7. Re-attach two feet 
-
+1. Remove 2 side feet from V0.
+2. Preload 3 M3 nuts to each side extrusion.
+3. Attach mounting plate to V0 with M3x6 screws.
+4. Insert magnets into the 14 holes on the mounting plate.
+5. Using VHB tape, affix clear acrylic to the panel mount part.
+6. Insert magnets into the 14 holes on the panel mount. Be sure to match polarity properly!
+7. Re-attach 2 side feet.

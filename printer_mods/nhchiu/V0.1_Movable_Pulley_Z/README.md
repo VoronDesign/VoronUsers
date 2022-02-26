@@ -12,14 +12,13 @@ There already are belt-driven mods like [theFPVGeek's V0 Z Belt mod](https://git
 ### Fasteners
 
 - 1 x M2x10 Self Tapping Screw
-- 2 x M3x6 BHCS
 - 11 x M3x8 BHCS
 - 2 x M3x10 BHCS
 - 4 x M3x12 BHCS
 - 5 x M3x16 BHCS
 - 2 x M3x20 BHCS
 - 3 x M3 Washer
-- 4 x M3 Threaded Insert
+- 2 x M3 Threaded Insert
 - 4 x M3 Hex Nut
 - 3 x M5x20 BHCS/SHCS
 - 3 x M5 Hex Nut
@@ -68,9 +67,8 @@ Note the places that need threaded inserts. You can pre-apply them.
 
 1. Top Endstop Mount
 
-   ![Top Endstop Mount](./Images/Top_Endstop.png)
    Use the stock Z endstop and the two M2 self tapping screws.
-   ![Top Endstop Mount](./Images/Top_Endstop2.png)
+   ![Top Endstop Mount](./Images/Top_Endstop.png)
 
 ### Assembly
 
@@ -89,19 +87,25 @@ Note the places that need threaded inserts. You can pre-apply them.
 
 1. Route the belt path as shown in the [mechanism figure](#mechanism).
 
-1. Slightly adjust the position of each component so the bed holder is at the middle of the extrusion and the four marked segments of the belt are as parallel to the Z rails as possible.
+   The upper belt end should go through the `upper_belt_end.stl` as shown below.
+
+   (Tip: Temporarily lower the upper idler to have enough belt length to get the belt end though the holder.)
+
+   ![Top end holder](./Images/Top_Belt_End_Path.png)
+
+2. Slightly adjust the position of each component so the bed holder is at the middle of the extrusion and the four marked segments of the belt are as parallel to the Z rails as possible.
 
    ![Belt Path](./Images/Belt_Path.png)
 
-1. Belt tensioning.
+3. Belt tensioning.
 
-   First mount the top endstop holder about 2-4mm lower from the top horizontal aluminum extrusion. Then route the belt end through. While holding the belt end, press the printed cover on and lock it with two M3x6 BHCS. Make sure the belt doesn't slip out.
+   First mount the top endstop holder about 2-4mm lower from the top horizontal aluminum extrusion. Loosen the mounting screws and pull the excessive belt through the holder.
 
-   If the belt is still loose, pull the endstop holder upward to adjust the belt tension.
+   Slightly tighten the mounting screws so the belts doesn't slip out while the endstop mount is still moveable. Pull the endstop holder upward to adjust the belt tension then fully tighten the mounting screws.
 
    ![Upper End](./Images/Top_Belt_End.png)
 
-   (Note: As marked in the figure, keep the top idler mount and endstop mount below the bottom of the horizontal aluminum extrusion, or the mini-AB might crash into the screw heads or printed parts.)
+   (Note: As marked in the figure, the top idler mount and endstop mount should be about flush with the bottom of the horizontal aluminum extrusion. Make sure the mini-AB doesn't crash into the screw heads or printed parts.)
 
    ![Top Position](./Images/Top_Position.png)
 
@@ -137,6 +141,11 @@ Here's a video of testing the bed motion:
 [![Watch the video](https://img.youtube.com/vi/kQ-t7eGuI5I/maxresdefault.jpg)](https://youtu.be/kQ-t7eGuI5I)
 
 ## Changelog
+
+### 2021-11-09
+
+- Redesigned the Z endstop mount to hold the belt better (The previous version might get loose overtime).
+- Change some dimensions slightly for stronger parts.
 
 ### 2021-08-26
 

@@ -19,6 +19,7 @@ You just need to print the two inserts for the housing. There are two versions f
 1: with modeled mesh        |  2: with custom mesh
 :-------------------------:|:-------------------------:
 1x 1_hepa.stl  |  1x 1_hepa.stl
+1x 1_lid.stl   |  1x 1_lid.stl
 1x 1_coal_with_mesh.stl  |  1x 1_coal_for_infill_mesh.stl
  /  | 1x 0_filterdummy_dont_print.stl (as modifier)
 
@@ -51,14 +52,23 @@ For both variants you should choose the infill density so that the coal particle
 ### What do I need?
 4x M3x25mm screws
 
+2x M3x6mm BHCS
+
+2x M3 Brass Heatset Inserts - Short M3x5x4
+
 1x 40mmx80mm Hepa filter (https://www.aliexpress.com/item/1005001615722382.html)
 
-~500g activated coal particles (~1mm) 
+~500g activated coal particles (>1mm) 
 
 ### Credits:
 Idea by Deutherius.
 
 Thanks to Jon for the name.
+
+Thanks to Kevin Rahhal for the lid design.
+
+### Changelog
+01.11.2021: A new coal container with lid to avoid mess when moving the printer. The printing instructions are still the same as before.
 
 ##### Contact:
 Discord: kevinakasam#2097
