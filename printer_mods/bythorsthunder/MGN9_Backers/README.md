@@ -8,7 +8,7 @@ If the 2.4r1 stock X rails are replaced with a single MGN12 rail, that leaves tw
 
 MGN9 rails as backers provide near perfect compensation for thermal flexing along the Y axis because they exactly match the characteristics of the lower rails.  This makes them an excellent choice for backers for Y rails.  
 
-Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge. 
+Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge to account for the additional height of the extrusions.
 
 ## BOM
 ```
