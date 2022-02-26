@@ -153,8 +153,8 @@ like so:
 | | [Voron0 ExtendedLegs](./hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 ExtrusionSkirt](./hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom   | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 MGN9C X Axis](./hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
-| | [Voron2.4 Pins Mod](./hartk1213/Voron2.4_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
-| | [Voron2.4 Y Endstop Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece, to work with Arkeets MGN12 mod  | :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
+| | [Voron2.4 and Trident Pins Mod](./hartk1213/Voron2.4_Trident_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings with 5mm pins  | :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
+| | [Voron2.4 Y Endstop Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece | :x:| :x: | :heavy_check_mark: |:x:|:x: |
 | | [Voron2.4 GE5C](./hartk1213/Voron2.4_GE5C) | This mod replaces the stack of printed z joints with a metal spherical bearing  | :x:| :x: | :heavy_check_mark: |:x:|:x:|
 | | [Voron2.4 SexBolt ZEndstop](./hartk1213/Voron2.4_SexBolt_ZEndstop) | This mod replaces stock V2 Z endstop with a different style| :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
@@ -282,6 +282,7 @@ like so:
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 | samwiseg0 | [Microfit 2x3 Skirt Connector (ADXL)](./samwiseg0/microfit_2x3_skirt_connector_adxl) | Mod for a Microfit 2x3 connector to be mounted in a skirt | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
+|  | [4 Channel Relay Under Deck Mount](./samwiseg0/4channel_relay_under_deck_mount) | Mod to mount a 4 channel GPIO controlled relay | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 |  | [ESP8266 NodeMCU Din Mount](./samwiseg0/esp8266_nodemcu_din_mount) | Din mount for ESP8266 NodeMCU | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |  | [Corner Cable Hide/Cover (LED Wires)](./samwiseg0/corner_cable_hide) | Mod to hide cables around z idlers | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 |  | [Extrusion/Chamber Thermistor Mount](./samwiseg0/extrusion_thermistor_mount) | Extrusion mount for a NTC100K Thermistor extrusion | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
