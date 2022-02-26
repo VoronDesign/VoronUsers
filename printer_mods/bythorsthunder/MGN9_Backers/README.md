@@ -10,7 +10,7 @@ MGN9 rails as backers provide near perfect compensation for thermal flexing alon
 
 Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge. 
 
-# BOM
+## BOM
 ```
 2 Linear Rails that match the length of the existing rails
 20 M3-8
