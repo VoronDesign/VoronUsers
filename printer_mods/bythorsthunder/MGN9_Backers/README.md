@@ -12,7 +12,7 @@ Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge.
 
 ## BOM
 ```
-2 Linear Rails that match the length of the existing rails
+2 MGN9 Linear Rails with carriages removed that match the length of the existing rails.
 20 M3-8
 22 M3 T-nuts
 2 M3-16 BHCS (or SHCS)
