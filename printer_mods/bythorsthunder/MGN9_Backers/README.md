@@ -6,10 +6,21 @@ A mod to allow the installation of full length MGN9 rails on top of Y extrusions
 
 If the 2.4r1 stock X rails are replaced with a single MGN12 rail, that leaves two free MGN9 rails which can be used as backers for the Y extrusions.  They do not fit stock as the spacing on top of the extrusion is smaller than on the bottom.  This permits their installation without the need to cut them down.
 
+MGN9 rails as backers provide near perfect compensation for thermal flexing along the Y axis because they exactly match the characteristics of the lower rails.  This makes them an excellent choice for backers for Y rails.  
+
 Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge. 
+
+# BOM
+```
+2 Linear Rails that match the length of the existing rails
+20 M3-8
+22 M3 T-nuts
+2 M3-16 BHCS (or SHCS)
+```
 
 ![Idler](IMAGES/Front_Idler_MGN9_Backer.JPG)
 
 ![Rails_Installed](IMAGES/Rails_installed.JPG)
 
 ![Installed](IMAGES/Rail_with_idler.jpg)
+
