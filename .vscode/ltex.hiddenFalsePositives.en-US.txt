@@ -1,0 +1,8 @@
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDirectory \"Voron Trident 1_Color_Layer_WithOut_Logo_Outline\" contains the .svg files for the \"Trident Parts Design Logo\" without the Voron Hex Outline:\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QDirectory \"CAD\" contains the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QDirectory \"Voron-Trident_Rear_Deck_250_300_350_correct_dimensions\" contains the .ai and .dxf files for the Voron-Trident Panels (200 mm³, 300 mm³, 350 mm³):\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLink to Cricut Design Space for \"Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette\":\nhttps://design.cricut.com/landing/project-detail/614501c2623cde00018a4fe6\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QLink to my Repository on GitHub that contains all files I used to produce the \"Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette\" .svg file: https://github.com/GadgetAngel/Cricut_Voron_Logos/tree/main/Voron_2.4_Logo/1_Color_Layer_WithOut_Logo_Outline/Current_Design_Files\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QFor the .stl files for the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:\\E$"}
+{"rule":"MORFOLOGIK_RULE_EN_US","sentence":"^\\QFor the .ai and .dxf files for the Voron-Trident Panels (200 mm³, 300 mm³, 350 mm³):\\E$"}
+{"rule":"COMMA_PARENTHESIS_WHITESPACE","sentence":"^\\QFor the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:\\E$"}
