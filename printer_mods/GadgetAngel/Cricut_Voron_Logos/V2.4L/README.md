@@ -4,7 +4,7 @@
 
 ## For "Voron 2.4 Build with 1 Color"
 
-These files are located in the directory "V2.4L/1ColorLayer".
+These files are located in [the directory "V2.4L/1ColorLayer"](.\1ColorLayer).
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137795f68f6f90001d7abfd
@@ -18,7 +18,7 @@ These files are located in the directory "V2.4L/1ColorLayer".
 
 ## For "Voron 2.4 Build with 1 Color and Without LOGO outline" with a Silhouette Layer
 
-These files are located in the directory "V2.4L/1ColorLayerWOWithSil"
+These files are located in [the directory "V2.4L/1ColorLayerWOWithSil"](.\1ColorLayerWOWithSil)
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette":
 ### https://design.cricut.com/landing/project-detail/614501c2623cde00018a4fe6
@@ -32,7 +32,7 @@ These files are located in the directory "V2.4L/1ColorLayerWOWithSil"
 
 ## For "Voron 2.4 Build with 1 Color and Without LOGO outline" WITHOUT the Silhouette Layer
 
-These files are located in the directory "V2.4L/1ColorLayerWOWOSil"
+These files are located in [the directory "V2.4L/1ColorLayerWOWOSil"](.\1ColorLayerWOWOSil)
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette":
 ### https://design.cricut.com/landing/project-detail/614502f434e2330001c7de37
@@ -46,7 +46,7 @@ These files are located in the directory "V2.4L/1ColorLayerWOWOSil"
 
 ## For "Voron 2.4 Build with 3 Colors"
 
-These files are located in the directory "V2.4L/3ColorLayers"
+These files are located in [the directory "V2.4L/3ColorLayers"](.\3ColorLayers)
 
 ### Link to Cricut Design Space for "Voron 2.4 3_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137b53b0b4942000143ea8c

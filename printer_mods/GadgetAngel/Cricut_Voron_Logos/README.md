@@ -6,7 +6,7 @@ This repository contains vector files I have created for the Voron community and
 
 ## For "Voron 2.4 Build with 1 Color"
 
-These files are located in (the directory "V2.4L/1ColorLayer")[.\V2.4L\1ColorLayer].
+These files are located in [the directory "V2.4L/1ColorLayer"](.\V2.4L\1ColorLayer).
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137795f68f6f90001d7abfd
@@ -20,7 +20,7 @@ These files are located in (the directory "V2.4L/1ColorLayer")[.\V2.4L\1ColorLay
 
 ## For "Voron 2.4 Build with 1 Color and Without LOGO outline" with a Silhouette Layer
 
-These files are located in the directory "V2.4L/1ColorLayerWOWithSil"
+These files are located in [the directory "V2.4L/1ColorLayerWOWithSil"](.\V2.4L\1ColorLayerWOWithSil)
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_With_Silhouette":
 ### https://design.cricut.com/landing/project-detail/614501c2623cde00018a4fe6
@@ -34,7 +34,7 @@ These files are located in the directory "V2.4L/1ColorLayerWOWithSil"
 
 ## For "Voron 2.4 Build with 1 Color and Without LOGO outline" WITHOUT the Silhouette Layer
 
-These files are located in the directory "V2.4L/1ColorLayerWOWOSil"
+These files are located in [the directory "V2.4L/1ColorLayerWOWOSil"](.\V2.4L\1ColorLayerWOWOSil)
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer_WithOut_Logo_Outline_WithOut_Silhouette":
 ### https://design.cricut.com/landing/project-detail/614502f434e2330001c7de37
@@ -48,7 +48,7 @@ These files are located in the directory "V2.4L/1ColorLayerWOWOSil"
 
 ## For "Voron 2.4 Build with 3 Colors"
 
-These files are located in the directory "V2.4L/3ColorLayers"
+These files are located in [the directory "V2.4L/3ColorLayers"](.\V2.4L\3ColorLayers)
 
 ### Link to Cricut Design Space for "Voron 2.4 3_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137b53b0b4942000143ea8c
@@ -63,7 +63,7 @@ These files are located in the directory "V2.4L/3ColorLayers"
 
 ## For "Voron 0.1 Build with 1 Color"
 
-These files are located in the directory "V0.1L/1ColorLayer"
+These files are located in [the directory "V0.1L/1ColorLayer"](.\V0.1L\1ColorLayer)
 
 ### Link Cricut Design Space for "Voron 0.1 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/613569712ecf490001974996
@@ -77,7 +77,7 @@ These files are located in the directory "V0.1L/1ColorLayer"
 
 ## For "Voron 0.1 Build with 1 Color and without LOGO Outline" with a Silhouette Layer
 
-These files are located in the directory "V0.1L/1ColorLayerWOWithSil"
+These files are located in [the directory "V0.1L/1ColorLayerWOWithSil"](.\V0.1L\1ColorLayerWOWithSil)
 
 ### Link for "Voron 0.1 1Color_WithOut_Logo_Outline_With_Silhouette":
 ### https://design.cricut.com/landing/project-detail/6147bad19e2fcb000119bb71
@@ -91,7 +91,7 @@ These files are located in the directory "V0.1L/1ColorLayerWOWithSil"
 
 ## For "Voron 0.1 Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
-These files are located in the directory "V0.1L/1ColorLayerWOWOSil"
+These files are located in [the directory "V0.1L/1ColorLayerWOWOSil"](.\V0.1L\1ColorLayerWOWOSil)
 
 ### Link for "Voron 0.1 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
 ### https://design.cricut.com/landing/project-detail/6147bc71d61aad00013c14f6
@@ -106,7 +106,7 @@ These files are located in the directory "V0.1L/1ColorLayerWOWOSil"
 
 ## For "Voron Switch Wire Build with 1 Color"
 
-These files are located in the directory "VSWL/1ColorLayer"
+These files are located in [the directory "VSWL/1ColorLayer"](.\VSWL\1ColorLayer)
 
 ### Link Cricut Design Space for "Voron Switch Wire 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/613bf24c5dddf60001c14fbb
@@ -120,7 +120,7 @@ These files are located in the directory "VSWL/1ColorLayer"
 
 ## For "Voron Switch Wire Build with 1 Color and without LOGO Outline" with a Silhouette Layer
 
-These files are located in the directory "VSWL/1ColorLayerWOLogoWithSil"
+These files are located in [the directory "VSWL/1ColorLayerWOLogoWithSil"](.\VSWL\1ColorLayerWOLogoWithSil)
 
 ### Link for "Voron Switch Wire 1Color_WithOut_Logo_Outline_With_Silhouette":
 ### https://design.cricut.com/landing/project-detail/6147c7da7e75d400012c4684
@@ -134,7 +134,7 @@ These files are located in the directory "VSWL/1ColorLayerWOLogoWithSil"
 
 ## For "Voron Switch Wire Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
-These files are located in the directory "VSWL/1ColorLayerWOLogoWOSil"
+These files are located in [the directory "VSWL/1ColorLayerWOLogoWOSil"](.\VSWL\1ColorLayerWOLogoWOSil)
 
 ### Link for "Voron Switch Wire 1Color_WithOut_Logo_Outline_WithOut_Silhouette":
 ### https://design.cricut.com/landing/project-detail/6147c95a2a3d570001fae277
@@ -148,11 +148,11 @@ These files are located in the directory "VSWL/1ColorLayerWOLogoWOSil"
 ---
 ## For Voron Trident Parts Design Logo files:
 
-These files are located in the directory "Voron_Trident"
+These files are located in [the directory "Voron_Trident"](.\Voron_Trident)
 
 ### For "Voron Trident Build with 1 Color and with LOGO Outline" WITHOUT the Silhouette Layer
 
-These files are located in the directory "Voron_Trident/1ColorLayer"
+These files are located in the [directory "Voron_Trident/1ColorLayer"](.\Voron_Trident\1ColorLayer)
 
 ### Picture of "Voron Trident Build with 1 Color and with LOGO Outline" WITHOUT the Silhouette Layer:
 
@@ -160,7 +160,7 @@ These files are located in the directory "Voron_Trident/1ColorLayer"
 
 ### For "Voron Trident Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
-These files are located in the directory "Voron_Trident/1ColorLayerWOWOSil"
+These files are located in [the directory "Voron_Trident/1ColorLayerWOWOSil"](.\Voron_Trident\1ColorLayerWOWOSil)
 
 ### Picture of "Voron Trident Build with 1 Color and without LOGO Outline" WITHOUT the Silhouette Layer
 
@@ -168,7 +168,7 @@ These files are located in the directory "Voron_Trident/1ColorLayerWOWOSil"
 
 ### For the .stl files for the Voron-Trident Parts Design Logo that you can print:
 
-These files are located in the directory "Voron_Trident/.stl_files"
+These files are located in [the directory "Voron_Trident/.stl_files"](.\Voron_Trident\.stl_files)
 
 ### Picture of Voron-Trident Parts Design Logo that you can print:
 
@@ -176,11 +176,11 @@ These files are located in the directory "Voron_Trident/.stl_files"
 
 ### For the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:
 
-These files are located in the directory "Voron_Trident/CAD"
+These files are located in [the directory "Voron_Trident/CAD"](.\Voron_Trident\CAD)
 
 ### For the .ai and .dxf files for the Voron-Trident Panels (200 mm³, 300 mm³, 350 mm³):
 
-These files are located in the directory "Voron_Trident/RD_ALL_correct_dim"
+These files are located in [the directory "Voron_Trident/RD_ALL_correct_dim"](.\Voron_Trident\RD_ALL_correct_dim)
 
 ### Picture of Voron-Trident Rear Panel of the 250 mm³ build:
 
@@ -190,7 +190,7 @@ These files are located in the directory "Voron_Trident/RD_ALL_correct_dim"
 ---
 ## For "Voron Plain Logo with 1 Color" to be used by ANY Voron Build
 
-These files are located in the directory "VPlainL/1ColorLayer"
+These files are located in [the directory "VPlainL/1ColorLayer"](.\VPlainL\1ColorLayer)
 
 ### Link Cricut Design Space for "Voron Plain Logo 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137b8cce6ad93000134232e
@@ -205,7 +205,7 @@ These files are located in the directory "VPlainL/1ColorLayer"
 
 ## For MY OWN Voron 2.4 Build
 
-These files are located in the directory "V2.4QueenL"
+These files are located in [the directory "V2.4QueenL"](.\V2.4QueenL)
 
 ### Link Cricut Design Space for "Voron 2.4 QueenWithPlainVoronLogo2":
 ### https://design.cricut.com/landing/project-detail/6137e15bd254460001dad096

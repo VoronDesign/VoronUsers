@@ -1,5 +1,5 @@
 
-## Directory "1ColorLayer" contains the .svg files for the "Trident Parts Design Logo" with the Voron Hex Outline:
+## [Directory "1ColorLayer"](.\1ColorLayer) contains the .svg files for the "Trident Parts Design Logo" with the Voron Hex Outline:
 
 ### Picture of "Trident Parts Design Logo with 1 Color":
 
@@ -7,7 +7,7 @@
 
 ---
 
-##  Directory "1ColorLayerWOWOSil" contains the .svg files for the "Trident Parts Design Logo" without the Voron Hex Outline:
+##  [Directory "1ColorLayerWOWOSil"](.\1ColorLayerWOWOSil) contains the .svg files for the "Trident Parts Design Logo" without the Voron Hex Outline:
 
 ### Picture of "Trident Parts Design Logo" without the Voron Hex Outline:
 
@@ -15,7 +15,7 @@
 
 ---
 
-## Directory ".stl_files" contains the .stl files for the Voron-Trident Parts Design Logo that you can print:
+## [Directory ".stl_files"](.\.stl_files) contains the .stl files for the Voron-Trident Parts Design Logo that you can print:
 
 ### Picture of Voron-Trident Parts Design Logo that you can print:
 
@@ -23,7 +23,7 @@
 
 ---
 
-## Directory "CAD" contains the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:
+## [Directory "CAD"](.\CAD) contains the .STEP and .f3d files for the printable Voron-Trident Parts Design Logo:
 
 ### Picture of printable Voron-Trident Parts Design Logo:
 
@@ -31,7 +31,7 @@
 
 ---
 
-## Directory "RD_ALL_correct_dim" contains the .ai and .dxf files for the Voron-Trident Panels (200 mm³, 300 mm³, 350 mm³):
+## [Directory "RD_ALL_correct_dim"](.\RD_ALL_correct_dim) contains the .ai and .dxf files for the Voron-Trident Panels (200 mm³, 300 mm³, 350 mm³):
 
 ### Picture of Voron-Trident Rear 250 mm³ Panel:
 
