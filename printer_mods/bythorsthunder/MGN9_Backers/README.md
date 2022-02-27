@@ -18,9 +18,12 @@ Includes new Front Idler Uppers, new belt clips and a taller XY Cable Bridge to 
 2 M3-16 BHCS (or SHCS)
 ```
 
-![Idler](IMAGES/Front_Idler_MGN9_Backer.JPG)
+![Idler](IMAGES/Updated_Cable_Bridge.jpg)
 
-![Rails_Installed](IMAGES/Rails_installed.JPG)
+![Installation](IMAGES/Installation.jpg)
 
-![Installed](IMAGES/Rail_with_idler.jpg)
+![Installed](IMAGES/Installed.jpg)
 
+![Cad_Image1](IMAGES/Cad_Photo.jpg)
+
+![Cad_Image2](IMAGES/Cad_Photo_2.jpg)
