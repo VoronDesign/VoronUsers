@@ -4,7 +4,7 @@
 
 ## For Voron 2.4 Build "Cricut_Voron2.4Logo_BackPanel"
 
-These files are located in [the directory "V2.4QueenL/V2.4BackPanel"](.\V2.4BackPanel)
+These files are located in [the directory "V2.4QueenL/V2.4BackPanel"](./V2.4BackPanel)
 
 ### Link Cricut Design Space for Voron 2.4 Build "Cricut_Voron2.4Logo_BackPanel":
 ### https://design.cricut.com/landing/project-detail/6137b53b0b4942000143ea8c
@@ -18,7 +18,7 @@ These files are located in [the directory "V2.4QueenL/V2.4BackPanel"](.\V2.4Back
 
 ## For "Voron 2.4 QueenWithComplexVoronLogo"
 
-These files are located in [the directory "V2.4QueenL/QWComplexVL"](.\QWComplexVL)
+These files are located in [the directory "V2.4QueenL/QWComplexVL"](./QWComplexVL)
 
 ### Link Cricut Design Space for "Voron 2.4 QueenWithComplexVoronLogo":
 ### https://design.cricut.com/landing/project-detail/6137e791463f0f0001a7857d
@@ -32,7 +32,7 @@ These files are located in [the directory "V2.4QueenL/QWComplexVL"](.\QWComplexV
 
 ## For "Voron 2.4 QueenWithPlainVoronLogo"
 
-These files are located in [the directory "V2.4QueenL/QWiPlainVL"](.\QWiPlainVL)
+These files are located in [the directory "V2.4QueenL/QWiPlainVL"](./QWiPlainVL)
 
 ### Link Cricut Design Space for "Voron 2.4 QueenWithPlainVoronLogo":
 ### https://design.cricut.com/landing/project-detail/6137c0370806ce00019b5413
@@ -46,7 +46,7 @@ These files are located in [the directory "V2.4QueenL/QWiPlainVL"](.\QWiPlainVL)
 
 ## For "Voron 2.4 QueenWithPlainVoronLogo2"
 
-These files are located in [the directory "V2.4QueenL/QWPlainVL2"](.\QWPlainVL2)
+These files are located in [the directory "V2.4QueenL/QWPlainVL2"](./QWPlainVL2)
 
 ### Link Cricut Design Space for "Voron 2.4 QueenWithPlainVoronLogo2":
 ### https://design.cricut.com/landing/project-detail/6137e15bd254460001dad096
