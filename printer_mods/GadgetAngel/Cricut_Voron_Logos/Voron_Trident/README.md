@@ -3,7 +3,7 @@
 
 ### Picture of "Trident Parts Design Logo with 1 Color":
 
-![Voron Trident 1_Color_Layer](images/Trident_DLogo.png)
+![Voron Trident 1_Color_Layer](../images/Trident_DLogo.png)
 
 ---
 
@@ -11,7 +11,7 @@
 
 ### Picture of "Trident Parts Design Logo" without the Voron Hex Outline:
 
-![Voron Trident 1_Color_Layer_WithOut_Logo_Outline](images/Trident_DLogo_WOHexOutline2jpg.jpg)
+![Voron Trident 1_Color_Layer_WithOut_Logo_Outline](../images/Trident_DLogo_WOHexOutline2jpg.jpg)
 
 ---
 
@@ -19,7 +19,7 @@
 
 ### Picture of Voron-Trident Parts Design Logo that you can print:
 
-![Voron-Trident Parts Design Logo STL files](images/Trident_DLogo_250_Rear_Panel.stl.png)
+![Voron-Trident Parts Design Logo STL files](../images/Trident_DLogo_250_Rear_Panel.stl.png)
 
 ---
 
@@ -27,7 +27,7 @@
 
 ### Picture of printable Voron-Trident Parts Design Logo:
 
-![Voron-Trident Parts Design Logo CAD files](images/Trident_DLogo_CAD.stl.png)
+![Voron-Trident Parts Design Logo CAD files](../images/Trident_DLogo_CAD.stl.png)
 
 ---
 
@@ -35,4 +35,4 @@
 
 ### Picture of Voron-Trident Rear 250 mm³ Panel:
 
-![Voron-Trident_Rear_Deck_250_300_350_correct_dimensions](images/250_rear.jpg)
+![Voron-Trident_Rear_Deck_250_300_350_correct_dimensions](../images/250_rear.jpg)
