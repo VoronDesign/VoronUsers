@@ -6,7 +6,7 @@ This repository contains vector files I have created for the Voron community and
 
 ## For "Voron 2.4 Build with 1 Color"
 
-These files are located in the directory "V2.4L/1ColorLayer".
+These files are located in (the directory "V2.4L/1ColorLayer")[.\V2.4L\1ColorLayer].
 
 ### Link to Cricut Design Space for "Voron 2.4 1_Color_Layer":
 ### https://design.cricut.com/landing/project-detail/6137795f68f6f90001d7abfd
