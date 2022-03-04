@@ -2,22 +2,24 @@
 ## Information
 I created these macros because none of Klipper's fan control options (like `[temperature_fan]`) did quite what I wanted.
 
-These macros are automatically invoked when your target bed temp is changed (and ONLY when your bed target temp is changed). Because of this, you do not need to add anything to your other macros.
+These macros are automatically invoked when your target bed temp is changed (and ONLY then). Because of this, you do not need to add anything to your other macros.
 
 They have a pretty simple behavior. All they do is:
 - Automatically set the bed fans to `variable_slow` speed while the bed is heating up.
 - Automatically set the bed fans to `variable_fast` speed once target bed temp is reached.
 - Automatically turn off the bed fans when the bed is turned off. 
 
-If this is not the behavior you desire, you can instead control the fan speeds manually using `[fan_generic]` and `SET_FAN_SPEED`, or use one of Klipper's other fan control methods like `[temperature_fan]`.
-
 These macros do NOT read the chamber temperature. If your chamber is getting too hot, simply lower the fan speeds.
 
-## **Macros and Usage**
+If the above is not the behavior you desire, you have some other options: 
+- Configure your bed fans as `[fan_generic]` and control them manually with `SET_FAN_SPEED` in your `PRINT_START`/`PRINT_END` etc.
+- Use one of Klipper's other fan control methods like `[temperature_fan]`.
+- Modify these macros to achieve your desired custom behavior (or write new ones).
+## **Setup**
 
-**Please see the ["Information" section ](#information) first to understand what these macros actually do.**
+**Please see the ["Information" section](#information) first to understand what these macros actually do.**
 
-The macros are contained in the "Klipper_Macros" folder.
+The macros are contained in the ["Klipper_Macros" folder.](/Klipper_Macros)
 
 **1)** Place the .cfg file in the same directory as your printer.cfg file. 
 
