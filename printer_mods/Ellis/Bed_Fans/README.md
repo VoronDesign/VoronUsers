@@ -19,7 +19,7 @@ If the above is not the behavior you desire, you have some other options:
 
 **Please see the ["Information" section](#information) first to understand what these macros actually do.**
 
-The macros are contained in the ["Klipper_Macros" folder.](/Klipper_Macros)
+The macros are contained in the ["Klipper_Macros" folder.](./Klipper_Macros)
 
 **1)** Place the .cfg file in the same directory as your printer.cfg file. 
 
