@@ -17,11 +17,9 @@ If the above is not the behavior you desire, you have some other options:
 - Modify these macros to achieve your desired custom behavior (or write new ones).
 ## **Setup**
 
-**Please see the ["Information" section](#information) first to understand what these macros actually do.**
+**Please see the ["Information"](#information) section first.**
 
-The macros are contained in the ["Klipper_Macros" folder.](./Klipper_Macros)
-
-**1)** Place the .cfg file in the same directory as your printer.cfg file. 
+**1)** Place the .cfg file (located in the [Klipper_Macros](./Klipper_Macros) folder) in the same directory as your printer.cfg file. 
 
 **2)** Add `[include bedfans.cfg]` to your printer.cfg.
 
@@ -38,9 +36,7 @@ The macros are contained in the ["Klipper_Macros" folder.](./Klipper_Macros)
 ### Tips
 - `bedfans-dualcontrol.cfg` optionally allows for setting inner and outer fan speeds separately, for a quad fan configuration.
 - If you get *"Heater heater_bed not heating at expected rate"* errors, then you have one or both of your fan speeds set too high.
-- `variable_slow` can be set to 0 if you prefer the fans to not run during heatup.
-
-
+- `variable_slow` can be set to 0 if you prefer the fans to remain off during heatup.
 ## **5015 Fan Mount**
 
 Bill of materials (per fan):
