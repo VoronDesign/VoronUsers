@@ -1,46 +1,65 @@
-## <b>Macros and Usage</b>
 
-See <b>bedfans.cfg</b> or <b>bedfans-dualcontrol.cfg</b>* for klipper macros.
+## Information
+I created these macros because none of Klipper's fan control options (like `[temperature_fan]`) did quite what I wanted.
 
-<b>1)</b> Place the .cfg file in the same directory as your printer.cfg file. 
+These macros are automatically invoked when your target bed temp is changed (and ONLY when your bed target temp is changed). Because of this, you do not need to add anything to your other macros.
 
-<b>2)</b> Add `[include bedfans.cfg]` to your printer.cfg.
+They have a pretty simple behavior. All they do is:
+- Automatically set the bed fans to `variable_slow` speed while the bed is heating up.
+- Automatically set the bed fans to `variable_fast` speed once target bed temp is reached.
+- Automatically turn off the bed fans when the bed is turned off. 
 
-<b>3)</b> Change `pin` for your fans in the second section. This is intentionally left blank so that it will error if you don't fill it in.
+If this is not the behavior you desire, you can instead control the fan speeds manually using `[fan_generic]` and `SET_FAN_SPEED`, or use one of Klipper's other fan control methods like `[temperature_fan]`.
 
-<b>4)</b> Configure the options in the first section:
+These macros do NOT read the chamber temperature. If your chamber is getting too hot, simply lower the fan speeds.
 
-* `variable_threshold` sets the target bed temperature at which your bed fans will activate.
-* `variable_slow` sets the "slow" fan speed for when the bed is heating to the target temp.
-* `variable_fast` sets the "fast" fan speed for when the bed is at temperature.
-    * This may have to be lower than 100% fan speed, especially with quad fans.
-    * If you get <i>"Heater heater_bed not heating at expected rate"</i> errors, then you have set this too high. 
+## **Macros and Usage**
 
-The macros will intercept bed heating commands, so you do <i>not</i> need to add anything to your other macros. 
+**Please see the ["Information" section ](#information) first to understand what these macros actually do.**
 
-\* <i>Optionally allows for setting inner and outer fan speeds separately, for a quad fan configuration. I like to set my inner fans to be run slightly slower to try and keep the airflow somewhat even.</i>
+The macros are contained in the "Klipper_Macros" folder.
 
-## <b>5015 Fan Mount</b>
+**1)** Place the .cfg file in the same directory as your printer.cfg file. 
+
+**2)** Add `[include bedfans.cfg]` to your printer.cfg.
+
+**3)** Change `pin` for your fans in the second section. 
+- This is intentionally left blank so that it will error if you don't fill it in.
+
+**4)** Configure the options in the first section:
+
+- `variable_threshold` sets the bed temp threshold at which your bed fans will be used. 
+    - Default is 100C (so it does not enable for PLA)
+- `variable_slow` sets the fan speed for when the bed is **heating.** 
+- `variable_fast` sets the fan speed for when the bed is **at temperature.**
+
+### Tips
+- `bedfans-dualcontrol.cfg` optionally allows for setting inner and outer fan speeds separately, for a quad fan configuration.
+- If you get *"Heater heater_bed not heating at expected rate"* errors, then you have one or both of your fan speeds set too high.
+- `variable_slow` can be set to 0 if you prefer the fans to not run during heatup.
+
+
+## **5015 Fan Mount**
 
 Bill of materials (per fan):
 - 1x 5015 fan
 - 1x M3x25
 - 1x M3x20
 - 1x M3 heat set insert
-- 1x M3x8 or M3x10 <i>(optional, I only mount with one screw)</i>
+- 1x M3x8 or M3x10 *(optional, I only mount with one screw)*
 
 ![5015 Fan Mount](Images/5015_mount_isolated.png)  
 
-## <b>FAQ</b>
+## **FAQ**
 
 #### How much difference does it make?
 * My chamber now reaches about 60-66C with a quad fan configuration, whereas it only reached roughly 48-50C previously. Chamber temp is also reached more quickly.
 
 #### Can I push it further?
 
-* Technically your bed heater is not being run at full power with the default configs, however I <i>do not recommend pushing it.</i> Since you can't control max power at runtime, your bed will run at too high of a power while heating, risking warping your bed. 
+* Technically your bed heater is not being run at full power with the default configs, however I *do not recommend pushing it.* Since you can't control max power at runtime, your bed will run at too high of a power while heating, risking warping your bed. 
 
-* <i>I also do not recommend tinkering with your verify_heater (thermal runaway protection) settings.</i>
+* *I also do not recommend tinkering with your verify_heater (thermal runaway protection) settings.*
 
 #### What power should I run my bed heater at?
 
@@ -71,7 +90,7 @@ If you have a 750 watt heater, that's 48% power, or 0.48 max_power.
 
 #### Should I use single, dual or triple/quad fans?
 
-* Triple/quad fans is more for <i>even</i> airflow than <i>raw</i> airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. Triple fans is probably the "sweet spot".
+* Triple/quad fans is more for *even* airflow than *raw* airflow. In fact you will likely not be able to run them at 100% without outrunning your bed heater. I personally prefer triple/quad fans to avoid any possibility of "tacoing" my bed due to uneven temperatures. Triple fans is probably the "sweet spot".
 
 #### Is "dual control" necessary?
 
@@ -80,8 +99,8 @@ If you have a 750 watt heater, that's 48% power, or 0.48 max_power.
 #### I insist on running quad fans at 100%, why am I having a bad time?
 
 * No. Stop it. Bad.
-## <b>Images</b>
+## **Images**
 
-<i>(looks a bit tight since CAD is for a 250mm)</i>
+*(looks a bit tight since CAD is for a 250mm)*
 ![5015 Triple](Images/5015_triple.png)  
 ![5015 Quad Installed](Images/5015_quad_installed.png)  
