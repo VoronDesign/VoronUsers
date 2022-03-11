@@ -13,17 +13,17 @@ The big question is, are these even reliable on a Voron? Well, it is well known 
 I'd appreciate feedback from anyone who has used a CR Touch on their Voron or would like to help test. I suggest newer builders stay with the standard options or the well-tested clicky mod.
 
 Finalized CAD files will be posted after beta.
-
+##
 ### BOM		
 |Size|Qty|
 |---|---|	
 |Creality CR Touch |1|	
-|M3x8 or M3x10 (BHCS or SHCS) |2|
+|M3x8 or M3x10 BHCS/SHCS |2|
 |M3x5 Heat-Set Insert |2|
 
 ![Explode View](Images/CRTouch-b1_explode_sm.JPG)    
 *Rear Spacer is Optional*
-
+##
 ### Instructions
 
 With the wiring detached, carefully seperate the 2 shell pieces by gently pressing the 2 clips on each side. Only the probe side will be used. *Be very careful not to break the clips off*.
@@ -46,3 +46,5 @@ Slide in the probe then attach it from the back with two M3x8 screws (M3x10 reco
 ![7](Images/CRTouch-ex3_sm.jpg)
 ![8](Images/CRTouch-ex2_sm.jpg)    
 *Examples shown are on a single MGN9 rail mod*
+##
+Please contact jjfx.contact@gmail.com to report issues or suggestions.
