@@ -54,4 +54,7 @@ Once done, adjust the build plate view (use top view to ensure clearance) and sa
 
 ![BuildPlate](Images/BuildPlate.png)
 
+## Changes
+2022-02-11: Added detent from devincody
+
 discord:whistlinric
