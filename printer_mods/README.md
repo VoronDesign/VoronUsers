@@ -282,6 +282,7 @@ like so:
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 | samwiseg0 | [Microfit 2x3 Skirt Connector (ADXL)](./samwiseg0/microfit_2x3_skirt_connector_adxl) | Mod for a Microfit 2x3 connector to be mounted in a skirt | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
+|  | [LRS PSU Screw Terminal Cover](./samwiseg0/lrs_screw_terminal_cover) | Mod to cover the screw terminals for several LRS style PSUs | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |  | [4 Channel Relay Under Deck Mount](./samwiseg0/4channel_relay_under_deck_mount) | Mod to mount a 4 channel GPIO controlled relay | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 |  | [ESP8266 NodeMCU Din Mount](./samwiseg0/esp8266_nodemcu_din_mount) | Din mount for ESP8266 NodeMCU | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |  | [Corner Cable Hide/Cover (LED Wires)](./samwiseg0/corner_cable_hide) | Mod to hide cables around z idlers | :x: | :x: | :heavy_check_mark: | :x: | :x: |
