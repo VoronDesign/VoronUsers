@@ -1,6 +1,6 @@
 # V0 Kirigami bed front with space for LED
 
-This is a modifaction of te V0 Kirigami front bed made by Kosh42EFG
+This is a modifaction of the V0 Kirigami front bed made by Kosh42EFG
 
 ![Bedfront](https://user-images.githubusercontent.com/62263528/154589228-073a1a1f-0118-4c81-ae40-8124b2f32eaf.jpg)
 
