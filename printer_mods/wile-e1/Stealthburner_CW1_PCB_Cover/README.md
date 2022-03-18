@@ -6,4 +6,4 @@ I designed a cover for users who are still rocking the CW1 with Stealthburner, w
 
 ![Front](Images/cover_front.png)
 
-![Rear](cImages/cover_rear.png)
+![Rear](Images/cover_rear.png)
