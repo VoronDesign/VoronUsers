@@ -179,6 +179,7 @@ like so:
 | | [Molex MLX and Microfit 3.0 Bed Connector Mount](./jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors |:x: |:x:|:heavy_check_mark:|:x:|
 | JeremyRuhland | [V2.4 Plug Panel Generic Combo](./JeremyRuhland/V2.4_Plug_Panel_Generic_Combo) | Skirt power panel for generic amazon plug/switch/fuse combo module, with 2 keystone sockets | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | jgehrig | [V0 LCD Touchscreen Skirt](./jgehrig/v0_lcdskirt) | 3.2" LCD Touch Screen Skirt | :heavy_check_mark: | :x: | :x: | :x: |
+| JJFX | [V2.4 CR Touch Snap Mount ](./JJFX/CRTouch_Snap_Mount) | Mount to replace v2.4 (MGN9) probe with a Creality CR Touch | :x: | :grey_question: | :heavy_check_mark: | :x: | :x: |
 | JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: |
