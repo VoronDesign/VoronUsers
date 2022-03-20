@@ -92,7 +92,6 @@ Note on cable raceway, I tried the printed ones, but ABS is just to brittle for 
 * More linerar rail stops
 * SKR holder for DIN mount
 
-
 # Stuff you have to buy
 
 * 20t pulley
@@ -105,10 +104,10 @@ Note on cable raceway, I tried the printed ones, but ABS is just to brittle for 
 * wire (wow, a lot of it)
 * cable chains
 * heatsets
-* 5 MGH12 rails.  
-** The biggest I could find easily were 400mm.  On Z I think you could go to 450, so maybe in the future I'll change that since it would just be a rail swap and not much other change. 
-** You need 4x 400
-** 1x 350 for the X axis gantry
+* 5 MGNH12 rails.  
+  * The biggest I could find easily were 400mm.  On Z I think you could go to 450, so maybe in the future I'll change that since it would just be a rail swap and not much other change. 
+  * You need 4x 400
+  * 1x 350 for the X axis gantry
 * JST-PH connectors (for motors)
 
 ## Stuff you might have
