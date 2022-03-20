@@ -126,9 +126,9 @@ Note on cable raceway, I tried the printed ones, but ABS is just to brittle for 
 In general my goal is to change as few things as possible.  I might actually copy all of the CAD files here in the future to simply give you one place to download them, but not for now.  But, here are a list of things I changed:
 
 * [Stealth Idler](CAD/y-gantry/ender_sw_stealth_idler.f3d)
-** I provide the f3d and step files.  This mod addressess two issues:
-*** I wanted to be able to put screws into a threaded m5 hole in the 2040
-*** I did not like the look of the standard idler.  Given the recently released StealthBurner, I figured I'd do a bad version of that for the outer idler.  The inner remains unchanged.
+  * I provide the f3d and step files.  This mod addressess two issues:
+    * I wanted to be able to put screws into a threaded m5 hole in the 2040
+    * I did not like the look of the standard idler.  Given the recently released StealthBurner, I figured I'd do a bad version of that for the outer idler.  The inner remains unchanged.
 
 # Notes
 
