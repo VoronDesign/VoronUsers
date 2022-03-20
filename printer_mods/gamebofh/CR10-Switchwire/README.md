@@ -124,10 +124,17 @@ Note on cable raceway, I tried the printed ones, but ABS is just to brittle for 
 
 In general my goal is to change as few things as possible.  I might actually copy all of the CAD files here in the future to simply give you one place to download them, but not for now.  But, here are a list of things I changed:
 
-* [Stealth Idler](CAD/y-gantry/ender_sw_stealth_idler.f3d)
+* [Stealth Idler](STL/y-gantry/ender_sw_stealth_idler.stl)
   * I provide the f3d and step files.  This mod addressess two issues:
     * I wanted to be able to put screws into a threaded m5 hole in the 2040
     * I did not like the look of the standard idler.  Given the recently released StealthBurner, I figured I'd do a bad version of that for the outer idler.  The inner remains unchanged.
+* [Mounts](STL/mounts/)
+  * Because the Switchwire assumes you're mounting everything to the extrusions, and I'm using DIN, I needed a bracket for the SKR to mount to the DIN holder.  This bracket isn't perfect, but it's close enough for now.
+  * Also, while I was at it, I made one for an Arduino Uno.  This is really to be a secondary MCU for my 2.4, but I'm putting it here for now, because why not.
+* [Offset DIN mount](STL/mounts/offset-din-rail.stl)
+  * As described above, in the "cascading consequences" of the Y-axis, here are the files for the offset DIN mounts.  A little ugly because I didn't want to have to CAD in the profile of the DIN rail.  I should really learn how to start with a body to make that easier.
+
+
 
 # Notes
 
