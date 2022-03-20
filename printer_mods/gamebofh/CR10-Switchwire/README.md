@@ -19,8 +19,8 @@ But, I'm not going to be unreasonable here.
 
 * I had already replaced the stock CR10 hotend a long time ago.  I'll go with Afterburner/Stealthburner here.
 * Going to run klipper
-** This means I need a Raspberry Pi
-** Also I'll probably have a dedicated 5V powersupply
+  * This means I need a Raspberry Pi
+  * Also I'll probably have a dedicated 5V power supply
 
 # Iteration
 
