@@ -81,7 +81,7 @@ In general the footprint is really close to the 250mm Trident for the front and 
 
 I had a 1 meter piece of DIN rail.  Since the space is 32cm (I think) across, I actually went with three, and have the center one with a cable raceway to make it all nice and pretty.
 
-Note on cable raceway, I tried the printed ones, but ABS is just to brittle for them and they would break, so broke down (heh) and bought them from Amazon.
+Note on cable raceway: I tried the printed ones, but ABS is just too brittle for them and they would break, so broke down (heh) and bought them from Amazon.
 
 # Extra/modified CAD items
 
