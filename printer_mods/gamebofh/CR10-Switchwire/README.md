@@ -68,6 +68,7 @@ In general the footprint is really close to the 250mm Trident for the front and 
   * I could have just blanked out the switch, but that would have looked meh, so I decided to have it be a keystone slot instead.  But, if you look at the CAD on the keystone slots, it's a bit more finicky than you would expect (not just rectangular holes), so instead I blanked one of those and then put the power inlet there. 
     * This means the power switch is now on the right (as you look at the machine), so to use the original keystone plate, you need to mirror it to be on the left.
   * The footprint is a little narrower than the 250, so I scaled the center rear panel (unlocked, so only one dimension) from 117mm to 100mm on the X axis.
+    * But, things you don't think about.  The bolts for the center rail run through the middle of this extrusion.  Your drop in nuts won't hit it, but the slight raised part on the skirt, meant to slide into that slot, now slightly hits those bolts.  Means that you end up having to work a little extra hard to get the bolts in that hold that piece of the skirt.
 
 ### Side skirts
 
@@ -124,6 +125,8 @@ Note on cable raceway, I tried the printed ones, but ABS is just to brittle for 
 
 In general my goal is to change as few things as possible.  I might actually copy all of the CAD files here in the future to simply give you one place to download them, but not for now.  But, here are a list of things I changed:
 
+**Note**: Voron standards require that these parts be properly oriented to print without supports.  I haven't done that yet, but if you put them the obvious way, they work.
+
 * [Stealth Idler](STL/y-gantry/ender_sw_stealth_idler.stl)
   * I provide the f3d and step files.  This mod addressess two issues:
     * I wanted to be able to put screws into a threaded m5 hole in the 2040
@@ -133,6 +136,8 @@ In general my goal is to change as few things as possible.  I might actually cop
   * Also, while I was at it, I made one for an Arduino Uno.  This is really to be a secondary MCU for my 2.4, but I'm putting it here for now, because why not.
 * [Offset DIN mount](STL/mounts/offset-din-rail.stl)
   * As described above, in the "cascading consequences" of the Y-axis, here are the files for the offset DIN mounts.  A little ugly because I didn't want to have to CAD in the profile of the DIN rail.  I should really learn how to start with a body to make that easier.
+* [Power Skirts](STL/skirts)
+  * This contains the files for both the power inlet (with keystone) and the (right) side skirt with a hole for the switch.  I made some minor mods on the power inlet after I printed mine, to correct some issues, but haven't printed/tested it, so buyer beware.
 
 
 
