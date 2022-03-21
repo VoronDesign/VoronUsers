@@ -134,7 +134,7 @@ In general my goal is to change as few things as possible.  I might actually cop
 * [Mounts](STL/mounts/)
   * Because the Switchwire assumes you're mounting everything to the extrusions, and I'm using DIN, I needed a bracket for the SKR to mount to the DIN holder.  This bracket isn't perfect, but it's close enough for now.
   * Also, while I was at it, I made one for an Arduino Uno.  This is really to be a secondary MCU for my 2.4, but I'm putting it here for now, because why not.
-* [Offset DIN mount](STL/mounts/offset-din-rail.stl)
+* [Offset DIN mount](STL/mounts/offset-din-rail-mount.stl)
   * As described above, in the "cascading consequences" of the Y-axis, here are the files for the offset DIN mounts.  A little ugly because I didn't want to have to CAD in the profile of the DIN rail.  I should really learn how to start with a body to make that easier.
 * [Power Skirts](STL/skirts)
   * This contains the files for both the power inlet (with keystone) and the (right) side skirt with a hole for the switch.  I made some minor mods on the power inlet after I printed mine, to correct some issues, but haven't printed/tested it, so buyer beware.
