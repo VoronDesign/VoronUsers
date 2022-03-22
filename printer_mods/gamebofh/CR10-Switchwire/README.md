@@ -90,7 +90,7 @@ Note on cable raceway: I tried the printed ones, but ABS is just too brittle for
 * Side skirt with switch
 * Back power inlet
 * Y-axis tensioner
-* More linerar rail stops
+* More linear rail stops
 * SKR holder for DIN mount
 
 # Stuff you have to buy
