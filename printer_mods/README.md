@@ -25,6 +25,8 @@ like so:
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+
+| PsychoShaft | C92X_PsycHoShafts_Mount | 2020 Top profile 920 camera mount / 2 point axis pivot | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |120decibell|[Side entry exhaust housing](./120decibell/exhaust_housing_side_entry)| Exhaust housing with dual cover screws and single or dual side entry filament paths. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Huvud Chain Mount](./120decibell/huvud_chain_mount)| Huvud rear mount for Clockwork or LGX that supports a cable chain. |:x:|:heavy_check_mark:|:grey_question:|:x:|:heavy_check_mark:|
 |3vilson|[V0.1_Skirt_Inlet](./3vilson/V0.1_Skirt_Inlet)|Skirt with C14 inlet + New feet to screw into|:heavy_check_mark:| :x: | :x: | :x: | :x:|
