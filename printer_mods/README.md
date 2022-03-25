@@ -51,7 +51,8 @@ like so:
 | |[V0 Neopixel Front Bed Mount](./Andre/V0_Neopixel_Front_Bed_Mount)|A replacement Front Bed Mount with room for a neopixel or dotstar behind the logo|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
 |antoinecellerier|[DS18B20 Sensor Mount](./antoinecellerier/ds18b20-sensor-mount)|DS18B20 temperature sensor mount|:heavy_check_mark:|:x:|:x:|:x:|:x:|
-|arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|arkeet|[Dial test indicator mount](./ArthurZheng/Foldable7InchDisplay)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|ArthurZheng|[Foldable 7Inch Display](./arkeet/dti-mount)|Affordable foldable 7" touchscreen. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[Magnetic hotend fan cover](./arkeet/magnet-fan-cover)|A replacement hotend fan cover, held with magnets instead of screws. |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
