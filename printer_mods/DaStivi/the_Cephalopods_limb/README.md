@@ -11,7 +11,7 @@ Octopus board can be secured to those bracket with M3 screw, without nuts, just 
 
 ![Screenshots](./img/STL.jpg)
 
-I've also made ah simple Version of the bracket, initially even before the Octopussy Version, as there where no bracketavailable as i got my Octopus board...
+I've also made ah simple Version of the bracket, initially even before the octopus limbs Version, as there where no bracketavailable as i got my Octopus board...
 ![Screenshots](./img/simple_bracket_STL.jpg)
 
 
@@ -21,7 +21,7 @@ There are also the SVG Files of the Octopus Logo i created, from what i used to 
 ![Screenshots](./img/octopus.svg)
 
 #### STL:
-[Octopus limb bracket STL](./STL/Octopussy_Bracket.stl)
+[Octopus limb bracket STL](./STL/Octopus_limbs_bracket.stl)
 
 [Simple bracket STL](./STL/Simple_Octopus_Bracket_v2.stl)
 
