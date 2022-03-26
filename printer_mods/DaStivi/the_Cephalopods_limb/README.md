@@ -2,7 +2,8 @@
 
 This is an alternative DIN Rail bracket for Bigtreetech Octopus boards (Normal and Pro-HV), posted this way back in Voron Discord just never uploaded it to VoronUser Mods
 
-Use Voron stock [pcb_din_clip.stl](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/VORON2.4/Electronics_Compartment/DIN_Brackets/pcb_din_clip_x3.stl), print two of them and secure with m2 self-tapping screw.
+Use either 2 of the old style Voron 2.4(r1)  [r1_pcb_din_clips](https://github.com/VoronDesign/Voron-2/blob/V2.4r1/STLs/VORON2.4/Electronics_Compartment/DIN_Brackets/pcb_din_clip_x3.stl).
+or 2of the new trident/r2 ones [r2_pcb_din_clips](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl).
 
 Octopus board can be secured to those bracket with M3 screw, without nuts, just gently screw them in as its ah just plastic fitting!
 
@@ -20,7 +21,7 @@ There are also the SVG Files of the Octopus Logo i created, from what i used to 
 ![Screenshots](./img/octopus.svg)
 
 #### STL:
-[Octopussy STL](./STL/Octopussy_Bracket.stl)
+[Octopus limb bracket STL](./STL/Octopussy_Bracket.stl)
 
-[Simple Bracket STL](./STL/Simple_Octopus_Bracket_v2.stl)
+[Simple bracket STL](./STL/Simple_Octopus_Bracket_v2.stl)
 
