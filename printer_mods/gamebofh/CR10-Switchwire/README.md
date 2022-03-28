@@ -11,7 +11,7 @@ So I decided to build a CR10, Switchwire.  This repo will be my working notes.
 Keep as much of the CR10 stock as possible.  Ideally, you would be able to reverse this mod and have a CR10 back.  Also, ideally, you would never want to.
 
 * Stock frame
-* Existing motors
+* Existing motors  (except extruder, which is going direct drive)
 * 12V power supply (which results in a bunch of downstream dependencies)
 * DC bed heater.  (I may change my mind on this, seeing how terrible it is and it wasn't great to work with.)
 
@@ -32,6 +32,12 @@ But, I'm not going to be unreasonable here.
 * Can heat the bed
 
 You can see the progress over in the [progress pics](progress.md).
+
+# Upcoming problems
+
+* Bed height/leveling is going to be an issue.  Can't pull the bed down too low against the springs because the bolts can hit the cable chain.  Might need shorter bolts.
+* Binding/leveling on the z-axis.  It's not very good right now.
+
 
 # Iteration
 
@@ -55,7 +61,7 @@ I'm going to use the [Ender_SW](https://github.com/boubounokefalos/Ender_SW) mod
 * This whole system sits lower than the stock Switchwire.  
   * This means that the carriages will now sit lower than the deck plate you want to install (to get cereal'd).  
     * My solve this this was to modify the DIN rail mounts to allow the DIN rails to be lower.  I should probably have just CAD'd them from scratch, but I didn't, so they have some small bits of extra "character"
-      * But, this now meant that if you use the (new and better) Triden DIN mounts, the 12V power supply sits lower than where the bottom panel lines up.  
+      * But, this now meant that if you use the (new and better) Trident DIN mounts, the 12V power supply sits lower than where the bottom panel lines up.  
         * So, I used the (inferior but shorter) 2.4r1 PS DIN mounts to recover that height.
 
 # XZ-axis
@@ -69,11 +75,11 @@ The first problem here is that the existing 2020 that used to hold the X-axis is
 
 * Went with Trident feet to get height
 * Will need to figure out skirts, especially since I went with a split switch and power inlet, because I hate reaching around.  Take that however you will.
+  * I went ahead and did this, and I can tell you it was worth it.  The side switch should be stock.
 
 In general the footprint is really close to the 250mm Trident for the front and back, and the 350mm Trident for the sides.  
 
 ## What I did
-
 
 ### Rear skirts
 * Split the power inlet from the switch.  
@@ -87,7 +93,7 @@ In general the footprint is really close to the 250mm Trident for the front and 
 * I filled and then cut the front right skirt to include the switch.  Yes, I'm glad I did it, having the switch easy to access is so much better.
 * The footprint is again, slightly smaller, so I scaled one of the skirt pieces down to ~124mm in the long axis to get it to fit.
 * I *despise* VHB tape, so I went with the new (2.4r2) mounts for the fans and the blank fan pieces.  This works great, except...
-  * The mounts for the A/B motors interferes with the fan cover in one of the corners of one plate on each side.  It's not elegant, but I just trimmed and filed that to allow it to fit in.  Was able to screw them in with flat head screws, but it's a bit hacky.
+  * The mounts for the A/B motors interferes with the fan cover in one of the corners of one plate on each side.  It's not elegant, but I just trimmed and filed that to allow it to fit in.  Was able to screw them in with flat head screws, but it's a bit hacky. (Visible in the [progress picks](progress.md))
 
 ### Electronics
 
@@ -101,7 +107,7 @@ Note on cable raceway: I tried the printed ones, but ABS is just too brittle for
 * Lowered DIN mounts
 * Side skirt with switch
 * Back power inlet
-* Y-axis tensioner
+* Y-axis tensioner, now with more attitude
 * More linear rail stops
 * SKR holder for DIN mount
 
@@ -121,7 +127,7 @@ Note on cable raceway: I tried the printed ones, but ABS is just too brittle for
   * The biggest I could find easily were 400mm.  On Z I think you could go to 450, so maybe in the future I'll change that since it would just be a rail swap and not much other change. 
   * You need 4x 400
   * 1x 350 for the X axis gantry
-* JST-PH connectors (for motors)
+* JST-PH 2.0 connectors (for motors) [Amazon link](https://smile.amazon.com/gp/product/B09DBHG6NW/ref=ppx_yo_dt_b_asin_title_o07_s00?ie=UTF8&psc=1)
 
 ## Stuff you might have
 * Blue loctite
