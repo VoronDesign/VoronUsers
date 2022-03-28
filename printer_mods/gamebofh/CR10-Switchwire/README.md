@@ -149,6 +149,10 @@ In general my goal is to change as few things as possible.  I might actually cop
 * [Power Skirts](STL/skirts)
   * This contains the files for both the power inlet (with keystone) and the (right) side skirt with a hole for the switch.  I made some minor mods on the power inlet after I printed mine, to correct some issues, but haven't printed/tested it, so buyer beware.
 
+# Helpful Hints
+
+* There is currently a SKR Mini E3 V3 config file for the switchwire.  As a result, when you get done fixing various pin defintions in printer.cfg, klipper just shuts down complaining about ADC pin.
+  * I think it's the sensor pin on the heater bed that changed between V2 and V3.  New sensor pin is PC4.
 
 
 # Notes
