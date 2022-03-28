@@ -22,6 +22,16 @@ But, I'm not going to be unreasonable here.
   * This means I need a Raspberry Pi
   * Also I'll probably have a dedicated 5V power supply
 
+# Current status
+
+* The electronics are mostly working and I have a "wire harness" in.
+* Klipper boots and is happy
+* Can buzz all the motors
+* Have temperature from both thermistors
+* Can heat the bed
+
+You can see the progress over in the [progress pics](progress.md).
+
 # Iteration
 
 Initially I was going to try to reconfigure the frame to get as close to the default SW as possble.  But that was resulting in some compromises and would have resulted in drilling the existing frame a few times.  Not a deal breaker since extra holes wouldn't prevent it from being reversible, but the orientation of the frame pieces also ended up resulting in challenges with how things would mount and probably having to go modify most of the XZ axies.  
@@ -37,7 +47,7 @@ I'm going to use the [Ender_SW](https://github.com/boubounokefalos/Ender_SW) mod
 ## Things you have to change
 
 * You need to use an m5 tap on the ends of the y-axis gantry 2040.  Maybe not need, but it's what I did.  It helps with the motor/idler mouting.
-* You'll need to drill holes in the bed plate to center it on the new gantry.
+* You'll need to drill holes in the bed plate to center it on the new gantry.  See the [progress photos](progress.md}
 
 ### Problems this causes for you
 
@@ -62,6 +72,7 @@ The first problem here is that the existing 2020 that used to hold the X-axis is
 In general the footprint is really close to the 250mm Trident for the front and back, and the 350mm Trident for the sides.  
 
 ## What I did
+
 
 ### Rear skirts
 * Split the power inlet from the switch.  
@@ -118,8 +129,6 @@ Note on cable raceway: I tried the printed ones, but ABS is just too brittle for
 
 * 5v PSU
 * Power inlet and switch
-
-
 
 # CAD
 
