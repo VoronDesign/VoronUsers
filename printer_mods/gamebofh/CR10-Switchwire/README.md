@@ -25,6 +25,7 @@ But, I'm not going to be unreasonable here.
 # Current status
 
 * The electronics are mostly working and I have a "wire harness" in.
+* Hotend is assembled, but not wired up.
 * Klipper boots and is happy
 * Can buzz all the motors
 * Have temperature from both thermistors
