@@ -54,7 +54,7 @@ I'm going to use the [Ender_SW](https://github.com/boubounokefalos/Ender_SW) mod
 ## Things you have to change
 
 * You need to use an m5 tap on the ends of the y-axis gantry 2040.  Maybe not need, but it's what I did.  It helps with the motor/idler mouting.
-* You'll need to drill holes in the bed plate to center it on the new gantry.  See the [progress photos](progress.md}
+* You'll need to drill holes in the bed plate to center it on the new gantry.  See the [progress photos](progress.md).
 
 ### Problems this causes for you
 
