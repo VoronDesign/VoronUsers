@@ -43,17 +43,17 @@ You can see the progress over in the [progress pics](progress.md).
 
 Initially I was going to try to reconfigure the frame to get as close to the default SW as possble.  But that was resulting in some compromises and would have resulted in drilling the existing frame a few times.  Not a deal breaker since extra holes wouldn't prevent it from being reversible, but the orientation of the frame pieces also ended up resulting in challenges with how things would mount and probably having to go modify most of the XZ axies.  
 
-Then someone on Discord had mocked up a SW with the original frame configuration.  That had the advantage of making the XZ pretty stock, and only requiring mods to the Y.  There were already some mods that did something similar, so went down that route.
+Then someone on Discord had mocked up a SW with the original frame configuration, and used the Trident feet/skirts.  That had the advantage of making the XZ pretty stock, and only requiring mods to the Y.  There were already some mods that did something similar, so went down that route.
 
 # Y-axis
 
-I'm going to use the [Ender_SW](https://github.com/boubounokefalos/Ender_SW) mod for this.  The reason is that I don't have a spare 2020 to run the stock SW, and I was starting to run into all sorts of issues trying to go with 2040.  Since that's closer to the stock CR10 and it simplifies XZ, I opted to mod here and go stock on XZ.  Especially since this is a two linear rail setup, which has to be twice as good as one, right?
+I'm going to use the [Ender_SW](https://github.com/boubounokefalos/Ender_SW) mod for this.  The reason is that I don't have a spare 2020 aluminum extrusion to run the stock SwitchWire, and I was starting to run into all sorts of issues trying to go with 2040 aluminum extrusion that is from the CR10 frame.  Since that's closer to the stock CR10 and it simplifies XZ axis, I opted to mod the Y-axis and go stock on the XZ axis.  Especially since this Y-axis mod is a two linear rail setup, which has to be twice as good as one, right?
 
-* I'm probably going to have to add stops for the rails since the expectation was they go until they hit the front idler, which for this mod isn't true.  Until I figure that out, will keep the plastic pieces on that keep the carriages from coming off.
+* You do want to add stops for the Y-axis lineral rails since the expectation was they go until they hit the front idler, and that's what prevents the carriages from coming off the rails.  I just printed some extra Z-axis stop pieces and put them at the front.
 
 ## Things you have to change
 
-* You need to use an m5 tap on the ends of the y-axis gantry 2040.  Maybe not need, but it's what I did.  It helps with the motor/idler mouting.
+* You need to use an m5 tap on the ends of the Y-axis gantry 2040 aluminum extrusion.  Maybe not need, but it's what I did.  It helps with the motor/idler mouting.
 * You'll need to drill holes in the bed plate to center it on the new gantry.  See the [progress photos](progress.md).
 
 ### Problems this causes for you
