@@ -41,9 +41,9 @@ You can see the progress over in the [progress pics](progress.md).
 
 # Iteration
 
-Initially I was going to try to reconfigure the frame to get as close to the default SW as possble.  But that was resulting in some compromises and would have resulted in drilling the existing frame a few times.  Not a deal breaker since extra holes wouldn't prevent it from being reversible, but the orientation of the frame pieces also ended up resulting in challenges with how things would mount and probably having to go modify most of the XZ axies.  
+Initially I was going to try to reconfigure the frame to get as close to the default SwitchWire as possble.  But that was resulting in some compromises and would have resulted in drilling the existing frame a few times.  Not a deal breaker since extra holes wouldn't prevent it from being reversible, but the orientation of the frame pieces also ended up resulting in challenges with how things would mount and probably having to go modify most of the XZ axies.  
 
-Then someone on Discord had mocked up a SW with the original frame configuration, and used the Trident feet/skirts.  That had the advantage of making the XZ pretty stock, and only requiring mods to the Y.  There were already some mods that did something similar, so went down that route.
+Then someone on Discord had mocked up a SwitchWire with the original frame configuration, and used the Trident feet/skirts.  That had the advantage of making the XZ pretty stock, and only requiring mods to the Y.  There were already some mods that did something similar, so went down that route.
 
 # Y-axis
 
