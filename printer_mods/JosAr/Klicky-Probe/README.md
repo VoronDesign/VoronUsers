@@ -67,7 +67,7 @@ The probe accuracy output is better than a range of 0.025mm (difference between 
 
 There are no need for supports, recommended settings are 4 perimeters/top/bottom, at least 23% infill, the STL's are already oriented, you only need to send them to the slicer.
 
-![](C:\Users\Jose\Documents\Git\Klicky-Probe\Photos\Klicky_Probe_recommended_printing_orientation.png)
+![](./Photos/Klicky_Probe_recommended_printing_orientation.png)
 
 Each printer family/version has it's own mounting options, Bill of Materials, assembly instructions and dock/attach setup.
 
@@ -110,7 +110,7 @@ There are several micro sized Voron variants, most also support klicky, you can 
 
 # Assembled Klicky Probe on a Voron v2.4
 
-# ![Assembled Klicky Probe](C:\Users\Jose\Documents\Git\Klicky-Probe\Photos\Voron_V2.4_300mm_back.jpg)
+# ![Assembled Klicky Probe](./Photos/Voron_V2.4_300mm_back.jpg)
 
 # Dock and undock video
 
