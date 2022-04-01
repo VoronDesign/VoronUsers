@@ -162,7 +162,7 @@ In general my goal is to change as few things as possible.  I might actually cop
 
 * I am inordinately happy with the fact that I have the original CR10 display working now. It has terrible resolution.  It's a bad size.  But I love it because it maintains the original (even if I now have to go buy/make a longer ribbon cable).  Here are the values I used for the config to get the display to work.  
 
-'''
+<pre>
 [display]
 lcd_type: st7920
 cs_pin: PB8
@@ -175,7 +175,7 @@ click_pin: ^!PA15
 
 [output_pin beeper]
 pin: PB5
-'''
+</pre>
 
 # Notes
 
