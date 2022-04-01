@@ -160,6 +160,22 @@ In general my goal is to change as few things as possible.  I might actually cop
 * There is currently a SKR Mini E3 V3 config file for the switchwire.  As a result, when you get done fixing various pin defintions in printer.cfg, klipper just shuts down complaining about ADC pin.
   * I think it's the sensor pin on the heater bed that changed between V2 and V3.  New sensor pin is PC4.
 
+* I am inordinately happy with the fact that I have the original CR10 display working now. It has terrible resolution.  It's a bad size.  But I love it because it maintains the original (even if I now have to go buy/make a longer ribbon cable).  Here are the values I used for the config to get the display to work.  
+
+'''
+[display]
+lcd_type: st7920
+cs_pin: PB8
+sclk_pin: PB9
+sid_pin: PD6
+encoder_pins: ^PA10, ^PA9
+#encoder_pins: ^EXP1_5, ^EXP1_3
+click_pin: ^!PA15
+#kill_pin: ^!EXP2_8
+
+[output_pin beeper]
+pin: PB5
+'''
 
 # Notes
 
