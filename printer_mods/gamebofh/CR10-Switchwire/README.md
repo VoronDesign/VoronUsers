@@ -71,6 +71,12 @@ The first problem here is that the existing 2020 that used to hold the X-axis is
 ## How I solved this
 * I bought a 38cm piece of 2020 extrusion from Misumi.  I might have measured that after a few drinks though, because I should have bought a 39cm piece of 2020 extrusion.  It works, but now you know.
 
+Well, while I was waiting for StealthBurner to come out of beta so it could have a toolhead PCB so I didn't have to wire things, I decided to finally just belt up XZ, because it would be easy.  This is the first place that the difference between 2020 and 3030 has bitten me (that I know of so far).  It makes subtle changes in alignment, so that suddenly the belt wouldn't line up from the top Z idlers down to/past the X gantry.
+
+## How I'm hoping to solve this (because I haven't yet)
+
+I'm going to scale the accent color piece up to be 10mm thicker.  I was going to take the time to do it in the CAD, but I'm going to try to do it with the slicer first, because that's way easier.
+
 # Below the belt (aka skirts & electronics)
 
 * Went with Trident feet to get height
