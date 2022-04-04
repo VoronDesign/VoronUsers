@@ -1,0 +1,93 @@
+Straight from the 3D CAD model (Voron-Trident_DesignLogo_WithOUTHexOutline_ComplexPath and Voron-Trident_DesignLogo_WithHexOutline_ComplexPaths.svg):
+
+Dimensions
+
+Height (Y) : 300.05mm 
+Width (X) :259.851
+
+===============================
+===============================
+
+Trident_250_deck_Panel [free space]:		dimension for .svg to fit nice:
+Height (Y) : 317.5mm 				256.76225mm
+Width (X) : 280mm				220.472mm
+
+filename: Voron-Trident_DesignLogo_Trident_250_deck_Panel.svg
+
+=====================================================================================
+
+Trident_250_Rear_Panel [free space]:		dimension for .svg to fit nice:
+Height (Y) : 430.5mm 				348.145mm
+Width (X) : 379mm				298.4246mm
+
+filename: Voron-Trident_DesignLogo_Trident_250_Rear_Panel.svg
+
+=====================================================================================
+
+Trident_300_deck_Panel [free space]:		dimension for .svg to fit nice:
+Height (Y) : 367.5mm  				297.197mm  Ratio: 0.80870 or 80.87% reduced
+Width (X) : 330mm      				259.851mm Ratio: 0.7874 or 78.74%
+
+filename: Voron-Trident_DesignLogo_Trident_300_deck_Panel.svg
+
+=====================================================================================
+
+Trident_300_rear_Panel [free space]:		dimension for .svg to fit nice:
+Height (Y) : 430.5mm 				348.14535mm
+Width (X) : 429mm				337.7946mm
+
+filename: Voron-Trident_DesignLogo_Trident_300_rear_Panel.svg
+
+=====================================================================================
+
+Trident_350_deck_Panel [free space]:		dimension for .svg to fit nice:
+Height (Y) : 417.5mm 				337.63225mm
+Width (X) : 380mm				299.212mm
+
+filename: Voron-Trident_DesignLogo_Trident_350_deck_Panel .svg
+
+=====================================================================================
+Trident_350_rear_Panel [free space]:		dimension for .svg to fit nice:
+Height (Y) : 430.5mm				348.14535mm
+Width (X) : 479mm				377.1646mm
+
+filename: Voron-Trident_DesignLogo_Trident_350_rear_Panel.svg
+
+=====================================================================================
+=====================================================================================
+=====================================================================================
+Actual size of each Panel:
+
+
+Trident_250_deck_Panel :		
+Height (Y) : 369mm 				
+Width (X) : 369mm				
+
+=====================================================================================
+
+Trident_250_Rear_Panel :		
+Height (Y) : 473mm 				
+Width (X) : 383mm				
+
+=====================================================================================
+
+Trident_300_deck_Panel :		
+Height (Y) : 419mm  			
+Width (X) : 419mm      			
+
+=====================================================================================
+
+Trident_300_rear_Panel:		
+Height (Y) : 473mm 				
+Width (X) : 433mm				
+
+=====================================================================================
+
+Trident_350_deck_Panel:		
+Height (Y) : 469mm 				
+Width (X) : 469mm				
+
+=====================================================================================
+Trident_350_rear_Panel:		
+Height (Y) : 473mm				
+Width (X) : 483mm				
