@@ -6,7 +6,7 @@ This mod is a whole family of printable inserts to **hold your V0 nuts in place*
 
 They fit larger LDO extrusions, but not MakerBeamXL or OpenBeam (yet).
 
-This will make your V0 build go happier, **guaranteed**, especially for the bed, panel mounts, and mid panel.
+This will make your V0 build go happier, **guaranteed**, especially for the bed, panel mounts, door latch and mid panel.
 
 Why?  They:
 - hold nuts in place, so you don't need realign, push, or even rotate the printer around
@@ -19,7 +19,7 @@ No-Drop Nuts in place:
 No-Drop nuts in the rear side of the bed:
 ![V0 bed assembly rear side](images/z_rear.jpg)
 
-With these, you can completely assemble a v0 bed assembly in a few minutes.  
+With these, you can completely assemble a v0 bed assembly in a few minutes.
 
 In general, once you align any nut, you won't have to realign it ever, unless inserting additional nuts.
 
@@ -35,7 +35,7 @@ And you can print these really, really fast.  Who's going to see them, anyway?
 
 BTW, you could probably remove most of the material and still have them align and work fine.  This didn't seem like a priority, since they each take maybe 90s to print.
 
-**Quantities: **Quantities are noted for the specific nut locations for a V0.  Use 2x of the 12mm for the front idlers.  You'll need 24x for the enclosure sides, plus plenty for the skirts, mid panels, rails, and other spots.
+**Quantities:** Quantities are noted for the specific nut locations for a V0.  Use 2x of the 12mm for the front idlers.  You'll need 24x for the enclosure sides, plus plenty for the skirts, mid panels, rails, and other spots.
 
 ## Installation
 
@@ -59,7 +59,7 @@ NoDropNut_12mm.stl go in the front idlers, and NoDropNut_15mm.stl is your go-any
 
 Designed in Fusion 360.
 
-The parts files have 0.1mm of designed-in clearance inside the extrusion in each direection, and they intentionally hold the nut tight, so that the ends bend a bit, to provide a tight slip fit in the extrusion channel.
+The parts files have 0.1mm of designed-in clearance inside the extrusion in each direction, and they intentionally hold the nut tight, so that the ends bend a bit, to provide a tight slip fit in the extrusion channel.
 
 ## Credits
 
