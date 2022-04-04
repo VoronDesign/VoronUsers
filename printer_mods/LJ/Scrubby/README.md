@@ -7,7 +7,6 @@ decided to test a dust scrubber, and I have not had another clog for a very long
 ![](./images/back.PNG)
 ![](./images/irl.JPG)
 
-
 <h2>Materials needed</h2>
   
 * 8x 6x3 Neodynium Magnets
