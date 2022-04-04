@@ -11,8 +11,8 @@ Configured in Klipper to power the fan at 50%, and coupled with the nevermore mi
 
 ### <B>New Parts</B>
 
-- 1x 120x120x25mm fan such as [Noctua NF-F12 iPPC-2000](https://www.amazon.com/gp/product/B00KFCQT6M/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1). (note that I have an adjustable voltage on my control board, but make sure your fan matches the voltage for your system.)
-- HEPA Filter such as [Nispira True HEPA Filter Replacement with Activated Carbon](https://www.amazon.com/gp/product/B0921DZLPK/ref=ppx_yo_dt_b_search_asin_title?ie=UTF8&psc=1)
+- 1x 120x120x25mm fan such as [Noctua NF-F12 iPPC-2000](https://www.amazon.com/gp/product/B00KFCQT6M/). (note that I have an adjustable voltage on my control board, but make sure your fan matches the voltage for your system.)
+- HEPA Filter such as [Nispira True HEPA Filter Replacement with Activated Carbon](https://www.amazon.com/gp/product/B0921DZLPK/)
 
 ### <B>Parts from Voron BOM</B>
 
