@@ -21,7 +21,7 @@ Install m3 inserts in the printed fan cover
 
 Poke wire through the hole and then attach fan and cover to the outside of the panel using the m3 screws.
 
-depending on your 
+Depending on your control board you may need to use a [klipper expander](https://s.click.aliexpress.com/e/_AfOnF3) board to gain an additional controllable fan output.
 
 For info on wiring and detailed assembly pictures etc. please take a look at the guide I did [here](https://3dpandme.com/?p=406) as part of a general upgrade to my V0.1
 
