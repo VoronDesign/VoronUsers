@@ -75,7 +75,7 @@ Well, while I was waiting for StealthBurner to come out of beta so it could have
 
 ## How I'm hoping to solve this (because I haven't yet)
 
-I'm going to scale the accent color piece up to be 10mm thicker.  I was going to take the time to do it in the CAD, but I'm going to try to do it with the slicer first, because that's way easier.
+I went ahead and pulled the piece out of the cad and then created a parameter for thickness and added 10mm.  It's a big chonky thing, and I now need longer bolts, but it looks like it will work.  It's so ugly though, will probably need a redesign.  Given that, haven't added CAD and STL, but available upon request.
 
 # Below the belt (aka skirts & electronics)
 
@@ -146,8 +146,6 @@ Note on cable raceway: I tried the printed ones, but ABS is just too brittle for
 # CAD
 
 In general my goal is to change as few things as possible.  I might actually copy all of the CAD files here in the future to simply give you one place to download them, but not for now.  But, here are a list of things I changed:
-
-**Note**: Voron standards require that these parts be properly oriented to print without supports.  I haven't done that yet, but if you put them the obvious way, they work.
 
 * [Stealth Idler](STL/y-gantry/ender_sw_stealth_idler.stl)
   * I provide the f3d and step files.  This mod addressess two issues:
