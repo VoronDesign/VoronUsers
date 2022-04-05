@@ -19,7 +19,7 @@ Update the following table with the information about your mod:
 
 like so:
 `
-| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: | :x:|`
+| Creator | [Mod title](link) | Description | :x: | :x: | :x: | :x: | :x: |`
 
 ---
 
@@ -79,6 +79,7 @@ like so:
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+|CannedBass|[Trident Bed Fans](./CannedBass/Trident_Bed_Fans)| Bed fans for Trident |:x:|:grey_question:|:x:|:x:|:heavy_check_mark:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | ChenTheDesignMaker | [Z Belt Clip](./ChenTheDesignMaker/Z_Belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
@@ -135,7 +136,7 @@ like so:
 | | [Exhaust_cover_SFS](./Fiction/Exhaust_cover_SFS) | Exhaust cover and BTT Smart Filament Sensor mount | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [LGX Lite toolhead PCB mount](./Fiction/LGX_Lite_toolhead_PCB_mount) | Mount for Hartk's toolhead PCB(s) for LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
-| GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire and Voron 0.0/0.1. These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire, Voron 0.0/0.1. and Trident These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
 | gen2ng | [Switchwire LED wire pass through](./gen2eng/z_carriage_stop_pass_through) | Z Carriage Stop modification that makes pass through of wires for the LED light bar clean and easy | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
@@ -215,6 +216,7 @@ like so:
 | lakai | [Bruag Skirts](./lakai/Bruag_Skirts) | V2 350mm skirts inspired by Bruag Facades | :x: | :x: | :heavy_check_mark: | :x: |
 |leandromarceddu|[PowerSkirt](./leandromarceddu/PowerSkirt) |Modified skirtpiece for a digital power monitor|:x:|:grey_question:|:heavy_check_mark:|:grey_question:|
 |littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |:x:|
+| LJ | [Scrubby](./LJ/Scrubby) | Easy to use filament dust filter | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
 |LoCoCNC| [MGN7H Shims](./LoCoCNC/MGN7H_Shims) | Shims for making bearing cartridges coplanar |:heavy_check_mark:|:x:|:x:|:x:|
 | | [Mosquito PTFE 15mm Tube Cutting Jig](./LoCoCNC/Mosquito_PTFE_Cutting_Jig) | Tool to precicely cut 15mm PTFE Tube |:heavy_check_mark:|:x:|:x:|:x:|
 | | [3mm Top Hat Panels Clips](./LoCoCNC/3mm_tophat_panel_parts) | Required to use the 3mm (1/8") thick top hat panels for V0.1 |:heavy_check_mark:|:x:|:x:|:x:|
@@ -234,9 +236,12 @@ like so:
 | | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
+| maximilian-foerg | [Afterburner Turbo Mod](./maximilian-foerg/AB_Turbo_Mod) | A purely cosmetic mod for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Switchwire Double 60mm Fan Mount](./maximilian-foerg/VSW_Double_60mm_Fan_Mount) | A mount for two (or four) 60mm fans in SW's electronics compartment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCMBen | [Voron0 Block & Tackle Z Belt](./MCMBen/Voron0_Block_and_Tackle_Z_Belt) | A block & tackle belted Z solution using NEMA14. Ratios from 5:1 to 8:1 and friction prevent Z drop when powered off. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Mellow | [V0 Fly-Gemini](./Mellow/V0_Fly-Gemini) | Fly-Gemini adapted model for V0 | :heavy_check_mark: | :x: | :x: | :x: | :x:|
+| mikepthomas | [MKS Mosfet Mount](./mikepthomas/MKS_Mosfet_Mount) | MKS Mosfet Mount based of the Trident Raspberry Pi Mount. | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |MikesMods|[LGX mount for V0.1 with 2nd X rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
@@ -266,6 +271,7 @@ like so:
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: |
+| PsychoShaft | [C92X_PsycHoShafts_Mount](./PsychoShaft/C92X_PsycHoShafts_Mount) | 2020 Top profile 920 camera mount / 2 point axis pivot | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |QuackProfit|[V0 Adafruit NeoPixel LED Mounts](./QuackProfit/V0-Adafruit-Y_Rails) | Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions | :heavy_check_mark:|:x:|:x:|:x:|
 | quattroerik | [V2.4 Door Hinge M3 3mm 180deg](./quattroerik/front_door_m3_180_deg_3mm) | Voron 2.4 door hinges for 3mm panel, 180 deg opening and m3 screw as shaft | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |:x:|
