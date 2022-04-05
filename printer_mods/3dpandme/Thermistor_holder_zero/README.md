@@ -6,10 +6,10 @@ This is a really simple remix of the thermistor holder by [samwiseg0](../../samw
 
 ## Assembly
 
-Linked products are an example, other brands work just fine!
+Linked products are an example, other brands work just fine! That said using the affiliate link helps support future developments and costs you nothing :)
 
 BOM:
-- 1x [cartridge thermistor](https://s.click.aliexpress.com/e/_AYgKAl)
+- 1x [cartridge thermistor affiliate link](https://s.click.aliexpress.com/e/_AYgKAl) / [cartridge thermistor normal](https://s.click.aliexpress.com/e/_AYgKAl)
 - 1x M3x8mm screw
 - 1x [printed thermistor holder zero](thermistor_holder_zero.stl) 
 

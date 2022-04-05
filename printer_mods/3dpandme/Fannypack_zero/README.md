@@ -1,15 +1,15 @@
 # FANnypack Zero
 
-This is a simple and yet overkill electronics cooling solution for the Voron Zero
+This is a simple and yet overkill electronics cooling solution originally intended for the Voron Zero however could also be installed on any printer with a solid panel covering the electronics area.
 
 ![](installed.jpg)
 
 ## Assembly
 
-Linked products are an example, other brands work just fine!
+Linked products are an example, other brands work just fine! That said using the affiliate link helps support future developments and costs you nothing :)
 
 BOM:
-- 1x [8015 axial fan](https://s.click.aliexpress.com/e/_AURPhP)
+- 1x [8015 axial fan affiliate link](https://s.click.aliexpress.com/e/_AURPhP) / [8015 axial fan normal link](https://www.aliexpress.com/item/32600915237.html)
 - 4x M3x20mm screw
 - 4x M3 inserts
 - 1x modified electronics back panel 
