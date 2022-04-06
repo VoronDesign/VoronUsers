@@ -2,7 +2,7 @@
 
 ![](Images/side-view.jpeg)
 
-This mod is alternative frame mount for [alanho's PITFT50 screen mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount).
+This mod is an alternative frame mount for [alanho's PITFT50 screen mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount).
 They suggest using the [frame mount from sttts](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl),
 which puts the screen at a 30-degree angle.
 I found that with the shorter guitar amplifier feet on the Trident and 2.4r2,
