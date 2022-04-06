@@ -2,8 +2,8 @@
 
 ![](Images/side-view.jpeg)
 
-This mod is an alternative frame mount for [alanho's PITFT50 screen mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount).
-They suggest using the [frame mount from sttts](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl),
+This mod is an alternative frame mount for [alanho's PITFT50 screen mount](../../alanho/BTT_PITFT50_v2_Mount).
+They suggest using the [frame mount from sttts](../../sttts/Waveshare-5.5-inch-HDMI-AMOLED/STLs/Voron-2.4-Mount-Generisch-v6.stl),
 which puts the screen at a 30-degree angle.
 I found that with the shorter guitar amplifier feet on the Trident and 2.4r2,
 the 30-degree mount makes the screen assembly too tall to fit under the frame.
@@ -11,17 +11,17 @@ This mod replaces the 30-degree frame mount with a 45-degree mount, which provid
 
 This design was created from scratch, but was heavily inspired by other mods:
 
-* [roboticator24 - 4-inch Touchscreen Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/roboticator24/4inch_touchscreen_mount_for_v2.4)
-* [jeoje - 4.3-inch Touchscreen Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/4.3_Inch_Touchscreen_Mount)
-* [sttts - Waveshare 5.5inch HDMI AMOLED Mount](https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/sttts/Waveshare-5.5-inch-HDMI-AMOLED)
+* [roboticator24 - 4-inch Touchscreen Mount](../../roboticator24/4inch_touchscreen_mount_for_v2.4)
+* [jeoje - 4.3-inch Touchscreen Mount](../../jeoje/4.3_Inch_Touchscreen_Mount)
+* [sttts - Waveshare 5.5inch HDMI AMOLED Mount](../../sttts/Waveshare-5.5-inch-HDMI-AMOLED)
 
-This was tested with a BTT PITFT50 v2, but will likely also work with [sttts's 5.5-inch Waveshare mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/jeoje/4.3_Inch_Touchscreen_Mount),
+This was tested with a BTT PITFT50 v2, but will likely also work with [sttts's 5.5-inch Waveshare mount](../../jeoje/4.3_Inch_Touchscreen_Mount),
 since the hole pattern is the same.
 
 ## Bill of Materials
 * 6x M3x8 SHCS
 * 2x M3 T-Nuts
-* [alanho's PITFT50 mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/alanho/BTT_PITFT50_v2_Mount)
+* [alanho's PITFT50 mount](../../alanho/BTT_PITFT50_v2_Mount)
 
 ## Assembly Instructions
 
