@@ -17,11 +17,10 @@ This is a low profile raspberry pi camera mount for the Voron 0 / Voron 0.1.
 ## BOM
 | Item | Qty. | Note |
 | --- | --- | --- |
-| **>300mm Flex Cable** | 1 | May be optional, see notes |
 | M2x6 BHCS/SHCS | 1 - 2 | For securing the Raspberry Pi Camera |
 | M3x16 BHCS | 1 | For securing to profile |
 | M3 Nut | 1 | For securing to profile |
-| M3 Nut | 1 | For securing to profile |
+| **>300mm Flex Cable** | 1 | May be optional, see notes |
 
 ## Long Story
 Ever since building my Voron 0.1, I've been trying to find a good mount for a raspberry pi camera. That said, most solutions I have found are a bit too conspicuous for my taste (i.e. they stick out into the tophat area), with no direct line of sight to the nozzle.
