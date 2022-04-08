@@ -31,7 +31,7 @@ That's why I've decided to design my own and I've found a nice spot towards the 
 Let me know what you think!
 
 ## Notes
-- The **Flex cable** that comes with the camera module will be too short for this mod if  your Raspberry Pi is located towards the bottom left of the electronics compartment (as per the manual). You can either purchase a 300mm / 12 in" flex cable or re-locate the Raspberry Pi towards the top of the compartment.
+- **The flex cable** that comes with the camera module will be too short for this mod if  your Raspberry Pi is located towards the bottom left of the electronics compartment (as per the manual). You can either purchase a 300mm / 12 in" flex cable or re-locate the Raspberry Pi towards the top of the compartment.
 - **Clearnace** is quite tight (see one of the attached images), so I'd highly recommend that you check for inteference before commencing any prints. You can do so by moving the x-axis by hand along the back of the print bed. I'd also suggest that you check for any stray hotend wires so they don't snag on the camera
 - **Material choice** is up to you, but if you're an enclosure (as I do), I'd highly recommend you print this model using ABS.
 - **The focus distance** on the camera is usually set a too far out of the factory, resulting in a slightly blurry image. It is suggested that you adjust the focus ring on the camera to get a better image (not sure about warranty however).
