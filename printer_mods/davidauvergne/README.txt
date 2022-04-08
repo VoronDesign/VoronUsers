@@ -1,7 +1,7 @@
 A remake of ryandam's Mod for a centered cable management.
 
 You can find the original file here:
-(https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/ryandam/Cable_management_duct)
+(VoronUsers/printer_mods/ryandam/Cable_management_duct)
 
 I reinforced the slots to make it more robust.
 Fits on 300X3 version of V2.4 with TFT screen.
