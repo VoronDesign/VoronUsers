@@ -12,6 +12,7 @@ This is a low profile raspberry pi camera mount for the Voron 0 / Voron 0.1.
 3. Easy mounting with 1 M3x16 screw, 1 M3 nut and 1 M2x6 screws
 4. **NO PRELOADING OF NUTS** thank goodness!
 5. **No supports** as always!
+5. Battle tested by users on Thingiverse and Printables!
 
 ## BOM
 | Item | Qty. | Note |
