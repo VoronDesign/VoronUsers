@@ -1,8 +1,9 @@
 # Voron 0/0.1 Raspberry Pi Camera Mount
 
-# Please consider [downloading this model on Printables](https://www.printables.com/model/146877-voron-0-voron-01-raspberry-pi-camera-mount) as well to help me earn a roll of Prusament 😆
 
 This is a low profile raspberry pi camera mount for the Voron 0 / Voron 0.1.
+**Please consider [downloading this model on Printables](https://www.printables.com/model/146877-voron-0-voron-01-raspberry-pi-camera-mount) as well to help me earn a roll of Prusament 😆**
+
 
 ## TLDR
 1. Raspberry pi camera mount for the voron 0 / voron 0.1
@@ -37,5 +38,5 @@ Let me know what you think!
 ![0.1 Mount Image 05](Images/img05.jpg)
 ![0.1 Mount Image 06](Images/img06.jpg)
 
-[^1] Raspberry pi camera model used in rendering designed by [Peter Höjerslev](https://grabcad.com/library/raspberry-pi-camera-4)
+*Raspberry pi camera model used in rendering designed by [Peter Höjerslev](https://grabcad.com/library/raspberry-pi-camera-4)*
 
