@@ -1,6 +1,6 @@
 # V2.4 Clip-On Door Frames #
 
- This design builds on [Alexander-T-Moss](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges) 270 degree hinges by adding a clip-on frame around the front doors to provide better sealing and stiffining of the front door panels.  
+ This design builds on [Alexander-T-Moss](../AlexanderT-Moss/270-Clamping-Hinges) 270 degree hinges by adding a clip-on frame around the front doors to provide better sealing and stiffining of the front door panels.  
  
  The clips consist of three types of components - angle_frame_1,  angle_frame_2, and straight_frame.  Each door will need a one of each angle_frames, with one on the top of the door and one on the bottom of the door.  For the left door, angle_frame_1 goes on the bottom of the door and angle_frame_2 goes on top of the door.  For the right door, angle_frame_1 goes on the top of the door and angle_frame_2 goes on the bottom or the door.
  
@@ -47,8 +47,8 @@ These are currently sized for the 300x300x300mm V2.4 build.  If anyone is intere
  
   ## Installed On My 2.4 ##
 
- ![full_front_view.jpg](https://github.com/scanlory/VoronUsers/blob/clip_on_door_frame/printer_mods/scanlory/clip_on_door_frame/Images/full_front_view.jpg)
+ ![full_front_view.jpg](./Images/full_front_view.jpg)
  
-  ![right_door.jpg](https://github.com/scanlory/VoronUsers/blob/clip_on_door_frame/printer_mods/scanlory/clip_on_door_frame/Images/right_door.jpg)
+  ![right_door.jpg](./Images/right_door.jpg)
   
-  ![door_latch.jpg](https://github.com/scanlory/VoronUsers/blob/clip_on_door_frame/printer_mods/scanlory/clip_on_door_frame/Images/door_latch.jpg)
+  ![door_latch.jpg](./Images/door_latch.jpg)
