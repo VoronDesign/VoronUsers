@@ -8,6 +8,6 @@ One isn't symmetric and can be used on external frames, where there are clear pa
 
 ![](./images/one_side.jpg)
 
-![](./images/IMG_3239.jpg)
+![](./images/IMG_3239.jpeg)
 
-![](./images/IMG_3238.jpg)
+![](./images/IMG_3238.jpeg)
