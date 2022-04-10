@@ -133,6 +133,7 @@ like so:
 | | [Exhaust_cover](./Fiction/Exhaust_cover) | Cover for exhaust cutout in back panel | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Exhaust_cover_SFS](./Fiction/Exhaust_cover_SFS) | Exhaust cover and BTT Smart Filament Sensor mount | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [LGX Lite toolhead PCB mount](./Fiction/LGX_Lite_toolhead_PCB_mount) | Mount for Hartk's toolhead PCB(s) for LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| filotto78 | [6mm slot cover](./filotto78/6mm_slot_cover) | Simple cover for extrusion with 6mm slot width | :x: | :grey_question: | :heavy_check_mark: |:grey_question:| :grey_question:|
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
 | GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire and Voron 0.0/0.1. These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
@@ -354,4 +355,3 @@ like so:
 | | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Adxl, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|:x: |
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
-| filotto78 | [6mm slot cover](./filotto78/6mm_slot_cover) | Simple cover for extrusion with 6mm slot width | :x: | :grey_question: | :heavy_check_mark: |:grey_question:| :grey_question:|
