@@ -1,6 +1,6 @@
 # AB-BN for Stock
 
-This is a revised Stock toolhead for the Dragon or Rapido hotend. It takes the technology from AB-BN and ports it for use with the stock Afterburner Assembly.
+This is a revised Stock toolhead for the Revo Voron, Dragon or Rapido hotend. It takes the technology from AB-BN and ports it for use with the stock (v2.4) Afterburner Assembly.
 
 This allows you to use the stock Afterburner 4020 based part cooler and reduces the potential for jamming.
 
@@ -8,13 +8,11 @@ The only real use case I know of for this is for someone who does not have a 501
 
 # Why? 
 
-The stock Afterburner was designed for a full size E3D V6 hotend.  The Dragon uses a much smaller heatsink.  The result of this is that the bulk of the airflow bypasses the heatsink on the Dragon.
+The stock Afterburner was designed for a full size E3D V6 hotend.  These newer hotends use a much smaller heatsink.  The result of this is that the bulk of the airflow bypasses the heatsink, which can result in jamming
 
-In addition, the stock toolhead blows a lot of air onto the bed.
+In addition, the stock toolhead blows a lot of air onto the bed. This design reduces overall airflow, while increasing hotend cooling.
 
 Finally, the stock ducts tend to melt and warp over time.
-
-I also added support for Phaetus' Rapido toolhead.
 
 
 # How does this fix anything?
@@ -30,17 +28,19 @@ I also included the bleed air channels that help reduce part duct melting.
 
 # Should I use this or the FULL AB-BN?
 
-This solution is aimed at someone who wants to keep using most of the stock Afterburner, but needs a little less hotend jamming.
+This solution is aimed at someone who wants to keep using most of the stock Afterburner and needs a little less hotend jamming.
 
-I recommend you use the full AB-BN if you can.
+I recommend you use the full AB-BN (or Stealthburner) if you can.
 
 # What toolheads are supported?
 
-I have support for Phaetus' Dragon and Rapido toolheads.
+I have support for E3D's Revo Voron and Phaetus' Dragon and Rapido toolheads.
 
-For Dragon, you do not need a new back piece, the stock dragon back is fine.
+For Revo Voron, you need both front and back pieces.  The toolhead mounts with M3x8 (0.5mm pitch) screws.
 
-For Rapido you will need both front and back pieces.
+For Dragon, you do not need a new back piece, the stock dragon back is fine. Mounts with M2.5 screws.
+
+For Rapido you will need both front and back pieces. Mounts with M2.5 screws.
 
 
 
