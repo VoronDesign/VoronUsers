@@ -72,7 +72,7 @@ like so:
 | bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic clips to allow for easy removal and installation of panels | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | | [Filament Runout Sensor](./bobbleheed/Filament_Runout) | Filament runout sensor that replaces the stock bowden retainer | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
 |Boingomw|[Wago mount](./Boingomw/Wago_mount)| Smaller 5 port Wago mount that fits parallel to the support rails |:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
-|Bondtech|[Mini_After-LGX-Lite](./Bondtech/Mini_After-LGX-Lite) |LGX Lite Toolhead Setup For Voron V0.1. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
+|Bondtech|[Mini-After-LGX-Lite](./Bondtech/Mini-After-LGX-Lite) |LGX Lite Toolhead Setup For Voron V0.1. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
