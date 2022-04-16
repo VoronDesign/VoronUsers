@@ -14,5 +14,5 @@ You do not need custom panels!  The front Z stepper mounts have been modified to
 
 ![Image of PanelInstall](BottomPlateInstall.gif)
 
-No additional hardware required, BOM parts only. 
+No additional hardware required, stock BOM parts only. 
 
