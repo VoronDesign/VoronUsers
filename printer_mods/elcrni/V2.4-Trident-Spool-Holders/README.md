@@ -1,3 +1,9 @@
+## Changelog
+16.04.2022.
+Added modified holder arms without panel pins so the holder can be mounted anywhere on the frame. Added files:
+BB__spool_arm_left__without_panel_pin.stl
+Classic__spool_arm_left__without_panel_pin.stl
+
 ## Why?
 
 If you are building Voron 300mm2 or 350mm2, V2.4 or Trident, you will soon discover you need a larger/deeper desk to accomodate your new machine, also if you have 5.5  or larger display mod you will end up with the printer being backed up against the wall and not enough space for the spool holder. After encountering the problem i've started messing with different designns that would provide stable, easily accessible place for the filament spool while keeping the filament path as short as possible.
