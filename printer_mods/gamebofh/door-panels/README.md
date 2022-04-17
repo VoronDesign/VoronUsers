@@ -1,6 +1,6 @@
 # Laser Cut Door Panels
 
-As my distaste for all solutions VHB related, I was looking for how to replace the hinges on my 2.4.  The most popular solution seems to be the [270 Degree Hinge](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge) which was based on [Randell's Door Hinges](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/randell/Door_Hinges).
+As my distaste for all solutions VHB related, I was looking for how to replace the hinges on my 2.4.  The most popular solution seems to be the [270 Degree Hinge](../../chrisrgonzales/270_degree_hinge) which was based on [Randell's Door Hinges](../../randell/Door_Hinges).
 
 The challenge with both of these is that they require you to drill your acrylic to mount them.  Maybe that's super easy, but I did some research on it, including what drill bits to buy, etc, and it seemed complicated with a reasonable chance that I was going to crack my panels.
 
