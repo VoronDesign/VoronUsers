@@ -49,6 +49,7 @@ The objectives for this project are:
 >|Hardware|STEEL CORNER|X8||
 >|Sports build|Drag chain|X1|10*20 (R18max)|
 >|Sports build|Guide_rail|X1||
+>|Fasteners|M5x40 SHCS|X2| |
 >|Fasteners|M3 Threaded Insert|X4| M3X5X4|
 >|Fasteners|Self-tapping Screw|X22| M3*20|
 >|Fasteners|Self-tapping Screw|X16| M3*10|
@@ -61,7 +62,7 @@ The objectives for this project are:
 >|Panels|Reinforcing_rib|X4|AS the Drawing|
 >|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
->|Electronics |60x60x20 Fan |X2||
+>|Electronics |60x60x15 Fan |X2||
 
 *You can use any 10mm thick sheet, epoxy sheet is recommended.
 
