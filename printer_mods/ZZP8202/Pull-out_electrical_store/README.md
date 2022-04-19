@@ -8,6 +8,16 @@
 
 使用了此MOD将会降低电器仓的空间，请酌情使用。
 
+| **机型**                             |  **内部空间**   |    **实际可用空间**   |       Parts        | Klicky printed parts | Comments                               |
+| ------------------------------------ | :-------------: | :----------------: | :----------------: | :------------------: | -------------------------------------- |
+| 350mm | 470*285*60 | 470*285*60|        some        |         :x:          | lots of parts to expand 3d printers    |
+| 300mm | 420*235*60 | 420*235*60|        :x:         |  :heavy_check_mark:  | kits for V0, V2, VT, Vcore, PCB's      |
+| 200mm | 370*185*60 | 370*185*60| :heavy_check_mark: |  :heavy_check_mark:  | lots of parts to expand 3d printers    |
+
+350mm 470*285*60
+300mm 420*235*60
+250mm 370*185*60
+
 
 
 
