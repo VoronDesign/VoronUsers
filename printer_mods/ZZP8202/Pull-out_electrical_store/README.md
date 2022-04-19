@@ -45,7 +45,7 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Printed Parts|Front panel R|X1||
 >|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
->|Cables|Cable Chain|X1|10*20 (R18max)|
+>|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5/ref=sr_1_3?crid=39NLBNYTC6OZX&keywords=Cable%2BChain&qid=1650390801&sprefix=cable%2Bchain%2Caps%2C975&sr=8-3&th=1)|X1|10*20(Inner H x Inner W)  (R18max)|
 >|Hardware|STEEL CORNER|X8||
 >|Motion|450mm Guide_rail|X1||
 >|Fasteners|M5x40 SHCS|X2| |
