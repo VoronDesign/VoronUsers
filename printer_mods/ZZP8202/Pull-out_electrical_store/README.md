@@ -5,27 +5,19 @@
 **Only aimed at Voron V2.4 350mm printer now.**
 
 
+- Due to the need to ensure a smooth drawer out, after using this MOD will reduce the space of the electrical store, please check the below table find the available space.
 
-由于需要保证抽屉顺利拉出，在使用了此MOD后将会减少电器仓的空间，具体可用空间请查看下表。  
-请根据实际情况酌情使用。
-| **Printer Spec**|Inner space     |**Available space**|
-| ----------------| :------------: | :---------------: |
-| 350mm           | 470 * 285 * 77 | 470 * 257 * 60    |
-| 300mm           | 420 * 235 * 77 | 420 * 207 * 60    |
-| 200mm           | 370 * 185 * 77 | 370 * 157 * 60    |
+>| **Printer Spec**|Inner space     |**Available space**|
+>| ----------------| :------------: | :---------------: |
+>| 350mm           | 470 * 285 * 77 | 470 * 257 * 60    |
+>| 300mm           | 420 * 235 * 77 | 420 * 207 * 60    |
+>| 200mm           | 370 * 185 * 77 | 370 * 157 * 60    |
+
+- You will need about 40 metres of additional wire to connect the drawers.
 
 
-## 重要提示
-**目前只支持Voron V2.4 350mm 机型**  
+Please use it according to the actual situation.
 
-由于需要保证抽屉顺利拉出，在使用了此MOD后将会减少电器仓的空间，具体可用空间请查看下表。  
-请根据实际情况酌情使用。
-
-| **机型**|    内部空间     |**可用空间**|
-| --------| :------------: | :-----------: |
-| 350mm   | 470 * 285 * 77 | 470 * 257 * 60|
-| 300mm   | 420 * 235 * 77 | 420 * 207 * 60|
-| 200mm   | 370 * 185 * 77 | 370 * 157 * 60|
 
 
 ## Overall 总览
