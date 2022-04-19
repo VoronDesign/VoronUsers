@@ -27,11 +27,8 @@ Please use it according to the actual situation.
 
 ![图片](Photos/Voron_V2.4_Pull-out_electrical_store.PNG)
 ### Video
-https://www.bilibili.com/video/BV1iS4y1w7My?share_source=copy_web
 
 https://www.youtube.com/embed/usf8aM6o3Y0
-
-https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 
 https://www.youtube.com/embed/9XUpTigEtQ4
 
@@ -43,12 +40,6 @@ The objectives for this project are:
 
  
 ## Bill of Materials (BOM)
-###Printed Parts
-
-###10mm 板
-根据图纸
-
-### Additional Hardware
 
 >| **Category**|Part Name |**QTY**|Remark
 >| ----------------| :------------ | :--------------- | :--------------- |
