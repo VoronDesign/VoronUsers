@@ -11,9 +11,9 @@
 >| ----------------| :------------: | :---------------: |
 >| 350mm           | 470 * 285 * 77 | 470 * 257 * 60    |
 >| 300mm           | 420 * 235 * 77 | 420 * 207 * 60    |
->| 200mm           | 370 * 185 * 77 | 370 * 157 * 60    |
+>| 250mm           | 370 * 185 * 77 | 370 * 157 * 60    |
 
-- You will need about 40 metres of additional wire to connect the drawers.
+- You will need about 30 metres of additional wire to connect the drawers.
 
 
 Please use it according to the actual situation.
@@ -70,8 +70,8 @@ The objectives for this project are:
 >|Fasteners|Self-tapping Screw|X8| M5*10|
 >|Fasteners| Screw|X8| M5*6|
 >|Fasteners| M5 T-nut |X8| HNTAJ5-5|
->|Cables|24AWG Silicone Cable| X35M |Additional |
->|Cables|20AWG Silicone Cable| X5M |Additional |
+>|Cables|24AWG Silicone Cable| X26M |Additional |
+>|Cables|20AWG Silicone Cable| X4M |Additional |
 
 
 ## Donate
