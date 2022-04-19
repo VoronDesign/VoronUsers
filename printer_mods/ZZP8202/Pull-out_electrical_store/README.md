@@ -59,7 +59,7 @@ The objectives for this project are:
 >|Panels|Bottom_plate|X1|AS the Drawing*|
 >|Panels|Drawer_sides|X2|AS the Drawing*|
 >|Panels|Drawer_Support|X2|AS the Drawing*|
->|Panels|Reinforcing_rib|X4|AS the Drawing|
+>|Panels|Reinforcing_rib|X4|AS the Drawing*|
 >|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
 >|Electronics |60x60x15 Fan |X2||
