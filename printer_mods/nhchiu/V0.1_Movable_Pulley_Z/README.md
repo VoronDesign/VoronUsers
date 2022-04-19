@@ -11,7 +11,6 @@ There already are belt-driven mods like [theFPVGeek's V0 Z Belt mod](https://git
 
 ### Fasteners
 
-- 1 x M2x10 Self Tapping Screw
 - 11 x M3x8 BHCS
 - 2 x M3x10 BHCS
 - 4 x M3x12 BHCS
@@ -28,7 +27,7 @@ There already are belt-driven mods like [theFPVGeek's V0 Z Belt mod](https://git
 
 - 3 x GT2 20T Pulley (6mm wide / 5mm bore)
 - 1 x GT2 Belt Loop (6mm wide) - 188mm
-- GT2 Open Belt (6mm wide) - about 650mm
+- GT2 Open Belt (6mm wide) - about 790mm
 - 8 x F695 2RS Bearing
 - 1 x 5x60mm Shaft
 - 1 x NEMA14 Stepper Motor (LDO-35STH42-0504AH, others might also work)
@@ -51,6 +50,7 @@ Note the places that need threaded inserts. You can pre-apply them.
 1. M4-like driving gear
 
    ![80T Gear](./Images/M4_80T_Gear.png)
+
    ![M4-like driving gear](./Images/M4.png)
 
    This is very similar to [Voron M4 extruder](https://vorondesign.com/voron_m4). Just mind the placement of the F695 bearings. You can refer to [Nero's video guide](https://www.youtube.com/watch?v=oTCxGellCQk) for details about assembling Voron M4.
@@ -68,6 +68,7 @@ Note the places that need threaded inserts. You can pre-apply them.
 1. Top Endstop Mount
 
    Use the stock Z endstop and the two M2 self tapping screws.
+
    ![Top Endstop Mount](./Images/Top_Endstop.png)
 
 ### Assembly
@@ -75,17 +76,18 @@ Note the places that need threaded inserts. You can pre-apply them.
 1. Preload 2 M3 nuts at the marked slot on page 32 of the manual.
 
    (Note: If you don't want to take the frame apart, it *can* be mounted without these two nuts but it may be less rigid. Don't tighten the belt too much then. NOT TESTED!)
-![Preload nuts](./Images/Preload_Nuts.png)
 
-1. Make a loop on one end of the belt and press it into the printed part. Then mount the printed part to the frame with 2 M3x8 screws.
+   ![Preload nuts](./Images/Preload_Nuts.png)
+
+2. Make a loop on one end of the belt and press it into the printed part. Then mount the printed part to the frame with 2 M3x8 screws.
 
    ![Lower End](./Images/Lower_End.png)
 
-1. Mount each component to the frame (don't fully tighten up yet). There should be preloaded nuts if you followed the V0.1 manual. The two upper components and their nuts can be slid in from the top.
+3. Mount each component to the frame (don't fully tighten up yet). There should be preloaded nuts if you followed the V0.1 manual. The two upper components and their nuts can be slid in from the top.
 
    ![Top mount](./Images/Top.png)
 
-1. Route the belt path as shown in the [mechanism figure](#mechanism).
+4. Route the belt path as shown in the [mechanism figure](#mechanism).
 
    The upper belt end should go through the `upper_belt_end.stl` as shown below.
 
@@ -93,11 +95,11 @@ Note the places that need threaded inserts. You can pre-apply them.
 
    ![Top end holder](./Images/Top_Belt_End_Path.png)
 
-2. Slightly adjust the position of each component so the bed holder is at the middle of the extrusion and the four marked segments of the belt are as parallel to the Z rails as possible.
+5. Slightly adjust the position of each component so the bed holder is at the middle of the extrusion and the four marked segments of the belt are as parallel to the Z rails as possible.
 
    ![Belt Path](./Images/Belt_Path.png)
 
-3. Belt tensioning.
+6. Belt tensioning.
 
    First mount the top endstop holder about 2-4mm lower from the top horizontal aluminum extrusion. Loosen the mounting screws and pull the excessive belt through the holder.
 
@@ -141,6 +143,15 @@ Here's a video of testing the bed motion:
 [![Watch the video](https://img.youtube.com/vi/kQ-t7eGuI5I/maxresdefault.jpg)](https://youtu.be/kQ-t7eGuI5I)
 
 ## Changelog
+
+### 2022-04-20
+
+- Redesigned the upper parts (again) for the following purpose:
+  - Fixed an issue that the screw rubs slightly against the belt. Thanks to **@zalupa#9238** on Discord for pointing out the issue!
+
+  ![issue](Images/fixed_issue.png)
+  - Changed print orientation for better part strength.
+  - Symmetrical design for aesthetics.
 
 ### 2021-11-09
 
