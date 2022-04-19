@@ -46,22 +46,22 @@ The objectives for this project are:
 >|Printed Parts|Mini12864_Case|X1||
 >|Printed Parts|Front panel L|X1||
 >|Printed Parts|Front panel R|X1||
+>|Cables|24AWG Silicone Cable| X26M |Additional |
+>|Cables|20AWG Silicone Cable| X4M |Additional |
+>|Cables|Cable Chain|X1|10*20 (R18max)|
 >|Hardware|STEEL CORNER|X8||
->|Sports build|Drag chain|X1|10*20 (R18max)|
->|Sports build|Guide_rail|X1||
+>|Motion|450mm Guide_rail|X1||
 >|Fasteners|M5x40 SHCS|X2| |
 >|Fasteners|M3 Threaded Insert|X4| M3X5X4|
 >|Fasteners|Self-tapping Screw|X22| M3*20|
 >|Fasteners|Self-tapping Screw|X16| M3*10|
 >|Fasteners|Self-tapping Screw|X8| M5*10|
 >|Fasteners|Screw|X8| M5*6|
->|Fasteners| M5 T-nut |X8| HNTAJ5-5|
+>|Fasteners|M5 T-nut |X8| HNTAJ5-5|
 >|Panels|Bottom_plate|X1|AS the Drawing*|
 >|Panels|Drawer_sides|X2|AS the Drawing*|
 >|Panels|Drawer_Support|X2|AS the Drawing*|
 >|Panels|Reinforcing_rib|X4|AS the Drawing*|
->|Cables|24AWG Silicone Cable| X26M |Additional |
->|Cables|20AWG Silicone Cable| X4M |Additional |
 >|Electronics |60x60x15 Fan |X2||
 
 *You can use any 10mm thick sheet, epoxy sheet is recommended.
