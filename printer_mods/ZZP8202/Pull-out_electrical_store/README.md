@@ -57,16 +57,21 @@ The objectives for this project are:
 拖链      *1 R18 max
 
 >| **Category**|Part Name |**QTY**|Remark
->| ----------------| :------------: | :---------------: | :---------------: |
+>| ----------------| :------------ | :--------------- | :--------------- |
 >|Printed Parts|Mini12864_Case|X1||
 >|Printed Parts|Front panel L|X1||
 >|Printed Parts|Front panel R|X1||
 >|Hardware|STEEL CORNER|X8||
->|Sports build|Drag chain|X1|10*20 R18max|
+>|Sports build|Drag chain|X1|10*20 (R18max)|
 >|Sports build|Guide_rail|X1||
->|Cables|24AWG Silicone Cable| 35M |Additional |
->|Cables|20AWG Silicone Cable| 5M |Additional |
->
+>|Fasteners|M3 Threaded Insert|X2| M3X5X4|
+>|Fasteners|Self-tapping Screw|X22| M3*20|
+>|Fasteners|Self-tapping Screw|X16| M3*10|
+>|Fasteners|Self-tapping Screw|X8| M5*10|
+>|Fasteners| Screw|X8| M5*6|
+>|Fasteners| M5 T-nut |X8| HNTAJ5-5|
+>|Cables|24AWG Silicone Cable| X35M |Additional |
+>|Cables|20AWG Silicone Cable| X5M |Additional |
 
 
 ## Donate
