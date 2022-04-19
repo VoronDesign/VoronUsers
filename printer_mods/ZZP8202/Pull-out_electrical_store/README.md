@@ -45,12 +45,28 @@ The objectives for this project are:
  
 ## Bill of Materials (BOM)
 ## 配件表
+###Printed Parts
 
-角码 X8
-自攻螺丝 X？
+###10mm 板
+根据图纸
 
+### Additional Hardware
+角码       *8
+自攻螺丝   *？
+电线      *40M
+拖链      *1 R18 max
 
-
+>| **Category**|Part Name |**QTY**|Remark
+>| ----------------| :------------: | :---------------: | :---------------: |
+>|Printed Parts|Mini12864_Case|X1||
+>|Printed Parts|Front panel L|X1||
+>|Printed Parts|Front panel R|X1||
+>|Hardware|STEEL CORNER|X8||
+>|Sports build|Drag chain|X1|10*20 R18max|
+>|Sports build|Guide_rail|X1||
+>|Cables|24AWG Silicone Cable| 35M |Additional |
+>|Cables|20AWG Silicone Cable| 5M |Additional |
+>
 
 
 ## Donate
