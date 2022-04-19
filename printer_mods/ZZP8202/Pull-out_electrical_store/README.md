@@ -19,7 +19,11 @@
 
 Please use it according to the actual situation.
 
+## Objectives
 
+The objectives for this project are:
+
+* Easily to open the electrical bin for debugging
 
 ## Overall
 
@@ -31,13 +35,6 @@ Please use it according to the actual situation.
 https://www.youtube.com/embed/usf8aM6o3Y0
 
 https://www.youtube.com/embed/9XUpTigEtQ4
-
-## Objectives
-
-The objectives for this project are:
-
-* Easily to open the electrical bin for debugging
-
  
 ## Bill of Materials (BOM)
 
