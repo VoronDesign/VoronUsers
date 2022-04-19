@@ -50,9 +50,9 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Motion|450mm Guide_rail|X1||
 >|Fasteners|M5x40 SHCS|X2| |
 >|Fasteners|M3 Threaded Insert|X4| M3X5X4|
->|Fasteners|Self-tapping Screw|X22| M3*20|
->|Fasteners|Self-tapping Screw|X16| M3*10|
->|Fasteners|Self-tapping Screw|X8| M5*10|
+>|Fasteners|M3*20 Self-tapping Screw|X22| |
+>|Fasteners|M3*10 Self-tapping Screw|X16| |
+>|Fasteners|M5*10 Self-tapping Screw|X8| |
 >|Fasteners|M5*6 BHCS|X8||
 >|Fasteners|M5 1mm Spacer|X8||
 >|Fasteners|M5 T-nut |X8| HNTAJ5-5|
