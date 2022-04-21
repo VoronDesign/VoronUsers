@@ -1,7 +1,7 @@
 # Z Locks
-While first installing the gantry into the frame, use Z Locks as helping hands to hold the gantry in place during build later steps. They hold the gantry in place even when flipping the printer and can take pressure on the gantry up or down.
+When installing the gantry into the frame, use Z Locks as helping hands to hold the gantry in place for later build steps. They hold the gantry in place even when flipping the printer and can take pressure on the gantry up or down.
 
-There are three lengths, 100mm, 150mm and 200mm. The 150 length seems to be ideal during a 350 build.
+There are three lengths, 100mm, 150mm and 200mm. The 150 length seems to be ideal during a 350 build, gives some room to still fit drivers above and below the gantry.
 
 ![Z Locks](images/z-locks.png)
 
@@ -21,6 +21,6 @@ Follow the typical steps in the build manual up to the Gantry Install section. U
 **Important** - Do not forget to remove all Z Locks before printing!
 
 ## Bonus Steps
-After installing the Z Locks, do not stand up the printer yet. If the build manual was followed, the gantry has the Z belts attached. While the printer is still on its back, fish the Z belts through the Z drives. This is much easier with the printer and its back.
+After installing the Z Locks, do not stand up the printer yet. If the build manual was followed, the gantry has the Z belts attached. While the printer is still on its back, fish the Z belts through the Z drives. This is much easier with the printer on its back.
 
 Enjoy!
