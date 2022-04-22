@@ -55,7 +55,7 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
 >|Hardware|STEEL CORNER|X8||
->|Fasteners|M5x40 SHCS|X2| |
+>|Fasteners|M3x40 SHCS|X2| |
 >|Fasteners|M3 Threaded Insert|X4| M3X5X4|
 >|Fasteners|M3*20 Self-tapping Screw|X22| |
 >|Fasteners|M3*10 Self-tapping Screw|X16| |
