@@ -1,49 +1,49 @@
-# Voron 2.4 Pull-out electrical Store 
+# Voron 2.4 抽拉式电器仓
 
 
-## Important Notice
+## 重要提示
 
-**Only aimed at Voron V2.4 350mm printer now.**  
+**目前只适用于Voron 2.4 350mm机型**  
     
 
-* Due to the need to ensure a smooth drawer out, after using this MOD will reduce the space of the electrical store, please check the below table find the available space.
+* 由于需要保证抽屉顺利抽出，使用这个MOD后会减少电器库的空间，请查看下面的表格找到可用空间。
 
->| **Printer spec**|Inner space     |**Available space**|
+>| **打印机规格**|内部空间    |**可用空间**|
 >| ----------------| :------------: | :---------------: |
 >| 350mm           | 470 * 285 * 77 | 470 * 257 * 60    |
 >| 300mm           | 420 * 235 * 77 | 420 * 207 * 60    |
 >| 250mm           | 370 * 185 * 77 | 370 * 157 * 60    |
 
-* You will need about 30 metres of additional wire to connect the drawers.
+* 你将需要增加大约30米长的电线来连接电器仓。
 
 
-Please use it according to the actual situation.
+请根据实际情况酌情决定使用
 
-## Objectives
+## 目标
 
-The objectives for this project are:
+本项目目标为:
 
-* Easily to open the electrical bin for debugging
+* 便于打开电气箱进行调试
 
-## Overall
+## 总览
 
-### Picture
+### 照片
 
 ![图片](Photos/Voron_V2.4_Pull-out_electrical_store.PNG)
-### Video
+### 视频
 
-https://www.youtube.com/embed/usf8aM6o3Y0
+https://www.bilibili.com/video/BV1iS4y1w7My?share_source=copy_web
 
-https://www.youtube.com/embed/9XUpTigEtQ4
+https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
  
-## Bill of Materials (BOM)
+## 材料清单 (BOM)
 
->| **Category**|Part Name |**QTY**|Remark
+>| **种类**|名称 |**数量**|备注
 >| ----------------| :------------ | :--------------- | :--------------- |
->|Printed Parts|Mini12864_Case|X1||
->|Printed Parts|Front panel L|X1||
->|Printed Parts|Front panel R|X1||
->|Cables|24AWG Silicone Cable| X26M |Additional |
+>|打印件|Mini12864_Case|X1||
+>|打印件|Front panel L|X1||
+>|打印件|Front panel R|X1||
+>|线材|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
 >|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5/ref=sr_1_3?crid=39NLBNYTC6OZX&keywords=Cable%2BChain&qid=1650390801&sprefix=cable%2Bchain%2Caps%2C975&sr=8-3&th=1)|X1|10*20(Inner H x Inner W)  (R18max)|
 >|Hardware|STEEL CORNER|X8||
