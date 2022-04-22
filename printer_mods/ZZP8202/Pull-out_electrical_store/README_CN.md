@@ -43,11 +43,17 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 >|打印件|Mini12864_Case|X1||
 >|打印件|Front panel L|X1||
 >|打印件|Front panel R|X1||
->|线材|24AWG Silicone Cable| X26M |Additional |
+>|打印件|[Side panel L](./STL)|X1|可选|
+>|打印件|[Side panel R](./STL)|X1|可选|
+>|板材|[Bottom_plate](./Drawing)|X1|AS the Drawing*|
+>|板材|[Drawer_sides](./Drawing)|X2|AS the Drawing*|
+>|板材|[Drawer_Support](./Drawing)|X2|AS the Drawing*|
+>|板材|[Reinforcing_rib](./Drawing)|X4|AS the Drawing*|
+>|板材|[450mm Guide_rail](https://www.amazon.com/dp/B08C9PK2L8)|X1Pair||
+>|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5)|X1|10*20(Inner H x Inner W)  (R18max)|
+>|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
->|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5/ref=sr_1_3?crid=39NLBNYTC6OZX&keywords=Cable%2BChain&qid=1650390801&sprefix=cable%2Bchain%2Caps%2C975&sr=8-3&th=1)|X1|10*20(Inner H x Inner W)  (R18max)|
 >|Hardware|STEEL CORNER|X8||
->|Motion|[450mm Guide_rail](https://www.amazon.com/dp/B08C9PK2L8/ref=syn_sd_onsite_desktop_390?pd_rd_plhdr=t&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVlYOU5IVk4xRENCJmVuY3J5cHRlZElkPUEwMjQzNTA3MlNCNkFTRUlVVlpGSiZlbmNyeXB0ZWRBZElkPUEwMzc2MDk2RDBQOEswSTI1VUdaJndpZGdldE5hbWU9c2Rfb25zaXRlX2Rlc2t0b3AmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)|X1Pair||
 >|Fasteners|M5x40 SHCS|X2| |
 >|Fasteners|M3 Threaded Insert|X4| M3X5X4|
 >|Fasteners|M3*20 Self-tapping Screw|X22| |
@@ -56,10 +62,6 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 >|Fasteners|M5*6 BHCS|X8||
 >|Fasteners|M5 1mm Spacer|X8||
 >|Fasteners|M5 T-nut |X8| HNTAJ5-5|
->|Panels|Bottom_plate|X1|AS the Drawing*|
->|Panels|Drawer_sides|X2|AS the Drawing*|
->|Panels|Drawer_Support|X2|AS the Drawing*|
->|Panels|Reinforcing_rib|X4|AS the Drawing*|
 >|Electronics |60x60x15 Fan |X2||
 
 *You can use any 10mm thick sheet, epoxy sheet is recommended.
