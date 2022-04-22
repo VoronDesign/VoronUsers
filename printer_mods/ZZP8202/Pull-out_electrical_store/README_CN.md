@@ -55,7 +55,7 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 >|线材|24AWG Silicone Cable| X26M |Additional |
 >|线材|20AWG Silicone Cable| X4M |Additional |
 >|五金件|STEEL CORNER|X8||
->|紧固件|M5x40 SHCS|X2| |
+>|紧固件|M3x40 SHCS|X2| |
 >|紧固件|M3 Threaded Insert|X4| M3X5X4|
 >|紧固件|M3*20 Self-tapping Screw|X22| |
 >|紧固件|M3*10 Self-tapping Screw|X16| |
