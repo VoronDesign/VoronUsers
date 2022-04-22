@@ -65,7 +65,12 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Electronics |60x60x15 Fan |X2||
 
 *You can use any type of sheet, epoxy sheet is recommended.
-
+## Briefly instructions
+![图片](Photos/IMG_6107.jpg)
+![图片](Photos/IMG_6101.jpg)
+![图片](Photos/IMG_6099.jpg)
+![图片](Photos/IMG_6103.jpg)
+![图片](Photos/IMG_6105.jpg)
 
 ## Donate
 You want to donate something regarding this project? No, you can't. :)
