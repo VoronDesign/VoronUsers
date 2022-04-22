@@ -65,7 +65,7 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 >|电子 |60x60x15 Fan |X2||
 
 *您可以使用任何类型的板材，建议使用环氧板材
-## Briefly instructions
+## 简要说明
 拖链内部半径最大18mm
 ![图片](Photos/IMG_6107.jpg)
 需要留出拖链位置
