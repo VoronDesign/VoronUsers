@@ -64,7 +64,7 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Fasteners|M5 T-nut |X8| HNTAJ5-5|
 >|Electronics |60x60x15 Fan |X2||
 
-*You can use any 10mm thick sheet, epoxy sheet is recommended.
+*You can use any type of sheet, epoxy sheet is recommended.
 
 
 ## Donate
