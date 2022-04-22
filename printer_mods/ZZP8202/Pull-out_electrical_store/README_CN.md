@@ -68,4 +68,4 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 
 
 ## 捐赠
-你想为这个项目捐点东西? 不行. :)
+你想为这个项目捐点东西? 不行,要是愿意前去视频链接帮忙点个赞吧. :)
