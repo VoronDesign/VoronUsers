@@ -1,4 +1,4 @@
-# Voron 2.4 Pull-out electrical Store 
+# Voron 2.4 Pull-out electrical Store [中文说明]|(./README_CN.md)
 
 
 ## Important Notice
