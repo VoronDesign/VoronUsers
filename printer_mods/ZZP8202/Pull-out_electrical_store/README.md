@@ -40,7 +40,7 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 
 >| **Category**|Part Name |**QTY**|Remark
 >| ----------------| :------------ | :--------------- | :--------------- |
->|Printed Parts|[Mini12864_Case](./Pull-out_electrical_store\STL)|X1||
+>|Printed Parts|[Mini12864_Case](./STL)|X1||
 >|Printed Parts|Front panel L|X1||
 >|Printed Parts|Front panel R|X1||
 >|Printed Parts|Side panel L|X1|option|
