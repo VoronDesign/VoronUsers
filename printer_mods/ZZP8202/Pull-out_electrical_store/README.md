@@ -43,7 +43,7 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Printed Parts|[Mini12864_Case](./STL)|X1||
 >|Printed Parts|[Front panel L](./STL)|X1||
 >|Printed Parts|[Front panel R](./STL)|X1||
->|Printed Parts|[Fan_decorative_panel](./STL)|X1||
+>|Printed Parts|[Fan_decorative_panel](./STL)|X2||
 >|Printed Parts|[Side panel L](./STL)|X1|Option|
 >|Printed Parts|[Side panel R](./STL)|X1|Option|
 >|Panels|[Bottom_plate](./Drawing)|X1|AS the Drawing*|
