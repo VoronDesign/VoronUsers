@@ -1,4 +1,4 @@
-# Voron 2.4 抽拉式电器仓 [EN](./README.md)
+# Voron 2.4 抽拉式电器仓 [EN](./README.md)[EN](./)
 
 
 ## 重要提示
