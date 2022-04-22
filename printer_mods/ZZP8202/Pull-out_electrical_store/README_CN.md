@@ -43,6 +43,7 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 >|打印件|[Mini12864_外壳](./STL)|X1||
 >|打印件|[前面板 L](./STL)|X1||
 >|打印件|[前面板 R](./STL)|X1||
+>|打印件|[风扇装饰板](./STL)|X1||
 >|打印件|[侧板 L](./STL)|X1|可选|
 >|打印件|[侧板 R](./STL)|X1|可选|
 >|板材|[底板](./Drawing)|X1|见图纸*|
