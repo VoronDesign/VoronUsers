@@ -23,7 +23,7 @@
 
 本项目目标为:
 
-* 便于打开电气箱进行调试
+* 便于打开电气仓进行调试
 
 ## 总览
 
@@ -65,6 +65,14 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 >|电子 |60x60x15 Fan |X2||
 
 *您可以使用任何类型的板材，建议使用环氧板材
+## Briefly instructions
+拖链内部半径最大18mm
+![图片](Photos/IMG_6107.jpg)
+需要留出拖链位置
+![图片](Photos/IMG_6101.jpg)
+![图片](Photos/IMG_6099.jpg)
+![图片](Photos/IMG_6103.jpg)
+![图片](Photos/IMG_6105.jpg)
 
 
 ## 捐赠
