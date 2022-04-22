@@ -40,9 +40,11 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 
 >| **Category**|Part Name |**QTY**|Remark
 >| ----------------| :------------ | :--------------- | :--------------- |
->|Printed Parts|Mini12864_Case|X1||
+>|Printed Parts|[Mini12864_Case](./Pull-out_electrical_store\STL)|X1||
 >|Printed Parts|Front panel L|X1||
 >|Printed Parts|Front panel R|X1||
+>|Printed Parts|Side panel L|X1|option|
+>|Printed Parts|Side panel R|X1|Option|
 >|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
 >|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5)|X1|10*20(Inner H x Inner W)  (R18max)|
