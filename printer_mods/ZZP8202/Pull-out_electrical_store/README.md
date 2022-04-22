@@ -45,9 +45,9 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Printed Parts|Front panel R|X1||
 >|Cables|24AWG Silicone Cable| X26M |Additional |
 >|Cables|20AWG Silicone Cable| X4M |Additional |
->|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5/ref=sr_1_3?crid=39NLBNYTC6OZX&keywords=Cable%2BChain&qid=1650390801&sprefix=cable%2Bchain%2Caps%2C975&sr=8-3&th=1)|X1|10*20(Inner H x Inner W)  (R18max)|
+>|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5)|X1|10*20(Inner H x Inner W)  (R18max)|
 >|Hardware|STEEL CORNER|X8||
->|Motion|[450mm Guide_rail](https://www.amazon.com/dp/B08C9PK2L8/ref=syn_sd_onsite_desktop_390?pd_rd_plhdr=t&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEzSVlYOU5IVk4xRENCJmVuY3J5cHRlZElkPUEwMjQzNTA3MlNCNkFTRUlVVlpGSiZlbmNyeXB0ZWRBZElkPUEwMzc2MDk2RDBQOEswSTI1VUdaJndpZGdldE5hbWU9c2Rfb25zaXRlX2Rlc2t0b3AmYWN0aW9uPWNsaWNrUmVkaXJlY3QmZG9Ob3RMb2dDbGljaz10cnVl&th=1)|X1Pair||
+>|Motion|[450mm Guide_rail](https://www.amazon.com/dp/B08C9PK2L8)|X1Pair||
 >|Fasteners|M5x40 SHCS|X2| |
 >|Fasteners|M3 Threaded Insert|X4| M3X5X4|
 >|Fasteners|M3*20 Self-tapping Screw|X22| |
