@@ -40,32 +40,32 @@ https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 
 >| **种类**|名称 |**数量**|备注
 >| ----------------| :------------ | :--------------- | :--------------- |
->|打印件|Mini12864_Case|X1||
->|打印件|Front panel L|X1||
->|打印件|Front panel R|X1||
->|打印件|[Side panel L](./STL)|X1|可选|
->|打印件|[Side panel R](./STL)|X1|可选|
->|板材|[Bottom_plate](./Drawing)|X1|AS the Drawing*|
->|板材|[Drawer_sides](./Drawing)|X2|AS the Drawing*|
->|板材|[Drawer_Support](./Drawing)|X2|AS the Drawing*|
->|板材|[Reinforcing_rib](./Drawing)|X4|AS the Drawing*|
->|板材|[450mm Guide_rail](https://www.amazon.com/dp/B08C9PK2L8)|X1Pair||
->|Cables|[Cable Chain](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5)|X1|10*20(Inner H x Inner W)  (R18max)|
->|Cables|24AWG Silicone Cable| X26M |Additional |
->|Cables|20AWG Silicone Cable| X4M |Additional |
->|Hardware|STEEL CORNER|X8||
->|Fasteners|M5x40 SHCS|X2| |
->|Fasteners|M3 Threaded Insert|X4| M3X5X4|
->|Fasteners|M3*20 Self-tapping Screw|X22| |
->|Fasteners|M3*10 Self-tapping Screw|X16| |
->|Fasteners|M5*10 Self-tapping Screw|X8| |
->|Fasteners|M5*6 BHCS|X8||
->|Fasteners|M5 1mm Spacer|X8||
->|Fasteners|M5 T-nut |X8| HNTAJ5-5|
->|Electronics |60x60x15 Fan |X2||
+>|打印件|[Mini12864_外壳](./STL)|X1||
+>|打印件|[前面板 L(./STL)|X1||
+>|打印件|[前面板 R(./STL)|X1||
+>|打印件|[侧板 L](./STL)|X1|可选|
+>|打印件|[侧板 R](./STL)|X1|可选|
+>|板材|[底板](./Drawing)|X1|见图纸*|
+>|板材|[抽屉侧板](./Drawing)|X2|见图纸*|
+>|板材|[抽屉支架](./Drawing)|X2|见图纸*|
+>|板材|[加强板](./Drawing)|X4|见图纸*|
+>|板材|[450mm 抽屉导轨](https://www.amazon.com/dp/B08C9PK2L8)|X1Pair||
+>|线材|[拖链](https://www.amazon.com/Befenybay-Internal-Flexible-Machines-10mmX20mm/dp/B07SFFT1K5)|X1|10*20(Inner H x Inner W)  (R18max)|
+>|线材|24AWG Silicone Cable| X26M |Additional |
+>|线材|20AWG Silicone Cable| X4M |Additional |
+>|五金件|STEEL CORNER|X8||
+>|紧固件|M5x40 SHCS|X2| |
+>|紧固件|M3 Threaded Insert|X4| M3X5X4|
+>|紧固件|M3*20 Self-tapping Screw|X22| |
+>|紧固件|M3*10 Self-tapping Screw|X16| |
+>|紧固件|M5*10 Self-tapping Screw|X8| |
+>|紧固件|M5*6 BHCS|X8||
+>|紧固件|M5 1mm Spacer|X8||
+>|紧固件|M5 T-nut |X8| HNTAJ5-5|
+>|电子 |60x60x15 Fan |X2||
 
-*You can use any 10mm thick sheet, epoxy sheet is recommended.
+*您可以使用任何类型的板材，建议使用环氧板材
 
 
-## Donate
-You want to donate something regarding this project? No, you can't. :)
+## 捐赠
+你想为这个项目捐点东西? 不行. :)
