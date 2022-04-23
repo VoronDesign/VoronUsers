@@ -312,6 +312,7 @@ like so:
 |  | [Corner Cable Hide/Cover (LED Wires)](./samwiseg0/corner_cable_hide) | Mod to hide cables around z idlers | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 |  | [Extrusion/Chamber Thermistor Mount](./samwiseg0/extrusion_thermistor_mount) | Extrusion mount for a NTC100K Thermistor extrusion | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |  | [Corsair Flash Voyager GTX Din Mount](./samwiseg0/voyager_gtx_din_mount) | Din carrier for a Corsair Flash Voyager GTX | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| scanlory | [Clip-On Front Door Frame](./scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using modified hinges. | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
