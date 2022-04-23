@@ -35,6 +35,9 @@ The objectives for this project are:
 https://www.youtube.com/embed/usf8aM6o3Y0
 
 https://www.youtube.com/embed/9XUpTigEtQ4
+
+### [3D Model](./3D)
+ https://evercraft.co/share?key=E561A9
  
 ## Bill of Materials (BOM)
 
