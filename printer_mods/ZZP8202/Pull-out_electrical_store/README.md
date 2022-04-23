@@ -44,8 +44,8 @@ https://www.youtube.com/embed/9XUpTigEtQ4
 >|Printed Parts|[Front panel L](./STL)|X1||
 >|Printed Parts|[Front panel R](./STL)|X1||
 >|Printed Parts|[Fan_decorative_panel](./STL)|X2||
->|Printed Parts|[Side panel L](./STL)|X1|Option**Incompatible with v2.4r2**|
->|Printed Parts|[Side panel R](./STL)|X1|Option**Incompatible with v2.4r2**|
+>|Printed Parts|[Side panel L](./STL)|X1|Option **Incompatible with v2.4r2**|
+>|Printed Parts|[Side panel R](./STL)|X1|Option **Incompatible with v2.4r2**|
 >|Panels|[Bottom_plate](./Drawing)|X1|AS the Drawing*|
 >|Panels|[Drawer_sides](./Drawing)|X2|AS the Drawing*|
 >|Panels|[Drawer_Support](./Drawing)|X2|AS the Drawing*|
