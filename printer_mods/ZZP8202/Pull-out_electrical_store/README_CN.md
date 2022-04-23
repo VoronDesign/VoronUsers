@@ -37,7 +37,7 @@ https://www.bilibili.com/video/BV1iS4y1w7My?share_source=copy_web
 
 https://www.bilibili.com/video/BV12i4y1U7ux?share_source=copy_web
 
-### [3D 模型](./3d)
+### [3D 模型](./3D)
  https://evercraft.co/share?key=E561A9
  
 ## 材料清单 (BOM)
