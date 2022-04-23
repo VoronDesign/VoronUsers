@@ -2,7 +2,7 @@
 
 This is a simple and yet overkill electronics cooling solution originally intended for the Voron Zero however could also be installed on any printer with a solid panel covering the electronics area.
 
-![](installed.jpg)
+![](Installed.jpg)
 
 ## Assembly
 
