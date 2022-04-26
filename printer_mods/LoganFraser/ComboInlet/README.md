@@ -1,4 +1,8 @@
-These skirt plates are for the fuse-filter-switch combo c14 inlets.  
+These skirt plates are for the fuse-filter-switch combo c14 inlets. 
+
+Narrow is for narrow switches, metal case up to 48mm width.
+
+Wide is for wide switches, metal case up to 57mm width.
 
 The wide one is for the larger switch in Shaffner FN283-10-06 inlets
 or other equivalent product from a reputable reseller. Amazon/Aliexpress not recommended.
