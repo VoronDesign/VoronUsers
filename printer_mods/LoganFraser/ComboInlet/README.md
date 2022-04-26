@@ -1,4 +1,6 @@
-These skirt plates are for the fuse-filter-switch combo c14 inlets. 
+## Combo Inlet for Trident, 2.4 and 2.4r2
+
+#### These skirt plates are for the fuse-filter-switch combo c14 inlets. 
 
 Narrow is for narrow switches, metal case up to 48mm width.
 
