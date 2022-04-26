@@ -3,7 +3,7 @@
 #### These skirt plates are for the fuse-filter-switch combo c14 inlets. 
 
 Wide switch Shaffner FN283-10-06 inlets, metal case up to 57mm width.
-  Or equivalent product from a reputable reseller. Amazon/Aliexpress not recommended.
+- Or equivalent product from a reputable reseller. Amazon/Aliexpress not recommended.
 
 Narrow switch in the style of adamstech inlets, metal case up to 48mm width.
 
