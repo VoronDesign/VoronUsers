@@ -8,8 +8,8 @@ Wide switch Shaffner FN283-10-06 inlets, metal case up to 57mm width.
 Narrow switch in the style of adamstech inlets, metal case up to 48mm width.
 
 BOM - Same as stock part, plus:
-  2 - M3 5x4mm heatsets (voron standard) 
-  2 - M3-8mm flat head screws (or longer)
+- 2 - M3 5x4mm heatsets (voron standard) 
+- 2 - M3-8mm flat head screws (or longer)
 ![Both Inlet](BothInlet.png)
 
 ![Combo Inlets](ComboInlets.png)
