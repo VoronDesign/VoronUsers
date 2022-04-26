@@ -69,6 +69,7 @@ Thanks to Kevin Rahhal for the lid design.
 
 ### Changelog
 01.11.2021: A new coal container with lid to avoid mess when moving the printer. The printing instructions are still the same as before.
+26.04.2022: Added a version for Trident/ V2.4r2. I optimized the existing files as well (walls without infill, chamfered bucket, straight top lid)
 
 ##### Contact:
 Discord: kevinakasam#2097
