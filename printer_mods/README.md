@@ -235,7 +235,8 @@ like so:
 | | [Strain Relief w/ 10 Pin Microfit](./LoCoCNC/Strain_Relief_w_Microfit) | Strain Relief with 10 pin Microfit connector |:heavy_check_mark:|:x:|:x:|:x:|
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:|
 | | [V2.4 Bed Wiring Grommet](./LoCoCNC/wire_grommets) | Safely capture your bed wires thru the bottom panel |:x:|:x:|:heavy_check_mark:|:x:|
-|LoganFraser| [PiPlate](./LoganFraser/PiPlate) | PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+|LoganFraser| [ComboInlet](./LoganFraser/ComboInlet) | Skirt pieces for Trident, 2.4 and 2.4r2 for combo inlets in 2 sizes. |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:| 
+||[PiPlate](./LoganFraser/PiPlate) | PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Trident Inverted Electronics](./LoganFraser/TridentInvertedElectronics) | Flip the Trident electronics bay for top access.  |:x:|:x:|:x:|:x:|:heavy_check_mark:|
 ||[WagoMounts](./LoganFraser/WagoMounts) | Wago Mounts for Din Rail or 2020 Extrusion mounting. |:grey_question:|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | MGN12 Dual 5015 Toolhead for 2.4 & 1.8 |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
