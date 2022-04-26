@@ -15,6 +15,10 @@ The air first blows through activated coal particles and then through the Hepa f
 ### Which version?
 You just need to print the two inserts for the housing. There are two versions for the activated coal insert: One with a modeled-in mesh and one without. The insert without mesh is for creating your own mesh by using the infill. **You need a custom mesh if you use particles smaller than 0.8 mm.**
 
+You also have to choose between V2.4(R1) and V2.4(R2)/Trident.
+
+<img src="Images/Trident_V2.png" width="600"/>
+
 #### STLs needed:
 1: with modeled mesh        |  2: with custom mesh
 :-------------------------:|:-------------------------:
@@ -59,6 +63,9 @@ For both variants you should choose the infill density so that the coal particle
 1x 40mmx80mm Hepa filter (https://www.aliexpress.com/item/1005001615722382.html)
 
 ~500g activated coal particles (>1mm) 
+
+### Get the right Coal!
+You should use acid-free carbon, otherwise the metal parts will oxidize. Read more aout it [here](https://github.com/nevermore3d/Nevermore_Micro#sourcing-the-proper-acid-free-carbon).
 
 ### Credits:
 Idea by Deutherius.
