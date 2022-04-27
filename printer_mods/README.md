@@ -254,7 +254,7 @@ like so:
 | Mellow | [V0 Fly-Gemini](./Mellow/V0_Fly-Gemini) | Fly-Gemini adapted model for V0 | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | mikepthomas | [MKS Mosfet Mount](./mikepthomas/MKS_Mosfet_Mount) | MKS Mosfet Mount based of the Trident Raspberry Pi Mount. | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |MikesMods|[LGX mount for V0.1 with 2nd X rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
-| Minsekt | [Rear Umbilical](https://github.com/Minsekt/VoronUsers/tree/master/printer_mods/Minsekt/2.4/Rear_Umbilical) | Rear Umbilical mounting solution | :x: | :heavy_check_mark: | :x: | :x: | :x: |
+| Minsekt | [Rear Umbilical](./Minsekt/Rear_Umbilical) | Rear Umbilical mounting solution including a relocated Y-Endstop | :x: | :heavy_check_mark: | :x: | :x: | :x: |
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
