@@ -84,6 +84,12 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+04-13-2022
+- I'm working on some more braces for the ducts and sherpa mini.  Stay tuned.
+        
+3-31-2022
+- <S>I received a report of heatcreep using a winsinn 3010 with Rapido.  Just something to be aware of if you're planning to use that combo.  I personally haven't had issues with rapido, but I'm using a sunon 3010v1.</S>  (apparently the jamming was caused by an overheating extruder motor, not heat creep) 
+        
 1-27-2022
 - TheWarolf has added LGX Lite compatibility in his repository of Mantis mods.
   - https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead
