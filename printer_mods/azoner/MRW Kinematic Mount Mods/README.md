@@ -33,12 +33,12 @@ Parts needs for the lengthened sexbolt
 
 Assemble the sexbolt kit as usual, with an additional sleeve bearing and the replacement M5x8 bolt and longer M5x40mm Binding Screw.  The assembled lenth of binding screw and M5 bolt was 45.5mm.
 
-![5](Images/5.png)
+![5](Images/5.jpeg)
 
 Secure it to the MRW center brace with the hex backer and two M3x30 SHCS screws.  The bed to endstop gap can be adjusted by moving the center brace location.
 
-![4](Images/4.png) 
+![4](Images/4.jpeg) 
 
 
-### This mod was based on the Sexbolt Mod by hartk1213 [Sex Bolt](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) and a mounting location concept from Discord User silicide#5762. 
+### This mod was based on the [Sexbolt Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) by hartk1213 and a mounting location concept from Discord user silicide#5762. 
 
