@@ -5,7 +5,7 @@
 | ------ | ------ |
 | M3x35  | 2x |
 
-![rear](images/endstop.png)
+![rear](./images/endstop.png)
 
 Once youll go Umbilical you need to relocate your Y Endstop.
 my whole build ist printed in single-piece MJF's, so i did not want to reprint everything. 
