@@ -84,8 +84,8 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
-04-13-2022
-- I'm working on some more braces for the ducts and sherpa mini.  Stay tuned.
+04-30-2022
+- Uploaded duct braces that support the fans at the rear.  These bolt from the upper duct arms to the rear of the 5015s to the motor mounts of the sherpa mini.  This greatly improves the resonance graphs in X (attenuates the 125hz peak on the X axis).  
         
 3-31-2022
 - <S>I received a report of heatcreep using a winsinn 3010 with Rapido.  Just something to be aware of if you're planning to use that combo.  I personally haven't had issues with rapido, but I'm using a sunon 3010v1.</S>  (apparently the jamming was caused by an overheating extruder motor, not heat creep) 
