@@ -17,12 +17,15 @@ Duct Braces
   - This is a quick and easy brace.  It decreases the x-axis resonance slightly and is very simple to install.
   - m3x25mm bolts through the upper duct arm mount and straight into the plastic of the duct brace.
 - **Full Brace Notes**
-  - *Just FYI, these are new parts, so I'm still polishing things.*
+  - *Just FYI, these are new parts, so I'm still polishing/adjusting things.*
   - There are two versions of the full brace parts.  
-    - The open motor mount version is easier to mount but may be a weaker mounting surface, time will tell.
+    - The open motor mount version is easier to mount but may be a weaker mounting surface, time will tell.  I bet it'll be ok.
     - The closed motor mount version is stronger, but requires you to unscrew the m3x20s during mounting of the duct.  It's not a big deal, but the option is there.  
   - I used a lock nut to clamp the duct brace to the sherpa mini motor.  This is annoying because there isn't enough space to fit a hex socket on the nut.  I'm looking into alternative ways to clamp the brace to the sherpa.
   - Yes, the rear 5015 clamp currently bolts from inside out.  The 4.5mm thick plastic + heatset clamps well and doesn't lean too much.  I'm looking into ways to have this clamp with the bolt head to the outside, but it works ok for now.  
+    - The fans actually feel pretty rigid even without the clamps.  With more testing, the rear clamps may not be needed.  
+  - Note: The clamps for **dragon** have slots to allow for the fan wires to pass though and thus need to be on the correct side.  
+    - The clamps for rapido/crazy volcano do not require these slots, so left/right on the clamps shouldn't matter.    
 - **Acknowledgements**
-  - Thanks to Woenn for the idea for the simple duct brace.
-  - Thanks to Netweaver for the idea for the A-Frame connecting the sherpa mini motor to the front duct arms.  I took his idea and added the rear 5015 support/clamps.  
+  - Thanks to Woenn for the idea for the simple duct brace.  He's the one that got me started on the bracing.
+  - Thanks to Netweaver for the idea for the A-Frame connecting the sherpa mini motor to the front duct arms.  I took his idea and added the rear 5015 support/clamps.  He was relentless in testing and helping figure out where the extra vibration was coming from.
