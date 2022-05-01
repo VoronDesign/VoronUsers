@@ -13,8 +13,11 @@ Duct Braces
 <TR><TD width=100% colspan=2 align="CENTER"><IMG SRC="Images/Duct_Brace_Full_Hardware.png"></TD></TR>
 </TABLE>
 
+- **Purpose**
+  - The Mantis 5015 mount is unstable thing due it being a single mounting point.  The rear and top part of the 5015s are susceptible to vibration on the x-axis resonance tests.  This results in a second 125hz peak on the X axis resonance graphs.
+  - This is a rigid solution that makes the fan mounting much more stable and greatly decreases the 125hz peak.
 - **Simple Brace Notes**
-  - This is a quick and easy brace.  It decreases the x-axis resonance slightly and is very simple to install.
+  - This is a quick and easy brace.  It decreases the x-axis resonance slightly and is very simple to install.  I highly recommend the full brace over the simple brace.
   - m3x25mm bolts through the upper duct arm mount and straight into the plastic of the duct brace.
 - **Full Brace Notes**
   - *Just FYI, these are new parts, so I'm still polishing/adjusting things.*
