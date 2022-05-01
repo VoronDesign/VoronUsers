@@ -59,6 +59,7 @@ like so:
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
 |aTinyShellScript |[RS PSU DIN Bracket](./aTinyShellScript/RS_PSU_DIN_Brackets)|DIN brackets for MeanWell RS PSUs with 80mm spacing. |:grey_question:|:grey_question:|:heavy_check_mark:|:grey_question:|:grey_question:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
+|Backenfutter|[Mount for Electreeks Camera](./Backenfutter/Mount_for_Electreeks_Camera)|This Mod is a simple "One Piece" mount for the popular Electreeks Camera. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 | |[AB-BN Afterburner mod (5015)](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[AB-BN for Stock Afterburner (4020)](./Badnoob/ABBN_for_Stock)|Improved Dragon and Rapido toolhead for stock Afterburner with 4020 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[Rail Alignment](./Badnoob/Rail_Alignment)|Tools and procedure to properly align the rails in 2.4 and Afterburner|:x:|:x:|:heavy_check_mark:|:x:|
