@@ -1,7 +1,4 @@
-## Trident Internal Spool
-
-### This is beta!  Has been tested on a few machines successfully. Please provide feedback for issues/suggestions to #Logan2225 on VoronDesign Discord.  Thanks! 
-
+## Horseshoe Spool Holder
 
 This is a method to mount the filament spool inside the enclosure of a Voron Trident 3d printer, or outside a V0, V1 or V2 printer. It works with 200mm, 1kg spools only. 
 
@@ -10,9 +7,6 @@ For mounting internally in the Trident, the ptfe tube is installed as shown: up 
 ![Trident Installation](TI.jpg)
 
 To install the spool: Feed the filament through the ptfe first, then align the spool into the front and top bearing rings, and pull forward to spring the frame and drop into the rear bearing ring. 
-
-
-
 
 #### BOM:
 - 3 608 bearings (any type)
@@ -28,3 +22,5 @@ Print PlasticBolt(x3) for Trident Internal Mounting only. Print ShortPlasticBolt
 To mount the bearings securely, print the ShortPlasticBolt(3x) instead and use a m3-8mm PH or SH bolt to secure the pin in place. 
 
 ![External Spool](ES.png)
+
+Please provide feedback for issues/suggestions to #Logan2225 on VoronDesign Discord.  Thanks! 
