@@ -14,6 +14,8 @@ To install the spool: Feed the filament through the ptfe first, then align the s
 - OR 4 M3-8mm (pan/socket) head bolts and 4 M3-Tnuts for 1515 extrusion 
 - 3 - M3-8mm bolts (pan/socket)
 
+![Plastic Bolt](PB.png)
+
 #### Internal Version for Trident only
 Print PlasticBolt(x3) and use a m3-8mm PH or SH bolt to secure the pin in place.
 
