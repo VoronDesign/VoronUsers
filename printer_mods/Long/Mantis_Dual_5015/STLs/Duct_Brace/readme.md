@@ -3,8 +3,12 @@ Duct Braces
 
 <TABLE width=100%>
 <TR>
-<TD width=50% align="Center"><IMG SRC="Images/Duct_Brace_Full.png"><BR>Full Duct Brace</TD>
-<TD width=50% align="Center"><IMG SRC="Images/Duct_Brace_Simple.png">Simple Duct Brace</TD>
+<TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_Full.png"><BR>Full Duct Brace</TD>
+<TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_Simple.png">Simple Duct Brace</TD>
+</TR>
+<TR>
+<TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_OpenVsClosed.jpg"><BR>Closed Mount (top) vs Open Mount (bottom) versions</TD>
+<TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_Back.png"><BR>Locknut to secure brace to motor.  <BR>Replace Sherpa mini to motor mount bolts with m3x20mm</TD>
 </TR>
 <TR><TD width=100% colspan=2 align="CENTER"><IMG SRC="Images/Duct_Brace_Full_Hardware.png"></TD></TR>
 </TABLE>
@@ -20,5 +24,5 @@ Duct Braces
   - I used a lock nut to clamp the duct brace to the sherpa mini motor.  This is annoying because there isn't enough space to fit a hex socket on the nut.  I'm looking into alternative ways to clamp the brace to the sherpa.
   - Yes, the rear 5015 clamp currently bolts from inside out.  The 4.5mm thick plastic + heatset clamps well and doesn't lean too much.  I'm looking into ways to have this clamp with the bolt head to the outside, but it works ok for now.  
 - **Acknowledgements**
-  - Thanks to Woennn for the idea for the simple duct brace.
+  - Thanks to Woenn for the idea for the simple duct brace.
   - Thanks to Netweaver for the idea for the A-Frame connecting the sherpa mini motor to the front duct arms.  I took his idea and added the rear 5015 support/clamps.  
