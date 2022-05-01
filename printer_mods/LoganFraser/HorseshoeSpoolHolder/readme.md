@@ -16,9 +16,11 @@ To install the spool: Feed the filament through the ptfe first, then align the s
 
 #### BOM:
 - 3 608 bearings (any type)
-- 2 M5-8mm pan head bolts
-- 2 M5-Tnuts
-- optional: 3 - M3-8mm bolts (any head type)
+- 2 M5-8mm (pan/socket) head bolts and 2 M5-Tnuts for 2020 extrusion only
+- OR 4 M3-8mm (pan/socket) head bolts and 4 M3-Tnuts for 1515 extrusion 
+- 3 - M3-8mm bolts (pan/socket) <- install into the end of the printed bolts to secure in place. 
+
+Print PlasticBolt(x3) for Trident Internal Mounting only. Print ShortPlasticBolt(x3) for external mounting on any printer. 
 
 ![Trident Internal Spool](TIS.png)
 
