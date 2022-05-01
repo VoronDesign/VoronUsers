@@ -8,7 +8,7 @@ Duct Braces
 </TR>
 <TR>
 <TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_OpenVsClosed.jpg"><BR>Closed Mount (top) vs Open Mount (bottom) versions</TD>
-<TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_Back.png"><BR>Locknut to secure brace to motor.  <BR>Replace Sherpa mini to motor mount bolts with m3x20mm</TD>
+<TD width=50% align="Center" valign="TOP"><IMG SRC="Images/Duct_Brace_Back.jpg"><BR>Locknut to secure brace to motor.  <BR>Replace Sherpa mini to motor mount bolts with m3x20mm</TD>
 </TR>
 <TR><TD width=100% colspan=2 align="CENTER"><IMG SRC="Images/Duct_Brace_Full_Hardware.png"></TD></TR>
 </TABLE>
