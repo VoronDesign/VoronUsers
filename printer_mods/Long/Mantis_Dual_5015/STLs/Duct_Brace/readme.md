@@ -32,3 +32,8 @@ Duct Braces
 - **Acknowledgements**
   - Thanks to Woenn for the idea for the simple duct brace.  He's the one that got me started on the bracing.
   - Thanks to Netweaver for the idea for the A-Frame connecting the sherpa mini motor to the front duct arms.  I took his idea and added the rear 5015 support/clamps.  He was relentless in testing and helping figure out where the extra vibration was coming from.
+
+Changelog
+============
+- 05-02-2022
+  - v1.2 full braces.  Added Slots to the rear fan clamping (where the bolthead goes at the rear of the horizontal brace).  Some 5015s are larger than others, so this will allow for some size differences.  
