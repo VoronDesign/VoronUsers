@@ -11,6 +11,10 @@
 3. If you get a difference between +0.03mm and -0.03mm then you're jolly, but if not adjust the belts and repeat the steps again. For info on how to adjust belts, look below.
 
 I strongly recommend once getting an acceptable difference, that you print another test piece to ensure repeatability !
+
+## Measurments Guide ##
+
+![TopDownOfCadLabelled.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/Belt-Tension-Matcher/Images/TopDownOfCadLabelled.png)
  
 ## Adjusting Belt Tension ##
 
