@@ -2,7 +2,7 @@
 
 ![BackgroundlessCoverPhoto.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/Belt-Tension-Matcher/Images/BackgroundlessCoverPhoto.png)
 
-  Having troubles setting the belt tensions on my V2.4, I was directed towards [this calibration](https://www.thingiverse.com/thing:3306430) by [Bruno Porto](https://www.thingiverse.com/brunofporto/designs). I found this to be a unique approach to determine belt tensions, so I decided to update the design and include a [spreadsheet](https://docs.google.com/spreadsheets/d/1BWog34xtos486wBbUxp6j-8tu1slfoWe9iSom6ZJ-I0/edit?usp=sharing) to help iwith calibration.
+  I was having troubles setting the belt tensions on my V2.4 before being directed towards [this calibration](https://www.thingiverse.com/thing:3306430) by [Bruno Porto](https://www.thingiverse.com/brunofporto/designs). I found this to be a unique approach to determine belt tensions, so I decided to update the design and include a [spreadsheet](https://docs.google.com/spreadsheets/d/1BWog34xtos486wBbUxp6j-8tu1slfoWe9iSom6ZJ-I0/edit?usp=sharing) to help iwith calibration.
  
 ## Calibration Guide ##
 
