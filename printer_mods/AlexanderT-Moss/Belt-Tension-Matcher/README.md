@@ -14,7 +14,7 @@ I strongly recommend once getting an acceptable difference, that you print anoth
 
 ## Measurments Guide ##
 
-You want to be measuring from the indents of A to A and of B to B to get the lengths for A and B respectively.
+You want to be measuring from in the indents of A to A and of B to B to get the lengths for A and B respectively.
 
 ![TopDownOfCadLabelled.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/Belt-Tension-Matcher/Images/TopDownOfCadLabelled.png)
  
