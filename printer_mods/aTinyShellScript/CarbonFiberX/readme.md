@@ -29,14 +29,14 @@ Required:
 - 20x20x18mm Carbon Fiber Square Tube
     - 330mm for a 250mm bed size
     - 380mm for a 300mm bed size
-    - ~~430mm for a 350mm bed size~~ (Flexing issues have been reported with a 20x20x18mm tube on a 350mm printer. Avoid this for now.)
+    - 430mm for a 350mm bed size (20x20x17 is recommended for a 350mm printer, to reduce flexing.)
     - ⚠️Do not buy pullstruded tube for this⚠️
         - [DroneBuildz (US)](https://dronebuildz.com/collections/flight-controller/products/carbon-fiber-square-tube-grcf-1000mm)
         - [AliExpress](https://www.aliexpress.com/item/32946654825.html)
 - MGN12H Linear Rail
     - 300mm for a 250mm bed size
     - 350mm for a 300mm bed size
-    - ~~400mm for a 350mm bed size~~ (Flexing issues have been reported with a 20x20x18mm tube on a 350mm printer. Avoid this for now.)
+    - 400mm for a 350mm bed size
 - 6x M5 tnuts
     - [Amazon](https://www.amazon.com/gp/product/B07FPLZXTF)
 - 7-10x M3 Flanged Locknuts
