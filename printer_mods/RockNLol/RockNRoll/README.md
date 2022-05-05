@@ -24,6 +24,21 @@ To give you an example how this works, take a look at these pictures:
 As all these are in the BOM of a V2.4 it is highly likely you can build this mod with leftovers from your printer.
 
 ### Printing: ###
+#### Parts: ####
+First you need:
+- 1x rocker_right
+- 1x rocker_left
+- 1x rocker_right_brace
+- 1x rocker_left_brace
+If you use thicker panels or foam tape than the default 4mm, there is a 6mm version in a subfolder.
+For additional support you can swap the base plates of the rubber feet to the ones from this mod.
+If you are building a 2.4r2 print these:
+- 1x base_plate_a_r2
+- 1x base_plate_b_r2
+If you still have an 2.4r1 build you therefor need:
+- 1x base_plate_right_r1
+- 1x base_plate_left_r1
+
 #### Print Settings: ####
 This mod needs rigidity and stiffness. Based on the Voron recommendations for structural printer parts these settings are recommended:
 - 0.4mm Nozzle
@@ -34,22 +49,12 @@ This mod needs rigidity and stiffness. Based on the Voron recommendations for st
 The test prints in the pictures are done with Formfutura rTitan ABS.
 
 #### Support: ####
-All the STLs are oriented correctly. The rockers themselves have overhangs where the backpanel is supposed to sit. Make sure to support them properly, especially the corner and under the M5 bolt holes, where the material gets thin to avoid voids as experienced in these test prints:
-
+All the STLs are oriented correctly. The rockers themselves have overhangs where the backpanel is supposed to sit. Don't forget to remove the three support tabs integrated into the 3D model before mounting:
 <img src="./images/support_01.jpg" width="600">
-<img src="./images/support_02.jpg" width="600">
-
-Recommended support placement:
-
-<img src="./images/support_03.jpg" width="600">
 
 ### Assembly: ###
 #### Threaded Inserts: ####
 Start with melting the M3 threaded inserts into the braces:
-
-<img src="./images/threaded_inserts_02.jpg" width="600">
-
-If the support on the sides of the hole deforms from the heat, snip it off to prevent interference with the rocker:
 
 <img src="./images/threaded_inserts_01.jpg" width="600">
 
@@ -65,8 +70,8 @@ Make sure the T-nuts line up with the holes in the rockers and mount the rockers
 
 <img src="./images/assembly_rockers_01.jpg" width="600">
 
-#### Mounting the Base Plates: ####
-To increase the support of the rockers you can swap out two of the original base plates of the rubber feet with the ones of this mod. They slot into the rockers tip and support it while tilting.
+#### Optional: Mounting the Base Plates: ####
+To increase the support of the rockers you can swap out two of the original base plates of the rubber feet with the ones of this mod. They slot into the rockers tip and support it while tilting. There are STLs available for both 2.4r1 and 2.4r2. The mounting example shows the r1 version, mounting the r2 version is similar.
 Start with playing your favorite Elvis song and rocking and rolling the printer on its back for the first time. Remove the rubber feet and the stock base plates:
 
 <img src="./images/assembly_base_plates_01.jpg" width="600">
