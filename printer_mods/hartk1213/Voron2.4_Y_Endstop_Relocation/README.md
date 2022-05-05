@@ -9,7 +9,7 @@ There are 2 different files
 non pinned version
 - a_drive_frame_upper_with_jst_y_endstop.stl
 
-pinned version (since this mod also works with the [Voron2.4_Pins_Mod](../Voron2.4_Pins_Mod)):
+pinned version (since this mod also works with the [Voron2.4_Trident_Pins_Mod](../Voron2.4_Trident_Pins_Mod))
 - a_drive_frame_upper_with_jst_y_endstop_pinned.stl
 
 here are a few pics for reference
