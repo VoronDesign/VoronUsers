@@ -5,7 +5,7 @@ This is a list of mods that are no longer being maintained by the original autho
 For a mod to be included in this list, the following conditions need to be met:
 1. An issue or PR has been opened regarding the mod
 2. An attempt was made to contact the original author either on github or discord
-3. The autho has not responded for a period of at least two months
+3. The author has not responded for a period of at least two months
 4. The Voron Dev Team has decided the mod is worth keeping in the repo instead of being removed.
 
 Alternately mod authors are welcome to create an issue in regards to their mod if they no longer want to maintain it.
