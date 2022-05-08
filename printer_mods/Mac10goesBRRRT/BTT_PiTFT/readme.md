@@ -3,7 +3,7 @@
 This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the PiTFT70, but im planning on adding a 5" and 3,5" option.
 The Mount allows the doors to work without any mods and doesnt protude beyond the Skirts. It adds about 11cm to the depth of the printer.
 
-![Render](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/PiTFT_Render.png)
+![Render](images/PiTFT_Render.png)
 
 
 
@@ -19,7 +19,7 @@ The Mount allows the doors to work without any mods and doesnt protude beyond th
 
 M2,5x14mm screws are included in the Display, the included Flex Cable is too short.
 
-![Picture with some Distance](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/Display_Front.jpg)
+![Picture with some Distance](images/Display_Front.jpg)
 
 ## Printing
 
@@ -41,4 +41,4 @@ All Parts are already in the right orientation. Use the standard Voron Specs for
 
 Here is a picture of how the FFC should be routed:
 
-![How to Route the FFC](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/FFC-Routing.jpg)
+![How to Route the FFC](images/FFC-Routing.jpg)
