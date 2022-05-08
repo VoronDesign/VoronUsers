@@ -15,8 +15,7 @@ Over the years i've been getting nicer prints and almost 100% eliminated wet fil
 All parts are printed without supports. Recommended material is ABS/ASA. Recommended perimeter count is 4 and 5 top/bottom layers with infil from 30%+. All parts in STL already have correct orientation, just import and print.
 
 STL File naming:
-- Classic__part_name.stl - Parts for Classic Voron spool holder design
-- BB__part_name.stl - Ball Bearing Version parts
+- ..._x2_.stl simply means you need to print 2 parts
 
 ## BOM
 
