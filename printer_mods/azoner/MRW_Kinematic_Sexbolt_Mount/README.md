@@ -40,5 +40,6 @@ Add heatset inserts to the back of the body.  Secure the sexbolt body to the MRW
 
 <img src="Images/4.jpeg" width="50%" height="50%">
 
-### This mod was derived from the [Sexbolt Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) by hartk and a mounting location concept from Discord user silicide. 
+## Credits
+This mod was derived from the [Sexbolt Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) by hartk and a mounting location concept from Discord user silicide. 
 
