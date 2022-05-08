@@ -24,6 +24,10 @@ STL File naming:
 - 2x 8x100mm linear guide
 - 12x M3x4mm countersunk screws (M3x6 BHCS or SHCS screws can be used as well)
 - 18x M3x4x5 Brass Heat Inserts
+- 2x M5x16mm
+- 2x M5x10mm
+- 4x M5 T-Nut (Regular or Hammerhead)
+- 6x M3x8mm
 
 
 
