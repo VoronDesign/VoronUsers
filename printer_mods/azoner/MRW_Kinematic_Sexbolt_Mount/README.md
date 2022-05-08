@@ -7,10 +7,10 @@ at the rear.  This maintains front access to the Nevermore filter.
 
 ![1](Images/1.jpeg) 
 
-Hartk1213's Sexbolt mod is too short for the additional height of the kinematic bed mounts (approx 15mm higher).  The extrusion mounting location would also interfere with the center brace.  This mod lengthens the sexbolt body, moves the mounting location to the center brace, and adds hex nubs to index the body to the center brace.
+Hartk1213's Sexbolt mod is too short for the additional height of the kinematic bed mounts (approx 17mm higher).  The extrusion mounting location would also interfere with the center brace.  This mod lengthens the sexbolt body, moves the mounting location to the center brace, and adds hex nubs to index the body to the center brace.
 
-![2](Images/2.jpeg) 
-![3](Images/3.jpeg) 
+<img src="Images/2.jpeg" width="50%" height="50%">
+<img src="Images/3.jpeg" width="50%" height="50%">
 
 ##
 
