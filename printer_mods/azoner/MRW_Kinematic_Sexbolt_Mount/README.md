@@ -1,6 +1,6 @@
 # MRW Adapted SexBolt Z endstop 
 
-The standard method of mounting a Mandala Rose Works [Kinematic Bed Mount](https://mandalaroseworks.com/products/matched-height-kinematic-kit?variant=42044335685885) to a 2.4 places a single center mount at the front of the bed.  This placement interferes with a front under-bed mounted [Nevermore Micro V5](https://github.com/nevermore3d/Nevermore_Micro) carbon filter.
+The [standard method](https://cdn.shopify.com/s/files/1/0608/5135/5901/files/My_observation_of_Mandala_Rose_Works_Voron_pre-production-kinematics.pdf?v=1639838120) of mounting a Mandala Rose Works [Kinematic Bed Mount](https://mandalaroseworks.com/products/matched-height-kinematic-kit?variant=42044335685885) to a 2.4 places a single center mount at the front of the bed.  This placement interferes with a front under-bed mounted [Nevermore Micro V5](https://github.com/nevermore3d/Nevermore_Micro) carbon filter.
 
 An alternative arrangement places the two rail bed mounts at the front and the [Kinematic Center Brace](https://mandalaroseworks.com/products/kinematic-center-brace-for-voron-2-4?variant=42450938233085)
 at the rear.  This maintains front access to the Nevermore filter.
@@ -34,11 +34,11 @@ Parts needs for the lengthened sexbolt
 
 Assemble the sexbolt kit as usual, with an additional sleeve bearing and the replacement M5x8 bolt and longer M5x40mm Binding Screw.  The assembled lenth of binding screw and M5 bolt was 45.5mm.
 
-![5](Images/5.jpeg)
+<img src="Images/5.jpeg" width="50%" height="50%">
 
 Add heatset inserts to the back of the body.  Secure the sexbolt body to the MRW center brace with the hex backer and two M3x30 SHCS screws.  The bed to endstop gap can be adjusted by moving the center brace front to rear.
 
-![4](Images/4.jpeg) 
+<img src="Images/4.jpeg" width="50%" height="50%">
 
-### This mod was based on the [Sexbolt Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) by hartk1213 and a mounting location concept from Discord user silicide#5762. 
+### This mod was derived from the [Sexbolt Mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop) by hartk and a mounting location concept from Discord user silicide. 
 
