@@ -29,3 +29,7 @@ M2,5 screws are included in the Display, the included Flex Cable is too short.
 5. Install Klipperscreen via KIAUTH or by doing it manually.
 
 6. If the Display is flipped upside down, hit the toggle switch. Adjust the brightness as needed.
+
+Here is a picture of how the FFC should be routed:
+
+![How to Route the FFC](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/FFC-Routing.jpg)
