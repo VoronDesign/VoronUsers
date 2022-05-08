@@ -1,1 +1,39 @@
-readme
+## Important Note:
+This mod works on Trident 300 and 350 builds ONLY. 250 build simply has no space needed to accomodate the holder and the spool.
+Sliding 8mm linear guides allow for adjustable spool width, up to 75mm wide rolls.
+
+## Changelog
+08.05.2022.
+Initial Release
+
+## Why?
+
+Over the years i've been getting nicer prints and almost 100% eliminated wet filament ooze by placing the filament spool inside of enclosed chamber. Since my printers work almost 24/7, chambers are always hot enough to keep the filament dry and produce perfect prints.
+
+## Print Setup
+
+All parts are printed without supports. Recommended material is ABS/ASA. Recommended perimeter count is 4 and 5 top/bottom layers with infil from 30%+. All parts in STL already have correct orientation, just import and print.
+
+STL File naming:
+- Classic__part_name.stl - Parts for Classic Voron spool holder design
+- BB__part_name.stl - Ball Bearing Version parts
+
+## BOM
+
+- 8x F688zz Flange Radial Ball Bearing 8 x 16mm
+- 2x 8x100mm linear guide
+- 12x M3x4mm countersunk screws (M3x6 BHCS or SHCS screws can be used as well)
+- 18x M3x4x5 Brass Heat Inserts
+
+
+
+
+
+
+
+![1](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png)
+
+![2](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/2.png)
+
+![3](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/3.png)
+
