@@ -18,14 +18,14 @@ M2,5 screws are included in the Display, the included Flex Cable is too short.
 
 ## Installation
 
-Attach the 2 Mounts to the Frame with the M5 screws, feed the Cable through the Slot in the middle Skirt and mount it with the M3 screws.
+1. Attach the 2 Mounts to the Frame with the M5 screws, feed the Cable through the Slot in the middle Skirt and mount it with the M3 screws.
 
-Feed the Cable through the back of the Housing and attach it to the Display (unisolated part faces display). Use the Raspberry Mounts to attach the Display/Housing to the Frame.
+2. Feed the Cable through the back of the Housing and attach it to the Display (unisolated part faces display). Use the Raspberry Mounts to attach the Display/Housing to the Frame.
 
-Simply Push the Front Housing onto the back, it should fit
+3. Simply Push the Front Housing onto the back, it should fit
 
-Connect the FFC to the Pis Display port (unisolated part faces towards USB).
+4. Connect the FFC to the Pis Display port (unisolated part faces towards USB).
 
-Install Klipperscreen via KIAUTH or by doing it manually.
+5. Install Klipperscreen via KIAUTH or by doing it manually.
 
-If the Display is flipped upside down, hit the toggle switch. Adjust the brightness as needed.
+6. If the Display is flipped upside down, hit the toggle switch. Adjust the brightness as needed.
