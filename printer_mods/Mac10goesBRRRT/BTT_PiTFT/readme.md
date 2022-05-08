@@ -3,6 +3,8 @@
 This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the PiTFT70, but im planning on adding a 5" and 3,5" option.
 The Mount allows the doors to work without any mods and doesnt protude beyond the Skirts. It adds about 11cm to the depth of the printer.
 
+![Render](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/PiTFT_Render.png)
+
 
 
 ## BOM:
