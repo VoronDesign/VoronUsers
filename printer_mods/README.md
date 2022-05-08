@@ -58,7 +58,7 @@ like so:
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
 |aTinyShellScript |[RS PSU DIN Bracket](./aTinyShellScript/RS_PSU_DIN_Brackets)|DIN brackets for MeanWell RS PSUs with 80mm spacing. |:grey_question:|:grey_question:|:heavy_check_mark:|:grey_question:|:grey_question:|
-|azoner |[MRW Kinematic Sexbolt Mount](./azoner/MRW_Kinematic_Sexbolt_Mount)|Hartk1213's Sexbolt adapted to the Mandala Rose Works kinematic mount center brace. |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+|azoner |[MRW Kinematic Sexbolt Mount](./azoner/MRW_Kinematic_Sexbolt_Mount)|Hartk's Sexbolt adapted to the Mandala Rose Works kinematic mount center brace. |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
 | |[AB-BN Afterburner mod (5015)](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[AB-BN for Stock Afterburner (4020)](./Badnoob/ABBN_for_Stock)|Improved Dragon and Rapido toolhead for stock Afterburner with 4020 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
