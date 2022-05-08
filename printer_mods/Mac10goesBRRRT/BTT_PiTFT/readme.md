@@ -2,7 +2,7 @@
 
 This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the PiTFT70, but im planning on adding a 5" and 3,5" option.
 
-![Picture with some Distance](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/Display_Far.jpg)
+
 
 ## BOM:
 
@@ -15,6 +15,8 @@ This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the
 - 1x Flat Flexible Cable 50cm or longer for Pi Cam/Pi Display
 
 M2,5 screws are included in the Display, the included Flex Cable is too short.
+
+![Picture with some Distance](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/Display_Far.jpg)
 
 ## Installation
 
