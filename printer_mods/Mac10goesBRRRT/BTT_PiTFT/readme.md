@@ -11,7 +11,7 @@ The Mount allows the doors to work without any mods and doesnt protude beyond th
 - 1x M3x8mm SHCS
 - 2x M5 T-Nut/Hammerhead Nut
 - 2x M5x10mm BHCS
-- 4x M2,5x14mm BHCS _**OR**_ any M2,5 longer than 6mm
+- 4x M2,5x14mm BHCS _**OR**_ 4x any M2,5 longer than 6mm
 - 1x PiTFT70
 - 1x Flat Flexible Cable 50cm or longer for Pi Cam/Pi Display
 
