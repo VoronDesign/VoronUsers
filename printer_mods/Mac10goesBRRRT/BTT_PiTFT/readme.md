@@ -2,7 +2,7 @@
 
 This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the PiTFT70, but im planning on adding a 5" and 3,5" option.
 
-![Picture with some Distance](/Pictures/Display_Far.jpg)
+![Picture with some Distance](/images/Display_Far.jpg)
 
 ## BOM:
 
