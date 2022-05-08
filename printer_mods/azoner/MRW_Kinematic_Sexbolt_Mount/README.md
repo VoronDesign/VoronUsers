@@ -5,7 +5,7 @@ The [standard method](https://cdn.shopify.com/s/files/1/0608/5135/5901/files/My_
 An alternative arrangement places the two rail bed mounts at the front and the [Kinematic Center Brace](https://mandalaroseworks.com/products/kinematic-center-brace-for-voron-2-4?variant=42450938233085)
 at the rear.  This maintains front access to the Nevermore filter.
 
-![1](Images/1.jpeg) 
+<img src="Images/1.jpeg" width="75%" height="75%">
 
 Hartk1213's Sexbolt mod is too short for the additional height of the kinematic bed mounts (approx 17mm higher).  The extrusion mounting location would also interfere with the center brace.  This mod lengthens the sexbolt body, moves the mounting location to the center brace, and adds hex nubs to index the body to the center brace.
 
