@@ -15,13 +15,13 @@ Hartk1213's Sexbolt mod is too short for the additional height of the kinematic 
 ##
 
 ### BOM
-## From the base Sexbolt kit
+#### From the base Sexbolt kit
 |Size|Qty|Link|
 |---|---|---|			
 |M2x8 Self Tapping|4|[Amazon - M2x8 SHCS Self Tapping](https://www.amazon.com/dp/B00YBMRAH4)|		
 |Z endstop PCB | 1 | [Formosissima - Z endstop PCB](https://deepfriedhero.in/products/z-endstop-pcb-for-voron-v2-4)|
 
-## Parts needed for the lengthened sexbolt
+#### Parts needed for the lengthened sexbolt
 |Size|Qty|Link|
 |---|---|---|			
 |M5x8 SHCS|1|[Bolt Depot - M5x8 SHCS](https://www.boltdepot.com/Product-Details.aspx?product=6518)|
