@@ -12,7 +12,7 @@ This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the
 - 1x PiTFT70
 - 1x Flat Flexible Cable 50cm or longer for Pi Cam/Pi Display
 
-M2,5 screws are included in the Display, the included Flex Cable is to short.
+M2,5 screws are included in the Display, the included Flex Cable is too short.
 
 ## Installation
 
