@@ -19,6 +19,10 @@ M2,5x14mm screws are included in the Display, the included Flex Cable is too sho
 
 ![Picture with some Distance](https://github.com/Mac10goesBRRRT/VoronUsers/blob/master/printer_mods/Mac10goesBRRRT/BTT_PiTFT/images/Display_Front.jpg)
 
+## Printing
+
+All Parts are already in the right orientation. Use the standard Voron Specs for printing.
+
 ## Installation
 
 1. Attach the 2 Mounts to the Frame with the M5 screws, feed the Cable through the Slot in the middle Skirt and mount it with the M3 screws.
