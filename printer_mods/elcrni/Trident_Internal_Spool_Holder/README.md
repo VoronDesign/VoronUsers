@@ -1,5 +1,5 @@
 ## Important Note:
-This mod works on Trident 300 and 350 builds ONLY. 250 build simply has no space needed to accomodate the holder and the spool.
+**This mod works on Trident 300 and 350 builds ONLY**. 250 build simply has no space needed to accomodate the holder and the spool.
 Sliding 8mm linear guides allow for adjustable spool width, up to 75mm wide rolls.
 
 ## Changelog
