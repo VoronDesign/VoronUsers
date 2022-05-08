@@ -21,12 +21,12 @@ Use the following *.stl files for realization in one print for standard front mo
 Use the following *.stl files for realization in one print for bottom mounts and the housing shell.
 - Angry_CAM_Bottom_Mount.stl
 
-![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Bottom_Mount_Front.png)
+![Angry CAM USB V2 Bottom Mount](Images/V2/AngyCAM_USB_V2_Bottom_Mount_Front_Above.png)
 
 Use the following *.stl files for realization in one print for top mounts and the housing shell.
 - Angry_CAM_Top_Mount.stl
 
-![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Top_Mount_Front.png)
+![Angry CAM USB V2 Top Mount](Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Above.png)
 
 Combine these parts with a front and rear cover of your choice, or develop your own front & rear covers for your respective camera module:
 
@@ -76,6 +76,10 @@ As an example i realized a front & rear cover for OV5640 camera modules with 120
 
 
 ## <b>Mounting</b>
+
+### Mounting of the housing
+
+![AngryCam USB V2.0 Explosion View](Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Explosion_Above.png) 
 
 ### Using the original USB Cable or the 1.5m USB cable replacement with pre-crimped JST SH connector
 
