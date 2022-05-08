@@ -10,7 +10,7 @@ This mod adds a mount for the BigTreeTech PiTFT. Currently the mod works for the
 - 1x M3x8mm SHCS
 - 2x M5 T-Nut/Hammerhead Nut
 - 2x M5x10mm BHCS
-- 4x M2,5x14mm BHCS **OR** any M2,5 longer than 6mm
+- 4x M2,5x14mm BHCS * **OR** * any M2,5 longer than 6mm
 - 1x PiTFT70
 - 1x Flat Flexible Cable 50cm or longer for Pi Cam/Pi Display
 
