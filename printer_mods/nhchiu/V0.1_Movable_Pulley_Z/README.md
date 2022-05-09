@@ -13,11 +13,11 @@ There already are belt-driven mods like [theFPVGeek's V0 Z Belt mod](https://git
 
 - 11 x M3x8 BHCS
 - 2 x M3x10 BHCS
-- 4 x M3x12 BHCS
+- 4 x M3x12 BHCS (2 extra is needed for kirigami bed)
 - 5 x M3x16 BHCS
 - 2 x M3x20 BHCS
 - 3 x M3 Washer
-- 2 x M3 Threaded Insert
+- 2 x M3 Threaded Insert (4 extra is needed for kirigami bed)
 - 4 x M3 Hex Nut
 - 3 x M5x20 BHCS/SHCS
 - 3 x M5 Hex Nut
@@ -57,9 +57,13 @@ Note the places that need threaded inserts. You can pre-apply them.
 
    The `80T_gear_7mm.stl` provided is a thinner version of the [M4 toothed gear](https://github.com/VoronDesign/Mobius-Extruder/blob/master/STLs/%5Ba%5D_80t_gear.stl) with 7mm of tooth width instead of 9mm to save a little weight and space. Both should work here.
 
-1. Bed Holder
+1. Bed Holder (for Stock V0.1)
 
    ![Bed Holder](./Images/Bed_Holder.png)
+
+1. Kirigami Bed Holder
+
+   ![Bed Holder](./Images/kirigami.png)
 
 1. Top Idler
 
@@ -143,6 +147,11 @@ Here's a video of testing the bed motion:
 [![Watch the video](https://img.youtube.com/vi/kQ-t7eGuI5I/maxresdefault.jpg)](https://youtu.be/kQ-t7eGuI5I)
 
 ## Changelog
+
+### 2022-05-03
+
+- Added the adapted bed holder for [kirigami bed](https://github.com/christophmuellerorg/voron_0_kirigami_bed) designed by **@zalupa#9238**.
+  Go to [./kirigami_adaptor](./kirigami_adaptor) for the files.
 
 ### 2022-04-20
 
