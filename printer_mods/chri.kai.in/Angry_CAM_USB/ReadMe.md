@@ -52,7 +52,7 @@ Images of those can be found below in section "Other Camera Modules".
 
 Bill of Material:
 - 1x Waveshare OV5648 5 MP Camera Module (A), incl. USB-A to JST SH PCB connector cable
-- 2x M3x16 SHCS screws
+- 2x M3x20 SHCS screws
 - 2x M3 T-Nut for 2020 frame profile
 - 1x Camera Housing Shell, Mounts and Front & Rear Cover from the printing source of your trust.
 
@@ -160,7 +160,7 @@ Start at one end of the rear opening and then gently press the cover to its posi
 
 ### Mounting to Frame or Gantry
 
-Place the camera module with the mounts to your desired mounting position. Use the M3x16 SHCS screws and the T-nuts to fix it to the frame. Take care to not squish your USB cable with the T-nuts, when guiding the cable in the frame profile.
+Place the camera module with the mounts to your desired mounting position. Use the M3x20 SHCS screws and the T-nuts to fix it to the frame. Take care to not squish your USB cable with the T-nuts, when guiding the cable in the frame profile.
 
 If you mount the module to the gantry, make sure to guide the USB cable through the z-axis cable chain to allow free movement of the gantry in z direction.
 
