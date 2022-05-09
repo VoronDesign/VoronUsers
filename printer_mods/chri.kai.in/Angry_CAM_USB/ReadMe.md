@@ -82,6 +82,7 @@ With that you can easily adopt front and rear covers to the needs of your partic
 <img src="Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Explosion_Above.png" height="400"></a>
 
 The default front cover for Waveshare OV5648 5 MP Camera Module (A) provides basic measurement details for creation of your own front covers.
+
 ![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Rear_Cover_Measurement_Details.png)
 
 This sketch is providing the measures on the inner side of the front cover. If you want to adopt the STEP files, remove any support structure or openings not fitting to your camera module and redraw you needed openings and structures as required.
@@ -105,7 +106,7 @@ Rear Cover:
 
 ## <b>Mounting</b>
 
-### Mounting of the housing shown on a Top Mount Derivative
+Mounting of the housing is shown on a Top Mount Derivative.
 
 ### Using the original USB Cable or the 1.5m USB cable replacement with pre-crimped JST SH connector.
 
