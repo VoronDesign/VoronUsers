@@ -88,7 +88,8 @@ like so:
 | ChenTheDesignMaker | [Z Belt Clip](./ChenTheDesignMaker/Z_Belt_Clip) | Simple clip to keep extra Z belts clean and away from panels | :x: | :x: | :heavy_check_mark: | :x: | :x:|
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 | christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| chri.kai.in | [Angry CAM USB](./chri.kai.in/Angry_CAM_USB) | Housing for small USB camera module, allowing mounting to gantry or frame profiles | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
+| chri.kai.in | [20x20x5mm Profile Covers](./chri.kai.in/20x20x5mm_Profile_Covers) | Provide overlapping and flush slot covers for 20x20x5mm construction profiles| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| | [Angry CAM USB](./chri.kai.in/Angry_CAM_USB) | Housing for small USB camera module, allowing mounting to gantry or frame profiles | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | 
 | | [Exhaust Adapter 100mm](./chri.kai.in/Exhaust_Adapter_100mm) | Replace 60mm exhaust fan with 100mm ventilation system adapter | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |claytono|[Fysetc S6 V2 Mount](./claytono/fysetc-s6-v2-mount)| DIN Mount for the Fysetc S6 V2 controller |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
