@@ -236,6 +236,7 @@ like so:
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:|
 | | [V2.4 Bed Wiring Grommet](./LoCoCNC/wire_grommets) | Safely capture your bed wires thru the bottom panel |:x:|:x:|:heavy_check_mark:|:x:|
 |LoganFraser| [ComboInlet](./LoganFraser/ComboInlet) | Skirt pieces for Trident, 2.4 and 2.4r2 for combo inlets in 2 sizes. |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:| 
+||[HorseshoeSpoolHolder](./LoganFraser/HorseshoeSpoolHolder) | Horseshoe Spool Holder - mounts internally for Trident, or externally for V0, V1, or V2 printers. |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[PiPlate](./LoganFraser/PiPlate) | PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Trident Inverted Electronics](./LoganFraser/TridentInvertedElectronics) | Flip the Trident electronics bay for top access.  |:x:|:x:|:x:|:x:|:heavy_check_mark:|
 ||[WagoMounts](./LoganFraser/WagoMounts) | Wago Mounts for Din Rail or 2020 Extrusion mounting. |:grey_question:|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
