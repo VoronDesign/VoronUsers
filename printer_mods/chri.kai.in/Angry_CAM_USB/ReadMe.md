@@ -44,62 +44,82 @@ Bill of Material:
 - 1x Waveshare OV5648 5 MP Camera Module (A), incl. USB-A to JST SH PCB connector cable
 - 2x M3x16 SHCS screws
 - 2x M3 T-Nut for 2020 frame profile
-- 1x Camera Housing + Mounts and Rear Cover from the printing source of your trust.
+- 1x Camera Housing Shell, Mounts and Front & Rear Cover from the printing source of your trust.
+
 
 Optional/Required for frame sizes >300mm:
 - 1x DeLock USB-A to 5-pin camera plug V5, 1.5m length (Art.-Nr. 95985), or similar
+
+
+![OV5648 5MP USB Camera Module (A)](Images/ov5648_5mp_usb_camera_a.png)
 
 Alternative off-the-shelf supported Camera Modules:
 - 1x 5MP OV5640 USB camera module with fix focus 120° view angle (EAN: 4894822492305; Dimensions: 60 x 8.5 x 12.8 mm)
 - 1x 5MP OV5640 USB camera module with fix focus 160° view angle (EAN: 4894847193232; Dimensions: 60 x 8.5 x 12.8 mm)
 
-as available on multiple chinese sellers. 
+as available on multiple chinese sellers.
 
-Remark: As long as the outer dimensions of your camera module stay within 67 x 9 x 10mm (without lenses) you have a fair chance of adopting the housing to your needs.
+![OV5640 5MP USB Camera Module 120° View Angle](Images/V2/5MP_OV5640_Camera_Module_120_View_Angle.jpg)
 
-![OV5648 5MP USB Camera Module (A)](Images/ov5648_5mp_usb_camera_a.png) 
+<i> Remark: As long as the outer dimensions of your camera module stays within 65 x 9 x 10mm (without lenses) you have a fair chance of adopting the housing to your needs. </i>
+
 
 ## <b>Other Camera Modules</b>
 To allow adoption to other camera modules with the same form factor, i changed the housing section of AngryCAM USB to a front-/rear cover and shell set up.
 With that you can easily adopt front and rear covers to the needs of your particular camera module, fitting in the 67 x 9 x 10 mm form factor of the shell.
 
+
+<img src="Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Explosion_Above.png" height="400"></a>
+
 The default front cover for Waveshare OV5648 5 MP Camera Module (A) provides basic measurement details for creation of your own front covers.
 ![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Rear_Cover_Measurement_Details.png)
 
-This sketch is providing the measures on the inner side of the front cover. If you want to adopt the STEP files, remove any support structure or opening not fitting to your camera module and redraw you needed openings and structures as required.
+This sketch is providing the measures on the inner side of the front cover. If you want to adopt the STEP files, remove any support structure or openings not fitting to your camera module and redraw you needed openings and structures as required.
 
 With adjustment of the position and the length of support columns on the rear cover you can support various module heights to avoid rattling noise and vibrations on your videos when mounting to the gantry.
-![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Rear_Cover_Outer_Dimensions.png)
-![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Rear_Cover_Extrusion_Details.png)
+
+![Angry CAM USB V2 Rear Cover Outline](Images/V2/AngyCAM_USB_V2_Rear_Cover_Outer_Dimensions.png)
+![Angry CAM USB V2 Rear Cover Extrusion Details](Images/V2/AngyCAM_USB_V2_Rear_Cover_Extrusion_Details.png)
 
 As an example i realized a front & rear cover for OV5640 camera modules with 120 and 160° view angle available at Chinese sellers in various platforms.
 
+Front Cover:
+
+<img src="Images/V2/AngyCAM_USB_V2_Front_Cover_120+_Front.png" height="200"></a>
+<img src="Images/V2/AngyCAM_USB_V2_Front_Cover_120+_Rear.png" height="200"></a>
+
+Rear Cover:
+
+<img src="Images/V2/AngyCAM_USB_V2_Rear_Cover_120+_Front.png" height="200"></a>
+<img src="Images/V2/AngyCAM_USB_V2_Rear_Cover_120+_Rear.png" height="200"></a>
 
 ## <b>Mounting</b>
 
-### Mounting of the housing
+### Mounting of the housing shown on a Top Mount Derivative
 
-![AngryCam USB V2.0 Explosion View](Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Explosion_Above.png) 
+### Using the original USB Cable or the 1.5m USB cable replacement with pre-crimped JST SH connector.
 
-### Using the original USB Cable or the 1.5m USB cable replacement with pre-crimped JST SH connector
+<i>Note: Using other USB cables as the original one might require re-sorting of the lines in the JST SH connector. Check the needs of your camera module and adjust your replacement cable accordingly !</i>
 
-<i>Applicable for usage of direct USB cable connection</i>
-
-Note down the wiring of your USB cable at the JST SH connector. 
+<b>Note down the wiring of your USB cable at the JST SH connector, before de-pinning it !</b>
 
 ![JST SH USB connector](Images/AngryCAM_USB_JST_SH_Connector.png)
 
 Remove each line from the JST SH connector, by gently lifting the pin locking nose at each pin. Calm hands and an illuminated magnifying glass can help with this task.
 
-![JST SH USB connector](Images/AngryCAM_USB_Open_Connector.png)
+![JST SH USB connector](Images/V2/AngryCAM_USB_V2_DePin_with_Pliers.jpg)
 
-Then push the open ends of the USB cable through the cable guide channel of one of the mounts starting at the rear of the mount and leaving at the mounting bolt. 
+Then push the open ends of the USB cable through the cable guide channel of one of the mounts starting at the rear of the mount and leaving at the mounting bolt.
 
-![Cable Path Starboard Mount](Images/Starboard_Mount_-_Cable_Path.png)
+<i>Note: In addition to starboard mount cable path, you could as well chose larboard mount cable path instead - this would require a 180° turn of the housing shell with the camera module, due to the fixed position of the USB connector on the module PCB. (Doing so, will require the camera picture as well to be rotated later in your applications ! Check e.g. OctoPi cameras settings on how to achieve this.)</i>
+
+<img src="Images/V2/AngryCAM_USB_V2_Front_Mount_with_Cable_Path.png" height="300"></a>
+<img src="Images/V2/AngryCAM_USB_V2_Cable_Route_Mounts.jpg" height="300"></a>
 
 Pass the cable ends through the borehole of the camera housing, outside in. Now re-position each cable line to the appropriate position in the JST SH connector and connect the camera module to the JST SH connector. Check the pinning of the JST SH connector at least twice against your initial notes, to avoid damage of the camera module !
 
-![Cable Path Camera Housing](Images/Camera_Housing_Cable_Path.png)
+<img src="Images/V2/AngryCAM_USB_V2_Housing_Shell_with_Cable_Path.png" height="300"></a>
+<img src="Images/V2/AngryCAM_USB_V2_Cable_Route_Shell.jpg" height="300"></a>
 
 Test the correct function of the camera module with any computer and application supporting USB cameras before starting any further mounting steps.
 
@@ -113,13 +133,18 @@ Place the camera module in the Camera Housing. Take care of the mounting frames 
 
 Make sure you place the wider edge of the rear cover first. This allows carved out areas in the rear cover to match to the mounting bolts and the rear cover will snap to the camera housing without gluing necessary. 
 
-Start at one end of the rear opening and then gently press the cover to its position.
+Start at one end of the rear opening and then gently press the cover to its position. <i> (-> Here shown with the older V1 housing but in general still valid for release V2) </i>
 
-![Rear Cover - Mounting Guide](Images/AngryCAM_USB_Mounting_Rear_Cover.png)
+![Rear Cover - Mounting Guide](Images/V1/AngryCAM_USB_Mounting_Rear_Cover.png)
 
-This is how it could look like in real life.
+### This is how it could look like in real life
 
-![Rear Cover Mounting in Reality](Images/AngryCAM_USB_Closing_the_Rear_Cover.png)
+<i> REMARK: The following pictures show an OV5640 120° View Angle Camera Module for fromt mounting fully assembled with original USB cable.</i>
+
+
+<img src="Images/V2/AngryCAM_USB_V2_120+_FrontView1.jpg" height="300"></a>
+<img src="Images/V2/AngryCAM_USB_V2_120+_RearView.jpg" height="300"></a>
+<img src="Images/V2/AngryCAM_USB_V2_120+_FrontView_Close.jpg" height="300"></a>
 
 
 ### Mounting to Frame or Gantry
@@ -153,9 +178,15 @@ After reboot activate the webcam support in the Octopi Settings: OctoPi Settings
 * Answer.  In the original monolithic design, this was not really possible. With switching to the new modular design, you can easily adopt front & rear cover to match your needs. For this, my original CAD files are attached as well as measurement details for the default front cover and the rear cover. This should allow you to draw your own derivative. When you feel something is missing, give me a hint.
 
 ####  How can i achieve a multi color look on mounts + housing shell, when they need to be printed at once ?
-* Answer.  Print them twice. Once in your basic printer color and a second time with the parts you plan to have in your accent color ( e.g. front + rear cover). With that you will have the full choice to any desired combination. 
+* Answer.  Print them twice. Once in your basic printer color and a second time with the parts you plan to have in your accent color ( e.g. front + rear cover). With that you will have the full choice on every desired combination. 
 
 ####  Why do you no longer recommend to use an adapter cable ?
 * Answer.  I faced issues in my own set up after installing my module with adapter and unshielded cable for testing purposes. It may work, but it can be showing negative side effects during use of the camera. Using a shielded USB cable of the needed length should avoid such temporary issues right from the start. As long as you are only routing the cable through the z-cable chain, i would not expect to high cable wear as z-axis will typically only show smaller movements with lower acceleration. For static mounting at the frame only the routing and hiding of the USB cable remains as a challenge.
 
-## <b>Images</b>
+## <b>History</b>
+
+### Release V1:
+![Angry CAM USB V1 Rendered View](Images/V1/AngryCam_USB_Camera_Module.png)
+![Angry CAM USB V1 3D Drawing Front View](Images/V1/Camera_Module_+_Mounts_Drawing.png)
+![Angry CAM USB V1 Rear View](Images/V1/Camera_Housing_+_Mounts_rear_starboard.png)
+
