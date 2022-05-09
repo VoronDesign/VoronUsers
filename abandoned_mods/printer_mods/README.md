@@ -18,3 +18,4 @@ Pull requests can be generated against these mods by anyone, ignoring the normal
 | Original Author | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
 |edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
+|edwardyeeks |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
