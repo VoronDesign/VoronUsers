@@ -9,34 +9,44 @@ With this major update i added an enhanced cable tunnel in mounts on both sides,
 
 Printing successful with standard VORON settings. Distance between mounts and camera housing set to 0.3 mm in *.stl file, which allows printing of mounts and housing in one print.
 
-For a full print you need to combine a shell + mounts *.stl file with yourneeded front+ rear cover *.stls. You can print them together or with different colors ( e.g. accent color) to personalize the look of your camera mount.
+For a full print you need to combine a shell + mounts *.stl file with your needed front + rear cover *.stls. You can print them together or with different colors (e.g. accent color) to personalize the look of your camera mount.
 
-Files providing the camera housing sheel and the respective mounts in one print:
+Files providing the camera housing shell and the respective mounts in one print:
 
 Use the following *.stl files for realization in one print for standard front mounts and the housing shell.
 - Angry_CAM_Front_Mount.stl
 
-![Angry CAM USB V2 Front Mount](Images/V2/AngyCAM_USB_V2_Front_Mount_Front.png)  
+<img src="Images/V2/AngryCAM_USB_V2_Front_Mount.png" height="300"></a>
 
 Use the following *.stl files for realization in one print for bottom mounts and the housing shell.
 - Angry_CAM_Bottom_Mount.stl
 
-![Angry CAM USB V2 Bottom Mount](Images/V2/AngyCAM_USB_V2_Bottom_Mount_Front_Above.png)
+<img src="Images/V2/AngryCAM_USB_V2_Bottom_Mount.png" height="300"></a>
 
 Use the following *.stl files for realization in one print for top mounts and the housing shell.
 - Angry_CAM_Top_Mount.stl
 
-![Angry CAM USB V2 Top Mount](Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Above.png)
+<img src="Images/V2/AngryCAM_USB_V2_Top_Mount.png" height="300"></a>
+
 
 Combine these parts with a front and rear cover of your choice, or develop your own front & rear covers for your respective camera module:
 
 For Waveshare OV5648 5 MP Camera Module (A):
 - Front_Cover.stl
+
+<img src="Images/V2/AngryCAM_USB_V2_Front_Cover_FrontView.png" height="200"></a>
+<img src="Images/V2/AngryCAM_USB_V2_Front_Cover_RearView.png" height="200"></a>
 - Rear_Cover.stl
+
+<img src="Images/V2/AngryCAM_USB_V2_Rear_Cover_FrontView.png" height="200"></a>
+<img src="Images/V2/AngryCAM_USB_V2_Rear_Cover_RearView.png" height="200"></a>
 
 For OV5640 5 MP 120/160° View Angle Camera Modules:
 - Front_Cover_120+.stl
 - Rear_Cover_120+.stl
+
+Images of those can be found below in section "Other Camera Modules".
+
   
 ## <b>Additional Material</b>
 
@@ -57,7 +67,7 @@ Alternative off-the-shelf supported Camera Modules:
 - 1x 5MP OV5640 USB camera module with fix focus 120° view angle (EAN: 4894822492305; Dimensions: 60 x 8.5 x 12.8 mm)
 - 1x 5MP OV5640 USB camera module with fix focus 160° view angle (EAN: 4894847193232; Dimensions: 60 x 8.5 x 12.8 mm)
 
-as available on multiple chinese sellers.
+as available on multiple Chinese sellers.
 
 ![OV5640 5MP USB Camera Module 120° View Angle](Images/V2/5MP_OV5640_Camera_Module_120_View_Angle.jpg)
 
@@ -139,10 +149,10 @@ Start at one end of the rear opening and then gently press the cover to its posi
 
 ### This is how it could look like in real life
 
-<i> REMARK: The following pictures show an OV5640 120° View Angle Camera Module for fromt mounting fully assembled with original USB cable.</i>
+<i> REMARK: The following pictures show an OV5640 120° View Angle Camera Module for front mounting fully assembled with original USB cable.</i>
 
 
-<img src="Images/V2/AngryCAM_USB_V2_120+_FrontView1.jpg" height="300"></a>
+<img src="Images/V2/AngryCAM_USB_V2_120+_FrontView.jpg" height="300"></a>
 <img src="Images/V2/AngryCAM_USB_V2_120+_RearView.jpg" height="300"></a>
 <img src="Images/V2/AngryCAM_USB_V2_120+_FrontView_Close.jpg" height="300"></a>
 
@@ -172,7 +182,7 @@ After reboot activate the webcam support in the Octopi Settings: OctoPi Settings
 * Answer. It was easier to draw for me at the time i started Angry CAM USB. I recognized soon myself the necessity of providing a more flexible cable routing with cable tunnels in both mounts and a cable exit on the outer side of the mounts to avoid issues when mounting the module to a profile. Therefore i started V2 development activities.
 
 #### V1: Could you please update the cable tunnel in the mount to a provide the cable to the outer side of the camera module ?
-* Answer.  Done with V2 update.
+* Answer.  Yes, i can follow your need - done with V2 update.
 
 #### V1: I want to use a different camera module with a wider view angle. How to adopt the housing to my specific camera module ?
 * Answer.  In the original monolithic design, this was not really possible. With switching to the new modular design, you can easily adopt front & rear cover to match your needs. For this, my original CAD files are attached as well as measurement details for the default front cover and the rear cover. This should allow you to draw your own derivative. When you feel something is missing, give me a hint.
@@ -181,12 +191,22 @@ After reboot activate the webcam support in the Octopi Settings: OctoPi Settings
 * Answer.  Print them twice. Once in your basic printer color and a second time with the parts you plan to have in your accent color ( e.g. front + rear cover). With that you will have the full choice on every desired combination. 
 
 ####  Why do you no longer recommend to use an adapter cable ?
-* Answer.  I faced issues in my own set up after installing my module with adapter and unshielded cable for testing purposes. It may work, but it can be showing negative side effects during use of the camera. Using a shielded USB cable of the needed length should avoid such temporary issues right from the start. As long as you are only routing the cable through the z-cable chain, i would not expect to high cable wear as z-axis will typically only show smaller movements with lower acceleration. For static mounting at the frame only the routing and hiding of the USB cable remains as a challenge.
+* Answer.  I faced issues in my own set up after installing my module with adapter and non shielded cable for testing purposes. It may work, but it can be showing negative side effects during use of the camera. Using a shielded USB cable of the needed length should avoid such temporary issues right from the start. As long as you are only routing the cable through the z-cable chain, i would not expect to high cable wear as z-axis will typically only show smaller movements with lower acceleration. For static mounting at the frame only the routing and hiding of the USB cable remains as a challenge.
 
 ## <b>History</b>
 
+### Release V2:
+
+<img src="Images/V2/Angry_CAM_Front_Mount_Above_Rendered.png" height="300"></a>
+<img src="Images/V2/AngyCAM_USB_V2_Front_Mount_Front.png" height="300"></a>
+<img src="Images/V2/AngyCAM_USB_V2_Bottom_Mount_Front_Above.png" height="300"></a>
+<img src="Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Above.png" height="300"></a>
+<img src="Images/V2/AngyCAM_USB_V2_Bottom_Mount_Cable_Path_Detail.png" eight="300"></a>
+
+
 ### Release V1:
-![Angry CAM USB V1 Rendered View](Images/V1/AngryCam_USB_Camera_Module.png)
-![Angry CAM USB V1 3D Drawing Front View](Images/V1/Camera_Module_+_Mounts_Drawing.png)
-![Angry CAM USB V1 Rear View](Images/V1/Camera_Housing_+_Mounts_rear_starboard.png)
+
+<img src="Images/V1/AngryCam_USB_Camera_Module.png" eight="300"></a>
+<img src="Images/V1/Camera_Module_+_Mounts_Drawing.png" eight="300"></a>
+<img src="Images/V1/Camera_Housing_+_Mounts_rear_starboard.png" eight="300"></a>
 
