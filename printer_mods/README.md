@@ -121,8 +121,7 @@ like so:
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 | |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
-|edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
-| |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
+| edwardyeeks |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) |Trident style side power inlet for V2.4 using Z Drive Motor Tensioner Mod - By @Amarpal89 |:x: |:x: |:heavy_check_mark: |:x:|:x:|
 | elcrni | [V.24/Trident Spool Holder](./elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
@@ -185,6 +184,7 @@ like so:
 | jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
+| jaysuk | [4.3 Fly Screen Mount](./jaysuk/4.3_fly_screen_mount) | A mount for a 4.3" Fly Screen | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 |JD |[V2.4 Filament runout sensor](./JD/RefillPlease) | Replace the 2.4 stock bowden tube holder and add a filament runout sensor  | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
 | | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
@@ -208,7 +208,7 @@ like so:
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
 | KageUrufu | [Euclid Probe Carriage](./kageurufu/mgn12-euclid) | A MGN-12 carriage with an inset mount for a Euclid Probe | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
-| KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: |
+| KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | | [Fan for V2-200mm²](./khay/V2-200_4020_Electronics_Fan) | Middle Skirt for V2-200mm² Electronics Compartment | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | | [3x Keystone PlugPanel](./khay/V2_3x_Keystone_Plugpanel) | PlugPanel with Options for 3 Keystones | :x: | :x: | :heavy_check_mark: | :x: | :x: |
@@ -235,7 +235,9 @@ like so:
 | | [Strain Relief w/ 10 Pin Microfit](./LoCoCNC/Strain_Relief_w_Microfit) | Strain Relief with 10 pin Microfit connector |:heavy_check_mark:|:x:|:x:|:x:|
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:|
 | | [V2.4 Bed Wiring Grommet](./LoCoCNC/wire_grommets) | Safely capture your bed wires thru the bottom panel |:x:|:x:|:heavy_check_mark:|:x:|
-|LoganFraser| [PiPlate](./LoganFraser/PiPlate) | PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+|LoganFraser| [ComboInlet](./LoganFraser/ComboInlet) | Skirt pieces for Trident, 2.4 and 2.4r2 for combo inlets in 2 sizes. |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:| 
+||[HorseshoeSpoolHolder](./LoganFraser/HorseshoeSpoolHolder) | Horseshoe Spool Holder - mounts internally for Trident, or externally for V0, V1, or V2 printers. |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+||[PiPlate](./LoganFraser/PiPlate) | PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Trident Inverted Electronics](./LoganFraser/TridentInvertedElectronics) | Flip the Trident electronics bay for top access.  |:x:|:x:|:x:|:x:|:heavy_check_mark:|
 ||[WagoMounts](./LoganFraser/WagoMounts) | Wago Mounts for Din Rail or 2020 Extrusion mounting. |:grey_question:|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | MGN12 Dual 5015 Toolhead for 2.4 & 1.8 |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
@@ -353,6 +355,7 @@ like so:
 | Weaslus | [Electronics Bay and Enclosure Seperator](./Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | :heavy_check_mark: | :x: | :x: |:x:|
 | whoppingpochard | [Extrusion Backers](./whoppingpochard/extrusion_backers) | Laser-cut metal pieces to counteract bimetallic frame warping | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
+| | [Stealthburner + CW1 + PCB Cover](./wile-e1/Stealthburner_CW1_PCB_Cover) | Low-poly for Stealthburner + CW1 + PCB installations: | :x: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:grey_question:|
 | wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
@@ -383,3 +386,4 @@ like so:
 | | [V0 Skirt set](./Zen3D/V0_Skirt)| SSR, PowerSwitch, Adxl, Nameplate and color change printing  | :heavy_check_mark: |:x: |:x: |:x:|:x: |
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
+| ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
