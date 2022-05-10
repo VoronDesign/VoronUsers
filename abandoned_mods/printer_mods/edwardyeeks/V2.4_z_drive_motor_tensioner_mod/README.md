@@ -26,3 +26,8 @@ Tensioning process is the same as stock V2.4, with exception of needing to tight
 
 
 -edwardyeeks (edwardyeeks#6042)
+
+
+
+## Change log
+2022-05-10 - skohls - Added compatibility for v2.4r2 with updated versions of the bottom plates
