@@ -13,3 +13,5 @@ January 16th, 2022: Initial release.
 February 18th, 2022: added link for whoppingpochard's Rainbow Barf's repository, and info about Klipper-led-effect developing a solution for mixing RGB and RGBW LEDs. There are little cosmetic differences between that version and the one I've uploaded here, nothing that will change the way it works. Choose whatever suits you better. 🙂
 
 March 17th, 2022: added the KiCad version that was used to design the PCB.
+
+May 6th, 2022: sligthly modified the PCB by removing both the data in resistor and the filtering capacitor. They are not strictly necessary, and the presence of the resistor was making people needing an additional resistor on their controller board's data pin to match impedance. Removing the board's resistor should solve that. There are also some cosmetic changes, and I slightly increased the area available for the power planes.

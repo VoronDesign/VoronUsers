@@ -121,8 +121,7 @@ like so:
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 | |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
-|edwardyeeks |[Decontaminator Purge Bucket & Nozzle Scrubber](./edwardyeeks/Decontaminator_Purge_Bucket_&_Nozzle_Scrubber) |Removeable purge bucket with nozzle scrubber |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
-| |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
+| edwardyeeks |[V2.4 Z Drive Motor Tensioner Mod](edwardyeeks/V2.4_z_drive_motor_tensioner_mod) |Braced motor tensioner for z drive |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) |Trident style side power inlet for V2.4 using Z Drive Motor Tensioner Mod - By @Amarpal89 |:x: |:x: |:heavy_check_mark: |:x:|:x:|
 | elcrni | [V.24/Trident Spool Holder](./elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 | Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
@@ -237,6 +236,7 @@ like so:
 | | [SSR Mounting Strap](./LoCoCNC/ssr_strap) | Mounting Strap for SSR on 1515 Extrusions |:heavy_check_mark:|:x:|:x:|:x:|
 | | [V2.4 Bed Wiring Grommet](./LoCoCNC/wire_grommets) | Safely capture your bed wires thru the bottom panel |:x:|:x:|:heavy_check_mark:|:x:|
 |LoganFraser| [ComboInlet](./LoganFraser/ComboInlet) | Skirt pieces for Trident, 2.4 and 2.4r2 for combo inlets in 2 sizes. |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:| 
+||[HorseshoeSpoolHolder](./LoganFraser/HorseshoeSpoolHolder) | Horseshoe Spool Holder - mounts internally for Trident, or externally for V0, V1, or V2 printers. |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[PiPlate](./LoganFraser/PiPlate) | PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident |:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Trident Inverted Electronics](./LoganFraser/TridentInvertedElectronics) | Flip the Trident electronics bay for top access.  |:x:|:x:|:x:|:x:|:heavy_check_mark:|
 ||[WagoMounts](./LoganFraser/WagoMounts) | Wago Mounts for Din Rail or 2020 Extrusion mounting. |:grey_question:|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
