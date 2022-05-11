@@ -10,9 +10,9 @@ Printing successful with standard VORON settings.
 
 For adjusting the length of the profiles you can scale the *.stl file in your slicer in y-direction after import and before positioning (rotating/placement) on your print bed. Please find the following example on how to do so for SuperSlicer:
 
-<img src="Images/SuperSlicer_Deactivating_Linked_Scaling.png" height="200"></a>
-<img src="Images/SuperSlicer_Free_Scaling.png" height="200"></a>
-<img src="Images/SuperSlicer_Defining_Exact_Profile_Length.png" height="200"></a>
+<img src="Images/SuperSlicer_Deactivating_Linked_Scaling.png" height="250"></a>
+<img src="Images/SuperSlicer_Free_Scaling.png" height="250"></a>
+<img src="Images/SuperSlicer_Defining_Exact_Profile_Length.png" height="250"></a>
 
 <i>Sequence: Deactivate linked scaling with click on lock symbol, Lock symbol status ("blue, open") when free scaling is active, Defining the exact length of your profile (avoid changing x, z scaling !)</i>
 
