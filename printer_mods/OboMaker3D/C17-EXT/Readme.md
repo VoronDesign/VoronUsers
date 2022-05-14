@@ -37,6 +37,8 @@ For the 120mm fan, follow the recommendations in the documentation. 3 models:
 * Less powerful but quieter (3000 rpm) : Noctua NF-F12 iPPC 3000 PWM (tested)
 * Less powerful but quieter (3000 rpm) : Sunon MEC0251V1-000U-A99 (Not tested)
 
+If you find other models at 4000 rpm, please send me the references.
+
 **Filter cartridge**
 
 Two possibilities :
