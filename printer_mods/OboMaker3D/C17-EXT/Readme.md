@@ -1,6 +1,8 @@
 # C17 -EXT, External HEPA Carbon filter
 
+<div align="center">
 ![C17 -EXT, External HEPA Carbon filter](JPG/IMG_1.png "C17 -EXT, External HEPA Carbon filter")
+</div>
 
 The C17-EXT filter replaces the standard filter of the Voron 2.4 and to add one on the Switchwire . It has a 120mm fan and can use the C17-EXT-Cartridge filter (HEPA 13 and Carbon) or commercial HEPA Carbon filters.
 
