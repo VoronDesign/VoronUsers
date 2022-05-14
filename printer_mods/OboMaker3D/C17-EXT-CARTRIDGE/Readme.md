@@ -6,6 +6,8 @@
 
 The C17-EXT-CARTRIDGE is designed to be used with the C17-EXT HEPA Carbon filter.
 
+This is a first publication, although all parts has been tested, there may be errors do not hesitate to contact me.
+
 ## Assembly Manual
 
 [![Manual](JPG/IMG_3.png)](Doc/Doc/VORON_C17_EXT_CARTRIDGE_V1_0.pdf")
