@@ -6,14 +6,15 @@
 
 The C17-EXT-CARTRIDGE is designed to be used with the C17-EXT HEPA Carbon filter.
 
-##Assembly Manual
-[![Manual](JPG/IMG_3.png "")] (Doc/VORON_C17_EXT_CARTRIDGE_V1_0.pdf)
+## Assembly Manual
+
+[![Manual](JPG/IMG_3.png)](Doc/Doc/VORON_C17_EXT_CARTRIDGE_V1_0.pdf")
 
 # BOMs
 
 The list of parts is described in the manual.
 
-**HEPA 13 Filter**
+## HEPA 13 Filter**
 
 Use HEPA 13 filters from 10mm to 18mm thick. The best is to find a HEPA 13 filter for vacuum cleaner and cut it with a cutter. The references change according to the country.
 
@@ -26,7 +27,7 @@ I tested this one after cutting with a cutter :
 - [Aliexpress 2] (https://fr.aliexpress.com/item/4001298732898.html?spm=a2g0o.order_list.0.0.21ef5e5bHvenA3&gatewayAdapt=glo2fra)
 
 
-**Carbon**
+## Carbon
 
 WARNING : Although the C17-EXT does not return treated air to the printer enclosure, use Acid-free Activated Carbon (Coconuts for example : amazon) !
 
