@@ -20,7 +20,7 @@ The list of parts is described in the manual.
 
 Use HEPA 13 filters from 10mm to 18mm thick. The best is to find a HEPA 13 filter for vacuum cleaner and cut it with a cutter. The references change according to the country.
 
-I tested this one after cutting with a cutter : 
+I tested this one after cutting: 
 
 - The best but I do not find the reference in other countries: [Amazon.fr](https://www.amazon.fr/gp/product/B01MCTSXVR/ref=ppx_yo_dt_b_asin_title_o06_s00?ie=UTF8&psc=1)
  
