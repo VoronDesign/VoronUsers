@@ -10,7 +10,7 @@ This is a first publication, although all parts has been tested, there may be er
 
 ## Assembly Manual
 
-[![Manual](JPG/IMG_3.png)](Doc/VORON_C17_EXT_CARTRIDGE_V1_0.pdf")
+[![Manual](JPG/IMG_3.png)](./Doc/VORON_C17_EXT_CARTRIDGE_V1_0.pdf")
 
 # BOMs
 
