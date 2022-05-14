@@ -19,8 +19,9 @@ For the Switchwire model only configuration 2 is possible.
 
 **Assembly Manual**
 
-[![Manual](JPG/IMG_7.png "")] (Doc/VORON_C17_EXT_V1_0.pdf)
+![Manual](JPG/IMG_7.png "")
 
+[Manual](Doc/VORON_C17_EXT_V1_0.pdf)
 
 # BOMs
 
