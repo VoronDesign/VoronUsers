@@ -18,9 +18,7 @@ For the Switchwire model only configuration 2 is possible.
 
 **2 options to replace the grid:**
 
-![Extractor for 125mm tube](JPG/IMG_5.png "Extrator for 125mm tube")
-
-![Extractor for 100mm tube](JPG/IMG_6.png "Extrator for 100mm tube")
+![Extractor for 125mm tube](JPG/IMG_5.png "Extrator for 125mm tube") ![Extractor for 100mm tube](JPG/IMG_6.png "Extrator for 100mm tube")
 
 **[Assembly Manual](Doc/VORON_C17_EXT_V1_0.pdf)**
 
