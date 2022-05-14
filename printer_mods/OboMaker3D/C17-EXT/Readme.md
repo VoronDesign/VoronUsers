@@ -42,7 +42,7 @@ If you find other models at 4000 rpm, please send me the references.
 **Filter cartridge**
 
 Two possibilities :
-* Using the C17-EXT-CARTRIDGE
+* Using the [C17-EXT-CARTRIDGE](../C17-EXT-CARTRIDGE)
 * Use a commercial cartridge : https://www.alveo3d.com/en/product/hepa-h13-filter-p3d/
 
 # Credits
