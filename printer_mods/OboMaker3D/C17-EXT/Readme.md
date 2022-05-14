@@ -7,8 +7,11 @@ The C17-EXT filter replaces the standard filter of the Voron 2.4 and to add one 
 **2 configurations:**
 
 <div align="center">With adapter for standard back panel Voron</div>
+
 ![With adapter for standard back panel Voron](JPG/IMG_2.png "With adapter for standard back panel Voron")
+
 <div align="center">With specific back panel</div>
+
 ![With specific back panel](JPG/IMG_3.png "With specific back panel")
 
 For the Switchwire model only configuration 2 is possible.
