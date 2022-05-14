@@ -19,6 +19,7 @@ For the Switchwire model only configuration 2 is possible.
 ![Extractor for 100mm tube](JPG/IMG_6.png "Extrator for 100mm tube")
 
 **Assembly Manual**
+
 [![Manual](JPG/IMG_7.png "")] (Doc/VORON_C17_EXT_V1_0.pdf)
 
 
