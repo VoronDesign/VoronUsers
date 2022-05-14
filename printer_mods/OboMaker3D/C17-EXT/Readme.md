@@ -4,7 +4,7 @@
 
 The C17-EXT filter replaces the standard filter of the Voron 2.4 and to add one on the Switchwire . It has a 120mm fan and can use the C17-EXT-Cartridge filter (HEPA 13 and Carbon) or commercial HEPA Carbon filters.
 
-**2 configurations:**
+## 2 configurations
 
 <div align="center">With adapter for standard back panel Voron</div>
 
@@ -16,7 +16,7 @@ The C17-EXT filter replaces the standard filter of the Voron 2.4 and to add one 
 
 For the Switchwire model only configuration 2 is possible.
 
-**2 options to replace the grid:**
+## 2 options to replace the grid
 
 ![Extractor for 125mm tube](JPG/IMG_5.png "Extrator for 125mm tube") ![Extractor for 100mm tube](JPG/IMG_6.png "Extrator for 100mm tube")
 
@@ -30,7 +30,7 @@ For the Switchwire model only configuration 2 is possible.
 
 The list of parts is described in the manual according to the chosen configuration.
 
-**Fan**
+## Fan
 
 For the 120mm fan, follow the recommendations in the documentation. 3 models:
 * Efficient but noisy, the best choice (4000 rpm) : Aquatuning Alphacool 24810 ES (tested)
@@ -39,7 +39,7 @@ For the 120mm fan, follow the recommendations in the documentation. 3 models:
 
 If you find other models at 4000 rpm, please send me the references.
 
-**Filter cartridge**
+## Filter cartridge
 
 Two possibilities :
 * Using the [C17-EXT-CARTRIDGE](../C17-EXT-CARTRIDGE)
