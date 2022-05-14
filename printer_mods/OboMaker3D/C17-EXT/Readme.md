@@ -22,7 +22,7 @@ For the Switchwire model only configuration 2 is possible.
 
 ![Extractor for 125mm tube](JPG/IMG_5.png "Extrator for 125mm tube")
 
-<div align="center">Extractor for 100mm tube</div>
+
 
 ![Extractor for 100mm tube](JPG/IMG_6.png "Extrator for 100mm tube")
 
