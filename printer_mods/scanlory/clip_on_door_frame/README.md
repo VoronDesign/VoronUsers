@@ -10,7 +10,7 @@ If you use the stock V2.4 magnetic door latch, extended_door_latch is provided w
 
 ### Important Notice ###
 
-These are currently sized for the 300x300x300mm V2.4 build.  If anyone is interested, I can make them for the 250 and 300mm sizes as well.
+These are currently sized for the 300x300x300mm and 350x350x350mm V2.4 builds.  If anyone is interested, I can make them for the 250mm size as well.
 
 ### Kind-Of Important Notice ###
 
