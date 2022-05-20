@@ -6,6 +6,9 @@ Sliding 8mm linear guides allows for adjustable spool width. Supported spool siz
 08.05.2022.
 Initial Release
 
+20.05.2022.
+Added new PTFE guide with tilted opening that guides the PTFE slightly to the left to prevent sharp bends. Just one lower guide is recommended now with this new top guide.
+
 ## Why?
 
 Over the years i've been getting nicer prints and almost 100% eliminated wet filament ooze by placing the filament spool inside of enclosed chamber. Since my printers work almost 24/7, chambers are always hot enough to keep the filament dry and produce perfect prints.
