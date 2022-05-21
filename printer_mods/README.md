@@ -306,6 +306,7 @@ like so:
 | | [Printable snap latches for 2020 extrusion](./richardjm/snap-latch-2020) | Quick release panel latch inspired by the work of others. | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | | [Picam corner mount](./richardjm/picam-corner) | Out of the way corner mounted picam | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
+| RockNLol | [RockNRoll](./RockNLol/RockNRoll) | Rockers to roll the printer on its back for easier access to the electronics compartment | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
