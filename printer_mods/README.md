@@ -298,6 +298,7 @@ like so:
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |:x:|
 ||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |:x:|
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
+| reapola | [MKS CANable Pro DIN Mount](./reapola/MKS_CANable_Pro_mount) | MKS CANable Pro mount which mounts on a DIN rail |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | reQu1em00 | [Kirigami LED Bed Front](./reQu1em00/Kirigami_LED_Bed_Front) | Kirigami bed front with space for a single LED or Neopixel button |:heavy_check_mark:|:x:|:x:|:x:|:x:|
 | revnull | [Raspberry Pi 7inch Display Mount](./revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
