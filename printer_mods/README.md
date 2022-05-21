@@ -58,6 +58,7 @@ like so:
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
 |aTinyShellScript |[RS PSU DIN Bracket](./aTinyShellScript/RS_PSU_DIN_Brackets)|DIN brackets for MeanWell RS PSUs with 80mm spacing. |:grey_question:|:grey_question:|:heavy_check_mark:|:grey_question:|:grey_question:|
+|Backenfutter|[Mount for Electreeks Camera](./Backenfutter/Mount_for_Electreeks_Camera)|This Mod is a simple "One Piece" mount for the popular Electreeks Camera. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
 | |[AB-BN Afterburner mod (5015)](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[AB-BN for Stock Afterburner (4020)](./Badnoob/ABBN_for_Stock)|Improved Dragon and Rapido toolhead for stock Afterburner with 4020 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -135,6 +136,7 @@ like so:
 | evandepol | [Crydom GN Terminal Guard](./evandepol/Crydom-GN-Guard) | A simple safety guard for the terminals on a Crydom GN SSR | :x: | :x: | :heavy_check_mark: |:x:|
 |  | [Voron 2.4 cable clamps](./evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring on your build | :x: | :x: | :heavy_check_mark: |:x:|
 | falo | [Magnetic Exhaust Grill Cover](./falo/magnetic_grill_cover) | A magnetic cover to seal the filtered exhaust | :x: | :x: | :heavy_check_mark: | :x: |
+| | [Toolhead PCB to CAN Mount Adaptor](./falo/toolhead_pcb_to_can) | A mount to enable side mounting of a CAN board (Huvud/SHT42) in Afterburner PCB spacing | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Fiction | [C270 mount](./Fiction/C270_mount) | Logitech C270 webcam front-centre mount | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Crossrail](./Fiction/Crossrail) | Across-the-rails LRS-200-24 or RSP-200-24 mount using DRP-03 brackets | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [Exhaust_cover](./Fiction/Exhaust_cover) | Cover for exhaust cutout in back panel | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
@@ -240,6 +242,7 @@ like so:
 ||[Trident Inverted Electronics](./LoganFraser/TridentInvertedElectronics) | Flip the Trident electronics bay for top access.  |:x:|:x:|:x:|:x:|:heavy_check_mark:|
 ||[WagoMounts](./LoganFraser/WagoMounts) | Wago Mounts for Din Rail or 2020 Extrusion mounting. |:grey_question:|:grey_question:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |Long| [Mantis Dual 5015 Toolhead](./Long/Mantis_Dual_5015) | MGN12 Dual 5015 Toolhead for 2.4 & 1.8 |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|Mac10goesBRRRT| [PiTFT Mount](./Mac10goesBRRRT/BTT_PiTFT) | Mount for the BTT PiTFT Touchscreen |:x:|:grey_question:|:heavy_check_mark:|:grey_question:|:heavy_check_mark:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
 |MakeALeft| [Switchwire Clean Center Grill](./MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | :x: | :x: | :x: | ✔️ | :x:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
@@ -259,7 +262,7 @@ like so:
 | Mellow | [V0 Fly-Gemini](./Mellow/V0_Fly-Gemini) | Fly-Gemini adapted model for V0 | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | mikepthomas | [MKS Mosfet Mount](./mikepthomas/MKS_Mosfet_Mount) | MKS Mosfet Mount based of the Trident Raspberry Pi Mount. | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |MikesMods|[LGX mount for V0.1 with 2nd X rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
-| Minsekt | [Rear Umbilical](./Minsekt/Rear_Umbilical) | Rear Umbilical mounting solution including a relocated Y-Endstop | :x: | :heavy_check_mark: | :x: | :x: | :x: |
+| Minsekt | [Rear Umbilical](./Minsekt/Rear_Umbilical) | Rear Umbilical mounting solution including a relocated Y-Endstop | :x: | :grey_question: | :heavy_check_mark: | :x: | :x: |
 |mjoaris |[10x11 Cable Chain Endcaps](./mjoaris/10x11_Cable_Chain_Endcaps) |Printable Endcaps for 10x11 Cable Chains |:x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | |[Mini12864 LCD Mount](./mjoaris/Mini12864_LCD_Mount_for_V2.4) |Swiveling case for the Fysetc Mini12864 LCD |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |Mosher|[Door hinges with M3 screws shafts](./mosher/m3_door_hinges) |Simple mod of print in place door hinges, which uses m3 screws as shafts. |:x:|:x:|:heavy_check_mark:|:x:|
@@ -295,6 +298,7 @@ like so:
 |randell   |[Door Hinges](./randell/Door_Hinges) |Door hinges that use an M3 bolt for a pin and bolts thru the panel |:x: |:x: |:heavy_check_mark: |:x:|
 ||[Microswitch Pod for PCB](./randell/Microswitch_Endstop) |Modified endstop pod for use of endstop switches mounted on a PCB |:x: |:x: |:heavy_check_mark: |:x:|
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
+| reapola | [MKS CANable Pro DIN Mount](./reapola/MKS_CANable_Pro_mount) | MKS CANable Pro mount which mounts on a DIN rail |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | reQu1em00 | [Kirigami LED Bed Front](./reQu1em00/Kirigami_LED_Bed_Front) | Kirigami bed front with space for a single LED or Neopixel button |:heavy_check_mark:|:x:|:x:|:x:|:x:|
 | revnull | [Raspberry Pi 7inch Display Mount](./revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
@@ -305,6 +309,7 @@ like so:
 | | [Printable snap latches for 2020 extrusion](./richardjm/snap-latch-2020) | Quick release panel latch inspired by the work of others. | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | | [Picam corner mount](./richardjm/picam-corner) | Out of the way corner mounted picam | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 | roboticator24 | [Touchscreen for OctoDash](./roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864 panel to allow you to run the amazing OctoDash touch UI | :x: | :x: | :heavy_check_mark: |:x:|
+| RockNLol | [RockNRoll](./RockNLol/RockNRoll) | Rockers to roll the printer on its back for easier access to the electronics compartment | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
@@ -318,8 +323,8 @@ like so:
 |  | [Corsair Flash Voyager GTX Din Mount](./samwiseg0/voyager_gtx_din_mount) | Din carrier for a Corsair Flash Voyager GTX | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | scanlory | [Clip-On Front Door Frame](./scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using modified hinges. | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
-| sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](./ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
@@ -327,7 +332,7 @@ like so:
 | spacelab2021 | [Orbiter Clockwork Mount](spacelab2021/Orbiter-Clockwork) | A clockwork adaptor for the Orbiter v1.5 Extruder with full integration into the Afterburner. Includes a filament quick release lever for simple filament loading and unloading. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
-| Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
+| sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | sttts | [Waveshare 5.5inch HDMI AMOLED Mount](./sttts/Waveshare-5.5-inch-HDMI-AMOLED) | Mod to mount a Waveshare 5.5inch full HD display on a V2 | :x: | :x: | :heavy_check_mark: | :x: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
