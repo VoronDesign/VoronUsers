@@ -301,8 +301,8 @@ like so:
 | raymondh | [Large Spool Holders](./raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:|
 | reapola | [MKS CANable Pro DIN Mount](./reapola/MKS_CANable_Pro_mount) | MKS CANable Pro mount which mounts on a DIN rail |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | reQu1em00 | [Kirigami LED Bed Front](./reQu1em00/Kirigami_LED_Bed_Front) | Kirigami bed front with space for a single LED or Neopixel button |:heavy_check_mark:|:x:|:x:|:x:|:x:|
-| |[LGX_Lite_Steathburner_PCB_Mount](./reQu1em00/LGX_Lite_Steathburner_PCB_Mount) | LGX Lite mount for the Steathburner PCB |:x:|:x:|:heavy_check_mark:|:x:|:grey_question:|
-| |LGX_Lite_Steathburner_plus_PCB_cover](./reQu1em00/LGX_Lite_Steathburner_plus_PCB_cover) | LGX Lite plus Steathburner PCB cable cover|:x:|:x:|:heavy_check_mark:|:x:|:grey_question:|
+| |[LGX_Lite_Stealthburner_PCB_Mount](./reQu1em00/LGX_Lite_Steatlhburner_PCB_Mount) | LGX Lite mount for the Stealthburner PCB |:x:|:x:|:heavy_check_mark:|:x:|:grey_question:|
+| |LGX_Lite_Stealthburner_plus_PCB_cover](./reQu1em00/LGX_Lite_Stealthburner_plus_PCB_cover) | LGX Lite plus Stealthburner PCB cable cover|:x:|:x:|:heavy_check_mark:|:x:|:grey_question:|
 | revnull | [Raspberry Pi 7inch Display Mount](./revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 |Rhastlyn |[Wansview 1080p Camera Mount](./Rhastlyn/WansviewCameraMount) |A camera mount that replaces the OEM part to allow the camera to be mounted to a 2020 extrusion | :x: |:grey_question: |:heavy_check_mark: |:x:|
 | |[60mm Fan Cover](./Rhastlyn/60mmFanCover)|A easy to install cover for spec 60mm fans originally designed for a 2.4 build| :x: |:grey_question: |:heavy_check_mark: |:x:|
