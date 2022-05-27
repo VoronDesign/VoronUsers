@@ -13,16 +13,19 @@ There are various panel latches and magnetic clips that offer quick panel remova
 
 * The only required parts are a small amount of VHB tape and a lot of magnets (48 6x3mm magnets for each panel).
 
+*Magnet inserts hold two 6x3 magnets and is held in the aluminum extrusion with an unhammer*
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-1-magnet-insert.png)
 
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-2-inserts-in-frame-1.png)
 
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-3-inserts-in-frame-2.png)
 
+*The corner and mid-panel clips hold matching 6x3 magnets*
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-4-clips-underside.png)
 
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-5-full-install.png)
 
+*Installation jig makes it easy to set the proper spacing for corner inserts*
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-6-jig.png)
 
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-0-installed-1.jpg)
