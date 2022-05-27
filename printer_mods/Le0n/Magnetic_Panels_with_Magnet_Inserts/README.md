@@ -1,3 +1,4 @@
+![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-0-installed-2.jpg)
 
 ## Magnetic Panels with Magnet Inserts
 
@@ -7,7 +8,7 @@ There are various panel latches and magnetic clips that offer quick panel remova
 
 * Uses a thin strip of VHB to adhere to the panels. This should provide (1) solid adhesion without the need for drilling or extra fasteners, (2) some amount of squish for the magnets to pull against, and (3) the ability to adjust or remove them in the future.
 
-* The frame magnet inserts are designed to (1) require only printed parts and no additional fasteners aside from the 6x3 magnets, (2) sit inside the frame slot flush against the aluminum frame face, (3) be easily adjustable, and (4) retain the magnets without glue and allow removal for correcting polarity or salvaging. Discord@PF VT.520 came up with the idea of using a hammerhead-style rotating nut to tighten and press against the magnet insert, holding it in place.
+* The frame magnet inserts are designed to (1) require only printed parts and no additional fasteners aside from the 6x3 magnets, (2) sit inside the frame slot flush against the aluminum frame face, (3) be easily adjustable, and (4) retain the magnets without glue and allow removal for correcting polarity or salvaging. Discord@PF VT.520 came up with the idea of using a hammerhead-style rotating nut to tighten and press against the magnet insert, holding it in place. 
 
 * The panel's ability to sit right up to the face of the frame allows the panels to pop on and off without any interference.
 
@@ -29,5 +30,3 @@ There are various panel latches and magnetic clips that offer quick panel remova
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-6-jig.png)
 
 ![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-0-installed-1.jpg)
-
-![Magnetic Panels with Magnet Inserts](Images/magnetic-panel-and-inserts-0-installed-2.jpg)
