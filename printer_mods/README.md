@@ -229,6 +229,7 @@ like so:
 | |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |:x:|
 | Kyleisah |[CableGator Cable Comb](./Kyleisah/CableGator) | A cable comb for simplifying and tidying wire harnesses for printers with drag chains |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | lakai | [Bruag Skirts](./lakai/Bruag_Skirts) | V2 350mm skirts inspired by Bruag Facades | :x: | :x: | :heavy_check_mark: | :x: |
+|Le0n|[Magnetic panels with Magnet Inserts](./Le0n/Magnetic_Panels_with_Magnet_Inserts)| Magnetic panel mounts with magnets inserted into frame slots. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 |leandromarceddu|[PowerSkirt](./leandromarceddu/PowerSkirt) |Modified skirtpiece for a digital power monitor|:x:|:grey_question:|:heavy_check_mark:|:grey_question:|
 |littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |:x:|
 | LJ | [Scrubby](./LJ/Scrubby) | Easy to use filament dust filter | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
