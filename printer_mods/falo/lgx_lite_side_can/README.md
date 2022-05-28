@@ -1,4 +1,4 @@
-# LGX Lite Side Mount Huvud/SHT42
+# LGX Lite CAN Side Mount (Huvud/SHT42)
 
 Side mount for CAN toolhead boards with NEMA 17 sizes such as [Huvud](https://github.com/bondus/KlipperToolboard) and [FLY-SHT42](https://mellow.klipper.cn/#/board/fly_sht36_42/).
 
