@@ -53,6 +53,5 @@ For easy 3D printing of the modified door latch
 | --- | --- | --- | --- |
 ![](Images/door-latch-installed.jpg)  |  ![](Images/door-hinge-lined-up.jpg) |  ![](Images/door-hinge-installed.jpg) | ![](Images/door-fusion-screenshot.png)
 | Save as DXF |
-| --- |
 |![](Images/save-as-dxf.png) | 
 
