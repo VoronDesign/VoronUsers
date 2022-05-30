@@ -84,6 +84,11 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+05-29-2022
+- Added Hotend_Mount_Dragon_v1.040_sherpa_brace.stl.
+  - This is a modified hotend mount which mates with a modified housing_front that triangulates the sherpa mini mounting.  
+  - Since the modified housing_front is an annex part, it will be hosted on their usermods under sherpa mini (I have a PR in there now).
+        
 05-05-2022
 - Added duct_dragon_v1.043e.  These are a newer version of the ducts for Dragon.  These have slightly less build plate clearance but bigger duct outlets, so higher cooling potential.  I've been running them for a while now and haven't crashed the ducts into a print yet.  
         
