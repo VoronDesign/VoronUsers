@@ -29,7 +29,7 @@ Remember, in Fusion360, the dimensions for the doors are parametric, so you can 
 
 Don't worry, I got you too.  Step file also included.
 
-* [300mm-door-panel-holes.f3d](CAD/300mm-door-panel-holes.f3d)	
+* [door-panel-holes.f3d](CAD/door-panel-holes.f3d)	
 * [door-panel-holes.step](CAD/door-panel-holes.step)
 * [modified-door-latch.f3d](CAD/modified-door-latch.f3d)
 
