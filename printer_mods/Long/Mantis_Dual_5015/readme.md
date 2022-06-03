@@ -84,6 +84,8 @@ Mantis Dual 5015 Toolhead by Long
 
 Changes
 -----------------
+06-3-2022
+- Added links and documentation regarding Hotend_Mount_Dragon_v1.040_sherpa_brace.stl and the <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified Sherpa Mini housing_front</A>
 05-29-2022
 - Added Hotend_Mount_Dragon_v1.040_sherpa_brace.stl.
   - This is a modified hotend mount which mates with a modified housing_front that triangulates the sherpa mini mounting.  
