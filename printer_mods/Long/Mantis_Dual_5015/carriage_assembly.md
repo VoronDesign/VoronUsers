@@ -72,6 +72,15 @@ Carriage and Hotend Mount Assembly
   <TD align="CENTER" width=50%><img src="images/carriage_assembly_crazy_volcano.jpg"><BR><B>Crazy Volcano</B><BR>Note Heater block orientation and wire pathing.</TD>
   <TD align="CENTER" width=50%><img src="images/carriage_assembly_rapido.jpg"><BR><B>Rapido</B><BR>Print the hotend mount (Hotend_Mount_Rapido_v.03 or Hotend_Mount_Rapido_v.03_Rotated120Degrees) that has the Phaetus logo on the sock facing directly forward.  <BR>Wires should come out right/forward</TD>
 </TR>
+</TABLE>
+<Table>
+<TR>
+  <TD colspan=3 width=100%>Hotend mount (Hotend_Mount_Dragon_v1.040_sherpa_brace.stl) for dragon/dragon with crazy volcano that accepts <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified Sherpa mini housing_front</a>, which triangulates the extruder mounting and adds some stability.</TD>
+</TR>  
+<TR>
+  <TD align="CENTER" width=33%><img src="images/carriage_assembly_sherpa_brace_hotend_mount.jpg"></TD>
+  <TD align="CENTER" width=33%><img src="images/carriage_assembly_sherpa_brace_mounted_front.jpg"></TD>
+    <TD align="CENTER" width=33%><img src="images/carriage_assembly_sherpa_brace_mounted_side.jpg"><BR></TD>
 </table>
 
 - Hotends
