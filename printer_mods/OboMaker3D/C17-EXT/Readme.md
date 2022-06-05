@@ -35,7 +35,7 @@ The list of parts is described in the manual according to the chosen configurati
 
 For the 120mm fan, follow the recommendations in the documentation. 3 models:
 * Efficient but noisy, the best choice (4000 rpm) : Aquatuning Alphacool 24810 ES (tested)
-* Less powerful but quieter (3000 rpm) : Noctua NF-F12 iPPC 3000 PWM (tested)
+* Less powerful but quieter (3000 rpm) : Noctua NF-F12 iPPC 3000 PWM (tested, acceptable for commercial cartridges)
 * Less powerful but quieter (3000 rpm) : Sunon MEC0251V1-000U-A99 (Not tested)
 
 If you find other models at 4000 rpm, please send me the references.
