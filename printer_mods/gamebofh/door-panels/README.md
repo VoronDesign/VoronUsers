@@ -13,19 +13,23 @@ To that end, the holes for the handles are slightly larger and will likely requi
 
 There are now CAD files for cutting the holes in front doors.  Although they are parametric (doorwidth) there are f3d and dxf files for 250, 300 and 350mm.  There are also dxf files for all of those in the dxf directory.
 
+**NOTE:** The R2 update of the V2.4 changed the size of panels to make them 1mm smaller all around.  That means that they are .5mm narrower and 1mm shorter.  I've updated the DXFs to those dimensions.  (I think it probably helps with the latch fitment too).  The dimensions are now:
+
+* 250mm: 191.5mm x 403mm
+* 300mm: 216.5mm x 453mm
+* 350mm: 241.5mm x 503mm
+
 # Files
 
 ## CAD
 
-Remember, in Fusion360, the dimensions for the doors are parametric, so you can just change it there instead of opening these individually.  I've just created them so that if you're not comfortable in Fusion, they're easy to use.
+Remember, in Fusion360, the dimensions for the doors are parametric, so you can just change it there instead of opening these individually.  The default version is for the 300mm.  I've removed the other versions because if you have to edit the parameters it doesn't matter what you start with, and the DXF are accurate for the given sizes.
 
 "But hey, what about those of who don't use Fusion?"
 
 Don't worry, I got you too.  Step file also included.
 
-* [250mm-door-panel-holes.f3d](CAD/250mm-door-panel-holes.f3d)	
-* [300mm-door-panel-holes.f3d](CAD/300mm-door-panel-holes.f3d)	
-* [350mm-door-panel-holes.f3d](CAD/300mm-door-panel-holes.f3d)	
+* [door-panel-holes.f3d](CAD/door-panel-holes.f3d)	
 * [door-panel-holes.step](CAD/door-panel-holes.step)
 * [modified-door-latch.f3d](CAD/modified-door-latch.f3d)
 
@@ -45,7 +49,9 @@ For easy 3D printing of the modified door latch
 
 
 # Images
+| Latch |  Cut hinge holes |  Assembled | Parameters |
+| --- | --- | --- | --- |
 ![](Images/door-latch-installed.jpg)  |  ![](Images/door-hinge-lined-up.jpg) |  ![](Images/door-hinge-installed.jpg) | ![](Images/door-fusion-screenshot.png)
- --- | --- | --- | ---
- Latch |  Cut hinge holes |  Assembled | Parameters
+| Save as DXF |
+|![](Images/save-as-dxf.png) | 
 
