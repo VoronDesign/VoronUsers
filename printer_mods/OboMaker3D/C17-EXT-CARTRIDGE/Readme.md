@@ -24,9 +24,9 @@ I tested this one after cutting:
 
 - The best but I do not find the reference in other countries: [Amazon.fr](https://www.amazon.fr/gp/product/B01MCTSXVR)
  
-- [Aliexpress 1](https://fr.aliexpress.com/item/4000071269334.html)
+- [Aliexpress 1](https://www.aliexpress.com/item/4000071269334.html)
 
-- [Aliexpress 2](https://fr.aliexpress.com/item/4001298732898.html)
+- [Aliexpress 2](https://www.aliexpress.com/item/4001298732898.html)
 
 
 ## Carbon
