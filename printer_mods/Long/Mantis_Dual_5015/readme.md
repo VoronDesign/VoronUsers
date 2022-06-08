@@ -82,9 +82,14 @@ Mantis Dual 5015 Toolhead by Long
   - I used 6mm diameter x 0.9mm coil diameter x 10mm length springs for extra clearance, but this is unnecessary.
   - (Replaces stock 6mm x 1mm x 12mm spring) 
 
-Changes
+Changelog
 -----------------
-06-3-2022
+06-08-2022
+- Updated CADs to include the fan braces.
+  - Dragon CAD now includes both versions of the ducts (normal and higher flow variant) and also the hotend mount that braces the sherpa mini.
+  - There's been a bunch of additions on the usermods, so go check it out!
+        
+06-03-2022
 - Added links and documentation (under <a href="carriage_assembly.md">Carriage Assembly</A>) regarding Hotend_Mount_Dragon_v1.040_sherpa_brace.stl and the <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified Sherpa Mini housing_front</A>
         
 05-29-2022
