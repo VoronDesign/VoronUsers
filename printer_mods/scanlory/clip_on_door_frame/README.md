@@ -8,10 +8,6 @@
 
 If you use the stock V2.4 magnetic door latch, extended_door_latch is provided which moves the frame magnets out closer to the handle magnets.
 
-### Important Notice ###
-
-These are currently sized for the 300x300x300mm and 350x350x350mm V2.4 builds.  If anyone is interested, I can make them for the 250mm size as well.
-
 ### Kind-Of Important Notice ###
 
  The parts are not symmetrical - there is a 'thick' side and a 'thin' side.  The thin side goes towards the frame.
