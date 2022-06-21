@@ -19,3 +19,5 @@ March 17th, 2022: added the KiCad version that was used to design the PCB.
 May 6th, 2022: sligthly modified the PCB by removing both the data in resistor and the filtering capacitor. They are not strictly necessary, and the presence of the resistor was making people needing an additional resistor on their controller board's data pin to match impedance. Removing the board's resistor should solve that. There are also some cosmetic changes, and I slightly increased the area available for the power planes.
 
 June 8th, 2022: Added information about how to use the Rainbow Barf on Klipper using the main repo, and how to mix it with the nozzle RGBW LEDs.
+
+June 21st, 2022: Added a warning concerning JLCPCB not providing the WS2812B-2020 LEDs anymore.
