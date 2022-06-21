@@ -6,6 +6,8 @@ This PCB, created in KiCad 6.0, is a collaboration between me and [tanaes (a.k.a
 
 Important note: this PCB uses 2.0mm × 2.0mm WS2812B RGB LEDs, instead of the recommended RGBW ones. In order to use the Rainbow Barf on the Stealthburner, you have to properly configure Klipper with a string of 8 RGB + 2 RGBW LEDs. [Klipper's documentation is your friend.](https://www.klipper3d.org/Config_Reference.html#neopixel)
 
+WARNING: as far as June 21st, 2022, JLCPCB does not offer WS2812B-2020 LEDs for assembly anymore, which means anyone wanting to build the Rainbow Barf will either need to hand solder the 2 mm x 2 mm LEDs, or use another fab house for assembly service. This may change in the future, but for now it is the current situation.
+
 ### Updates
 
 January 16th, 2022: Initial release.
