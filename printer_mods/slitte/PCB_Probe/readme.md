@@ -33,11 +33,11 @@ BOM:
 the following images show the Prototype state of the project and doesn't include the Pull Up resistor mount. Used probe: Omron TL-Q5MC2-Z
 
 Components on the Board
-![Components on the PCB](/images/9FB91CEF-5DD7-4529-AA61-205C67A30F6B.jpeg)
+![Components on the PCB](../images/9FB91CEF-5DD7-4529-AA61-205C67A30F6B.jpeg)
 
 PCB mounted to the pcb_din_clip with 2x M2x10 self tapping screws
-![PCB mounted on the pcb_din_clip](/images/9C41BAE9-E4E5-412E-ABDE-0C47AB14D8F3.jpeg)
+![PCB mounted on the pcb_din_clip](../images/9C41BAE9-E4E5-412E-ABDE-0C47AB14D8F3.jpeg)
 
 PCB mounted to the DIN rail with wiring for BAT85 on DIAG7
-![PCB mounted on the DIN Rail](/images/D5D337EA-ACC4-4DDF-B353-550F60E1EAA6.jpeg)
+![PCB mounted on the DIN Rail](../images/D5D337EA-ACC4-4DDF-B353-550F60E1EAA6.jpeg)
 
