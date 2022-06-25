@@ -331,6 +331,8 @@ like so:
 | Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | | [PanzerChain 2.4](./Slidr/PanzerChain2.4) | Energychain for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
+| slitte | [PCB_Probe](./slitte/PCB_Probe) | PCB for BAT85 and pull up resistor | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+|  | [ssd_bracket](./slitte/ssd_bracket) | bracket for mounting a 2.5" ssd to a din rail | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |sloscotty|[Switchwire Wall Plate](./sloscotty/SW_Wall_Plate)|SW plate for enclosure|:x:|:x:|:x:|:heavy_check_mark:|
 | | [NoNutz TopHat Cam Extension](./sloscotty/TopHat_Cam_Extension) | Tophat extension with integrated webcam for V0/0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | spacelab2021 | [Orbiter Clockwork Mount](spacelab2021/Orbiter-Clockwork) | A clockwork adaptor for the Orbiter v1.5 Extruder with full integration into the Afterburner. Includes a filament quick release lever for simple filament loading and unloading. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
