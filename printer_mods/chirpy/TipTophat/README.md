@@ -2,6 +2,8 @@
 
 TipTophat is an alternative Tophat for the Voron v0.1 which uses the BOM panels. It provides 30mm in additional height as well as better access via the additional door. It places the side panels fully virtically to make the tophat square. It also comes with hinges that can be used with the [Tophat hinge  mod](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/MSiemons/TophatHingeV0.1).
 
+For the bleeding edge releases, see [my development repo](https://github.com/waytotheweb/voron)
+
 ![tophatside](images/tophatside.jpg)
 
 ![tophatopen](images/tophatopen.jpg)
