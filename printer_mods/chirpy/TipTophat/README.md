@@ -34,8 +34,6 @@ There is the choice of printing the whole body using the Unibody if you have a p
 
 Note: These instructions use directions based on the tophat in front of you being upside down with the back facing away from you and the front in front of you. Once you place the tophat on the printer, instruction directions are as you look at the printer from the front.
 
-Note: My serial doesn't appear on the STL's, just these photos!
-
 ### Building the frame and inserting the panels:
 
 Place brass heat inserts into all the holes you are going to use. This is likely to be everything apart from the top 4 holes. Those top 4 holes are if you use the stock style pins to locate the tophat on the printer instead of using hinges at the back.
