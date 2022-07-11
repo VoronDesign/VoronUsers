@@ -92,6 +92,7 @@ like so:
 | chri.kai.in | [20x20mm Profile Covers](./chri.kai.in/20x20mm_Profile_Covers) | Provide overlapping and flush slot covers for 20x20mm slot6 construction profiles| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Angry CAM USB](./chri.kai.in/Angry_CAM_USB) | Housing for small USB camera module, allowing mounting to gantry or frame profiles | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | | [Exhaust Adapter 100mm](./chri.kai.in/Exhaust_Adapter_100mm) | Replace 60mm exhaust fan with 100mm ventilation system adapter | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| chirpy | [V0.1 Nozzle Wiper](./chirpy/NozzleWiper) | Servo powered nozzle wiper and purge bucket | :heavy_check_mark: | :x: | :x: | :x: |
 |claytono|[Fysetc S6 V2 Mount](./claytono/fysetc-s6-v2-mount)| DIN Mount for the Fysetc S6 V2 controller |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 ||[Voron 2.4 Extrusion Jig](./claytono/2.4-extrusion-jig)|A jig help align extrusions to get a properly square frame |:x:|:x:|:heavy_check_mark:|:x:|
 ||[V0 Zip Tie Skirts](./claytono/v0-zip-tie-skirts)|V0 skirts with small loops added along the top to allow zip tyiing cables to them|:heavy_check_mark:|:x:|:x:|:x:
