@@ -105,3 +105,7 @@ With the tophat door closed, align the handle with the magnet at the top opposit
 ![doorhandlefit](images/doorhandlefit.jpg)
 
 You can adjust the frame mount from the inside screws to change the fitting of the hinge. You can also tighten and loosen the hinge screws to lower and raise the door panel. If none of that works, unscrew the door hinge and take the hinge+tophat door off. You can usually remove the hinge from the door, by very slowly pulling the hinge from the door panel, being careful not to snap the hinge or crack the panel. You can then redo the hanging steps for a better fit.
+
+## Changelog:
+
+- 2022-07-22 Updated Body Quarters and STEP file
