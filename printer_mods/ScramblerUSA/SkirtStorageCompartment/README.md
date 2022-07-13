@@ -1,6 +1,6 @@
 ## In-skirt storage compartment
 
-A little storage compartment nicely fited into one of the corner skirt pieces of Voron 2.4 350.
+A little storage compartment nicely fitted into one of the corner skirt pieces of Voron 2.4 350.
 
 ![](./images/render.png)
 Unfortunately 250/300 have smaller skirts which results in a very small compartment, so not very useful. Maybe just to hold a few spare nozzles. Therefore only 350 mm version is included in this mod.
@@ -20,12 +20,12 @@ Print parts using standard Voron spec:
 * 1x skirt_350.stl
 * 1x drawer:
   * If using FSCH screw to mount the skirt, print the regular drawer.stl - this option gives you the best look.
-  * If reusing existing SHCS, print the drawer_notched.stl - doesn't look as good, but allows some clearance for protruding screw cap.
+  * If reusing the existing SHCS, print the drawer_notched.stl - doesn't look as good, but allows some clearance for protruding screw cap.
 
 Installation:
 
-* Remove existing skirt piece.
-* Install replacement skirt piece.
+* Remove the existing skirt piece.
+* Install the replacement skirt piece.
 * Attach the knob to the drawer using the screw (threads right into plastic).
 * Make sure you have enough space free of wires to fit the drawer. Move the Pi and tidy up your wiring if needed.
 * Slide the drawer in.
