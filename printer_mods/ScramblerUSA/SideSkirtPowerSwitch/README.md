@@ -33,4 +33,4 @@ Sourcing:
 
 ![](./images/SkirtPower.png)
 
-![](./images/SkirtPower_photo.png)
+![](./images/SkirtPower-photo.png)
