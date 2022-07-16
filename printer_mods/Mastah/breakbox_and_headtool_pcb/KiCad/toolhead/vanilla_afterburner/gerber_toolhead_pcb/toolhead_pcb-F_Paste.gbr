@@ -1,0 +1,39 @@
+%TF.GenerationSoftware,KiCad,Pcbnew,(6.0.6)*%
+%TF.CreationDate,2022-07-16T02:41:13+02:00*%
+%TF.ProjectId,toolhead_pcb,746f6f6c-6865-4616-945f-7063622e6b69,rev?*%
+%TF.SameCoordinates,Original*%
+%TF.FileFunction,Paste,Top*%
+%TF.FilePolarity,Positive*%
+%FSLAX46Y46*%
+G04 Gerber Fmt 4.6, Leading zero omitted, Abs format (unit mm)*
+G04 Created by KiCad (PCBNEW (6.0.6)) date 2022-07-16 02:41:13*
+%MOMM*%
+%LPD*%
+G01*
+G04 APERTURE LIST*
+%ADD10R,1.000000X1.600000*%
+%ADD11R,1.200000X1.200000*%
+%ADD12R,0.500000X0.600000*%
+%ADD13R,0.800000X1.600000*%
+G04 APERTURE END LIST*
+D10*
+%TO.C,Probe filter diode*%
+X98300000Y-96300000D03*
+X101500000Y-96300000D03*
+%TD*%
+D11*
+%TO.C,R1100*%
+X77700000Y-97600000D03*
+X77700000Y-100000000D03*
+%TD*%
+D12*
+%TO.C,Thermistor Chamber*%
+X70598500Y-81699000D03*
+X71600000Y-81700000D03*
+%TD*%
+D13*
+%TO.C,Hotend Led*%
+X71200000Y-97700000D03*
+X73600000Y-97700000D03*
+%TD*%
+M02*
