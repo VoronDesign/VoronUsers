@@ -8,7 +8,7 @@ This way I can reboot the 3D printer without having to Reboot the Raspberry Pi.
 
 ## Method
 
-1.  First I had to find a smart plug that I could assign a permenant IP address to inside my home WIFI network.  After investing, I found that a Sonoff S31 plug could be flashed with Tasmota firmware and be interfaced with Moonraker which then could be used inside a G-code Macro for Klipper.
+1.  First I had to find a smart plug that I could assign a permenant IP address to inside my home WIFI network.  After investigating, I found that a Sonoff S31 plug could be flashed with Tasmota firmware and be interfaced with Moonraker which then could be used inside a G-code Macro for Klipper.
 
 2. Here is the Amazon link for the Sonoff S31 plugs that I purchased: https://www.amazon.com/Sonoff-Monitoring-Certified-Assistant-Supporting/dp/B08GKGS197/
 
