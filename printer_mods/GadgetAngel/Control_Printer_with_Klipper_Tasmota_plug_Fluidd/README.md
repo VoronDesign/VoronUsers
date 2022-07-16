@@ -100,7 +100,7 @@ output_id: 1
 
 ```
 
-8. This is how I defined my Macros that use the Sonoff plugs in my printer.cfg file (this is only the section of my printer.cfg file that pertains to using the sonoff plugs and my START_PRINT and END_PRINT macros):
+8. This is how I defined my Macros that use the Sonoff plugs in my printer.cfg file (this is only the section of my printer.cfg file that pertains to using the sonoff plugs and my PRINT_START and END_PRINT or PRINT_END macros):
 
 ```
 [gcode_macro HEATSOAK]
