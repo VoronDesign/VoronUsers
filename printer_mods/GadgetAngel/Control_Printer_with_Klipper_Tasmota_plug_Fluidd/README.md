@@ -334,4 +334,4 @@ gcode:
 
 ### Watch this video on how to flash Tasmota firmware onto the Sonoff S31 power monitoring Plug:
 
-    https://youtu.be/kKtLKjI4wA0
+https://youtu.be/kKtLKjI4wA0
