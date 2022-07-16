@@ -1,0 +1,75 @@
+1. TPLink power off delay doesn't work correct:
+
+https://github.com/Arksine/moonraker/issues/366
+
+2. Moonraker docs: Options common to all power devices
+
+https://moonraker.readthedocs.io/en/latest/configuration/#power 
+
+3. tasmota.github.io/docs: SWB1 Smart Power Strip
+
+https://tasmota.github.io/docs/devices/SWB1-Smart-Power-Strip/
+
+4. tasmota.github.io/docs/: page 1
+
+https://tasmota.github.io/docs/
+
+5.  moonraker-telegram:
+
+https://github.com/Raabi91/moonraker-telegram
+
+6. moonraker-telegram: installation
+
+https://github.com/Raabi91/moonraker-telegram/blob/master/docs/Installation.md
+
+7. reddit article called "Tasmota Power off doesnt work (Moonraker)"
+
+https://www.reddit.com/r/klippers/comments/sr15xj/tasmota_power_off_doesnt_work_moonraker/
+
+8. Tosmota docs on MQTT protocol:
+
+https://tasmota.github.io/docs/MQTT/
+
+9. Installing the Mosquitto MQTT Server to the Raspberry Pi that is running Klipper
+
+https://pimylifeup.com/raspberry-pi-mosquitto-mqtt-server/
+
+10. Use TPLink smart plug with Mainsail
+
+https://lazarofilm.gitbook.io/3d-printing/use-tplink-smart-plug-with-mainsail.
+
+11. The Ultimate Guide to MQTT for Beginners and Experts
+
+https://www.hivemq.com/mqtt-essentials/
+
+12. Tasmota Getting Started Guide:
+
+https://tasmota.github.io/docs/Getting-Started/
+
+13.  Sonoff S31 Smart Plug - Flashing Tasmota and openHAB MQTT Configuration
+
+https://www.youtube.com/watch?v=kKtLKjI4wA0
+
+
+14. Amazon listing for "SONOFF S31 15A WiFi Smart Plug with Energy Monitoring ETL Certified, Smart Outlet Timer Switch, Work with Alexa & Google Home Assistant, IFTTT Supporting, 2.4 Ghz Wi-Fi":
+
+https://www.amazon.com/Sonoff-Monitoring-Certified-Assistant-Supporting/dp/B08GKGS197/
+
+15.  Amazon listing for "HiLetgo FT232RL FTDI Mini USB to TTL Serial Converter Adapter Module 3.3V 5.5V":
+
+https://www.amazon.com/HiLetgo-FT232RL-Converter-Adapter-Breakout/dp/B00IJXZQ7C/
+
+16. GitHub Repo for ESPEasy SW to flash Tasota Plug:
+
+https://github.com/letscontrolit/ESPEasy/releases
+
+17.  GitHub Repo for Tasmota Firmware:
+
+https://github.com/arendst/Tasmota/releases
+
+18: Tasmota Supported Device list:
+
+https://templates.blakadder.com/
+
+
+
