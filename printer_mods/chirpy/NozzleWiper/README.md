@@ -36,11 +36,11 @@ These have all been implemented in this public release.
 
 Brush:
 https://www.amazon.co.uk/ALMOCN-Printer-Nozzle-Cleaning-Toothbrush/dp/B08XYMVNSG
-https://www.aliexpress.com/item/4000801101276.html?spm=a2g0o.productlist.0.0.548c6ad8feWJPk
+https://www.aliexpress.com/item/4000801101276.html
 
 Servo:
 https://www.amazon.co.uk/AZDelivery-MG90S-Micro-Servo-Gearbox/dp/B086V3VP72
-https://www.aliexpress.com/item/32977425392.html?spm=a2g0o.productlist.0.0.7f29d477NSiOIa
+https://www.aliexpress.com/item/32977425392.html
 
 ## Assembly:
 
