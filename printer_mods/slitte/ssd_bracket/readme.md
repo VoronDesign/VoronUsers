@@ -3,7 +3,7 @@ bracket to mount a ssd-drive to the din rail under a voron printer
 
 This bracket is designed to mount a ssd drive in the electornics bay of a voron printer. 
 
-you need this additional part: https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl
+The following part has to be printed x1: [pcb_din_clip_x3](https://github.com/VoronDesign/Voron-2/blob/eb094399681bcac4efce723157b8638c69173cb3/STLs/Electronics_Bay/pcb_din_clip_x3.stl)
 
 
 Bom:
