@@ -132,7 +132,7 @@ rotation_distance: 40
 gear_ratio: 80:20, 2:1
 ```
 
-## Photos
+## Photos (some may be outdated)
 
 ![Lower belt end](Images/img1.jpg)
 
@@ -147,6 +147,10 @@ Here's a video of testing the bed motion:
 [![Watch the video](https://img.youtube.com/vi/kQ-t7eGuI5I/maxresdefault.jpg)](https://youtu.be/kQ-t7eGuI5I)
 
 ## Changelog
+
+### 2022-07-18
+
+- Updated the upper parts again for new appearance and more clearance for the toolhead.
 
 ### 2022-05-03
 
