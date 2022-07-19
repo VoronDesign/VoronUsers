@@ -2,7 +2,7 @@
 
 This is a modified skirt that lets you house the 3 current revo voron nozzles whilst they are not in use.  Currently only designed for the 350,  300 is possible, 250 is  small but I think I found a way to squeeze them all in
 
-Designed for the Boron 2.4 R1 and R2
+Designed for the Voron 2.4 R1 and R2
 
 Hardware Required: 2 M3x8 or M3x10 SHCS.  
 
