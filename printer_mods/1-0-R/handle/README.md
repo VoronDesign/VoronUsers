@@ -34,14 +34,14 @@ M3 heat set inserts | 3
 
 ![insert heat set inserts](images/inner_part_with_heat_set_inserts.jpg)
 
-2. put T-nuts in aluminium extrusion (2 T-nuts in top slot, 3 T-nuts in side slot, coarsely adjust hole distance)
+2. put T-nuts in aluminium extrusion (2 T-nuts in top slot, 3 T-nuts in side slot, coarsely adjust hole distances)
 
 ![T-nuts in extrusion](images/extrusion_with_tnuts.jpg)
 
 3. attach inner handle part to top side of the extrusion
 ![attach inner handle](images/extrusion_with_inner_part_mounted.jpg)
 
-4. attach middle and outer handle part to the side of the extrusion; do not tighten M5 scews jet
+4. attach middle and outer handle part to the side of the extrusion; do not tighten M5 screws yet
 ![attach middle and outer handle](images/extrusion_with_all_handle_parts.jpg)
 
 5. align parts and put in M3 screws; tighten all screws
