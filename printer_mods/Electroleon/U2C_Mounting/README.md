@@ -17,8 +17,8 @@ M3x8 | 4
 M2x10 | 2
 [Trident PCB Din Clip](https://github.com/VoronDesign/Voron-Trident/blob/f871f117cdf2a3b3881c3bc176f0a8eb04e42057/STLs/ElectronicsBay/pcb_din_clip_v2_x5.stl) | 1
 
-![Top Corner Cable Hides](Images/U2C_Mounting.png)
+![Rendered U2C Mount](Images/U2C_Mounting.png)
 
-![Top Corner Cable Hides](Images/U2C_Mounted.jpg)
+![U2C Board Mounted](Images/U2C_Mounted.jpg)
 
 
