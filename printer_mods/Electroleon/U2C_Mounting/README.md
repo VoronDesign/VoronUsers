@@ -2,6 +2,7 @@
 Designed to mount the Bigtreetech U2C CAN Interface.
 
 The model included can be mounted to the original 2.4 din clip or the newer Trident din clip.
+For mounting on the V0 just use VHB tape and stick the bracket to the panel with the rest of the electronics
 
 Based off the [NodeMCU Universal Mount](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/esp8266_nodemcu_din_mount) by samwiseg0 
 
