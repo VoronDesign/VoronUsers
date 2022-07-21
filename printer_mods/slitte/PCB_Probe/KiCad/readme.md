@@ -1,1 +1,0 @@
-KiCad project file
