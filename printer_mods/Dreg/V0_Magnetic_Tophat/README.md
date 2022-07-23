@@ -11,3 +11,8 @@ BOM:
 ## Feedback
 
 For feedback please message me on discord: Dreg#0212
+
+## Credits
+
+I would like to thank JosAr for the Klicky probe project. The Frame clips for this mod are derived from their clip design.
+I would like to thank AdamV3D for the V0 Hinged Top Hat project. His tophat clip was the inspiration and basis on which i designed this mod.
