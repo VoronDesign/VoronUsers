@@ -15,10 +15,15 @@ The air first blows through activated coal particles and then through the Hepa f
 ### Which version?
 You just need to print the two inserts for the housing. There are two versions for the activated coal insert: One with a modeled-in mesh and one without. The insert without mesh is for creating your own mesh by using the infill. **You need a custom mesh if you use particles smaller than 0.8 mm.**
 
+You also have to choose between V2.4(R1) and V2.4(R2)/Trident.
+
+<img src="Images/Trident_V2.png" width="600"/>
+
 #### STLs needed:
 1: with modeled mesh        |  2: with custom mesh
 :-------------------------:|:-------------------------:
 1x 1_hepa.stl  |  1x 1_hepa.stl
+1x 1_lid.stl   |  1x 1_lid.stl
 1x 1_coal_with_mesh.stl  |  1x 1_coal_for_infill_mesh.stl
  /  | 1x 0_filterdummy_dont_print.stl (as modifier)
 
@@ -51,14 +56,30 @@ For both variants you should choose the infill density so that the coal particle
 ### What do I need?
 4x M3x25mm screws
 
+2x M3x6mm BHCS
+
+2x M3 Brass Heatset Inserts - Short M3x5x4
+
 1x 40mmx80mm Hepa filter (https://www.aliexpress.com/item/1005001615722382.html)
 
-~500g activated coal particles (~1mm) 
+~500g activated coal particles (>1mm) 
+
+### Get the right Coal!
+You should use acid-free carbon, otherwise the metal parts will oxidize. Read more aout it [here](https://github.com/nevermore3d/Nevermore_Micro#sourcing-the-proper-acid-free-carbon).
 
 ### Credits:
 Idea by Deutherius.
 
 Thanks to Jon for the name.
+
+Thanks to Kevin Rahhal for the lid design.
+
+Thanks to moogoo for the hint with the cover issue.
+
+### Changelog
+17.07.2022: New lid design for both version so there's no gap in the back. Also fixed the issue with the rear cover touching the bucket of the Trident/R2 version.
+01.11.2021: A new coal container with lid to avoid mess when moving the printer. The printing instructions are still the same as before.
+26.04.2022: Added a version for Trident/ V2.4r2. I optimized the existing files as well (walls without infill, chamfered bucket, straight top lid)
 
 ##### Contact:
 Discord: kevinakasam#2097

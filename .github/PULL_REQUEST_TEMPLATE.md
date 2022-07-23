@@ -33,6 +33,7 @@ to conform to the rules below are likely to be rejected.**
   * [ ] Submitted STL files are not corrupt. *(This can be tested by opening the STL in PrusaSlicer
     and checking if mesh errors are reported.)*
   * [ ] Submitted STL files are oriented and scaled properly for printing.
+  * [ ] Submission includes a CAD file in the form of a `.STEP` or `.SCAD` file
   * [ ] Submitted firmware configs or slicer profiles contain no sensitive data (e.g. API keys).
 
 <!--
