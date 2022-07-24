@@ -25,6 +25,7 @@ like so:
 
 | Creator | Mod title | Description | V0 | V1.8 | V2.4 | VSW | Trident |
 | --- | --- | --- | --- | --- | --- | --- | --- |
+|1-0-R|[V2.4 handle](./1-0-R/handle)| Handle for Voron 2.4| :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 |120decibell|[Side entry exhaust housing](./120decibell/exhaust_housing_side_entry)| Exhaust housing with dual cover screws and single or dual side entry filament paths. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Huvud Chain Mount](./120decibell/huvud_chain_mount)| Huvud rear mount for Clockwork or LGX that supports a cable chain. |:x:|:heavy_check_mark:|:grey_question:|:x:|:heavy_check_mark:|
 |3dpandme|[FANnypack zero](./3dpandme/Fannypack_zero)|Electronics cooling solution for Voron Zero|:heavy_check_mark:| :x: | :x: | :heavy_check_mark: | :heavy_check_mark:|
@@ -293,6 +294,8 @@ like so:
 |Oakman |[FYSETC Spider Metal DIN Mount](./Oakman/FYSETC_Spider_Metal_DIN_Mount) |Use a metal DIN mount for your FYSETC Spider |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[BTT 24V UPS Metal DIN Mount](./Oakman/BTT_24V_UPS_Metal_DIN_Mount) | Adapter to use a metal DIN mount for the BTT 24V UPS |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[RPI Metal DIN Mount](./Oakman/RPI_Metal_DIN_Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|OboMaker3D |[C17-EXT Filter HEPA Carbon](./OboMaker3D/C17-EXT) |Replaces standard filter with new HEPA Crabon and 120mm fan |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| |[C17-EXT-CARTRIDGE for C17-EXT filter](./OboMaker3D/C17-EXT-CARTRIDGE) | Alternative to a commercial cartridge for the C17-EXT filter |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 |padok |[Chain Anchor - ADXL345 mount Mod](./padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner |:x: |:grey_question: |:heavy_check_mark: |:grey_question: |
@@ -330,6 +333,7 @@ like so:
 |  | [Extrusion/Chamber Thermistor Mount](./samwiseg0/extrusion_thermistor_mount) | Extrusion mount for a NTC100K Thermistor extrusion | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |  | [Corsair Flash Voyager GTX Din Mount](./samwiseg0/voyager_gtx_din_mount) | Din carrier for a Corsair Flash Voyager GTX | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | scanlory | [Clip-On Front Door Frame](./scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using modified hinges. | :x: | :x: | :heavy_check_mark: |:x:| :x: |
+| ScramblerUSA | [Side Skirt Power Switch](./ScramblerUSA/SideSkirtPowerSwitch) | Skirt-mounted rocker switch for easy access for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](./ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
