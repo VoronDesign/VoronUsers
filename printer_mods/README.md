@@ -292,6 +292,8 @@ like so:
 |Oakman |[FYSETC Spider Metal DIN Mount](./Oakman/FYSETC_Spider_Metal_DIN_Mount) |Use a metal DIN mount for your FYSETC Spider |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[BTT 24V UPS Metal DIN Mount](./Oakman/BTT_24V_UPS_Metal_DIN_Mount) | Adapter to use a metal DIN mount for the BTT 24V UPS |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[RPI Metal DIN Mount](./Oakman/RPI_Metal_DIN_Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
+|OboMaker3D |[C17-EXT Filter HEPA Carbon](./OboMaker3D/C17-EXT) |Replaces standard filter with new HEPA Crabon and 120mm fan |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| |[C17-EXT-CARTRIDGE for C17-EXT filter](./OboMaker3D/C17-EXT-CARTRIDGE) | Alternative to a commercial cartridge for the C17-EXT filter |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 |padok |[Chain Anchor - ADXL345 mount Mod](./padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner |:x: |:grey_question: |:heavy_check_mark: |:grey_question: |
