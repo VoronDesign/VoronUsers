@@ -35,12 +35,12 @@ If you use thicker panels or foam tape than the default 4mm, there is a 6mm vers
 
 For additional support you can swap the base plates of the rubber feet to the ones from this mod.
 If you are building a 2.4r2 print these:
-- 1x base_plate_a_r2
-- 1x base_plate_b_r2
+- 1x [a]_z_drive_baseplate_a_rnl_mod_r2
+- 1x [a]_z_drive_baseplate_b_rnl_mod_r2
 
 If you still have an 2.4r1 build you therefor need:
-- 1x base_plate_right_r1
-- 1x base_plate_left_r1
+- 1x [a]_z_drive_baseplate_a_rnl_mod_r1
+- 1x [a]_z_drive_baseplate_b_rnl_mod_r1
 
 #### Print Settings: ####
 This mod needs rigidity and stiffness. Based on the Voron recommendations for structural printer parts these settings are recommended:
