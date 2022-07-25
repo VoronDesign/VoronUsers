@@ -24,7 +24,7 @@ These have all been implemented in this public release.
 
 ## BOM:
 
-- 1x Micro Servo 9G Servo Motor (SG90/MG90). MG90 servo version is preferred to cope with enclosure temperatures
+- 1x Micro Servo 9G Servo Motor (SG90/MG90)
 - 2x M3x8mm BHCS (for servo mount)
 - 2x M3x6mm BHCS (for brush holder mount)
 - 2x M2x10mm self tapping screws (optional: for snap in frame clip)
@@ -35,12 +35,12 @@ These have all been implemented in this public release.
 ## Hardware:
 
 Brush:
-https://www.amazon.co.uk/ALMOCN-Printer-Nozzle-Cleaning-Toothbrush/dp/B08XYMVNSG
+https://www.amazon.co.uk/gp/product/B08H8SXBKM
 https://www.aliexpress.com/item/4000801101276.html
 
 Servo:
-https://www.amazon.co.uk/AZDelivery-MG90S-Micro-Servo-Gearbox/dp/B086V3VP72
-https://www.aliexpress.com/item/32977425392.html
+https://www.amazon.co.uk/gp/product/B0972M7JN1
+https://www.aliexpress.com/item/1005001956791642.html
 
 ## Assembly:
 
@@ -152,3 +152,4 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 
 - 2022-05-04 First release
 - 2022-07-11 Added STEP CAD
+- 2022-07-25 Improved printability of STL parts
