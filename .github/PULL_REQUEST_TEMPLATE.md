@@ -15,7 +15,7 @@ to conform to the rules below are likely to be rejected.**
     * Folders and filenames shouldn't contain spaces. Only letters `a-z`, numbers `0-9`, underscores `_`, hyphens `-` and periods `.`
     * Primary color: `part_xyz.stl`
     * Accent color: `[a]_part_xyz.stl`
-    * Quantity, if more then one is needed: `part_xyz_x4.stl`
+    * Quantity, if more than one is needed: `part_xyz_x4.stl`
   * [ ] For each mod, add a small `README.md` file to its folder with a short description
     of what the mod accomplishes. This readme can be used to add pictures, give assembly
     instructions or specify a bill of materials if the mod requires additional hardware.
