@@ -8,7 +8,7 @@ The holes are the same size in the skirt so you can mount the G-Code Buttons by 
 
 Notes:  
 I didn't edit the backplate of the original design. I just used some side cutters and cut it out by hand.  
-It mounts the same way as the original using the inserts that melt into it.  
+It mounts the same way as the original using heatset inserts.  
 
 It also does not have the same shape as the original (there is no curve on the front face) that is just due to my lack in modelling experience.
 
