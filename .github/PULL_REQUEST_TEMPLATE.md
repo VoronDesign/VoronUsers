@@ -16,7 +16,7 @@ to conform to the rules below are likely to be rejected.**
     * Primary color: `part_xyz.stl`
     * Accent color: `[a]_part_xyz.stl`
     * Opaque color (Blocks light): `[o]_part_xyz.stl`
-    * Transparent color (Allows light): `[t]_part_xyz.stl`
+    * Clear/transparent color (Allows light): `[c]_part_xyz.stl`
     * Quantity, if more than one is needed: `part_xyz_x4.stl`
   * [ ] For each mod, add a small `README.md` file to its folder with a short description
     of what the mod accomplishes. This readme can be used to add pictures, give assembly
