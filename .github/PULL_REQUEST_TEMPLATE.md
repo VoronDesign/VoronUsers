@@ -12,7 +12,7 @@ to conform to the rules below are likely to be rejected.**
     Create a subfolder with your name, and place the mods in a subfolder with
     a descriptive name within that folder, e.g.: `/printer_mods/FHeilmann/flux_capacitor`
   * [ ] Folder and file naming:
-    * Folders and filenames shouldn't contain spaces. Only letters `a-z`, numbers `0-9`, underscores `_`, hyphens `-` and periods `.`
+    * Folders and filenames shouldn't contain spaces. Only letters `a-zA-Z`, numbers `0-9`, underscores `_`, hyphens `-` and periods `.`
     * Primary color: `part_xyz.stl`
     * Accent color: `[a]_part_xyz.stl`
     * Opaque color (Blocks light): `[o]_part_xyz.stl`
