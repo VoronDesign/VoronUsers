@@ -24,7 +24,7 @@ First just insert GE5C bearing , it should just pop in
 
 ![1](Images/3.png) 
 
-Now if you are using the "No Endstops" version you need 4 m3x16 screws per z joint, if you are using the endstop/halleffect version then you need 4 m3x20 per z joint.
+Now if you are using the "slim" version you need 4 m3x16 screws per z joint, if you are using the standard or hall effect version then you need 4 m3x20 per z joint.
 
 ![1](Images/4.png) 
 
@@ -38,17 +38,5 @@ Use an M5x20 BHCS and 1 m5x1mm washer and screw it into the gantry using a roll 
 ![1](Images/6.png) 
 
 This is how it should be assembled when all done
-
-
-
-### NOTE: To address the question on whether to use the offset or non-offset pieces
-
-* if you are building a new printer using the ge5c mod, then i recommend the offset parts
-
-* if you are just installing these in a currently built printer then the stock non-offset parts are fine
-
-
-
-
 
 
