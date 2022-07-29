@@ -9,3 +9,7 @@ So far only the 355 x 355 bed is supported. Feel free to use the same computatio
 ## Exclusions zones
 
 The exclusions zones are squares of 28mm x 28mm on the center of each magnets.
+
+## Results
+
+![bed_mesh](images/bed_mesh.png)
