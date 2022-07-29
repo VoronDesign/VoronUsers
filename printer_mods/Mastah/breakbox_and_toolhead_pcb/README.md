@@ -5,7 +5,9 @@
 This PCB is used as a breakbox to distribuate and concentrate all necessary wires into a single connector for the toolhead.*
 
 KiCAD files: [kicad](./KiCad/breakbox/)
+
 CAD files: [cad](./CAD/breakbox/)
+
 STLs files: [stl](./STL/breakbox/)
 
 ![breakbox](./Images/breakbox_pcb.png)
@@ -15,7 +17,9 @@ STLs files: [stl](./STL/breakbox/)
 This PCB is used against an afterburner to concentrate all wire in a single connector.
 
 KiCAD files: [kicad](./KiCad/toolhead/vanilla_afterburner/)
+
 CAD files: [cad](./CAD/toolhead/vanilla_afterburner/)
+
 STLs files: [stl](./STL/toolhead/vanilla_afterburner/)
 
 ![breakbox](./Images/toolhead_pcb.png)
