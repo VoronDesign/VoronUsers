@@ -12,6 +12,16 @@ STLs files: [stl](./STL/breakbox/)
 
 ![breakbox](./Images/breakbox_pcb.png)
 
+BOM:
+- JST-XH 4pin x 2
+- JST-XH 3pin x 2
+- JST-XH 2pin x 4
+- Molex Microfit 436500200 (or equivalent) x 3
+- Molex Microfit 430451800 (or equivalent) x 1
+- DIN clip x 1 [din clip](https://github.com/VoronDesign/Voron-2/blob/Voron2.4/STLs/Electronics_Bay/pcb_din_clip_x3.stl)
+- heat insert x 4
+- m3 x 8 SHCS
+
 ## Afterburner Toolhead
 
 This PCB is used against an afterburner to concentrate all wire in a single connector.
@@ -23,6 +33,19 @@ CAD files: [cad](./CAD/toolhead/vanilla_afterburner/)
 STLs files: [stl](./STL/toolhead/vanilla_afterburner/)
 
 ![breakbox](./Images/toolhead_pcb.png)
+
+BOM:
+- Resistor (ref CR0805-FX-1101ELF or equivalent) x 1
+- Red LED (ref 150302RS73100 or equivalent) x 1
+- Thermistor (ref NTCS0402E3104FHT or equivalent) x 1
+- Diode (ref BAS85,135 or equivalent) x 1
+- JST-XH 4pin x 1
+- JST-XH 3pin x 2
+- JST-XH 2pin x 2
+- Molex Microfit 436500200 (or equivalent) x 2
+- Molex Microfit 430451800 (or equivalent) x 1
+- m3 x 8 SHCS x 1
+- m3 x 25 SHCS x 1
 
 ## Images
 
