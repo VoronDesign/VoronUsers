@@ -47,6 +47,11 @@ BOM:
 - m3 x 8 SHCS x 1
 - m3 x 25 SHCS x 1
 
+## StealthBurner Toolhead
+
+Work in progress ! It should use the same breakbox and cable.
+So far I can't garanty yet.
+
 ## Images
 
 Final results
