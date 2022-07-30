@@ -1,5 +1,5 @@
 # Plug Panel Mod for Schurter CD44.1101.151
-Connection panel for Voron 2.4 with Schurter CD44.1101.151 power entry modul.
+Connection panel for Voron 2.4 with Schurter CD44.1101.151 power entry module.
 The panel has a LAN socket as well.
 
 ## The plug panel:
