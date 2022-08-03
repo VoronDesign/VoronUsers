@@ -27,14 +27,14 @@ M2 t-nut slot insert for frame mount | 1
 - Connect the two outer pin of the switch to an input pin on your board.
 
 ## Assembly
-Put the 7mm ball in the body in the rounded hole.
+1. Put the 7mm ball in the body in the rounded hole.
 Insert the microswitch with the lever facing outside see the [section picture](./images/FSSection.png)
 
-Insert the M2x10 Self tapping screw to secure the switch.
-Alternatively 
-you can print the [Switch Lock](./STL/Switch_Lock.stl) and insert 2 pieces of filament in the holes. Than use this to secure the switch.
+2. Insert the M2x10 Self tapping screw to secure the switch.
+_Alternatively_
+Print the [Switch_Lock.stl](./STL/Switch_Lock.stl) and insert 2 pieces of filament in the holes. Than use this to secure the switch.
 
-Mount on the frame using M2x8mm and M2 t-nut
+3. Mount on the frame using M2x8mm and M2 t-nut
 
 
 ## Firmware configuration
