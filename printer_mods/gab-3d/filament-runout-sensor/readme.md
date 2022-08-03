@@ -28,7 +28,7 @@ M2 t-nut slot insert for frame mount | 1
 
 ## Assembly
 1. Put the 7mm ball in the body in the rounded hole.
-Insert the microswitch with the lever facing outside see the [section picture](./images/FSSection.png)
+Insert the microswitch with the lever facing outside see the [section picture](./images/FS_section.png)
 
 2. Insert the M2x10 Self tapping screw to secure the switch.
 _Alternatively_
@@ -57,7 +57,7 @@ pause_on_runout: True
 
 This is a remix of this [head filament sensor](https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/LGX_Toolhead_Sensor) from Th3FalleN#9999 and the original Voron bowen retainer.
 
-![All needed](./images/FSall.png)
-![Mounted mod](./images/FSmount.png)
-![Mounted mod](./images/FSmount2.png)
-![CAD Section](./images/FSSection.png)
+![All needed](./images/FS_all.png)
+![Mounted mod](./images/FS_mount.png)
+![Mounted mod](./images/FS_mount2.png)
+![CAD Section](./images/FS_section.png)
