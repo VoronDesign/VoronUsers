@@ -1,4 +1,4 @@
-# Filament-Runout-Sensor
+# Filament Runout Sensor
 This is DIY filament runout sensor for Voron 2.4 and Trident
 
 This replaces standard bowen_retainer.stl.
