@@ -85,9 +85,11 @@ Wire to an end-stop or similar pin. Do _not_ connect to voltage, _only_ to pin a
 
 ## Klipper:
 
-I would recommend using the Filament Switch Sensor configuration [provided by AndrewEllis93](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/articles/useful_macros.md#my-pauseresume-macros-for-runouts-filament-swaps-and-manual-pauses)
+A simple configuration is available in this repo. Upload and include runoutunklicky.cfg in your printer.cfg and change the PIN definition to the one you chose on your MCU. The config file contains what is required to use a runout sensor, but it will only literally pause the machine and resume when prompted. To have the toolhead parked away from the print to an accessible place to change filament, implement one of the following examples in your klipper configuration:
 
-A simple alternative configuration is also available in this repo. Upload and include runoutunklicky.cfg in your printer.cfg and change the PIN definition to the one you chose on your MCU. The config file contains what is required to use a runout sensor, but make sure it isn't duplicating anything in your full klipper config. The M600 macro is included to provide a pause and resume function should the sensor trigger allowing a filament change. You may need or want to change this to suit your needs.
+- [AndrewEllis93](https://github.com/AndrewEllis93/Print-Tuning-Guide/blob/main/articles/useful_macros.md#my-pauseresume-macros-for-runouts-filament-swaps-and-manual-pauses)
+- [Mainsail](https://docs.mainsail.xyz/configuration#pause-resume-cancel)
+
 
 Test by inserting and removing filament. If it shows incorrectly in klipper add a ! in front of the PIN definition and test again.
 
