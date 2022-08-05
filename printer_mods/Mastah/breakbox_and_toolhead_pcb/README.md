@@ -65,12 +65,12 @@ BOM:
 - Thermistor (ref NTCS0402E3104FHT or equivalent) x 1
 - Diode (ref BAS85,135 or equivalent) x 1
 - JST-XH 4pin x 1
-- JST-XH 3pin x 2
-- JST-XH 2pin x 2
+- JST-XH 3pin x 1
+- JST-XH 3pin (Horizontal) x 1
+- JST-XH 2pin (Horizontal) x 2
 - Molex Microfit 436500200 (or equivalent) x 2
 - Molex Microfit 430451800 (or equivalent) x 1
-- m3 x 8 SHCS x 1
-- m3 x 25 SHCS x 1
+- m3 x 8 SHCS x 2
 
 ## Images
 
