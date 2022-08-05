@@ -32,7 +32,7 @@ CAD files: [cad](./CAD/toolhead/vanilla_afterburner/)
 
 STLs files: [stl](./STL/toolhead/vanilla_afterburner/)
 
-![breakbox](./Images/toolhead_pcb.png)
+![toolhead](./Images/toolhead_afterburner_pcb.png)
 
 BOM:
 - Resistor (ref CR0805-FX-1101ELF or equivalent) x 1
@@ -49,8 +49,28 @@ BOM:
 
 ## StealthBurner Toolhead
 
-Work in progress ! It should use the same breakbox and cable.
-So far I can't garanty yet.
+This PCB is used against a stealthburner to concentrate all wire in a single connector.
+
+KiCAD files: [kicad](./KiCad/toolhead/stealthburner/one_pcb/)
+
+CAD files: [cad](./CAD/toolhead/stealthburner/)
+
+STLs files: [stl](./STL/toolhead/stealthburner/)
+
+![toolhead](./Images/toolhead_stealthburner_pcb.png)
+
+BOM:
+- Resistor (ref CR0805-FX-1101ELF or equivalent) x 1
+- Red LED (ref 150302RS73100 or equivalent) x 1
+- Thermistor (ref NTCS0402E3104FHT or equivalent) x 1
+- Diode (ref BAS85,135 or equivalent) x 1
+- JST-XH 4pin x 1
+- JST-XH 3pin x 2
+- JST-XH 2pin x 2
+- Molex Microfit 436500200 (or equivalent) x 2
+- Molex Microfit 430451800 (or equivalent) x 1
+- m3 x 8 SHCS x 1
+- m3 x 25 SHCS x 1
 
 ## Images
 
@@ -61,3 +81,8 @@ Final results
 ![PCB](./Images/preview_02.png)
 ![PCB](./Images/preview_03.png)
 ![PCB](./Images/preview_04.png)
+![PCB](./Images/preview_05.png)
+![PCB](./Images/preview_06.png)
+![PCB](./Images/preview_07.png)
+![PCB](./Images/preview_08.png)
+![PCB](./Images/preview_09.png)
