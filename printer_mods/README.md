@@ -160,6 +160,7 @@ like so:
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
 | | [LGX Info, Links, and Models](./geoffreyyoung/lgx) | Useful information and models for using the Bondtech LGX extruder wth Afterburner| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
+| | [Extended Voron 2.4 Waveshare 4.3" DSI LCD Mount](./GiulianoM/Extended-Voron-v2.4-Waveshare-4.3Inch-DSI-LCD-Mount) | Extended version of the [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) mod by jeoje. | :x: | :grey_question: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
 | Golas | [V0.1 Extended tophat hinge](./golas/v0-extended-tophat-hinge)| Extended tophat for v0.1 with hinges (integrated or screwed ones). | :heavy_check_mark: | :x: | :x: | :x: | :x: |
