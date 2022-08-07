@@ -62,3 +62,7 @@ This mod mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waves
 4. Slide the faceplate up until it is flush to the extrusion
 5. Optional: Secure the faceplate with (2) 2 x 10 self tapping screws through the tabs on each side
 6. Connect your DSI cable
+
+## Modded Versions
+
+* [Extended Voron v2.4 Waveshare 4.3" DSI LCD Mount](../../../printer_mods/GiulianoM/Extended-Voron-v2.4-Waveshare-4.3Inch-DSI-LCD-Mount/) - Extended the LCD mount forwards by 20mm to clear a 2020 extrusion door frame. Added by permission of jeoje. @GiulianoM#2008
