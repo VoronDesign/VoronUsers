@@ -3,10 +3,10 @@ Remix of [Andre's](https://github.com/VoronDesign/VoronUsers/tree/master/printer
 
 This will fit up to 4 nozzles, and uses the '300mm' part from Andre's design, unmodified.
 
-![CAD View 1](/Images/Revo%20Nozzle%20Holder%20-%20v2%20350%20v3.png)
-![CAD View 2](/Images/Revo%20Nozzle%20Holder%20-%20v2%20350%20v4.png)
-![Installed Open](/Images/IMG_0557.jpg)
-![Installed Closed](/Images/IMG_0558.jpg)
+![CAD View 1](baccula/revo_skirt_nozzle_holder/Images/Revo%20Nozzle%20Holder%20-%20v2%20350%20v3.png)
+![CAD View 2](baccula/revo_skirt_nozzle_holder/Images/Revo%20Nozzle%20Holder%20-%20v2%20350%20v4.png)
+![Installed Open](baccula/revo_skirt_nozzle_holder/Images/IMG_0557.jpg)
+![Installed Closed](baccula/revo_skirt_nozzle_holder/Images/IMG_0558.jpg)
 
 # Bill Of Materials
 
