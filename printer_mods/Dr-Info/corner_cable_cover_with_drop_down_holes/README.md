@@ -12,7 +12,7 @@ Check your max Z travel as there will be some loss.
   * No supports needed
 
 ### BOM
-
+* QTY per cover
 Size | Qty
 --- | ---
 M3x8 | 2
