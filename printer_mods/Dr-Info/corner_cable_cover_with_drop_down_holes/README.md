@@ -15,8 +15,8 @@ Check your max Z travel as there will be some loss.
 
 Size | Qty
 --- | ---
-M3x8 | 4
-M3 T-Nut | 4
+M3x8 | 2
+M3 T-Nut | 2
 
 ![Top Corner Cable Cover](Images/top_corner_cable_cover_with_drop_holes_front.JPG)
 
