@@ -13,6 +13,7 @@ STLs files: [stl](./STL/breakbox/)
 ![breakbox](./Images/breakbox_pcb.png)
 
 BOM:
+- `Resistor (ref CR0805-FX-33R0ELF or equivalent 33ohm) x 1` **OR (not both)** `Resistor (ref CR0805-FX-2490ELF or equivalent 249ohm) x 1`
 - JST-XH 4pin x 2
 - JST-XH 3pin x 2
 - JST-XH 2pin x 4
@@ -35,7 +36,7 @@ STLs files: [stl](./STL/toolhead/vanilla_afterburner/)
 ![toolhead](./Images/toolhead_afterburner_pcb.png)
 
 BOM:
-- Resistor (ref CR0805-FX-1101ELF or equivalent) x 1
+- Resistor (ref CR0805-FX-1101ELF or equivalent 1100ohm) x 1
 - Red LED (ref 150302RS73100 or equivalent) x 1
 - Thermistor (ref NTCS0402E3104FHT or equivalent) x 1
 - Diode (ref BAS85,135 or equivalent) x 1
