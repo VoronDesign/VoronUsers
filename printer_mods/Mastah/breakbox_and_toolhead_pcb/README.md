@@ -59,6 +59,12 @@ STLs files: [stl](./STL/toolhead/stealthburner/)
 
 ![toolhead](./Images/toolhead_stealthburner_pcb.png)
 
+![stealthburner](./Images/stealthburner_02.jpg)
+![stealthburner](./Images/stealthburner_05.jpg)
+![stealthburner](./Images/stealthburner_06.jpg)
+![stealthburner](./Images/stealthburner_08.jpg)
+
+
 BOM:
 - Resistor (ref CR0805-FX-1101ELF or equivalent) x 1
 - Red LED (ref 150302RS73100 or equivalent) x 1
