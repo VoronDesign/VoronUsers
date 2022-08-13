@@ -404,3 +404,4 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| Eytecz | [LGX Lite Stealthburner CW2 style mount](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount/tree/main) | Mount for LGX Lite in the style of the CW2 | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
