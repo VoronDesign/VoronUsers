@@ -142,6 +142,7 @@ like so:
 | | [Mounts for BTT Filament Motion Sensor](./Empusas/BTT_Filament_Motion_Sensor_Mount) | Mounts for Big Tree Tech Smart Filament Motion Sensor | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | evandepol | [Crydom GN Terminal Guard](./evandepol/Crydom-GN-Guard) | A simple safety guard for the terminals on a Crydom GN SSR | :x: | :x: | :heavy_check_mark: |:x:|
 |  | [Voron 2.4 cable clamps](./evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring on your build | :x: | :x: | :heavy_check_mark: |:x:|
+| Eytecz | [LGX Lite Stealthburner CW2 style mount](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount/tree/main) | Mount for LGX Lite in the style of the CW2 | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | falo | [Magnetic Exhaust Grill Cover](./falo/magnetic_grill_cover) | A magnetic cover to seal the filtered exhaust | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Toolhead PCB to CAN Mount Adaptor](./falo/toolhead_pcb_to_can) | A mount to enable side mounting of a CAN board (Huvud/SHT42) in Afterburner PCB spacing | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [LGX Lite CAN Side Mount](./falo/lgx_lite_side_can) | A side mounting for a CAN board (Huvud/SHT42) to the LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -404,4 +405,3 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
-| Eytecz | [LGX Lite Stealthburner CW2 style mount](https://github.com/Eytecz/LGX_Lite_Stealthburner_CW2_style_mount/tree/main) | Mount for LGX Lite in the style of the CW2 | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
