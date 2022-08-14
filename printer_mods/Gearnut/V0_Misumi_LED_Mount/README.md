@@ -14,7 +14,7 @@ Assembly is fairly straight forward. Solder directly to the LED strip or solder 
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Install_3.jpg)
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Install_4.jpg)
 
-You will need 5 per side and standard voron print settings are probably overkill for these but its what I used. For install on a stock V0 simply remove the rail and slide inside. Fitment for me was tight and the rails did shave a little bit off the mounting points. This was intentional to make it as tight as possible.
+You will need 5 per side and standard voron print settings are probably overkill for these but its what I used. For install on a stock V0 simply remove the extrusion and slide inside. Fitment for me was tight and the extrusion did shave a little bit off the mounting points. This was intentional to make it as tight as possible.
 
 These did go through several variations and attempts with Tinkercad to get right but I hope you enjoy them!
 
