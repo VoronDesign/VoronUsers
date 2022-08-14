@@ -12,8 +12,8 @@ I used the SB 1.05Beta during development. But it should work on the SB v1 relea
 
 ## Preview of how CR Touch Fits in the SB X rail carraige:
 
-![Full View](/images/SB_CR_FullView.png)
+![Full View](./images/SB_CR_FullView.png)
 
-![Exploded View](/images/SB_CR_Exploded.png)
+![Exploded View](./images/SB_CR_Exploded.png)
 
 ### Thanks to Voron Developers for building rocket making tools
