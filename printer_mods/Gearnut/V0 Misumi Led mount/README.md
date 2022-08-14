@@ -4,4 +4,4 @@ These were modified from the Misumi Led mounts as I like the design with them in
 
 You will need 5 per side and standard voron print settings are probably overkill for these but its what I used. 
 
-https://github.com/GearNut/VoronUsers/blob/a652ab7a207fdc37342deb0bed504be3f06f9de3/printer_mods/Gearnut/V0%20Misumi%20Led%20mount/20220813_184942.jpg
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0%20Misumi%20Led%20mount/20220813_184942.jpg"Optional title")
