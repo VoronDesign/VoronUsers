@@ -1,6 +1,6 @@
 # Printable quick release latch for panels on 2020 extrusion
 
-*I wouldn't say no to a like an make on printables if you're that way inclined -
+*I wouldn't say no to a like and a make on printables if you're that way inclined -
 https://www.printables.com/model/172368-voron-24-filament-latch-or-any-2020-extrusion*
 
 ## Intro
