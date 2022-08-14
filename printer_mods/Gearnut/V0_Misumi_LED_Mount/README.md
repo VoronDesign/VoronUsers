@@ -1,12 +1,24 @@
 V0 Misumi Led mount
 
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_202217.jpg)
+
 These were modified from the Misumi Led clips(https://www.teamfdm.com/files/file/338-misumi-led-corners/) as I like the design with them in my V2.4 They should fit most WS2812b Led strips you can find online though If it has the silicone cover on them you may need to peel them off or file down the inside track a touch.
 
 I did include both the extended version I have tested and use personally as well as the shorter version If youre LED strip as more LEDs per meter than mine did, while it will print and install just fine they are as of now untested.
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Screenshot%202022-08-13%20202113.png)
 
-Assembly is fairly straight forward. Solder directly to the LED strip or solder on a JST connector to the end and slide the strip inside. If your leds come with a clear silicone layer over the top you may need to peel it off the strip or file down the insides of the led tracks though bare pcb backed LEDs should fit in snugly. 
+Assembly is fairly straight forward. Solder directly to the LED strip or solder on a JST connector to the end and slide the strip inside. If your leds come with a clear silicone layer over the top you may need to peel it off the strip or file down the insides of the led tracks, the bare pcb backed LEDs should fit in snugly. 
 
-You will need 5 per side and standard voron print settings are probably overkill for these but its what I used. For install on a stock V0 simply remove the rail and slide inside. Fitment for me was very tight and the rails did shave a little bit off the mounting points. This was intentional to make it as tight as possible.
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_201610.jpg)
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_201644.jpg)
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_201719.jpg)
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_201739.jpg)
+
+You will need 5 per side and standard voron print settings are probably overkill for these but its what I used. For install on a stock V0 simply remove the rail and slide inside. Fitment for me was tight and the rails did shave a little bit off the mounting points. This was intentional to make it as tight as possible.
+
+These did go through several variations and attempts with Tinkercad to get right but I hope you enjoy them!
+
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Screenshot%202022-08-13%20202113.png)
 
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_184947.jpg)
 
