@@ -18,7 +18,7 @@ You will need 5 per side and standard voron print settings are probably overkill
 
 These did go through several variations and attempts with Tinkercad to get right but I hope you enjoy them!
 
-![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Screenshot%202022-08-13%20202113.png)
+![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Screenshot%202022-08-13%20195751.png)
 
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/20220813_184947.jpg)
 
