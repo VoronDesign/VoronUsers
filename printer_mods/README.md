@@ -308,6 +308,7 @@ like so:
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |Polar-Ted|[V0.1 Two Piece Back Panel](./Polar-Ted/V0_Two_Piece_Back_Panel/) | Vented 2 piece back panel for V0 |:heavy_check_mark: |:x: |:x: |:x:|
+| |[V0.1 Z nozzle endstop switch](./Polar-Ted/V0.1_Its_Not_a_Sexbolt_switch/) | Sexbolt style switch for V0 |:heavy_check_mark: |:x: |:x: |:x:|
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: |
 | PsychoShaft | [C92X_PsycHoShafts_Mount](./PsychoShaft/C92X_PsycHoShafts_Mount) | 2020 Top profile 920 camera mount / 2 point axis pivot | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |QuackProfit|[V0 Adafruit NeoPixel LED Mounts](./QuackProfit/V0-Adafruit-Y_Rails) | Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions | :heavy_check_mark:|:x:|:x:|:x:|
