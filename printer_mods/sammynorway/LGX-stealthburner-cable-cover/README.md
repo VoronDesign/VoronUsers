@@ -1,6 +1,7 @@
 # LGX stealthburner cable cover
 
-I did not find any cabel cover that fit stealtburner with LGX so I redesign [craxoor](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover) Afterburner Toolhead PCB Cover.
+I was searching for connector cover that could fit my stealthburner LGX toolhead.
+I could not find a cover that would fit my toolhead, so I redesigned [craxoor](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover) Afterburner PCB Cover. 
 
 ![alt text](./Images/Preview-front.png)
 ![alt text](./Images/Preview-back.png)
