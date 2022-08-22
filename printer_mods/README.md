@@ -193,7 +193,7 @@ like so:
 | jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
-| jatson | [Plug panel mod for Schurter CD44.1101.151 power entry](./jatson/plug_panel_schurter) | A modified plug panel for Voron 2.4 with Schurter CD44.1101.151 power entry modul. The panel has a LAN socket as well. | :x: | :grey_question: | :heavy_check_mark: | :x: |:x:|
+| jatson | [Plug panel mod for Schurter CD44.1101.151 power entry](./jatson/plug_panel_schurter) | A modified plug panel for Voron 2.4r1 with Schurter CD44.1101.151 power entry modul. The panel has a LAN socket as well. | :x: | :grey_question: | :heavy_check_mark: | :x: |:x:|
 | jaysuk | [4.3 Fly Screen Mount](./jaysuk/4.3_fly_screen_mount) | A mount for a 4.3" Fly Screen | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 |JD |[V2.4 Filament runout sensor](./JD/RefillPlease) | Replace the 2.4 stock bowden tube holder and add a filament runout sensor  | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
