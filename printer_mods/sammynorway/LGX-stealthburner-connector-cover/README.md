@@ -1,8 +1,7 @@
 # LGX stealthburner connector cover
 
-I was searching for connector cover that could fit my stealthburner LGX toolhead.
-I could not find a cover that would fit my toolhead, so I redesigned [craxoor](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover) Afterburner PCB Cover. 
+This is a remix of [craxoor's Afterburner PCB Cover](https://github.com/craxoor/VoronMods/tree/master/PCB%20Cover) designed to work with the Stealthburner and Bondtech's LGX Extruder. 
 
-![alt text](./Images/Preview-front.png)
-![alt text](./Images/Preview-back.png)
-![alt text](./Images/LGX_Stealthburner_connectorCover.png)
+![Front view connector cover](./Images/Preview-front.png)
+![Back view connector cover](./Images/Preview-back.png)
+![Stealthburner with connector cover](./Images/LGX_Stealthburner_connectorCover.png)
