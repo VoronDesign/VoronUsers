@@ -9,3 +9,6 @@ The airflow pattern is designed and tested for the high-flow version. Here it is
 ![View Through](images/render.png)
 
 
+In action:
+![In Action](images/pic2.jpg)
+
