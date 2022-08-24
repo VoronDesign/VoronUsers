@@ -4,9 +4,9 @@ It is also important to note that the linear rails for Z motion (the ones the be
 
 The X Carriage design originated from the Micron and was adapted to align with my vision for this project. All credit for the original design goes to those that worked on this project: https://github.com/PrintersForAnts/Micron
 
-![Image of Stealth Zero Gantry](https://github.com/MasturMynd/VoronUsers/blob/master/printer_mods/mastur_mynd/Stealth_Zero/Images/Carriage_Endstops_Right_Front.png)
+![Image of Stealth Zero Gantry](../Images/Carriage_Endstops_Right_Front.png)
 
-![Image of Stealth Zero Gantry](https://github.com/MasturMynd/VoronUsers/blob/master/printer_mods/mastur_mynd/Stealth_Zero/Images/Carriage_Endstops_Left_Rear.png)
+![Image of Stealth Zero Gantry](../Images/Carriage_Endstops_Left_Rear.png)
 
 BOM
 ---
