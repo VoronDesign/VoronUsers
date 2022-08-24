@@ -1,8 +1,8 @@
 The design of these front mounted tensioners prevents the use of the stock tophat lower corners. As such, modified lower corners are included here with a matching aesthetic.
 
-![Image of Stealth Zero Gantry](https://github.com/MasturMynd/VoronUsers/blob/master/printer_mods/mastur_mynd/Stealth_Zero/Images/V0.1-B_Tensioner_Inner_Rear.png)
+![Image of Stealth Zero Gantry](../Images/V0.1-B_Tensioner_Inner_Rear.png)
 
-![Image of Stealth Zero Gantry](https://github.com/MasturMynd/VoronUsers/blob/master/printer_mods/mastur_mynd/Stealth_Zero/Images/V0.1-B_Tensioner_Outer_Front.png)
+![Image of Stealth Zero Gantry](../Images/V0.1-B_Tensioner_Outer_Front.png)
 
 BOM
 ---
