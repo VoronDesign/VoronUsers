@@ -1,4 +1,4 @@
-![Image of Stealth Zero Gantry](https://github.com/MasturMynd/VoronUsers/blob/master/printer_mods/mastur_mynd/Stealth_Zero/Images/V0.1-B_Motor_Inner_Front.png)
+![Image of Stealth Zero Gantry](../Images/V0.1-B_Motor_Inner_Front.png)
 
 BOM
 ---
