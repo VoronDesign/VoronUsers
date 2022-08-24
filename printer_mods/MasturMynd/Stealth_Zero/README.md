@@ -2,7 +2,7 @@ Stealth Zero
 ---
 A low poly gantry mod for the Voron V0.1
 
-![Image of Stealth Zero Gantry](https://github.com/MasturMynd/VoronUsers/blob/master/printer_mods/mastur_mynd/Stealth_Zero/Images/V0.1-Complete_Gantry.png)
+![Image of Stealth Zero Gantry](./Images/V0.1-Complete_Gantry.png)
 
 In anticipation of the Mini Stealthburner I decided to alter the design of the V0.1 gantry to match the low poly aesthetic.
 
