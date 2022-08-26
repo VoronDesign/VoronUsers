@@ -3,7 +3,7 @@
 
 # Decontaminator Purge Bucket & Nozzle Scrubber V2
 
-I have decided to take on this project! I hope to add support for the kinematic bed mount for the V2 and VT soon. In the meantime, feel free to send me other suggestions regarding the project that would like to see. HMU on Discord!
+I have decided to take on this project! I hope to add support for the kinematic bed mount for the V2 and VT soon. In the meantime, feel free to send me other suggestions regarding the project that would like to see. Much credit to edwardyeeks (edwardyeeks#6042) for getting the ball rolling. HMU on Discord!
 
 -Dom Dell Computer#0675
 
@@ -59,7 +59,3 @@ In Rev1+2, the brush holder was available as two options: a regular holder and o
 ![Revision_Comparisons](./Images/rev3_rev4_comparison.png)
 
 V1.8 support was added in this revision. Due to screw distances changing in V1.8 to allow clearance from the rear electronics panel, I made the decision to have this change apply to the V2 versions so that one part can be used across V1 and V2. This would minimise hunting for specific parts for each specific printer. However, this means that only the individual_sheetstop carries over from previous revisions (purge bucket dimensions have changed as well).
-
-Future revisions may include the use of a silicone brush that is gentler on plated nozzles. Come back for updates!
-
--edwardyeeks (edwardyeeks#6042)
