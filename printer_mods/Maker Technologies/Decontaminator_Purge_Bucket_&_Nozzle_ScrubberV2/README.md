@@ -1,4 +1,4 @@
-<img align="right" width="600" height="752" src="Images/logo.png">
+<img align="right" width="300" height="376" src="Images/logo.png">
 
 # Decontaminator Purge Bucket & Nozzle Scrubber V2
 
