@@ -413,3 +413,5 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| Maker Technolgies | [Decontaminator_Purge_Bucket_&_Nozzle_ScrubberV2](./xbst/Decontaminator_Purge_Bucket_%26_Nozzle_ScrubberV2) | Revival of the purge bucket and nozzle cleaner mod for compatibility with current porjects | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :grey_question: |
+
