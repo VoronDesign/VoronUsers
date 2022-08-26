@@ -1,7 +1,11 @@
 <div style="text-align: right"><sub>A Team Dropbear Production</sub></div>
 <img align="right" width="100" height="100" src="Images/db.png">
 
-# Decontaminator Purge Bucket & Nozzle Scrubber
+# Decontaminator Purge Bucket & Nozzle Scrubber V2
+
+I have decided to take on this project! I hope to add support for the kinematic bed mount for the V2 and VT soon. In the meantime, feel free to send me other suggestions regarding the project that would like to see. HMU on Discord!
+
+-Dom Dell Computer#0675
 
 This is a removable purge bucket with a nozzle scrubber. It is compatible with Voron 1.8 and Voron 2 printers (v2.4, v2.2 and v2.1). I noticed that the current nozzle scrubber design of the Voron was not very effective at containing filament debris and bits.
 
