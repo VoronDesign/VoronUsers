@@ -1,5 +1,4 @@
-<div style="text-align: right"><sub>A Team Dropbear Production</sub></div>
-<img align="right" width="1200" height="1305" src="Images/logo.png">
+<img align="right" width="600" height="752" src="Images/logo.png">
 
 # Decontaminator Purge Bucket & Nozzle Scrubber V2
 
