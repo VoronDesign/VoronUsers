@@ -259,7 +259,7 @@ like so:
 |Mac10goesBRRRT| [PiTFT Mount](./Mac10goesBRRRT/BTT_PiTFT) | Mount for the BTT PiTFT Touchscreen |:x:|:grey_question:|:heavy_check_mark:|:grey_question:|:heavy_check_mark:|
 |Majarspeed| [Hartk board mount galileo](./Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | :x: | :x: | :heavy_check_mark: | :x: |
 |MakeALeft| [Switchwire Clean Center Grill](./MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | :x: | :x: | :x: | ✔️ | :x:
-| Maker Technolgies | [Decontaminator_Purge_Bucket_&_Nozzle_ScrubberV2](./xbst/Decontaminator_Purge_Bucket_%26_Nozzle_ScrubberV2) | Revival of the purge bucket and nozzle cleaner mod for compatibility with current porjects | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :grey_question: |
+| Maker Technolgies | [Decontaminator_Purge_Bucket_&_Nozzle_ScrubberV2](./Decontaminator_Purge_Bucket_%26_Nozzle_ScrubberV2) | Revival of the purge bucket and nozzle cleaner mod for compatibility with current porjects | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :grey_question: |
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
