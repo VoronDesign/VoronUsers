@@ -1,1 +1,0 @@
-STLs of Left Panel

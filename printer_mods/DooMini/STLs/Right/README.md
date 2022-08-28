@@ -1,1 +1,0 @@
-Stls of RIght Panel
