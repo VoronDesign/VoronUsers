@@ -49,9 +49,11 @@ Just press keys into the clips. Align keys with slots in aluminum extrusions, pu
 
 In case one of included thicknesses is too tight and the next is too lose, please feel free to create a custom set of clips.
 Included .step file has all the clips for 5mm panel thickness. It is the dimension between 2 surfaces: one that contacts the frame and one that contacts the panel:
+
 ![](./images/dimension.png)
 
 Since overall thickness of the clip is critical for the key fitment, the easiest way to adjust the thickness is to raise the surface that pushes on the panel:
+
 ![](./images/customize.png)
 
 Raise the surface by (5 - desired_thicness).
