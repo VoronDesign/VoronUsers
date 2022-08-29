@@ -10,6 +10,8 @@ This box can use nevermore carbon pellet.
 
 STLs files: [stl](./stl/)
 
+CADs files: [cad](./cad/)
+
 Gerber files (option PCB): [kicad](./kicad/the_bad_breath_fan_pcb/fan_pcb/gerbers_fan_pcb/gerbers_fan_pcb.zip)
 
 BOM:
