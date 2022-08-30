@@ -1,5 +1,5 @@
 # Revo Nozzle Holder v2.4 350mm
-Remix of [Andre's](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Andre/Revo_Nozzle_Skirt_Trident) skirt-mounted nozzle holder to fit Voron 2.4 350mm printers, the BOM and installation steps are the same.
+Remix of [Andre's](../../Andre/Revo_Nozzle_Skirt_Trident) skirt-mounted nozzle holder to fit Voron 2.4 350mm printers, the BOM and installation steps are the same.
 
 This will fit up to 4 nozzles, and uses the '300mm' part from Andre's design, unmodified (even though this uses the 300mm part from the Trident, it will only fit the 350mm v2 due to differences in skirt design).
 
