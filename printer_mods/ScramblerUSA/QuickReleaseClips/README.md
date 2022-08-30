@@ -38,9 +38,19 @@ For top panel you will need:
 
 where xxx is the combined width of your panel and a foam tape.
 
-## Assembly
+Also included are slightly shorter and slightly longer versions of the key:
+[a]_key_s2.stl - 0.2mm shorter
+[a]_key_s4.stl - 0.4mm shorter
+[a]_key_l2.stl - 0.2mm longer
+[a]_key_l4.stl - 0.4mm longer
 
-Just press keys into the clips. Align keys with slots in aluminum extrusions, push the clip in and turn the keys 1/4 turn clockwise.
+If your clip feels too loose - use the shorter key. If you clip is too tight (the key doesn't turn) - use the longer version.
+
+
+## Assembly and installation
+
+Just press keys into the clips. Align keys with slots in aluminum extrusions, push the clip in and turn the keys 1/4 turn clockwise. Turn the keys 1/4 turn counter-clockwise to release.
+
 
 ![](./images/voron.jpg)
 
