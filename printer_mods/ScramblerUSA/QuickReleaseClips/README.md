@@ -4,11 +4,11 @@ Voron-style panel clips inspired by Annex-Engineering Denali printer's clips (ht
 
 ![](./images/clips.jpg)
 
-I found Denali's clips too bulky and not really fitting to the overall style of Voron printer, so I designed these.
+I really liked the idea of Denali's clips, but found them too bulky and not really fitting to the overall style of Voron printer, so I designed these.
 
 ## Parts Required
 
-None! You can even free up a few M8 screws and hammerhead nuts you are currently using.
+None! You can even free up a few M3x8 screws and hammerhead nuts you are currently using.
 
 ## Printing
 
