@@ -1,39 +1,3 @@
-# Heading
-## Heading 2
-### Heading 3
-
-*This text* is italic
-
-_This text_ is italic too
-
-**This text** is strong
-
-__This text__ is strong too
-
-Line separator
-
----
-
-> This is a quote
-
-[This is a link](https://www.google.be/ "Link title")
-
-* Item 1
-* Item 2
-    * Item 3
-    * Item 3b
-
-1. Item 1
-1. Item 2
-1. Item 3
-
-`Code block`
-
-![Picture](http://markdown-here.com/img/icon256.png)
-
-
-
-
 # PCB for Voron Stealthburner & Bondtech LGX
 
 This mod is a custom 2-piece PCB design, as well as a few printed parts, to make the Bondtech LGX fully compatible with the Voron Stealthburner.
