@@ -15,7 +15,7 @@ I feel like it is worth mentioning that this mod is in active development. I've 
 Included in this mod are:
 * Front mounted belt tensioners - These can be used to allow for additional tension adjustment in combination with the stock motor tensioners of the V0.1 or in conjuction with the rest of the items available in this mod for a full stealth look.
 * Optional front mounted X rail - The use of the motor mounts included in this repo are required to maintain the full 120mm of Y travel. A custom designed, adustable Y endstop mount is included in the folder containing the X carriage.
-* Tooless motor caps - I can't be the only one that's dropped something into the motors, right?
+* Toolless motor caps - I can't be the only one that's dropped something into the motors, right?
 
 BOM (WIP)
 ---
