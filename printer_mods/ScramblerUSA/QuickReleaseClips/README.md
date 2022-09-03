@@ -30,6 +30,8 @@ For back panel you will need:
 * 2x clip_xxx_corner_b.stl
 * 3x clip_xxx_midspan.stl
 * 11x [a]_key.stl
+* 1x [a]_exhaust_filter_mount_a.stl
+* 1x [a]_exhaust_filter_mount_b.stl
 
 For top panel you will need:
 * 4x clip_xxx_corner_top.stl
