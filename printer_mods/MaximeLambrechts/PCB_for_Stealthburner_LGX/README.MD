@@ -11,10 +11,11 @@ I really like the 2-piece PCB design by Hartk, with which you just plug the stea
 
 Instead of trying to source different parts from different mods and make them all compatible with each other, I decided to create this mod and design 2 new PCB's (one for the stealthburner, one on the LGX), as well as the printed parts required to have a fully completed Stealthburner + LGX, as cleanly assembled as possible.
 
-<img src="Pictures/LGX Mod.jpg" width="800" /><br />
-<img src="Pictures/LGX PCB.jpg" width="400" /><img src="Pictures/SB PCB.jpg" width="400" />
+<img src="Pictures/LGX_Mod.jpg" width="800" />
 
-<br /> 
+<img src="Pictures/LGX_PCB.jpg" width="400" /><img src="Pictures/SB_PCB.jpg" width="400" />
+
+
 
 [1. Bill of Materials (BOM)](#1-bill-of-materials)
 
@@ -26,7 +27,7 @@ Instead of trying to source different parts from different mods and make them al
 
 [5. Feedback](#5-feedback)
 
-<br /> 
+
 
 # 1. Bill of Materials (BOM)
 
@@ -69,7 +70,7 @@ Other
 * 1x Small PTFE tube (2mm ID x 4mm OD) (length varies depending on your hotend. See assembly instructions).
 * Small zipties
 
-<br /> 
+
 
 # 2. Ordering PCBs
 
@@ -89,7 +90,7 @@ The SB PCB should be a **2-layer board of 1.6mm thickness**.
 
 Other parameters are personal preference, like the color of the board, or if you want lead-free HASL for example.
 
-<br /> 
+
 
 # 3. Printed parts
 
@@ -102,7 +103,7 @@ points have been modified.)
 * **Cover.stl**
 * **Cable_Chain_Anchor_xHoles..stl** (Chose either the 2 or 3-hole version depending on your cable chain)
 
-<br /> 
+
 
 # 4. Assembly Instructions
 
@@ -112,205 +113,174 @@ to these instructions, as I will often refer to it.
 ## Preparing the PCBs
 
 * Solder the components on the LGX pcb as shown on the picture. Make sure the 6-pin socket lays nice and flat on the PCB and is soldered straight. This is important for correct connection with the stealthburner later on.
-<br />
+
 <img src="Pictures/Assembly/PCB/1.jpg" width="400" />
-<br />
-<br />
+
 
 * If you're not using an inductive probe (for example Klicky or KlickyNG mod with microswitch), replace the BAT85 diode by a small piece
 of wire to short the pads. A leg from a donor component (LED or resistor for example) works well here.
-<br />
-<img src="Pictures/Assembly/PCB/2.jpg" width="400" />
-<br />
-<br />
 
-* Install a 10mm standoff using an M3x6 button head screw.<br /> 
-Make sure the screw head **does not stick out more than 2mm
-from the PCB**.<br /> 
+<img src="Pictures/Assembly/PCB/2.jpg" width="400" />
+
+
+* Install a 10mm standoff using an M3x6 button head screw.
+Make sure the screw head **does not stick out more than 2mm from the PCB**.
 Make sure **no solder points stick out more than 2mm**. (to avoid touching and potentially shorting on the LGX extruder motor later on)
-<br />
+
 <img src="Pictures/Assembly/PCB/3.jpg" width="400" /><img src="Pictures/Assembly/PCB/4.jpg" width="400" />
-<br />
-<br />
+
 
 * Solder a 6-pin header to the SB PCB. The pins should face up.
-<br />
+
 <img src="Pictures/Assembly/PCB/5.jpg" width="400" />
-<br />
-<br />
+
 
 ## Stealthburner
 
 * Follow the original manual instructions to install the LED's and fans into the stealthburner body. Leave the cables hanging for now.
-<br />
-<img src="Pictures/Assembly/Stealthburner/1.jpg" width="250" />
-<br />
-<br />
 
-* Install the PCB into the SB body and fasten with 2 M3x6 button head screws.<br />
+<img src="Pictures/Assembly/Stealthburner/1.jpg" width="250" />
+
+
+* Install the PCB into the SB body and fasten with 2 M3x6 button head screws.
 **Warning**: Do not overtighten as these screw into plastic.
-<br />
+
 <img src="Pictures/Assembly/Stealthburner/2.jpg" width="400" />
-<br />
-<br />
+
 
 * Make sure the screws do not stick out of the SB body, or there would be a clearance issue with the LGX. (That's the reason why button head screws are used here instead of socket head)
-<br />
+
 <img src="Pictures/Assembly/Stealthburner/3.jpg" width="400" />
-<br />
-<br />
+
 
 * Solder all the wires onto the PCB as shown on the picture below. Note: The red (positive) wire of both fans can be soldered to either 24V or 5V 
 depending on the voltage of your fans.
-<br />
+
 <img src="Pictures/Assembly/Stealthburner/4.jpg" width="400" />
-<br />
-<br />
+
 
 ## Printhead
 
 * Follow the stealthburner manual to assemble the printhead. You can print either the CW1 or CW2 version of the printed parts.
-<br />
+
 <img src="Pictures/Assembly/Printhead/1.jpg" width="250" />
-<br />
-<br />
+
 
 * Install the PTFE tube into the hotend. The length of the tube will vary depending on your hotend. The tube should stick out **25mm** from the top of the printed part.
-<br />
+
 <img src="Pictures/Assembly/Printhead/2.jpg" width="400" />
-<br />
-<br />
+
 
 ## LGX
 
-* Install 2 heat set inserts into the LGX Mount as shown.<br />
+* Install 2 heat set inserts into the LGX Mount as shown. 
 Install 2 (or 3) heat set inserts into the cable chain anchor as shown.
-<br />
+
 <img src="Pictures/Assembly/LGX/1.jpg" width="400" /><img src="Pictures/Assembly/LGX/2.jpg" width="400" />
-<br />
-<br />
+
 
 * dissasemble the front part of your LGX extruder.
-<br />
+
 <img src="Pictures/Assembly/LGX/3.jpg" width="400" />
-<br />
-<br />
+
 
 * On the backside, remove the 2 left screws.
-<br />
+
 <img src="Pictures/Assembly/LGX/4.jpg" width="400" />
-<br />
-<br />
+
 
 * Slide the LGX_Mount onto the LGX extruder and fasten with 2 M3x20 on the bottom and two M3x27 (original screws from LGX) on the front.
-<br />
+
 <img src="Pictures/Assembly/LGX/5.jpg" width="400" />
-<br />
-<br />
+
 
 * Slide the PCB into the LGX_Mount printed parts grooves until it is fully seated into place.
-<br />
+
 <img src="Pictures/Assembly/LGX/6.jpg" width="400" />
-<br />
-<br />
+
 
 * Install the PCB rear support printed part. It should slide onto the PCB and insert into the holes of the extruder motor.
-<br />
+
 <img src="Pictures/Assembly/LGX/7.jpg" width="400" />
-<br />
-<br />
+
 
 * Install the cable chain anchor and fasten everything together with 2 M3x25 screws.
-<br />
+
 <img src="Pictures/Assembly/LGX/8.jpg" width="400" />
-<br />
-<br />
+
 
 * Now is a good time to make sure no solder points touch the LGX extruder motor.
-<br />
+
 <img src="Pictures/Assembly/LGX/9.jpg" width="400" />
-<br />
-<br />
+
 
 ## Final Assembly
 
 * Follow the stealthburner manual to install the carriage and probe (or klicky).
-<br />
-<img src="Pictures/Assembly/Final Assembly/1.jpg" width="300" />
-<br />
-<br />
 
-* Fasten the LGX assembly onto the carriage with 2 M3x30 screws.<br />
+<img src="Pictures/Assembly/Final_Assembly/1.jpg" width="300" />
+
+
+* Fasten the LGX assembly onto the carriage with 2 M3x30 screws.
 Make sure the probe wires are routed correctly and are not pinched between the carriage and LGX.
-<br />
-<img src="Pictures/Assembly/Final Assembly/2.jpg" width="300" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/2.jpg" width="300" />
+
 
 * Slide the printhead from the bottom into the LGX assembly. Make sure it is fully inserted, flush with the LGX mount, and flush on the X-carriage.
-<br />
-<img src="Pictures/Assembly/Final Assembly/3.jpg" width="400" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/3.jpg" width="400" />
+
 
 * Slide the Stealthburner in place. Make sure the pins align correctly with the socket. It is recommended to first align and insert the pins, then slide the SB fully in place.
-<br />
-<img src="Pictures/Assembly/Final Assembly/4.jpg" width="300" /><img src="Pictures/Assembly/Final Assembly/5.jpg" width="300" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/4.jpg" width="300" /><img src="Pictures/Assembly/Final_Assembly/5.jpg" width="300" />
+
 
 * Fasten the Stealthburner with 2 **M3x18** screws on top, and 2 **M3x50** screws on the bottom.
-<br />
-<img src="Pictures/Assembly/Final Assembly/6.jpg" width="300" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/6.jpg" width="300" />
+
 
 * Prepare a small cable for the extruder motor with JST-PH connectors as shown. Its length should be about **90mm**.
-<br />
-<img src="Pictures/Assembly/Final Assembly/7.jpg" width="400" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/7.jpg" width="400" />
+
 
 * Install the extruder motor cable.
-<br />
-<img src="Pictures/Assembly/Final Assembly/8.jpg" width="400" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/8.jpg" width="400" />
+
 
 * Wire up the rest of the components, including the hotend, thermistor, probe or switch, etc
-<br />
-<img src="Pictures/Assembly/Final Assembly/9.jpg" width="400" />
-<br />
-<br />
 
-* Fasten the cable chain with 2 M3x8 flat head screws.<br />
+<img src="Pictures/Assembly/Final_Assembly/9.jpg" width="400" />
+
+
+* Fasten the cable chain with 2 M3x8 flat head screws.
 Install a ziptie into the ziptie slot.
-<br />
-<img src="Pictures/Assembly/Final Assembly/10.jpg" width="300" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/10.jpg" width="300" />
+
 
 * Wire up and install the 16-pin connector. The wiring schematic is the same as the original Hartk PCB. The only difference is that the 14 and 2-pin connectors have been joined into a single 16-pin connector. The individual wires position is identical. See the wiring instructions [here](https://github.com/hartk1213/MISC/tree/main/PCBs/Stealthburner_Toolhead_PCB/Images/Wiring).
-<br />
-<img src="Pictures/Assembly/Final Assembly/11.jpg" width="400" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/11.jpg" width="400" />
+
 
 * Optionally, install a chamber thermistor. I've attached mine at the backside on the cable chain and routed the wires to the AUX connector on the PCB.
-<br />
-<img src="Pictures/Assembly/Final Assembly/12.jpg" width="400" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/12.jpg" width="400" />
+
 
 * Install the cover by sliding the backside over the M3 screws sticking out of the LGX, and then fasten on the side with 1 **M3x6** Socket head Screw.
-<br />
-<img src="Pictures/Assembly/Final Assembly/13.jpg" width="400" />
-<br />
-<br />
+
+<img src="Pictures/Assembly/Final_Assembly/13.jpg" width="400" />
+
 
 ## Done ! Happy printing!
 
-<br />
+
 
 # 5. Feedback
 
