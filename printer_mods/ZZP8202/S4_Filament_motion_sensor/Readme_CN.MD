@@ -16,6 +16,7 @@
 
 ### 视频
  https://www.bilibili.com/video/BV1hd4y197tq?share_source=copy_web&vd_source=385151548cdde7762e546644f000bc2c
+ https://www.bilibili.com/video/BV1W14y1s7bJ?share_source=copy_web&vd_source=385151548cdde7762e546644f000bc2c
  
 ### [3D 模型](./3D)
  https://evercraft.co/share?key=0AD7E8
