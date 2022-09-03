@@ -18,5 +18,6 @@ In my 350 build the PTFE tube kept getting caught so I made this arm to keep it 
 
 
 <img src="IMAGES/Tube_Guide.png">
+<img src="IMAGES/Short.jpg">
 <img src="IMAGES/Tube1.jpg">
 <img src="IMAGES/Dokuu.jpg">
