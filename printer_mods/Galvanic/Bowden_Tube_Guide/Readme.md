@@ -1,4 +1,4 @@
-# PTFE bowden tube guide for Trident
+# PTFE Bowden Tube Guide and Canbus Wire Support
 
 ## Required Hardware:
 - M3x8 Bolt and M3 T-nut
@@ -17,6 +17,6 @@ In my 350 build the PTFE tube kept getting caught so I made this arm to keep it 
 
 
 
-<img src="Images/Tube Guide.png">
+<img src="Images/Tube_Guide.png">
 <img src="Images/Tube1.jpg">
 <img src="Images/Dokuu.jpg">
