@@ -1,6 +1,6 @@
 # SexyZip
 
-Used to cable managed on the external frame.
+Used to cable manage on the external frame (20x20).
 
 STLs files: [stl](./stl/)
 
