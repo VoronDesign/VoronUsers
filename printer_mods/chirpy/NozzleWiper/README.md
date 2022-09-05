@@ -6,6 +6,9 @@ It uses a snap in frame clip to attach a servo that extends a bucket and brush o
 
 ![Nozzle Wiper](images/NozzleWiper_v2.gif)
 
+Version 1 image:
+![Nozzle Wiper](images/NozzleWiper.gif)
+
 For up to date modifications, check my [git repo](https://github.com/waytotheweb/voron/).
 
 ## Features:
