@@ -1,4 +1,4 @@
-![](images/[t]%20logo.png)
+![](images/t-logo.png)
 
 # BEEFY Din
 
