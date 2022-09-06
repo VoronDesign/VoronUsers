@@ -1,4 +1,4 @@
-![](images/t-logo.png)
+![](images/t-logo.png =50x)
 
 # BEEFY Din
 
