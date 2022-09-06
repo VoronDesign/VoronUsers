@@ -1,3 +1,5 @@
+![](images/t-logo.png)
+
 # BEEFY Din
 
 I made these Din clips to replace the Voron "print in place" clips. I had issues, no matter the print settings and/or material, with the items staying in place. These clips are two parts, the main clip and moving shuttle. The only additional piece is the spring. I used yellow and blue bed springs and it clips everything very tight, but still able to remove.
@@ -13,7 +15,7 @@ You will need to print two pieces for one clip.
 
 | Filename |  Use |
 | ------------- | ------------- |
-| BEEFY Din - PSU (50mm) - mirrore.stl | 24v PSU (mirrored) M4 screws |
+| BEEFY Din - PSU (50mm) - mirrored.stl | 24v PSU (mirrored) M4 screws |
 | BEEFY Din - PSU (50mm).stl  | 24v PSU M4 screws  |
 | BEEFY Din (55mm).stl | 5v PSU M3 screws |
 | BEEFY Din - shuttle.stl  | Moving shuttle for all models  |
@@ -22,8 +24,10 @@ You will need to print two pieces for one clip.
 
 Assemble before installation. Insert spring into shuttle and slide into the groves in the underside of the main body. The holes may need to be drilled out a little to fit. 
 
-![Alt text](/images/BEEFY%20Din%20-%20PSU%20(50mm).png?raw=true "Optional Title")
+![](images/IMG_0992.jpeg)
 
-![Alt text](/images/BEEFY%20Din%20(55mm).png?raw=true "Optional Title")
+![](images/BEEFY%20Din%20-%20PSU%20(50mm).png)
 
-![Alt text](/images/BEEFY%20Din.png?raw=true "Optional Title")
+![](images/BEEFY%20Din%20(55mm).png)
+
+![](images/BEEFY%20Din.png)
