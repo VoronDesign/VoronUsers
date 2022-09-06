@@ -1,31 +1,32 @@
 # Snap in 1515 LED mount for WS2812B led strips.
 <img src="IMG/print_finish.gif">
 
-BOM:
-- [WS2812BECO Black PCB - 5m 30 IP30](https://www.aliexpress.com/item/2036819167.html "aba")
+**BOM:**
+- [WS2812BECO Black PCB - 5m 60 IP30](https://www.aliexpress.com/item/2036819167.html "aba")
 - Some cables
-- A soldering iron
+- A soldering iron and some solder
 - JST-XH Crimps
+Notes about the WS2812: 30 leds per meter fits, but you will only have a led in every second diffuser. 60leds per meter is the perfect fit.
 
 
-Print guide:
+**Print guide:**
 
-Print 9 normal and 9 mirrored.
-I mixed 16 and 17mm because the spacing on these are not exactly what you'd call accurate.
-
-
-Preparation:
-
-I use 4 led's on each side. Solder the cables and add some heatshrink wrap the end. Probably a good idea to test and configure them first too, so you don't have to take it out again after you've mounted it.
+Print 9 left and 9 right.
 
 
-Mounting:
+**Preparation:**
 
-Push one in, then slide the led strip into it and keep things in the back. Then keep adding one and one until finished. Et voila. Slide the cable over the back panel and into the electronics bay. Wire them in parallel and put them into the BTT SKR Mini E3 V2 neopixel slot.
+I use 9 led's on each side. Solder the cables. Now is a good idea to functiontest it before you install it.
+
+
+**Mounting:**
+
+Slide the cables for the led strips over the back panel and into the electronics bay. Push one in, then slide the led strip into it and keep things in the back. Then keep adding one and one until finished. The last one is a little finicky as you have to partially enter the led strip and finagle it into position to clip in. Wire them in parallel and put them into the BTT SKR Mini E3 V2 neopixel slot.
+
 <img src="IMG/wiring.jpg" width="250" height="250">
 
 
-Klipper config:
+**Klipper config for BTT SKR Mini E3 V2:**
 
 ```
 [neopixel case_lights]
