@@ -1,3 +1,5 @@
+![](images/[t]%20logo.png)
+
 # BEEFY Din
 
 I made these Din clips to replace the Voron "print in place" clips. I had issues, no matter the print settings and/or material, with the items staying in place. These clips are two parts, the main clip and moving shuttle. The only additional piece is the spring. I used yellow and blue bed springs and it clips everything very tight, but still able to remove.
