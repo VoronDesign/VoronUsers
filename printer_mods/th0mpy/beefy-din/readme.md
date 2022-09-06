@@ -13,7 +13,7 @@ You will need to print two pieces for one clip.
 
 | Filename |  Use |
 | ------------- | ------------- |
-| BEEFY Din - PSU (50mm) - mirrore.stl | 24v PSU (mirrored) M4 screws |
+| BEEFY Din - PSU (50mm) - mirrored.stl | 24v PSU (mirrored) M4 screws |
 | BEEFY Din - PSU (50mm).stl  | 24v PSU M4 screws  |
 | BEEFY Din (55mm).stl | 5v PSU M3 screws |
 | BEEFY Din - shuttle.stl  | Moving shuttle for all models  |
