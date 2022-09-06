@@ -22,10 +22,15 @@ You will need to print two pieces for one clip.
 
 Assemble before installation. Insert spring into shuttle and slide into the groves in the underside of the main body. The holes may need to be drilled out a little to fit. 
 
-!(./images/BEEFY%20Din%20-%20PSU%20(50mm).png?raw=true)
+![](images/BEEFY%20Din%20-%20PSU%20(50mm).png)
 
-!(./images/BEEFY%20Din%20(55mm).png?raw=true)
+![](images/BEEFY%20Din%20(55mm).png)
 
-!(./images/BEEFY%20Din.png?raw=true)
+![](images/BEEFY%20Din.png)
 
-!(./images/IMG_0992.jpg?raw=true)
+![](images/IMG_0992.jpg)
+
+
+![handle inner part](images/handle_inner_part.jpg)
+![handle middle part](images/handle_middle_part.jpg)
+![handle outer part](images/handle_outer_part.jpg)
