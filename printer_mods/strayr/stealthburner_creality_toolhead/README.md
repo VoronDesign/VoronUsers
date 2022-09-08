@@ -47,6 +47,11 @@ The specified position for the nozzle is 61.5mm from the flat surface at the top
 <img src="img/in_use.jpg" width=800/>
 
 ## Updates
+
+- ### 2020-09-08
+    - Better arranged assembly, pneumatic coupler version is now a separate assembly rather than timeline trickery
+    - single step for both versions
+    - removed a tiny artefact as spotted by newphreak
 - ### 2020-09-04
     - no spaces in filenames
     - STEP available
@@ -55,7 +60,6 @@ The specified position for the nozzle is 61.5mm from the flat surface at the top
     - (compatibility) cutouts made to fit inductive probes without recessed screw heads, thanks Jason.  <img src="img/probe_cutout.png">
     - (printability) cutout for heatbreak setscrew is now a a straight-sided slot not a matching hole
     - (printability) heatsink to toohead back mounting screws are no longer through holes, rear cutouts now print neatly. <img src="img/improved_printability.png">
-  - 
 
 ## Contact 
 * [my github](https://github.com/strayr/strealthburner_creality_edition)
