@@ -31,3 +31,7 @@ Assemble before installation. Insert spring into shuttle and slide into the grov
 ![](images/BEEFY%20Din%20(55mm).png)
 
 ![](images/BEEFY%20Din.png)
+
+## Parts needed
+
+This is the spring kit I used. Again I'd stick to the blue or yellow springs for the best result. https://www.amazon.com/gp/product/B081DSZTV6
