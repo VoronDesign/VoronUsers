@@ -362,6 +362,7 @@ like so:
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Parts_Jigs and Mods](./StvPtrsn/Parts_Jigs_and_Mods) |Parts, Jigs and modifications I use for my builds |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|
 | TAKUYA | [WANSVIEW USB Camera Mount](./Takuya/USBCameraMount/) | WANSVIEW 1080p Camera Mount for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: |
+| th0mpy | [BEEFY Din Clips](./th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | tallman5 | [Z Locks](./tallman5/z-locks/) | Helping hands curing v2.4 build, replaces long zip ties. | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | tameike | [Din Rail SKR 90 deg](./tameike/DIN_Rail_SKR_1.3_90deg) | SKR V1.3 bracket turned 90 degrees | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | | [Din Rail 2020 Holder](./tameike/DIN_Rail_2020_holder) | Attaching DIN Rails to 2020 | :x: | :grey_question: | :heavy_check_mark: |:x:|
@@ -416,5 +417,4 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
-| th0mpy | [BEEFY Din Clips](./th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 
