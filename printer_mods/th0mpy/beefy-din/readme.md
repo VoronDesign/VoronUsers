@@ -15,10 +15,11 @@ You will need to print two pieces for one clip.
 
 | Filename |  Use |
 | ------------- | ------------- |
-| BEEFY Din - PSU (50mm) - mirrored.stl | 24v PSU (mirrored) M4 screws |
-| BEEFY Din - PSU (50mm).stl  | 24v PSU M4 screws  |
-| BEEFY Din (55mm).stl | 5v PSU M3 screws |
-| BEEFY Din - shuttle.stl  | Moving shuttle for all models  |
+| BEEFY_Din-PSU(50mm)-mirrored.stl | 24v PSU (mirrored) M4 screws |
+| BEEFY_Din-PSU(50mm).stl  | 24v PSU M4 screws  |
+| BEEFY_Din(55mm).stl | 5v PSU M3 screws |
+| BEEFY_Din-shuttle.stl  | Moving shuttle for all models  |
+| BEEFY_Din(standard).stl | Used for Pi and other controllers |
 
 ## Assembly
 
@@ -26,11 +27,11 @@ Assemble before installation. Insert spring into shuttle and slide into the grov
 
 ![](images/IMG_0992.jpeg)
 
-![](images/BEEFY%20Din%20-%20PSU%20(50mm).png)
+![](images/BEEFY_Din-PSU(50mm).png)
 
-![](images/BEEFY%20Din%20(55mm).png)
+![](images/BEEFY_Din-(55mm).png)
 
-![](images/BEEFY%20Din.png)
+![](images/BEEFY_Din.png)
 
 ## Parts needed
 
