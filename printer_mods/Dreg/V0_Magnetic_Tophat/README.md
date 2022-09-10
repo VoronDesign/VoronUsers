@@ -1,7 +1,7 @@
 # Voron V0.1 Magnetic Tophat
 
-This mod is a non intrusive, no glue solution for a removable tophat on the v0. This is especially usefull for spaces without room for a hinged solution.
-This also aligns the pegs with the existing holes in the corners of the frame. making it a good solution for hinged tophats that dont align well or do not remain closed when lowered.
+This mod is a non intrusive, no glue solution for a removable tophat on the v0. This is especially useful for spaces without room for a hinged solution.
+This also aligns the pegs with the existing holes in the corners of the frame. making it a good solution for hinged tophats that don't align well or do not remain closed when lowered.
 This mod is specifically made for the voron v0.1. Other versions might need modification before being compatible.
 
 ![cad assembled](images/CAD_ASSEMBLED.png)
