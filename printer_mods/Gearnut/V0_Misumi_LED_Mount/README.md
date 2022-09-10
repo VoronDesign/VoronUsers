@@ -1,5 +1,6 @@
 V0 Misumi Led mount
 
+![Alt_text](./Images/Cover.jpg)
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Cover.jpg)
 
 These were modified from the Misumi Led clips(https://www.teamfdm.com/files/file/338-misumi-led-corners/) as I like the design with them in my V2.4 They should fit most WS2812b Led strips you can find online though If it has the silicone cover on them you may need to peel them off or file down the inside track a touch.
@@ -9,7 +10,6 @@ I did include both the extended version I have tested and use personally as well
 
 Assembly is fairly straight forward. Solder directly to the LED strip or solder on a JST connector to the end and slide the strip inside. If your leds come with a clear silicone layer over the top you may need to peel it off the strip or file down the insides of the led tracks, the bare pcb backed LEDs should fit in snugly. 
 
-![Install_1](./Gearnut/V0_Misumi_LED_Mount/Images/install_1.jpg)
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Install_1.jpg)
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Install_2.jpg)
 ![Alt text](https://github.com/GearNut/VoronUsers/blob/master/printer_mods/Gearnut/V0_Misumi_LED_Mount/Images/Install_3.jpg)
