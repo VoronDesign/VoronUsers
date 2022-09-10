@@ -10,9 +10,9 @@ I did include both the extended version I have tested and use personally as well
 
 Assembly is fairly straight forward. Solder directly to the LED strip or solder on a JST connector to the end and slide the strip inside. If your leds come with a clear silicone layer over the top you may need to peel it off the strip or file down the insides of the led tracks, the bare pcb backed LEDs should fit in snugly. 
 
-![Alt text](./Images/Install_1.jpg)
-![Alt text](./Install_2.jpg)
-![Alt text](.Images/Install_3.jpg)
+![Alt text](./Images/Images/Install_1.jpg)
+![Alt text](./Images/Install_2.jpg)
+![Alt text](./Images/Install_3.jpg)
 ![Alt text](./Images/Install_4.jpg)
 
 You will need 5 per side and standard voron print settings are probably overkill for these but its what I used. For install on a stock V0 simply remove the extrusion and slide inside. Fitment for me was tight and the extrusion did shave a little bit off the mounting points. This was intentional to make it as tight as possible.
