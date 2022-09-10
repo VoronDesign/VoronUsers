@@ -362,7 +362,6 @@ like so:
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Parts_Jigs and Mods](./StvPtrsn/Parts_Jigs_and_Mods) |Parts, Jigs and modifications I use for my builds |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|
 | TAKUYA | [WANSVIEW USB Camera Mount](./Takuya/USBCameraMount/) | WANSVIEW 1080p Camera Mount for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: |
-| th0mpy | [BEEFY Din Clips](./th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | tallman5 | [Z Locks](./tallman5/z-locks/) | Helping hands curing v2.4 build, replaces long zip ties. | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | tameike | [Din Rail SKR 90 deg](./tameike/DIN_Rail_SKR_1.3_90deg) | SKR V1.3 bracket turned 90 degrees | :x: | :grey_question: | :heavy_check_mark: |:x:|
 | | [Din Rail 2020 Holder](./tameike/DIN_Rail_2020_holder) | Attaching DIN Rails to 2020 | :x: | :grey_question: | :heavy_check_mark: |:x:|
@@ -372,6 +371,7 @@ like so:
 |teookie|[AB dial indicator mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | | [SKR Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
 | TiagoBarata |[Logitech C270 Mount](./TiagoBarata/Logitech_C270_Mount)| Logitech C270 Top Center Mount |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+| th0mpy | [BEEFY Din Clips](./th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | TheSquiffy | [V0 Belts holder](./TheSquiffy/V0_Belts_holder) | V0 Belts Holder | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |Tircown| [Display mount 5"](./Tircown/Display_mount_5inch) | Tiltable mount for a 5" tactile display | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Raspberry in plug panel](./Tircown/Raspberry_plug_panel) | Raspberry mount vertically in the plug panel, allow easy access to ports  | :x: | :x: | :heavy_check_mark: | :x: |
