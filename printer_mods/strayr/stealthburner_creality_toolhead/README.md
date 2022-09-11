@@ -1,6 +1,12 @@
 # Creality toolhead for stealthburner.
 
-Not recommended but a potential pathway for e3->switchwire conversions. It's recommended to have an all metal heatbreak, both for printing ABS and for a higher volumetric flow rate. A good quality bimetallic heatbreak can outperform a stock V6. 
+Not recommended but a potential pathway for e3->switchwire conversions. It's recommended to have an all metal heatbreak, both for printing ABS and for a higher volumetric flow rate. A good quality bimetallic heatbreak can outperform a stock V6.
+
+## Compatibility
+
+This is derived from the Stealthburner RC1 STEP files and has been tested with Stealthburner RC1, if there are changes breaking toolhead compatibility after RC1 it will be updated.
+
+This toolhead is also *mechanically compatible* with stealthburner beta and has received some testing with beta parts.
 
 ## Versions
 The pneumatic coupler version is intended for a lined heatbreak and complicates maintenance, only use it if you absolutely need it, these parts have 'PC' in their name. These are pictured in magenta. I'm trying to provide a solution that requires the least amount of additional parts. 
@@ -48,6 +54,8 @@ The specified position for the nozzle is 61.5mm from the flat surface at the top
 
 ## Updates
 
+- ### 2020-09-11
+    - RC1 compatibility note
 - ### 2020-09-08
     - Better arranged assembly, pneumatic coupler version is now a separate assembly rather than timeline trickery
     - single step for both versions
