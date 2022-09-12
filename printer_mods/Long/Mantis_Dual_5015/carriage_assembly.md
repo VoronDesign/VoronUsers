@@ -17,8 +17,9 @@ Carriage and Hotend Mount Assembly
 ============
 **Carriage Assembly:**
 - Magnets:
+  - <a href="https://youtu.be/G4MdrRXfb1M">Quick video on soldering magnets</A>
   - Sand the side of 2 m6x3 magnets. Place a magnet on a bigger stack of magnets then solder a piece of wire to the side as shown.
-  - If you don’t have the magnet on the bigger stack, your magnet will lose some of its magnetic strength. I haven’t tested, but I think it’s probably ok because of the double stack with an unsoldered magnet.
+  - If you don’t have the magnet on the bigger stack, your magnet will lose some of its magnetic strength. I haven’t tested, but I think it’s probably ok because of the double stack with an unsoldered magnet (and the magnet being soldering is the magnet on the inside).
   - Put superglue into the magnet holes.
   - Place the second magnet on the soldered magnet, and then press the two magnets into the hole so the unsoldered magnet is out. The magnets should sit “proud” of the carriage.  
   - I use a flat surface to press the magnets in and then lap them so they mate well with the mag probe.
@@ -71,6 +72,15 @@ Carriage and Hotend Mount Assembly
   <TD align="CENTER" width=50%><img src="images/carriage_assembly_crazy_volcano.jpg"><BR><B>Crazy Volcano</B><BR>Note Heater block orientation and wire pathing.</TD>
   <TD align="CENTER" width=50%><img src="images/carriage_assembly_rapido.jpg"><BR><B>Rapido</B><BR>Print the hotend mount (Hotend_Mount_Rapido_v.03 or Hotend_Mount_Rapido_v.03_Rotated120Degrees) that has the Phaetus logo on the sock facing directly forward.  <BR>Wires should come out right/forward</TD>
 </TR>
+</TABLE>
+<Table>
+<TR>
+  <TD colspan=3 width=100%>Hotend mount (Hotend_Mount_Dragon_v1.040_sherpa_brace.stl) for dragon/dragon with crazy volcano that accepts <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified Sherpa mini housing_front</a>, which triangulates the extruder mounting and adds some stability.</TD>
+</TR>  
+<TR>
+  <TD align="CENTER" width=33%><img src="images/carriage_assembly_sherpa_brace_hotend_mount.jpg"></TD>
+  <TD align="CENTER" width=33%><img src="images/carriage_assembly_sherpa_brace_mounted_front.jpg"></TD>
+    <TD align="CENTER" width=33%><img src="images/carriage_assembly_sherpa_brace_mounted_side.jpg"><BR></TD>
 </table>
 
 - Hotends

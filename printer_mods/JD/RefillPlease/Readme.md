@@ -45,7 +45,7 @@ Standard Voron print settings are fine, ABS+ (but PLA or PETG are fine too since
 Select the *_right* parts if you want to put the filament sensor on the right of the printer, *_left* parts otherwise (when you stand in front of the printer).
 
 You'll need:
-* [a]_core__(left/right).stl
+* [a]\_core\_(left/right).stl
 * cover_(left/right).stl
  
 # Assembly:
