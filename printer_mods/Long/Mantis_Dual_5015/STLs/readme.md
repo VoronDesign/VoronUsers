@@ -1,4 +1,3 @@
-
 What to Print
 ============
 ****note that Voron 1.8 is only compatible with Dragon hotend at the moment.**  If you need something else just let me know and I'll work with you.
@@ -12,40 +11,68 @@ What to Print
 <TR>
 <TD align="center">Dragon<BR>(2.4 and Trident)</TD>
 <TD align="center">Hotend_Mount_Dragon_v1.040.stl
+<BR><B>-or-</B>
+<BR>Hotend_Mount_Dragon_v1.040_sherpa_brace.stl
+<BR>
 <BR>duct_dragon_v1.041_left.stl
 <BR>duct_dragon_v1.041_right.stl
+<BR><B>-or-</B>
+<BR>duct_dragon_v1.043e_left.stl
+<BR>duct_dragon_v1.043e_right.stl
+<BR>
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
-<TD></TD>
+<TD>
+Hotend_Mount_Dragon_v1.040_sherpa_brace.stl allows usage of <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified sherpa mini housing_front</A>, which triangulates the sherpa mini mounting and adds extra stability.  
+<BR>
+<BR>Duct v1.041 is the standard duct.  It has good build plate clearance and plenty of airflow.<BR><BR>Duct v1.043e has less slightly less build plate clearance, but has larger duct outlets and higher cooling potential.  
+</TD>
 </TR>
 <TR>
 <TD align="center">Dragon<BR>(Voron 1.8)</TD>
 <TD align="center">Hotend_Mount_Dragon_v1.040.stl
+<BR><B>-or-</B>
+<BR>Hotend_Mount_Dragon_v1.040_sherpa_brace.stl
+<BR>
 <BR>Duct_v1.037_Left_+2mm.stl
 <BR>Duct_v1.037_Right_+2mm.stl
 <BR>Magprobe_v0.31_Dragon.stl
+</TD>
+<TD>Note, because Voron 1.8 has an inverted gantry, the rear ear of the 5015 fans must be cut off.  Some people have reported being able to use the standard v2.4 ducts with a very very close clearance.  <BR><BR><I>The Full duct brace will not work with the +2mm versions.  </I>
+<BR><BR>Hotend_Mount_Dragon_v1.040_sherpa_brace.stl allows usage of <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified sherpa mini housing_front</A>, which triangulates the sherpa mini mounting and adds extra stability.  
 </TD>
 </TR>
 <TR>
 <TD align="center">Mosquito</TD>
 <TD align="center">hotend_mount_mosquito_30mm_fan_v0.42
+<BR>
 <BR>duct_dragon_v1.041_left.stl
 <BR>duct_dragon_v1.041_right.stl
+<BR><B>-or-</B>
+<BR>duct_dragon_v1.043e_left.stl
+<BR>duct_dragon_v1.043e_right.stl
+<BR>
 <BR>Magprobe_v0.31_Dragon.stl
 </TD>
 <TD>
 The hotend mount is located in <a href="https://github.com/mandryd/MantisUsermods/tree/main/Usermods/Wingzero">usermods</A>
-<BR>Thanks to Wingzero for making Mosquito Compatible!</TD>
+<BR>Thanks to Wingzero for making Mosquito Compatible!
+<BR><BR>Duct v1.041 is the standard duct.  It has good build plate clearance and plenty of airflow.<BR><BR>Duct v1.043e has less slightly less build plate clearance, but has larger duct outlets and higher cooling potential.  
+</TD>
 </TR>
 <TR>
 <TD align="center">Crazy Volcano with Dragon Heatsink</TD>
 <TD align="center">
 Hotend_Mount_Dragon_v1.040.stl
+<BR><B>-or-</B>
+<BR>Hotend_Mount_Dragon_v1.040_sherpa_brace.stl
+<BR>
 <BR>duct_dragon_crazy_volcano_v1.0_left.stl
 <BR>duct_dragon_crazy_volcano_v1.0_right.stl
 <BR>Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
 </TD>
-<TD></TD>
+<TD>Hotend_Mount_Dragon_v1.040_sherpa_brace.stl allows usage of <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified sherpa mini housing_front</A>, which triangulates the sherpa mini mounting and adds extra stability.  
+<BR></TD>
 </TR>
 <TR>
 <TD align="center">Rapido HF</TD>
@@ -81,7 +108,7 @@ The Rest
      - China - Chain_Anchor_v3.2.stl
    - Umbilical Mount - Umbilical_Mount_v2.stl
    - Also see the usermods for other potential options.
- - Duct_Brace_v1.0.stl can be used to connect the upper duct arms together (notes in final_assembly.md of the readme).    
+ - Duct braces can be used to improve stability of the 5015 mounting arms.  This will help with resonance compensation.  See the [Duct Brace Folder](Duct_Brace/)
  - Gantry or bed extrusion mag probe dock.
    - Gantry
      - Magprobe_Gantry_Extrusion_Mount_by_JosAr_v1.stl
