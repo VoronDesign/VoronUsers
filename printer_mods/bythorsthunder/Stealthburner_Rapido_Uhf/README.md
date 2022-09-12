@@ -1,4 +1,4 @@
-## Stealthburner Rapido UHF
+# Stealthburner Rapido UHF
 
 A mod that stretches the Stealthburner Front and Rapido Toolhead Front for use with a Rapido UHF configuration. It moves the lighting and cooling to Stealthburner stock locations relative to new nozzle location.
 
