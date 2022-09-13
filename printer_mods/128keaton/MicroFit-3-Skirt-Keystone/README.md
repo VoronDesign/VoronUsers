@@ -1,5 +1,5 @@
 # MicroFit 3-pole Skirt Keystone
-## For Voron 2.4
+### For Voron 2.4
 
 <img src="./images/SkirtKeystoneImage.jpg" width="400">
 
@@ -16,3 +16,7 @@ digital temperature meter, so I made this!
 
 Please print with the face-side up. 
 Can be printed VERY quickly. 
+
+
+### Assembly:
+Use the female (with male pins) MF connector on the keystone side and you're set!
