@@ -1,11 +1,15 @@
-## <B>Single MGN9H Carriage</B>
+# Single MGN9H Carriage
 
-Modified carriage to:
-* Remove the second MGN9 mount
-* Add optional toolhead X endstop (to allow for umbilical)
+This mod removes the second MGN9H mount and adds support for an optional toolhead X endstop (to allow for umbilical).
 
 Make sure your switch lever is in the orientation shown to ensure it triggers properly against the XY joint.
 
-![Single_MGN9G_Carriage](Images/Single_MGN9H_Carriage.png)
+Supports V2.4 and V2.4r2. Likely works with Trident also.
 
-![Single_MGN9G_Carriage_Built](Images/Single_MGN9H_Carriage_Built.png)  
+## Images
+### CW1
+![Single MGN9H Carriage-CW1](./Images/Single_MGN9H_Carriage_CW1.png)
+### CW2
+![Single MGN9H Carriage-CW2](./Images/Single_MGN9H_Carriage_CW2.png)
+### Built
+![Single MGN9H Carriage-CW1-Built](./Images/Single_MGN9H_Carriage_CW1_Built.png)  

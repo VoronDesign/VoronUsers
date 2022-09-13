@@ -46,7 +46,7 @@ Bill of materials (per fan):
 - 1x M3 heat set insert
 - 1x M3x8 or M3x10 *(optional, I only mount with one screw)*
 
-![5015 Fan Mount](Images/5015_mount_isolated.png)  
+![5015 Fan Mount](./Images/5015_mount_isolated.png)  
 
 ## **FAQ**
 
@@ -100,5 +100,6 @@ If you have a 750 watt heater, that's 48% power, or 0.48 max_power.
 ## **Images**
 
 *(looks a bit tight since CAD is for a 250mm)*
-![5015 Triple](Images/5015_triple.png)  
-![5015 Quad Installed](Images/5015_quad_installed.png)  
+
+![5015 Triple](./Images/5015_triple.png)  
+![5015 Quad Installed](./Images/5015_quad_installed.png)  
