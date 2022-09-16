@@ -28,6 +28,8 @@ like so:
 |1-0-R|[V2.4 handle](./1-0-R/handle)| Handle for Voron 2.4| :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 |120decibell|[Side entry exhaust housing](./120decibell/exhaust_housing_side_entry)| Exhaust housing with dual cover screws and single or dual side entry filament paths. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 ||[Huvud Chain Mount](./120decibell/huvud_chain_mount)| Huvud rear mount for Clockwork or LGX that supports a cable chain. |:x:|:heavy_check_mark:|:grey_question:|:x:|:heavy_check_mark:|
+|128keaton|[DS18B20 Waterproof Mount](./128keaton/DS18B20-WP-Mount| DS18B20 Waterproof Mount for 2020 extrusion |:x:|:grey_question:|:heavy_check_mark:|:x:|
+| |[MicroFit 3-pole Skirt Keystone](./128keaton/MicroFit-3-Skirt-Keystone)|Keystone for 2.4 skirts that hold a 3-pin MicroFit 3.0 connector |:x:|:grey_question:|:heavy_check_mark:|:x:|
 |3dpandme|[FANnypack zero](./3dpandme/Fannypack_zero)|Electronics cooling solution for Voron Zero|:heavy_check_mark:| :x: | :x: | :heavy_check_mark: | :heavy_check_mark:|
 | |[Thermistor holder zero](./3dpandme/Thermistor_holder_zero)|Extended thermistor holder for Voron Zero|:heavy_check_mark:| :x: | :x: | :heavy_check_mark: | :heavy_check_mark:|
 |3vilson|[V0.1_Skirt_Inlet](./3vilson/V0.1_Skirt_Inlet)|Skirt with C14 inlet + New feet to screw into|:heavy_check_mark:| :x: | :x: | :x: | :x:|
