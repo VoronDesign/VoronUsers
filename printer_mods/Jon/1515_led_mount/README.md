@@ -21,7 +21,12 @@ I use 9 led's on each side. Solder the cables. Now is a good idea to functiontes
 
 **Mounting:**
 
-Slide the cables for the led strips over the back panel and into the electronics bay. Push one in, then slide the led strip into it and keep things in the back. Then keep adding one and one until finished. The last one is a little finicky as you have to partially enter the led strip and finagle it into position to clip in. Wire them in parallel and put them into the BTT SKR Mini E3 V2 neopixel slot.
+- Guide the cables through the 1515 extrusion over the mid-panel.
+- Push one diffuser in. (Do this in the front with the led strip as far back as possible)
+- Slide the diffuser back while guiding the led strip through it. One by one.
+- When you get to the last diffuser on either side, you have to partially insert the strip into the diffuser. Then carefully try to bend/align it with the 1515 slot and carefully pop it into place. Having it all the way to the front gives you more leeway to bend without damaging the strip.
+- Do the same on the other side.
+- After you can wire them in parallel and connect them to the BTT SKR Mini E3 V2 neopixel slot.
 
 <img src="IMG/wiring.jpg" width="250" height="250">
 
