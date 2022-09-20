@@ -12,7 +12,6 @@ Discord to have your mod moved to this folder.
 ## Table structure
 
 Update the following table with the information about your mod:
-
 - Your name
 - A link to your sub-folder
 - A short description of your mod
@@ -168,7 +167,7 @@ like so:
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
 | | [LGX Info, Links, and Models](./geoffreyyoung/lgx) | Useful information and models for using the Bondtech LGX extruder wth Afterburner| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
-| GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: <https://github.com/FLYmaker/FLYF407ZG> | :x: | :x: | :heavy_check_mark: | :x: |
+| GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
 | Golas | [V0.1 Extended tophat hinge](./golas/v0-extended-tophat-hinge)| Extended tophat for v0.1 with hinges (integrated or screwed ones). | :heavy_check_mark: | :x: | :x: | :x: | :x: |
@@ -211,7 +210,7 @@ like so:
 | | [Molex MLX and Microfit 3.0 Bed Connector Mount](./jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors |:x: |:x:|:heavy_check_mark:|:x:|
 | JeremyRuhland | [V2.4 Plug Panel Generic Combo](./JeremyRuhland/V2.4_Plug_Panel_Generic_Combo) | Skirt power panel for generic amazon plug/switch/fuse combo module, with 2 keystone sockets | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | jgehrig | [V0 LCD Touchscreen Skirt](./jgehrig/v0_lcdskirt) | 3.2" LCD Touch Screen Skirt | :heavy_check_mark: | :x: | :x: | :x: |
-| JJFX | [V2.4 CR Touch Snap Mount](./JJFX/CRTouch_Snap_Mount) | Mount to replace v2.4 (MGN9) probe with a Creality CR Touch | :x: | :grey_question: | :heavy_check_mark: | :x: | :x: |
+| JJFX | [V2.4 CR Touch Snap Mount ](./JJFX/CRTouch_Snap_Mount) | Mount to replace v2.4 (MGN9) probe with a Creality CR Touch | :x: | :grey_question: | :heavy_check_mark: | :x: | :x: |
 | JNP | [Back Door](./JNP/Back-Door) | Door for easy hardware access | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Deck Panel](./JNP/Deck_Panel_Rear)| Covers the hotbed cables | :heavy_check_mark: |:x: |:x: |:x: |
 | | [Drawer](./JNP/Drawer)| Drawer in four different versions | :heavy_check_mark: |:x: |:x: |:x: |
@@ -295,7 +294,7 @@ like so:
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
-| nikolasbabetas | [Neopixel Holder](./nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | :heavy_check_mark: | :x: | :x: | :x: |:x:|
+| nikolasbabetas | [Neopixel Holder ](./nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Duet Wifi Mount](./Nomsplease/V0_Mods/duet_wifi_mount) | Duet wifi mount in pocketwatch location |:heavy_check_mark: |:x: |:x: |:x:|
 | |[LED Mounts](./Nomsplease/V0_Mods/led_mounts) | Basic LED mounts for 10 and 12mm strips |:heavy_check_mark: |:x: |:x: |:x:|
@@ -419,3 +418,4 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+
