@@ -16,8 +16,8 @@ Print 9 left and 9 right.
 
 **Preparation:**
 
-I use 9 led's on each side. Solder the cables. Now is a good idea to functiontest it before you install it.
-
+I use 9 led's on each side. Solder the cables. Now it's a good idea to test and configure the neopixels too, so you don't have to take it out again after you've mounted it, in case something is wrong.
+Just hang them over the spool holder and make sure nothing can short circuit while testing.
 
 **Mounting:**
 
@@ -37,9 +37,9 @@ I use 9 led's on each side. Solder the cables. Now is a good idea to functiontes
 [neopixel case_lights]
 ##  Chamber Lighting - In 5V-RGB Position
 pin: PA8
-chain_count: 4
-initial_RED: 0
-initial_GREEN: 0
+chain_count: 9
+initial_RED: 1
+initial_GREEN: 1
 initial_BLUE: 1
 ```
 
