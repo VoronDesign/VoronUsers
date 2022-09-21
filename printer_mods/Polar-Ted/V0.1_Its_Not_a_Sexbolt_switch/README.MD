@@ -48,6 +48,6 @@ place the switch washer between the bed and build plate by notching the bad magn
 
 [Zruncho3d - Zeroclick Z probe for V0.](https://github.com/zruncho3d/ZeroClick)      
 
-[hartk1213 - Sexbolt Endstop](https://github.com/hartk1213/MISC/tree/main/Voron%20Mods/Voron%202/2.4/Voron2.4_SexBolt_ZEndstop)    
+[HeartK1213 - Sexbolt Z Endstop](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/hartk1213/Voron2.4_SexBolt_ZEndstop)    
 
 
