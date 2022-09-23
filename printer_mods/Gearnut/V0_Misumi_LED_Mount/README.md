@@ -3,7 +3,7 @@ V0 Misumi Led mount
 ![Alt_text](./Images/Cover.jpg)
 
 
-These were modified from [Eddie's Misumi Led clips](../../printer_mods/eddie/LED_Bar_Clip) as I like the design with them in my V2.4 and VT. They should fit most WS2812b Led strips you can find online though If it has the silicone cover on them you may need to peel them off or file down the inside track a touch.
+These were modified from [Eddie's Misumi Led clips](../../eddie/LED_Bar_Clip) as I like the design with them in my V2.4 and VT. They should fit most WS2812b Led strips you can find online though If it has the silicone cover on them you may need to peel them off or file down the inside track a touch.
 
 I did include both the extended version I have tested and use personally as well as the shorter version If youre LED strip as more LEDs per meter than mine did, while it will print and install just fine they are as of now untested.
 ![Alt text](./Images/Short_Tall.png)
