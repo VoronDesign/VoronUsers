@@ -60,6 +60,7 @@ like so:
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
 |aTinyShellScript |[RS PSU DIN Bracket](./aTinyShellScript/RS_PSU_DIN_Brackets)|DIN brackets for MeanWell RS PSUs with 80mm spacing. |:grey_question:|:grey_question:|:heavy_check_mark:|:grey_question:|:grey_question:|
+|baccula |[Revo Nozzle Holder for v2.4 350](./baccula/revo_skirt_nozzle_holder/)|A remix of Andre's design allowing for skirt storage of 4 E3D Revo nozzles in the skirt of your 350mm v2.4. |:x:|:x:|:heavy_check_mark:|:x:|:x:
 |Backenfutter|[Mount for Electreeks Camera](./Backenfutter/Mount_for_Electreeks_Camera)|This Mod is a simple "One Piece" mount for the popular Electreeks Camera. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
 | |[AB-BN Afterburner mod (5015)](./Badnoob/AB-BN)|Improved Afterburner with 5015 fan |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
@@ -266,7 +267,8 @@ like so:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 |MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
-| |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts |:x: |:x: |:heavy_check_mark: |:x:|
+| |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts | :x: |:x: |:heavy_check_mark: |:x:|
+| MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
 |Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
 | | [V0 Deck Logo](./Maverick_/V0_Deck_Logo_LED) | A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring. | :heavy_check_mark: | :x: | :x: |:x:|
@@ -312,7 +314,8 @@ like so:
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | prasadp4009 | [StealthBurner CR Touch Mod](./prasadp4009/SW_SB_CRTouch) | Voron SW StealthBurner CR Touch Mod | :x: | :x: | :x: | :heavy_check_mark: | :x:|
-|Polar-Ted|[V0.1 Two Piece Back Panel](./Polar-Ted/V0_Two_Piece_Back_Panel/) | Vented 2 piece back panel for V0 |:heavy_check_mark: |:x: |:x: |:x:|
+|Polar-Ted|[V0.1 Two Piece Back Panel](./Polar-Ted/V0_Two_Piece_Back_Panel/) | Vented 2 piece back panel for V0 |:heavy_check_mark: |:x: | :x: | :x: | :x: |
+| |[V0.1 Z nozzle endstop switch](./Polar-Ted/V0.1_Its_Not_a_Sexbolt_switch/) | Sexbolt style switch for V0 |:heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: |
 | PsychoShaft | [C92X_PsycHoShafts_Mount](./PsychoShaft/C92X_PsycHoShafts_Mount) | 2020 Top profile 920 camera mount / 2 point axis pivot | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |QuackProfit|[V0 Adafruit NeoPixel LED Mounts](./QuackProfit/V0-Adafruit-Y_Rails) | Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions | :heavy_check_mark:|:x:|:x:|:x:|
@@ -335,6 +338,7 @@ like so:
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
+|sammynorway | [LGX stealthburner connector cover](./sammynorway/LGX-stealthburner-connector-cover) | Cable cover for LGX and stealthburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | samwiseg0 | [Microfit 2x3 Skirt Connector (ADXL)](./samwiseg0/microfit_2x3_skirt_connector_adxl) | Mod for a Microfit 2x3 connector to be mounted in a skirt | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
 |  | [AB Plug (Microfit 1x4)](./samwiseg0/ab_plug_microfit_1x4) | Mod to mount A & B motor connectors to the gantry | :x: | :x: | :heavy_check_mark: | :x: | :grey_question: |
 |  | [LRS PSU Screw Terminal Cover](./samwiseg0/lrs_screw_terminal_cover) | Mod to cover the screw terminals for several LRS style PSUs | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
@@ -358,7 +362,8 @@ like so:
 | Spaghetti-Bolognese |[Simplified Z Drive Motor Mount](Spaghetti-Bolognese/Z_drive_motor_mount) | Z drive motor mount bracket mod to improve pulley to belt alignment | :x: | :x: | :heavy_check_mark: |:x:|
 | |[LCD Case Mod](Spaghetti-Bolognese/LCD_case_mod) | Improvements to the V2.4 mini12864 LCD case inc E-stop button cover | :x: | :x: | :heavy_check_mark: |:x:|
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
-| sttts | [Waveshare 5.5inch HDMI AMOLED Mount](./sttts/Waveshare-5.5-inch-HDMI-AMOLED) | Mod to mount a Waveshare 5.5inch full HD display on a V2 | :x: | :x: | :heavy_check_mark: | :x: |
+| strayr | [Creality toolhead for stealthburner](./strayr/stealthburner_creality_toolhead/) | Use a creality ender 3 style hotend with stealthburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
+| sttts | [Waveshare 5.5inch HDMI AMOLED Mount](./sttts/Waveshare-5.5-inch-HDMI-AMOLED) | Mod to mount a Waveshare 5.5inch full HD display on a V2 | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
@@ -372,8 +377,9 @@ like so:
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |:x:|
 |teookie|[AB dial indicator mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | | [SKR Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
-| TiagoBarata |[Logitech C270 Mount](./TiagoBarata/Logitech_C270_Mount)| Logitech C270 Top Center Mount |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+| th0mpy | [BEEFY Din Clips](./th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | TheSquiffy | [V0 Belts holder](./TheSquiffy/V0_Belts_holder) | V0 Belts Holder | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| TiagoBarata |[Logitech C270 Mount](./TiagoBarata/Logitech_C270_Mount)| Logitech C270 Top Center Mount |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 |Tircown| [Display mount 5"](./Tircown/Display_mount_5inch) | Tiltable mount for a 5" tactile display | :x: | :x: | :heavy_check_mark: | :x: |
 | | [Raspberry in plug panel](./Tircown/Raspberry_plug_panel) | Raspberry mount vertically in the plug panel, allow easy access to ports  | :x: | :x: | :heavy_check_mark: | :x: |
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
