@@ -1,8 +1,9 @@
 Zodiac BMO Stealthburner Toolhead
 =================================
 
-A modified toolhead for use with the Zodiac BMO Hotend.
-It was created from the original Stealthburner Phaetus BMO Toolhead.
+A modified toolhead for use with the Zodiac BMO Hotend and compatible with RC1 of Stealthburner.
+It was created from the original RC1 Stealthburner Phaetus BMO Toolhead files.
+If changes after RC1 of Stealthburner make this mod incompatible, I will provide updated files based on the official Stealthburner CAD files.
 The official [Zodiac3D CAD Model](https://zodiac3d.com/pages/copy-of-datasheets) of their BMO Hotend was used for reference.
 
 Images
