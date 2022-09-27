@@ -1,6 +1,5 @@
-**Any questions? Hit me up on the Voron discord!** @Alexander Þór 🇮🇸🇬🇧#8355
-
  # 270 Degree Clamping Hinges #
+ **Any questions? Hit me up on the Voron discord!** @Alexander Þór 🇮🇸🇬🇧#8355
 
  The design of this hinge is based on [_chrisgonzales_](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chrisrgonzales/270_degree_hinge) already incredible 270 degree hinges. The main goal of this remix was to have the front panels mounted in a way that **didn't use any VHB tape or holes that needed to be drilled into the acrylic**, and of course, use minimal amounts of additional hardware. After many design iterations and improvements I came to a solution.
 
