@@ -1,3 +1,4 @@
+**Any questions? Hit me up on the Voron discord!** @Alexander Þór 🇮🇸🇬🇧#8355
 
  # 270 Degree Clamping Hinges #
 
