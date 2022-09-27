@@ -1,4 +1,5 @@
  # Offset Inlet Skirts For Reinforced Z Motors #
+ **Any questions? Hit me up on the Voron discord!** @Alexander Þór 🇮🇸🇬🇧#8355
 
  ![CAD-View-Without-Bg.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/Offset-Inlet-Skirts-For-Reinforced-Z-Motors/Images/CAD-View-Without-Bg.png)
  
