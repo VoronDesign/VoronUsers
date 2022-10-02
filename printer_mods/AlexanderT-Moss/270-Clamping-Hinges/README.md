@@ -6,7 +6,7 @@
  ### Important Notice ###
 
  If you're going for a super sealed enclosure, then these hinges are not for you. In testing ( at the moment with only 2 hinges per panel ) I found after opening and closing the doors several times, they would slowly lose alignment ( only by fractions of a mm ) and just need a little push to re-align so the panels would close properly and not collide. This means you'll probably have a gap of a couple mm between the panels at the front if you don't want to be driven crazy by them not staying super aligned. A potential fix would be to print 3 hinges for each panel but I am yet to test this although I strongly recommend you do use 3 hinges per panel if you have a printer larger than 250x250 ( what I'm testing them on ).
- 
+
 ### Update Log ###
 
 **11.12.21** - Made subtle changes to dimensions to hold panels closer together whilst having them fully seated in the clamps for maximum strength, also changed recommended print settings for stronger face_plate_bottom.stl.
@@ -14,18 +14,18 @@
  ### Using Foam Tape ###
 
  At the moment I have only tested using 3mm thick foam and that works well, you may be able to get away with 4mm foam, but for anything thicker, you'll need to modify part of the hinge to accommodate this.
- 
+
  ### Keeping The Doors Shut ###
- 
+
  I am currently using clamps designed by [_v6cl_](https://github.com/v6cl/My-Voron2.4-Customs/tree/main/Panel_Locker)
 
  ### Different Styles Of Face Plates ###
 
  The file names match up with the digrams below.
 
- Face Plate No Logo               |  Face Plate Embossed Logo         | Face Plate Through Logo
- :-------------------------------:|:-------------------------------:|:-------------------------------:
- ![Logo-Variation-0.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-0.png?raw=true)         |  ![Logo-Variation-1.png](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-1.png?raw=true)  | ![Logo-Variation-2](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/Logo-Variation-2.png?raw=true)
+ |                       Face Plate No Logo                        |                    Face Plate Embossed Logo                     |                   Face Plate Through Logo                   |
+ | :-------------------------------------------------------------: | :-------------------------------------------------------------: | :---------------------------------------------------------: |
+ | ![Logo-Variation-0.png](./Images/Logo-Variation-0.png?raw=true) | ![Logo-Variation-1.png](./Images/Logo-Variation-1.png?raw=true) | ![Logo-Variation-2](./Images/Logo-Variation-2.png?raw=true) |
 
  ## BOM - Per Hinge ##
  **Printed Parts**
@@ -54,7 +54,7 @@
  ```
  ## Assembly ##
 
- ![Clamping-Hinges-Assembly.gif](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/270-Clamping-Hinges-Assembly.gif?raw=true)
+ ![Clamping-Hinges-Assembly.gif](./Images/270-Clamping-Hinges-Assembly.gif?raw=true)
  _Better photos will come in good time ;)_
 
  1. Attach the _face_plate_bottom_ to the _face_plate_top_ using 2x M3 x 8 mm Bolts and 2x Hex Nuts - Keep the bolts loose for now
@@ -62,9 +62,9 @@
  3. Install the finished hinge assembly to the frame using 1x M3 T-Nut and 1x M3x8mm Bolt - Position them now to your liking
  4. Once all the hinges are on the frame. Slot in a panel on one side, before tightening down the M3x8mm Bolts in the faceplate assembly. And repeat for the other panel.
  5. Loosen the panel's clamps and position accordingly, repeat for the other panel.
- 6. For the handles, I just re-used the correct ones that _chrisgonzales_ made :). 
+ 6. For the handles, I just re-used the correct ones that _chrisgonzales_ made :).
 
  ## Installed On My 2.4 ##
 
- ![IMG_0310.PNG](https://github.com/Alexander-T-Moss/VoronUsers/blob/master/printer_mods/AlexanderT-Moss/270-Clamping-Hinges/Images/IMG_0310.png?raw=true)
+ ![IMG_0310.PNG](./Images/IMG_0310.png?raw=true)
  _Better photos will come in good time ;)_
