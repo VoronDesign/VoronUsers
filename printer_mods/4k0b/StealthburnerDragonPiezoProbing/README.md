@@ -55,7 +55,7 @@ I needed to reverse the polarity of the sensor ring to the circuit (+ side on - 
 
 When the sensitivity of the circuit is adjusted correctly, I can not see any deflection of the Stealthburner toolhead when probing.
 
-On the Fysetc Spider board, the probing voltage needs to be jumpered to 5V instead of the default 24V that is used for inductive probe.
+**On the Fysetc Spider board, the probing voltage needs to be jumpered to 5V instead of the default 24V that is used for inductive probe.**
 
 ## Printer.cfg
 
