@@ -62,19 +62,19 @@ On the Fysetc Spider board, the probing voltage needs to be jumpered to 5V inste
 My probe section in klipper printer.cfg is as follows:
 
 [probe]
-pin: ^!PA3
-x_offset: 0
-y_offset: 0
-z_offset: 0
-speed: 15.0
-lift_speed: 25.0
-samples: 2
-samples_result: median 
-sample_retract_dist: 1.0
-samples_tolerance: 0.01
-samples_tolerance_retries: 2
-activate_gcode: G4 P500
+pin: ^!PA3  
+x_offset: 0  
+y_offset: 0  
+z_offset: 0  
+speed: 15.0  
+lift_speed: 25.0  
+samples: 2  
+samples_result: median   
+sample_retract_dist: 1.0  
+samples_tolerance: 0.01  
+samples_tolerance_retries: 2  
+activate_gcode: G4 P500  
 
 The activate_gcode adds 500 ms wait before the probing in case the probe was triggered by the tool head move to the probing position.
 
-My probe speed is much higher than advised by precisionpiezo, but the results stabilized with higher speeds. I adjusted the circuit a little on the insensitive side to have stable results. If the toolhead moves when probing, sensitivity is too low (or polarity is reversed). 
+My probe speed is much higher than advised by precisionpiezo, but the results stabilized with higher speeds. I adjusted the circuit a little on the insensitive side to have stable results. If the toolhead is pushed upwards when probing, sensitivity is too low (or polarity is reversed). 
