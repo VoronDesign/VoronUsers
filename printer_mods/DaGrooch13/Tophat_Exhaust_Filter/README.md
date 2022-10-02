@@ -2,12 +2,14 @@
 After growing tired of my room smelling of ABS, I decided to create an exhaust and filter system that could be printed entirely on a v0.
 This mod utlizes **5 layers** of 10mm thick activated charcoal sheets, a 60mm x 25mm fan and an optional roomba HEPA filter.
 I have tested it throughly and my design almost entirely eliminates the ABS smell during and after printing.
-<img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Asm_Front_View.jpg" width="500">
-<img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Front_View.jpg" width="400">
 
-The entire assembley (With the HEPA filter attachment) sticks out about 110 mm past the rear of the printer.
-<img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Top_View.jpg" width="400">
-<img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Side_View.jpg" width="400">
+![](./Github_Images/Asm_Front_View.jpg)
+![](./Github_Images/Front_View.jpg)
+
+The entire assembly (With the HEPA filter attachment) sticks out about 110 mm past the rear of the printer.
+
+![](./Github_Images/Top_View.jpg)
+![](./Github_Images/Side_View.jpg)
 
 ## BOM
 * 4x M3x6 screws
@@ -19,11 +21,13 @@ The entire assembley (With the HEPA filter attachment) sticks out about 110 mm p
 * OPTIONAL Roomba HEPA filter [Link](https://www.amazon.com/MZY-LLC-Filters-Replacement-Robotic/dp/B00K7DMEJ0/ref=sr_1_7?dchild=1&keywords=roomba+filter&qid=1610595450&s=books&sr=1-7)
 
 ## Assembly
-<img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Exploded_Final_Labeled.jpg" width="700">
+![](./Github_Images/Exploded_Final_Labeled.jpg)
+
 Before printing the Fan_Cover make sure to check where the wires from your fan exit the housing and select the corresponding stl.
 The fan wires snake through the assembly and exit through one of the holes in the grill. 
 You will also need to cut 5 55mm x 90mm sheets of activated charcoal to fit into the chamber
-<img src="/printer_mods/DaGrooch13/Tophat_Exhaust_Filter/Github_Images/Tophat_Install.jpg" width="500">
+
+![](./Github_Images/Tophat_Install.jpg)
 
 
 ## Wiring and Klipper
