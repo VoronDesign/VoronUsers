@@ -45,7 +45,7 @@ Because piezo ceramics can contain lead, the dust needs to be kept out of your b
 
 ![Modification](Images/Modification.png)
 
-The modified piezo ring is placed on "washer.stl" and assembled as shown below. The wire can be knotted to make a cable strain relief.
+The modified piezo ring is placed on "washer.stl" and assembled as shown below. I filed all mating surfaces to make sure they are flat. When we bend the disc tightening the screws, it could break. The wire can be knotted to make a cable strain relief.
 
 ![Assembly](Images/Assembly.png)
 
