@@ -33,18 +33,18 @@ STL File naming:
 
 ## Images
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/TISP.jpg)
+![1](./Images/TISP.jpg)
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/1.jpg)
+![1](./Images/1.jpg)
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/2.jpg)
+![1](./Images/2.jpg)
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/3.jpg)
+![1](./Images/3.jpg)
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/4.jpg)
+![1](./Images/4.jpg)
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/5.jpg)
+![1](./Images/5.jpg)
 
-![1](/printer_mods/elcrni/Trident_Internal_Spool_Holder/Images/6.jpg)
+![1](./Images/6.jpg)
 
 
