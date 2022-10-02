@@ -9,7 +9,7 @@ https://user-images.githubusercontent.com/114783511/193450213-34ab1bed-4062-44fb
 ## Overview
 This mod integrates a piezo sensor into the Stealthburner Dragon toolhead so that the nozzle can be used as Z probe. The electronics from https://www.precisionpiezo.co.uk is needed to generate a trigger signal.
 
-A mechanically modified piezo ring intended for ultrasonic welding or cleaning is used as sensor element.
+A mechanically modified piezo ring intended for ultrasonic welding or cleaning is used as sensor element. It is sandwiched between the toolhead printed parts and the dragon hotend.
 
 __Advantages:__
 - No Z-height adjustment needed because the nozzle is the probe.
@@ -45,7 +45,7 @@ Because piezo ceramics can contain lead, the dust needs to be kept out of your b
 
 ![Modification](Images/Modification.png)
 
-The modified piezo ring is placed on "washer.stl" and assembled as shown below. I filed all mating surfaces to make sure they are flat. When we bend the disc tightening the screws, it could break. The wire can be knotted to make a cable strain relief.
+The modified piezo ring is placed on "washer.stl" and assembled as shown below. I filed all mating surfaces to make sure they are flat. When we bend the disc tightening the screws, it could break. The piezo disc is pretensioned by the screws, but this does not influence usability or sensitivity. It is a normal and valid use case for piezo elements. The wire can be knotted to make a cable strain relief.
 
 ![Assembly](Images/Assembly.png)
 
