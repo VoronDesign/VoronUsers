@@ -36,6 +36,7 @@ like so:
 | |[Exhaust filter housing - side thread](./42bios/exhaust_filter_housing_side)|Exhaust filter housing with the G1-8 "thread on the side. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 | |[LED mount](./42bios/LED_mount)|AngryLED - LED-mount for Lumentech LT3 profiles. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 | |[relay mount](./42bios/relay_mount)|relay-mount for 2x 2 channel relay modules.|:x:|:grey_question:|:heavy_check_mark:|:x:|
+|4k0b|[Piezo probe for SB Dragon](./4k0b/StealthburnerDragonPiezoProbing)| Piezo probe for Stealthburner Dragon hotend. |:x:|:heavy_check_mark:|:grey_question:|:grey_question:|:heavy_check_mark:|
 |ademuri|[Lights, Camera, Voron](./ademuri/Lights_Camera_Voron)|A mount for LED strips and Picam for the V0.1|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |aeresov|[TL filament sensor bracket](./aeresov/TL_filament_sensor_bracket)|A bracket for TL filament sensor to mount near stock spool holder. |:x:|:grey_question:|:heavy_check_mark:|:x:|
 ||[MeanWell UHP-xxx DIN mount](./aeresov/MeanWell_UHP_DIN_mount)|A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it across 2 DIN rails.|:x:|:grey_question:|:heavy_check_mark:|
