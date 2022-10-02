@@ -2,7 +2,7 @@
 
 This is a modifaction of the V0 Kirigami front bed made by Kosh42EFG
 
-![Bedfront](https://user-images.githubusercontent.com/62263528/154589228-073a1a1f-0118-4c81-ae40-8124b2f32eaf.jpg)
+![Bedfront](./Bedfront.jpg)
 
 ## BOM
 
@@ -19,7 +19,9 @@ This is a modifaction of the V0 Kirigami front bed made by Kosh42EFG
 - Install the kirigami bed
 - Wire the neopixel and place in the slot with the wires coming out through the tunnel
 - Add the defuser in front of the neopixel, make sure it is a tight fit to hold it well (print thicker if needed)
-![Beddefuser2](https://user-images.githubusercontent.com/62263528/154589930-c60789e9-885c-4b87-a207-555da5d146f4.jpg)
+
+![Beddefuser2](./Beddefuser2.jpg)
+
 - Fit the Kirigami_LED_Bed_Front.stl to the front of the kirigami bed using the M3 screws and nuts
 - Add configuration change to the printer.cfg in klipper:
     - [neopixel my_leds]
