@@ -41,7 +41,7 @@ The piezo disc is sandwiched between the two identical "tool_x2.stl" parts and t
 
 The brittleness of ceramics is especially critical on the edges. They need to be filed a small bevel by only stroking away from the silver plated flat so that no chips are generated.
 
-Because piezo ceramics can contain lead, the dust needs not to be kept out of your body. I filed under running water wearing gloves. 
+Because piezo ceramics can contain lead, the dust needs to be kept out of your body. I filed under running water wearing gloves. 
 
 ![Modification](Images/Modification.png)
 
