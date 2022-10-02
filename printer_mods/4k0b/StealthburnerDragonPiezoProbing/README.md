@@ -1,8 +1,13 @@
 # Piezo probe for Stealthburner Dragon hotend
 
 
+
+https://user-images.githubusercontent.com/114783511/193450213-34ab1bed-4062-44fb-ad70-f1934d3fa493.mp4
+
+
+
 ## Overview
-This mod integrates a piezo sensor into the Stealthburner Dragon toolhead so that the nozzle can be used as Z probe. The electronics from https://www.precisionpiezo.co.uk, is needed to generate a trigger signal.
+This mod integrates a piezo sensor into the Stealthburner Dragon toolhead so that the nozzle can be used as Z probe. The electronics from https://www.precisionpiezo.co.uk is needed to generate a trigger signal.
 
 A mechanically modified piezo ring intended for ultrasonic welding or cleaning is used as sensor element.
 
