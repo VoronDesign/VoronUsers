@@ -74,7 +74,10 @@ Thanks to Jon for the name.
 
 Thanks to Kevin Rahhal for the lid design.
 
+Thanks to moogoo for the hint with the cover issue.
+
 ### Changelog
+17.07.2022: New lid design for both version so there's no gap in the back. Also fixed the issue with the rear cover touching the bucket of the Trident/R2 version.
 01.11.2021: A new coal container with lid to avoid mess when moving the printer. The printing instructions are still the same as before.
 26.04.2022: Added a version for Trident/ V2.4r2. I optimized the existing files as well (walls without infill, chamfered bucket, straight top lid)
 

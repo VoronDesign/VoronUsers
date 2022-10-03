@@ -11,8 +11,13 @@ to conform to the rules below are likely to be rejected.**
     go to `firmware_configurations/`, slicer profiles go to `slicer_profiles/`.
     Create a subfolder with your name, and place the mods in a subfolder with
     a descriptive name within that folder, e.g.: `/printer_mods/FHeilmann/flux_capacitor`
-  * [ ] Folders names MUST NOT contain spaces. If possible, make sure file names also 
-    do not contain any spaces.
+  * [ ] Folder and file naming:
+    * Folders and filenames shouldn't contain spaces. Only letters `a-zA-Z`, numbers `0-9`, underscores `_`, hyphens `-` and periods `.`
+    * Primary color: `part_xyz.stl`
+    * Accent color: `[a]_part_xyz.stl`
+    * Opaque color (Blocks light): `[o]_part_xyz.stl`
+    * Clear/transparent color (Allows light): `[c]_part_xyz.stl`
+    * Quantity, if more than one is needed: `part_xyz_x4.stl`
   * [ ] For each mod, add a small `README.md` file to its folder with a short description
     of what the mod accomplishes. This readme can be used to add pictures, give assembly
     instructions or specify a bill of materials if the mod requires additional hardware.
