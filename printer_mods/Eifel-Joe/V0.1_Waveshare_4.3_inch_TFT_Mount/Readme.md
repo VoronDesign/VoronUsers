@@ -12,7 +12,8 @@ All needed STL inside, parts for the mount itself, modified Front-Skirts and ext
 | Part | Quantity | Comment|
 |------|------|--------|
 | M3 X 50 SHCS/BHCS Screw | 4 | for extended Feet |
-| M3 X 8 SHCS/BHCS Screw | 10 | 4 from regular Skirts |
+| M3 X 6 SHCS/BHCS Screw | 6 | 4 from regular Skirts |
+| M3 X 8 SHCS/BHCS Screw | 4 |  |
 | M3 hex-Nut | 6 | 4 from regular Skirts |
 | M3 Threaded Insert | 4 | standard Voron Specs |
 | M2.5 Screws | 4 | Included with screen |
