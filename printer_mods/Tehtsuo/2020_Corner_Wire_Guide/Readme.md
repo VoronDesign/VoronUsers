@@ -19,6 +19,10 @@ Purely for aesthetics, this mod doesn't really serve a functional purpose.  I gu
 
 There is a mount hole to match up with every face in the corner, so you can pick which one you use.  Note that the one you use will probably be blocked off from feeding wires through.  Since this is not a structural piece, you should be fine with just one mount point.
 
+**Printing:**
+
+Use standard Voron part settings
+
 **Compatibility:**  
 
 The 2020 version is tested to work with any 2020 blind joints.  The 1515 version is just a .75 scaled version of the 2020, so you may need to do some adjusting with a drill to get the m3 screws seated.
