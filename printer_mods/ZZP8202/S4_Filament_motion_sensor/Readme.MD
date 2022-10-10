@@ -23,7 +23,7 @@
  
  https://youtu.be/ZRFLYlfTKq8
  
-### [3D 模型](./3D)
+### [3D ](./3D)
  https://evercraft.co/share?key=0AD7E8
 
 
@@ -50,7 +50,9 @@
 |18	|Fasteners	|M5X12 BHCS	|X2	|Option
 
 *Two types:
+
 Type A - without GT2 20T Pulley 
+
 Type B - With GT2 20T Pulley 
 ![BOM](Photos/Bom.png)
 
