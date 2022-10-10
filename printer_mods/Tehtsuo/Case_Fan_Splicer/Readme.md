@@ -26,7 +26,7 @@ The connectors should fit just barely into the holes, you may need to use pliars
 
 Then, just solder wires parallel down the pins.
 
-![Picture](./Connectors.png)
+![Picture](./Solder.png)
 
 Mount with m3 SHCS and your choice of extrusion nuts.
 
