@@ -374,6 +374,7 @@ like so:
 | | [TacoRaven Mounting Frame](./tameike/V0_TR_Mounting_Frame) | TR V0 mount | :heavy_check_mark: | :x: | :x: |:x:|
 | | [Jetpack V0 base](./tameike/Jetpack_V0)| Attach Jetpack to V0 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | tayto-chip | [V2.4 Skirt Switch Mod](./tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts| :x: | :x: | :heavy_check_mark: |:x:|
+| Tehtsuo | [Case Fan Splitter](./Tehtsuo/Case_Fan_Splitter) | Alternative to a PCB for splitting case fans using JST XH connectors | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|
 |teookie|[AB dial indicator mount](./teookie/AB_dial_indicator_mount)|Mount for attaching standard dial indicators to AB|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | | [SKR Brace](./teookie/skr_brace)|Rigidize and stabilize SKR 1.4 mounts|:x:|:x:|:heavy_check_mark:|:x:|
 | th0mpy | [BEEFY Din Clips](./th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
