@@ -85,7 +85,7 @@ like so:
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
-||[Stealthburner Rapido UHF](./bythorsthunder/Stealthburner_Rapido_UHF)|Stealthburner mod for Rapido UHF |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+||[Stealthburner Rapido UHF](./bythorsthunder/Stealthburner_Rapido_uhf)|Stealthburner mod for Rapido UHF |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |CannedBass|[Trident Bed Fans](./CannedBass/Trident_Bed_Fans)| Bed fans for Trident |:x:|:grey_question:|:x:|:x:|:heavy_check_mark:|
 ||[PITFT50 45-degree mount](./CannedBass/PITFT50_45_degree_mount)| Mount that puts the screen at a 45-degree angle for more vertical clearance |:x:|:grey_question:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
