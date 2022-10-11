@@ -1,6 +1,6 @@
 # Stealthburner + Clockwork2 Toolhead for HF Crazy Mozzie
 
-This is a a toolhead mount for the HF Crazy Mozzie (or other Mosquito clones), compatible with the final release of Stealthburner and Clockwork 2. [Design source.](https://a360.co/3CtpGPo)
+This is a a toolhead mount for the HF Crazy Mozzie (or other Mosquito clones), compatible with Stealthburner and Clockwork 2. [Design source.](https://a360.co/3CtpGPo)
 
 ![Photo](images/pic.jpg)
 
