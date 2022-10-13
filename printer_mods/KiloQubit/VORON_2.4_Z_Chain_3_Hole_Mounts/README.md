@@ -5,11 +5,14 @@ This mod is used to mount a generic 3-hole Z chain in a VORON 2.4.  The lower mo
 and the upper mount attaches to A drive in the stock location instead of the 2-hole chain, and then the 3-hole chain
 mounts to the upper mount.
 
+EDIT by Uilnaydar: Added a directory (Extended_Chain_Support) with a lower mount with a chain extender to stiffen droopy chains and prevent them interferring with Klicky mod.
+
 ![Z Chain](z_chain.jpg)
 ![Lower Mount Inserts](lower_mount_inserts.jpg)
 ![Upper Mount Inserts](upper_mount_inserts.jpg)
 ![Upper Mount](upper_mount.jpg)
 ![Upper Mount With Chain](upper_mount_with_chain.jpg)
+![Upper Mount With Chain Extender](Extended_Chain_Support/3-Hole_Chain/Support.jpg)
 
 BOM
 ---
