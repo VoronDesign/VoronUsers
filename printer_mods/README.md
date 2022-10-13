@@ -55,6 +55,7 @@ like so:
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Revo Nozzle Skirt](./Andre/Revo_Nozzle_Skirt_Trident)|A Revo nozzle box hidden in a Trident skirt.|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 |antoinecellerier|[DS18B20 Sensor Mount](./antoinecellerier/ds18b20-sensor-mount)|DS18B20 temperature sensor mount|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+| ardichoke | [V0 Long Thumb Nut](./ardichoke/v0-long-thumb-nut) | Taller thumb nuts for V0 bed | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[Magnetic hotend fan cover](./arkeet/magnet-fan-cover)|A replacement hotend fan cover, held with magnets instead of screws. |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
