@@ -4,6 +4,7 @@ This is originally based off of samwiseg0 mod
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/corner_cable_hide
 
 Modified LDO's PCB splitter spacer
+
 https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/led_pcb_spacer.stl
 
 Covers cables that are running around the top corners of 2.4R2 extrusions behind the Z idlers with drop down holes around the vertical extrusions and inline holes with cutouts to keep the wire management as clean as possible. Holes are big enough for a 3 pin microfit connector pass through any larger will require depinning.
@@ -11,6 +12,7 @@ Covers cables that are running around the top corners of 2.4R2 extrusions behind
 **NEW** - Modified the existing design to all the LDO LED splitter PCB to be mounted on the back-upper 2020 extrusion. There's a cutout for the splitter PCB and spacer. This should allow you to use the max Z height of the stock LDO config.
 
 **CAUTION**
+
 Check your max Z travel as there may be some loss.
 
 ### Printing
@@ -19,7 +21,7 @@ Check your max Z travel as there may be some loss.
   * Default voron settings
   * No supports needed
 
-### BOM **per cover**
+### BOM**- per cover**
 Size | Qty
 --- | ---
 M3x8 or 10 | 2
