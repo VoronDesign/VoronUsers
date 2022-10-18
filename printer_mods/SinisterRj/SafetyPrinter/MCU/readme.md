@@ -6,4 +6,6 @@ This is only the bracket. You should print also the pcb_din_clip_x3.stl (https:/
 1x Arduino bracket (printed);</br>
 1x Pcb DIN clip (printed);</br>
 2x M2x10 self tapping screws</br>
+1x Arduino UNO or Nano</br>
+1x SafetyPrinter PCB (https://github.com/SinisterRj/SafetyPrinter/wiki/3.-Electronics)</br>
 </p>
