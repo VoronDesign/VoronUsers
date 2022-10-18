@@ -3,7 +3,7 @@
 This is originally based off of samwiseg0 mod 
 https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/samwiseg0/corner_cable_hide
 
-Modified LDO's PCB splitter spacerhttps://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/led_pcb_spacer.stl
+Modified LDO's PCB splitter spacer https://github.com/MotorDynamicsLab/LDOVoron2/blob/main/STLs/led_pcb_spacer.stl
 
 Covers cables that are running around the top corners of 2.4R2 extrusions behind the Z idlers with drop down holes around the vertical extrusions and inline holes with cutouts to keep the wire management as clean as possible. Holes are big enough for a 3 pin microfit connector pass through any larger will require depinning.
 
