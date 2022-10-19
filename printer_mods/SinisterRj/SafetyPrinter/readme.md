@@ -1,6 +1,10 @@
-[Safety Printer](https://github.com/SinisterRj/SafetyPrinter) is a great project to improve the safety of your printer. 
+# SafetyPrinter Mod
+[Safety Printer](https://github.com/SinisterRj/SafetyPrinter) is a great project to improve the safety of your printer. The project aims to improve the safety of 3D FDM Printers by adding an external MCU (an Arduino) which increases your chance of preventing or mitigating a fire at your home. 
 
 This mod includes all 3D parts to be printed to assemble the Safety Printer MCU and its sensors to a Voron 2.4 printer.
+
+More information about the project can be found at:
+[https://github.com/SinisterRj/SafetyPrinter/wiki](https://github.com/SinisterRj/SafetyPrinter/wiki)
 
 <img src="https://user-images.githubusercontent.com/81830673/192379819-4499de46-5cef-4512-95a7-99c88f07586f.jpg" alt="Complete electronics assembly" width="400">\
 _Safety Printer MCU assembly_
@@ -10,8 +14,3 @@ _Safety Printer MCU assembled on electronics bay_
 
 <img src="Pictures/Resetbutton.jpg" alt="Reset button with status LED detail" width="400">\
 _Reset button with status LED detail_
-
-
-
-More information about the project can be found at:
-https://github.com/SinisterRj/SafetyPrinter
