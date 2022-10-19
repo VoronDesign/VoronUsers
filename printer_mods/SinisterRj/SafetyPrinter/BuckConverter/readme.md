@@ -1,3 +1,9 @@
-Din rail support for setp up buck converter needed for most of 12V dry contact smoke detectors.
+<p>Din rail support for setp up buck converter needed for most of 12V dry contact smoke detectors.</P>
 
-Designed for Mt3608 (37x18 mm) boards with no screw holes.
+<img src="../Pictures/buck.jpg" alt="Buck converter din support" width="400">\
+_Buck converter din support_
+
+<p>Designed for Mt3608 (37x18 mm) boards with no screw holes.</>
+
+<p><b>BOM</b></p>
+1x BuckConverter.stl (printed)
