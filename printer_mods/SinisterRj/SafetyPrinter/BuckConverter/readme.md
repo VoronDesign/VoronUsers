@@ -1,4 +1,4 @@
-<p>Din rail support for setp up buck converter needed for most of 12V dry contact smoke detectors.</P>
+<p>Din rail bracket for step up DC-DC buck converter needed for most of 12V dry contact smoke detectors.</P>
 
 <img src="../Pictures/buck.jpg" alt="Buck converter din support" width="400">\
 _Buck converter din support_
