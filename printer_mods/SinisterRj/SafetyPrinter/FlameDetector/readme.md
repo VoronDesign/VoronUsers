@@ -12,11 +12,11 @@ _IR flame detector assembly_
 <p>It's recommended to use 2x flame sensors due to its low reliability.</p>
 
 <p><b>BOM:</b></p>
-1 x Cover left.stl (printed)</br>
-1 x Cover right.stl (printed)</br>
-2 x Plug.stl (printed)</br>
-1 x Support left.stl (printed)</br>
-1 x Support right.stl (printed)</br>
+1 x cover_left.stl (printed)</br>
+1 x cover_right.stl (printed)</br>
+2 x plug_x2.stl (printed)</br>
+1 x support_left.stl (printed)</br>
+1 x support_right.stl (printed)</br>
 2 x M3 Hammerhed nuts or m3 t-nuts</br>
 2 x M3x8 SHCS</br>
 2 x IR sensor module * (https://www.aliexpress.com/item/1005001579535254.html)</br>
