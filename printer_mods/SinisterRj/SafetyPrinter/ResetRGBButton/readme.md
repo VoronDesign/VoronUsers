@@ -13,4 +13,4 @@ _Reset button with status LED detail_
 1 x lock.stl (printed)\
 1 x [c]shade_pressfit.stl (printed in translucent filament)\
 1 x Omron Romer-G switch\
-1 x NeoPixel RGBW Mini Button PCB ([Afiliate link](https://s.click.aliexpress.com/e/_DDmimzN))
+1 x NeoPixel RGBW Mini Button PCB ([Affiliate link](https://s.click.aliexpress.com/e/_DDmimzN))
