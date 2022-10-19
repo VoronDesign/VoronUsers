@@ -10,8 +10,8 @@ _Back connector with microfit_
 <p>It's based on an old version of this mod: https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/Skirt-Microfit-Inserts</p>
 
 <p><B>BOM</B></p>
-1x ADXL345.connector.keystone.x1.stl (printed)</br>
-1x lock.x2.stl (printed)</br>
+1x microfit.connector.keystone.stl (printed)</br>
+1x lock.stl (printed)</br>
 1x rear_center_skirt_300.stl (printed *)
 1x microfit 3.0 2 way connector male (for emergency button)</br>
 1x microfit 3.0 2 way connector female</br>
