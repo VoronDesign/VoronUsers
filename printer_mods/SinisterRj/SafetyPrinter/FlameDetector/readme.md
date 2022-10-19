@@ -1,13 +1,13 @@
 <p>Designed to fit 20x20 extrusions and be located at the rear top of the frame.</P>
 
 <img src="../Pictures/flame1.jpg" alt="IR flame detector" width="400">\
-_IR flame detector_
+_IR flame detectors recommended location_
 
 <img src="../Pictures/flame2.jpg" alt="IR flame detector" width="400">\
-_IR flame detector_
+_IR flame detector detail_
 
 <img src="../Pictures/flame3.jpg" alt="IR flame detector" width="400">\
-_IR flame detector_
+_IR flame detector assembly_
 
 <p>It's recommended to use 2x flame sensors due to its low reliability.</p>
 
