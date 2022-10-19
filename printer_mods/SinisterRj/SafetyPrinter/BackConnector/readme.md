@@ -1,4 +1,12 @@
 <p>This is handfull if you use external sensors, like smoke detectors or an emergency stop button.</P>
+
+
+<img src="../Pictures/backconnector.jpg" alt="Back connector with microfit" width="400">\
+_Back connector with microfit_
+
+<img src="../Pictures/backconnector2.jpg" alt="Back connector with microfit" width="400">\
+_Back connector with microfit_
+
 <p>It's based on an old version of this mod: https://github.com/EtteGit/EnragedRabbitProject/tree/main/usermods/Skirt-Microfit-Inserts</p>
 
 <p><B>BOM</B></p>
