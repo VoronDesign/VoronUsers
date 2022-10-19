@@ -1,5 +1,10 @@
 Safety Printer MCU (arduino UNO or sfety printer PCB) bracket to DIN rail in electronics bay.
 
+<img src="../Pictures/MCU.jpg" alt="IR flame detector" width="400">\
+_Safety Printer MCU_
+
+<img src="../Pictures/MCU4.jpg" alt="IR flame detector" width="400">\
+_Safety Printer MCU_
 
 <p><b>BOM:</b></br>
 1x Arduino_bracket.stl (printed)</br>
