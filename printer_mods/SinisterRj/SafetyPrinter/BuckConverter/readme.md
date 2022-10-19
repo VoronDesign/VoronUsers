@@ -7,3 +7,4 @@ _Buck converter din support_
 
 <p><b>BOM</b></p>
 1x buck_converter.stl (printed)
+1x Step up DC-DC buck converter.
