@@ -9,7 +9,7 @@ _Relay recommended assembly position_
 
 <p><b>BOM</b></p>
 
-1x 5v relay board ([Affiliate Link](https://s.click.aliexpress.com/e/_DkEaHBH))\
+1x 1ch 5v relay board ([Affiliate Link](https://s.click.aliexpress.com/e/_DkEaHBH))\
 1x relay_support.stl (printed)\
 2x M3 hammerhead nut or t-nuts\
 2x M3x8 SHCS screws\
