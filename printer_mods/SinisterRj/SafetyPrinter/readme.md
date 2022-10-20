@@ -6,11 +6,11 @@ This mod includes all 3D parts to be printed to assemble the Safety Printer MCU 
 More information about the project can be found at:
 [https://github.com/SinisterRj/SafetyPrinter/wiki](https://github.com/SinisterRj/SafetyPrinter/wiki)
 
-<img src="https://user-images.githubusercontent.com/81830673/192379819-4499de46-5cef-4512-95a7-99c88f07586f.jpg" alt="Complete electronics assembly" width="400">\
+![](Pictures/Assembly1.jpg)
 _Safety Printer MCU assembly_
 
-<img src="Pictures/MCU.jpg" alt="Safety Printer MCU assembled on electronics bay" width="400">\
+![](Pictures/MCU.jpg)
 _Safety Printer MCU assembled on electronics bay_
 
-<img src="Pictures/Resetbutton.jpg" alt="Reset button with status LED detail" width="400">\
+![](Pictures/Resetbutton.jpg)
 _Reset button with status LED detail_
