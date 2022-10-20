@@ -1,11 +1,11 @@
-<p>A reset button with a RGB status led to be attached to the skirt os your printer.</p>
+A reset button with a RGB status led to be attached to the skirt os your printer.
 
-<img src="../Pictures/Resetbutton.jpg" alt="Reset button with status LED detail" width="400">\
+![](../Pictures/Resetbutton.jpg)
 _Reset button with status LED detail_
 
-<p>Its based on someone work, but i lost track from where I found it. If you are the original creator of this mod or knows who is, please send me a message to help me to include the proper credits here.</p>
+Its based on someone work, but i lost track from where I found it. If you are the original creator of this mod or knows who is, please send me a message to help me to include the proper credits here.
 
-<p><b>BOM:</b></p>
+### BOM:
 
 1 x base.stl (printed)\
 1 x [o]cover_safety_printer_snapon.stl (printed in a opaque filament)\
