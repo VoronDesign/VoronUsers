@@ -1,4 +1,7 @@
 # Z Cover for v0.1
+
+A cover to stop things from dropping down the Z motor and disappearing forever.
+
 <img src="IMG/Bottom_panel_Airgap_Lid_v4.png" width="825" height="461">
 
 **BOM:**
