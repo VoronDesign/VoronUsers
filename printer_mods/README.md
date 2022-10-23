@@ -186,7 +186,7 @@ like so:
 | | [Voron2.4 Y Endstop Relocation](./hartk1213/Voron2.4_Y_Endstop_Relocation) | This mod relocates the Y endstop to the top A drive piece | :x:| :x: | :heavy_check_mark: |:x:|:x: |
 | | [Voron2.4 GE5C](./hartk1213/Voron2.4_GE5C) | This mod replaces the stack of printed z joints with a metal spherical bearing  | :x:| :x: | :heavy_check_mark: |:x:|:x:|
 | | [Voron2.4 SexBolt ZEndstop](./hartk1213/Voron2.4_SexBolt_ZEndstop) | This mod replaces stock V2 Z endstop with a different style| :x:| :x: | :heavy_check_mark: |:x:|:heavy_check_mark: |
-| hbo | [Voron0 skirs](./hbo/Voron0_Skirts) | Collection of Voron 0 Skirts | :heavy_check_mark:| :x: | :x: |:x:|
+| hbo | [Voron0 skirts](./hbo/Voron0_Skirts) | Collection of Voron 0 Skirts | :heavy_check_mark:| :x: | :x: |:x:|
 | henrikssn | [Plug Panel Mod for Generic Unfiltered Modules](./henrikssn/plug_panel_generic) | v2.4 plug panel for generic unfiltered modules with 66mm x 27mm cutout such as the Delta 06A2 and Qualtek 761-18 | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Parametric Spool Holder](./henrikssn/parametric_spool_holder) | Spool holder where the length is a parameter. | :x: | :heavy_check_mark: | :heavy_check_mark: |:x:  | :heavy_check_mark:|
 | hergtoler | [Exhaust Housing for 120mm Fan and 4in Duct](./hergtoler/exhaust_120mm_duct) | v2.4 Exhaust Housing for 120mm Fan and 4in Duct | :x: | :x: | :heavy_check_mark: | :x: | :x: |
