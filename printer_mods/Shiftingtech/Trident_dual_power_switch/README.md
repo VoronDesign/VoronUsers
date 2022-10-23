@@ -1,5 +1,6 @@
 # Trident dual power switch
 ![Dual switch](Images/DualSwitch.jpg)
+
 This is a simple mod to allow mounting two switches along side the filtered inlet, rather than one.  
 The intention is to wire this so that the Raspberry Pi remains powered, even when the rest of the system is off
 
