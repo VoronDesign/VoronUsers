@@ -58,7 +58,7 @@ The front display mount also provide a mounting option for a reset or emergency 
 I'm using this switch to reset a BTT PSU relays. 
 
 The switch in the cad is a standard 7mm momentary switch that is easy to source even from local providers.
-Make shire to get a Normal OPEN switch if you plan to use it with the BTT PSU Relays.
+Make sure to get a normaly OPEN switch if you plan to use it with the BTT PSU Relays.
 (A Relays mount and firmware configs are in preparation)
 
 
