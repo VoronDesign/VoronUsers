@@ -56,4 +56,14 @@ SET_FAN_SPEED FAN=exhaust SPEED=0.0
 
 # Modifications
 
-You can use either the STEP file or edit it on OnShape (See https://cad.onshape.com/documents/acde9c61a85e1d2c4963eee0).
+You can use either the STEP file or edit it on OnShape (See https://cad.onshape.com/documents/acde9c61a85e1d2c4963eee0). Please not that the part is licensed under the GPL. If you publish an STL, please also publish an updated STEP file. If you sell this part, you need to publish your modifications.
+
+# License
+
+Copyright (C) 2022 Iblue van Lyt
+
+This part is free software: you can redistribute it and/or modify it under the terms of the GNU General Public License as published by the Free Software Foundation, either version 3 of the License, or (at your option) any later version.
+
+This part is distributed in the hope that it will be useful, but WITHOUT ANY WARRANTY; without even the implied warranty of MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the GNU General Public License for more details.
+
+There is a copy of the GNU General Public License in the root of this repository.
