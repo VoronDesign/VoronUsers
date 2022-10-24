@@ -11,7 +11,7 @@ Tophat Exhaust Fan with activated carbon and HEPA filters.
 (the BOM is for upgrading from an existing Tophat)
 
 * 1 pc. 60x60x25 Fan (preferably without "automatic restart" feature, which prevents PWM) 
-* 1 pc. Carbon Filter (cut to fit)
+* 1 pc. Cut to Fit Carbon Filter
 * 1 pc. HEPA Filter for Roomba 800 Series
 * 2 pcs. M3x8 Screw
 * 16 pcs. M3x5x4 mm Heat Set Inserts (or what you have left from your Voron)
@@ -24,7 +24,7 @@ Tophat Exhaust Fan with activated carbon and HEPA filters.
 1. Print parts
 2. Insert 16 Heat Set inserts into the places
 3. Using two M3x8 screws, mount the 6025 fan into the box. Make sure it sucks from the inside of the tophat. Put the fan cable into the grove on either the left or the right side, depending on your fan.
-4. Print the cutting template for the filter onto A4 paper ![Template](Filter-Template.pdf) and cut the carbon filter according to the markings into the box.
+4. Print the [cutting template for the filter onto A4 paper](Filter-Template.pdf) and cut the carbon filter according to the markings into the box. Push into box.
 5. Add the HEPA filter on top
 6. Assemble the rest like the normal V0.1 tophat and mount to Voron, connect the fan to a free port. Mount using cable tie so it does not interfere with the A/B belts.
 
