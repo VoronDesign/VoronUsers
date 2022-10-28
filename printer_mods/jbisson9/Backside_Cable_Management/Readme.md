@@ -3,14 +3,14 @@
 
 <img src="Images/Complete system.jpg" width="400px" />
 
-This is alternative wiring management solution to current methods.  And it was fun to design :)
+This is alternative wiring management solution to current methods.  And it was fun to design :)  The idea was to terminate cable within the channel with microfit connectors for easy maintenance.  Guides are used underneath to secure the wiring.  An optional screw and heat set insert are used to secure the system in place if needed.
 
-The idea was to terminate cable within the channel with microfit connectors for easy maintenance.
+<img src="Images/View from Fan.jpg" width="400px" />
 
-<img src="Images/View from Fan" width="400px" />
 Note microfit connectors are pressure fit with specials retention jigs.
 
 <img src="Images/View from BTT.jpg" width="400px" />
+
 The BTT smart filament sensor fits into the printed part.  This is a remix from an unknown design listed on teamfdm.com (thanks!)
 
 <img src="Images/View from Base.jpg" width="400px" />
