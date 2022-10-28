@@ -1,7 +1,7 @@
 
 # BackSide Cable Management
 
-<img src="Images/Complete system.jpg" width="400px" />
+<img src="Images/Main design.png" width="400px" />
 
 This is alternative wiring management solution to current methods.  And it was fun to design :)  The idea was to terminate cable within the channel with microfit connectors for easy maintenance.  Guides are used underneath to secure the wiring.  An optional screw and heat set insert are used to secure the system in place if needed.
 
