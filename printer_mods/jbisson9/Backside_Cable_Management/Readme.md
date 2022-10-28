@@ -13,11 +13,11 @@ Note microfit connectors are pressure fit with specials retention jigs.
 
 The BTT smart filament sensor fits into the printed part.  This is a remix from an unknown design listed on teamfdm.com (thanks!)
 
-<img src="Images/View from BTT.jpg" width="400px" />
+<img src="Images/view_from_BTT.jpg" width="400px" />
 
 The system makes use of the keystone skirt, normally for USB/Rasp Pi connections, but in this case two microfit connectors are pressure fit into the slots
 
-<img src="Images/View from Base.jpg" width="400px" />
+<img src="Images/view_from_base.jpg" width="400px" />
 
 # BOM
 * 4x M3 x 12 SHCS
@@ -34,20 +34,20 @@ Print what you need.  Uses standard Voron print profiles.  Supports not needed b
 
 Attach the BTT sensor to the jig with two M3 button head screws.  Create the wiring harnesses to attach the microfit connectors.  As an aside, all three ends are males connectors, unusual generally, but easier to build jigs around them.  
 
-<img src="Images/microfit jig.jpg" width="400px" />
+<img src="Images/microfit_jig.jpg" width="400px" />
 
 Once the harness is built up, add the jigs and insert them into the channels.  They are pressure fit and tight.
 
-<img src="Images/completed jig.jpg" width="400px" />
+<img src="Images/completed_jig.jpg" width="400px" />
 
 Finished cabling should look like this.  Be sure to slide in the cable guide on the unit before attaching it to the frame.
 
-<img src="Images/example cabling.jpg" width="400px" />
+<img src="Images/example_cabling.jpg" width="400px" />
 
 # Optional
 
 If you want to secure the entire system to the panel, use a heat set insert and backer.  The panel is only 3mm thick so you'll need something to secure the rest. 
 
-<img src="Images/Optional Screw with heat set insert.png" width="400px" />
+<img src="Images/Optional_Screw_with_heat_set_insert.png" width="400px" />
 
 All the best!
