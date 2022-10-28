@@ -2,11 +2,22 @@
 # BackSide Cable Management
 
 <img src="Images/Complete system.jpg" width="400px" />
-<img src="Visual/LoudOWL.jpg" width="400px" />
 
-This is alternative part cooling fan solution which uses dual 5015 fan setup for Afterburner Toolhead. Replaces original parts that house 4020 fan or any other similar type of mod. This mod is more of situational add on for PLA or similar type filaments which might require a lot of cooling (or printing at super high speeds). It is not constant solution as it increases gantry weight.
+This is alternative wiring management solution to current methods.  And it was fun to design :)
 
-## Hardware
+The idea was to terminate cable within the channel with microfit connectors for easy maintenance.
+
+<img src="Images/View from Fan" width="400px" />
+Note microfit connectors are pressure fit with specials retention jigs.
+
+<img src="Images/View from BTT.jpg" width="400px" />
+The BTT smart filament sensor fits into the printed part.  This is a remix from an unknown design listed on teamfdm.com (thanks!)
+
+<img src="Images/View from Base.jpg" width="400px" />
+
+The system makes use of the keystone skirt, normally for USB/Rasp Pi connections, but in this case two microfit connectors are pressure fit into the slots
+
+## BOM
 * 2x 5015 24v fans
 * 1x M3x20 SCHS (DIN912)
 
