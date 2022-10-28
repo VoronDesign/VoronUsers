@@ -3,13 +3,13 @@
 
 This is alternative wiring management solution to current methods.  And it was fun to design :)  The idea was to terminate cable within the channel with microfit connectors for easy maintenance.  Guides are used underneath to secure the wiring.  An optional screw and heat set insert are used to secure the system in place if needed.  Currently designed for V2.4 350mm.  CAD will need modification to work with other size and types of printers.
 
-<img src="Images/Main design.png" width="400px" />
-<img src="Images/Complete system.jpg" width="400px" />
+<img src="Images/Main_design.png" width="400px" />
+<img src="Images/complete_system.jpg" width="400px" />
 
 Note microfit connectors are pressure fit with specials retention jigs.
 
-<img src="Images/Guides and Pressure fit connections.png" width="400px" />
-<img src="Images/View from Fan.jpg" width="400px" />
+<img src="Images/Guides_and_Pressure_fit_connections.png" width="400px" />
+<img src="Images/view_from_fan.jpg" width="400px" />
 
 The BTT smart filament sensor fits into the printed part.  This is a remix from an unknown design listed on teamfdm.com (thanks!)
 
@@ -28,7 +28,7 @@ The system makes use of the keystone skirt, normally for USB/Rasp Pi connections
 
 # Printing
 
-Print what you need.  Uses standard Voron print profiles but the BTT jig was better when using supports (sorry first design and I don't have all my sh*^Y#t together)
+Print what you need.  Uses standard Voron print profiles.  Supports not needed but in reality the BTT jig could use it (sorry first design and I don't have all my sh*^Y#t together)
 
 # Assembly
 
