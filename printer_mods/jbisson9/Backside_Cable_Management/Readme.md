@@ -28,7 +28,7 @@ The system makes use of the keystone skirt, normally for USB/Rasp Pi connections
 
 # Printing
 
-Print what you need.  Uses standard Voron print profiles but the BTT was better when using supports (sorry first design and don't have all my sh*^Y#t together)
+Print what you need.  Uses standard Voron print profiles but the BTT jig was better when using supports (sorry first design and I don't have all my sh*^Y#t together)
 
 # Assembly
 
