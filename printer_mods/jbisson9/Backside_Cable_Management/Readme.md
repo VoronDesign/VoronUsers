@@ -19,7 +19,7 @@ The BTT smart filament sensor fits into the printed part.  This is a remix from 
 
 The system makes use of the keystone skirt, normally for USB/Rasp Pi connections, but in this case two microfit connectors are pressure fit into the slots
 
-## BOM
+# BOM
 * 4x M3 x 12 SHCS
 * 4x M3 Hammerhead T-Nuts
 * BTT filament sensor
