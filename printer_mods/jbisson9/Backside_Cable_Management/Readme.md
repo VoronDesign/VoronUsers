@@ -34,15 +34,17 @@ Print what you need.  Uses standard Voron print profiles.  Supports not needed b
 
 Attach the BTT sensor to the top channel piece with two M3 button head screws.  Create the wiring harnesses to attach the microfit connectors.  As an aside, all three ends are males connectors, unusual generally, but easier to build clam shells around them.  
 
-<img src="Images/microfit_jig.jpg" width="400px" />
+<img src="Images/microfit_clam_shell.jpg" width="400px" />
 
 Once the harness is built up, add the microfit clam shells and insert them into the channels.  They are pressure fit and tight.
 
-<img src="Images/completed_jig.jpg" width="400px" />
+<img src="Images/completed_assy.jpg" width="400px" />
 
 Finished cabling should look like this.  Be sure to slide in the cable guide on the unit before attaching it to the frame.
 
 <img src="Images/example_cabling.jpg" width="400px" />
+
+Secure the entire unit to the frame with four M3x12 SHCS and T-Nuts.
 
 # Optional
 
