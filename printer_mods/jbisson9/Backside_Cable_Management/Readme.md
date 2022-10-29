@@ -28,15 +28,15 @@ The system makes use of the keystone skirt, normally for USB/Rasp Pi connections
 
 # Printing
 
-Print what you need.  Uses standard Voron print profiles.  Supports not needed but in reality the BTT jig could use it (sorry first design and I don't have all my sh*^Y#t together)
+Print what you need.  Uses standard Voron print profiles.  Supports not needed but in reality the BTT top channel part could use it (sorry first design and I don't have all my sh*^Y#t together)
 
 # Assembly
 
-Attach the BTT sensor to the jig with two M3 button head screws.  Create the wiring harnesses to attach the microfit connectors.  As an aside, all three ends are males connectors, unusual generally, but easier to build jigs around them.  
+Attach the BTT sensor to the top channel piece with two M3 button head screws.  Create the wiring harnesses to attach the microfit connectors.  As an aside, all three ends are males connectors, unusual generally, but easier to build clam shells around them.  
 
 <img src="Images/microfit_jig.jpg" width="400px" />
 
-Once the harness is built up, add the jigs and insert them into the channels.  They are pressure fit and tight.
+Once the harness is built up, add the microfit clam shells and insert them into the channels.  They are pressure fit and tight.
 
 <img src="Images/completed_jig.jpg" width="400px" />
 
