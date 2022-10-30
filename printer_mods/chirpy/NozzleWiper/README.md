@@ -162,3 +162,4 @@ Follow the steps in the nozzlewiper.cfg file to configure the nozzle wiper setup
 ## v2 Changelog:
 
 - 2022-09-05 First release
+- 2022-10-30 Improved Frame Mount and Servo Joint to help prevent excessive vibrations when deploying
