@@ -55,6 +55,7 @@ like so:
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Revo Nozzle Skirt](./Andre/Revo_Nozzle_Skirt_Trident)|A Revo nozzle box hidden in a Trident skirt.|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 |antoinecellerier|[DS18B20 Sensor Mount](./antoinecellerier/ds18b20-sensor-mount)|DS18B20 temperature sensor mount|:heavy_check_mark:|:x:|:x:|:x:|:x:|
+| ardichoke | [V0 Long Thumb Nut](./ardichoke/v0-long-thumb-nut) | Taller thumb nuts for V0 bed | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[Magnetic hotend fan cover](./arkeet/magnet-fan-cover)|A replacement hotend fan cover, held with magnets instead of screws. |:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
@@ -138,11 +139,11 @@ like so:
 | elcrni | [V.24/Trident Spool Holder](./elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 | | [Trident Internal Spool Holder](./elcrni/Trident_Internal_Spool_Holder) | Internal spool holder for 300 and 350 Tridents. Supports full size 1kg spool | :x: | :x: | :x: | :x: | :heavy_check_mark:|
 | Electroleon |[U2C Mounting](./Electroleon/U2C_Mounting) | Bigtreetech U2C CAN Interface mounting bracket | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:grey_question:|:heavy_check_mark: |
-| Ellis |[15x15 Drag Chain Ends](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end pieces | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
+| Ellis |[15x15 Drag Chain End](./Ellis/15x15_Drag_Chain_End) | 15x15 drag chain end piece | :grey_question: | :grey_question: |:heavy_check_mark: |:grey_question:|
 | |[Badge Retractor Mount](./Ellis/Badge_Retractor_Mount) | Extrusion mount for badge retractor to keep bowden tube out of the way. | :grey_question: | :grey_question: |:heavy_check_mark: |:x:|
 | |[Bed Fans](./Ellis/Bed_Fans) | Bed fan control macros and 5015 bed fan mounts | :x: | :x: |:heavy_check_mark: |:x:|
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |:x:|
-| |[Single MGN9H Carriage](./Ellis/Single_MGN9H_Carriage) | Single MGN9H toolhead carriage with umbilical (x endstop) support |:x: |:grey_question: |:heavy_check_mark: |:grey_question:|
+| |[Single MGN9H Carriage](./Ellis/Single_MGN9H_Carriage) | Single MGN9H toolhead carriage with toolhead x endstop support (for umbilical) |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 | ElPoPo | [Removable Doors](./ElPoPo/RemovableDoors) | New hinge to easily remove the door and have a wide opening  V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | Eifel-Joe | [V0.1 Waveshare 4.3 inch TFT Mount](./Eifel-Joe/V0.1_Waveshare_4.3_inch_TFT_Mount) | V0.1 4.3 inch TFT Mount | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Empusas | [Power Skirt 2.x FN284-10-06](./Empusas/PowerSkirt_FN284-10-06) | Power Skirt for Schaffner FN284-10-06 V2.x | :x: | :x: | :heavy_check_mark: | :x:|
@@ -168,6 +169,7 @@ like so:
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
 | | [LGX Info, Links, and Models](./geoffreyyoung/lgx) | Useful information and models for using the Bondtech LGX extruder wth Afterburner| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| gerritwellen |[Manta M8P Mount](./gerritwellen/manta-m8p-bracket)| Mounting Bracket for BTT Manta M8P| :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
@@ -267,8 +269,6 @@ like so:
 |MakeALeft| [Switchwire Clean Center Grill](./MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | :x: | :x: | :x: | ✔️ | :x:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
-|MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
-| |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts | :x: |:x: |:heavy_check_mark: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
 |Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
@@ -293,6 +293,7 @@ like so:
 |Mrgl-Mrgl| [LGX Lite Mount](./Mrgl-Mrgl/LGX_Lite_Mount/) | a mount for the LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 |MSA| [Belt tension helper](./MSA/V0-Belt-tension-helper)| Belt tension helper for V0.1 |:heavy_check_mark:|:x:|:x:|:x:|
 |MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
+|muradir|[Zodiac BMO Stealthburner Toolhead](./muradir/Zodiac_BMO_Stealthburner_Toolhead)|A Stealthburner toolhead for the Zodiac BMO Hotend, based on the Phaetus BMO toolhead. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
@@ -306,7 +307,7 @@ like so:
 |Oakman |[FYSETC Spider Metal DIN Mount](./Oakman/FYSETC_Spider_Metal_DIN_Mount) |Use a metal DIN mount for your FYSETC Spider |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[BTT 24V UPS Metal DIN Mount](./Oakman/BTT_24V_UPS_Metal_DIN_Mount) | Adapter to use a metal DIN mount for the BTT 24V UPS |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | |[RPI Metal DIN Mount](./Oakman/RPI_Metal_DIN_Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
-|OboMaker3D |[C17-EXT Filter HEPA Carbon](./OboMaker3D/C17-EXT) |Replaces standard filter with new HEPA Crabon and 120mm fan |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+|OboMaker3D |[C17-EXT Filter HEPA Carbon](./OboMaker3D/C17-EXT) |Replaces standard filter with new HEPA Crabon and 120mm fan V1.1 |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[C17-EXT-CARTRIDGE for C17-EXT filter](./OboMaker3D/C17-EXT-CARTRIDGE) | Alternative to a commercial cartridge for the C17-EXT filter |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
