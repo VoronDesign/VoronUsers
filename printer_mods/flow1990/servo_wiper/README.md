@@ -33,8 +33,8 @@
     <dd><img src='https://github.com/flow1990/VoronUsers/blob/master/printer_mods/flow1990/servo_wiper/Images/motor_mount.jpeg' width='500px'</dd>
     <dd>Assemble anything like seen in the CAD files. you have to loosen two screws from your X-Motor, this is where the M3x50 screws will go in. Do not attach the servo arm to the motor yet.</dd>
     <dt>Step Four:</dt>
-    <dd><img src='https://github.com/flow1990/servo_wiper/blob/main/Images/wiring.png' width='500px'</dd>
-    <dd>Wire the servo like seen in the picture.</dd>
+    <dd><img src='[https://github.com/flow1990/servo_wiper/blob/main/Images/](https://github.com/flow1990/VoronUsers/blob/master/printer_mods/flow1990/servo_wiper/Images/)wiring.png' width='500px'</dd>
+    <dd>Wire the servo like seen in the picture (at least if you use a SKR MINI E3 V3).</dd>
     <dt>Step Five:</dt>
     <dd>Include the BRUSH.cfg in your config. Send <B>_BRUSH_SERVO_TEST_ANGLE angle=90</B> to your printer to check if the servo is working. If it works bring it in deploy position with <B>_BRUSH_SERVO_TEST_ANGLE angle=170</B></dd>
     <dt>Step Six:</dt>
