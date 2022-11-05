@@ -3,8 +3,8 @@
 <hr>
 <div>
   <p>Since I wanted something to clean my nozzle automatically on my Voron Switchwire I came up with this idea. It is really simple!</p>
-    <img src='https://github.com/flow1990/servo_wiper/blob/main/Images/front_view_fusion.png' width='500px'>
-  <img src='https://github.com/flow1990/servo_wiper/blob/main/Images/image1.jpeg' width='500px'>
+    <img src='https://github.com/flow1990/VoronUsers/blob/master/printer_mods/flow1990/servo_wiper/Images/front_view_fusion.png' width='500px'>
+  <img src='https://github.com/flow1990/VoronUsers/blob/master/printer_mods/flow1990/servo_wiper/Images/image1.jpeg' width='500px'>
 </div>
 <hr>
 <div>
@@ -30,7 +30,7 @@
     <dt>Step Two:</dt>
     <dd>Insert the heatsets, if you are not sure where to put them you can use the CAD files.</dd>
     <dt>Step Three:</dt>
-    <dd><img src='https://github.com/flow1990/servo_wiper/blob/main/Images/motor_mount.jpeg' width='500px'</dd>
+    <dd><img src='https://github.com/flow1990/VoronUsers/blob/master/printer_mods/flow1990/servo_wiper/Images/motor_mount.jpeg' width='500px'</dd>
     <dd>Assemble anything like seen in the CAD files. you have to loosen two screws from your X-Motor, this is where the M3x50 screws will go in. Do not attach the servo arm to the motor yet.</dd>
     <dt>Step Four:</dt>
     <dd><img src='https://github.com/flow1990/servo_wiper/blob/main/Images/wiring.png' width='500px'</dd>
@@ -38,7 +38,7 @@
     <dt>Step Five:</dt>
     <dd>Include the BRUSH.cfg in your config. Send <B>_BRUSH_SERVO_TEST_ANGLE angle=90</B> to your printer to check if the servo is working. If it works bring it in deploy position with <B>_BRUSH_SERVO_TEST_ANGLE angle=170</B></dd>
     <dt>Step Six:</dt>
-    <dd><img src='https://github.com/flow1990/servo_wiper/blob/main/Images/arm.jpeg' width='500px'></dd> 
+    <dd><img src='https://github.com/flow1990/VoronUsers/blob/master/printer_mods/flow1990/servo_wiper/Images/arm.jpeg' width='500px'></dd> 
     <dd>Now you can attach the arm to the servo, you need the big arm thing that comes with the servo (see picture above). Check that the servo is in angle=170deg position and be sure to attach the arm beeing in the deploy position (above the print bed).</dd>
     <dt>Step Seven:</dt>
     <dd>Move your toolhead (<I>G0 X?? Z??</I>)so it is right ABOV the brush and insert the X and Z coordinates in the BRUSH.cfg</dd>
