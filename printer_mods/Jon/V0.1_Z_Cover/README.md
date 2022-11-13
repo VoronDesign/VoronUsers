@@ -5,7 +5,7 @@ A cover to stop things from dropping down the Z motor and disappearing forever.
 <img src="IMG/Bottom_panel_Airgap_Lid_v4.png" width="825" height="461">
 
 **BOM:**
-- 2x M3x6 FHCS (Creative users might get away with M3x8 SHCS/BHCS and sandwitch the deck panel inbetween too from the bottom)
+- 2x M3x6 FHCS (Creative users might get away with sandwitching the deck panel inbetween using M3x8 SHCS/BHCS from the bottom)
 
 
 **Print guide:**
