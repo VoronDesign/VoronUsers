@@ -20,7 +20,7 @@
 
  ## Do I Need Foam Tape? ##
 
- **YES**, You will need to use **3mm foam tape** with these hinges - if you wearn't using foam tape before see this as the right time to add foam tape as you should be using it anyway :)
+ **YES**, You will need to use **3mm foam tape** with these hinges - if you weren't using foam tape before see this as the right time to add foam tape as you should be using it anyway :)
 
 
 
@@ -30,7 +30,7 @@
 
   ## Is The Clamping Force Strong Enough? ##
 
-  If you print these with any half decent filament and your **panels are 3mm thick** then the clamping force is more than sufficiently strong. When printing, the panels are additionaly held in place securly by the door locking clamps linked above. You may find opening the doors quickly will make them shift slightly but the panels can be alligned again by hand quite quickly - I recommend closing the panels together at the same time to help allign them.
+  If you print these with any half decent filament and your **panels are 3mm thick** then the clamping force is more than sufficiently strong. When printing, the panels are additionally held in place securely by the door locking clamps linked above. You may find opening the doors quickly will make them shift slightly but the panels can be aligned again by hand quite quickly - I recommend closing the panels together at the same time to help align them.
 
 
 
