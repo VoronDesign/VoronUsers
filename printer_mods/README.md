@@ -164,6 +164,7 @@ like so:
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
 | Galvanic | [Bowden Tube Guide](Galvanic/Bowden_Tube_Guide)| Bowden tube guide and CANBUS wire support |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | gamebofh | [Laser cut door panels](gamebofh/door-panels)| Files to allow you to create laser cut door panels with some ability to adjust |   | :x: | :grey_question: | :heavy_check_mark: | :grey_question:|
+| gauravmm | [Crazy Mozzie HF toolhead SB+CW2](./gauravmm/crazy_mozzie_cw2/)| Toolhead for Crazy Mozzie HF, compatible with Stealthburner and Clockwork 2 | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | gen2ng | [Switchwire LED wire pass through](./gen2eng/z_carriage_stop_pass_through) | Z Carriage Stop modification that makes pass through of wires for the LED light bar clean and easy | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
@@ -269,8 +270,6 @@ like so:
 |MakeALeft| [Switchwire Clean Center Grill](./MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | :x: | :x: | :x: | ✔️ | :x:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
-|MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
-| |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts | :x: |:x: |:heavy_check_mark: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
 |Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
