@@ -31,4 +31,5 @@ Currently only designed for the Voron 2.4 R2, if there is interest in the R1 ver
 
 # Changelog
 v1.0 (27.10.2022) - Release
-<br>
+<br><br>
+Discord: Nitro2k5#2432
