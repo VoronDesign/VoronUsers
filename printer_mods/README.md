@@ -298,6 +298,10 @@ like so:
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | nikolasbabetas | [Neopixel Holder ](./nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | :heavy_check_mark: | :x: | :x: | :x: |:x:|
+|Nitro2k5|[Exhaust Grill Cover](./Nitro2k5/Exhaust_Cover)|Alternative closed grill cover for the backpanel | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| |[Filament Sensor Housing](./Nitro2k5/Filament_Sensor_Housing)|Sensor Housing for Generic CHN Filament Runout Sensor | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| |[Keystone Button Insert](./Nitro2k5/Keystone_Button_Insert)|Simple Keystone button insert for round 16mm switches | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
+| |[Revo Nozzle skirt mod](./Nitro2k5/Skirt_Revo_Nozzle_Holder)|Left sided Revo Nozzle Skirt Holder | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 |Nomsplease |[60mm Shaft Jig](./Nomsplease/60mm_Shaft_Jig) |Simple jig for cutting and grinding 60mm Z shafts |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Duet Wifi Mount](./Nomsplease/V0_Mods/duet_wifi_mount) | Duet wifi mount in pocketwatch location |:heavy_check_mark: |:x: |:x: |:x:|
 | |[LED Mounts](./Nomsplease/V0_Mods/led_mounts) | Basic LED mounts for 10 and 12mm strips |:heavy_check_mark: |:x: |:x: |:x:|
