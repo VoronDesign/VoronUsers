@@ -63,10 +63,20 @@ This version of the afterburner fan and duct is a drop in replacement to the spe
 
 \* Cleaner airflow for better overhangs
 
+## This duct doesn't look right!
+
+With AB-BN-30, the nozzle should protrude approx. 1.7 mm from the lowest part of the duct.  When you look at the duct, people often think it looks like to air is pointed too high.
+The aim was done empirically over many iterations.  If the nozzle sticks out 1.7mm then it's where I intended it.
+![Stickout shown on Rapido](RapidoStickout.png)
+
 ### CHANGE Log
+Added support for REVO Voron
+
+Added support for Phaetus Rapido hotend
+
 Added support for E3D REVO hotend 
 
-Added support for Zodiac BMO and BMS
+Added support for Zodiac BMO and BMS hotend
 
 Removed support for Slice.
 
@@ -128,7 +138,11 @@ Everyone will need:
 
   ##### Depending on your hotend you will need:
   
-  ##### E3D REVO
+    ##### E3D REVO Voron
+* AB-BN-30_Hotend-E3D_REVO-voron-front.stl
+* AB-BN-30_Hotend-E3D_REVO-voron-back.stl
+
+  ##### E3D REVO Micro
 * AB-BN-30_Hotend-E3D_REVO-front.stl
 * AB-BN-30_Hotend-E3D_REVO-back.stl
 
@@ -156,9 +170,6 @@ Everyone will need:
 * AB-BN-30_Hotend-Dragon-front.stl
 * AB-BN-28_Hotend-Dragon-back.stl
 
-  ##### Mosquito (high flow and regular):
-**ANNOUNCEMENT**
- I no longer support the hotends from Slice Engineering.  I find their business practices to be inconsistent with my philosophy.  It makes no sense for me to put time and effort into designing a toolhead so that they can get a better price for their overreaching patent claims.  My designs are all open source.  Slice is free to take them and adapt them their own damn selves, but I'm not lifting another finger to help them.
  
 
 # Assembly:
