@@ -134,7 +134,7 @@ Distributed under GNU General Public License version 3.0 (GPLv3)
 
 ## Contact
 
-- Discord: 0ndsk4#5933 - (<https://discord.com/user/0ndsk4#5933>)
+- Discord: Nevermore Activated Carbon Filters - (<https://discord.gg/x6yggSpQgv>)
 - Nevermore: [https://github.com/nevermore3d](https://github.com/nevermore3d)
 
 ## Acknowledgements
