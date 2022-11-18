@@ -1,4 +1,4 @@
-# Abandoned Mods
+# Orphaned Mods
 
 This is a list of mods that are no longer being maintained by the original author. Mods make it into this folder if the Dev Team feels they are popular or important enough to remain in the repository even though the original author is not longer updating the mod.
 
@@ -10,8 +10,8 @@ For a mod to be included in this list, the following conditions need to be met:
 
 Alternately mod authors are welcome to create an issue in regards to their mod if they no longer want to maintain it.
 
-# Pull Requests against abandoned mods
-Pull requests can be generated against these mods by anyone, ignoring the normal requirement to get the approval of the original author. PRs against abandoned mods not made by the original author should only be merged with multiple reviewer approvals, and should generally be limited to bug fixes and maintenance patches.
+# Pull Requests against orphaned mods
+Pull requests can be generated against these mods by anyone, ignoring the normal requirement to get the approval of the original author. PRs against orphaned mods not made by the original author should only be merged with multiple reviewer approvals, and should generally be limited to bug fixes and maintenance patches.
 
 ---
 
