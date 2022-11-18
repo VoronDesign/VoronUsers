@@ -2,6 +2,13 @@
 
 ## Magnetic Panels with Magnet Inserts
 
+Update 10/03/22: Adding a few alternative STLs.
+
+* New V2 magnetic insert has been beefed up to resist cracking when used with stronger/N52 magnets. The retaining layer has been thickened slightly, though the extra plastic between magnets means a slight reduction in magnetic pull. These updated V2 magnetic inserts can be printed on their sides without bridging.
+* New V2 unhmamer nut to go with the V2 magnetic inserts.
+* Alternative V2 unhammer nut that uses a flat head screwdriver rather than a hex key. This will hopefully help with people who are experiencing rounding out with the hex version.
+* If using V2 magnetic inserts, please use V2 unhammer nuts for proper fitment.
+
 There are various panel latches and magnetic clips that offer quick panel removal for swapping between enclosed- and open-chamber printing, but I wanted to fix a few of the pain points that I ran into with some of the existing mods.
 
 * Does not require a lot of filament. The corner and mid-panel clips were modeled after the stock Trident panel clips and are similarly hollowed, saving filament and print time.
