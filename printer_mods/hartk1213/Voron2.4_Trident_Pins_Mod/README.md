@@ -35,7 +35,7 @@ here is what the XY Joint will look like
 ![XY Joint](Images/1.jpg)
 ![XY Joint](Images/2.jpg)
 
-There is a new file for the A Drive to go along with [Arkeets MGN12](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12) mod that has the X endstop on the toolhead 
+There is a new file for the A Drive to go along with the latest 2.4r2 / Trident carraige that has the X endstop on the toolhead 
 and that is moving the Y endstop to the A drive, this is an optional mod 
 this requires a 2pin jst to be soldered to the switch, 
 the best way i have done it is to solder the wires to the jst first, then install it with a dab of super glue , then solder the wires to the omron switch 
