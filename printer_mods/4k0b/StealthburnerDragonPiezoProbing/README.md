@@ -1,9 +1,6 @@
 # Piezo probe for Stealthburner Dragon hotend
 
-
-
-https://user-images.githubusercontent.com/114783511/193450213-34ab1bed-4062-44fb-ad70-f1934d3fa493.mp4
-
+./Images/Probing.mp4
 
 
 ## Overview
@@ -26,9 +23,10 @@ The documentation on the precisionpiezo website has lots of background informati
 
 A piezo sensor ideally is located in a part that is stationary during probing, so that vibrations are less likely to trigger the probe. I marked this mod as compatible with the Trident only, but mechanically can be used in all SB capable printers. If the sensitivity is correctly adjusted and acceleration and jerk reduced for the probing, it should work for other printers as well.
 
+Files are based on [SB release version.](https://github.com/VoronDesign/Voron-Stealthburner/tree/e6cc7d7b1d68a9c1707e0b089f6d283f2d530d41)
 
 ## BOM
-* 1x Piezoelectric Ceramics 15x7x3mm PZT8 from PZT / ebay / ali
+* 1x Piezoelectric Ceramics 15x7x3mm PZT8 from [PZT](http://m.piezodisc.com/piezo-ceramic/piezo-ring/piezoelectric-ceramics-15x7x3mm-pzt8.html) / [ebay](https://www.ebay.com/itm/184846781071?hash=item2b09ba0a8f:g:QCsAAOSwcDlgpdfV&amdata=enc%3AAQAHAAAAoKQEYUulqqjTAj%2BXchua%2Bjt%2FjAR%2Fa9gJ0QAmbAjLAVfsxhwv6bBMcPdPWj5TvUupH7tJfCM2eGWVZNWrnk44Mf4hF3kZ172vka01Iksx6uyPtwUOs2h%2Bm2lSXptAgExTpz2C9o6dpu3VIXusAlkSY0YKPxHF2AS7rSdVeQwiGdHgZMHaNlTHkyRy8pxiFl9Ll4wW1naA%2BsJ90%2FPPCWrRDok%3D%7Ctkp%3ABk9SR4C_wpOSYQ) / ali
 * 4x M2.5x14 SHCS 
 * Universal Piezo Z-Probe PCB v2.85 from precisionpiezo
 * round Diamond file
