@@ -136,6 +136,7 @@ like so:
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 | |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
 | edwardyeeks |[Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) |Trident style side power inlet for V2.4 using Z Drive Motor Tensioner Mod - By @Amarpal89 |:x: |:x: |:heavy_check_mark: |:x:|:x:|
+| Eifel-Joe | [V0.1 Waveshare 4.3 inch TFT Mount](./Eifel-Joe/V0.1_Waveshare_4.3_inch_TFT_Mount) | V0.1 4.3 inch TFT Mount | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | elcrni | [V.24/Trident Spool Holder](./elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 | | [Trident Internal Spool Holder](./elcrni/Trident_Internal_Spool_Holder) | Internal spool holder for 300 and 350 Tridents. Supports full size 1kg spool | :x: | :x: | :x: | :x: | :heavy_check_mark:|
 | Electroleon |[U2C Mounting](./Electroleon/U2C_Mounting) | Bigtreetech U2C CAN Interface mounting bracket | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: |:grey_question:|:heavy_check_mark: |
@@ -145,7 +146,6 @@ like so:
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Single MGN9H Carriage](./Ellis/Single_MGN9H_Carriage) | Single MGN9H toolhead carriage with toolhead x endstop support (for umbilical) |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 | ElPoPo | [Removable Doors](./ElPoPo/RemovableDoors) | New hinge to easily remove the door and have a wide opening  V2.x | :x: | :x: | :heavy_check_mark: | :x:|
-| Eifel-Joe | [V0.1 Waveshare 4.3 inch TFT Mount](./Eifel-Joe/V0.1_Waveshare_4.3_inch_TFT_Mount) | V0.1 4.3 inch TFT Mount | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Empusas | [Power Skirt 2.x FN284-10-06](./Empusas/PowerSkirt_FN284-10-06) | Power Skirt for Schaffner FN284-10-06 V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Mounts for Terminal Blocks NC933 SPL-62](./Empusas/Terminal_Blocks_NC933_SPL-62) | Mounts for Terminal Blocks NC933 and SPL-62 from AliExpress | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question:|
 | | [Mounts for BTT Filament Motion Sensor](./Empusas/BTT_Filament_Motion_Sensor_Mount) | Mounts for Big Tree Tech Smart Filament Motion Sensor | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
