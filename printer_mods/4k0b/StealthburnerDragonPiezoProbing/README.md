@@ -1,6 +1,6 @@
 # Piezo probe for Stealthburner Dragon hotend
 
-./Images/Probing.mp4
+![Probing](./Images/Probing.mp4)
 
 
 ## Overview
