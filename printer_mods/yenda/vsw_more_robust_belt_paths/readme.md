@@ -7,11 +7,20 @@ with the horizontal plane, which lead to yawning of the belt and increased wear
 and tear of the belt. Additionaly, the cages parts a and b had the tendency 
 to open up in the bottom,  especially when the tensioning screw is one or two mm too long.
 
+
 The modded version has a through-screw in the bottom and additional screw slot
 on the top to attach it to the vertical extrusion, to help with proper leveling
 of the stepper axle. You'd probably be able to address these issues without
 if you were careful and knew about them. Using this design is just much faster.
 ![Stepper cages](images/motor_cage.png)
+
+It has been noticed by people helping within Voron community with Switchwire 
+builds on regular basis, that the uppermost screw supposed to fix the stepper 
+mounts to the vertical extrusions might actually cause issues if the frame 
+is not perfectly square. Please make sure  your printer has its frame fully 
+square and proceed at your discretion -- use of the uppermost screw is solely optional in any case.
+(Credits for this observation go to Hymness1 on Voron Discord).
+
 
 ## Additional mods ##
 
