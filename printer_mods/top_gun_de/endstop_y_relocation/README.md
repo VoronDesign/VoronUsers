@@ -28,9 +28,6 @@ If your bumper can't reach the endstop, there is a version of the bumper that is
 In Mainsail, check if your endstop is triggered when the gantry is at the back, and not triggered when you pull it to the front again.
 
 
-Total perspective:
-![Image 1](Images/Umbilical-total.jpg)
-
 Front view:
 ![Image 2](Images/Photo-installed.jpg)
 
