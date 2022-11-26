@@ -87,6 +87,7 @@ like so:
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+||[Stealthburner Rapido UHF](./bythorsthunder/Stealthburner_Rapido_Uhf)|Stealthburner mod for Rapido UHF |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |CannedBass|[Trident Bed Fans](./CannedBass/Trident_Bed_Fans)| Bed fans for Trident |:x:|:grey_question:|:x:|:x:|:heavy_check_mark:|
 ||[PITFT50 45-degree mount](./CannedBass/PITFT50_45_degree_mount)| Mount that puts the screen at a 45-degree angle for more vertical clearance |:x:|:grey_question:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
@@ -164,6 +165,7 @@ like so:
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
 | Galvanic | [Bowden Tube Guide](Galvanic/Bowden_Tube_Guide)| Bowden tube guide and CANBUS wire support |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | gamebofh | [Laser cut door panels](gamebofh/door-panels)| Files to allow you to create laser cut door panels with some ability to adjust |   | :x: | :grey_question: | :heavy_check_mark: | :grey_question:|
+| gauravmm | [Crazy Mozzie HF toolhead SB+CW2](./gauravmm/crazy_mozzie_cw2/)| Toolhead for Crazy Mozzie HF, compatible with Stealthburner and Clockwork 2 | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | gen2ng | [Switchwire LED wire pass through](./gen2eng/z_carriage_stop_pass_through) | Z Carriage Stop modification that makes pass through of wires for the LED light bar clean and easy | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | geoffreyyoung | [FYSETC SPIDER DIN Bracket](./geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | | [Dual Rail Installation Guide](./geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail installation | :x: | :x: | :heavy_check_mark: | :x: |
@@ -200,6 +202,7 @@ like so:
 | | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
+| iblue | [V0.1 Tophat Extractor](./iblue/TophatExtractor) | Tophat Extractor for the Voron V0.1 with activated charcoal and HEPA filter | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
@@ -268,8 +271,6 @@ like so:
 |MakeALeft| [Switchwire Clean Center Grill](./MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | :x: | :x: | :x: | ✔️ | :x:
 |madfabrications |[Vertical PSU Mount](./madfabrications/Vertical_PSU_Mount) |Mounts the PSU vertically on the DIN rails|:x: |:x: |:heavy_check_mark:|:x:|
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
-|MarcPot |[UHP PSU Bracket Clip](./MarcPot/UHP_PSU_Bracket_Clip)|DIN rail mount for the Mean Well UHP series PSU. |:grey_question: |:grey_question: |:heavy_check_mark: |:x:|
-| |[Hour Counter Skirt + Keystone Skirt](./MarcPot/Skirt_Mods)|Skirt mod for a mechanical hour counter and keystone inserts | :x: |:x: |:heavy_check_mark: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
 |Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
@@ -353,6 +354,7 @@ like so:
 | scanlory | [Clip-On Front Door Frame](./scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using modified hinges. | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | ScramblerUSA | [Side Skirt Power Switch](./ScramblerUSA/SideSkirtPowerSwitch) | Skirt-mounted rocker switch for easy access for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
+| Shiftingtech | [Trident Dual Power Switch](./Shiftingtech/Trident_dual_power_switch/) | A replacement skirt, allowing 2 power switches | :x: | :x: | :x: | :x: | :heavy_check_mark: | 
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](./ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
@@ -388,6 +390,7 @@ like so:
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 | | [V0.1 Skirt buttons](./Tircown/V01_skirt_buttons) | Buttons for V0.1 spec skirts | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
+| top_gun_de | [mount_for_umbilical](./top_gun_de/mount_for_umbilical) | Umbilical guide that goes on the chain anchor | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | Triano | [Ender 3 Pro or V2 to Switchwire Mod](./Triano/Ender_3Pro_Switchwire) | Convesion of an Ender 3 Pro or V2 to a Switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | UltraWaffles | [Ender 3 to SW conversion](./Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches| :x: | :x: | :x: | :heavy_check_mark: |
 | VinnyCordeiro | [RGB LED grid for Stealthburner](./VinnyCordeiro/RGB_LED_grid_for_SB) | A small RGB LED grid for Stealthburner's logo | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
