@@ -4,6 +4,9 @@ I installed a CAN-toolboard on my V2.4 and replaced the chains with an umbilical
 
 Any standard size microswitch endstop with a latch will work, like Omron D2F-L or compatibles. 
 
+Printing instruction:
+The parts are oriented correctly, just print them with Voron standards: 4 perimeters, 40%infill. Actually, a bit less will do, too.
+
 Installation:
 
 Assembly from below to see how parts fit together:
@@ -16,16 +19,14 @@ Bracket:
   - Install the bracket on top of the motor housing with two new M3x35 fasteners. The bracket is adjustable, I recommend to mount it flush with the front end of the motor housing as a starting point.
 
 Bumper:
-  - Replace the old cable bridge with the bumper. The fastener stays the same.
+  - Replace the old cable bridge with the bumper. The fastener stays the same. The bottom has the words "BACK" and "FRONT" to help with the orientation.
 
 
 Test and alignment:
 
 Manually run your gantry to the rear. You should hear a "click" right before the gantry hits the rear wall. If you don't hear a click, adjust the bracket toward the front until it clicks.
 
-If your bumper can't reach the endstop, there is a version of the bumper that is 1mm longer, "Bumper-xl.stl".
-
-In Mainsail, check if your endstop is triggered when the gantry is at the back, and not triggered when you pull it to the front again.
+In Mainsail, check if your X endstop is triggered when the gantry is at the back, and not triggered when you pull it to the front again.
 
 
 Front view:
