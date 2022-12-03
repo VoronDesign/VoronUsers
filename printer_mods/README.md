@@ -98,6 +98,7 @@ like so:
 | | [Runout UnKlicky Sensor](./chirpy/RunoutUnklicky) | Runout UnKlicky Sensor is a filament runout sensor with mounts for 1515 and 2020 extrusions| :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | chrisrgonzales | [270° Front Panel Hinge](./chrisrgonzales/270_degree_hinge) | Hinges that have 270° of swivel, parametric CAD included | :x: | :x: | :heavy_check_mark: | :x: |
 | christophmueller | [Phaetus and Zodiac Dragonfly BMO Afterburner toolheads](./christophmueller/Phaetus_Dragonfly_BMO_Afterburner) | Covers both the original Phaetus variant as well as the Zodiac one. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+||[Kirigami Sheet Metal Bed](./christophmueller/Voron_0_Kirigami_Bed) | Kirigami Sheet Metal Bed Mount for Voron 0. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | chri.kai.in | [20x20mm Profile Covers](./chri.kai.in/20x20mm_Profile_Covers) | Provide overlapping and flush slot covers for 20x20mm slot6 construction profiles| :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Angry CAM USB](./chri.kai.in/Angry_CAM_USB) | Housing for small USB camera module, allowing mounting to gantry or frame profiles | :x: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | | [Exhaust Adapter 100mm](./chri.kai.in/Exhaust_Adapter_100mm) | Replace 60mm exhaust fan with 100mm ventilation system adapter | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
