@@ -78,6 +78,7 @@ like so:
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
 | bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic clips to allow for easy removal and installation of panels | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | | [Filament Runout Sensor](./bobbleheed/Filament_Runout) | Filament runout sensor that replaces the stock bowden retainer | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
+|Bob-loblaw7046| [BTT Filament Sensor Rear Mount](./Bob-loblaw7046/BTT_Filament_Sensor_Rear_Mount) | A secure BTT SFS mount which mounts on the rear panel | :grey_question: | :grey_question:  | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 |Boingomw|[Wago mount](./Boingomw/Wago_mount)| Smaller 5 port Wago mount that fits parallel to the support rails |:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 |Bondtech|[Mini-After-LGX-Lite](./Bondtech/Mini-After-LGX-Lite) |LGX Lite Toolhead Setup For Voron V0.1. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
 | btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
