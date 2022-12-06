@@ -297,6 +297,7 @@ like so:
 |MSiemons| [Tophat Hinge V0](./MSiemons/TophatHingeV0.1)| Simple hinge for V0 Tophat  |:heavy_check_mark:|:x:|:x:|:x:|
 |muradir|[Zodiac BMO Stealthburner Toolhead](./muradir/Zodiac_BMO_Stealthburner_Toolhead)|A Stealthburner toolhead for the Zodiac BMO Hotend, based on the Phaetus BMO toolhead. | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |Nashuar|[V0 Dragon Toolhead M2.5x8](./Nashuar/V0_Dragon_ToolheadStockScrews) |This toolhead uses the stock M2.5 screw that came with the dragon hotend |:heavy_check_mark:|:x:|:x:|:x:|
+| nateb16 | [THE_FILTER](./nateb16/THE_FILTER) | A Filter combining the best of the nevermore and andrew ellis bed fans | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 |natewalck |[V1.8 Jigs](./natewalck/v1.8_Jigs) |Jigs for assembling V1.8 |:x: |:heavy_check_mark: |:x: |:x:|
 | nhchiu | [V0.1 Movable Pulley Z Drive](./nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio for V0.1 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | nikolasbabetas | [Neopixel Holder ](./nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | :heavy_check_mark: | :x: | :x: | :x: |:x:|
