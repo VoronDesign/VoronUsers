@@ -80,7 +80,8 @@ If Using Adam Tech connector's:
 nate#5815
 <h2>Credits</h2>
 Discord user akinferno#3062)
-
+Andrew ellis for inspiration https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
+The nevermore (click the link to learn about VOC's) https://github.com/nevermore3d/Nevermore_Micro
 <h2>Coming Soon</h2>
 
 * 2 fan version for BOM bed spacing on all other bed's (non fysetc)
