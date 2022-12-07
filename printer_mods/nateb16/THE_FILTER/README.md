@@ -50,7 +50,7 @@ note this connector is untested but identical the digikey parts
 
 <h2>Installation</h2>
 
-Install instructions found with appliciable models
+Install instructions found with applicable models
 
 If Using Adam Tech connector's:
 1) Print Soldering Jig (connector is magnetic and is very hard to solder with out being secured)
