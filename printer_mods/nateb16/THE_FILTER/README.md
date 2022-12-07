@@ -1,13 +1,22 @@
 <h2>THE FILTER</h2>
 
+<h2>STANDARD (In testing but otherwise fine)</h2>
+
+![Capture](https://user-images.githubusercontent.com/40711977/206066938-03294883-fed9-427a-a087-1ac197e6321f.PNG)
+
+<h2>FOR FYSETC BEDS</h2>
+
 ![filter model](https://user-images.githubusercontent.com/40711977/205870094-7e7c07b6-8fc4-48cc-be1a-14624c461d2c.PNG)
+
 <h2>ABOUT</h2>
 
-THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. It features 3 5015 blower fans (only works with Fysetc bed hole spacing) and a large capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal for PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
+THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. I have created to designs a two 5015 fan version and a 3 fan version for fysetc bed (since they have non standard hole spacing). Both feature a high capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal for PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
 
 
 
 <h2>Testing</h2>
+
+Rough estimates found during testing (results vary on how well your printer is insulated and how large it is as well)
 
 Time the printer took to reach 40c
 * Stock VORON 2.4 350mm - 55 minutes
@@ -24,7 +33,7 @@ Testing heat up time to 40°C
 
 <h2>Parts Required</h2>
 
-* (3) 5015 fans 
+* (2-3) 5015 fans 
 * (1) optional magnetic pogo power connector from digikey https://www.digikey.com/en/products/detail/adam-tech/PHR-C4777-02-FVP-800/9832016
 * (1) optional power cord for pogo connector from digikey https://www.digikey.com/en/products/detail/adam-tech/CA-ST2-PHR-198-M/9832013 
 * (1) jst-XH 2 pin connector with metal pin
@@ -46,6 +55,7 @@ note this connector is untested but identical the digikey parts
 3) Run Wires neatly and solder fans in parallel or use Solder heatshrink tubing
 4) Remove bed from frame and mount Bracket to frame in the appropriate position (see pictures)
 5) install spacers that prevent contact with aluminum extrusion
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
 
 If Using Adam Tech connector's:
 1) Print Soldering Jig (connector is magnetic and is very hard to solder with out being secured)
@@ -54,7 +64,7 @@ If Using Adam Tech connector's:
 * place connector into jig and tape down to more easily attach wires
 2) Cut USB connector off it has two 24awg one red wire and one black. the sheath needs to be cut back and the wires stripped to prepare for crimping
 3) Crimp on jst-XH and press the end of the connector into mounting bracket use super glue if the connector feels to loose
-4) Connect to spider and adjust your config ( I encourage the filter to be set up using andrew ellis bed fan macro)
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
 
 
 
@@ -64,8 +74,21 @@ If Using Adam Tech connector's:
 
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fans/Klipper_Macros/bedfans.cfg
 
+A pre configured macro with modified variables is provided be sure to Add `[include bedfans.cfg]` to your printer.cfg and adjust the pin or follow direction below.
 
+**1)** Place the .cfg file (located in the [Klipper_Macros](./Klipper_Macros) folder) in the same directory as your printer.cfg file. 
 
+**2)** Add `[include bedfans.cfg]` to your printer.cfg.
+
+**3)** Change `pin` for your fans in the second section. 
+- This is intentionally left blank so that it will error if you don't fill it in.
+
+**4)** Configure the options in the first section:
+
+- `variable_threshold` sets the bed temp threshold at which your bed fans will be used. 
+    - Default is 100C (so it does not enable for PLA)
+- `variable_slow` sets the fan speed for when the bed is **heating.** 
+- `variable_fast` sets the fan speed for when the bed is **at temperature.**
 
 
 <h2> Prototype Install Picture's (Current CAD and models have minor cosmetic changes compared to these picture)</h2>
@@ -93,8 +116,13 @@ https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fan
 
 ![top view](https://user-images.githubusercontent.com/40711977/205851858-27d315b3-28c8-4e19-901a-dce9d5ad0bdd.PNG)
 
+![Capture](https://user-images.githubusercontent.com/40711977/206070156-85ce38e1-1524-4a91-91dc-188352377c65.PNG)
 
-<h2>My Discord Username</h2>
+![Capture](https://user-images.githubusercontent.com/40711977/206070297-9717e250-09fb-4daa-aef4-53161f9e6598.PNG)
+
+
+<h2>My Discord Username</h
+
 nate#5815
 
 <h2>Credits</h2>
@@ -105,8 +133,6 @@ Andrew ellis for inspiration and for a macro that I couldnt make myself https://
 
 The nevermore (click the link to learn about VOC's) https://github.com/nevermore3d/Nevermore_Micro
 
-<h2>Coming Soon</h2>
 
-* 2 fan version for BOM bed spacing on all other bed's (non fysetc)
 
 
