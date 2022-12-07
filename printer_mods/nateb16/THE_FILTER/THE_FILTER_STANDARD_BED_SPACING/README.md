@@ -92,13 +92,15 @@ A pre configured macro with modified variables is provided be sure to Add `[incl
 ![Capture](https://user-images.githubusercontent.com/40711977/206072469-2b4b24e0-46da-4d50-a653-33b967045e98.PNG)
 ![Capture 2](https://user-images.githubusercontent.com/40711977/206072474-19cf3e0c-233a-4c2a-9291-e493c7e20ab0.PNG)
 
-<h2>My Discord Username</h
+<h2> My Discord Username</h2>
 
 nate#5815
 
 <h2>Credits</h2>
 
-Discord user akinferno#3062)
+The VORON team for providing the cad making my life easier
+
+Discord user (akinferno#3062)
 
 Andrew ellis (Ellis #4980) for inspiration and for a macro that I couldnt make myself https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
