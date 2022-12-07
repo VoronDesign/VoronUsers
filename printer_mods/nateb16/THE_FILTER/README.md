@@ -50,12 +50,7 @@ note this connector is untested but identical the digikey parts
 
 <h2>Installation</h2>
 
-1) Print the Models
-2) Remove top covers of 5015 fans (Required)
-3) Run Wires neatly and solder fans in parallel or use Solder heatshrink tubing
-4) Remove bed from frame and mount Bracket to frame in the appropriate position (see pictures)
-5) install spacers that prevent contact with aluminum extrusion
-4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
+Install instructions found with appliciable models
 
 If Using Adam Tech connector's:
 1) Print Soldering Jig (connector is magnetic and is very hard to solder with out being secured)
@@ -127,7 +122,7 @@ nate#5815
 
 <h2>Credits</h2>
 
-Discord user akinferno#3062)
+Discord user (akinferno#3062)
 
 Andrew ellis (Ellis #4980) for inspiration and for a macro that I couldnt make myself https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
