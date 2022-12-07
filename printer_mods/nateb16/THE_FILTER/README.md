@@ -10,7 +10,7 @@
 
 <h2>ABOUT</h2>
 
-THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. I have created to designs a two 5015 fan version and a 3 fan version for fysetc bed (since they have non standard hole spacing). Both feature a high capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal for PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
+THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. I have created two designs a two 5015 fan version and a 3 fan version for fysetc bed (since they have non standard hole spacing). Both feature a high capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal during PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
 
 
 
@@ -116,7 +116,7 @@ A pre configured macro with modified variables is provided be sure to Add `[incl
 ![Capture](https://user-images.githubusercontent.com/40711977/206070297-9717e250-09fb-4daa-aef4-53161f9e6598.PNG)
 
 
-<h2>My Discord Username</h
+<h2>My Discord Username</h2>
 
 nate#5815
 
