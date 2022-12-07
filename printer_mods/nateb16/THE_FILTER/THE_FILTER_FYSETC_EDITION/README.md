@@ -45,7 +45,8 @@ note this connector is untested but identical the digikey parts
 2) Remove top covers of 5015 fans (Required)
 3) Run Wires neatly and solder fans in parallel or use Solder heatshrink tubing
 4) Remove bed from frame and mount Bracket to frame in the appropriate position (see pictures)
-5) install spacers that prevent contact with aluminum extrusion
+5) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
+6) install spacers that prevent contact with aluminum extrusion
 
 If Using Adam Tech connector's:
 1) Print Soldering Jig (connector is magnetic and is very hard to solder with out being secured)
@@ -54,16 +55,28 @@ If Using Adam Tech connector's:
 * place connector into jig and tape down to more easily attach wires
 2) Cut USB connector off it has two 24awg one red wire and one black. the sheath needs to be cut back and the wires stripped to prepare for crimping
 3) Crimp on jst-XH and press the end of the connector into mounting bracket use super glue if the connector feels to loose
-4) Connect to spider and adjust your config ( I encourage the filter to be set up using andrew ellis bed fan macro)
-
-
-
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
 
 
 <h2>Sample config (pulled from andrew ellis github)</h2>
 
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fans/Klipper_Macros/bedfans.cfg
 
+A pre configured macro with modified variables is provided be sure to Add `[include bedfans.cfg]` to your printer.cfg and adjust the pin or follow direction below.
+
+**1)** Place the .cfg file (located in the [Klipper_Macros](./Klipper_Macros) folder) in the same directory as your printer.cfg file. 
+
+**2)** Add `[include bedfans.cfg]` to your printer.cfg.
+
+**3)** Change `pin` for your fans in the second section. 
+- This is intentionally left blank so that it will error if you don't fill it in.
+
+**4)** Configure the options in the first section:
+
+- `variable_threshold` sets the bed temp threshold at which your bed fans will be used. 
+    - Default is 100C (so it does not enable for PLA)
+- `variable_slow` sets the fan speed for when the bed is **heating.** 
+- `variable_fast` sets the fan speed for when the bed is **at temperature.**
 
 
 
