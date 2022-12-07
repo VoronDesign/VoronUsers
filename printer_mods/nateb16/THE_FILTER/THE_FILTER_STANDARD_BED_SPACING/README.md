@@ -1,11 +1,10 @@
 <h2>THE FILTER</h2>
 
 Two Fan design for standard spacing on voron beds (Not Fysetc)
+![Capture](https://user-images.githubusercontent.com/40711977/206071335-f1223fbc-f680-44b8-91a9-98b2479612f7.PNG)
 
 <h2>ABOUT</h2>
-
-THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. It features 3 5015 blower fans (only works with Fysetc bed hole spacing) and a large capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal for PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
-
+Basically the same but just uses two fans and doesnt require spacers. Helps a ton with heating of your printer.
 
 
 <h2>Testing</h2>
@@ -47,6 +46,7 @@ note this connector is untested but identical the digikey parts
 3) Run Wires neatly and solder fans in parallel or use Solder heatshrink tubing
 4) Remove bed from frame and mount Bracket to frame in the appropriate position (see pictures)
 5) install spacers that prevent contact with aluminum extrusion
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
 
 If Using Adam Tech connector's:
 1) Print Soldering Jig (connector is magnetic and is very hard to solder with out being secured)
@@ -55,7 +55,7 @@ If Using Adam Tech connector's:
 * place connector into jig and tape down to more easily attach wires
 2) Cut USB connector off it has two 24awg one red wire and one black. the sheath needs to be cut back and the wires stripped to prepare for crimping
 3) Crimp on jst-XH and press the end of the connector into mounting bracket use super glue if the connector feels to loose
-4) Connect to spider and adjust your config ( I encourage the filter to be set up using andrew ellis bed fan macro)
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
 
 
 
@@ -65,15 +65,21 @@ If Using Adam Tech connector's:
 
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fans/Klipper_Macros/bedfans.cfg
 
+A pre configured macro with modified variables is provided be sure to Add `[include bedfans.cfg]` to your printer.cfg and adjust the pin or follow direction below.
 
+**1)** Place the .cfg file (located in the [Klipper_Macros](./Klipper_Macros) folder) in the same directory as your printer.cfg file. 
 
-<h2> Prototype Install Picture's (Current CAD and models have minor cosmetic changes compared to these picture)</h2>
+**2)** Add `[include bedfans.cfg]` to your printer.cfg.
 
-![IMG_0457](https://user-images.githubusercontent.com/40711977/205880160-19b53a0d-086c-4124-b755-1bd57a20bb04.JPG)
-![IMG_0444](https://user-images.githubusercontent.com/40711977/205880165-3ba21d84-3fa3-4597-8a1a-d5fb0c207cd1.JPG)
-![IMG_0460](https://user-images.githubusercontent.com/40711977/205880170-c08e3687-5b1d-4777-b2e4-76c74d392f3e.JPG)
-![IMG_0467](https://user-images.githubusercontent.com/40711977/205882261-f7613fc7-078c-4e10-b99c-e62a4e7fb66f.JPG)
+**3)** Change `pin` for your fans in the second section. 
+- This is intentionally left blank so that it will error if you don't fill it in.
 
+**4)** Configure the options in the first section:
+
+- `variable_threshold` sets the bed temp threshold at which your bed fans will be used. 
+    - Default is 100C (so it does not enable for PLA)
+- `variable_slow` sets the fan speed for when the bed is **heating.** 
+- `variable_fast` sets the fan speed for when the bed is **at temperature.**
 
 <h2> Final Version Install Picture's (courtesy of Discord user akinferno#3062)</h2>
 
@@ -81,16 +87,20 @@ https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fan
 
 <h2> CAD Picture's</h2>
 
+![Capture](https://user-images.githubusercontent.com/40711977/206071240-cf6bc2a2-0eaa-45a9-9f45-24e4b7bbde2f.PNG)
+![Capture](https://user-images.githubusercontent.com/40711977/206071363-46ecd10d-1885-48b7-8d1a-6527672f7e51.PNG)
+![Capture](https://user-images.githubusercontent.com/40711977/206072469-2b4b24e0-46da-4d50-a653-33b967045e98.PNG)
+![Capture 2](https://user-images.githubusercontent.com/40711977/206072474-19cf3e0c-233a-4c2a-9291-e493c7e20ab0.PNG)
 
+<h2>My Discord Username</h
 
-<h2>My Discord Username</h2>
 nate#5815
 
 <h2>Credits</h2>
 
 Discord user akinferno#3062)
 
-Andrew ellis for inspiration and for a macro that I couldnt make myself https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
+Andrew ellis (Ellis #4980) for inspiration and for a macro that I couldnt make myself https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
 The nevermore (click the link to learn about VOC's) https://github.com/nevermore3d/Nevermore_Micro
 
