@@ -80,9 +80,9 @@ A pre configured macro with modified variables is provided be sure to Add `[incl
 - `variable_slow` sets the fan speed for when the bed is **heating.** 
 - `variable_fast` sets the fan speed for when the bed is **at temperature.**
 
-<h2> Final Version Install Picture's (courtesy of Discord user akinferno#3062)</h2>
+<h2> Final Version Install Picture's </h2>
 
-
+Coming Soon
 
 <h2> CAD Picture's</h2>
 
