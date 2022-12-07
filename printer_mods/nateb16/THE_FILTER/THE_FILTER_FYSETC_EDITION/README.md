@@ -1,7 +1,6 @@
 <h2>THE FILTER</h2>
 
-Two Fan design for standard spacing on voron beds (Not Fysetc)
-
+![filter model](https://user-images.githubusercontent.com/40711977/205870094-7e7c07b6-8fc4-48cc-be1a-14624c461d2c.PNG)
 <h2>ABOUT</h2>
 
 THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. It features 3 5015 blower fans (only works with Fysetc bed hole spacing) and a large capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal for PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
@@ -25,7 +24,7 @@ Testing heat up time to 40°C
 
 <h2>Parts Required</h2>
 
-* (2) 5015 fans 
+* (3) 5015 fans 
 * (1) optional magnetic pogo power connector from digikey https://www.digikey.com/en/products/detail/adam-tech/PHR-C4777-02-FVP-800/9832016
 * (1) optional power cord for pogo connector from digikey https://www.digikey.com/en/products/detail/adam-tech/CA-ST2-PHR-198-M/9832013 
 * (1) jst-XH 2 pin connector with metal pin
@@ -67,6 +66,8 @@ https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fan
 
 
 
+
+
 <h2> Prototype Install Picture's (Current CAD and models have minor cosmetic changes compared to these picture)</h2>
 
 ![IMG_0457](https://user-images.githubusercontent.com/40711977/205880160-19b53a0d-086c-4124-b755-1bd57a20bb04.JPG)
@@ -77,10 +78,20 @@ https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fan
 
 <h2> Final Version Install Picture's (courtesy of Discord user akinferno#3062)</h2>
 
-
+![20221205_220519](https://user-images.githubusercontent.com/40711977/205881109-4aa58c7d-35be-4ae4-be15-2baa56751e13.jpg)
+![20221206_010521](https://user-images.githubusercontent.com/40711977/205881644-587e96b5-8cd0-4ca9-aa05-1afefbcfe172.jpg)
+![20221206_010509](https://user-images.githubusercontent.com/40711977/205881742-36108412-69ed-4d52-9f34-2b4bd104d77b.jpg)
+![20221206_010500](https://user-images.githubusercontent.com/40711977/205881845-884542e1-b4b2-4eb9-b5bb-b9ea2c7275e4.jpg)
 
 <h2> CAD Picture's</h2>
 
+![bottom view](https://user-images.githubusercontent.com/40711977/205851851-4863b4ee-53e6-448c-a159-26f771029f4b.PNG)
+
+![filter model](https://user-images.githubusercontent.com/40711977/205851854-b87cc02e-d695-470d-bf33-a2b171963b07.PNG)
+
+![inside view](https://user-images.githubusercontent.com/40711977/205851856-7284b339-7efa-431a-9686-6a903136f9c5.PNG)
+
+![top view](https://user-images.githubusercontent.com/40711977/205851858-27d315b3-28c8-4e19-901a-dce9d5ad0bdd.PNG)
 
 
 <h2>My Discord Username</h2>
@@ -93,4 +104,3 @@ Discord user akinferno#3062)
 Andrew ellis for inspiration and for a macro that I couldnt make myself https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/Ellis/Bed_Fans
 
 The nevermore (click the link to learn about VOC's) https://github.com/nevermore3d/Nevermore_Micro
-
