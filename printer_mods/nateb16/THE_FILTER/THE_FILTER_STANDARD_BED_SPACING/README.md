@@ -24,7 +24,7 @@ Testing heat up time to 40°C
 
 <h2>Parts Required</h2>
 
-* (2) 5015 fans 
+* (2) 5015 fans 24v
 * (1) optional magnetic pogo power connector from digikey https://www.digikey.com/en/products/detail/adam-tech/PHR-C4777-02-FVP-800/9832016
 * (1) optional power cord for pogo connector from digikey https://www.digikey.com/en/products/detail/adam-tech/CA-ST2-PHR-198-M/9832013 
 * (1) jst-XH 2 pin connector with metal pin
