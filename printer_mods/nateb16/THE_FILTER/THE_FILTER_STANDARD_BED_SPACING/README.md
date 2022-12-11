@@ -25,17 +25,13 @@ Testing heat up time to 40°C
 <h2>Parts Required</h2>
 
 * (2) 5015 fans 24v
-* (1) optional magnetic pogo power connector from digikey https://www.digikey.com/en/products/detail/adam-tech/PHR-C4777-02-FVP-800/9832016
-* (1) optional power cord for pogo connector from digikey https://www.digikey.com/en/products/detail/adam-tech/CA-ST2-PHR-198-M/9832013 
 * (1) jst-XH 2 pin connector with metal pin
 * (1) 2 pin microfit molxex if not using the POGO connector
 * (1) MISC heatshrink and solder (best) or Solder heatshrink tubing (better) or buttsplices (ok)
 
-<h2>Cheaper alternative pogo connector and cord from ali-express</h2>
+<h2> Magnetic pogo connector and cord from ali-express</h2>
 
 * (1) https://www.aliexpress.us/item/3256803531038291.html?spm=a2g0o.productlist.0.0.65b231cdL4B9KI&algo_pvid=d942f52a-126a-4209-835e-aec6d4ec4877&algo_exp_id=d942f52a-126a-4209-835e-aec6d4ec4877-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000026915987305%22%7D&pdp_npi=2%40dis%21USD%213.72%212.98%21%21%21%21%21%402101d8b516703451694166001e84e0%2112000026915987305%21sea&curPageLogUid=LSwHGmyIJeaz
-
-note this connector is untested but identical the digikey parts  
 
 
 
