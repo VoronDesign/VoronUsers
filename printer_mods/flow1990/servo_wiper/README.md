@@ -1,5 +1,6 @@
 <h1>Servo Wiper for Voron Switchwire!</h1>
-<div>...and other printers that need one</div>
+<hr>
+<div>Attention! Depending on how much space you have between your bed and your X-Motor you will loose some space on x, this will only affect large prints and I am working on a solution for this.</div>
 <hr>
 <div>
   <p>Since I wanted something to clean my nozzle automatically on my Voron Switchwire I came up with this idea. It is really simple!</p>
