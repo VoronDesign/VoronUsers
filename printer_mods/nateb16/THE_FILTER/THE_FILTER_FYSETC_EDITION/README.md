@@ -31,6 +31,8 @@ Testing heat up time to 40°C
 
 <h2>pogo connector and cord from ali-express</h2>
 
+* please make sure you choose the set that doesnt have a 90 degree bend in the cord.
+
 * (1) https://www.aliexpress.us/item/3256803531038291.html?spm=a2g0o.productlist.0.0.65b231cdL4B9KI&algo_pvid=d942f52a-126a-4209-835e-aec6d4ec4877&algo_exp_id=d942f52a-126a-4209-835e-aec6d4ec4877-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000026915987305%22%7D&pdp_npi=2%40dis%21USD%213.72%212.98%21%21%21%21%21%402101d8b516703451694166001e84e0%2112000026915987305%21sea&curPageLogUid=LSwHGmyIJeaz
 
 
