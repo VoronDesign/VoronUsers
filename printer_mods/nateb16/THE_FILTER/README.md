@@ -67,7 +67,7 @@ https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fan
 
 A pre configured macro with modified variables is provided be sure to Add `[include bedfans.cfg]` to your printer.cfg and adjust the pin or follow direction below.
 
-**1)** Place the .cfg file (located in the [Klipper_Macros](./Klipper_Macros) folder) in the same directory as your printer.cfg file. 
+**1)** Place the .cfg file  in the same directory as your printer.cfg file. 
 
 **2)** Add `[include bedfans.cfg]` to your printer.cfg.
 
