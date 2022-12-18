@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name RGBW_LED_circular_panel_for_Stealthburner)(type KiCad)(uri ${KIPRJMOD}/RGBW_LED_circular_panel_for_Stealthburner.pretty)(options "")(descr ""))
+)
