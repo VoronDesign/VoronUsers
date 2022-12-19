@@ -4,6 +4,10 @@ A cablecanal I designed to neaten up the spaghet.
 
 I need to credit [blairq](https://www.thingiverse.com/thing:3062013) as I took heavy inspiration. But his parts would simply fall apart.
 
+![](media/20221211_204552.jpg)
+
+![](media/20221211_204530.jpg)
+
 ![](media/IMG_20221219_224347.png)
 
 ![](media/IMG_20221219_224406.png)
