@@ -5,7 +5,7 @@
 ### Trident style side plug skirts for V2.4 to suit Edwardyeeks z-drive tensioner mod
 ![Model.png](images/Model.png)
 
-**These skirts are only compatible with Edwardyeeks V2.4 z-drive Tensioner Mod [Found Here](../../../abandoned_mods/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod)**
+**These skirts are only compatible with Edwardyeeks V2.4 z-drive Tensioner Mod [Found Here](../../../orphaned_mods/printer_mods/edwardyeeks/V2.4_z_drive_motor_tensioner_mod)**
 
 ### **250:**
 
