@@ -16,7 +16,7 @@ I’ve designed a new mount, body, and cover that will fit within the space, eve
 *How it all comes together* - Here are how the different parts come together.
 ![Assembly](Images/OV5648_mount.gif)
 
-*This is where it goes* - The camera mounts in this little pocket between the rear vertical and the A motor. Unobtrusive with a low viewing angle. On my 300mm Trident, I can see the full Z-Tilt-Adjust.
+*This is where it goes* - The camera mounts in this little pocket between the rear vertical and the A motor. Unobtrusive with a low-to-bed viewing angle. On my 300mm Trident, I can see the full Z-Tilt-Adjust.
 ![Location of install](Images/1_location.png)
 
 *The spacer* - This spacer provides clearance to match the A motor's printed parts.
