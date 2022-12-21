@@ -2,7 +2,7 @@
 
 ## OV5648 Camera Mount
 
-For an in-chamber camera, I decided on trying a variant of the OV5648 camera ([Aliexpress](https://www.aliexpress.us/item/2251832770407060.html) with manual focus and a slightly wider camera angle and mounting it under the rear X extrusion on the opposite side from the Z cable chain. For the mount itself, I am basing it on the Panzer Observer for the slim profile, rotation, and minimal hardware.
+For an in-chamber camera, I decided on trying a variant of the OV5648 camera ([Aliexpress](https://www.aliexpress.us/item/2251832770407060.html)) with manual focus and a slightly wider camera angle and mounting it under the rear X extrusion on the opposite side from the Z cable chain. For the mount itself, I am basing it on the Panzer Observer for the slim profile, rotation, and minimal hardware.
 
 ### BOM
 
