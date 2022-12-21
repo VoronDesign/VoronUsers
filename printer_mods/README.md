@@ -250,6 +250,7 @@ like so:
 | Kyleisah |[CableGator Cable Comb](./Kyleisah/CableGator) | A cable comb for simplifying and tidying wire harnesses for printers with drag chains |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | lakai | [Bruag Skirts](./lakai/Bruag_Skirts) | V2 350mm skirts inspired by Bruag Facades | :x: | :x: | :heavy_check_mark: | :x: |
 |Le0n|[Magnetic panels with Magnet Inserts](./Le0n/Magnetic_Panels_with_Magnet_Inserts)| Magnetic panel mounts with magnets inserted into frame slots. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
+| |[OV5648 Camera Mount](./Le0n/OV5648_Camera_Mount)| OV5648 camera mount for 2020 extrusion. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 |leandromarceddu|[PowerSkirt](./leandromarceddu/PowerSkirt) |Modified skirtpiece for a digital power monitor|:x:|:grey_question:|:heavy_check_mark:|:grey_question:|
 |littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |:x:|
 | LJ | [Scrubby](./LJ/Scrubby) | Easy to use filament dust filter | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
@@ -354,7 +355,7 @@ like so:
 | scanlory | [Clip-On Front Door Frame](./scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using modified hinges. | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | ScramblerUSA | [Side Skirt Power Switch](./ScramblerUSA/SideSkirtPowerSwitch) | Skirt-mounted rocker switch for easy access for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
-| Shiftingtech | [Trident Dual Power Switch](./Shiftingtech/Trident_dual_power_switch/) | A replacement skirt, allowing 2 power switches | :x: | :x: | :x: | :x: | :heavy_check_mark: | 
+| Shiftingtech | [Trident Dual Power Switch](./Shiftingtech/Trident_dual_power_switch/) | A replacement skirt, allowing 2 power switches | :x: | :x: | :x: | :x: | :heavy_check_mark: |
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](./ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
