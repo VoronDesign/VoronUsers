@@ -90,7 +90,7 @@ A pre configured macro with modified variables is provided be sure to Add `[incl
 ![IMG_0467](https://user-images.githubusercontent.com/40711977/205882261-f7613fc7-078c-4e10-b99c-e62a4e7fb66f.JPG)
 
 
-<h2> Final Version Install Picture's (courtesy of Discord user TripSlip)</h2>
+<h2> Final Version Install Picture's (courtesy of Discord user AKINFERNO)</h2>
 
 ![20221205_220519](https://user-images.githubusercontent.com/40711977/205881109-4aa58c7d-35be-4ae4-be15-2baa56751e13.jpg)
 ![20221206_010521](https://user-images.githubusercontent.com/40711977/205881644-587e96b5-8cd0-4ca9-aa05-1afefbcfe172.jpg)
