@@ -4,7 +4,7 @@ Note, some details may not match whatever the current models are for the other v
 
 Print the same as the orginals. Note, you MUST print the left and right versions of each file. Mirroring any STL will result in misalignments. Orientation should be self-explanantory but its based on as if you were looking at your printer from the front.
 
-The holes for the magnetic connector are based upon the aliexpress item linked in the main readme. I have notices there may be some variances in what you receive. If something doesnt fit right, again by all means PM  me on Discord.
+The holes for the magnetic connector are based upon the aliexpress item linked in the main readme. I have noticed there may be some variances in what you receive. If something doesnt fit right, again by all means PM  me on Discord or use the CAD files to make adjustments.
 
 Changelog:
 
