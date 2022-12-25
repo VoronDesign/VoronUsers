@@ -5,7 +5,9 @@
 
 THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. It features 3 5015 blower fans (only works with Fysetc bed hole spacing) and a large capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal for PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
 
+<h2>UPDATE</h2>
 
+With feedback from memebrs of the community. A number of things have been addressed. Firstly the exhaust has been changed and optimized to improve the loss of pellet issue as well as improve filtering performance. The trade of for these modification is heat up time and overall heating performance is slightly affected. The mounts for connector's have also been changed to fit the aliexpress listings. I have added holes to secure the fans if desired. The lid still lacks screws for aesthetic reasons. 
 
 <h2>Testing</h2>
 
@@ -24,8 +26,8 @@ Testing heat up time to 40°C
 
 <h2>Parts Required</h2>
 
-* (3) 5015 fans 24v
-* (1) jst-XH 2 pin connector with metal pin
+* (2-3) 5015 fans 24v
+* (ferrule kit)
 * (1) 2 pin microfit molxex if not using the POGO connector
 * (1) MISC heatshrink and solder (best) or Solder heatshrink tubing (better) or buttsplices (ok)
 
@@ -50,10 +52,15 @@ If Using magnetic connector's:
 * center pin is positive 
 * side pins are GND
 * place connector into jig and tape down to more easily attach wires
-2) Cut USB connector off it has two 24awg one red wire and one black. the sheath needs to be cut back and the wires stripped to prepare for crimping
-3) Crimp on jst-XH and press the end of the connector into mounting bracket use super glue if the connector feels to loose
-4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
+2) If applicable Cut USB connector off exposing red and black wire otherwise proceed to step 3
+3) Crimp on ferrules and press the end of the power cable into 3d printed mounting bracket (use super glue if the connector feels to loose)
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro) 
 
+<h2>IMPORTANT</h2>
+
+* CONNECT WIRES TO SPARE HOTEND PORTS TO PROTECT THE MCU in case of accidental disconnects for the filter.
+
+* DO NOT REMOVE THE PRINTED LID WHILE THE BUILDPLATE IS WARM (DOING SO INTRODUCES BOWING TO THE PART RESULTING IN A BAD SEAL AND TERRIBLE PERFORMANCE)
 
 <h2>Sample config (pulled from andrew ellis github)</h2>
 
