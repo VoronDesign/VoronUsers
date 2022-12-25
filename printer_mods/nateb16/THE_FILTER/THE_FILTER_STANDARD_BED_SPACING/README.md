@@ -7,6 +7,11 @@ Two Fan design for standard spacing on voron beds (Not Fysetc)
 Basically the same but just uses two fans and doesnt require spacers. Helps a ton with heating of your printer.
 
 
+<h2>UPDATE</h2>
+
+With feedback from memebrs of the community. A number of things have been addressed. Firstly the exhaust has been changed and optimized to improve the loss of pellet issue as well as improve filtering performance. The trade of for these modification is heat up time and overall heating performance is slightly affected. The mounts for connector's have also been changed to fit the aliexpress listings. I have added holes to secure the fans if desired. The lid still lacks screws for aesthetic reasons. Wiring channels for the two fan version has also been drastically altered due to confusion and overall jankyness
+
+
 <h2>Testing</h2>
 
 Time the printer took to reach 40c
@@ -24,10 +29,11 @@ Testing heat up time to 40°C
 
 <h2>Parts Required</h2>
 
-* (2) 5015 fans 24v
-* (1) jst-XH 2 pin connector with metal pin
+* (2-3) 5015 fans 24v
+* (ferrule kit)
 * (1) 2 pin microfit molxex if not using the POGO connector
 * (1) MISC heatshrink and solder (best) or Solder heatshrink tubing (better) or buttsplices (ok)
+
 
 <h2> Magnetic pogo connector and cord from ali-express</h2>
 
@@ -45,16 +51,20 @@ Testing heat up time to 40°C
 4) Remove bed from frame and mount Bracket to frame in the appropriate position (see pictures)
 5) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
 
-If Using Adam Tech connector's:
+If Using magnetic connector's:
 1) Print Soldering Jig (connector is magnetic and is very hard to solder with out being secured)
 * center pin is positive 
 * side pins are GND
 * place connector into jig and tape down to more easily attach wires
-2) Cut USB connector off it has two 24awg one red wire and one black. the sheath needs to be cut back and the wires stripped to prepare for crimping
-3) Crimp on jst-XH and press the end of the connector into mounting bracket use super glue if the connector feels to loose
-4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
+2) If applicable Cut USB connector off exposing red and black wire otherwise proceed to step 3
+3) Crimp on ferrules and press the end of the power cable into 3d printed mounting bracket (use super glue if the connector feels to loose)
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro) 
 
+<h2>IMPORTANT</h2>
 
+* CONNECT WIRES TO SPARE HOTEND PORTS TO PROTECT THE MCU in case of accidental disconnects for the filter.
+
+* DO NOT REMOVE THE PRINTED LID WHILE THE BUILDPLATE IS WARM (DOING SO INTRODUCES BOWING TO THE PART RESULTING IN A BAD SEAL AND TERRIBLE PERFORMANCE)
 
 
 
@@ -84,7 +94,8 @@ Coming Soon
 
 <h2> CAD Picture's</h2>
 
-![Capture](https://user-images.githubusercontent.com/40711977/206071240-cf6bc2a2-0eaa-45a9-9f45-24e4b7bbde2f.PNG)
+![top view 2 fan](https://user-images.githubusercontent.com/40711977/209454884-38ec26e2-2b69-45c8-966b-176448a36997.png)
+![bottom view 2 fan](https://user-images.githubusercontent.com/40711977/209454889-b01d2831-7c04-4726-878b-84dff8008b60.png)
 ![Capture](https://user-images.githubusercontent.com/40711977/206071363-46ecd10d-1885-48b7-8d1a-6527672f7e51.PNG)
 ![Capture](https://user-images.githubusercontent.com/40711977/206072469-2b4b24e0-46da-4d50-a653-33b967045e98.PNG)
 ![Capture 2](https://user-images.githubusercontent.com/40711977/206072474-19cf3e0c-233a-4c2a-9291-e493c7e20ab0.PNG)
