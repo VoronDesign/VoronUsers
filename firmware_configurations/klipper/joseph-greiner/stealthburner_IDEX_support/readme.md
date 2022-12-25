@@ -2,6 +2,7 @@ This file updates the stealthburner_leds.cfg to have compatibility with IDEX pri
 It is also 100% compatible with standard single toolhead printers.
 
 Single toolhead users: set the LED data pin as you would normally, done.
+
 IDEX users, uncomment the T1 section and set the LED data pins.
 
 All macros will be run on the active toolhead.
