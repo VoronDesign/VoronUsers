@@ -1,8 +1,13 @@
 <h2>THE FILTER</h2>
 
-<h2>STANDARD (In testing but otherwise fine)</h2>
+<h2>STANDARD</h2>
 
 ![Capture](https://user-images.githubusercontent.com/40711977/206066938-03294883-fed9-427a-a087-1ac197e6321f.PNG)
+
+<h2>STANDARD PLUS SINGLE MODULES (Created by devsfan1830)</h2>
+
+![single fan pics](https://user-images.githubusercontent.com/40711977/209454815-31620e40-b737-480e-9517-0e5cd400e496.PNG)
+
 
 <h2>FOR FYSETC BEDS</h2>
 
@@ -12,6 +17,12 @@
 
 THE FILTER is a custom mod of my own design. I was intially inspired to embark on this project after my Nevermore melted. It is a hybrid of Andrew ellis's bed fan's and the Nevermore in a completly custom housing. I have created two designs a two 5015 fan version and a 3 fan version for fysetc bed (since they have non standard hole spacing). Both feature a high capacity for pellet charcoal in a two piece model with a bracket using a minimal amount of supplies. It is mounted from the front to DRASTICALLY improve heating of your printer chamber by blowing air over the bottom of the bed. I also wanted it to be easily removable so it features a optional magnetic quick disconnect using POGO connectors which is what I believe to be a first for a mod of this kind. This connector makes removal during PLA prints and maintenance easy. It is tested extensivly with over 40 hours of runtime and 50 connects and disconnects. Its high airflow and compact design makes it melt and warp resistant. Using 3d printed spacers it is also thermally isolated from the printer frame. 
 
+
+<h2>UPDATE</h2>
+
+With feedback from memebrs of the community. A number of things have been addressed. Firstly the exhaust has been changed and optimized to improve the loss of pellet issue as well as improve filtering performance. The trade of for these modification is heat up time and overall heating performance is slightly affected. The mounts for connector's have also been changed to fit the aliexpress listings. I have added holes to secure the fans if desired. The lid still lacks screws for aesthetic reasons. Wiring channels for the two fan version has also been drastically altered due to confusion and overall jankyness
+
+I have also updated the install instruction for clarity.
 
 
 <h2>Testing</h2>
@@ -34,7 +45,7 @@ Testing heat up time to 40°C
 <h2>Parts Required</h2>
 
 * (2-3) 5015 fans 24v
-* (1) jst-XH 2 pin connector with metal pin
+* (ferrule kit)
 * (1) 2 pin microfit molxex if not using the POGO connector
 * (1) MISC heatshrink and solder (best) or Solder heatshrink tubing (better) or buttsplices (ok)
 
@@ -53,15 +64,18 @@ If Using magnetic connector's:
 * center pin is positive 
 * side pins are GND
 * place connector into jig and tape down to more easily attach wires
-2) Cut USB connector off it has two 24awg one red wire and one black. the sheath needs to be cut back and the wires stripped to prepare for crimping
-3) Crimp on jst-XH and press the end of the connector into mounting bracket use super glue if the connector feels to loose
-4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro)
+2) If applicable Cut USB connector off exposing red and black wire otherwise proceed to step 3
+3) Crimp on ferrules and press the end of the power cable into 3d printed mounting bracket (use super glue if the connector feels to loose)
+4) Connect to MCU and adjust your config (I encourage the filter to be set up using andrew ellis bed fan macro) 
 
 
+<h2>IMPORTANT</h2>
 
+* CONNECT WIRES TO SPARE HOTEND PORTS TO PROTECT THE MCU in case of accidental disconnects for the filter.
 
+* DO NOT REMOVE THE PRINTED LID WHILE THE BUILDPLATE IS WARM (DOING SO INTRODUCES BOWING TO THE PART RESULTING IN A BAD SEAL AND TERRIBLE PERFORMANCE)
 
-<h2>Sample config (pulled from andrew ellis github)</h2>
+<h2>Sample config and setup instructions (pulled from andrew ellis github)</h2>
 
 https://github.com/VoronDesign/VoronUsers/blob/master/printer_mods/Ellis/Bed_Fans/Klipper_Macros/bedfans.cfg
 
@@ -107,9 +121,11 @@ A pre configured macro with modified variables is provided be sure to Add `[incl
 
 ![top view](https://user-images.githubusercontent.com/40711977/205851858-27d315b3-28c8-4e19-901a-dce9d5ad0bdd.PNG)
 
-![Capture](https://user-images.githubusercontent.com/40711977/206070156-85ce38e1-1524-4a91-91dc-188352377c65.PNG)
 
-![Capture](https://user-images.githubusercontent.com/40711977/206070297-9717e250-09fb-4daa-aef4-53161f9e6598.PNG)
+![bottom view 2 fan](https://user-images.githubusercontent.com/40711977/209454794-286b023c-bdc5-4553-a3e9-1f1383fdb4f2.png)
+
+![top view 2 fan](https://user-images.githubusercontent.com/40711977/209454791-7ef58997-e678-495e-8d3b-7d7b69d647c8.png)
+
 
 
 <h2>My Discord Username</h2>
