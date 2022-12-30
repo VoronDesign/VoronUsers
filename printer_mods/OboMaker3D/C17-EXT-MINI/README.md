@@ -33,6 +33,22 @@ For the 60mm fan, follow the recommendations in the documentation. Best model : 
 
 The C17-EXT-MINI Activated Carbon Filter was modelled in [Fusion 360](http://autodesk.com).
 
+## HEPA 13 Filter
+
+Use HEPA 13 filters from 10mm to 18mm thick. The best is to find a HEPA 13 filter for vacuum cleaner and cut it with a cutter. The references change according to the country.
+
+I tested this one after cutting: 
+
+- The best but I do not find the reference in other countries: [Amazon.fr](https://www.amazon.fr/gp/product/B01MCTSXVR)
+ 
+- [Aliexpress 1](https://www.aliexpress.com/item/4000071269334.html)
+
+- [Aliexpress 2](https://www.aliexpress.com/item/4001298732898.html)
+
+## Carbon
+
+WARNING : Although the C17-EXT does not return treated air to the printer enclosure, use Acid-free Activated Carbon (Coconuts for example : amazon) !
+
 ## Contributing
 
 A complaint is a gift. Please, help me to improve the C17-EXT-MINI filter !
