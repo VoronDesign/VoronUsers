@@ -29,10 +29,6 @@ The list of parts is described in the manual according to the chosen configurati
 
 For the 60mm fan, follow the recommendations in the documentation. Best model : Sunon MF60252V21000UA99 24V 60x60x25 3800CFM 32,8m3/h
 
-# Credits
-
-The C17-EXT-MINI Activated Carbon Filter was modelled in [Fusion 360](http://autodesk.com).
-
 ## HEPA 13 Filter
 
 Use HEPA 13 filters from 10mm to 18mm thick. The best is to find a HEPA 13 filter for vacuum cleaner and cut it with a cutter. The references change according to the country.
@@ -48,6 +44,10 @@ I tested this one after cutting:
 ## Carbon
 
 WARNING : Although the C17-EXT does not return treated air to the printer enclosure, use Acid-free Activated Carbon (Coconuts for example : amazon) !
+
+# Credits
+
+The C17-EXT-MINI Activated Carbon Filter was modelled in [Fusion 360](http://autodesk.com).
 
 ## Contributing
 
