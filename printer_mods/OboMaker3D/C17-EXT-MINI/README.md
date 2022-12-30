@@ -2,7 +2,7 @@
 
 ![C17-EXT-MINI](JPG/IMG_1.png "C17-EXT-MINI, External HEPA Carbon filter")
 
-The C17-EXT-MINI HEPA 13 and Carbon filter is designed for Voron 0.1. It has a 60mm fan and HEPA 13 and Carbon filter.
+The C17-EXT-MINI HEPA 13 and Carbon filter is designed for Voron 0.1. It has a 60mm fan, HEPA 13 and Carbon filter.
 
 This is a first publication, although all parts has been tested, there may be errors do not hesitate to contact me.
 
