@@ -311,7 +311,7 @@ like so:
 | |[RPI Metal DIN Mount](./Oakman/RPI_Metal_DIN_Mount) | Adapter for metal DIN mounting the Raspberry Pi |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 |OboMaker3D |[C17-EXT Filter HEPA Carbon](./OboMaker3D/C17-EXT) |Replaces standard filter with new HEPA Carbon and 120mm fan V1.1 |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 | |[C17-EXT-CARTRIDGE for C17-EXT filter](./OboMaker3D/C17-EXT-CARTRIDGE) | Alternative to a commercial cartridge for the C17-EXT filter |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| |[C17-EXT-MINI Filter HEPA Carbon](./OboMaker3D/C17-EXT-MINI) | Filter with new HEPA Carbon and 60mm fan |:heavy_check_mark:|:x:|:x:|:x:|:x:|
+| |[C17-EXT-MINI Filter HEPA Carbon](./OboMaker3D/C17-EXT-MINI) | Filter with HEPA Carbon and 60mm fan |:heavy_check_mark:|:x:|:x:|:x:|:x:|
 |ommy | [roller brackets](./ommy/roller_brackets) |Brackets to help rolling V2 on its side. |:x: |:x: |:heavy_check_mark: |:x:|
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 |padok |[Chain Anchor - ADXL345 mount Mod](./padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner |:x: |:grey_question: |:heavy_check_mark: |:grey_question: |
