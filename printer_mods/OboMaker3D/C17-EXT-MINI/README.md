@@ -18,7 +18,7 @@ This is a first publication, although all parts has been tested, there may be er
 
 ## Assembly Manual
 
-[![Manual](JPG/IMG_7.png)](Doc/VORON_C17_EXT_MINI_V1_0.pdf "Assembly Manual")
+[![Manual](JPG/IMG_4.png)](Doc/VORON_C17_EXT_MINI_V1_0.pdf "Assembly Manual")
 
 
 # BOMs
