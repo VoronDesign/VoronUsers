@@ -30,3 +30,4 @@ Changelog:
 
 12/24/2022: Initial version. Not yet tested but alignment and dimensions in CAD look good. Will update this when printed and tested (within 1-2 weeks).
 
+1/2/2023: Confirmed all components fit well and dock alignment is good. Minor update to the left side housing to remove an unintended gap. If you printed one before now, you will need to reprint ONLY the left side housing with the "Left Side Housing Fixed" STL.
