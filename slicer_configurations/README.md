@@ -24,7 +24,7 @@ like so:
 ---
 
 | Creator | Config title | Description | V0 | V1.8 | Trident | V2.4 | VSW |
-| --- | --- | --- | --- | --- | --- | --- |
+| --- | --- | --- | --- | --- | --- | --- | --- |
 | hartk1213 | [PrusaSlicer V0 Bed and Textures](./PrusaSlicer/hartk1213/V0) | Bed STL and textures for Prusa Slicer | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | hijax_pl_ | [Simplify3D](./Simplify3D/hijax_pl/beds) | Bed images for Simplify3D | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | hoangnam123 | [SuperSlicer v2.4 Bed](./SuperSlicer/hoangnam123) | Bed STL for SuperSlicer | :x: | :x: | :x: | :heavy_check_mark: | :x: |
