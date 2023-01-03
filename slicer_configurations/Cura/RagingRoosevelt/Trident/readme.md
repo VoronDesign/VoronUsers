@@ -64,7 +64,9 @@ The 3D model is defined in:
 
 The STLs were built with CadQuery using the script `./bed_mesh_source/voron_trident_bed.py`
 
-The STL model is courtesy of [hartk1213](../../../PrusaSlicer/hartk1213/V0/Bed_Shape/Model/V0_120mm_Bed.stl).
+The STL model is inspired by [hartk1213's][hartk_vt_350].
+
+[hartk_vt_350]: https://github.com/hartk1213/MISC/blob/f5b1685f1d56b7e2ab853a98741ae614131b116c/Voron%20Mods/SuperSlicer/Bed_Models/Trident/VT_350mm_bed_model.stl
 
 ## Toolhead Definitions
 A set toolheads with various nozzle sizes (each definition file above needs its own toolhead definitions):
