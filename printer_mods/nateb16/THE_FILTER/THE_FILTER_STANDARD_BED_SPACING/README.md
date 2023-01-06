@@ -37,11 +37,7 @@ Testing heat up time to 40°C
 
 <h2> Magnetic pogo connector and cord from ali-express</h2>
 
-* please make sure you choose the set that doesnt have a 90 degree bend in the cord.
-
-* (1) https://www.aliexpress.us/item/3256803531038291.html?spm=a2g0o.productlist.0.0.65b231cdL4B9KI&algo_pvid=d942f52a-126a-4209-835e-aec6d4ec4877&algo_exp_id=d942f52a-126a-4209-835e-aec6d4ec4877-0&pdp_ext_f=%7B%22sku_id%22%3A%2212000026915987305%22%7D&pdp_npi=2%40dis%21USD%213.72%212.98%21%21%21%21%21%402101d8b516703451694166001e84e0%2112000026915987305%21sea&curPageLogUid=LSwHGmyIJeaz
-
-
+* (1) https://www.aliexpress.us/item/3256804221055336.html?srcSns=sns_Copy&spreadType=socialShare&bizType=ProductDetail&social_params=20779293577&aff_fcid=44f0e74988274c4499971f60e99f891c-1673036405324-01774-_mqFtqGi&tt=MG&aff_fsk=_mqFtqGi&aff_platform=default&sk=_mqFtqGi&aff_trace_key=44f0e74988274c4499971f60e99f891c-1673036405324-01774-_mqFtqGi&shareId=20779293577&businessType=ProductDetail&platform=AE&terminal_id=044abf04a0964a288808161aa9379e57&afSmartRedirect=y&gatewayAdapt=glo2usa&_randl_shipto=US
 
 <h2>Installation</h2>
 
