@@ -96,6 +96,6 @@ text:
 Images
 ------
 
-![Image](Images/1.jpg)
+![Image](Images/1.JPG)
 
 ![Image](Images/2.jpg)
