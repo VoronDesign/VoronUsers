@@ -1,6 +1,4 @@
-Revo Micro mount for Mini Stealthburner
-
-===
+# Revo Micro mount for Mini Stealthburner
 
 This is a Revo Micro mount using the original dimensions from the Voron 0.2 release.
 
