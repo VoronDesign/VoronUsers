@@ -273,11 +273,8 @@ like so:
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
-|Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 Deck Logo](./Maverick_/V0_Deck_Logo_LED) | A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
+|Maverick | [MiniSB_LGXL](./Maverick/MiniSB_LGX_Light) | A Bondtech LGX Lite variant of the MiniSB | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:|
 | maximilian-foerg | [Afterburner Turbo Mod](./maximilian-foerg/AB_Turbo_Mod) | A purely cosmetic mod for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Switchwire Double 60mm Fan Mount](./maximilian-foerg/VSW_Double_60mm_Fan_Mount) | A mount for two (or four) 60mm fans in SW's electronics compartment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
