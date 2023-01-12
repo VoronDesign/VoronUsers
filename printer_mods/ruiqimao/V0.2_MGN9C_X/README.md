@@ -17,8 +17,8 @@ In addition to the hardware needed for the stock build:
 
 Assembly is the same as the stock V0.2 X axis and AB frames
 
-[!Overview](Images/angle.png)
+![Overview](Images/angle.png)
 
-[!Closeup](Images/closeup.png)
+![Closeup](Images/closeup.png)
 
-[!Side](Images/side.png)
+![Side](Images/side.png)
