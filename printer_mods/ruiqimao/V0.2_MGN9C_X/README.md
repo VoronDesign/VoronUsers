@@ -15,7 +15,7 @@ In addition to the hardware needed for the stock build:
 
 ## Instructions
 
-Assembly is the same as the stock V0.2 X axis and AB frames
+Assembly is the mostly the same as the stock V0.2 X axis and AB frames. The MGN9C rail mounts to the X axis extrusion with 6x M3x8 BHCS screws and nuts, and the X carriage mounts to the MGN9C carriage with 4x M3x8 BHCS screws.
 
 ![Overview](Images/angle.png)
 
