@@ -22,7 +22,7 @@ This display mount attaches using stock hardware on the V0.2 as well as the hard
 
 To install the display follow the driver installation procedure on waveshares website [here](https://www.waveshare.com/wiki/2.8inch_DSI_LCD)
 
-if you find that the drivers that you need are not included in the waveshare repo, they removed older versions but i have uploaded those [here](Software/Waveshare-DSI-LCD) along with the old instructions from waveshare 
+if you find that the drivers that you need are not included in the waveshare repo, they removed older versions but i have zipped and uploaded those [here](Software) along with the old instructions from waveshare 
 
 After the drivers are installed run the following command to open up the config.txt for the raspberry pi
     
