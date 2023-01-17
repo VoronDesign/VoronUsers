@@ -20,17 +20,10 @@ To complete this mod the following files will need to be reprinted
 - [a]_b_tensioner_pinned.stl
 
 **XY Joints**
-<<<<<<< Updated upstream:printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/README.md
-- MGN12_xy_joint_left_upper_pinned.stl
-- MGN12_xy_joint_left_lower_pinned.stl
-- MGN12_xy_joint_right_upper_pinned.stl
-- MGN12_xy_joint_right_lower_pinned.stl
-=======
 - xy_joint_left_upper_pinned.stl
 - xy_joint_left_lower_pinned.stl
 - xy_joint_right_upper_pinned.stl
 - xy_joint_right_lower_pinned.stl
->>>>>>> Stashed changes:printer_mods/hartk1213/Voron2.4_Pins_Mod/README.md
 
 **Z Idlers FOR V2**
 either one of these based on if you are using 6mm or 9mm belt
@@ -39,14 +32,10 @@ either one of these based on if you are using 6mm or 9mm belt
 
 here is what the XY Joint will look like
 
-<<<<<<< Updated upstream:printer_mods/hartk1213/Voron2.4_Trident_Pins_Mod/README.md
 ![XY Joint](Images/1.jpg)
 ![XY Joint](Images/2.jpg)
-=======
-![XY Joint](Images/1.png) 
 
-
-There is a new file for the A Drive to go along with [Arkeets MGN12](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/arkeet/mgn12) mod that has the X endstop on the toolhead 
+There is a new file for the A Drive to go along with the latest 2.4r2 / Trident carraige that has the X endstop on the toolhead 
 and that is moving the Y endstop to the A drive, this is an optional mod 
 this requires a 2pin jst to be soldered to the switch, 
 the best way i have done it is to solder the wires to the jst first, then install it with a dab of super glue , then solder the wires to the omron switch 
@@ -69,7 +58,7 @@ you might need to bend the pins a little bit to get them to fit around the curve
 
 
 
->>>>>>> Stashed changes:printer_mods/hartk1213/Voron2.4_Pins_Mod/README.md
+
 
 here is what the Z idler will look like
 ![XY Joint](Images/z.jpg)
