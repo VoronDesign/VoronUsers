@@ -12,11 +12,14 @@ The mount point is raised 10mm from standard position to reduce lifting force on
 Wired Version
 
 ![2](Images/upper_optical_wpboard_with_anchor.png)
+
 PCB Version
 
 
 ![3](Images/upper_d2hw_with_anchor.png)
+
 D2HW Version 
+
 
 Wired Version installed on V2.4
 
