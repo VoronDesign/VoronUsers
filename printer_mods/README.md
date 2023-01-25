@@ -133,6 +133,7 @@ like so:
 |doubletrouble |[V0 Skirt Mod](./doubletrouble/V0_Skirt_Mod) |V0 Skirt Mod |:heavy_check_mark: |:x: |:x: |:x:|
 | Dr-Info | [Corner Cable Cover with Drop Holes](./Dr-Info/corner_cable_cover_with_drop_down_holes) | Corner cable cover around Z-idler with drop holes near z frame and cutouts for inline wiring from 2020 extrustions | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 |DrGhetto|[Ghetto Panels](./DrGhetto/GhettoPanels)|Printed panels for the Voron Zero|:heavy_check_mark:|:x:|:x:|:x:|
+|DWTas|[TapTop Chain Anchor](./DWTas/TapTop_chain_anchor/)|Cable chain anchor integrated with top part of Voron TAP|:x:|:x:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 |eamars| [Stealthburner (RC1) Dragon Volcano Hotend Toolhead Mount](./eamars/stealthburner_crazy_dragon_toolhead) | The Stealthburner toolhead mount for Mellow Crazy, TriangleLab T-Volcano and Phaetus UHF mini|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |eddie |[V1.8 12mm Z Mod](./eddie/V1.8_12mm_Z_Mod) |Add V1.8 option for 12mm Z rods |:x: |:heavy_check_mark: |:x: |:x:|
 | |[LED Bar Clip](./eddie/LED_Bar_Clip) |Modular LED Clip for mounting LED Strip to 2020 Extrusions |:x: |:heavy_check_mark: |:heavy_check_mark:|:x:|:heavy_check_mark:|
