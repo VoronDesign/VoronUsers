@@ -19,9 +19,9 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 - No major belt changes just the idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
 - Ultra lightweigth design with high accelerations. See Input Shaper graphs below.
 - 682gram Total X-Rail Full System Install.
- ![](/images/v3/682g.png)
+ ![](images/v3/682g.png)
 - Bed Printable area 336x 324y (TO DO:the bed can be pushed back ~4mm to increase ethe Y to 328ish)
- ![](/images/336x324y.jpg)
+ ![](images/336x324y.jpg)
 
 # Requriments
 - Sensorless homing recommend Y home 1st then X home Then Z home
@@ -41,24 +41,24 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 - https://grabcad.com/library/contribution-to-the-various-vzbot-fanduct-systems-in-combination-with-the-klicky-probedi-jlas1-and-quickdraw-systems-of-annex-1?fbclid=IwAR16A_0Nun4rFj4dr5-l7O6l62gWpChDlT06tSl2N-mH0tbDB2Qwea59Pus
 
 # InputShaper
-![](/images/input_shaper/x.png)
-![](/images/input_shaper/y.png) 
+![](images/input_shaper/x.png)
+![](images/input_shaper/y.png) 
 
 # V3 Images - Current Installation on printer
 
-![](/images/v3/l_front.png) 
+![](images/v3/l_front.png) 
 
-![](/images/v3/l_side.png) 
+![](images/v3/l_side.png) 
 
-![](/images/v3/l_iso.png) 
+![](images/v3/l_iso.png) 
 
-![](/images/v3/v3iso.png) 
+![](images/v3/v3iso.png) 
 
-![](/images/v3/v3iso.png) 
+![](images/v3/v3iso.png) 
 
-![](/images/v3/v3back.png) 
+![](images/v3/v3back.png) 
 
-![](/images/v3/v3right.png) 
+![](images/v3/v3right.png) 
 
 # YouTube
 
