@@ -28,8 +28,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
   - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - klicky prob (really like it so far) Adjustable gantry mount
   - https://github.com/jlas1/Klicky-Probe
-  - My Custom adjustable gantry mount to suit custom heights of different toolhead FanDucts.
-  - https://github.com/julianjc84/VORON-2.4-TOP-MONT-X-RAIL/tree/main/ADJUSTABLE_klicky_probe_dock_voron2.4
+  - My Custom adjustable KlickyProbe gantry mount  that suits custom heights of different toolhead FanDucts. in STL folder.
 - Umbelical or some kind of no cable chain system.
 - Move the Z-Axis chain under the gantry.
   - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
