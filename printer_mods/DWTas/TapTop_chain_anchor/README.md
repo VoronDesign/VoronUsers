@@ -21,8 +21,13 @@ PCB Version
 D2HW Version 
 
 
+![4](Images/upper_optical_wpboard_with_umbilical.png)
+
+Umbilical Version (W.I.P.)
+
+
 Wired Version installed on V2.4
 
-![4](Images/wired_installed_1.png) 
+![5](Images/wired_installed_1.png) 
 
-![5](Images/wired_installed_2.png) 
+![6](Images/wired_installed_2.png) 
