@@ -6,20 +6,6 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 # Work In Progress / ToDos
 - 2023-01-18 - v3 uploaded - tested to be epic
 - Many things under development
-- Shift my bed back to increase printable area.
-
-# Known Issues
-- Tool head fan and duct at the rear slightly collides with gantry corners in the rear left and right.
-  - Solution is to implement heat-set-nuts on the fan mount to save ~4mm.
-  - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend.
-![](images/issues/collide1.jpg)
-![](images/issues/collide2.jpg)
-
-# Resolved Issues
- - Z-Chain under the gantry extrusion is crushed too much. especially with short hotends. Custom length hotend extension are required. I also made a new bed frame mount to allow the zChain to sit between. See STL downloads.
-![](images/zchain/zchain3.png)
-![](images/zchain/zchain2.png)
-![](images/zchain/zchain1.jpg)
 
 # Features
 - Top Mount X Rail
@@ -74,6 +60,19 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 [![youtube journey](https://img.youtube.com/vi/8w1qv4k_UrQ/0.jpg)](https://www.youtube.com/watch?v=8w1qv4k_UrQ)
 
 [![youtube preview](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
+
+# Known Issues
+- Tool head fan and duct at the rear slightly collides with gantry corners in the rear left and right.
+  - Solution is to implement heat-set-nuts on the fan mount to save ~4mm.
+  - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend.
+![](images/issues/collide1.jpg)
+![](images/issues/collide2.jpg)
+
+# Resolved Issues
+ - Z-Chain under the gantry extrusion is crushed too much. especially with short hotends. Custom length hotend extension are required. I also made a new bed frame mount to allow the zChain to sit between. See STL downloads.
+![](images/zchain/zchain3.png)
+![](images/zchain/zchain2.png)
+![](images/zchain/zchain1.jpg)
 
 # Feedback
 TopMountXRail@jc84.com
