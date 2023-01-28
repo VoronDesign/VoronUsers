@@ -15,7 +15,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
   - Z-Chain under the gantry extrusion is crushed too much. especially with short hotends. Custom length hotend extension are required. I also made a new bed frame mount to allow the zChain to sit between. See STL downloads.
   - ![](images/zchain/zchain3.png)
   - ![](images/zchain/zchain2.png)
-  - ![](images/zchain/zchain1.png)
+  - ![](images/zchain/zchain1.jpg)
 
 # Features
 - Top Mount X Rail
