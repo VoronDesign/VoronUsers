@@ -13,9 +13,9 @@ VORON-2.4-TOP-MOUNT-X-RAIL
   - Solution is to implement heat-set-nuts on the fan mount to save ~4mm.
   - Increase the XY mounts to collide with the gantry sooner to allow more padding space.
   - Z-Chain under the gantry extrusion is crushed too much. especially with short hotends. Custom length hotend extension are required. I also made a new bed frame mount to allow the zChain to sit between. See STL downloads.
-  - ![](images/zchain/zchain3.jpg)
-  - ![](images/zchain/zchain2.jpg)
-  - ![](images/zchain/zchain1.jpg)
+  - ![](images/zchain/zchain3.png)
+  - ![](images/zchain/zchain2.png)
+  - ![](images/zchain/zchain1.png)
 
 # Features
 - Top Mount X Rail
