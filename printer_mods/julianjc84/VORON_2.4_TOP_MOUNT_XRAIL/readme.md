@@ -65,11 +65,12 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 - Tool head fan and duct at the rear slightly collides with gantry corners in the rear left and right.
   - Solution is to implement heat-set-nuts on the fan mount to save ~4mm.
   - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend.
+  - temporary Homing Y 1st with 150mm back off then X home.
 ![](images/issues/collide1.jpg)
 ![](images/issues/collide2.jpg)
 
 # Resolved Issues
- - Z-Chain under the gantry extrusion is crushed too much. especially with short hotends. Custom length hotend extension are required. I also made a new bed frame mount to allow the zChain to sit between. See STL downloads.
+ - Z-Chain under the gantry extrusion is crushed especially with short hotends. Custom length hotend extension can be required. I also designed a new bed frame extrusion mount to allow the zChain to squeeze between. See STL downloads.
 ![](images/zchain/zchain3.png)
 ![](images/zchain/zchain2.png)
 ![](images/zchain/zchain1.jpg)
