@@ -11,7 +11,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 # Known Issues
 - Tool head fan and duct at the rear slightly collides with gantry corners in the rear left and right.
   - Solution is to implement heat-set-nuts on the fan mount to save ~4mm.
-  - Increase the XY mounts to collide with the gantry sooner to allow more padding space.
+  - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend.
 ![](images/issues/collide1.jpg)
 ![](images/issues/collide2.jpg)
 
@@ -32,11 +32,11 @@ VORON-2.4-TOP-MOUNT-X-RAIL
  ![](images/336x324y.jpg)
 
 # Requriments
-- Sensorless homing recommend Y home 1st then X home Then Z home
+- Sensorless homing. Recommend Y home 1st with 100-150mm back off. Home X. Center over Z EndStop. Home Z.
   - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
-- klicky prob (really like it so far) Adjustable gantry mount
+- klicky prob
   - https://github.com/jlas1/Klicky-Probe
-  - My Custom adjustable KlickyProbe gantry mount  that suits custom heights of different toolhead FanDucts. in STL folder.
+  - My Custom adjustable KlickyProbe gantry mount that suits custom heights of different toolhead FanDucts in the STL folder.
 - Umbelical or some kind of no cable chain system.
 - Move the Z-Axis chain under the gantry.
   - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
