@@ -179,9 +179,7 @@ like so:
 | hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :x: | :x: | :heavy_check_mark: |
 | hartk1213 | [Voron0 deck panel](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |:x:|
 | | [Voron0 display dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |:x:| :x:|
-| | [Voron0.2 2.8 Waveshare Display](./hartk1213/Voron0.2_2.8_WaveshareDisplay) | 2.8 Waveshare display for V0.2 | :heavy_check_mark:| :x: | :x: |:x:| :x:|
 | | [Voron0 C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
-| | [Voron0.2 Rear Keystone Skirt](./hartk1213/Voron0.2_Rear_Keystone_Skirt) | Added keystone slot on rear skirt for V0.2  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 Hinged Top Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 ExtendedLegs](./hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 ExtrusionSkirt](./hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom   | :heavy_check_mark:| :x: | :x: |:x:|:x:|
@@ -275,10 +273,11 @@ like so:
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
-|Maverick | [MiniSB_Sharkfin](./Maverick/MiniSB_Sharkfin) | Modified MiniSB to use a Sharkfin Extruder | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
-| | [MiniSB_Rapido](./Maverick/MiniSB_Rapido) | Modified MiniSB to use a Rapido hotend | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
-| | [MiniSB_LGXL](./Maverick/MiniSB_LGX_Lite) | A Bondtech LGX Lite variant of the MiniSB | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
-| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:|
+|Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0 Deck Logo](./Maverick_/V0_Deck_Logo_LED) | A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring. | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
 | maximilian-foerg | [Afterburner Turbo Mod](./maximilian-foerg/AB_Turbo_Mod) | A purely cosmetic mod for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Switchwire Double 60mm Fan Mount](./maximilian-foerg/VSW_Double_60mm_Fan_Mount) | A mount for two (or four) 60mm fans in SW's electronics compartment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
@@ -401,6 +400,8 @@ like so:
 | Wile.e | [Deck Panel Support Clips](./wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 | | [Stealthburner + CW1 + PCB Cover](./wile-e1/Stealthburner_CW1_PCB_Cover) | Low-poly for Stealthburner + CW1 + PCB installations: | :x: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:grey_question:|
 | wrez | [V0 Alternate IEC 320 C14 Power Inlet Housing](./wrez/astrodyne-inlet) | Drop in replacement for alternate-source power inlet if spec inlet is back-ordered | :heavy_check_mark: | :x: | :x: | :x: |
+| winbin | [V0.1 MGN9C](./winbin/Voron0_MGN9C) | change linear rail of voron0 to mgn9c | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| | [Stealthburner_OLED](./winbin/Stealthburner_OLED) | add OLED to Stealthburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | xbst_ | [PCB LED Holder](./xbst_/LED_Holder)| Very simple mount for some (?) PCB LED Bars | :x: |:heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Omron Relay](./xbst_/Omron_DIN_Mount)| A simple DIN rail mount for the BOM Relay | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
 | | [DIN Mount Pi 4x Relay Board](./xbst_/Relay_DIN_Mount)| A simple DIN rail mount for the 4 channel relay board for Raspberry Pi | :x: | :heavy_check_mark: |:heavy_check_mark: |:x:|
