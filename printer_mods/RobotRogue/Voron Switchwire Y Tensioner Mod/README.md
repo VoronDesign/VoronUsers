@@ -19,6 +19,6 @@ Also, your bridging better be good because this thing needs to be able to print 
 
 ## Print Orientation
 
-For best results, orient your printed parts as shown below:
+For best results, orient your printed parts as shown below, or thereabouts:
 
 ![Printed Parts Orientation](print_orientation.png)
