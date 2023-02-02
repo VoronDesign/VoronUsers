@@ -1,6 +1,6 @@
 ## Voron Switchwire Y Belt Tensioner Mod
 
-![Exploded View](Model and Fastener Assembly.png)
+![Exploded View](model_and_fastener_assembly.png)
 
 After failing to print the McKurt Y tensioner mod a ton of times, I set out to make my own version (heavily inspired by the McKurt mod) that could be printed flat on the bed without any dramas.
 
@@ -16,4 +16,4 @@ Since it's a structural part, you'll want to print with as high an infill as you
 Also, your bridging better be good because this thing needs to be able to print 20mm bridges.
 
 ## Print Orientation:
-![Printed Parts Orientation](Print Orientation.png)
+![Printed Parts Orientation](print_orientation.png)
