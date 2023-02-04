@@ -78,6 +78,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 ![](images/v4/front_belt.png)
 ![](images/v4/top_belt.png)
 ![](images/v4/front_limit_stop.png)
+![](images/v4/front_limit_stop_2.png)
 
 # Feedback
 TopMountXRail@jc84.com
