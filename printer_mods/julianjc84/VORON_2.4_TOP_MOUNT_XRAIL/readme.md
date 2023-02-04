@@ -47,8 +47,6 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 ![](images/v3/v3iso.png) 
 
-![](images/v3/v3iso.png) 
-
 ![](images/v3/v3back.png) 
 
 ![](images/v3/v3right.png) 
