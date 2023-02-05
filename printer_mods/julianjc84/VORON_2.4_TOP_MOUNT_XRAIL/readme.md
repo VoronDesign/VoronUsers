@@ -5,7 +5,12 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 # Work In Progress / ToDos
 - 2023-01-18 - v3 uploaded - tested to be epic
+- 2023-02-01 - v4 uploaded and running tested to be even better.
 - Many things under development
+
+#Future RoadMap
+ - Replace the AB - XY - front Idlers with 3or4mm LaserCutAluminium plats with use of Printed spacers.
+ - Accomodate easy size changes between 6mm belts and 9mm belts.
 
 # Features
 - Top Mount X Rail
@@ -24,7 +29,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
   - https://github.com/jlas1/Klicky-Probe
   - My Custom adjustable KlickyProbe gantry mount that suits custom heights of different toolhead FanDucts in the STL folder.
 - Umbelical or some kind of no cable chain system.
-- Move the Z-Axis chain under the gantry.
+- Move the Z-Axis chain under the gantry. and replace the bend mount so they chain can sit between.
   - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 
 # Inspired By
@@ -35,7 +40,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 ![](images/input_shaper/x.png)
 ![](images/input_shaper/y.png) 
 
-# V3 Images - Current Installation on printer
+# V3 Images
 
 ![](images/v3/l_front.png) 
 
@@ -59,9 +64,10 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 
 # Known Issues
 - Tool head fan and duct at the rear slightly collides with gantry corners in the rear left and right.
-  - Solution is to implement heat-set-nuts on the fan mount to save ~4mm.
-  - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend.
-  - temporary Homing Y 1st with 150mm back off then X home.
+  - Solution is to implement heat-set-nuts on the fan mount to save ~4mm. (updated to this in v4 now)
+  - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend. (updated in v4 now)
+  - temporary Homing Y 1st with 150mm back off then X home. (still recommend this)
+v3 collision example
 ![](images/issues/collide1.jpg)
 ![](images/issues/collide2.jpg)
 
@@ -78,6 +84,6 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 ![](images/v4/front_limit_stop.png)
 ![](images/v4/front_limit_stop_2.png)
 
-# Feedback
+# Feedback Say hi
 TopMountXRail@jc84.com
 julianjc84#7938
