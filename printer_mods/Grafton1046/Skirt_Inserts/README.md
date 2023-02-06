@@ -3,6 +3,9 @@
 # V2.4 and Trident Front Skirt Inserts
 Add a touch of color to the front skirt without needing to reprint the skirts, or do filiament swaps.
 
+### Install
+These are sized to be a press fit when printed in ABS. Slide the insert into the back of the openings in the skirt and press until they are flush.
+
 ### Printing
   * Default voron settings
   * No supports needed
