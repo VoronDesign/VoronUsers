@@ -73,7 +73,7 @@ like so:
 | | [Horizontal Spool Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
 | | [CornerPanel_SpoolHolder](./BladeScraper-Designs/CornerPanel_SpoolHolder) | A better supported Spool Holder that mounts to a modified corner panel. | :heavy_check_mark: | :x: |:x: | :x: | :x: |
 |Blamm|[LRS-100 DIN mount](./Blamm/lrs-100)|DIN rail mount for an extra LRS-100 Power Supply | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:| :heavy_check_mark:|
-|BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternative if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
+|BlueBear|[Deck Panel Backpack](./BlueBear/Deck_Panel_Backpack)|A mounting alternctive if you don't want to drill your deck panel | :heavy_check_mark: | :x: | :x: |:x:|
 ||[Clippable Wago 221 Mounts](./BlueBear/Wago_221_mount)|Mounts for Wago 221 to screw or clip-in on 1515 extrusions | :heavy_check_mark: | :x: | :x: |
 ||[Ziptie Mount](./BlueBear/Ziptie_Mount)|Clippable Ziptie hooks for 1515 extrusions| :heavy_check_mark: | :x: | :x: |
 | bobbleheed | [Magnetic Panels](./bobbleheed/Magnetic_Panels) | Magnetic clips to allow for easy removal and installation of panels | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
@@ -176,6 +176,7 @@ like so:
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
 | Golas | [V0.1 Extended tophat hinge](./golas/v0-extended-tophat-hinge)| Extended tophat for v0.1 with hinges (integrated or screwed ones). | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |  | [V0.1 Trident skirt remix with 12864 LCD](./golas/v0-trident-skirt-mix)| Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain skirt. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| Grafton1046 | [Skirt Inserts](./Grafton1046/Skirt_Inserts) | Hex Inserts for V2.4 and Trident Front Skirts | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark:|
 | hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :x: | :x: | :heavy_check_mark: |
 | hartk1213 | [Voron0 deck panel](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |:x:|
 | | [Voron0 display dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |:x:| :x:|
