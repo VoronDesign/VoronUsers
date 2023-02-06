@@ -316,6 +316,7 @@ like so:
 |oxno | [RBP Zero Bracket](./oxno/rbp_zero_braket) |Bracket for Raspberry pi zero. |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 |padok |[Chain Anchor - ADXL345 mount Mod](./padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner |:x: |:grey_question: |:heavy_check_mark: |:grey_question: |
 |Phalanx |["Other" Idlers Mod](./Phalanx/Other-V2-Idlers/) | Allow usage of wider toolheads on the V2 |:x: |:grey_question: |:heavy_check_mark: |:x:|
+|PhilBaz |[Orbiter 1.5 Mount - Super Stealth Orbiter](./PhilBaz/Super Stealth Orbiter (1.5)/) | Redesigned Mount, new fetaures and form |:x: |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | prasadp4009 | [StealthBurner CR Touch Mod](./prasadp4009/SW_SB_CRTouch) | Voron SW StealthBurner CR Touch Mod | :x: | :x: | :x: | :heavy_check_mark: | :x:|
