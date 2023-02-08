@@ -84,6 +84,6 @@ v3 collision example
 ![](images/v4/front_limit_stop.png)
 ![](images/v4/front_limit_stop_2.png)
 
-# Feedback Say hi
-TopMountXRail@jc84.com
-julianjc84#7938
+# Feedback be sure to say hi / feedback / thoughts 
+ - TopMountXRail@jc84.com
+ -  Discord julianjc84#7938
