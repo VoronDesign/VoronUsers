@@ -82,8 +82,30 @@ Mantis Dual 5015 Toolhead by Long
   - I used 6mm diameter x 0.9mm coil diameter x 10mm length springs for extra clearance, but this is unnecessary.
   - (Replaces stock 6mm x 1mm x 12mm spring) 
 
-Changes
+Changelog
 -----------------
+06-08-2022
+- Updated CADs to include the fan braces.
+  - Dragon CAD now includes both versions of the ducts (normal and higher flow variant) and also the hotend mount that braces the sherpa mini.
+  - There's been a bunch of additions on the usermods, so go check it out!
+        
+06-03-2022
+- Added links and documentation (under <a href="carriage_assembly.md">Carriage Assembly</A>) regarding Hotend_Mount_Dragon_v1.040_sherpa_brace.stl and the <a href="https://github.com/Annex-Engineering/Annex-Engineering_User_Mods/tree/main/Extruders/Sherpa_Mini/Extruder_Mods/Long-housing_front_angled_front_brace">modified Sherpa Mini housing_front</A>
+        
+05-29-2022
+- Added Hotend_Mount_Dragon_v1.040_sherpa_brace.stl.
+  - This is a modified hotend mount which mates with a modified housing_front that triangulates the sherpa mini mounting.  
+  - Since the modified housing_front is an annex part, it will be hosted on their usermods under sherpa mini (I have a PR in there now).
+        
+05-05-2022
+- Added duct_dragon_v1.043e.  These are a newer version of the ducts for Dragon.  These have slightly less build plate clearance but bigger duct outlets, so higher cooling potential.  I've been running them for a while now and haven't crashed the ducts into a print yet.  
+        
+04-30-2022
+- Uploaded [Duct Braces](STLs/Duct_Brace) that support the fans at the rear.  These bolt from the upper duct arms to the rear of the 5015s to the motor mounts of the sherpa mini.  This greatly improves the resonance graphs in X (attenuates the 125hz peak on the X axis).  
+        
+3-31-2022
+- <S>I received a report of heatcreep using a winsinn 3010 with Rapido.  Just something to be aware of if you're planning to use that combo.  I personally haven't had issues with rapido, but I'm using a sunon 3010v1.</S>  (apparently the jamming was caused by an overheating extruder motor, not heat creep) 
+        
 1-27-2022
 - TheWarolf has added LGX Lite compatibility in his repository of Mantis mods.
   - https://github.com/TheWarolf/Voron-Personal-Mods/tree/main/V2/Long_Mantis_Toolhead
