@@ -2,7 +2,7 @@
 
 <p>The JST_SM i2c Skirt Connector can be used as a connection for an accelerometer, for example an MPU 6500 with i2c connection.</p><br />
 
-<p> <img src="Images/Skirt Connector.png" width="500" title="Rendering of JST_SM i2c Skirt Connector"></p><br />
+<p> <img src="Images/Skirt connector.png" width="500" title="Rendering of JST_SM i2c Skirt Connector"></p><br />
 
 <p><strong>Recommended print settings:</strong></p>
 
