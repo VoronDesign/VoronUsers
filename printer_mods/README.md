@@ -374,6 +374,9 @@ like so:
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Parts_Jigs and Mods](./StvPtrsn/Parts_Jigs_and_Mods) |Parts, Jigs and modifications I use for my builds |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark:|
+| synfinatic | [Nano Display Mount](./synfinatic/Nano-Display-Mount/) | A mount for the Voron Nano Display Adapter | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| |[Duet2/DueX Side Mount](./synfinatic/Duet2Duex-Side-Mount) | Better mounts for Duet2/DueX on V2.x | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| |[RasPi Heatset Mount](./synfinatic/RasPi-Heatset-Mount) | RaspPi + hats mount with heatset inserts | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | TAKUYA | [WANSVIEW USB Camera Mount](./Takuya/USBCameraMount/) | WANSVIEW 1080p Camera Mount for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: |
 | tallman5 | [Z Locks](./tallman5/z-locks/) | Helping hands curing v2.4 build, replaces long zip ties. | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | tameike | [Din Rail SKR 90 deg](./tameike/DIN_Rail_SKR_1.3_90deg) | SKR V1.3 bracket turned 90 degrees | :x: | :grey_question: | :heavy_check_mark: |:x:|
