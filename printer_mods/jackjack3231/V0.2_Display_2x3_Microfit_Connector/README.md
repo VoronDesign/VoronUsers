@@ -1,4 +1,4 @@
-# V0.2 Display 2x3 Microfit Connector (ADXL)
+# V0.2 Display 2x3 Microfit Connector
 This mod replaces the right foot of the V0.2 Display-Mount to allow the installation of one Microfit 2x3 Connector (43020-0600) to easily connect an ADXL sensor without having to remove the backpanel.
 ![V0.2 Display with Microfit Connector](images/V0.2-Display-Microfit-ADXL-v13.png)
 
