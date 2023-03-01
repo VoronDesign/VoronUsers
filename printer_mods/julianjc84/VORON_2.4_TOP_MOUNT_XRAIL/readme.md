@@ -87,3 +87,6 @@ v3 collision example
 # Feedback be sure to say hi / feedback / thoughts 
  - TopMountXRail@jc84.com
  -  Discord julianjc84#7938
+ 
+ # CAD
+ https://cad.onshape.com/documents/a9a183adf9bba502a9a97bd8/w/d7fe18026210d20805620ae9/e/9a3a7e08fe09ca9430e55a9d
