@@ -278,7 +278,8 @@ like so:
 |Maverick | [MiniSB_Sharkfin](./Maverick/MiniSB_Sharkfin) | Modified MiniSB to use a Sharkfin Extruder | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
 | | [MiniSB_Rapido](./Maverick/MiniSB_Rapido) | Modified MiniSB to use a Rapido hotend | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
 | | [MiniSB_LGXL](./Maverick/MiniSB_LGX_Lite) | A Bondtech LGX Lite variant of the MiniSB | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
-| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:| :x:|
+| | [V0.2 Stealth Skirts](./Maverick/V0.2_Stealth_Skirts) | Juiced up skirts for the V0.2 | :heavy_check_mark: | :x: | :x: |:x:| :x:|
 | maximilian-foerg | [Afterburner Turbo Mod](./maximilian-foerg/AB_Turbo_Mod) | A purely cosmetic mod for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Switchwire Double 60mm Fan Mount](./maximilian-foerg/VSW_Double_60mm_Fan_Mount) | A mount for two (or four) 60mm fans in SW's electronics compartment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
