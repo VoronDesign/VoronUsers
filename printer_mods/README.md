@@ -87,6 +87,7 @@ like so:
  ByteChild | [ESP32 DIN Rail Bracket](./ByteChild/ESP32_DIN_Rail_Bracket) | DIN rail mounting bracket for an ESP32 | :x: | :grey_question: | :heavy_check_mark: | :x: |
  || [2-Channel Relay DIN Rail Bracket](./ByteChild/2_Channel_Relay_DIN_Rail_Bracket) | DIN Rail mounting bracket for an 2-Channel-Relay | :x: | :grey_question: | :heavy_check_mark: | :x: |
 |bythorsthunder|[MGN9 Backers Idlers](./bythorsthunder/MGN9_Backers)|New idler uppers for MGN9 Extrusion backers |:x:|:x:|:heavy_check_mark:|:x:|:x:|
+||[Stealthburner Rapido UHF](./bythorsthunder/Stealthburner_Rapido_Uhf)|Stealthburner mod for Rapido UHF |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
 |CannedBass|[Trident Bed Fans](./CannedBass/Trident_Bed_Fans)| Bed fans for Trident |:x:|:grey_question:|:x:|:x:|:heavy_check_mark:|
 ||[PITFT50 45-degree mount](./CannedBass/PITFT50_45_degree_mount)| Mount that puts the screen at a 45-degree angle for more vertical clearance |:x:|:grey_question:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 | Ch4rlesB | [V0 Handles Slim](./Ch4rlesB/V0_Handles_Slim) | Simple and slim handles for the V0 | :heavy_check_mark: | :x: | :x: | :x: |
@@ -178,7 +179,9 @@ like so:
 | hhammarstrand | [Afterburner connector cover for 42STH20-1004AS](./hhammarstrand/afterburner_connector_cover_42STH20-1004AS) | Connector cover for 42STH20-1004AS | :x: | :x: | :x: | :heavy_check_mark: |
 | hartk1213 | [Voron0 deck panel](./hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name VORON0 | :heavy_check_mark:| :x: | :x: |:x:|
 | | [Voron0 display dualcolor](./hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | :heavy_check_mark:| :x: | :x: |:x:| :x:|
+| | [Voron0.2 2.8 Waveshare Display](./hartk1213/Voron0.2_2.8_WaveshareDisplay) | 2.8 Waveshare display for V0.2 | :heavy_check_mark:| :x: | :x: |:x:| :x:|
 | | [Voron0 C14Inlet](./hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that covers the mains contacts  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
+| | [Voron0.2 Rear Keystone Skirt](./hartk1213/Voron0.2_Rear_Keystone_Skirt) | Added keystone slot on rear skirt for V0.2  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 Hinged Top Hat](./hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away when you dont want a top hat on  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 ExtendedLegs](./hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more  | :heavy_check_mark:| :x: | :x: |:x:|:x:|
 | | [Voron0 ExtrusionSkirt](./hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it has a c14 power inlet hole on the bottom   | :heavy_check_mark:| :x: | :x: |:x:|:x:|
@@ -201,6 +204,7 @@ like so:
 | | [10x11mm chain VSW](./hymness1/10x11mm_chain_VSW) | Printable and openable 10x11mm chain | :heavy_check_mark: | :grey_question: | :grey_question: | :heavy_check_mark: |:grey_question:|
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
+| iblue | [V0.1 Tophat Extractor](./iblue/TophatExtractor) | Tophat Extractor for the Voron V0.1 with activated charcoal and HEPA filter | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
@@ -272,11 +276,11 @@ like so:
 |madros |[V0 OLED-skirt](./madros/V0_skirt_OLED) |V0 skirt with 0.96" OLED|:heavy_check_mark: |:x: |:x: |:x:|
 | MasturMynd | [Stealth Zero](./MasturMynd/Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted x rail | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |MathematicalPotato| [V0.1 Belted Z Drive](./MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's mod for the V0.0| :heavy_check_mark: | :x: | :x: | :x: |
-|Maverick_ | [V0 C14 Inlet](./Maverick_/V0_C14_Inlet_Foot) | A modification to the rear foot of the V0 to allow for the addition of a C14 Inlet. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 Deck Logo](./Maverick_/V0_Deck_Logo_LED) | A lower deck panel addition to the V0, designed to accomodate a Neopixel Ring. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 LED Front Bed Mount](./Maverick_/V0_LED_Front_Bed_Mount) | A modification designed to accomodate a Neopixel Jewel (7) in the face of the front bed mount. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 LED Hinge](./Maverick_/V0_LED_Hinge) | A modification designed to accomodate a Neopixel Jewel (7) in the top right hinge of the door. | :heavy_check_mark: | :x: | :x: |:x:|
-| | [V0 TopHat Mini 12864](./Maverick_/V0_TopHat_Mini_12864) | Modified TopHat to mount a Mini 12864. | :heavy_check_mark: | :x: | :x: |:x:|
+|Maverick | [MiniSB_Sharkfin](./Maverick/MiniSB_Sharkfin) | Modified MiniSB to use a Sharkfin Extruder | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
+| | [MiniSB_Rapido](./Maverick/MiniSB_Rapido) | Modified MiniSB to use a Rapido hotend | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
+| | [MiniSB_LGXL](./Maverick/MiniSB_LGX_Lite) | A Bondtech LGX Lite variant of the MiniSB | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
+| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:| :x:|
+| | [V0.2 Stealth Skirts](./Maverick/V0.2_Stealth_Skirts) | Juiced up skirts for the V0.2 | :heavy_check_mark: | :x: | :x: |:x:| :x:|
 | maximilian-foerg | [Afterburner Turbo Mod](./maximilian-foerg/AB_Turbo_Mod) | A purely cosmetic mod for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Switchwire Double 60mm Fan Mount](./maximilian-foerg/VSW_Double_60mm_Fan_Mount) | A mount for two (or four) 60mm fans in SW's electronics compartment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
@@ -353,6 +357,7 @@ like so:
 | scanlory | [Clip-On Front Door Frame](./scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using modified hinges. | :x: | :x: | :heavy_check_mark: |:x:| :x: |
 | ScramblerUSA | [Side Skirt Power Switch](./ScramblerUSA/SideSkirtPowerSwitch) | Skirt-mounted rocker switch for easy access for Voron 2.4 | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | See1807 | [TopHat Exhaust and LED Light](./See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | :heavy_check_mark: | :x: | :x: | :x: |
+| Shiftingtech | [Trident Dual Power Switch](./Shiftingtech/Trident_dual_power_switch/) | A replacement skirt, allowing 2 power switches | :x: | :x: | :x: | :x: | :heavy_check_mark: | 
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](./ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Shteeeeeve | [V0.1 LED Tophat](./Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | :heavy_check_mark: | :x: | :x: | :x: |
 | Slidr | [PanzerBalls 2.4](./Slidr/PanzerBalls2.4) | Squash Ball Feet for V2.4 | :x: | :x: | :heavy_check_mark: |:x:| :x: |
@@ -388,6 +393,7 @@ like so:
 | | [DIN mount RS-15-5 PSU](./Tircown/DIN_mount_RS-15-5) | A DIN mount for the RS-15-5  | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 | | [V0.1 Skirt buttons](./Tircown/V01_skirt_buttons) | Buttons for V0.1 spec skirts | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
+| top_gun_de | [mount_for_umbilical](./top_gun_de/mount_for_umbilical) | Umbilical guide that goes on the chain anchor | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | Triano | [Ender 3 Pro or V2 to Switchwire Mod](./Triano/Ender_3Pro_Switchwire) | Convesion of an Ender 3 Pro or V2 to a Switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | UltraWaffles | [Ender 3 to SW conversion](./Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches| :x: | :x: | :x: | :heavy_check_mark: |
 | VinnyCordeiro | [RGB LED grid for Stealthburner](./VinnyCordeiro/RGB_LED_grid_for_SB) | A small RGB LED grid for Stealthburner's logo | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |

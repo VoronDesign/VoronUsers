@@ -3,7 +3,7 @@ Wago 221 Lever Nuts are really cool, and easy to use (and not inexpensive).  The
 
 There are also very nice mounting brackets for them.  The one I based mine on was created by deepfriedheroin and is available here: [V2 Bed Wagos](../../deepfriedheroin/v2_bed_wagos)
 
-But, that mod assumes nothing else is going to be taking up that space.  I am going to also use the [purge bucket and brush mod](../../../abandoned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber), so I won't have enough area to take advantage of DeepFried's mount.  So I made a smaller one, that mounts flush to the same extrusion the Z-stop is on.
+But, that mod assumes nothing else is going to be taking up that space.  I am going to also use the [purge bucket and brush mod](../../../orphaned_mods/printer_mods/edwardyeeks/Decontaminator_Purge_Bucket_%26_Nozzle_Scrubber), so I won't have enough area to take advantage of DeepFried's mount.  So I made a smaller one, that mounts flush to the same extrusion the Z-stop is on.
 
 I also added features!  
 1. It has an indexing tab on the back so it only requires one M3x8 SHCS bolt (and matching T-nut) to mount, and the indexing tab does not extend the entire length, just in case you want to push the edge past the end of the extrusion a bit for added space.
