@@ -12,9 +12,9 @@ The z chain is replaced with one of the x/y chains - no longer used with CAN bus
 
 <img src="Images/Repositioned_hole.jpg" width="800px" />
 
-This ultimate z chain routing system is a great compliment to the backside cable management system (in a separate PR)
+This ultimate z chain routing system is a great compliment to the backside cable management system (in a separate mod)
 
-<img src="Images/CAN_bus_backside_cable_management.jpg" width="400px" />
+<img src="Images/CAN_bus_backside_cable_management.jpg" width="200px" />
 
 # Prerequisites
 
@@ -38,12 +38,13 @@ This ultimate z chain routing system is a great compliment to the backside cable
 
 # Tools
 
+- Drill with 3/4" bit
 - Multimeter to check for continuity
 - Soldering iron for the heat inserts
-- wire cutter
-- wire stripper
+- Wire cutter
+- Wire stripper
 - Molex microfit 3 crimping tools
-- heat gun for the heatshrink tubing
+- Heat gun for the heatshrink tubing
 
 # Printing
 
@@ -57,34 +58,45 @@ For the A drive:
 - solder wires, about 5 inches in length, to the two end posts of the microswitch.  
 - attach the microswitch to the upper portion of the A drive frame with two M2 self tapping screws
 - route the wiring through the channel in the upper A drive frame.
+- cut the A motor wires to about 6 inches in length and apply heatshrink tubing to the wire closest to the motor housing
+- route the motor wires throught the channel in the lower A drive frame.
+- assemble the A drive as per normal instructions
+- cut wires to length, crimp and add the microfit connectors.
+
+Here's a look at the A drive with the A motor and microswitch connectors.
+
+<img src="Images/A_drive_connectors_w_clam_shell.jpg" width="800px" />
+
+For the B drive:
+
+- cut the B motor wires to about (7+L) inches in length where L is the extrusion lenght
+- apply heatshrink tubing to the wire closest to the motor housing
+- route the motor wires throught the channel in the lower B drive frame.
+- assemble the B drive as per normal instructions
+- insert back extrusion and route the wiring through the channel facing the front doors.
+- apply the wiring cover over the extrusion channel.  You might need more than one cover depending on the size of your printer
+
+<img src="Images/Wiring_through_extrusion_w_cap.jpg" width="800px" />
+
+Here's a look at the B Drive
+
+<img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
+
+- <b> tricky bit <b> you'll need to fiddle with the B drive wiring to get it through the extrusion channel and into the A drive and then terminate it with a microfit connector
+- test all connections with the multimeter
+- snap the clam shells into place around the three connectors
+- press fit the clam shells into the top cover
+- screw the top cover with two M3 x 12mm SHCS
+
 Completed A Drive.
 
 <img src="Images/A_drive_with_y_homing.jpg" width="800px" />
 <img src="Images/A_drive_w_hidden_cabling.jpg" width="800px" />
 
-Completed B Drive
-<img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
-
-<img src="Images/Wiring_through_extrusion_w_cap.jpg" width="800px" />
-<img src="Images/A_drive_connectors_w_clam_shell.jpg" width="800px" />
-Attach the BTT sensor to the top channel piece with two M3 button head screws.  Create the wiring harnesses to attach the microfit connectors.  As an aside, all three ends are males connectors, unusual generally, but easier to build clam shells around them.  
-
-<img src="Images/microfit_clam_shell.jpg" width="400px" />
-
-Once the harness is built up, add the microfit clam shells and insert them into the channels.  They are pressure fit and tight.
-
-<img src="Images/completed_assy.jpg" width="400px" />
-
-Finished cabling should look like this.  Be sure to slide in the cable guide on the unit before attaching it to the frame.
-
-<img src="Images/example_cabling.jpg" width="400px" />
-
-Secure the entire unit to the frame with four M3x12 SHCS and T-Nuts.
-
-# Optional
-
-If you want to secure the entire system to the panel, use a heat set insert and backer.  The panel is only 3mm thick so you'll need something to secure the rest. 
-
-<img src="Images/Optional_Screw_with_heat_set_insert.png" width="400px" />
-
+For the Z chain:
+  
+- remove all the existing wiring from the existing hole in the bottom panel
+- cover up the existing hole with the cable plug
+- using a 3/4" bit, drill a hole that is 13mm from the right edge of the right extrusion holding the heat bed and 10mm from the frame
+  
 All the best!
