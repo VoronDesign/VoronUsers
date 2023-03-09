@@ -2,7 +2,7 @@
 
 For all you CAN bus lovers out there, here's the goto method for cleaning up the cables that do not go to the toolhead.
 
-<img src="Images/Ultimate_Z_chain_system.jpg" width="400px" />
+<img src="Images/Ultimate_Z_chain_system.jpg" width="800px" />
 <img src="Images/complete_system.jpg" width="400px" />
 
 Note microfit connectors are pressure fit with specials retention jigs.
