@@ -18,12 +18,28 @@ The system makes use of the keystone skirt, normally for USB/Rasp Pi connections
 
 <img src="Images/view_from_base.jpg" width="400px" />
 
-# BOM
-* 4x M3 x 12 SHCS
-* 4x M3 Hammerhead T-Nuts
-* BTT filament sensor (should come with 2x M3 x 16 BHCS)
-* 2-, 3- and 5-circuit microfit 3 connectors
-* Optional M3 heat set insert and M3 x 12 SCHS
+# Bill of Materials
+* 2x M3 x 12 SHCS
+* 2x M3 heat set insert
+* 3x M3 x 8 BHCS
+* 3x M3 Hammerhead T-Nuts
+* 1x M5 x 10 SHCS
+* 1x M5 Hammerhead T-Nuts
+* 1x 2-circuit microfit 3 connector
+* 2x 4-circuit microfit 3 connector
+* tiewrap and heatshrink tubing
+
+Tools:
+
+  1.5mm Drill (optional)
+Multimeter to check for Continuity
+Super Glue
+Soldering Iron for the heat inserts
+Probe BOM:
+
+1x microswitch (the omron D2F-5 or D2F-5L (removing the lever) is recommended), D2F-1 and similar sizes microswitch also work
+2x M2x10 mm self tapping
+
 
 # Printing
 
