@@ -3,20 +3,25 @@
 For all you CAN bus lovers out there, here's the goto method for cleaning up the cables that do not go to the toolhead.
 
 <img src="Images/Ultimate_Z_chain_system.jpg" width="800px" />
-<img src="Images/complete_system.jpg" width="400px" />
 
-Note microfit connectors are pressure fit with specials retention jigs.
+This is a great compliment to the backside cable management system (in a separate PR)
 
-<img src="Images/Guides_and_Pressure_fit_connections.png" width="400px" />
-<img src="Images/view_from_fan.jpg" width="400px" />
+<img src="Images/CAN_bus_backside_cable_management.jpg" width="800px" />
 
-The BTT smart filament sensor fits into the printed part.  This is a remix from an unknown design listed on teamfdm.com (thanks!)
 
-<img src="Images/view_from_BTT.jpg" width="400px" />
 
-The system makes use of the keystone skirt, normally for USB/Rasp Pi connections, but in this case two microfit connectors are pressure fit into the slots
+<img src="Images/A_drive_with_y_homing.jpg" width="800px" />
+<img src="Images/Hidden_gantry_cabling.jpg" width="800px" />
+<img src="Images/A_drive_w_hidden_cabling.jpg" width="800px" />
+<img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
+<img src="Images/Repositioned_hole.jpg" width="800px" />
+<img src="Images/Wiring_through_extrusion_w_cap.jpg" width="800px" />
+<img src="Images/A_drive_connectors_w_clam_shell.jpg" width="800px" />
 
-<img src="Images/view_from_base.jpg" width="400px" />
+
+
+
+
 
 # Bill of Materials
 
