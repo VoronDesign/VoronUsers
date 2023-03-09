@@ -51,7 +51,14 @@ Uses standard Voron print profiles.  Supports not needed for any of the parts.  
 
 # Assembly
 
+For the A drive:
+
+- insert the two heat set inserts in the lower and upper portion of the A drive frame.
+- solder wires, about 5 inches in length, to the two end posts of the microswitch.  
+- attach the microswitch to the upper portion of the A drive frame with two M2 self tapping screws
+- route the wiring through the channel in the upper A drive frame.
 Completed A Drive.
+
 <img src="Images/A_drive_with_y_homing.jpg" width="800px" />
 <img src="Images/A_drive_w_hidden_cabling.jpg" width="800px" />
 
