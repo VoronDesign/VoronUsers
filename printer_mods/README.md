@@ -211,6 +211,7 @@ like so:
 | jatson | [Plug panel mod for Schurter CD44.1101.151 power entry](./jatson/plug_panel_schurter) | A modified plug panel for Voron 2.4r1 with Schurter CD44.1101.151 power entry modul. The panel has a LAN socket as well. | :x: | :grey_question: | :heavy_check_mark: | :x: |:x:|
 | jaysuk | [4.3 Fly Screen Mount](./jaysuk/4.3_fly_screen_mount) | A mount for a 4.3" Fly Screen | :heavy_check_mark: | :x: | :x: | :x: |:x:|
 | jbisson9 | [Backside Cable Management](./jbisson9/Backside_Cable_Management) | Routing wiring for the exhaust filter and BTT smart filament sensor | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question:  |
+| | [Ultimate Z chain management for CAN bus] ] Z chain cable routing when CAN bus routing is routed on the top of the printer | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question:  |
 |JD |[V2.4 Filament runout sensor](./JD/RefillPlease) | Replace the 2.4 stock bowden tube holder and add a filament runout sensor  | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 |jeoje |[V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount](./jeoje/Z_Chain_Guide_Thermistor_Mount) | Modifies the Z chain guide to hold a chamber thermistor  |:x: |:x: |:heavy_check_mark: |:x:|
 | | [4.3" Touchscreen Mount](./jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm) to v2.4 and Switchwire Vorons |:x:|:x:|:heavy_check_mark:|:heavy_check_mark:|
