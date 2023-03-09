@@ -16,6 +16,11 @@ This ultimate z chain routing system is a great compliment to the backside cable
 
 <img src="Images/CAN_bus_backside_cable_management.jpg" width="400px" />
 
+# Prerequisites
+
+- Voron 2.4r1 or r2
+- CAN bus routing is through the top of the machine, in line with the PTFE tubing.
+
 # Bill of Materials
 
 - 2x M3 x 12mm SHCS
