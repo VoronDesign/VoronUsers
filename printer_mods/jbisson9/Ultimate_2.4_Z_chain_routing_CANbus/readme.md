@@ -19,31 +19,31 @@ The system makes use of the keystone skirt, normally for USB/Rasp Pi connections
 <img src="Images/view_from_base.jpg" width="400px" />
 
 # Bill of Materials
-* 2x M3 x 12 SHCS
-* 2x M3 heat set insert
-* 3x M3 x 8 BHCS
-* 3x M3 Hammerhead T-Nuts
-* 1x M5 x 10 SHCS
-* 1x M5 Hammerhead T-Nuts
-* 1x 2-circuit microfit 3 connector
-* 2x 4-circuit microfit 3 connector
-* tiewrap and heatshrink tubing
 
-Tools:
+- 2x M3 x 12mm SHCS
+- 2x M3 heat set insert
+- 3x M3 x 8mm BHCS
+- 3x M3 Hammerhead T-Nuts
+- 1x M5 x 10mm SHCS
+- 1x M5 Hammerhead T-Nuts
+- 1x 2-circuit microfit 3 connector
+- 2x 4-circuit microfit 3 connector
+- tiewrap and heatshrink tubing
+- 1x D2F-01L microswitch
+- 2x M2 x 10mm self tapping
 
-  1.5mm Drill (optional)
-Multimeter to check for Continuity
-Super Glue
-Soldering Iron for the heat inserts
-Probe BOM:
+# Tools
 
-1x microswitch (the omron D2F-5 or D2F-5L (removing the lever) is recommended), D2F-1 and similar sizes microswitch also work
-2x M2x10 mm self tapping
-
+- Multimeter to check for continuity
+- Soldering iron for the heat inserts
+- wire cutter
+- wire stripper
+- Molex microfit 3 crimping tools
+- heat gun for the heatshrink tubing
 
 # Printing
 
-Print what you need.  Uses standard Voron print profiles.  Supports not needed but in reality the BTT top channel part could use it (sorry first design and I don't have all my sh*^Y#t together)
+Uses standard Voron print profiles.  Supports not needed for any of the parts.  The cable plug and z chain cable mount can be printed in the accent color of your choice.
 
 # Assembly
 
