@@ -4,24 +4,17 @@ For all you CAN bus lovers out there, here's the goto method for cleaning up the
 
 <img src="Images/Ultimate_Z_chain_system.jpg" width="800px" />
 
-This is a great compliment to the backside cable management system (in a separate PR)
+The end result on the gantry is a self-contained, wire free unit that houses the connections to the A and B motors along with the Y end-stop.
 
-<img src="Images/CAN_bus_backside_cable_management.jpg" width="800px" />
-
-
-
-<img src="Images/A_drive_with_y_homing.jpg" width="800px" />
 <img src="Images/Hidden_gantry_cabling.jpg" width="800px" />
-<img src="Images/A_drive_w_hidden_cabling.jpg" width="800px" />
-<img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
+
+The z chain is replaced with one of the x/y chains - no longer used with CAN bus - and is mounted offset from the center.
+
 <img src="Images/Repositioned_hole.jpg" width="800px" />
-<img src="Images/Wiring_through_extrusion_w_cap.jpg" width="800px" />
-<img src="Images/A_drive_connectors_w_clam_shell.jpg" width="800px" />
 
+This ultimate z chain routing system is a great compliment to the backside cable management system (in a separate PR)
 
-
-
-
+<img src="Images/CAN_bus_backside_cable_management.jpg" width="400px" />
 
 # Bill of Materials
 
@@ -53,6 +46,12 @@ Uses standard Voron print profiles.  Supports not needed for any of the parts.  
 
 # Assembly
 
+<img src="Images/A_drive_with_y_homing.jpg" width="800px" />
+<img src="Images/A_drive_w_hidden_cabling.jpg" width="800px" />
+<img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
+
+<img src="Images/Wiring_through_extrusion_w_cap.jpg" width="800px" />
+<img src="Images/A_drive_connectors_w_clam_shell.jpg" width="800px" />
 Attach the BTT sensor to the top channel piece with two M3 button head screws.  Create the wiring harnesses to attach the microfit connectors.  As an aside, all three ends are males connectors, unusual generally, but easier to build clam shells around them.  
 
 <img src="Images/microfit_clam_shell.jpg" width="400px" />
