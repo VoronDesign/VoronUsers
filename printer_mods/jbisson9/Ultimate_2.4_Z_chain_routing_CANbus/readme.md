@@ -1,8 +1,8 @@
 # Ultimate Z Chain Routing System for CAN bus
 
-This is alternative wiring management solution to current methods.  And it was fun to design :)  The idea was to terminate cable within the channel with microfit connectors for easy maintenance.  Guides are used underneath to secure the wiring.  An optional screw and heat set insert are used to secure the system in place if needed.  Currently designed for V2.4 350mm.  CAD will need modification to work with other size and types of printers.
+For all you CAN bus lovers out there, here's the goto method for cleaning up the cables that do not go to the toolhead.
 
-<img src="Images/Main_design.png" width="400px" />
+<img src="Images/Ultimate_Z_chain_system.jpg" width="400px" />
 <img src="Images/complete_system.jpg" width="400px" />
 
 Note microfit connectors are pressure fit with specials retention jigs.
@@ -28,9 +28,10 @@ The system makes use of the keystone skirt, normally for USB/Rasp Pi connections
 - 1x M5 Hammerhead T-Nuts
 - 1x 2-circuit microfit 3 connector
 - 2x 4-circuit microfit 3 connector
-- tiewrap and heatshrink tubing
+- IGUS X/Y chain (23 links for 350, less for the smaller machines) and 1x end link
 - 1x D2F-01L microswitch
 - 2x M2 x 10mm self tapping
+- tiewrap and heatshrink tubing
 
 # Tools
 
