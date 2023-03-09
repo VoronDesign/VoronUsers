@@ -51,8 +51,11 @@ Uses standard Voron print profiles.  Supports not needed for any of the parts.  
 
 # Assembly
 
+Completed A Drive.
 <img src="Images/A_drive_with_y_homing.jpg" width="800px" />
 <img src="Images/A_drive_w_hidden_cabling.jpg" width="800px" />
+
+Completed B Drive
 <img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
 
 <img src="Images/Wiring_through_extrusion_w_cap.jpg" width="800px" />
