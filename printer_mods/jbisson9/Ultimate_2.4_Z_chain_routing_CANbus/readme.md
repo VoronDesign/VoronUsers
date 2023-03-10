@@ -1,6 +1,6 @@
 # Ultimate Z Chain Routing System for CAN bus
 
-For all you CAN bus lovers out there, here's the goto method for cleaning up the cables that do not go to the toolhead.
+For all you CAN bus lovers out there, here's the goto method for cleaning up the cables that <b><i>do not</i></b> go to the toolhead.
 
 <img src="Images/Ultimate_Z_chain_system.jpg" width="800px" />
 
@@ -24,13 +24,14 @@ This ultimate z chain routing system is a great compliment to the backside cable
 # Bill of Materials
 
 - 2x M3 x 12mm SHCS
-- 2x M3 heat set insert
-- 3x M3 x 8mm BHCS
-- 3x M3 Hammerhead T-Nuts
+- 4x M3 heat set insert
+- 2x M3 x 8mm BHCS
+- 2x M3 x 8mm SHCS
+- 2x M3 Hammerhead T-Nuts
 - 1x M5 x 10mm SHCS
 - 1x M5 Hammerhead T-Nuts
-- 1x 2-circuit microfit 3 connector
-- 2x 4-circuit microfit 3 connector
+- 1x 2-circuit microfit 3 connector (male and female)
+- 2x 4-circuit microfit 3 connector (male and female)
 - IGUS X/Y chain (23 links for 350, less for the smaller machines) and 1x end link
 - 1x D2F-01L microswitch
 - 2x M2 x 10mm self tapping
@@ -61,7 +62,7 @@ For the A drive:
 - cut the A motor wires to about 6 inches in length and apply heatshrink tubing to the wire closest to the motor housing
 - route the motor wires throught the channel in the lower A drive frame.
 - assemble the A drive as per normal instructions
-- cut wires to length, crimp and add the microfit connectors.
+- cut wires to length, crimp and add the male microfit connectors.
 
 Here's a look at the A drive with the A motor and microswitch connectors.
 
@@ -82,7 +83,7 @@ Here's a look at the B Drive
 
 <img src="Images/B_drive_w_hidden_cabling.jpg" width="800px" />
 
-- <b> tricky bit <b> you'll need to fiddle with the B drive wiring to get it through the extrusion channel and into the A drive and then terminate it with a microfit connector
+- <b><i>tricky bit</i></b> you'll need to fiddle with the B drive wiring to get it through the extrusion channel and into the A drive and then terminate it with a male microfit connector
 - test all connections with the multimeter
 - snap the clam shells into place around the three connectors
 - press fit the clam shells into the top cover
@@ -95,8 +96,21 @@ Completed A Drive.
 
 For the Z chain:
   
+- insert two heat set inserts in the bottom z chain mount
 - remove all the existing wiring from the existing hole in the bottom panel
 - cover up the existing hole with the cable plug
 - using a 3/4" bit, drill a hole that is 13mm from the right edge of the right extrusion holding the heat bed and 10mm from the frame
+
+<img src="Images/VORON2.4_Hole_Location.png" width="800px" />
+  
+- pass A and B motor wires and Y end-stop wires through the newly drill hole
+- pass the wires through the bottom z chain mount
+- attach the bottom z chain mount to the frame with a M5 x 10mm SHCS and a M5 hammerhead T-nut.  The bottom z chain mount should overlap the bed extrusion.
+- screw on the z chain to the bottom z chain mount using two M3 x 8mm BHCS
+- route the wiring through the chain and terminate with three female microfit connectors
+- verify all your connections with the multimeter
+- tie wrap wiring to the bottom z chain mount as shown above
+- screw the end link z chain to the gantry extrusion using two M3 x 8mm SHCSs and two M3 hammerhead T-nuts
+- connect the microfit connector together and you're done!
   
 All the best!
