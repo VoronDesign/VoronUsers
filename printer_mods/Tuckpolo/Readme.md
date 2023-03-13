@@ -57,5 +57,16 @@ Notes:
   
   ![Using Existing](https://user-images.githubusercontent.com/31577989/224584331-b5d00781-4d82-4dbb-83ba-b8590ec9755a.JPG)
 
+  Step 4: Install Camera and Lights  
+  At this point in time the camera can be assembled and installed with the NEOPIXEL LED strip.  
+  Reference Raspberrypi.org or raspberrypi.com for instructions on connecting the camera to your raspberry pi.  
+  Solder 3 wires to the Neopixel Strip and route with the camera ribbon to the rear. Reference your controller's pinout for connection.  
   
+  ![Camera Mount](https://user-images.githubusercontent.com/31577989/224584793-53a5cbfa-87fb-4127-b63c-480597ef71fb.JPG)
   
+  ![PXL_20230313_000551334](https://user-images.githubusercontent.com/31577989/224584823-c019401d-34a9-4220-8f10-b54b39486107.jpg)
+
+![PXL_20230313_000544694](https://user-images.githubusercontent.com/31577989/224584878-b2475e07-2af2-4348-b805-7480f2bf5f81.jpg)
+
+  
+  Step 5: Install Top Hat per V0.1 Manual
