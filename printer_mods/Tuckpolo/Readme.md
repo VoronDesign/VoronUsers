@@ -84,3 +84,4 @@ Notes:
     
     
 The mounting bracket for the camera can be mounted in either accessory point or the middle points on the top hat.
+
