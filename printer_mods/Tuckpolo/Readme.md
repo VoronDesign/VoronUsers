@@ -69,6 +69,6 @@ Notes:
 ![PXL_20230313_000544694](https://user-images.githubusercontent.com/31577989/224584878-b2475e07-2af2-4348-b805-7480f2bf5f81.jpg)
 
   
-  Step 5: Install Top Hat to Brim per V0.1 Manual
+  Step 5: Install Top Hat to Brim per V0.1 Manual  
   Step 6: Install Top Hat Assembly per V0.2 Manual  
   
