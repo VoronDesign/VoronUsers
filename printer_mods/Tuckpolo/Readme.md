@@ -1,10 +1,10 @@
 A Hat Brim Designed to fit V0.2 using V0.1 Top Hat, R-pi Camera and Adafruit Neopixel
 ![V0 2 TOP HAT ADAPTER](https://user-images.githubusercontent.com/31577989/224580250-63d08338-e02c-4e56-9af7-112308c472f9.JPG)
 
-Not being a fan of the brutalist effect and acquisition challenges of the extrusion top hat that coes with V0.2, I set out with a couple goals. First to adapt the V0.1 Top Hat which feels more aligned with the Voron Design Mission and asthetic, and to bring in a cost effective lighting and camera support solution to the V0 family. 
+Not being a fan of the brutalist effect and acquisition challenges of the extrusion top hat that coes with V0.2, I set out with a couple goals. First to adapt the V0.1 Top Hat which feels more aligned with the Voron Design mission and asthetic, and to bring in a cost effective lighting and camera support solution to the V0 family. 
 
 
-Step 1 Print Your Parts.  
+Step 1: Print Your Parts.  
 
 Notes:  
   + The lights and camera parts are in green in the BOM. All else are optional.  
@@ -26,3 +26,36 @@ Notes:
     
 
 ![Print Orientation](https://user-images.githubusercontent.com/31577989/224581959-1ec1201a-59e8-43a5-8621-93710022df84.JPG)
+
+  
+  Step 2: Ready your parts  
+    
+  At a minimum, the Front Logo should be tidied and lightly sanded to remove any excess support material.  
+  Sand the back of the logo along the yellow edges. The parts should slip easily inside each other.  
+  Install Heat Inserts on the corners and sides. On the corner pieces get x2 and the Side Panel 1 gets x1  
+   
+  ![InkedPXL_20230313_000504970 MP](https://user-images.githubusercontent.com/31577989/224583871-f3a978ce-3f40-4d1c-af14-98718496dc3c.jpg)
+
+    
+  
+![Heat Set Insert Sides](https://user-images.githubusercontent.com/31577989/224583727-c10b0482-0217-4656-926b-c8e7452da013.JPG)
+
+  
+![Heat Set Insert Corner](https://user-images.githubusercontent.com/31577989/224583601-d69f53cf-17a7-4794-b07a-d63792f81797.JPG)
+
+
+  
+  Step 3: Assemble Brim  
+    
+  Connect the brim using M3 x 20 SHSCS fasteners and M3 Nuts  
+  
+  
+  ![Bolting](https://user-images.githubusercontent.com/31577989/224584118-b3d7039d-36dd-4d33-b6a7-b9c161e862fa.JPG)
+  
+  Attach Hinges: Reference the V0.2 Manual for mounting the hinge pieces.  
+  
+  
+  ![Using Existing](https://user-images.githubusercontent.com/31577989/224584331-b5d00781-4d82-4dbb-83ba-b8590ec9755a.JPG)
+
+  
+  
