@@ -75,8 +75,10 @@ Notes:
     
   This is blaitantly ripped off verion of the Stealth Burner configuration file. Those authors deserve all the credit for the heavy lifting. 
   My adaptations only was to address the 8 LEDS, thus you should use it as a starting point. 
-  have 
+  have  
+  
   Final Thought on the Camera  
+  
   As of publishing Octoprint 1.0 is the current release on Bullseye and has spotty support for webcameras including the raspberry pi cam. Release candidates seem to be addressing this issue, but getting the raspbarry pi camera up and running took googling steps though it does works. After the next Octoprint release, I intend to link to supporting information.  
     
     
