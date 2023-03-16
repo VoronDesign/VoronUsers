@@ -69,9 +69,9 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 ![](images/zchain/zchain2.png)
 ![](images/zchain/zchain1.jpg)
 
-# What I Working On
+# v4 Improvmentns Included
 
-- gantry collision working on a belt clip that pads out the frame to preventthe 5015 fan from colliding. estimate Y reduction of 8mm
+- Gantry collision solved by a belt clip that pads out the frame to prevent the 5015 fan from colliding. estimate Y reduction of 8mm
 ![](images/v4/front_belt.png)
 ![](images/v4/top_belt.png)
 ![](images/v4/front_limit_stop.png)
