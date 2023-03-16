@@ -1,18 +1,12 @@
 Many thanks to the VzBot and the Voron team for making excellent printers.
 
 # VORON-2.4-TOP-MOUNT-X-RAIL
+
 VORON-2.4-TOP-MOUNT-X-RAIL
-
-# Work In Progress / ToDos
-- 2023-01-18 - v3 uploaded - tested to be epic
-- 2023-02-01 - v4 uploaded and running tested to be even better.
-- Many things under development
-
-# Future RoadMap
- - Replace the AB - XY - front Idlers with 3or4mm LaserCutAluminium plats with use of Printed spacers.
- - Accomodate easy size changes between 6mm belts and 9mm belts.
+- 2023-02-01 - v4 uploaded and running.
 
 # Features
+
 - Top Mount X Rail
 - Simple install just new xy parts only. and modified VZPrintable tool head for the Dragon UltraHighFlow.
 - No major belt changes just the idler belts are now routed to rear of x axis beam. No cuttin no trimming of belts required.
@@ -23,16 +17,18 @@ VORON-2.4-TOP-MOUNT-X-RAIL
  ![](images/336x324y.jpg)
 
 # Requriments
+
 - Sensorless homing. Recommend Y home 1st with 100-150mm back off. Home X. Center over Z EndStop. Home Z.
   - https://docs.vorondesign.com/community/howto/clee/sensorless_xy_homing.html
 - klicky prob
   - https://github.com/jlas1/Klicky-Probe
   - My Custom adjustable KlickyProbe gantry mount that suits custom heights of different toolhead FanDucts in the STL folder.
 - Umbelical or some kind of no cable chain system.
-- Move the Z-Axis chain under the gantry. and replace the bend mount so they chain can sit between.
+- Move the Z-Axis chain under the gantry. and replace the bed mount so they chain can sit tucked under between.
   - https://www.printables.com/model/279739-voron-can-bus-z-chain-move
 
 # Inspired By
+
 - https://github.com/VzBoT3D/Vz-Printhead-Printed
 - https://github.com/VzBoT3D/VzBoT-Vz330
 
@@ -40,7 +36,7 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 ![](images/input_shaper/x.png)
 ![](images/input_shaper/y.png) 
 
-# V3 Images
+# V3 Images - legacy V4 has updates see CAD @ bottom.
 
 ![](images/v3/l_front.png) 
 
@@ -63,21 +59,18 @@ VORON-2.4-TOP-MOUNT-X-RAIL
 [![youtube preview](https://img.youtube.com/vi/LdVHs1veAIQ/0.jpg)](https://www.youtube.com/watch?v=LdVHs1veAIQ)
 
 # Known Issues
-- Tool head fan and duct at the rear slightly collides with gantry corners in the rear left and right.
-  - Solution is to implement heat-set-nuts on the fan mount to save ~4mm. (updated to this in v4 now)
-  - Increase the XY mounts to collide with the gantry sooner to allow more padding space for the hotend. (updated in v4 now)
-  - temporary Homing Y 1st with 150mm back off then X home. (still recommend this)
-v3 collision example
-![](images/issues/collide1.jpg)
-![](images/issues/collide2.jpg)
 
-# Resolved Issues
+- v4 has no known issues.
+
+# zChain Hidden
+
  - Z-Chain under the gantry extrusion is crushed especially with short hotends. Custom length hotend extension can be required. I also designed a new bed frame extrusion mount to allow the zChain to squeeze between. See STL downloads.
 ![](images/zchain/zchain3.png)
 ![](images/zchain/zchain2.png)
 ![](images/zchain/zchain1.jpg)
 
 # What I Working On
+
 - gantry collision working on a belt clip that pads out the frame to preventthe 5015 fan from colliding. estimate Y reduction of 8mm
 ![](images/v4/front_belt.png)
 ![](images/v4/top_belt.png)
@@ -85,9 +78,11 @@ v3 collision example
 ![](images/v4/front_limit_stop_2.png)
 
 # Feedback
+
  - if you install this please send me a photo on discord!
  - TopMountXRail@jc84.com
  - Discord julianjc84#7938
  
  # CAD
+ 
  https://cad.onshape.com/documents/a9a183adf9bba502a9a97bd8/w/d7fe18026210d20805620ae9/e/9a3a7e08fe09ca9430e55a9d
