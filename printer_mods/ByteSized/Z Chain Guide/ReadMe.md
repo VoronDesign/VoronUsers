@@ -6,7 +6,7 @@ This is my take on the Z chain guide thermistor mount, this will hold either a g
 ![Z chain thermistor v6 (4)](https://user-images.githubusercontent.com/9074900/228005219-d8712a5f-f814-44ae-bdc3-3aec6ef10dbb.png)
 Clips onto the 2020 extrusion
 ![Z chain thermistor v6 (3)](https://user-images.githubusercontent.com/9074900/228006924-35ab1dc8-a8c0-4915-b884-3c4d0e401039.png)
-An M3 x 6 SHCS sits flush in the bottom hole andis tightened (gently) to hold either type of thermistor in place (not esential if you're careful but I put a small piece of heatshrink around the thermistor wires to cushion them where the screw pinches)
+An M3 x 6 SHCS sits flush in the bottom hole and is tightened (gently) to hold either type of thermistor in place (not essential if you're careful but I put a small piece of heatshrink around the thermistor wires to cushion them where the screw pinches)
 ![Z chain thermistor v6 (6)](https://user-images.githubusercontent.com/9074900/228005254-28d86c71-2302-43da-8d95-ab68c3b8e8e8.png)
 Upper hole takes the same M5 BHCS as the standard Z chain guide in order to fasten to a T nut, lower hole is sized to take the thermistor (cartridge or glass bead)
 ![Z chain thermistor v6 (5)](https://user-images.githubusercontent.com/9074900/228005264-b39e5016-8a13-4187-b4bc-2d6dedbab4ab.png)
