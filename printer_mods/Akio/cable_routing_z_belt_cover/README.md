@@ -23,33 +23,33 @@ To be able to achieve a clutter-free look i hid cables in the extrusions as much
 So i also wanted to have a hidden way to route the cables to the bottom compartment. To achieve that i made
 the z belt cover a bit thicker and cut a path on the bottom where cables can be routed without being seen.
 
-The files are named with v22 in the filename for the 2.2 version and v24 in the filename for the 2.4 version.
+The files are named with v2.2 in the filename for the 2.2 version and v2.4 in the filename for the 2.4 version.
 
 ## Things to consider during installation
 > The modified z belt covers are thicker than the originals. You may have to move up your z-rails, if you installed them flush to the top of the original covers.
 
 > Make sure to constrain the cable you are routing through to the bottom, so it does not interfere with the z-belts. Use a zip tie or tape to hold the cable securely in position / away from your z-belts.
 ## Pictures
-![z belt cover](img/cable_routing_z_belt_cover_mod_v22_img_2.jpg)
+![z belt cover](img/cable_routing_z_belt_cover_mod_v2.2_img_2.jpg)
 &nbsp;<br/>
 &nbsp;<br/>
 
-![z belt cover 2.2 top](img/cable_routing_z_belt_cover_mod_v22_img_0.png)
+![z belt cover 2.2 top](img/cable_routing_z_belt_cover_mod_v2.2_img_0.png)
 *2.2 version - top*
 &nbsp;<br/>
 &nbsp;<br/>
 
-![z belt cover 2.2 bottom](img/cable_routing_z_belt_cover_mod_v22_img_1.png)
+![z belt cover 2.2 bottom](img/cable_routing_z_belt_cover_mod_v2.2_img_1.png)
 *2.2 version - bottom with path for routing cables*
 &nbsp;<br/>
 &nbsp;<br/>
 
-![z belt cover 2.4 top](img/cable_routing_z_belt_cover_mod_v24_img_0.png)
+![z belt cover 2.4 top](img/cable_routing_z_belt_cover_mod_v2.4_img_0.png)
 *2.4 version - top*
 &nbsp;<br/>
 &nbsp;<br/>
 
-![z belt cover 2.4 bottom](img/cable_routing_z_belt_cover_mod_v24_img_1.png)
+![z belt cover 2.4 bottom](img/cable_routing_z_belt_cover_mod_v2.4_img_1.png)
 *2.4 version - bottom with path for routing cables*
 
 ## Wire routing
@@ -61,6 +61,6 @@ The files are named with v22 in the filename for the 2.2 version and v24 in the 
 ![z belt cover](img/cable_routing_z_belt_cover_mod_cross_section_view.png)
 *Cross section view*
 
-![z belt cover](img/cable_routing_z_belt_cover_mod_v22_img_3.jpg)
+![z belt cover](img/cable_routing_z_belt_cover_mod_v2.2_img_3.jpg)
 &nbsp;<br/>
 
