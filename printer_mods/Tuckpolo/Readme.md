@@ -38,7 +38,7 @@ Notes:
     
   At a minimum, the Front Logo should be tidied and lightly sanded to remove any excess support material.  
   Sand the back of the logo along the yellow edges. The parts should slip easily inside each other.  
-  Install Heat Inserts on the corners and sides. On the corner pieces get x2 and the Side Panel 1 gets x1  
+  Install Heat Inserts on the corners and sides. On the corner pieces get x1 and the Side Panel 1 gets x2  
    
   ![InkedPXL_20230313_000504970 MP](https://user-images.githubusercontent.com/31577989/224583871-f3a978ce-3f40-4d1c-af14-98718496dc3c.jpg)
 
