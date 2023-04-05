@@ -65,8 +65,8 @@ Notes:
 
   Step 4: Install Camera and Lights  
   At this point in time the camera can be assembled and installed with the NEOPIXEL LED strip.  
-  Reference Raspberrypi.org or raspberrypi.com for instructions on connecting the camera to your raspberry pi.  
-  Solder 3 wires to the Neopixel Strip and route with the camera ribbon to the rear. Reference your controller's pinout for connection.  
+  Reference Raspberrypi.org or raspberrypi.com for instructions on connecting the camera to your raspberry pi. I purchases a set of ribbon cables and selected the 50cm as a just right length. 
+  Solder 3 or 4 wires to the Neopixel Strip and route with the camera ribbon to the rear. Reference your MCU controller's pinout for the neopixel connection. 
   
   ![Camera Mount](https://user-images.githubusercontent.com/31577989/224584793-53a5cbfa-87fb-4127-b63c-480597ef71fb.JPG)
   
@@ -75,9 +75,9 @@ Notes:
 ![PXL_20230313_000544694](https://user-images.githubusercontent.com/31577989/224584878-b2475e07-2af2-4348-b805-7480f2bf5f81.jpg)
 
   
-  Step 5: Install Top Hat to Brim per V0.1 Manual  
-  Step 6: Install Top Hat Assembly per V0.2 Manual  
-  Step 7: Include the file TopHat_leds.cfg in your print.cfg file. reference Stealth Burner information on Voron Design.  
+  Step 5: Install Top Hat to Brim per V0.1 Manual. This should be use the same hardware.  
+  Step 6: Install Top Hat Assembly per V0.2 Manual. 
+  Step 7: Include the file TopHat_leds.cfg in your print.cfg file. Reference Stealth Burner information on Voron Design.  
     
   This is blaitantly ripped off verion of the Stealth Burner configuration file. Those authors deserve all the credit for the heavy lifting. 
   My adaptations only was to address the 8 LEDS, thus you should use it as a starting point. I've left the hooks in place for those with a white pixel and a future second led set. I haven't tested every permutation of this Adafruit light bar.
@@ -87,5 +87,5 @@ Notes:
   As of publishing Octoprint 1.0 is the current release on Bullseye and has spotty support for webcameras including the raspberry pi cam. Release candidates seem to be addressing this issue, but getting the raspbarry pi camera up and running took googling steps though it does works. After the next Octoprint release, I intend to link to supporting information.  
     
     
-The mounting bracket for the camera can be mounted in either accessory point or the middle points on the top hat.
+The mounting bracket for the camera can be mounted in either accessory point or any of the 4 the middle points on the V0.1 top hat.
 
