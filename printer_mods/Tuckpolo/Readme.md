@@ -1,6 +1,6 @@
 A Hat Brim Designed to fit V0.2 using V0.1 Top Hat, R-pi Camera and Adafruit Neopixel  
 
-If you don't love the brutalist asthetic or acquisition challenges of the T-slot extrusion top hat that coes with V0.2, I set out with a couple goals. First to adapt the V0.1 Top Hat which feels more aligned with the Voron Design mission and asthetic, and to bring in a cost effective lighting and camera support solution to the V0 family.    
+If you don't love the brutalist asthetic or acquisition challenges of the T-slot extrusion top hat that goes with V0.2, I set out with a couple goals. First to adapt the V0.1 Top Hat which feels more aligned with the Voron Design mission and asthetic, and to bring in a cost effective lighting and camera support solution to the V0 family.    
   
 
 ![V0 2 TOP HAT ADAPTER](https://user-images.githubusercontent.com/31577989/224580250-63d08338-e02c-4e56-9af7-112308c472f9.JPG)
