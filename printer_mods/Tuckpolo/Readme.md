@@ -76,7 +76,8 @@ Notes:
 
   
   Step 5: Install Top Hat to Brim per V0.1 Manual. This should be use the same hardware.  
-  Step 6: Install Top Hat Assembly per V0.2 Manual. 
+  Step 6: Install Top Hat Assembly per V0.2 Manual.
+  
   Step 7: Include the file TopHat_leds.cfg in your print.cfg file. Reference Stealth Burner information on Voron Design.  
     
   This is blaitantly ripped off verion of the Stealth Burner configuration file. Those authors deserve all the credit for the heavy lifting. 
