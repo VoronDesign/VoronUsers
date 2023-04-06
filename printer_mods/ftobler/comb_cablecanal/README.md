@@ -21,6 +21,6 @@ Your electronics panel might look very different from mine. So there are a set o
 you will need (BOM):
  * VHB tape
 
-Print a few small testpices to check the fit. You want to be able to insert the comb part with force. It should stay in there really good. Ideally it does not come out without breaking the hooks. The comb part has very small tabs, they should be on the build plate.
+Print a few small testpieces to check the fit. You want to be able to insert the comb part with force. It should stay in there really good. Ideally it does not come out without breaking the hooks. The comb part has very small tabs, they should be on the build plate.
 
 **Do *not* print this in PLA**. PLA has the tendency to creep. So the spring tension in the hook will give over time. PLA also does not like to be near the warmth of your electronics or the heated chamber. Print in ABS or ASA.
