@@ -5,7 +5,7 @@ A hotend mount for a volcano chc and v6 heatsink with the pheatus dragon hole pa
 
 ### Why I made it
 
-I needed an abrasives hotend and did not want to use my rapido uhf as the heatbreak could wear out. I also did not want to have two different steathburner covers and x cariages. The list goes on. I decided to build a hotend using a titanium heatbreak, a v6 heatsink with a dragon hole pattern, a chc heater with a PT1000, and a bondtech bi metal 0.6mm cht which I already had on hand.
+I needed an abrasives hotend and did not want to use my rapido uhf as the heatbreak could wear out. I also did not want to have two different steathburner covers and x cariages etc. I decided to build a hotend using a titanium heatbreak, a v6 heatsink with a dragon hole pattern, a chc heater with a PT1000, and a bondtech bi metal 0.6mm cht which I already had on hand.
 
 ### Compatibility
 
