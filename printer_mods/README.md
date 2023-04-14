@@ -63,7 +63,7 @@ like so:
 |Baltojikale | [LoudOwl aka Stabby](./Baltojikale/LoudOwl_aka_Stabby) | Alternative dual 5015 part cooling fan toolhead for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |beaugalbraith| [Nova Printhead](./beaugalbraith/Nova_Printhead) | Use Nova Hotend with Afterburner | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: | :grey_question:|
 | BladeScraper-Designs | [Microswitch Pod With Connector](./BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | :x: |:x: |:heavy_check_mark: | :x:
-| BlakesMakes | [dragon v6 heatsink & volcano mount](./BlakesMakes/volcano_hotend_mount) | :x: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| BlakesMakes | [dragon v6 heatsink & volcano mount](./BlakesMakes/volcano_hotend_mount) | Use volcano heater blocks with rapido UHF front cover etc | :x: | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Horizontal Spool Holder](./BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | :x: | :grey_question: |:heavy_check_mark: | :grey_question:
 | | [CornerPanel_SpoolHolder](./BladeScraper-Designs/CornerPanel_SpoolHolder) | A better supported Spool Holder that mounts to a modified corner panel. | :heavy_check_mark: | :x: |:x: | :x: | :x: |
 |Blamm|[LRS-100 DIN mount](./Blamm/lrs-100)|DIN rail mount for an extra LRS-100 Power Supply | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:| :heavy_check_mark:|
