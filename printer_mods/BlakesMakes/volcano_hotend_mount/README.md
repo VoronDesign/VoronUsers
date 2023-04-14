@@ -9,7 +9,7 @@ I needed an abrasives hotend and did not want to use my rapido uhf as the heatbr
 
 ### Compatibility
 
-This is a direct drop in replacement for the rapido uhf hotend mount. It puts the nozzle right where the rapido nozzle would be and uses the same cooling ducts. It should work with a regular volcano heater block but I have not tested this. If anybody wants to try it please let me know the results!
+You will need a v6 heatsink like this https://www.aliexpress.com/item/1005004847778537.html?spm=a2g0o.order_list.order_list_main.17.1dd5194drQ6Ooy This mod is works as a direct drop in replacement for the rapido uhf hotend mount. It puts the nozzle right where the rapido nozzle would be and uses the same cooling ducts. It should work with a regular volcano heater block but I have not tested this. If anybody wants to try it please let me know the results!
 
 ### You will also need...
 The rapido uhf steathburner front cover by bythorsthunder. You can find it in the link up there ^
