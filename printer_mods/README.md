@@ -371,6 +371,7 @@ like so:
 | sse018 | [Octopus DIN Rail bracket](./sse018/Octopus_DIN_Rail_bracket) | A Din rail mount for BTT Octopus board | :x: | :x: |:heavy_check_mark: | :x: |
 | strayr | [Creality toolhead for stealthburner](./strayr/stealthburner_creality_toolhead/) | Use a creality ender 3 style hotend with stealthburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :x: |
 | sttts | [Waveshare 5.5inch HDMI AMOLED Mount](./sttts/Waveshare-5.5-inch-HDMI-AMOLED) | Mod to mount a Waveshare 5.5inch full HD display on a V2 | :x: | :x: | :heavy_check_mark: | :heavy_check_mark: |
+|stucamp |[CANbus Umbilical For the Switchwire/Stealthburner](./stucamp/SwitchWireUmbilical/) |Addes mounts for an Umbilical to the VSW while using a CANbus Toolhead PCB and Stealthburner |:x:|:grey_question:|:grey_question:|:heavy_check_mark:|
 |StvPtrsn |[Skirts for a 320mm Build](./StvPtrsn/320mm_Build) |Skirts for a 320mm build |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Keystone Jack for Filtered Mains Panel](./StvPtrsn/Keystone_Jack_Filtered_Mains_Panel) |Add a keystone jack to your filtered mains plug panel |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Side Fan Support, No Tape](./StvPtrsn/Side_Fan_Support_No_Tape) |Mount the 60mm side fans and inserts without tape |:x: |:x: |:heavy_check_mark: |:x:|
