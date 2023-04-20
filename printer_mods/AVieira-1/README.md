@@ -1,6 +1,6 @@
 # Universal_Phone_Mount
 
-Phone/tablet mount for the Voron 2.4. It replaces the mini12864 directly so it uses the official hinge (and mini12864_case_rear if you wish). I tried to keep the voron spirit and aesthetics.
+Phone/tablet mount for the Voron 2.4. It replaces the mini12864_case_front directly so it uses the official hinge (and mini12864_case_rear if you wish). I tried to keep the voron spirit and aesthetics.
 
 This mount should work with the majority of smartphones out there, I also included some files to hopefully work with tablets if you wish to use one.
 It consists of two claws on a slider that hold your device with the help of an elastic band. 
