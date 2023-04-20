@@ -61,6 +61,7 @@ like so:
 | |[MGN12 X-axis](./arkeet/mgn12/)|Replaces the dual MGN9H rails with a single MGN12H. |:x:|:x:|:heavy_check_mark:|:x:|
 | |[V0 DC inlet](./arkeet/v0-dc-inlet/)|Skirt inlet for external 24V DC power supply. |:heavy_check_mark:|:x:|:x:|:x:|
 |aTinyShellScript |[RS PSU DIN Bracket](./aTinyShellScript/RS_PSU_DIN_Brackets)|DIN brackets for MeanWell RS PSUs with 80mm spacing. |:grey_question:|:grey_question:|:heavy_check_mark:|:grey_question:|:grey_question:|
+|AVieira-1 |[Universal_Phone_Mount](./AVieira-1/Universal_Phone_Mount)|Universal phone mount for the voron 2.4 |:x:|:x:|:heavy_check_mark:|:x:|:x:|
 |baccula |[Revo Nozzle Holder for v2.4 350](./baccula/revo_skirt_nozzle_holder/)|A remix of Andre's design allowing for skirt storage of 4 E3D Revo nozzles in the skirt of your 350mm v2.4. |:x:|:x:|:heavy_check_mark:|:x:|:x:
 |Backenfutter|[Mount for Electreeks Camera](./Backenfutter/Mount_for_Electreeks_Camera)|This Mod is a simple "One Piece" mount for the popular Electreeks Camera. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 |Badnoob |[Precision AB Drive](./Badnoob/Precision_AB_Drive)|Changes the gearing for the AB drives to improve both resolution and torque, with a strenthened frame. |:grey_question:|:grey_question:|:heavy_check_mark:|:x:|
