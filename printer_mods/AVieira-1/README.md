@@ -66,7 +66,7 @@ _(Please don't mind the print quality on the photos, the parts were printed on m
 Start by inserting the M3 inserts
 ![1](/printer_mods/AVieira-1/Images/Front_Inserts.jpg)
 
-(insert on the far most left and right if you are using the mini12864_case_rear)![1](/Images/Back_Inserts.jpg)
+(insert on the far most left and right if you are using the mini12864_case_rear)![1](/printer_mods/AVieira-1/Images/Back_Inserts.jpg)
 
 ![1](/printer_mods/AVieira-1/Images/Slider_Inserts.jpg)
 
