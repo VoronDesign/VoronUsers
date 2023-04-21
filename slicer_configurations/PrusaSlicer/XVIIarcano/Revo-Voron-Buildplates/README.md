@@ -1,5 +1,5 @@
 # Revo-Voron-Buildplate-images
-A set of images to remind you what nozzle is associated to your print profile.
+A set of images to remind you what nozzle is associated to your printer profile.
 
 With the posisbility of easily change the nozzle for each print, comes the very real possibility to forget about updating the printer profile in the slicer.
 
