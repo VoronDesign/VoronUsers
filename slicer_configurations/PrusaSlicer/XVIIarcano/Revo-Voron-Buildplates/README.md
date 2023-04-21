@@ -6,4 +6,6 @@ With the posisbility of easily change the nozzle for each print, comes the very 
 NO MORE (well, let's say a bit less at least...)! 
 If you associate to each profile one of these conveniently colored reminders, you MAY avoid some blunder.
 
-Any image will work for any bed size, but if you select the right set (350mm coming soon), the grid will be in 10mm-ish squares (not reliable, but good for eyeballing).
+Any image will work for any bed size, but if you select the right set, the grid will be in 10mm-ish squares (not reliable, but good for eyeballing).
+
+The template also includes the 0.15mm version, in all its pink glory.
