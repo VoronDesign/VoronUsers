@@ -9,3 +9,5 @@ If you associate to each profile one of these conveniently colored reminders, yo
 Any image will work for any bed size, but if you select the right set, the grid will be in 10mm-ish squares (not reliable, but good for eyeballing).
 
 The template also includes the 0.15mm version, in all its pink glory.
+
+![Example image](example.png)
