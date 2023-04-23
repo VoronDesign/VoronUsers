@@ -2,4 +2,5 @@
 
 This mod is design to increase the cooling capability of a Voron V0.1
 
-![Cooling](/IMG/cooling1.png)
+
+<img src="./IMG/cooling1.png" width="1000">
