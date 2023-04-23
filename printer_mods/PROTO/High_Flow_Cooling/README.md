@@ -1,6 +1,6 @@
 # Voron V0.1 High Flow Cooling
 
-This mod is design to increase the cooling capability of a Voron V0.1 by using 2 [high flow blowers](https://products.sanyodenki.com/en/sanace/dc/blower/9BMB12P2K01/) and a massive fan duct.
+This mod is design to increase the cooling capability of a Voron V0.1 by using 2 [high flow blowers (San Ace B97)](https://products.sanyodenki.com/en/sanace/dc/blower/9BMB12P2K01/) and a massive fan duct.
 Also the head is modify to help redirect the airflow from the nozzle.It's probably not necessary but I think the head look cool.
 
 The fan duct is not symetrical, simply because like that the fan suck air from the outside of the printer.
@@ -12,7 +12,7 @@ This is not my original idea, this come from [247printing](https://247printing.g
 
 **FR**:
 
-Cette modification est conçue pour augmenter la capacité de refroidissement de la Voron V0.1 en utilisant 2 [ventilateurs](https://products.sanyodenki.com/en/sanace/dc/blower/9BMB12P2K01/) et une grande conduite de ventilation.
+Cette modification est conçue pour augmenter la capacité de refroidissement de la Voron V0.1 en utilisant 2 [ventilateurs (San Ace B97)](https://products.sanyodenki.com/en/sanace/dc/blower/9BMB12P2K01/) et une grande conduite de ventilation.
 
 Aussi la coque de la tête est modifiée pour aider à rediriger le flux d'air de la buse. Cela n'est probablement pas nécessaire mais je la trouve jolie.
 
