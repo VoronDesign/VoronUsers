@@ -1,0 +1,38 @@
+[bed_mesh]
+
+...
+
+# MandalaRoseWorks 355x355 bed magnets positions (exclusion zone)
+# Exclusion zone are 28mm x 28mm
+faulty_region_1_min: 16.0, 16.0
+faulty_region_2_min: 114.0, 16.0
+faulty_region_3_min: 213.0, 16.0
+faulty_region_4_min: 311.0, 16.0
+faulty_region_5_min: 16.0, 114.0
+faulty_region_6_min: 114.0, 114.0
+faulty_region_7_min: 213.0, 114.0
+faulty_region_8_min: 311.0, 114.0
+faulty_region_9_min: 16.0, 213.0
+faulty_region_10_min: 114.0, 213.0
+faulty_region_11_min: 213.0, 213.0
+faulty_region_12_min: 311.0, 213.0
+faulty_region_13_min: 16.0, 311.0
+faulty_region_14_min: 114.0, 311.0
+faulty_region_15_min: 213.0, 311.0
+faulty_region_16_min: 311.0, 311.0
+faulty_region_1_max: 44.0, 44.0
+faulty_region_2_max: 142.0, 44.0
+faulty_region_3_max: 241.0, 44.0
+faulty_region_4_max: 339.0, 44.0
+faulty_region_5_max: 44.0, 142.0
+faulty_region_6_max: 142.0, 142.0
+faulty_region_7_max: 241.0, 142.0
+faulty_region_8_max: 339.0, 142.0
+faulty_region_9_max: 44.0, 241.0
+faulty_region_10_max: 142.0, 241.0
+faulty_region_11_max: 241.0, 241.0
+faulty_region_12_max: 339.0, 241.0
+faulty_region_13_max: 44.0, 339.0
+faulty_region_14_max: 142.0, 339.0
+faulty_region_15_max: 241.0, 339.0
+faulty_region_16_max: 339.0, 339.0

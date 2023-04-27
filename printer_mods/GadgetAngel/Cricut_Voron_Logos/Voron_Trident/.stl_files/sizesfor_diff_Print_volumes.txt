@@ -1,0 +1,65 @@
+Straight from the 3D CAD model (Voron-Trident_DesignLogo.stl):
+Dimensions_X_259.85_Y_300.05_Z_2.11
+
+Voron-Trident_DesignLogo_Dimensions_xxxx.stl dimensions for build plate of 250mm³:
+Dimensions_X_216.51_Y_250.00_Z_1.75
+
+Voron-Trident_DesignLogo_Dimensions_xxxx.stl dimensions for build plate of 300mm³
+Dimensions_X_259.80_Y_300.00_Z_2.10
+
+Voron-Trident_DesignLogo_Dimensions_xxxx.stl dimensions for build plate of 350mm³
+Dimensions_X_303.12_Y_350.00_Z_2.46
+
+===============================
+===============================
+
+Trident_250_deck_Panel [free space]:		demension for .stl to fit nice:
+Height (Y) : 317.5mm 				256.76225mm
+Width (X) : 280mm				220.472mm
+
+filename: Voron-Trident_DesignLogo_Trident_250_deck_Panel.stl
+
+=====================================================================================
+
+Trident_250_Rear_Panel [free space]:		demension for .stl to fit nice:
+Height (Y) : 430.5mm 				348.145mm
+Width (X) : 379mm				298.4246mm
+
+filename: Voron-Trident_DesignLogo_Trident_250_Rear_Panel.stl
+
+=====================================================================================
+
+Trident_300_deck_Panel [free space]:		demension for .stl to fit nice:
+Height (Y) : 367.5mm  				297.197mm  Ratio: 0.80870 or 80.87% reduced
+Width (X) : 330mm      				259.851mm Ratio: 0.7874 or 78.74%
+
+filename: Voron-Trident_DesignLogo_Trident_300_deck_Panel.stl
+
+=====================================================================================
+
+Trident_300_rear_Panel [free space]:		demension for .stl to fit nice:
+Height (Y) : 430.5mm 				348.14535mm
+Width (X) : 429mm				337.7946mm
+
+filename: Voron-Trident_DesignLogo_Trident_300_rear_Panel.stl
+
+=====================================================================================
+
+Trident_350_deck_Panel [free space]:		demension for .stl to fit nice:
+Height (Y) : 417.5mm 				337.63225mm
+Width (X) : 380mm				299.212mm
+
+filename: Voron-Trident_DesignLogo_Trident_350_deck_Panel .stl
+
+=====================================================================================
+
+Trident_350_rear_Panel [free space]:		demension for .stl to fit nice:
+Height (Y) : 430.5mm				348.14535mm
+Width (X) : 479mm				377.1646mm
+
+filename: Voron-Trident_DesignLogo_Trident_350_rear_Panel.stl
+
+=====================================================================================
+
+
+

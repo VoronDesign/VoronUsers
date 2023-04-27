@@ -1,0 +1,2 @@
+Wago mounts based on work found at https://github.com/VoronDesign/VoronUsers/tree/master/legacy_printers/printer_mods/GSL12
+6pin MF3 insert I got from the ERCF project which in turn was an iteration on dvorak74's Micro-Fit inserts, based around meteyou's fantastic G-code button mod.

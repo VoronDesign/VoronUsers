@@ -1,5 +1,9 @@
-<B>15x15 Drag Chain End</B>
+# 15x15 Drag Chain End
 
-End pieces for 15x15 drag chains. Designed around Cloudray China chains, but will likely work with other chain brands too.
+End piece for 15x15 drag chains. 
 
-![Image](Images/Image.png)
+Designed around Cloudray China chains, but will likely work with other chain brands too.
+
+Only for one side currently - sorry!
+
+![Image](./Images/Image.png)
