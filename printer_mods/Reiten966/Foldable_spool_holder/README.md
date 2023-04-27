@@ -1,4 +1,4 @@
-This is a Foldable Spool Holder
+**This is a Foldable Spool Holder**
 
 BOM:
 3x M3x12mm screws
