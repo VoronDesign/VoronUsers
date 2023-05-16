@@ -5,8 +5,8 @@ Remember to update this README when uploading new firmware configurations!
 
 ## Legacy printers
 
-Configurations for legacy printers can be found [here](../legacy_printers/firmware_configurations). 
-If one of your configurations applies to a current generation Voron printer, contact the admins in 
+Configurations for legacy printers can be found [here](../legacy_printers/firmware_configurations).
+If one of your configurations applies to a current generation Voron printer, contact the admins in
 Discord to have your mod moved to this folder.
 
 ## Table structure
@@ -38,6 +38,7 @@ like so:
 | RealDeuce | [MKS Makerbase Monster8 v1.0_003](./klipper/RealDeuce/MKS-Makerbase/Monster8_v1.0_003/) | Configuration and instructions for installing an MKS Makerbase Monster8 board | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | TechnoPhreak | [BTT SKR v2 for V2.4](./klipper/TechnoPhreak/BTT_SKR_v2) | Example configuration, wiring diagram and special instructions for the BTT SKR v2 controllers | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question: |
 | redelman | [Fysetc Spider 2.2 for Voron Trident](./klipper/redelman/Spider_2.2_Voron_Trident) | Example configuration and special instructions for the Fysetc Spider 2.2 for VT | :x: | :x: | :x: | :x: | :heavy_check_mark: |
+| [kdomanski](https://www.github.com/kdomanski) | [SKR Pico v1.0 board pins](./klipper/skr_pico) | Pin aliases for the SKR Pico V1.0 board | :heavy_check_mark: | :x: | :x: | :heavy_check_mark: | :x: |
 
 ---
 
