@@ -44,7 +44,7 @@ Print the parts with the Voron recommendations.
 
 The size of the claws and slider will dictate the compatibility with your device. If you wish to use multiple different devices, print a size that accommodates the biggest one, so you don't need to change claws when you swap devices.
 
-The minimum supported width is around 58mm (with the slider_80mm), so if you device is smaller than that, it wont be properly secured.
+The minimum supported width is around 58mm (with the slider_80mm), so if your device is smaller than that, it wont be properly secured.
 
 The maximum device width inorder for the case_front to stay flush with the rest of the skirts is around 65mm. Larger than that and you need to pivot the mount forward. This depends largely on the surface your printer is on, if you don't have much surface infront of the printer, you won't need to pivot as much for larger devices such as tablets.
 
