@@ -109,7 +109,7 @@ They [cleverly grease](https://docs.ldomotors.com/guides/rail_grease_guide) the 
 
 I went on a hunt for a solution to do this, while the rail was installed in the printer, and came across these screws.
 
-![](./assets/ventilated%20screws.webp)  
+![](./assets/ventilated_screws.webp)  
 They are intended to ventilate a space through the screw, via the hole drilled down the length of the screw.  
 I of cause am planning to use these to inject grease into the carriage block.
 
@@ -123,7 +123,7 @@ To push the grease into the bearing, I used a syringe intended for resin, that I
 The opening in the syringe tip, is perfectly sized to use a M3 tap, to make a thread in the tip.  
 (Make sure to clear out all plastic shavings from the tapping operation, before adding grease to the syringe).
 
-![](./assets/in%20situ%20lubrication.mp4)
+![](./assets/in_situ_lubrication.mp4)
 
 ## Materials
 
@@ -159,7 +159,7 @@ Moreover the design of the X axis (at last on the 2.4 that I have) does not have
 
 I turned the printer on it's side, on it's back, on it's head, basicall any which way to make sure the metal shavings didn't fall in the direction of the electronics or the magnetic print surface. I used a block of wood to prop up the gantry when needed.
 
-![](./assets/in%20situ%20drilling%20operation.webp)
+![](./assets/in_situ_drilling_operation.webp)
 
 ### Z axis
 
