@@ -2,6 +2,7 @@
 Since I had broken the original housing of the camera, I recovered the camera module and designed a new housing for it using inspiration from [Chri.Kai.In's Angry Cam](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/Angry_CAM_USB)
 
 # BOM
+**Standard parts**
 | POS | DESCRIPTION |
 |----:|-----------|
 |    1| 2x self-tapping screw M2x5|
@@ -9,6 +10,10 @@ Since I had broken the original housing of the camera, I recovered the camera mo
 |    3| 2x screw CHC M3x25|
 |    4| 2x Tnut M3 for profile 2020 type 6|
 |    5| 1x modul Logitech C270|
+
+**_Printer parts_**
+| POS | DESCRIPTION |
+|----:|-----------|
 |    6| 1x Box_C270.stl|
 |    7| 1x Housing_C270.stl|
 |    8| 1x Cover_C270.stl (with logo Voron)|
