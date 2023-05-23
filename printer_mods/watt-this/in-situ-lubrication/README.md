@@ -123,7 +123,7 @@ To push the grease into the bearing, I used a syringe intended for resin, that I
 The opening in the syringe tip, is perfectly sized to use a M3 tap, to make a thread in the tip.  
 (Make sure to clear out all plastic shavings from the tapping operation, before adding grease to the syringe).
 
-![](./assets/in_situ_lubrication.mp4)
+![Video of lubrication test](./assets/in_situ_lubrication.mp4)
 
 ## Materials
 
