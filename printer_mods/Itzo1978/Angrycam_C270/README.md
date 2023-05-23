@@ -2,7 +2,7 @@
 Since I had broken the original housing of the camera, I recovered the camera module and designed a new housing for it using inspiration from [Chri.Kai.In's Angry Cam](https://github.com/VoronDesign/VoronUsers/tree/master/printer_mods/chri.kai.in/Angry_CAM_USB)
 
 # BOM
-**Standard parts**
+**_Standard parts_**
 | POS | DESCRIPTION |
 |----:|-----------|
 |    1| 2x self-tapping screw M2x5|
