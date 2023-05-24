@@ -1,8 +1,8 @@
 # In Situ Linear Carriage Block Lubrication
 
-<table border="0px" padding="0px">
+<table style="border-style:none">
    <tbody>
-      <tr border="0px">
+      <tr>
          <td rowspan="6">
             <img src="./assets/in_situ_regreasing.webp">
          </td>
@@ -15,7 +15,7 @@
             If you used oil instead of grease to lubricate the rails, the distance is reduced by 50% (and for low viscosity grease, greasing intervals are reduced to about 75%).
          </td>
       </tr>
-      <tr border-bottom="1px">
+      <tr>
          <td>
             <b>Rail</b>
          </td>
@@ -98,7 +98,32 @@ This is of cause an approximation.
 We can approximate that the X and Y axis are moving most of the time, and that the numbers above are less representative for the Z axis.  
 And of cause, some movement will be in only one axis. But even if we assume that an axis is moving only 80% of the time, the regreasing intervals still come up rather quickly.
 
-## How to regrease the rails
+## How this mod regreases the carriage blocks
+
+After the mod, one of the normally empty screw holes in the rail, will have a new special "lubrication screw" installed.
+![lubribcation location](./assets/after_install.webp)
+
+This screw goes all the way through the extrusion and out the back by about 2.5mm.
+
+To lubricate a carriage block:
+
+1. first attach the syringe to the screw on the back of the extrusion, by screwing the syring on the end of the screw.  
+   Make sure there is a tight connection between the screw and the syringe, so that greased can be forced through the screw.
+
+![attach_syringe](./assets/attach_syringe.webp)
+
+2. Hold some kitchen towel on the front of the rail, and push a little grease through the screw. This is to clear out any old grease, dust and grime, before lubricating the block.
+
+3. Next move the printer gantry, so that the carriage block is placed over the head of the screw.
+
+4. Push a little grease through the screw, until you see a little bit of grease come out between the rail and the side of the block.
+
+5. Move the carriage block back and forth a few times to distribute the grease, then wipe off the excess grease from the rail
+
+To see this in action, refer to the attached video of testing this lubrication principle.  
+![](./assets/in_situ_lubrication.mp4)
+
+## Background for the mod
 
 Given that the rails need fairly frequent maintenance, the process of regreasing the rails becomes more relevant.  
 The best way to regrease the rails would be to remove the carriage block from the rail.  
@@ -115,15 +140,13 @@ I of cause am planning to use these to inject grease into the carriage block.
 
 I ordered a set of M3x25 mm screws from [aliExpress](https://www.aliexpress.com/w/wholesale-hollow-hex-m3.html), and made a test to confirm it would work.
 
-In the video below, you see the result.
+In the video linked above, you see the result.
 
 In this first test, I actually applied far more grease than I needed, but it worked extremely well.
 
 To push the grease into the bearing, I used a syringe intended for resin, that I found at a local craft store.  
 The opening in the syringe tip, is perfectly sized to use a M3 tap, to make a thread in the tip.  
 (Make sure to clear out all plastic shavings from the tapping operation, before adding grease to the syringe).
-
-![Video of lubrication test](./assets/in_situ_lubrication.mp4)
 
 ## Materials
 
@@ -159,7 +182,7 @@ Moreover the design of the X axis (at last on the 2.4 that I have) does not have
 
 I turned the printer on it's side, on it's back, on it's head, basicall any which way to make sure the metal shavings didn't fall in the direction of the electronics or the magnetic print surface. I used a block of wood to prop up the gantry when needed.
 
-![](./assets/in_situ_drilling_operation.webp)
+![](./assets/in__situ_drilling_operation.webp)
 
 ### Z axis
 
