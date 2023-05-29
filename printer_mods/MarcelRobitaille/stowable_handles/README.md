@@ -9,17 +9,17 @@ but I wanted to be able to stow them out of the way against the top hat.
 - 8 M3x14 SHCS
 - 4 M3x25 FHCS
 - 12 M3 nuts
-- 2 `Handle.stl`
-- 4 `Bracket_Outside.stl` (mirror 2 of them)
-- 4 `Bracket_Inside.stl` (mirror 2 of them)
+- 2 `handle.stl`
+- 4 `[a]_bracket_outside.stl` (mirror 2 of them)
+- 4 `[a]_bracket_inside.stl` (mirror 2 of them)
 
 ## Assembly
 
 1. Install 4 nuts on the outside of the top extrusions.
-1. Press an M3 nut into `Bracket_Inside.stl`.
+1. Press an M3 nut into `[a]_bracket_inside.stl`.
 1. Use a small file to make these faces smooth.
     ![](./faces_to_file.png)
-1. Mount `Bracket_Inside.stl` and `Bracket_Outside.stl` to the pre-loaded nuts with the M3x14 SHCS.
+1. Mount `[a]_bracket_inside.stl` and `[a]_bracket_outside.stl` to the pre-loaded nuts with the M3x14 SHCS.
 1. Mount the handles in the brackets using the M3x25 FHCS.
 
 ## The mechanism
