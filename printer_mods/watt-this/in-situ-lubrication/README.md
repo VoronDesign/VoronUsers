@@ -1,83 +1,23 @@
 # In Situ Linear Carriage Block Lubrication
 
-<table style="border-style:none">
-   <tbody>
-      <tr>
-         <td rowspan="6">
-            <img src="./assets/in_situ_regreasing.webp">
-         </td>
-         <td colspan="4">
-            With the advent of the faster and faster printers, the Voron printers principle among these, the manufacturers recommended greasing intervals becomes increasingly important.<br>
-            <br>
-            For MGN09 and MGN12 rails, <a href="https://hiwin.us/wp-content/uploads/lubricating_instructions.pdf">HIWIN</a> recommends greasing the rail after approximately 130 and 160 km (~80 and 100 miles) of movement respectively.<br>
-            For MGN07 the distance is 100km (62 miles).<br>
-            <br>
-            If you used oil instead of grease to lubricate the rails, the distance is reduced by 50% (and for low viscosity grease, greasing intervals are reduced to about 75%).
-         </td>
-      </tr>
-      <tr>
-         <td>
-            <b>Rail</b>
-         </td>
-         <td>
-            <b>Grease</b>
-         </td>
-         <td>
-            <b>Low Viscosity Grease</b>
-         </td>
-         <td>
-            <b>Oil</b>
-         </td>
-      </tr>
-      <tr>
-         <td>
-            MGN07
-         </td>
-         <td>
-            100km (62 miles)
-         </td>
-         <td>
-            75km (47 miles)
-         </td>
-         <td>
-            50km (31 miles)
-         </td>
-      </tr>
-      <tr>
-         <td>
-            MGN09
-         </td>
-         <td>
-            130km (81 miles)
-         </td>
-         <td>
-            98km (61 miles)
-         </td>
-         <td>
-            75km (47 miles)
-         </td>
-      </tr>
-      <tr>
-         <td>
-            MGN12
-         </td>
-         <td>
-            160km (100 miles)
-         </td>
-         <td>
-            120km (75 miles)
-         </td>
-         <td>
-            85km (53 miles)
-         </td>
-      </tr>
-      <tr>
-         <td colspan="4">
-            (with load ratio P/C of 0)
-         </td>
-      </tr>
-   </tbody>
-</table>
+With the advent of the faster and faster printers, the Voron printers principle among these, the manufacturers recommended greasing intervals becomes increasingly important.
+
+For MGN09 and MGN12 rails, [HIWIN](https://hiwin.us/wp-content/uploads/lubricating_instructions.pdf) recommends greasing the rail after approximately 130 and 160 km (~80 and 100 miles) of movement respectively.  
+For MGN07 the distance is 100km (62 miles).
+
+If you used oil instead of grease to lubricate the rails, the distance is reduced by 50% (and for low viscosity grease, greasing intervals are reduced to about 75%).
+
+| Rail  |      Grease       | Low Viscosity Grease |       Oil       |
+| ----- | :---------------: | :------------------: | :-------------: |
+| MGN07 | 100km (62 miles)  |   75km (47 miles)    | 50km (31 miles) |
+| MGN09 | 130km (81 miles)  |   98km (61 miles)    | 75km (47 miles) |
+| MGN12 | 160km (100 miles) |   120km (75 miles)   | 85km (53 miles) |
+
+_(with load ratio P/C of 0)_
+
+So I made a modification that makes it possible to regrease the carriage blocks, while still installed in the printer.
+
+![cover image](./assets/in_situ_regreasing.png)
 
 ## Do I need to worry about this?
 
@@ -101,16 +41,16 @@ And of course, some movement will be in only one axis. But even if we assume tha
 ## How this mod regreases the carriage blocks
 
 After the mod, one of the normally empty screw holes in the rail, will have a new special "lubrication screw" installed.
-![lubribcation location](./assets/after_install.webp)
+![lubribcation location](./assets/after_install.png)
 
 This screw goes all the way through the extrusion and out the back by about 2.5mm.
 
 To lubricate a carriage block:
 
-1. first attach the syringe to the screw on the back of the extrusion, by screwing the syring on the end of the screw.  
-   Make sure there is a tight connection between the screw and the syringe, so that greased can be forced through the screw.
+1. first attach the syringe to the screw on the back of the extrusion, by screwing the syringe on the end of the screw.  
+   Make sure there is a tight connection between the screw and the syringe, so that grease can be forced through the screw.
 
-![attach_syringe](./assets/attach_syringe.webp)
+![attach_syringe](./assets/attach_syringe.png)
 
 2. Hold some kitchen towel on the front of the rail, and push a little grease through the screw. This is to clear out any old grease, dust and grime, before lubricating the block.
 
@@ -120,8 +60,7 @@ To lubricate a carriage block:
 
 5. Move the carriage block back and forth a few times to distribute the grease, then wipe off the excess grease from the rail
 
-To see this in action, refer to the attached video of testing this lubrication principle.  
-[demo of greasing a block](./assets/in_situ_lubrication.mp4)
+To see this in action, refer to the [attached video](./assets/in_situ_lubrication.mp4) of testing this lubrication principle.
 
 ## Background for the mod
 
@@ -132,9 +71,13 @@ This is quite a chore, as removing the block require a rather extensive disassem
 So I took note of how LDO recommends to grease the carriage block.  
 They [cleverly grease](https://docs.ldomotors.com/guides/rail_grease_guide) the block by injecting grease from the back of the rail, without removing the block.
 
-I went on a hunt for a solution to do this, while the rail was installed in the printer, and came across these screws.
+I went on a hunt for a solution to do this, while the rail was installed in the printer, and made this concept mock-up.
 
-![](./assets/ventilated_screws.webp)  
+![concept](./assets/voron-regreasing-concept.png)
+
+I talked to local machinist that mentioned, that screws already exists with a hole down through them. A quick search later and I came across these screws.
+
+![](./assets/ventilated_screws.png)  
 They are intended to ventilate a space through the screw, via the hole drilled down the length of the screw.  
 I of course am planning to use these to inject grease into the carriage block.
 
@@ -153,10 +96,10 @@ The opening in the syringe tip, is perfectly sized to use a M3 tap, to make a th
 - Mobilux EP1 grease
 - A fiber washer under the screw head, (commonly used in PC builds for electrical isolation). I got a variety pack from Amazon that included M3x6x0.5 sized washers that fits perfectly
 - A [slide in](https://www.aliexpress.com/w/wholesale-t%2525252dslot-nut-slide-M3.html) t-slot M3 nut
-- A M3 vented hex nut screw
+- A 25mm long M3 vented hex nut screw
 - [Resin Syringe](https://www.michaels.com/product/american-crafts-color-pour-resin-syringe-10647533)
 
-![](./assets/materials.webp)
+![](./assets/materials.png)
 
 ## New builds
 
@@ -169,7 +112,7 @@ If you are in the process of building your printer, you are in luck. This is the
 5. Drill an over sized hole through the extrusion.  
    The hole is over sized, to retain some adjustability of the rail, and to allow for some material expansion when heated.
 6. Slide in the t-slot nut on the reverse side of where the rail will be installed.  
-   I **$\textcolor{red}{\text{do not}}$** recommend using the rotating style t-nuts.
+   I DO NOT recommend using the rotating style t-nuts.
 7. Install the rail, permanently this time.
 8. Install the vented screw with the fiber washer in the selected rail Lubrication Location.  
    **Make sure not to over tighten the vented screw.  
@@ -178,11 +121,11 @@ If you are in the process of building your printer, you are in luck. This is the
 ## Retrofit
 
 This is a bit more challenging, as we need to be careful of the metal shavings from drilling.  
-Moreover the design of the X axis (at last on the 2.4 that I have) does not have space to slide in a t-nut into the back of the extrusion.
+Moreover the design of the X axis (at least on the 2.4 that I have) does not have space to slide in a t-nut into the back of the extrusion.
 
-I turned the printer on it's side, on it's back, on it's head, basicall any which way to make sure the metal shavings didn't fall in the direction of the electronics or the magnetic print surface. I used a block of wood to prop up the gantry when needed.
+I turned the printer on it's side, on it's back, on it's head, basically any which way to make sure the metal shavings didn't fall in the direction of the electronics or the magnetic print surface. I used a block of wood to prop up the gantry when needed.
 
-![](./assets/in__situ_drilling_operation.webp)
+![](./assets/in_situ_drilling_operation.png)
 
 ### Z axis
 
@@ -191,13 +134,13 @@ With that hole is drilled all the way through, I drilled from the opposite side,
 
 Make sure to try and collect all the metal shavings as you make the holes. I placed the printer on the back/front when drilling the first holes, so that I was drilling straight down, and all metal shavings would fall down on the table, and not down towards the magnetic build plate.
 
-![](./assets/z_axis_lubrication_screw.webp)
+![](./assets/z_axis_lubrication_screw.png)
 
 ### X and Y axis
 
-I didn't want to completely disassemble the X/Y gantry. So instead of the slide in t-nut, I opted for a steel washer and a nylock nut on those axis. The washer and M3 nut can just pass through the gab in the extrusion and seat against the bottom of the extrusion. Not as nice and easy as the slide in t-nut, but working just the same.
+I didn't want to completely disassemble the X/Y gantry. So instead of the slide in t-nut, I opted for a steel washer and a nylock nut on those axis. The washer and M3 nut can just pass through the gap in the extrusion and seat against the bottom of the extrusion. Not as nice and easy as the slide in t-nut, but working just the same.
 
-![](./assets/y_axis_lubrication_screw.webp)
+![](./assets/y_axis_lubrication_screw.png)
 
 ## Why place the t-nut on the reverse side of the extrusion?
 
@@ -220,7 +163,7 @@ I do recommend not to drill those holes in place, but to remove the extrusion ba
 ## Cleaning excess grease
 
 There will be excess grease in the screws after greasing the carriage blocks. I haven't yet decided on the strategy I will use to keep dirt and dust from accumulating on the screws.  
-But it does need to addressed before greasing the carriage blocks next time.
+But it does need to be addressed before greasing the carriage blocks next time.
 
 Some strategies to combat the accumulation of dust and grime in the excess grease:
 
