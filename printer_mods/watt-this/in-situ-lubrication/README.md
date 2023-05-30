@@ -94,9 +94,9 @@ If you print at 100 mm/s average, we can translate the table above to hours of p
 | MGN09 | 361 hours| 270 hours | 181 hours |
 | MGN12 | 444 hours | 333 hours | 222 hours |
 
-This is of cause an approximation.  
+This is of course an approximation.  
 We can approximate that the X and Y axis are moving most of the time, and that the numbers above are less representative for the Z axis.  
-And of cause, some movement will be in only one axis. But even if we assume that an axis is moving only 80% of the time, the regreasing intervals still come up rather quickly.
+And of course, some movement will be in only one axis. But even if we assume that an axis is moving only 80% of the time, the regreasing intervals still come up rather quickly.
 
 ## How this mod regreases the carriage blocks
 
@@ -136,7 +136,7 @@ I went on a hunt for a solution to do this, while the rail was installed in the 
 
 ![](./assets/ventilated_screws.webp)  
 They are intended to ventilate a space through the screw, via the hole drilled down the length of the screw.  
-I of cause am planning to use these to inject grease into the carriage block.
+I of course am planning to use these to inject grease into the carriage block.
 
 I ordered a set of M3x25 mm screws from [aliExpress](https://www.aliexpress.com/w/wholesale-hollow-hex-m3.html), and made a test to confirm it would work.
 
@@ -210,7 +210,7 @@ It is virtually impossible to not provide a little bit of transverse (sideways) 
 
 The screws will protrude about 2.5 mm from the extrusion. This will place the end of screws just below the exterior surface of the side panels.
 
-But of cause, you do need to make allowance for the screw in the side panel, so you will need to mark the location and drill a hole in side panel.
+But of course, you do need to make allowance for the screw in the side panel, so you will need to mark the location and drill a hole in side panel.
 
 Your nice extrusion backers on X and Y axis likewise will need to have hole drilled to allow the screw to pass through.  
 If your backers are of the nice stainless steel or titanium variant, then that can be a bit of a challenge.  
