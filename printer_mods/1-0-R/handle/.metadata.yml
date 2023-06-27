@@ -1,0 +1,20 @@
+---
+title: "V2.4 Handle"
+description: "Carrying handle for Voron 2.4 with 6mm clearance for panel clamping"
+printer_compatibility:
+  - V2
+images:
+  - images/handle.jpg
+  - images/extrusion_with_all_handle_parts.jpg
+  - images/extrusion_with_handle.jpg
+  - images/extrusion_with_inner_part_mounted.jpg
+  - images/extrusion_with_tnuts.jpg
+  - images/handle_inner_part.jpg
+  - images/handle_middle_part.jpg
+  - images/handle_outer_part.jpg
+  - images/handle_rendering.jpg
+  - images/inner_part_with_heat_set_inserts.jpg
+  - images/nuts_and_bolts.jpg
+cad:
+  - CAD/handle.FCStd
+  - CAD/handle.step
