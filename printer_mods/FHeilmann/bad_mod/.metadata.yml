@@ -1,6 +1,7 @@
 ---
-title: "FHeilmann's awesome mod"
+title: LOL I'm missing
 description: "This mod does awesome things with awesome printers!"
+mod_version: 2
 printer_compatibility:
   - V0
   - V1
@@ -15,4 +16,3 @@ cad:
   - STEP/huvud_chain_mount_2_hole.step
   - STEP/huvud_chain_mount_3_hole.step
 discord_username: haribrother
-mod_version: 2

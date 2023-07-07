@@ -18,3 +18,4 @@ images:
 cad:
   - CAD/handle.FCStd
   - CAD/handle.step
+mod_version: 1

@@ -1,0 +1,61 @@
+name: VoronUsers PR CI
+run-name: "#${{github.event.number}} - ${{github.event.pull_request.title}}"
+on:
+  pull_request:
+    types: [opened, reopened, synchronize]
+
+jobs:
+  checkout_check_whitespace:
+    permissions:
+      pull-requests: read
+    name: Checkout & Check Whitespace
+    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@main
+    with:
+      branch: ${{ github.ref }}
+      cache-key: file-cache-${{github.sha}}
+      cache-directory: pr-files
+  setup_python:
+    name: Prepare python environment
+    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@main
+    with:
+      apt-packages: "admesh, libadmesh-dev"
+      pip-packages: "admesh pyyaml imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
+      python-cache-key: voronusers-python-cache
+  check_stls:
+    name: Check STL corruption
+    needs: [checkout_check_whitespace, setup_python]
+    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@main
+    with:
+      cache-key: file-cache-${{github.sha}}
+      cache-directory: pr-files
+      python-cache-key: voronusers-python-cache
+  check_stl_rotation:
+    name: Check STL rotation
+    needs: [checkout_check_whitespace, setup_python]
+    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@main
+    secrets:
+    # ToDo: Change to secrets: inherit once it's in the VoronDesign org
+      IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY }}
+      IMAGEKIT_PUBLIC_KEY: ${{ secrets.IMAGEKIT_PUBLIC_KEY }}
+    with:
+      imagekit-url-endpoint: https://ik.imagekit.io/vorondesign
+      cache-key: file-cache-${{github.sha}}
+      cache-directory: pr-files
+      python-cache-key: voronusers-python-cache
+  validate_metadata:
+    name: Check metadata files
+    needs: [checkout_check_whitespace, setup_python]
+    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@main
+    with:
+      cache-key: file-cache-${{github.sha}}
+      cache-directory: pr-files
+      python-cache-key: voronusers-python-cache
+  preview_readme:
+    name: Preview README.md
+    needs: [validate_metadata]
+    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@main
+    with:
+      subdirectory: printer_mods
+      cache-key: file-cache-${{github.sha}}
+      cache-directory: pr-files
+      python-cache-key: voronusers-python-cache
