@@ -1,0 +1,13 @@
+---
+title: "FHeilmann's other awesome mod"
+description: "This mod does  other awesome things with awesome printers!"
+printer_compatibility:
+  - V0
+  - V1
+images:
+  - images/huvud_mount_install2.png
+cad:
+  - STEP/huvud_chain_mount_2_hole.step
+discord_username: haribrother
+mod_version: 1
+
