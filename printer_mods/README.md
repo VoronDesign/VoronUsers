@@ -393,7 +393,7 @@ like so:
 | | [V0.1 Skirt buttons](./Tircown/V01_skirt_buttons) | Buttons for V0.1 spec skirts | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | togi | [Exhaust housing side fitting](./togi/exhaust_housing_side_fitting) | Moves the exhaust housing bowden fitting 90 degrees to allow the printer to stand closer to a wall | :x: | :x: | :heavy_check_mark: |:x:|
 | top_gun_de | [mount_for_umbilical](./top_gun_de/mount_for_umbilical) | Umbilical guide that goes on the chain anchor | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
-| TorxFighter | [Zero-Offset_Clamped_GE5C](./TorxFighter/Zero-Offset_clamped_GE5C) | Clamped in GE5C mod with 0 mounting offset | :x: | :x: | :heavy_check_mark: | :x: | :x: |
+| TorxFighter | [Zero-Offset_Clamped_GE5C](./TorxFighter/Zero-Offset_Clamped_GE5C) | Clamped in GE5C mod with 0 mounting offset | :x: | :x: | :heavy_check_mark: | :x: | :x: |
 | Triano | [Ender 3 Pro or V2 to Switchwire Mod](./Triano/Ender_3Pro_Switchwire) | Convesion of an Ender 3 Pro or V2 to a Switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | UltraWaffles | [Ender 3 to SW conversion](./Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow for enclosure and uses original ender 3 motors and switches| :x: | :x: | :x: | :heavy_check_mark: |
 | VinnyCordeiro | [RGB LED grid for Stealthburner](./VinnyCordeiro/RGB_LED_grid_for_SB) | A small RGB LED grid for Stealthburner's logo | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
