@@ -11,4 +11,4 @@ I'm still building my first voron2.4 so please forgive me if I missed sometheing
 
 Please check your sizes before using loctite.  
 
-The kit I bought: [link](https://nl.aliexpress.com/item/1005003938978030.html)
+The kit I bought: [link on Aliexpress](https://nl.aliexpress.com/item/1005003938978030.html)
