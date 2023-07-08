@@ -22,7 +22,9 @@ I did my best to optimize it, so even non-perfectly tuned printers should get it
 # Instructions
 For now, use the pictures below. Also, tighten the Ge5C clamping screws until everything is tight; they shouldn't be bottomed out.  
 If you use EGLM-05 you can feel if you have tightened it too much because it starts to bind.  
-
+  
+  
+Contact me on discord @Torxfighter if you have any questions or feedback
 
 Thank you NyxCode, jovdvyver, NotSoCreative and ReXT3D for Early testing and feedback!.
 <p float="left">
