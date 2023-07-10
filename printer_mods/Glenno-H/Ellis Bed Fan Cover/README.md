@@ -10,9 +10,11 @@ I didnt really like the look of the fan 5015 on its own, but thought the mount i
 There are two versions.
 
 1) The full cover
+   
 ![Ellis Bed Fan Cover - CAD View - Full Back](Bed_Fan_CAD_Full_Back.png "Bed Fan Cover - CAD View - Full Back")
    
 2) The cover with the back removed so that you should be able to pop this over the top without taking the bed off etc. (Un tested)
+   
 ![Ellis Bed Fan Cover - CAD View - No Back](Bed_Fan_CAD_No_Back.png "Bed Fan Cover - CAD View - No Back")
    
 You can get the mount to go with this - Original Mount - Bed Fans by Ellis - https://mods.vorondesign.com/detail/28xgztUufAtAfV4XUL5l4w
