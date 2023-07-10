@@ -14,4 +14,4 @@ Print in ABS / ASA / PCCF or some other material that can stand the heat of the 
 
 Please let me know if this doesnt fit your fan for any reason, while it works for my fans, im sure there are slight variances between fans.
 
-![Bed Fan Cover - CAD View - TOP](Bed_Fan_CAD_Top.jpg "Bed Fan Cover - CAD View - TOP")
+![Bed Fan Cover - CAD View - TOP](Bed_Fan_CAD_Top.png "Bed Fan Cover - CAD View - TOP")
