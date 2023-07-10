@@ -173,6 +173,7 @@ like so:
 | gerritwellen |[Manta M8P Mount](./gerritwellen/manta-m8p-bracket)| Mounting Bracket for BTT Manta M8P| :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | GiulianoM | [Fly F407ZG Mount](./GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | :x: | :x: | :heavy_check_mark: | :x: |
 | Gizzle | [Ender 3 and Ender 3 Pro Switchwire Mod](./Gizzle/ender-3_(pro)_switchwire)| Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and most other parts of the Voron Switchwire. | :x: | :x: | :x: | :heavy_check_mark: |
+|Glenno-H | [Ellis Bed Fan Mod Cover](./Glenno-H/Ellis_Bed_Fan_Cover/)| A Simple Cover for the Ellis Bed Fan Mod. | :x: | :x: | :heavy_check_mark: | :x: |
 | GSL12 | [Pocketwatch Nema 17](./GSL12/pocketwatch_nema17)| Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers. | :grey_question: | :grey_question: | :grey_question: |:x:|
 | Golas | [V0.1 Extended tophat hinge](./golas/v0-extended-tophat-hinge)| Extended tophat for v0.1 with hinges (integrated or screwed ones). | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |  | [V0.1 Trident skirt remix with 12864 LCD](./golas/v0-trident-skirt-mix)| Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain skirt. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
