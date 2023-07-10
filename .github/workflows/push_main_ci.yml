@@ -4,6 +4,13 @@ on:
     branches:
       - 'master'
 jobs:
+    setup_python:
+      name: Rebuild repo caches
+      uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@main
+      with:
+        apt-packages: "admesh, libadmesh-dev"
+        pip-packages: "admesh pyyaml imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
+        python-cache-key: voronusers-python-cache
     preview_readme:
         name: Generate README
         uses: VoronDesign/.github/.github/workflows/generate-readme.yml@main
@@ -15,4 +22,3 @@ jobs:
         secrets:
             VORON_BOT_GITHUB_PAT: ${{ secrets.VORON_BOT_GITHUB_PAT }}
 
-        

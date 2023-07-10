@@ -1,6 +1,6 @@
 ---
-title: "FHeilmann's awesome mod"
-description: "This mod does awesome things with awesome printers!"
+title: "Huvud Chain Mount"
+description: "Huvud rear mount for Clockwork or LGX that supports a cable chain."
 printer_compatibility:
   - V1.8
   - VT
@@ -11,5 +11,4 @@ images:
 cad:
   - STEP/huvud_chain_mount_2_hole.step
   - STEP/huvud_chain_mount_3_hole.step
-discord_username: haribrother
 mod_version: 2
