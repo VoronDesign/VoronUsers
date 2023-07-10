@@ -24,6 +24,7 @@ jobs:
   check_stls:
     name: Check STL corruption
     needs: [checkout_check_whitespace, setup_python]
+    if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
     uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@main
     with:
       cache-key: file-cache-${{github.sha}}
@@ -32,6 +33,7 @@ jobs:
   check_stl_rotation:
     name: Check STL rotation
     needs: [checkout_check_whitespace, setup_python]
+    if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
     uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@main
     secrets:
     # ToDo: Change to secrets: inherit once it's in the VoronDesign org
@@ -45,6 +47,7 @@ jobs:
   validate_metadata:
     name: Check metadata files
     needs: [checkout_check_whitespace, setup_python]
+    if: ${{ needs.checkout_check_whitespace.outputs.yaml == 'true' }}
     uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@main
     with:
       cache-key: file-cache-${{github.sha}}

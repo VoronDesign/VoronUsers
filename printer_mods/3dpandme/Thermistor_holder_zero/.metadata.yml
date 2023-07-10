@@ -1,0 +1,12 @@
+---
+title: "Thermistor holder zero"
+description: "Extended thermistor holder for Voron Zero"
+printer_compatibility:
+  - V0
+  - VSW
+  - VT
+images:
+  - installed.jpg
+cad:
+  - thermistor_holder_zero.step
+mod_version: 1
