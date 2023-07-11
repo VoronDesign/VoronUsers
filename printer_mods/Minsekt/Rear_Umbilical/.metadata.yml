@@ -1,0 +1,11 @@
+cad:
+- CAD/Rear_Umbilical.step
+description: Rear Umbilical mounting solution including a relocated Y-Endstop
+discord_username: Minsekt
+images:
+- images/rear_umbilical.png
+- Y_Endstop_Relocation/images/endstop.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Rear Umbilical

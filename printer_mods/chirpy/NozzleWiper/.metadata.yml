@@ -1,0 +1,23 @@
+cad:
+- CAD/NozzleWiper.step
+description: Servo powered nozzle wiper and purge bucket
+discord_username: chirpy
+images:
+- images/brush.jpg
+- images/fullyopen.jpg
+- images/armtobrushmount.jpg
+- images/armassembly.jpg
+- images/mounted.jpg
+- images/completed.jpg
+- images/parts.jpg
+- images/brushholder.jpg
+- images/servomounting.jpg
+- images/bucket.jpg
+- images/armtomount.jpg
+- images/NozzleWiper.gif
+- images/servosetting.jpg
+- images/wireplacement.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 Nozzle Wiper

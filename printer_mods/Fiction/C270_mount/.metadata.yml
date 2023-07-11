@@ -1,0 +1,14 @@
+cad:
+- CAD/C270_assembly.step
+- CAD/C270_assembly.f3d
+description: Logitech C270 webcam front-centre mount
+discord_username: Fiction
+images:
+- Images/C270_pin.jpg
+- Images/C270_focusing_ring.png
+- Images/C270_mount.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- Trident
+title: C270 mount

@@ -1,0 +1,12 @@
+cad:
+- CAD/PITFT50_45_degree_mount.f3d
+- CAD/PITFT50_45_degree_mount.step
+description: Mount that puts the screen at a 45-degree angle for more vertical clearance
+discord_username: CannedBass
+images:
+- Images/side-view.jpeg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- Trident
+title: PITFT50 45-degree mount

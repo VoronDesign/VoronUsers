@@ -1,0 +1,13 @@
+cad:
+- CAD/lgx_lite_side_can_mount.step
+description: A side mounting for a CAN board (Huvud/SHT42) to the LGX Lite
+discord_username: falo
+images:
+- Images/image.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: LGX Lite CAN Side Mount

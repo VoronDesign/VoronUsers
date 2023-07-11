@@ -1,0 +1,15 @@
+cad:
+- CAD/Gantry/X_Axis/X_Carriage/MGN12Umblilcal.step
+- CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_with_endstop_pinned.step
+- CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_with_endstop.step
+description: This mod relocates the Y endstop to the top A drive piece
+discord_username: hartk1213
+images:
+- Images/4.png
+- Images/2.png
+- Images/3.png
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Voron2.4 Y Endstop Relocation

@@ -1,0 +1,18 @@
+cad:
+- STEPfiles/Hinge_panel_left.step
+- STEPfiles/Hinge_panel_right.step
+- STEPfiles/Tophat_Part_back_left.step
+- STEPfiles/Tophat_Part_back_right.step
+description: Simple hinge for V0 Tophat
+discord_username: MSiemons
+images:
+- Images/TopHathinge_render2.png
+- Images/Zoom_open.jpg
+- Images/Zoom_closed.jpg
+- Images/Tophat_open.jpg
+- Images/TopHathinge_render.png
+- Images/Tophat_closed.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: Tophat Hinge V0

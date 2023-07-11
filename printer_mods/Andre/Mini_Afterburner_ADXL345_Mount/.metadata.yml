@@ -1,0 +1,13 @@
+cad:
+- CAD/MiniAB_ADXL_Mount.f3d
+description: Mount for an AXDL345 on the Mini Afterburner
+discord_username: Andre
+images:
+- Images/CAD_1.png
+- Images/CAD_3.png
+- Images/CAD_2.png
+- Images/PIC_1.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Mini Afterburner ADXL345 Mount

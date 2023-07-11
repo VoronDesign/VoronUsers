@@ -1,0 +1,21 @@
+cad: []
+description: Rockers to roll the printer on its back for easier access to the electronics
+  compartment
+discord_username: RockNLol
+images:
+- images/threaded_inserts_01.jpg
+- images/assembly_braces_02.jpg
+- images/assembly_braces_01.jpg
+- images/example_03.jpg
+- images/assembly_base_plates_03.jpg
+- images/assembly_base_plates_02.jpg
+- images/example_02.jpg
+- images/assembly_base_plates_01.jpg
+- images/example_01.jpg
+- images/example_04.jpg
+- images/support_01.jpg
+- images/assembly_rockers_01.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: RockNRoll

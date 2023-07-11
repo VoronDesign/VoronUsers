@@ -1,0 +1,14 @@
+cad:
+- CAD/Handle_Mini_Backdoor.step
+- CAD/Back_Door.step
+- CAD/Door_Latch_x2.step
+description: Door for easy hardware access
+discord_username: JNP
+images:
+- Images/2.jpg
+- Images/3.jpg
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: Back Door

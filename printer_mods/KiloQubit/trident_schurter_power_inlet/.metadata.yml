@@ -1,0 +1,10 @@
+cad:
+- CAD/trident_schurter_power_inlet.f3d
+- CAD/trident_schurter_power_inlet.step
+description: Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet
+discord_username: KiloQubit
+images: []
+mod_version: 1
+printer_compatibility:
+- Trident
+title: Trident Schurter Inlet Skirt

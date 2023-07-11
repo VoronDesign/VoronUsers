@@ -1,0 +1,18 @@
+cad:
+- CAD/LGX_toolhead_PCB_mount_assembly.step
+description: Mount for Hartk's toolhead PCB(s) for LGX Lite
+discord_username: Fiction
+images:
+- Images/LGX_Lite_toolhead_PCB_mount_photo_01.jpg
+- Images/github_download.png
+- Images/LGX_Lite_toolhead_PCB_mount_06.png
+- Images/LGX_Lite_toolhead_PCB_mount_07.png
+- Images/LGX_Lite_toolhead_PCB_mount_05.png
+- Images/LGX_Lite_toolhead_PCB_mount_01.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: LGX Lite toolhead PCB mount

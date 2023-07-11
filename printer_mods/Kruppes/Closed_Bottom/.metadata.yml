@@ -1,0 +1,16 @@
+cad: []
+description: Modified printed parts and panel to fully enclose V0.
+discord_username: Kruppes
+images:
+- Fancy_Panel/fancy_dimensions.png
+- pictures/fancy_bottom.png
+- pictures/side_view.png
+- pictures/back_view.png
+- pictures/simple_bottom.png
+- pictures/back_photo.jpg
+- pictures/bottom_photo.jpg
+- Simple_Panel/simple_dimensions.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Encosed Bottom

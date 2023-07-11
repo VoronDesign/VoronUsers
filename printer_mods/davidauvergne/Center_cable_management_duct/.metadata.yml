@@ -1,0 +1,16 @@
+cad:
+- CAD/cover_duct_208.f3d
+- CAD/reinforced_duct_208_hole.f3d
+- CAD/reinforced_duct_208_no_hole.step
+- CAD/reinforced_duct_208_hole.step
+- CAD/reinforced_duct_208_no_hole.f3d
+- CAD/cover_duct_208.step
+description: Mod for a centered cable management
+discord_username: davidauvergne
+images:
+- Pictures/IMG_20220226_094626.jpg
+- Pictures/IMG_20220226_094653.jpg
+- Pictures/IMG_20220301_163247.jpg
+mod_version: 1
+printer_compatibility: []
+title: Center_cable_management_duct

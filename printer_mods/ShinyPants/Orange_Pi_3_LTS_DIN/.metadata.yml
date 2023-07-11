@@ -1,0 +1,10 @@
+cad: []
+description: A DIN rail mount for OrangePi LTS 3
+discord_username: ShinyPants
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- Trident
+title: OrangePi 3 LTS DIN Rail bracket

@@ -1,0 +1,24 @@
+cad:
+- Tools_Jigs/PTFE_Flush_Cutter.step
+- Mods/Legacy/PS_stabilizerer.step
+- Mods/Legacy/fan_grille.step
+- Mods/Legacy/[tpu]_OB_Corner_Foot.step
+- Mods/Legacy/Legacy_Ender3_bed_mount_B.step
+- Mods/Trident/z_stepper_left_camera.step
+- Mods/Switchwire/spool_holder_base_side.step
+- Mods/Switchwire/panel_spacer_tool.step
+- Mods/Switchwire/PTFE_tube_side_mount.step
+- Mods/2/z_belt_cover_b_camera.step
+- Parts/VHB_ZipTie_Anchor.step
+- Parts/6-pin_microfit_skirt_insert.step
+description: Parts, Jigs and modifications I use for my builds
+discord_username: StvPtrsn
+images: []
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: Parts_Jigs and Mods

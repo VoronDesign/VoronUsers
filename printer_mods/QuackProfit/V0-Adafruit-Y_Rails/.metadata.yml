@@ -1,0 +1,11 @@
+cad: []
+description: Mount Adafruit PCB NeoPixel Sticks on the V0 Y-rail extrusions
+discord_username: QuackProfit
+images:
+- images/design.jpg
+- images/installed.jpg
+- images/wired.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 Adafruit NeoPixel LED Mounts

@@ -1,0 +1,15 @@
+cad:
+- Tension Meter.f3d
+description: Print in place tension meter to easily tighten multiple belts to the
+  same tension
+discord_username: Kruppes
+images:
+- pictures/model.png
+- pictures/installed.png
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- VSW
+title: Belt Tension Meter

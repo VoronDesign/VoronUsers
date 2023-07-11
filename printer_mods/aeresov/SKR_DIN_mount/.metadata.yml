@@ -1,0 +1,14 @@
+cad:
+- CAD/SKR_DIN_mount.f3d
+description: A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or across.
+discord_username: aeresov
+images:
+- images/photo_railed.png
+- images/db.png
+- images/photo_bare_3.png
+- images/photo_bare_2.png
+- images/photo_bare_1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: SKR 1.3/1.4 DIN mount

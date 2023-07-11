@@ -1,0 +1,14 @@
+cad:
+- CAD/MLX_MF3_Connector_Mount.step
+description: Solid mount your bed connectors
+discord_username: jeoje
+images:
+- images/MLX_MF3_Render.png
+- images/photo4.jpg
+- images/photo2.jpg
+- images/photo3.jpg
+- images/photo1.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Molex MLX and Microfit 3.0 Bed Connector Mount

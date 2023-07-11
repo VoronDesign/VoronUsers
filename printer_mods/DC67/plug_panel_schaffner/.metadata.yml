@@ -1,0 +1,11 @@
+cad: []
+description: A modified plug panel for the Power Entry Connector Schaffner FN286-10-06
+  with two integreated Keystone sockets.
+discord_username: DC67
+images:
+- IMG_20201201_164639.jpg
+- IMG_20201201_164633.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Plug Panel Mod for Schaffner FN286-10-06

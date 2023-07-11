@@ -1,0 +1,13 @@
+cad:
+- CAD/Voron0_Block_and_Tackle_Z_Belt.f3d
+- CAD/Voron0_Block_and_Tackle_Z_Belt.step
+description: A block & tackle belted Z solution using NEMA14. Ratios from 5:1 to 8:1
+  and friction prevent Z drop when powered off.
+discord_username: MCMBen
+images:
+- Images/Block_and_Tackle_Z_Belt_Render.png
+- Images/Block_and_Tackle_Z_Belt_Drawing.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Voron0 Block & Tackle Z Belt

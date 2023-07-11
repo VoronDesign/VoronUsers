@@ -1,0 +1,10 @@
+cad: []
+description: Tool-free tensioner for Z-Axis
+discord_username: Chaoticlab
+images:
+- Images/Tool_free_tensioner_1.png
+- Images/Tool_free_tensioner_2.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Tool_free_tensioner

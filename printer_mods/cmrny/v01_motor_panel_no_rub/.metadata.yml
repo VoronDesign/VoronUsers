@@ -1,0 +1,12 @@
+cad:
+- motor_panel_no_rub.f3d
+description: V0.1 Motor panel modification to keep umbilical and bowden tube from
+  rubbing against motor belts
+discord_username: cmrny
+images:
+- images/motor_panel_no_rub_installed.jpeg
+- images/motor_panel_no_rub.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 Motor Panel Modification

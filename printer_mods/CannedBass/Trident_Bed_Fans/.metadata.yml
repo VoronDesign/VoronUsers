@@ -1,0 +1,11 @@
+cad:
+- CAD/5015_Bed_Fan_Mount_Trident.step
+- CAD/5015_Bed_Fan_Mount_Trident.f3d
+description: Bed fans for Trident
+discord_username: CannedBass
+images:
+- Images/trident_bed_fans.jpeg
+mod_version: 1
+printer_compatibility:
+- Trident
+title: Trident Bed Fans

@@ -1,0 +1,24 @@
+cad:
+- CAD/Tophat-Cam-Extension.f3d
+description: Tophat extension with integrated webcam for V0/0.1
+discord_username: sloscotty
+images:
+- Images/THCE_without_TH.jpg
+- Images/Camera_Assembly.jpg
+- Images/VHB_FrontRear_Spacers.jpg
+- Images/TopHat_Cam_Extension_Installed.jpg
+- Images/Arm_Cover_Assembly.jpg
+- Images/Back_Panel.jpg
+- Images/Arducam.jpg
+- Images/THCE_Top.jpg
+- Images/USB_Cable_Path.jpg
+- Images/THCE_Overview.jpg
+- Images/Cam_View.jpg
+- Images/Tophat_Cam_Extension.jpg
+- Images/Arm_Assembly.jpg
+- Images/Prepare_Arducam.jpg
+- Images/Insert_USBcable.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: NoNutz TopHat Cam Extension

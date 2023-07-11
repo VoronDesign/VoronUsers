@@ -1,0 +1,13 @@
+cad:
+- CAD/rear_skirt_filtered_mains_keystone.step
+- CAD/rear_skirt_filtered_mains_keystone.f3d
+- CAD/plug_panel_filtered_mains_keystone.f3d
+- CAD/plug_panel_filtered_mains_keystone.step
+description: Add a keystone jack to your filtered mains plug panel
+discord_username: StvPtrsn
+images:
+- Images/rear.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Keystone Jack for Filtered Mains Panel

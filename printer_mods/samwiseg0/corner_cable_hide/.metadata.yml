@@ -1,0 +1,12 @@
+cad:
+- CAD/[a]_top_corner_cable_hide_x4.step
+description: Mod to hide cables around z idlers
+discord_username: samwiseg0
+images:
+- Images/[a]_top_corner_cable_hide_back.png
+- Images/[a]_top_corner_cable_hide_inside.png
+- Images/[a]_top_corner_cable_hide.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Corner Cable Hide/Cover (LED Wires)

@@ -1,0 +1,25 @@
+cad:
+- CAD/v0_Hinged_TopHat.step
+description: Created a new hinged top hat design for the V0 so it can fold away when
+  you dont want a top hat on
+discord_username: hartk1213
+images:
+- Images/4.jpg
+- Images/2.jpg
+- Images/3.jpg
+- Images/1.jpg
+- Images/Assembly/step5.png
+- Images/Assembly/step4.png
+- Images/Assembly/step6.png
+- Images/Assembly/step7.png
+- Images/Assembly/step3.png
+- Images/Assembly/step2.png
+- Images/Assembly/step1.png
+- Images/Assembly/FinalAssembly.png
+- Images/Assembly/step10.png
+- Images/Assembly/step9.png
+- Images/Assembly/step8.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Voron0 Hinged Top Hat

@@ -1,0 +1,12 @@
+cad:
+- LED_Bar_Clip_Misumi_version2.step
+- LED_Bar_Clip_Misumi_version2.f3d
+description: Modular LED Clip for mounting LED Strip to 2020 Extrusions
+discord_username: eddie
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- Trident
+title: LED Bar Clip

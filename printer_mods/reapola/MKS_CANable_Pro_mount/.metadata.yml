@@ -1,0 +1,19 @@
+cad:
+- CAD/canable_pro_clip.f3d
+- CAD/canable_pro_clip.step
+- CAD/canable_pro_mount.step
+- CAD/canable_pro_mount.f3d
+description: MKS CANable Pro mount which mounts on a DIN rail
+discord_username: reapola
+images:
+- Images/canable_pro_mount_parts.jpg
+- Images/canable_pro_mount_built.jpg
+- Images/canable_pro_cad.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: MKS CANable Pro DIN Mount

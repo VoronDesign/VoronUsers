@@ -1,0 +1,10 @@
+cad: []
+description: Kirigami bed front with space for a single LED or Neopixel button
+discord_username: reQu1em00
+images:
+- Beddefuser2.jpg
+- Bedfront.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: Kirigami LED Bed Front

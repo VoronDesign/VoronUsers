@@ -1,0 +1,14 @@
+cad:
+- CAD/TL_filament_sensor_bracket.f3d
+description: A bracket for TL filament sensor to mount near stock spool holder.
+discord_username: aeresov
+images:
+- images/db.png
+- images/photo_railed_1.png
+- images/photo_railed_2.png
+- images/photo_bare_2.png
+- images/photo_bare_1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: TL filament sensor bracket

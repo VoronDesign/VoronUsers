@@ -1,0 +1,18 @@
+cad:
+- CAD/HorseshoeSpoolHolder_v10.f3d
+- CAD/HorseshoeSpoolHolder_v10.step
+description: Horseshoe Spool Holder - mounts internally for Trident, or externally
+  for V0, V1, or V2 printers.
+discord_username: LoganFraser
+images:
+- ES.png
+- PB.png
+- TIS.png
+- TI.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- Trident
+title: HorseshoeSpoolHolder

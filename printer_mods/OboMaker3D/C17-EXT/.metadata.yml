@@ -1,0 +1,18 @@
+cad:
+- CAD/C17-EXT.step
+description: Replaces standard filter with new HEPA Crabon and 120mm fan V1.1
+discord_username: OboMaker3D
+images:
+- JPG/IMG_1.png
+- JPG/IMG_2.png
+- JPG/IMG_3.png
+- JPG/IMG_7.png
+- JPG/IMG_6.png
+- JPG/IMG_4.png
+- JPG/IMG_5.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- Trident
+title: C17-EXT Filter HEPA Carbon

@@ -1,0 +1,16 @@
+cad: []
+description: 3Z mod for V1
+discord_username: Yeri
+images:
+- images/bed_mount.jpg
+- images/final_installation_view.jpg
+- images/installed_view.jpg
+- images/Top_rod_attachment.jpg
+- images/bed_mount_installed.jpg
+- images/full_assembly.jpg
+- images/motor_mount_installed.jpg
+- images/motor_mount_installation.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+title: V1 3Z

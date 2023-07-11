@@ -1,0 +1,11 @@
+cad: []
+description: Simple bracket to mount an LED strip
+discord_username: DerekBackus
+images:
+- Images/LED_Holder_Picture.jpg
+- Images/LED_Holder_ISO.png
+- Images/LED_Strip_Example.jpg
+- Images/LED_Holder_Side_View.png
+mod_version: 1
+printer_compatibility: []
+title: LED Strip Holder

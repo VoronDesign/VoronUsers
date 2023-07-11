@@ -1,0 +1,15 @@
+cad:
+- CAD/trident-euclid-carriage.step
+description: A MGN-12 carriage with an inset mount for a Euclid Probe
+discord_username: KageUrufu
+images:
+- Images/real-bottomview.jpg
+- Images/real-frontview.jpg
+- Images/CAD-bottomview.png
+- Images/CAD-frontview.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- Trident
+title: Euclid Probe Carriage

@@ -1,0 +1,14 @@
+cad:
+- CAD/LedCorner15.5v13.f3d
+description: Mounting corners with integrated cable runs for 15.5mm quarter round
+  aluminium led extrusions.
+discord_username: richardjm
+images:
+- Images/Colourful.jpg
+- Images/Extrusions.jpg
+- Images/Closeup.jpg
+- Images/White.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: LED 15.5mm quarter round mounts

@@ -1,0 +1,13 @@
+cad:
+- STEP/Its_Not_a_Sexbolt_z_Switch_v4.step
+description: Sexbolt style switch for V0
+discord_username: Polar-Ted
+images:
+- images/NotaSexboltimage.png
+- images/Dingushippo_magent1.jpg
+- images/Dingushippo_magent2.jpg
+- images/Dingushippo_plate.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 Z nozzle endstop switch

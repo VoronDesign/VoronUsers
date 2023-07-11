@@ -1,0 +1,11 @@
+cad: []
+description: New hinge to easily remove the door and have a wide opening  V2.x
+discord_username: ElPoPo
+images:
+- Images/MMU.jpg
+- Images/Charniere_Av.jpg
+- Images/Charniere_Ar.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Removable Doors

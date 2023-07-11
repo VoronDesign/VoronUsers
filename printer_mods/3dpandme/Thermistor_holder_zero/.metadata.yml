@@ -1,0 +1,13 @@
+cad:
+- thermistor_holder_zero.step
+description: Extended thermistor holder for Voron Zero
+discord_username: 3dpandme
+images:
+- thermistor_holder_comparison.png
+- installed.png
+mod_version: 1
+printer_compatibility:
+- V0
+- VSW
+- Trident
+title: Thermistor holder zero

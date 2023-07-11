@@ -1,0 +1,11 @@
+cad: []
+description: Corner panel clip with an internal cable path.
+discord_username: 42bios
+images:
+- corner_panel_clip_cp.png
+- corner_panel_clip_cp2.png
+- corner_panel_clip_cp.gif
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Corner panel clip w. cable

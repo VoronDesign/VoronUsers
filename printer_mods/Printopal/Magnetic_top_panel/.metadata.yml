@@ -1,0 +1,12 @@
+cad: []
+description: Top panel with magnets allows for quick installation and removal
+discord_username: Printopal
+images:
+- Images/Magnet.jpg
+- Images/Magnetic_top_panel.jpg
+- Images/Split.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: Magnetic top panel

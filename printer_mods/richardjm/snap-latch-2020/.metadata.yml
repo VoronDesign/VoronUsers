@@ -1,0 +1,14 @@
+cad:
+- CAD/NewLatch v108.f3d
+description: Quick release panel latch inspired by the work of others.
+discord_username: richardjm
+images:
+- Images/Assembly.gif
+- Images/BuildPlate.png
+- Images/Latch-v68-3mm.jpg
+- Images/Parameters.png
+- Images/250Plate.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Printable snap latches for 2020 extrusion

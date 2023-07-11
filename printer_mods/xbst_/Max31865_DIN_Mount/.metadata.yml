@@ -1,0 +1,10 @@
+cad: []
+description: A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865
+  PT100 Board.
+discord_username: xbst_
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: DIN Mount Max31865

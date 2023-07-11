@@ -1,0 +1,9 @@
+cad: []
+description: A Raspberry Pi Camera Mount For V0
+discord_username: xbst_
+images:
+- example.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 PiCam Mount

@@ -1,0 +1,12 @@
+cad:
+- Microswitch_Edge_Pod.step
+description: Modified endstop pod for use of endstop switches mounted on a PCB
+discord_username: randell
+images:
+- Images/picture1.jpg
+- Images/picture2.jpg
+- Images/picture3.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Microswitch Pod for PCB

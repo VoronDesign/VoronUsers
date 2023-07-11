@@ -1,0 +1,15 @@
+cad:
+- CAD/display_middle_skirt.step
+- CAD/PiTFT70_Assembly_with_Housing.step
+- CAD/display_mount.step
+description: Mount for the BTT PiTFT Touchscreen
+discord_username: Mac10goesBRRRT
+images:
+- images/PiTFT_Render.png
+- images/FFC-Routing.jpg
+- images/Display_Front.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- Trident
+title: PiTFT Mount

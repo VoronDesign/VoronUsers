@@ -1,0 +1,14 @@
+cad:
+- CAD/Zodiac_BMO_Toolhead_Stealthburner.step
+description: A Stealthburner toolhead for the Zodiac BMO Hotend, based on the Phaetus
+  BMO toolhead.
+discord_username: muradir
+images:
+- images/Toolhead.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: Zodiac BMO Stealthburner Toolhead

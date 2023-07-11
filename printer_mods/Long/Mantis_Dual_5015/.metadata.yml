@@ -1,0 +1,64 @@
+cad:
+- CAD/Mantis_MGN12_CrazyVolcano_v1.0.step
+- CAD/Mantis_MGN12_Dragon_v1.041_and_v1.043e.step
+- CAD/Mantis_MGN12_Rapido_and Rapido_UHF.step
+- CAD/Mantis_MGN9_v1.0a.step
+description: MGN12 Dual 5015 Toolhead for 2.4 & 1.8
+discord_username: Long
+images:
+- images/readme_cfd_crazy_volcano.png
+- images/carriage_assembly_mgn9_front.jpg
+- images/carriage_assembly_crazy_volcano.jpg
+- images/final_assembly_duct_brace.jpg
+- images/final_assembly_adxl_front.jpg
+- images/readme_mantis.jpg
+- images/readme_cfd_dragon.png
+- images/1.8_koonweee_thumb.png
+- images/final_assembly_rapido.jpg
+- images/hotends_rapdio_cad.png
+- images/carriage_assembly_solder_magnet.jpg
+- images/carriage_assembly_carriage_bottom.jpg
+- images/magprobe_bed_mount.jpg
+- images/carriage_assembly_mgn9_rear_wiring.jpg
+- images/print_orientation_slicer.png
+- images/final_assembly_crazy_volcano_rear.jpg
+- images/readme_cfd_rapido.png
+- images/magprobe_solder_switch.jpg
+- images/carriage_assembly_sherpa_brace_mounted_side.jpg
+- images/final_assembly_adxl_carriage.jpg
+- images/carriage_assembly_hotend_mount_front.jpg
+- images/final_assembly_top.jpg
+- images/magprobe_gantry_mount_side.jpg
+- images/carriage_assembly_hotend_mount_top.jpg
+- images/carriage_assembly_rapido.jpg
+- images/carriage_assembly_sherpa_brace_hotend_mount.jpg
+- images/final_assembly_heater_back.jpg
+- images/carriage_assembly_mgn9_front_mounted.jpg
+- images/final_assembly_crazy_volcano.jpg
+- images/magprobe_gantry_mount_front.jpg
+- images/print_orientation_ducts.jpg
+- images/carriage_assembly_sherpa_brace_mounted_front.jpg
+- images/carriage_assembly_mgn12_front.jpg
+- images/readme_exploded.png
+- images/magprobe_bed_mount_front.jpg
+- images/firmware_slicer_cooling_settings.png
+- images/1.8_OscarGM_cut_ears.jpg
+- images/carriage_assembly_heatsets.jpg
+- images/1.8_koonweee.png
+- images/magprobe_bed_mount_rear.jpg
+- images/print_orientation_keep_only_bridges.png
+- images/magprobe_assembled.jpg
+- images/print_orientation_duct_divider.jpg
+- images/carriage_assembly_mgn12_rear.jpg
+- images/carriage_assembly_mgn9_rear_belts.jpg
+- images/magprobe_attached_to_carriage.jpg
+- STLs/Duct_Brace/Images/Duct_Brace_Simple.png
+- STLs/Duct_Brace/Images/Duct_Brace_Full.png
+- STLs/Duct_Brace/Images/Duct_Brace_Back.jpg
+- STLs/Duct_Brace/Images/Duct_Brace_Full_Hardware.png
+- STLs/Duct_Brace/Images/Duct_Brace_OpenVsClosed.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: Mantis Dual 5015 Toolhead

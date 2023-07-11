@@ -1,0 +1,9 @@
+cad: []
+description: V0 Mount for a ADXL345 module
+discord_username: xbst_
+images:
+- example.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: ADXL345 V0 Mount

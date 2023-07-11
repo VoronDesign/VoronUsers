@@ -1,0 +1,9 @@
+cad: []
+description: New rear panels designed to expose the extruder for easy filament swapping
+discord_username: xbst_
+images:
+- example.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: Easy Access Rear Panels

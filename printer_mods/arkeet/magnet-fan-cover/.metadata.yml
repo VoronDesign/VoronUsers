@@ -1,0 +1,16 @@
+cad:
+- CAD/magnet-fan-cover.f3d
+- CAD/magnet-fan-cover.step
+description: A replacement hotend fan cover, held with magnets instead of screws.
+discord_username: arkeet
+images:
+- images/render2.png
+- images/render1.png
+- images/section.png
+- images/photo.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+title: Magnetic hotend fan cover

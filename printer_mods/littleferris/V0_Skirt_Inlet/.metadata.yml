@@ -1,0 +1,12 @@
+cad:
+- step/v0_foot_skirt_right.step
+- step/v0_foot_skirt_left.step
+description: V0 C14 Skirt inlet
+discord_username: littleferris
+images:
+- img/V0_inlet1.jpg
+- img/V0_inlet2.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 c14 Skirt Inlet

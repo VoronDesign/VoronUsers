@@ -1,0 +1,17 @@
+cad: []
+description: Useful information and models for using the Bondtech LGX extruder wth
+  Afterburner
+discord_username: geoffreyyoung
+images:
+- images/cable_cover.jpg
+- images/lever_cover.jpg
+- images/mgn12-rear.jpg
+- images/gear_cover.jpg
+- images/wires.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: LGX Info, Links, and Models

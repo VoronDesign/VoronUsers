@@ -1,0 +1,14 @@
+cad:
+- CAD/bowden_guide.f3d
+- CAD/left_front.f3d
+- CAD/right_front.f3d
+- CAD/left_rear.f3d
+- CAD/right_rear.f3d
+description: Taller Z Mod
+discord_username: buzzdalf
+images:
+- IMAGES/picture.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Ender 3 Switchwire Taller Z Mod

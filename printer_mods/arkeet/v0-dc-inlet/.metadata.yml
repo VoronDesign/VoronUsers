@@ -1,0 +1,15 @@
+cad:
+- CAD/v0-dc-inlet.step
+description: Skirt inlet for external 24V DC power supply.
+discord_username: arkeet
+images:
+- Images/assembly1.png
+- Images/assembly2.png
+- Images/assembly3.png
+- Images/wiring.png
+- Images/photo.jpg
+- Images/render.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 DC inlet

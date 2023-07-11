@@ -1,0 +1,16 @@
+cad: []
+description: Mount to replace v2.4 (MGN9) probe with a Creality CR Touch
+discord_username: JJFX
+images:
+- Images/CRTouch_Prep3_sm.jpg
+- Images/CRTouch_Prep1_sm.jpg
+- Images/CRTouch-ex2_sm.jpg
+- Images/CRTouch_Inserts1_sm.jpg
+- Images/CRTouch_Prep0_sm.jpg
+- Images/CRTouch-wire1_sm.jpg
+- Images/CRTouch-ex1_sm.jpg
+- Images/CRTouch-ex3_sm.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: 'V2.4 CR Touch Snap Mount '

@@ -1,0 +1,15 @@
+cad:
+- CAD/V0.2_Handle.step
+description: Add handles to the extrusion tophat
+discord_username: Maverick
+images:
+- Images/Handle_2.png
+- Images/Handle_3.png
+- Images/Handle_1.jpeg
+- Images/2.png
+- Images/3.png
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.2 Handles

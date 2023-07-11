@@ -1,0 +1,12 @@
+cad:
+- CAD/V02-28Waveshare.f3d
+- CAD/V02-28Waveshare.step
+description: 2.8 Waveshare display for V0.2
+discord_username: hartk1213
+images:
+- Images/WaveshareSkirtMount.png
+- Images/2.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Voron0.2 2.8 Waveshare Display

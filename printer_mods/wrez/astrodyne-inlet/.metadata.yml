@@ -1,0 +1,18 @@
+cad:
+- CAD/power-inlet-astrodyne.f3d
+- CAD/power-inlet-astrodyne.step
+description: Drop in replacement for alternate-source power inlet if spec inlet is
+  back-ordered
+discord_username: wrez
+images:
+- images/fuses.jpg
+- images/power-inlet-astrodyne.png
+- images/in-situ.jpg
+- images/front-view.jpg
+- images/082SM-tabs.jpg
+- images/rear-view.jpg
+- images/disassembled.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 Alternate IEC 320 C14 Power Inlet Housing

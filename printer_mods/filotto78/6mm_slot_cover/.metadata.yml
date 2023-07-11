@@ -1,0 +1,14 @@
+cad:
+- CAD/2020_cover_one_side.f3d
+- CAD/2020_cover_simmetric.f3d
+description: Simple cover for extrusion with 6mm slot width
+discord_username: filotto78
+images:
+- images/IMG_3238.jpeg
+- images/IMG_3239.jpeg
+- images/symmetric.jpg
+- images/one_side.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: 6mm slot cover

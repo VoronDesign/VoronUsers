@@ -1,0 +1,9 @@
+cad: []
+description: Used @Kruppes blank deck panel to add the logo as well as the name VORON0
+discord_username: hartk1213
+images:
+- Images/deck_panel_printed.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: Voron0 deck panel

@@ -1,0 +1,10 @@
+cad: []
+description: Created a new skirt design that uses 50mm extrusions as legs and it has
+  a c14 power inlet hole on the bottom
+discord_username: hartk1213
+images:
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Voron0 ExtrusionSkirt

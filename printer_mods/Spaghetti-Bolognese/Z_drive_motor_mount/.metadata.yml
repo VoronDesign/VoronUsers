@@ -1,0 +1,10 @@
+cad:
+- Z_Motor_Mount _B.f3d
+- Z_Motor_Mount_A.f3d
+description: Z drive motor mount bracket mod to improve pulley to belt alignment
+discord_username: Spaghetti-Bolognese
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Simplified Z Drive Motor Mount

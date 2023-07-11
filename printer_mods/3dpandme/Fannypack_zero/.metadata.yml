@@ -1,0 +1,12 @@
+cad:
+- fannypack_zero.step
+description: Electronics cooling solution for Voron Zero
+discord_username: 3dpandme
+images:
+- Installed.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+- VSW
+- Trident
+title: FANnypack zero

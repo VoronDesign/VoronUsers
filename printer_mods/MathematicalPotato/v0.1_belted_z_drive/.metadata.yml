@@ -1,0 +1,13 @@
+cad:
+- CAD/V0.1_belted_z_drive.step
+- CAD/v0.1_belted_z_kirigami.step
+description: Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's
+  mod for the V0.0
+discord_username: MathematicalPotato
+images:
+- Images/ZBelt-Support-01.png
+- Images/belt-tight.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 Belted Z Drive

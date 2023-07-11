@@ -1,0 +1,17 @@
+cad:
+- VoronV0.1_FanSaver_rev0.6.step
+description: A printable fix for overheating V0.1 blower fans
+discord_username: jappaj
+images:
+- photos/Instructions-1.jpg
+- photos/Instructions-3.jpg
+- photos/Instructions-6.jpg
+- photos/Instructions-7.jpg
+- photos/FanSaver_ObjectRender.png
+- photos/Instructions-2_ARROW.jpg
+- photos/FanSaver_Overview.png
+- photos/Instructions-4_ARROW.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 FanSaver

@@ -1,0 +1,15 @@
+cad: []
+description: A simple filament runout sensor
+discord_username: al3ph
+images:
+- images/front.jpeg
+- images/in_use.jpeg
+- images/inside.jpeg
+- images/back.jpeg
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- VSW
+title: Filament Runout Sensor

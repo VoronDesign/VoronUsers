@@ -1,0 +1,13 @@
+cad:
+- CAD/y_tension.f3d
+description: Y Tension Mod
+discord_username: buzzdalf
+images:
+- IMAGES/parts.jpg
+- IMAGES/assembled.jpg
+- IMAGES/stack.jpg
+- IMAGES/installed.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Ender 3 Switchwire Y Tensioner Mod

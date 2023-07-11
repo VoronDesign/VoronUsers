@@ -1,0 +1,21 @@
+cad:
+- cad/BEEFY_Din.step
+description: Two piece BEEFY Din Clips, holds stronger
+discord_username: th0mpy
+images:
+- images/IMG_0998.jpeg
+- images/IMG_0994.jpeg
+- images/IMG_0995.jpeg
+- images/IMG_0999.jpeg
+- images/BEEFY_Din.png
+- images/BEEFY_Din-(55mm).png
+- images/IMG_0992.jpeg
+- images/IMG_0993.jpeg
+- images/BEEFY_Din-PSU(50mm).png
+- images/t-logo.png
+- images/IMG_0996.jpeg
+- images/IMG_0997.jpeg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: BEEFY Din Clips

@@ -1,0 +1,10 @@
+cad: []
+description: Out of the way corner mounted picam
+discord_username: richardjm
+images:
+- Images/TheView.jpg
+- Images/TheMountingPoint.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Picam corner mount

@@ -1,0 +1,9 @@
+cad: []
+description: Skirt keystone for ADXL345 using Microfit 3.0
+discord_username: Jon
+images:
+- IMG/skirt.keystone.adxl345.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: adxl345 skirt keystone

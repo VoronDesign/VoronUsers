@@ -1,0 +1,9 @@
+cad: []
+description: Adapter for metal DIN mounting the Raspberry Pi
+discord_username: Oakman
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: RPI Metal DIN Mount

@@ -1,0 +1,10 @@
+cad:
+- Mini12864_Case_Assembly.f3d
+description: Improvements to the V2.4 mini12864 LCD case inc E-stop button cover
+discord_username: Spaghetti-Bolognese
+images:
+- LCD_mod_installed.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: LCD Case Mod

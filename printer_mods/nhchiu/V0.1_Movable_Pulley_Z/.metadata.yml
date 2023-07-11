@@ -1,0 +1,32 @@
+cad:
+- kirigami_adaptor/CAD/kirigami_holder.step
+- CAD/Pulley_Z_Drive.step
+description: A movable pulley system on the Z axis with 1:8 total speed ratio for
+  V0.1
+discord_username: nhchiu
+images:
+- Images/M4.png
+- Images/Img.png
+- Images/Top_Belt_End_Path.png
+- Images/fixed_issue.png
+- Images/Top_Idler.png
+- Images/Mechanism.png
+- Images/img4.jpg
+- Images/Belt_Path.png
+- Images/Top.png
+- Images/Preload_Nuts.png
+- Images/Top_Position.png
+- Images/img3.jpg
+- Images/img2.jpg
+- Images/Top_Endstop.png
+- Images/img1.jpg
+- Images/M4_80T_Gear.png
+- Images/kirigami.png
+- Images/Top_Belt_End.png
+- Images/Bed_Holder.png
+- Images/Lower_End.png
+- kirigami_adaptor/sliced.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 Movable Pulley Z Drive

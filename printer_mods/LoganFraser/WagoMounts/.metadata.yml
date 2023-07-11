@@ -1,0 +1,16 @@
+cad:
+- CAD/Wago_3x_221-41x_Angled_Din_Rail_Mount.step
+- CAD/Wago_221-41x_Extrusion_&_Thin_Din_Mount.step
+- CAD/Wago_3x_221-41x_Angled_Din_Rail_Mount.f3d
+- CAD/Wago_221-41x_Extrusion_&_Thin_Din_Mount.f3d
+description: Wago Mounts for Din Rail or 2020 Extrusion mounting.
+discord_username: LoganFraser
+images:
+- WagoMounts-Extrusion&Din.png
+- WagoMounts.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- Trident
+title: WagoMounts

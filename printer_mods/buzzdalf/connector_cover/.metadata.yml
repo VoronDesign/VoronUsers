@@ -1,0 +1,11 @@
+cad: []
+description: v1.8/2.4 Connector cover for 42STH20-1004AS
+discord_username: buzzdalf
+images:
+- connector_cover_1.jpg
+- connector_cover_2.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: v1.8/2.4 Afterburner connector cover for 42STH20-1004AS

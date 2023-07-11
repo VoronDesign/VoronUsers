@@ -1,0 +1,15 @@
+cad: []
+description: HEPA filter chamber exhaust replacement.
+discord_username: dePrintinator
+images:
+- Images/exhaust-chamber-mount-jst-terminal.png
+- Images/exhaust-fan-assembly.png
+- Images/hepa-chamber-exhaust-cad.png
+- Images/exhaust-chamber-mount-back.png
+- Images/exhaust-HEPA-filter-insert.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- Trident
+title: HEPA Exhaust

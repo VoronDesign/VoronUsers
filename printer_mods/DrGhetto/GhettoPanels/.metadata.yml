@@ -1,0 +1,10 @@
+cad: []
+description: Printed panels for the Voron Zero
+discord_username: DrGhetto
+images:
+- images/db.png
+- images/ghettopanels.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: Ghetto Panels

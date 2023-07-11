@@ -1,0 +1,17 @@
+cad:
+- CAD/DS18B20-sensor-mount.f3d
+description: DS18B20 temperature sensor mount
+discord_username: antoinecellerier
+images:
+- Images/CAD_1.jpg
+- Images/CAD_3.jpg
+- Images/CAD_2.jpg
+- Images/CAD_4.jpg
+- Images/PIC_4.jpg
+- Images/PIC_3.jpg
+- Images/PIC_2.jpg
+- Images/PIC_1.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: DS18B20 Sensor Mount

@@ -1,0 +1,11 @@
+cad: []
+description: Modified version of Trident RPi bracket to fit the smaller RPi Zero
+discord_username: D4rkCelerity
+images: []
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- Trident
+title: Raspberry Pi Zero Bracket

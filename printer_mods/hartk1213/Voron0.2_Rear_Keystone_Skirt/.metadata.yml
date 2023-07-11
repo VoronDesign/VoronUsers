@@ -1,0 +1,10 @@
+cad:
+- CAD/v02_rear_skirt_keystone.step
+description: Added keystone slot on rear skirt for V0.2
+discord_username: hartk1213
+images:
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Voron0.2 Rear Keystone Skirt

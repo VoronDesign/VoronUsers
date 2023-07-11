@@ -1,0 +1,14 @@
+cad:
+- CAD/Revo_Nozzle_v12.step
+description: A skirt case for the Revo hotends to reside R1 and R2
+discord_username: Daten
+images:
+- Images/Finished_Open.jpg
+- Images/Finished_Closed.jpg
+- Images/Completed.png
+- Images/AllSizes.png
+- Images/Open.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Revo hotend skirt case

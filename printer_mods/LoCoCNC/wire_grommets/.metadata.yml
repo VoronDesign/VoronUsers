@@ -1,0 +1,10 @@
+cad: []
+description: Safely capture your bed wires thru the bottom panel
+discord_username: LoCoCNC
+images:
+- images/elec_bay_side.jpg
+- images/chamber_side.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: V2.4 Bed Wiring Grommet

@@ -1,0 +1,11 @@
+cad: []
+description: Use a metal DIN mount for your FYSETC Spider
+discord_username: Oakman
+images:
+- YASDM_metal_din.jpg
+- Angry_Starfish_Spider_metal_din.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: FYSETC Spider Metal DIN Mount

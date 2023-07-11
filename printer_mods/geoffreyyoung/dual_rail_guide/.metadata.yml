@@ -1,0 +1,9 @@
+cad: []
+description: Rail installation guide that also works for the 2.4 dual rail installation
+discord_username: geoffreyyoung
+images:
+- images/guide.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Dual Rail Installation Guide

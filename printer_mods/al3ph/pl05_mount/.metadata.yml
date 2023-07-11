@@ -1,0 +1,11 @@
+cad:
+- mount.f3d
+- mount.step
+description: A mount PL05 inductive sensor
+discord_username: al3ph
+images:
+- probe.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: PL05 Sensor Mount

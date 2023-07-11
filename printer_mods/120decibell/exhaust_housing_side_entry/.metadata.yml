@@ -1,0 +1,14 @@
+cad:
+- CAD/exhaust_housing_side_entry.f3d
+description: Exhaust housing with dual cover screws and single or dual side entry
+  filament paths.
+discord_username: 120decibell
+images:
+- images/side_housing_view1.png
+- images/side_housing_view2.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- Trident
+title: Side entry exhaust housing

@@ -1,0 +1,14 @@
+cad:
+- CAD/ToolheadPCBtoCANAdapter.step
+description: A mount to enable side mounting of a CAN board (Huvud/SHT42) in Afterburner
+  PCB spacing
+discord_username: falo
+images:
+- Images/image.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: Toolhead PCB to CAN Mount Adaptor

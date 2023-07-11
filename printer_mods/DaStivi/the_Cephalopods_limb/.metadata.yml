@@ -1,0 +1,16 @@
+cad: []
+description: An alternative Din rail mount for BTT Octopus (PRO) boards
+discord_username: DaStivi
+images:
+- img/IMG-20210610-WA0001.jpg
+- img/simple_bracket_STL.jpg
+- img/octopus.svg
+- img/octopus_inverted.svg
+- img/STL.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: The Cephalopod limb (BTT Octopus PRO Bracket(s))

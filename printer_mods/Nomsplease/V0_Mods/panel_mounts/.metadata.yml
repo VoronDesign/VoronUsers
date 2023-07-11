@@ -1,0 +1,10 @@
+cad:
+- rear_bottom_left_bracket_with_stop.step
+- rear_bottom_right_bracket_with_stop.step
+description: Remixed rear bottom panel mounts with stop
+discord_username: Nomsplease
+images: []
+mod_version: 1
+printer_compatibility:
+- V0
+title: Remixed Panel Mounts

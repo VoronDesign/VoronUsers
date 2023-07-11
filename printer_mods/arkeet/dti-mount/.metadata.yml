@@ -1,0 +1,14 @@
+cad:
+- dti-mount.f3d
+- dti-mount.step
+description: A toolhead mount for a dial test indicator, where the tip is located
+  at the nozzle.
+discord_username: arkeet
+images:
+- images/photo.jpg
+- images/render.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: Dial test indicator mount

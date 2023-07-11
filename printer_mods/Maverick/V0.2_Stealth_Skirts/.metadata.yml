@@ -1,0 +1,14 @@
+cad:
+- CAD/V0.2_Stealth_Skirts.step
+- CAD/V0.2_Stealth_Skirts.f3d
+description: Juiced up skirts for the V0.2
+discord_username: Maverick
+images:
+- Images/skirts_2.png
+- Images/skirts_3.png
+- Images/skirts_1.png
+- Images/skirts_4.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.2 Stealth Skirts

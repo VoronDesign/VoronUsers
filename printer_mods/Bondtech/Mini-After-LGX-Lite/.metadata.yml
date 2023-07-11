@@ -1,0 +1,21 @@
+cad:
+- CAD/Mini-After-LGX-lite.step
+- CAD/Z_Bed_adjustable_Y_offset.step
+description: LGX Lite Toolhead Setup For Voron V0.1.
+discord_username: Bondtech
+images:
+- Images/PTFE-Cutting-Jig.jpg
+- Images/Hotend-Mount-Mosquito-3010-Fan.png
+- Images/mini-after-lgx-lite_header-1200x628.jpg
+- Images/Cowling-Universal.png
+- Images/Hotend-Mount-Copperhead-Screw-Mount-3007-Fan.png
+- Images/Hotend-Mount-DRAGON-3007-Fan.png
+- Images/Hotend-Mount-DRAGONFLY-3007-Fan.png
+- Images/X-Carriage.png
+- Images/Hotend-Mount-MOSQUITO-3007-Fan.png
+- Images/Hotend-Mount-DRAGONFLY-3010-Fan.png
+- Images/Hotend-Mount-Copperhead-Screw-Mount-3010-Fan.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: Mini-After-LGX-Lite

@@ -1,0 +1,11 @@
+cad: []
+description: V2 350mm skirts inspired by Bruag Facades
+discord_username: lakai
+images:
+- Images/side_skirts.jpg
+- Images/exhaust_grill.jpg
+- Images/front_skirts.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Bruag Skirts

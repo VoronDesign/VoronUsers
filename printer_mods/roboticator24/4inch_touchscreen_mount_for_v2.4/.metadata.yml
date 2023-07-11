@@ -1,0 +1,17 @@
+cad: []
+description: Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual 12864
+  panel to allow you to run the amazing OctoDash touch UI
+discord_username: roboticator24
+images:
+- img/printorientation.jpg
+- img/photo.jpg
+- img/pcb.jpg
+- img/cad.jpg
+- img/attachbottompanel.jpg
+- img/screenshots.jpg
+- img/pushbuttonlocation.jpg
+- img/removesupports.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Touchscreen for OctoDash

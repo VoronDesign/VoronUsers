@@ -1,0 +1,12 @@
+cad: []
+description: Bigtreetech U2C CAN Interface mounting bracket
+discord_username: Electroleon
+images:
+- Images/U2C_Mounted.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- Trident
+title: U2C Mounting

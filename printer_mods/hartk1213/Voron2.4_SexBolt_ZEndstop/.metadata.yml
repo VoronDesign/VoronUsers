@@ -1,0 +1,19 @@
+cad:
+- CAD/V2_SexBolt_Z_Endstop.step
+description: This mod replaces stock V2 Z endstop with a different style
+discord_username: hartk1213
+images:
+- Images/8.png
+- Images/9.png
+- Images/4.png
+- Images/5.png
+- Images/7.png
+- Images/6.png
+- Images/2.png
+- Images/3.png
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- Trident
+title: Voron2.4 SexBolt ZEndstop

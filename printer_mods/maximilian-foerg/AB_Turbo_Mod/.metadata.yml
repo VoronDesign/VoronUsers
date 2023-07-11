@@ -1,0 +1,14 @@
+cad:
+- CAD/AB_Turbo_Mod.step
+description: A purely cosmetic mod for Afterburner
+discord_username: maximilian-foerg
+images:
+- Images/01.png
+- Images/02.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: Afterburner Turbo Mod

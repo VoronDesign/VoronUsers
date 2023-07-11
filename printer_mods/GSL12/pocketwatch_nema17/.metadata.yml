@@ -1,0 +1,9 @@
+cad: []
+description: Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for
+  V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers.
+discord_username: GSL12
+images:
+- media/pw_nema17.jpg
+mod_version: 1
+printer_compatibility: []
+title: Pocketwatch Nema 17

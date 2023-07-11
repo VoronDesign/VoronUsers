@@ -1,0 +1,13 @@
+cad: []
+description: A camera mount that replaces the OEM part to allow the camera to be mounted
+  to a 2020 extrusion
+discord_username: Rhastlyn
+images:
+- Images/HardwareInstalled.jpg
+- Images/CameraMountingHardware_Arrows.png
+- Images/InstalledBackFinal.jpg
+- Images/InstalledSideBack.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Wansview 1080p Camera Mount

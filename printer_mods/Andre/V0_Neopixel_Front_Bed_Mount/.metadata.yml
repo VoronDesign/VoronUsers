@@ -1,0 +1,14 @@
+cad:
+- CAD/V0_Neopixel_Front_Bed_Mount.f3d
+description: A replacement Front Bed Mount with room for a neopixel or dotstar behind
+  the logo
+discord_username: Andre
+images:
+- Images/CAD_1.png
+- Images/CAD_2.png
+- Images/PIC_2.jpg
+- Images/PIC_1.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 Neopixel Front Bed Mount

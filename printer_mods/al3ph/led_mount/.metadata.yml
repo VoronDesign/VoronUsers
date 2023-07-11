@@ -1,0 +1,8 @@
+cad: []
+description: A mount for 10mm LED WS2812 strips
+discord_username: al3ph
+images: []
+mod_version: 1
+printer_compatibility:
+- V0
+title: LED Mount

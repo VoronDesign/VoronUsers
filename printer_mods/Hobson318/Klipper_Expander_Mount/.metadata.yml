@@ -1,0 +1,17 @@
+cad:
+- STM32_Klipper_Expander_v5.step
+- STM32_Klipper_Expander_No_Holes_v2.step
+description: Mounting brackets for the klipper expander using vhb tape or mounting
+  screws
+discord_username: hobson318
+images:
+- Images/Mount_Top.jpg
+- Images/Mount_Side.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+- V1.8
+- V2.4
+- VSW
+- Trident
+title: Klipper Expander Mount

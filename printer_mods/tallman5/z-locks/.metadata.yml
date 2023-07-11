@@ -1,0 +1,12 @@
+cad:
+- cad/z-locks.f3d
+- cad/z-locks.step
+description: Helping hands curing v2.4 build, replaces long zip ties.
+discord_username: tallman5
+images:
+- images/z-locks.png
+- images/z-locks-installed.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Z Locks

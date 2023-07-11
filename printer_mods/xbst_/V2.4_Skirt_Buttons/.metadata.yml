@@ -1,0 +1,13 @@
+cad:
+- Buttons/CAD.f3d
+description: Skirt mod for custom Gcode macro buttons
+discord_username: xbst_
+images:
+- Pictures/4.jpg
+- Pictures/2.jpg
+- Pictures/3.jpg
+- Pictures/1.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: V2.4 Skirt Buttons

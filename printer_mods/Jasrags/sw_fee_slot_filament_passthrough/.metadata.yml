@@ -1,0 +1,16 @@
+cad:
+- CAD/Feed_Slot_v7.f3d
+- CAD/Feed_Slot_v7.step
+description: A feed slot with a filament pass-through
+discord_username: Jasrags
+images:
+- images/Mounted_1.png
+- images/CAD_offset_profile.png
+- images/Mounted_2.png
+- images/CAD_front_profile.png
+- images/CAD_bottom_profile.png
+- images/CAD_side_profile.png
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Feed slot with filament pass-through

@@ -1,0 +1,10 @@
+cad:
+- STEP/V0_1_Back_Panel_v7.step
+description: Vented 2 piece back panel for V0
+discord_username: Polar-Ted
+images:
+- Images/PXL_20220621_145343681.jpg
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.1 Two Piece Back Panel
