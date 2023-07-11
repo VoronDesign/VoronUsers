@@ -16,5 +16,5 @@ images:
 - Images/Hotend-Mount-Copperhead-Screw-Mount-3010-Fan.png
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: Mini-After-LGX-Lite

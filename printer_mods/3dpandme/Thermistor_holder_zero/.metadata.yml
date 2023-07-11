@@ -6,7 +6,7 @@ images:
 - installed.png
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 - VSW
-- Trident
+- VT
 title: Thermistor holder zero

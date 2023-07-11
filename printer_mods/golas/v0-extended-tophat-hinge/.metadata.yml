@@ -9,5 +9,5 @@ images:
 - images/v01-remixed-render.png
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: V0.1 Extended tophat hinge

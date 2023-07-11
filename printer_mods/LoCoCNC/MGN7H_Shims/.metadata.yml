@@ -3,5 +3,5 @@ description: Shims for making bearing cartridges coplanar
 images: []
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: MGN7H Shims

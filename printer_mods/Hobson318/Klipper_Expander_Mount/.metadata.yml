@@ -8,9 +8,9 @@ images:
 - Images/Mount_Side.jpg
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 - V1.8
 - V2.4
 - VSW
-- Trident
+- VT
 title: Klipper Expander Mount

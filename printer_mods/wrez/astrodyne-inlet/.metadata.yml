@@ -13,5 +13,5 @@ images:
 - images/disassembled.jpg
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: V0 Alternate IEC 320 C14 Power Inlet Housing

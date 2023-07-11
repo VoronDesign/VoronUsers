@@ -8,5 +8,5 @@ images:
 - images/mains_wago_v0_1.jpeg
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: v0 Power Wagos

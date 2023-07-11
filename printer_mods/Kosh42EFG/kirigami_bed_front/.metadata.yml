@@ -4,5 +4,5 @@ description: Printed bed front for kirigami folded metal bed mount with Voron lo
 images: []
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: Kirigami bed front

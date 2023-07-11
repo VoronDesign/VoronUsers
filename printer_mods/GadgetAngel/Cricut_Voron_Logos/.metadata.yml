@@ -109,8 +109,8 @@ images:
 - Voron_Trident/1ColorLayerWOWOSil/.svg_files_diff_Panels/Trident_250_SVG_Files/Trident_DLogo_250_deck.svg
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 - V2.4
 - VSW
-- Trident
+- VT
 title: Cricut Voron Logos

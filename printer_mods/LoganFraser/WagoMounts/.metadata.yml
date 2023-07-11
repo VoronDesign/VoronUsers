@@ -11,5 +11,5 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VSW
-- Trident
+- VT
 title: WagoMounts

@@ -8,5 +8,5 @@ images:
 - images/v0_bed_wagos_4x.png
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: v0 Wago Bed Mounts

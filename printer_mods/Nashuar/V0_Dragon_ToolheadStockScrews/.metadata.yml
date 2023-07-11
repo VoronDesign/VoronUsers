@@ -3,5 +3,5 @@ description: This toolhead uses the stock M2.5 screw that came with the dragon h
 images: []
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: V0 Dragon Toolhead M2.5x8

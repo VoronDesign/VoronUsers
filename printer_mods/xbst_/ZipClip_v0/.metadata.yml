@@ -3,5 +3,5 @@ description: Very simple ziptie mount for v0 1515 extrusions
 images: []
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: ZipClip V0

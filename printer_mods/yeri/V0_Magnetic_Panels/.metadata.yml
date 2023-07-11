@@ -4,5 +4,5 @@ description: Mount V0 panels with magnets, removes need for hinges and lets you 
 images: []
 mod_version: 1
 printer_compatibility:
-- V0
+- V0.2
 title: V0 Magnetic Panels
