@@ -1,4 +1,6 @@
-cad: []
+cad:
+- CAD/OrangePi_Bracket.STEP
+- CAD/OrangePi_Bracket.SLDPRT
 description: A DIN rail mount for OrangePi LTS 3
 images: []
 mod_version: 1

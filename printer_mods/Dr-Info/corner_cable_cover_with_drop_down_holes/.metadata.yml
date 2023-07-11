@@ -9,7 +9,13 @@ cad:
 - CAD/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_right_rev01.f3d
 description: Corner cable cover around Z-idler with drop holes near z frame and cutouts
   for inline wiring from 2020 extrustions
-images: []
+images:
+- Images/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_left_right_installed.JPG
+- Images/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_right.JPG
+- Images/top_corner_cable_cover_with_drop_holes_installed.JPG
+- Images/top_corner_cable_cover_with_drop_holes_front.JPG
+- Images/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_left.JPG
+- Images/top_corner_cable_cover_with_drop_holes_bottom.JPG
 mod_version: 1
 printer_compatibility:
 - V2.4

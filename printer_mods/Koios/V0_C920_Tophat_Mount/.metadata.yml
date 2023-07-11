@@ -1,4 +1,7 @@
-cad: []
+cad:
+- STEPs/v0_920_mount.STEP
+- STEPs/Cable_Clip_Tophat_x2.STEP
+- STEPs/Cable_Clip_Tophat_Corner_x2.STEP
 description: Mounting bracket for a Logitech C920 on the tophat
 images:
 - Images/Cable_Routing.jpg

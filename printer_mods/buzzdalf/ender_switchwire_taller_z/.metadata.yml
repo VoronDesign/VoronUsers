@@ -6,6 +6,8 @@ cad:
 - CAD/right_rear.f3d
 description: Taller Z Mod
 images:
+- IMAGES/tall_z_front.PNG
+- IMAGES/tall_z_rear.PNG
 - IMAGES/picture.jpg
 mod_version: 1
 printer_compatibility:

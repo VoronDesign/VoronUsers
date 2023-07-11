@@ -3,6 +3,7 @@ cad:
 - CAD/VoronSSD1306FrontScreen.step
 description: SSD1306 Mount replacement for Mini12864
 images:
+- images/render.PNG
 - images/printed.jpg
 mod_version: 1
 printer_compatibility:

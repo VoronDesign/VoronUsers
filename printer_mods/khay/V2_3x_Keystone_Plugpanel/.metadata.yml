@@ -2,6 +2,7 @@ cad: []
 description: PlugPanel with Options for 3 Keystones
 images:
 - Img/Plug_Panel_CAD.png
+- Img/DSC_3253.JPG
 mod_version: 1
 printer_compatibility:
 - V2.4

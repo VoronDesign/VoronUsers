@@ -1,4 +1,5 @@
-cad: []
+cad:
+- CAD/Tool_free_tensioner.STEP
 description: Tool-free tensioner for Z-Axis
 images:
 - Images/Tool_free_tensioner_1.png

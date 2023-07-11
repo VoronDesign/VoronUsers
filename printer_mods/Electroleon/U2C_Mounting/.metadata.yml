@@ -1,4 +1,5 @@
-cad: []
+cad:
+- CAD/U2C_Mounting_Universal.STEP
 description: Bigtreetech U2C CAN Interface mounting bracket
 images:
 - Images/U2C_Mounted.jpg

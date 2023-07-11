@@ -1,6 +1,7 @@
 cad: []
 description: Modified version of Trident RPi bracket to fit the smaller RPi Zero
-images: []
+images:
+- image/Rendering.JPG
 mod_version: 1
 printer_compatibility:
 - V0.2

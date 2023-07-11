@@ -1,6 +1,9 @@
-cad: []
+cad:
+- CAD/4.3_fly_screen_mount_assembly.STEP
+- CAD/4.3_fly_screen_mount.STEP
 description: A mount for a 4.3" Fly Screen
-images: []
+images:
+- Images/4.3_fly_screen_mount_assembly.JPG
 mod_version: 1
 printer_compatibility:
 - V0.2

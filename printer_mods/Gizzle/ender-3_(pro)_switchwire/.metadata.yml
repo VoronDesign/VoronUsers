@@ -2,7 +2,13 @@ cad:
 - CAD/Ender3SW v2.f3d
 description: Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and
   most other parts of the Voron Switchwire.
-images: []
+images:
+- IMAGES/BOTTOM.PNG
+- IMAGES/LEFT.PNG
+- IMAGES/General.PNG
+- IMAGES/BACK.PNG
+- IMAGES/RIGHT.PNG
+- IMAGES/FRONT.PNG
 mod_version: 1
 printer_compatibility:
 - VSW

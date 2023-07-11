@@ -4,7 +4,14 @@ cad:
 description: Conversion to a belted Z axis for the V0.1 adapted from theFPVGeek's
   mod for the V0.0
 images:
+- Images/ZBelt-ISO-03.PNG
+- Images/ZBelt-ISO-02.PNG
+- Images/ZBelt-ISO-01.PNG
+- Images/m3nut_check_1.PNG
+- Images/ZBelt-ISO-04.PNG
+- Images/m3nut_check_2.PNG
 - Images/ZBelt-Support-01.png
+- Images/mid_panel.JPG
 - Images/belt-tight.jpg
 mod_version: 1
 printer_compatibility:

@@ -1,4 +1,11 @@
-cad: []
+cad:
+- CAD/LCD_RearCover.STEP
+- CAD/LCD_Hinge.STEP
+- CAD/LCD_Accent.STEP
+- CAD/LCD_Assembly.STEP
+- CAD/LCD_Front.STEP
+- CAD/Mini12864_LCD_Screen.STEP
+- CAD/Alternative_base_(No_Heatset_Inserts)/LCD_Front_holes.STEP
 description: Swiveling case for the Fysetc Mini12864 LCD
 images:
 - Images/LCD_SwivelDown.jpg

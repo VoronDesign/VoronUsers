@@ -1,4 +1,5 @@
 cad:
+- CAD/handle.FCStd
 - CAD/handle.step
 description: Handle for Voron 2.4
 images:
