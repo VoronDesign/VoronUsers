@@ -4,7 +4,6 @@ cad:
 - CAD/Mantis_MGN12_Rapido_and Rapido_UHF.step
 - CAD/Mantis_MGN9_v1.0a.step
 description: MGN12 Dual 5015 Toolhead for 2.4 & 1.8
-discord_username: Long
 images:
 - images/readme_cfd_crazy_volcano.png
 - images/carriage_assembly_mgn9_front.jpg

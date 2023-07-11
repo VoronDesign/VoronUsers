@@ -2,7 +2,6 @@ cad:
 - CAD/Mini-After-LGX-lite.step
 - CAD/Z_Bed_adjustable_Y_offset.step
 description: LGX Lite Toolhead Setup For Voron V0.1.
-discord_username: Bondtech
 images:
 - Images/PTFE-Cutting-Jig.jpg
 - Images/Hotend-Mount-Mosquito-3010-Fan.png

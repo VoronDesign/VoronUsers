@@ -2,7 +2,6 @@ cad:
 - jig.f3d
 - jig.step
 description: A jig help align extrusions to get a properly square frame
-discord_username: claytono
 images:
 - image.png
 mod_version: 1

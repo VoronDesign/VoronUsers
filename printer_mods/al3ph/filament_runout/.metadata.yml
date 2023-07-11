@@ -1,6 +1,5 @@
 cad: []
 description: A simple filament runout sensor
-discord_username: al3ph
 images:
 - images/front.jpeg
 - images/in_use.jpeg

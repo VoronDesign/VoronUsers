@@ -1,7 +1,6 @@
 cad: []
 description: Changes the gearing for the AB drives to improve both resolution and
   torque, with a strenthened frame.
-discord_username: Badnoob
 images:
 - ABcloseup.jpg
 - reduction_overview.jpg

@@ -8,7 +8,6 @@ cad:
 - CAD/Angry_CAM_Top_Mount.step
 description: Housing for small USB camera module, allowing mounting to gantry or frame
   profiles
-discord_username: chri.kai.in
 images:
 - Images/AngryCAM_USB_JST_SH_Connector.png
 - Images/ov5648_5mp_usb_camera_a.png

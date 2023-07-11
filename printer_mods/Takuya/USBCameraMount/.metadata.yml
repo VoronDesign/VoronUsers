@@ -2,7 +2,6 @@ cad:
 - VoronCamMount.step
 - VoronCamMount.f3d
 description: WANSVIEW 1080p Camera Mount for Voron 2.4
-discord_username: TAKUYA
 images:
 - Screenshot_4.jpg
 mod_version: 1

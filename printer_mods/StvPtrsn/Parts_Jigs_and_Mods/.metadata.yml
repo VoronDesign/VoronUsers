@@ -12,7 +12,6 @@ cad:
 - Parts/VHB_ZipTie_Anchor.step
 - Parts/6-pin_microfit_skirt_insert.step
 description: Parts, Jigs and modifications I use for my builds
-discord_username: StvPtrsn
 images: []
 mod_version: 1
 printer_compatibility:

@@ -1,7 +1,6 @@
 cad:
 - CAD/v0_direct_drive.step
 description: A direct drive mod for the V0 using the Annex Sherpa Mini extruder
-discord_username: kirby
 images: []
 mod_version: 1
 printer_compatibility:

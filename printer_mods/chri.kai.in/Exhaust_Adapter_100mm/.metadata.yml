@@ -1,7 +1,6 @@
 cad:
 - CAD/VORON2_v2.4_Exhaust_Adapter_100mm_RC3.step
 description: Replace 60mm exhaust fan with 100mm ventilation system adapter
-discord_username: chri.kai.in
 images:
 - Images/Exhaust_Adapter_sideview.png
 - Images/Exhaust_Adapter_ISO_rendered_bright.png

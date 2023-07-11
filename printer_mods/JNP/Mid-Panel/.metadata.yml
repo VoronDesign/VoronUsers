@@ -2,7 +2,6 @@ cad:
 - CAD/Mid_Panel_with_cablemanagement.step
 - CAD/Mid_Panel.step
 description: Panel for SKR1.4/1.4 or SKR E3 mini mount
-discord_username: JNP
 images:
 - Images/2.jpg
 - Images/1.jpg

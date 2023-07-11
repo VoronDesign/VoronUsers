@@ -1,7 +1,6 @@
 cad:
 - CAD/extrusion_thermistor_holder.step
 description: Extrusion mount for a NTC100K Thermistor extrusion
-discord_username: samwiseg0
 images:
 - Images/extrusion_thermistor_holder.png
 mod_version: 1

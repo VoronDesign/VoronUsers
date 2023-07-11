@@ -3,7 +3,6 @@ cad:
 - CAD/270-Clamping-Hinge.step
 description: Simple 270 degree hinges that clamp to the front panels instead of using
   VHB or drilled holes
-discord_username: AlexanderT-Moss
 images:
 - Images/270-Clamping-Hinges-Assembly.gif
 - Images/IMG_0310.png

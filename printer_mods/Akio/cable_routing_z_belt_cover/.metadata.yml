@@ -2,7 +2,6 @@ cad:
 - cad/cable_routing_z_belt_cover_a_mod.step
 - cad/cable_routing_z_belt_cover_b_mod.step
 description: Z belt covers that allow hidden cable routing.
-discord_username: Akio
 images:
 - img/cable_routing_z_belt_cover_mod_img_0.png
 - img/cable_routing_z_belt_cover_mod_img_1.png

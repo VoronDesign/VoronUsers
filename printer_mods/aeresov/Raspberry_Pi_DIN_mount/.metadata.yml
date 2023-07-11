@@ -1,7 +1,6 @@
 cad:
 - CAD/RPi_DIN_mount.f3d
 description: A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or across.
-discord_username: aeresov
 images:
 - images/photo_railed.png
 - images/db.png

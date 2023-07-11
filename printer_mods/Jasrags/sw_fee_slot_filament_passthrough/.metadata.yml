@@ -2,7 +2,6 @@ cad:
 - CAD/Feed_Slot_v7.f3d
 - CAD/Feed_Slot_v7.step
 description: A feed slot with a filament pass-through
-discord_username: Jasrags
 images:
 - images/Mounted_1.png
 - images/CAD_offset_profile.png

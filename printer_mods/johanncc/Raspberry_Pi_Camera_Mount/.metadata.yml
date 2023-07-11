@@ -1,7 +1,6 @@
 cad:
 - CAD/Raspberry_Pi_Camera_Mount.step
 description: Low profile raspberry pi camera mount
-discord_username: johanncc
 images:
 - Images/img03.jpg
 - Images/img02.png

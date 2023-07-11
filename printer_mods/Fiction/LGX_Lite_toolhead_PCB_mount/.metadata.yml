@@ -1,7 +1,6 @@
 cad:
 - CAD/LGX_toolhead_PCB_mount_assembly.step
 description: Mount for Hartk's toolhead PCB(s) for LGX Lite
-discord_username: Fiction
 images:
 - Images/LGX_Lite_toolhead_PCB_mount_photo_01.jpg
 - Images/github_download.png

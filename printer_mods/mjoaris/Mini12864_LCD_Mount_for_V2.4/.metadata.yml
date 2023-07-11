@@ -1,6 +1,5 @@
 cad: []
 description: Swiveling case for the Fysetc Mini12864 LCD
-discord_username: mjoaris
 images:
 - Images/LCD_SwivelDown.jpg
 - Images/LCD_BackCover.jpg

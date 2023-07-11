@@ -9,7 +9,6 @@ cad:
 - CAD/side_fan_support_x2_M3.f3d
 - CAD/[a]_60mm_fan_grill_b.step
 description: Mount the 60mm side fans and inserts without tape
-discord_username: StvPtrsn
 images:
 - Images/no_grill_M3.jpg
 - Images/no_grill.jpg

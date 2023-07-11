@@ -1,6 +1,5 @@
 cad: []
 description: Simple mod to mount the SKR Pro board from BTT to a DIN rails.
-discord_username: MrBean66
 images:
 - SKR_PRO_Example.png
 mod_version: 1

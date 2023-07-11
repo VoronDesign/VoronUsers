@@ -2,7 +2,6 @@ cad:
 - CAD/VoronBlankingBackPlate-v15.f3d
 description: Back blanking plate that can be used instead of the exhaust filter housing
   if you are using something like a nevermore filter instead.
-discord_username: richardjm
 images:
 - Images/Inside.jpg
 - Images/Outside.jpg

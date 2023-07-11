@@ -3,7 +3,6 @@ description: For any cutting machines or machines that rely on vector graphics a
   use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron
   2.4, Voron SwitchWire, Voron 0.0/0.1. and Trident These .svg files use a minimal
   amount of anchor points to achieve the vector shapes!
-discord_username: GadgetAngel
 images:
 - VSWL/1ColorLayerWOLogoWOSil/VSWRearPWOWOSilBackP.jpg
 - VSWL/1ColorLayerWOLogoWOSil/VSWRearPWOWOSil.jpg

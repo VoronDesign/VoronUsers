@@ -2,7 +2,6 @@ cad:
 - CAD/V02-28Waveshare.f3d
 - CAD/V02-28Waveshare.step
 description: 2.8 Waveshare display for V0.2
-discord_username: hartk1213
 images:
 - Images/WaveshareSkirtMount.png
 - Images/2.png

@@ -3,7 +3,6 @@ cad:
 - dti-mount.step
 description: A toolhead mount for a dial test indicator, where the tip is located
   at the nozzle.
-discord_username: arkeet
 images:
 - images/photo.jpg
 - images/render.png

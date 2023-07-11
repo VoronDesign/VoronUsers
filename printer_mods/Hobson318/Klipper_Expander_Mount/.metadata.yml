@@ -3,7 +3,6 @@ cad:
 - STM32_Klipper_Expander_No_Holes_v2.step
 description: Mounting brackets for the klipper expander using vhb tape or mounting
   screws
-discord_username: hobson318
 images:
 - Images/Mount_Top.jpg
 - Images/Mount_Side.jpg

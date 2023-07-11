@@ -2,7 +2,6 @@ cad:
 - CAD/270-Hinge-Parametric.step
 - CAD/270-Hinge-Parametric.f3d
 description: "Hinges that have 270\xB0 of swivel, parametric CAD included"
-discord_username: chrisrgonzales
 images:
 - Images/installed-180.jpg
 - Images/FacePlate_width.jpg

@@ -1,7 +1,6 @@
 cad:
 - CAD/MiniSB_LGXL_V2.step
 description: A Bondtech LGX Lite variant of the MiniSB
-discord_username: Maverick
 images:
 - Images/MiniSB_LGXL_1.png
 - Images/MiniSB_LGXL_3.png

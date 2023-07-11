@@ -1,7 +1,6 @@
 cad: []
 description: A camera mount that replaces the OEM part to allow the camera to be mounted
   to a 2020 extrusion
-discord_username: Rhastlyn
 images:
 - Images/HardwareInstalled.jpg
 - Images/CameraMountingHardware_Arrows.png

@@ -1,7 +1,6 @@
 cad:
 - cad/SB_CRTouchMod.step
 description: Voron SW StealthBurner CR Touch Mod
-discord_username: prasadp4009
 images:
 - images/SB_CR_FullView.png
 - images/SB_CR_Exploded.png

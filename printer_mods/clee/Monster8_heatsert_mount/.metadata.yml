@@ -1,7 +1,6 @@
 cad:
 - Monster8_DIN_clip.step
 description: DIN mount for Makerbase Monster8 V1/V2 controller
-discord_username: clee
 images:
 - slicer.png
 - example.jpg

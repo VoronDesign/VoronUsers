@@ -1,7 +1,6 @@
 cad:
 - CAD/Filament_Runout_Housing.f3d
 description: Filament runout sensor that replaces the stock bowden retainer
-discord_username: bobbleheed
 images:
 - IMAGES/Switch_Cross_Section.png
 - IMAGES/Internal_Assembly.png

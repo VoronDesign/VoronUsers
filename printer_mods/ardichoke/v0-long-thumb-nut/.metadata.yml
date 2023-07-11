@@ -1,7 +1,6 @@
 cad:
 - CAD/bed_thumb_nut.step
 description: Taller thumb nuts for V0 bed
-discord_username: ardichoke
 images:
 - images/installed.jpg
 - images/part.jpg

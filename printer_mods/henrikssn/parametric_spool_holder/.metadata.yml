@@ -1,7 +1,6 @@
 cad:
 - Parametric_Spool_Holder_v4.f3d
 description: Spool holder where the length is a parameter.
-discord_username: henrikssn
 images: []
 mod_version: 1
 printer_compatibility:

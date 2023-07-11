@@ -2,7 +2,6 @@ cad:
 - CAD/TipTophat.step
 description: Alternative Tophat design that uses stock panels and raises height by
   30mm
-discord_username: chirpy
 images:
 - images/heatinserts.jpg
 - images/doorhingefit.jpg

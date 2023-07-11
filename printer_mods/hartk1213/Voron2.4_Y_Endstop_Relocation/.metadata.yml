@@ -3,7 +3,6 @@ cad:
 - CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_with_endstop_pinned.step
 - CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_with_endstop.step
 description: This mod relocates the Y endstop to the top A drive piece
-discord_username: hartk1213
 images:
 - Images/4.png
 - Images/2.png

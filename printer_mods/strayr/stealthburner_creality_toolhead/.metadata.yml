@@ -1,7 +1,6 @@
 cad:
 - cad/Stealthburner_Printhead_Creality.step
 description: Use a creality ender 3 style hotend with stealthburner
-discord_username: strayr
 images:
 - img/pneumatic_coupler.jpg
 - img/mk8_heater_position.png

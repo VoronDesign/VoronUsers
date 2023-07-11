@@ -1,7 +1,6 @@
 cad:
 - Buttons/CAD.f3d
 description: Mod to mount custom Gcode macro buttons & Waveshare 1.3" OLED display
-discord_username: xbst_
 images:
 - Pi.png
 mod_version: 1

@@ -1,7 +1,6 @@
 cad:
 - cad/Chain_Anchor_-_IGUS_v9.step
 description: A ADXL345 mount for the Afterburner
-discord_username: padok
 images:
 - img/IMG_04.jpg
 - img/IMG_05.jpg

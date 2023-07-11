@@ -1,7 +1,6 @@
 cad:
 - Fysetc_S6_V2_Mount.step
 description: DIN Mount for the Fysetc S6 V2 controller
-discord_username: claytono
 images:
 - render.png
 mod_version: 1

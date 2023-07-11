@@ -4,7 +4,6 @@ cad:
 - CAD/plug_panel_filtered_mains_keystone.f3d
 - CAD/plug_panel_filtered_mains_keystone.step
 description: Add a keystone jack to your filtered mains plug panel
-discord_username: StvPtrsn
 images:
 - Images/rear.jpg
 mod_version: 1

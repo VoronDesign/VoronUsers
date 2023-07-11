@@ -1,7 +1,6 @@
 cad:
 - CAD/esp8266_nodemcu_din_mount_universal.step
 description: Din mount for ESP8266 NodeMCU
-discord_username: samwiseg0
 images:
 - Images/esp8266_nodemcu_din_mount_2.png
 - Images/esp8266_nodemcu_din_mount.png

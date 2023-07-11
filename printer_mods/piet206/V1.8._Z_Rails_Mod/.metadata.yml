@@ -3,7 +3,6 @@ cad:
 - cad/250LeadScrewBlock.step
 - cad/ZMotorMount.step
 description: Add MGN12H linear rails for Z axis motion
-discord_username: piet206
 images:
 - isoview1.png
 mod_version: 1

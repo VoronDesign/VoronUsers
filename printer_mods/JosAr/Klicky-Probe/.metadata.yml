@@ -1,7 +1,6 @@
 cad:
 - CAD/Voron_KlickyProbe_v2_v56.step
 description: Microswitch based inductive probe replacement
-discord_username: JosAr
 images:
 - Printers/v0/Photos/klicky_v0.jpg
 - Printers/v0/Photos/V0_dock.jpg

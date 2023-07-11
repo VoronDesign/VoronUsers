@@ -1,6 +1,5 @@
 cad: []
 description: A simple safety guard for the terminals on a Crydom GN SSR
-discord_username: evandepol
 images:
 - Images/guard.png
 - Images/installed.jpg

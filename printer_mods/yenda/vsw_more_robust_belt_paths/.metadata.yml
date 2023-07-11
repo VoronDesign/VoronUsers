@@ -4,7 +4,6 @@ cad:
 - cad/upper_xz v6.f3d
 description: Small mods to belt routing components to ensure a better/more robust
   alignment
-discord_username: Yenda
 images:
 - images/upper_xz.png
 - images/install_upper_xz_blocks.jpg

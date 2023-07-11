@@ -1,7 +1,6 @@
 cad:
 - CAD/cable_tie_DIN_mount.f3d
 description: A bracket for cable ties to route cables across DIN rails.
-discord_username: aeresov
 images:
 - images/photo_railed.png
 - images/db.png

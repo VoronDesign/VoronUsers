@@ -2,7 +2,6 @@ cad:
 - cad/plug_panel_generic_combo.f3d
 description: Skirt power panel for generic amazon plug/switch/fuse combo module, with
   2 keystone sockets
-discord_username: JeremyRuhland
 images:
 - img/plug_panel.jpg
 - img/AC19A10-G8.jpg

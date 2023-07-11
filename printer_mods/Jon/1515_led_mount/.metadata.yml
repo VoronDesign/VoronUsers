@@ -2,7 +2,6 @@ cad:
 - CAD/v0_1515_led_diffuser_assembly.f3d
 - CAD/v0_1515_led_diffuser_assembly.step
 description: Snap in 1515 Led mount for WS2812B
-discord_username: Jon
 images:
 - IMG/colors.jpg
 - IMG/led_strip.jpg

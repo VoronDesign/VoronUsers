@@ -3,7 +3,6 @@ cad:
 - 10mm_strip_mount_full_with_channel.step
 - 10mm_strip_mount_full.step
 description: Basic LED mounts for 10 and 12mm strips
-discord_username: Nomsplease
 images:
 - Images/lighting.jpg
 mod_version: 1

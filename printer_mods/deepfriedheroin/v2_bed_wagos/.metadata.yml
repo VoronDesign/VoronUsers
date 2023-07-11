@@ -2,7 +2,6 @@ cad:
 - cad/v2_bed_wago.f3d
 - cad/v2_bed_wago.step
 description: Wire management for the v2 bed
-discord_username: deepfriedheroin
 images:
 - images/IMG_6724.jpeg
 - images/confusing_wiring_diagram.png

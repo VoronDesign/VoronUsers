@@ -1,7 +1,6 @@
 cad:
 - CAD/MKS_Mosfet_Mount.step
 description: MKS Mosfet Mount based of the Trident Raspberry Pi Mount.
-discord_username: mikepthomas
 images:
 - Images/MKS_Mosfet.png
 - Images/MKS_Mosfet_Mount.png

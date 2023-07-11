@@ -1,7 +1,6 @@
 cad:
 - cad/slenderfan.step
 description: Lighter, quieter, smaller Afterburner
-discord_username: warriorofwire
 images:
 - images/render.png
 - images/printer.png

@@ -4,7 +4,6 @@ cad:
 - STEPs/Voron_Panel_Trim_250mm.step
 description: Clip-on frame to stiffen and seal front door panels when using modified
   hinges.
-discord_username: scanlory
 images:
 - Images/door_latch.jpg
 - Images/right_door.jpg

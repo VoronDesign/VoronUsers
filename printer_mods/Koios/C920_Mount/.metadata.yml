@@ -1,7 +1,6 @@
 cad:
 - STEPs/C920_Top_Front_Mount.step
 description: Low profile mount for a C920 Webcam
-discord_username: Koios
 images:
 - Images/FoV.png
 - Images/MountingPosition.jpg

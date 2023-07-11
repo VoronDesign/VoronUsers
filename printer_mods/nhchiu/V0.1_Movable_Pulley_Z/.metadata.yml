@@ -3,7 +3,6 @@ cad:
 - CAD/Pulley_Z_Drive.step
 description: A movable pulley system on the Z axis with 1:8 total speed ratio for
   V0.1
-discord_username: nhchiu
 images:
 - Images/M4.png
 - Images/Img.png

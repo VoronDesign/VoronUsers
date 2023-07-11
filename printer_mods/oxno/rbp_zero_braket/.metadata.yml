@@ -1,6 +1,5 @@
 cad: []
 description: Bracket for Raspberry pi zero.
-discord_username: oxno
 images:
 - rbp_bracket_front.png
 - rbp_bracket_back.png

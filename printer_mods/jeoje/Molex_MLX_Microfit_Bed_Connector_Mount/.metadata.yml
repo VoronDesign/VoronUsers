@@ -1,7 +1,6 @@
 cad:
 - CAD/MLX_MF3_Connector_Mount.step
 description: Solid mount your bed connectors
-discord_username: jeoje
 images:
 - images/MLX_MF3_Render.png
 - images/photo4.jpg

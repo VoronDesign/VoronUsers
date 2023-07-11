@@ -1,7 +1,6 @@
 cad: []
 description: V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail
   on the back of the 1515 extrusion.
-discord_username: MikesMods
 images:
 - LGX_0_1.png
 - LGX_0_2.png

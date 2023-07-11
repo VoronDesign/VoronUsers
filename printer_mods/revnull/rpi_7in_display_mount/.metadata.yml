@@ -1,6 +1,5 @@
 cad: []
 description: An articulating mount for the offical Raspberry Pi 7inch touch screen
-discord_username: revnull
 images:
 - Images/display_vertical.jpg
 - Images/cable_vertical.jpg

@@ -3,7 +3,6 @@ cad:
 - CAD/ADXL345-Carriage-Adafruit-v45.f3d
 description: Permanent mount for ADXL boards on the back of the motor, replacing the
   drag chain mount.
-discord_username: richardjm
 images:
 - Images/TheDamage.jpg
 - Images/Clearance.jpg

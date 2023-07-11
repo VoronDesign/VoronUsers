@@ -1,7 +1,6 @@
 cad:
 - CAD/Short_Z_Joints.step
 description: Shorter Z joints for the v2.4
-discord_username: Ellis
 images:
 - Images/Side-By-Side.png
 - Images/Side-By-Side-Cross-Section.png

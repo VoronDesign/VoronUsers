@@ -2,7 +2,6 @@ cad:
 - CAD/Tophat-with-Extractor.step
 description: Tophat Extractor for the Voron V0.1 with activated charcoal and HEPA
   filter
-discord_username: iblue
 images:
 - img/drawing1.png
 - img/drawing3.png

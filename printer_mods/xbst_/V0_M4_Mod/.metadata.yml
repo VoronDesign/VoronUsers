@@ -1,6 +1,5 @@
 cad: []
 description: Mod to mount a M4 extruder to a Voron 0 where pocketwatch extruder mounts
-discord_username: xbst_
 images:
 - example.jpg
 mod_version: 1

@@ -2,7 +2,6 @@ cad:
 - MagnetFrontPanel.f3d
 - MagnetFrontPanel.step
 description: Mount your front panel using only magnets
-discord_username: Xceled
 images:
 - Images/CoverMagnetMount.png
 - Images/RailMagnetMount.png

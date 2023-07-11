@@ -2,7 +2,6 @@ cad:
 - CAD/Voron_v2.4_Waveshare_4.3inch_DSI_LCD_Mount.step
 description: Mounts a [Waveshare 4.3inch Capacitive Touch Display](https://www.waveshare.com/4.3inch-dsi-lcd.htm)
   to v2.4 and Switchwire Vorons
-discord_username: jeoje
 images:
 - images/Mounted_1.jpg
 - images/CAD_offset_profile.png

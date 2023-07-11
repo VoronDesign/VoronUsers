@@ -1,7 +1,6 @@
 cad:
 - KiCad/LED_WS2812_2020.step
 description: A small RGB LED grid for Stealthburner's logo
-discord_username: VinnyCordeiro
 images:
 - IMG_2805.gif
 mod_version: 1

@@ -1,6 +1,5 @@
 cad: []
 description: Safely capture your bed wires thru the bottom panel
-discord_username: LoCoCNC
 images:
 - images/elec_bay_side.jpg
 - images/chamber_side.jpg

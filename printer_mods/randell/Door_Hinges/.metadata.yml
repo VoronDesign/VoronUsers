@@ -2,7 +2,6 @@ cad:
 - Hinges.f3d
 - Hinges.step
 description: Door hinges that use an M3 bolt for a pin and bolts thru the panel
-discord_username: randell
 images:
 - Images/image_2.png
 - Images/photo_1.jpg

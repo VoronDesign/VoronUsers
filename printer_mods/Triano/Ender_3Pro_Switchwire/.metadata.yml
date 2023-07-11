@@ -1,7 +1,6 @@
 cad:
 - CAD/Ender_3_Pro_Switchwire_v15.step
 description: Convesion of an Ender 3 Pro or V2 to a Switchwire
-discord_username: Triano
 images:
 - Images/Bottom.png
 - Images/SN049.jpg

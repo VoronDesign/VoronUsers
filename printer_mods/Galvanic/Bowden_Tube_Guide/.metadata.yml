@@ -1,7 +1,6 @@
 cad:
 - CAD/Bowden_Guide.step
 description: Bowden tube guide and CANBUS wire support
-discord_username: Galvanic
 images:
 - IMAGES/Tube1.jpg
 - IMAGES/chirpy.jpg

@@ -1,7 +1,6 @@
 cad:
 - CAD/V2_SexBolt_Z_Endstop.step
 description: This mod replaces stock V2 Z endstop with a different style
-discord_username: hartk1213
 images:
 - Images/8.png
 - Images/9.png

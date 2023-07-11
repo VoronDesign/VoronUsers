@@ -1,6 +1,5 @@
 cad: []
 description: Adapter to use a metal DIN mount for the BTT 24V UPS
-discord_username: Oakman
 images:
 - BTT_UPS_24V_DIN.jpeg
 mod_version: 1

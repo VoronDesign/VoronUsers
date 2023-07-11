@@ -1,7 +1,6 @@
 cad:
 - CAD/RefillPlease_v20.f3d
 description: Replace the 2.4 stock bowden tube holder and add a filament runout sensor
-discord_username: JD
 images:
 - images/refillplease.png
 - images/lever.png

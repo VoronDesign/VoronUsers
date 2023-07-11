@@ -2,7 +2,6 @@ cad:
 - CAD/Magnetic_Panel_Midspan_Clips_6mm.f3d
 - CAD/Magnetic_Panel_Corner_Clips_6mm.f3d
 description: Magnetic clips to allow for easy removal and installation of panels
-discord_username: bobbleheed
 images:
 - IMAGES/Mount_Assembly.png
 - IMAGES/Final_Assembly.png

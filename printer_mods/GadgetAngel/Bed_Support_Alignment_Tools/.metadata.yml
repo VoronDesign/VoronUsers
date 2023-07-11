@@ -5,7 +5,6 @@ description: The bed support alignment tools will assist in helping align the "b
   corners of the Voron Printer's frame the "bed support extrusions" will butt up against
   these tools so that you can screw the "bed support extrusions" down to the printer's
   frame in the correct position.
-discord_username: GadgetAngel
 images:
 - images/Bed_Suport_Alignment_Tools_each_pointed_out.jpg
 - images/Bed_Support_Alignment_Tools.jpg

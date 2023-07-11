@@ -3,7 +3,6 @@ cad:
 - CAD/Rapido_AB_4020_2.step
 - CAD/RevoVoron_AB_4020.step
 description: Improved Dragon and Rapido toolhead for stock Afterburner with 4020 fan
-discord_username: Badnoob
 images: []
 mod_version: 1
 printer_compatibility:

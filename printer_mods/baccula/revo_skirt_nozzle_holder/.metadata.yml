@@ -3,7 +3,6 @@ cad:
 - CAD/revo_nozzle_holder.f3d
 description: A remix of Andre's design allowing for skirt storage of 4 E3D Revo nozzles
   in the skirt of your 350mm v2.4.
-discord_username: baccula
 images:
 - Images/print_open.jpg
 - Images/iso_open.png

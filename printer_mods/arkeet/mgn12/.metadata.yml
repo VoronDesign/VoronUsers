@@ -1,7 +1,6 @@
 cad:
 - CAD/V2.4_MGN12.step
 description: Replaces the dual MGN9H rails with a single MGN12H.
-discord_username: arkeet
 images:
 - Images/carriage.png
 - Images/x_axis.png

@@ -2,7 +2,6 @@ cad:
 - CAD/MagneticExhaustGrillCover.f3d
 - CAD/MagneticExhaustGrillCover.step
 description: A magnetic cover to seal the filtered exhaust
-discord_username: falo
 images:
 - Images/render_back.png
 - Images/render_front.png

@@ -2,7 +2,6 @@ cad:
 - STEP/Stealthburner_Printhead_Crazy_Mozzie.step
 description: Toolhead for Crazy Mozzie HF, compatible with Stealthburner and Clockwork
   2
-discord_username: gauravmm
 images:
 - images/pic2.jpg
 - images/render.png

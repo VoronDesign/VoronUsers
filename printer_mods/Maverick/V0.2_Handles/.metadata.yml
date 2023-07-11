@@ -1,7 +1,6 @@
 cad:
 - CAD/V0.2_Handle.step
 description: Add handles to the extrusion tophat
-discord_username: Maverick
 images:
 - Images/Handle_2.png
 - Images/Handle_3.png

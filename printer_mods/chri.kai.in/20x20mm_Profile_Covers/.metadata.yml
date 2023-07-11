@@ -3,7 +3,6 @@ cad:
 - CAD/2020_Stealth_Profile_Cover.step
 description: Provide overlapping and flush slot covers for 20x20mm slot6 construction
   profiles
-discord_username: chri.kai.in
 images:
 - Images/SuperSlicer_Defining_Exact_Profile_Length.png
 - Images/SuperSlicer_Deactivating_Linked_Scaling.png

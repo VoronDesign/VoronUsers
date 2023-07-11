@@ -1,6 +1,5 @@
 cad: []
 description: relay-mount for 2x 2 channel relay modules.
-discord_username: 42bios
 images:
 - relay_mount_printed.jpeg
 - relay_mount2.png

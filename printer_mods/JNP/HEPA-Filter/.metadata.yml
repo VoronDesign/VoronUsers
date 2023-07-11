@@ -3,7 +3,6 @@ cad:
 - CAD/Fan Mounting.step
 - CAD/HEPA_Filter.step
 description: "Filter case with fan\xB4s"
-discord_username: JNP
 images:
 - Images/1.jpg
 mod_version: 1

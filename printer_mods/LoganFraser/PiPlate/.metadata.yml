@@ -2,7 +2,6 @@ cad:
 - PiPlate_v16.f3d
 - PiPlate_v16.step
 description: PiPlate - Raspberry Pi3,4 mounting plate and Skirt Mod for V2.4/Trident
-discord_username: LoganFraser
 images:
 - PiPlate2.jpg
 - PiPlate.jpg

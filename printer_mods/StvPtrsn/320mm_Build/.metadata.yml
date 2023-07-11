@@ -3,7 +3,6 @@ cad:
 - CAD/front_rear_skirt_ab_320_x2.step
 - CAD/side_skirt_ab_320_x2.step
 description: Skirts for a 320mm build
-discord_username: StvPtrsn
 images:
 - Images/side.jpg
 - Images/rear.jpg

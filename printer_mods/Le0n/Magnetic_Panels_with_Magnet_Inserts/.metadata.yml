@@ -2,7 +2,6 @@ cad:
 - CAD/Magnetic_Panels_with_Magnet_Inserts_v1.step
 - CAD/Magnetic_Panels_with_Magnet_Inserts_v2.step
 description: Magnetic panel mounts with magnets inserted into frame slots.
-discord_username: Le0n
 images:
 - Images/magnetic-panel-and-inserts-5-full-install.png
 - Images/magnetic-panel-and-inserts-1-magnet-insert.png

@@ -2,7 +2,6 @@ cad:
 - CAD/voron_enderwire_v1.03.f3d
 description: A conversion mod for the ender 3 to switchwire. Designed to allow for
   enclosure and uses original ender 3 motors and switches
-discord_username: UltraWaffles
 images:
 - Images/Fusion360_icWbvkmAlb.png
 mod_version: 1

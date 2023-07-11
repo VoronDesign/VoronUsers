@@ -3,7 +3,6 @@ cad:
 - CAD/plug_panel_schurter.f3d
 description: A modified plug panel for Voron 2.4r1 with Schurter CD44.1101.151 power
   entry modul. The panel has a LAN socket as well.
-discord_username: jatson
 images:
 - images/panel_printed.jpg
 - images/Schurter-CD14.1101.151.jpg

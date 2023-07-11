@@ -2,7 +2,6 @@ cad:
 - CAD/Voron0_PowerInlet .f3d
 description: Added a new Power inlet that uses a Fused C14 plug and switch that covers
   the mains contacts
-discord_username: hartk1213
 images:
 - Images/2.jpg
 - Images/3.jpg

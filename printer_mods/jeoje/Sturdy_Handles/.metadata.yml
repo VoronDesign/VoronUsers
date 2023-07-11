@@ -2,7 +2,6 @@ cad:
 - CAD/sturdy_handles.step
 - CAD/sturdy_handles.f3d
 description: Modified v2.2 handles with no panel rest and with 4 anchor points
-discord_username: jeoje
 images:
 - images/side_profile.png
 - images/offset_profile.png

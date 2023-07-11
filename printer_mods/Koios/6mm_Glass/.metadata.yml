@@ -3,7 +3,6 @@ cad:
 - STEPs/Lock_Pin_A_x2.step
 - STEPs/Lock_Pin_B_x2.step
 description: Lock levers and rests for 6mm Tempered glass panels
-discord_username: Koios
 images:
 - Images/Glass.jpg
 mod_version: 1

@@ -5,7 +5,6 @@ cad:
 - STEP/spider_bracket_vertical_terminal.step
 - STEP/spider.spacer.step
 description: DIN rail mount for FYSETC Spider
-discord_username: hoschi
 images:
 - IMG/spacer.jpg
 - IMG/bracket.jpg

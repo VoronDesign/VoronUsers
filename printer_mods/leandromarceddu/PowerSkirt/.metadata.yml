@@ -2,7 +2,6 @@ cad:
 - cad/PowerSkirt.step
 - cad/PowerSkirt.f3d
 description: Modified skirtpiece for a digital power monitor
-discord_username: leandromarceddu
 images:
 - img/PowerSkirt.jpg
 mod_version: 1

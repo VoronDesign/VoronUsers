@@ -6,7 +6,6 @@ cad:
 - 1515_SnapIn_Makerbeam.step
 - 1515_SnapIn_LDO.step
 description: Mounts for Wago 221 to screw or clip-in on 1515 extrusions
-discord_username: BlueBear
 images:
 - images/PrintOrientation.jpg
 - images/ScrewMountUsage.jpg

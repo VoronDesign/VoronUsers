@@ -1,7 +1,6 @@
 cad: []
 description: Useful information and models for using the Bondtech LGX extruder wth
   Afterburner
-discord_username: geoffreyyoung
 images:
 - images/cable_cover.jpg
 - images/lever_cover.jpg

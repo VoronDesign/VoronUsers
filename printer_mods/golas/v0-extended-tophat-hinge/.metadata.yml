@@ -1,7 +1,6 @@
 cad:
 - cad/v0.1_tophat_extended.step
 description: Extended tophat for v0.1 with hinges (integrated or screwed ones).
-discord_username: Golas
 images:
 - images/tophat-front.png
 - images/tophat_render.png

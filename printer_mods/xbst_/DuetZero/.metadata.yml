@@ -1,6 +1,5 @@
 cad: []
 description: Pi Zero mount over a Duet2 for space saving
-discord_username: xbst_
 images:
 - example.jpg
 mod_version: 1

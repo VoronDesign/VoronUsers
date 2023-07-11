@@ -1,7 +1,6 @@
 cad:
 - ESP32_bracket.step
 description: DIN rail mounting bracket for an ESP32
-discord_username: ByteChild
 images:
 - esp32_bracket.jpg
 mod_version: 1

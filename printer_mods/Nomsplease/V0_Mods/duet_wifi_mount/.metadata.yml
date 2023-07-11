@@ -1,7 +1,6 @@
 cad:
 - duet_wifi_mount.step
 description: Duet wifi mount in pocketwatch location
-discord_username: Nomsplease
 images:
 - Images/back_compartment.jpg
 - Images/closed_back.jpg

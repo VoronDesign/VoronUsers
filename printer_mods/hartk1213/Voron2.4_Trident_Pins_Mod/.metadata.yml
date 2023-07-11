@@ -12,7 +12,6 @@ cad:
 - CAD/Gantry/AB_Drive_Units/b_drive_frame_upper_pinned.step
 description: This mod replaces all the M5 screws for all idlers/pulleys/bearings with
   5mm pins
-discord_username: hartk1213
 images:
 - Images/z.jpg
 - Images/4.png

@@ -1,7 +1,6 @@
 cad:
 - cad/2020-Wago_221-412_tray-5x2.step
 description: Smaller 5 port Wago mount that fits parallel to the support rails
-discord_username: Boingomw
 images:
 - images/5x2_front_view.png
 - images/5x2_back_view.png

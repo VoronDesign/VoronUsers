@@ -2,7 +2,6 @@ cad:
 - cad/v0_3x3_wago v2.f3d
 - cad/v0_3x3_wago v2.step
 description: Easy to install Wago mounts for v0 mains
-discord_username: deepfriedheroin
 images:
 - images/mains_wago_v0_2.jpeg
 - images/mains_wago_v0_3.png

@@ -7,7 +7,6 @@ cad:
 - cad/NoDropNut_Rear_Ext_Rear_Center_x1.step
 - cad/NoDropNut_Rear_Ext_Front_x2.step
 description: Voron0 nut inserts which auto-align (LDO frames only)
-discord_username: zruncho
 images:
 - images/sliced.png
 - images/z_rear.jpg

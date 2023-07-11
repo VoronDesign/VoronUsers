@@ -3,7 +3,6 @@ cad:
 description: A clockwork adaptor for the Orbiter v1.5 Extruder with full integration
   into the Afterburner. Includes a filament quick release lever for simple filament
   loading and unloading.
-discord_username: spacelab2021
 images:
 - docs/images/Orbiter-Clockwork-Main.png
 - docs/images/Orbiter_Clockwork_Module-Back_Right.png

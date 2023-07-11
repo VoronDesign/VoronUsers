@@ -1,7 +1,6 @@
 cad:
 - CAD/octopus_din_bracket.step
 description: A Din rail mount for BTT Octopus board
-discord_username: sse018
 images:
 - img/octobk-00.png
 - img/octobk-01.png

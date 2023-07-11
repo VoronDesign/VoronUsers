@@ -1,7 +1,6 @@
 cad:
 - CAD/Belttool.f3d
 description: Belt tension helper for V0.1
-discord_username: MSA
 images:
 - Images/Belttool-img1.jpg
 - Images/Belttool-img3.jpg

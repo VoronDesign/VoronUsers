@@ -1,7 +1,6 @@
 cad:
 - CAD/handle.step
 description: Handle for Voron 2.4
-discord_username: 1-0-R
 images:
 - images/extrusion_with_inner_part_mounted.jpg
 - images/extrusion_with_handle.jpg

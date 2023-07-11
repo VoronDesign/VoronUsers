@@ -2,7 +2,6 @@ cad:
 - CAD/Other_Idler_V2.f3d
 - CAD/Other_Idler_V2.step
 description: Allow usage of wider toolheads on the V2
-discord_username: Phalanx
 images:
 - Images/heatset.jpg
 - Images/comparison.jpg

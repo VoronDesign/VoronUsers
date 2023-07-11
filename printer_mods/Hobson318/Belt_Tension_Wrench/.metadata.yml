@@ -1,7 +1,6 @@
 cad:
 - belt_wrench_v4.step
 description: Wrench for easier turning of the belt tension knobs on V0.1
-discord_username: hobson318
 images:
 - Images/Tool.jpg
 - Images/Tool_2.jpg

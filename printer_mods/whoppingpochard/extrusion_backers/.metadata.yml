@@ -1,6 +1,5 @@
 cad: []
 description: Laser-cut metal pieces to counteract bimetallic frame warping
-discord_username: whoppingpochard
 images:
 - images/fusion_y_backer.png
 - images/bed_mesh_comparison.png

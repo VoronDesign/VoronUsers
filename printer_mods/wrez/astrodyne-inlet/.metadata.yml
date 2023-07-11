@@ -3,7 +3,6 @@ cad:
 - CAD/power-inlet-astrodyne.step
 description: Drop in replacement for alternate-source power inlet if spec inlet is
   back-ordered
-discord_username: wrez
 images:
 - images/fuses.jpg
 - images/power-inlet-astrodyne.png

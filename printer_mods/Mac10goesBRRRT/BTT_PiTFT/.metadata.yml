@@ -3,7 +3,6 @@ cad:
 - CAD/PiTFT70_Assembly_with_Housing.step
 - CAD/display_mount.step
 description: Mount for the BTT PiTFT Touchscreen
-discord_username: Mac10goesBRRRT
 images:
 - images/PiTFT_Render.png
 - images/FFC-Routing.jpg

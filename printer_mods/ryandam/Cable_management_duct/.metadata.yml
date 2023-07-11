@@ -1,7 +1,6 @@
 cad:
 - STEP/VoronV0_CableManagementDuct.step
 description: Zip tie mount intergrated cable duct to hide your cable
-discord_username: ryandam
 images:
 - Images/VORON_V0.1_cable_management_duct_flat.png
 - Images/VORON_V0.1_cable_management_duct.png

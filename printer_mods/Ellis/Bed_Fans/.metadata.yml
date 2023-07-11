@@ -1,7 +1,6 @@
 cad:
 - 5015_Bed_Fan_Mount/5015_Bed_Fan_Mount.step
 description: Bed fan control macros and 5015 bed fan mounts
-discord_username: Ellis
 images:
 - Images/5015_mount_isolated.png
 - Images/5015_triple.png
