@@ -53,7 +53,7 @@ like so:
 |Andre|[Mini Afterburner Strain Relief](./Andre/Mini_Afterburner_Strain_Relief)|A replacement strain relief for the Mini Afterburner toolhead|:heavy_check_mark:|:x:|:x:|:x:|
 | |[V0 Neopixel Front Bed Mount](./Andre/V0_Neopixel_Front_Bed_Mount)|A replacement Front Bed Mount with room for a neopixel or dotstar behind the logo|:heavy_check_mark:|:x:|:x:|:x:|
 | |[Mini Afterburner ADXL345 Mount](./Andre/Mini_Afterburner_ADXL345_Mount)|Mount for an AXDL345 on the Mini Afterburner|:heavy_check_mark:|:x:|:x:|:x:|
-| |[Revo Nozzle Skirt](./Andre/Revo_Nozzle_Skirt_Trident)|A Revo nozzle box hidden in a Trident skirt.|:x:|:x:|:x:|:x:|:x:|:heavy_check_mark:|
+| |[Revo Nozzle Skirt](./Andre/Revo_Nozzle_Skirt_Trident)|A Revo nozzle box hidden in a Trident skirt.|:x:|:x:|:x:|:x:|:heavy_check_mark:|
 |antoinecellerier|[DS18B20 Sensor Mount](./antoinecellerier/ds18b20-sensor-mount)|DS18B20 temperature sensor mount|:heavy_check_mark:|:x:|:x:|:x:|:x:|
 | ardichoke | [V0 Long Thumb Nut](./ardichoke/v0-long-thumb-nut) | Taller thumb nuts for V0 bed | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 |arkeet|[Dial test indicator mount](./arkeet/dti-mount)|A toolhead mount for a dial test indicator, where the tip is located at the nozzle. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
