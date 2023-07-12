@@ -1,0 +1,22 @@
+cad: []
+description: Laser-cut metal pieces to counteract bimetallic frame warping
+images:
+- images/fusion_y_backer.png
+- images/bed_mesh_comparison.png
+- images/steel_1.9mm.png
+- images/backers_installed.jpeg
+- images/backers_blued.jpeg
+- images/no_backer.png
+- images/fusion_x_chainmount.png
+- images/fusion_y_chainmount.png
+- images/ti_1.5mm.png
+- images/gantry_factor_loose.png
+- images/test1_comparison.png
+- images/results/garretwp_results.png
+- images/results/v1.8_results.png
+- images/results/v2.4_results.png
+- images/results/whopping_results.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Extrusion Backers

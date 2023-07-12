@@ -1,0 +1,17 @@
+cad:
+- STEP/spider_bracket_vertical_usb.step
+- STEP/spider_bracket_horizontal_usb.step
+- STEP/spider_bracket_horizontal_terminal.step
+- STEP/spider_bracket_vertical_terminal.step
+- STEP/spider.spacer.step
+description: DIN rail mount for FYSETC Spider
+images:
+- IMG/spacer.jpg
+- IMG/bracket.jpg
+- IMG/spacers.jpg
+- IMG/main.jpg
+- IMG/horizontal.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: FYSETC Spider DIN Rail Mount

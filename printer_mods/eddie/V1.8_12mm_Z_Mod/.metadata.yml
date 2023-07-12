@@ -1,0 +1,12 @@
+cad:
+- CAD/Z_Shaft_Assembly_12mm v8.f3d
+- CAD/Z_Shaft_Assembly_12mm v8.step
+description: Add V1.8 option for 12mm Z rods
+images:
+- Images/Top_View.png
+- Images/Cross_Section.png
+- Images/12mm_Z_Mod.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+title: V1.8 12mm Z Mod

@@ -1,0 +1,10 @@
+cad:
+- VoronCamMount.step
+- VoronCamMount.f3d
+description: WANSVIEW 1080p Camera Mount for Voron 2.4
+images:
+- Screenshot_4.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: WANSVIEW USB Camera Mount

@@ -1,0 +1,10 @@
+cad: []
+description: Printable and openable 10x11mm chain
+images:
+- Pictures/10x11mm_chains_open.jpg
+- Pictures/10x11mm_chains_closed.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+- VSW
+title: 10x11mm chain VSW

@@ -1,0 +1,18 @@
+cad:
+- cad/Chain_Anchor_-_IGUS_v9.step
+description: A ADXL345 mount for the Afterburner
+images:
+- img/IMG_04.jpg
+- img/IMG_05.jpg
+- img/VORON2_v2.4_Assembly_-_Chain_Anchor_-_IGUS.png
+- img/IMG_06.jpg
+- img/IMG_02.jpg
+- img/IMG_03.jpg
+- img/IMG_01.jpg
+- img/calibration_data_x.png
+- img/calibration_data_y.png
+- img/VORON2_v2.4_Assembly_1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Chain Anchor - ADXL345 mount Mod

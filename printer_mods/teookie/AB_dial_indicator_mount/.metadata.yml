@@ -1,0 +1,12 @@
+cad:
+- AB_dial_indicator_mount.step
+description: Mount for attaching standard dial indicators to AB
+images:
+- image1.png
+- image2.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+title: AB dial indicator mount

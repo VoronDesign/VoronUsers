@@ -1,0 +1,17 @@
+cad:
+- CAD/Neopixel_Holder.step
+- CAD/Neopixel_Holder.f3d
+description: A holder to attach Neopixel/WS2812B Led Strips to the V0.1
+images:
+- Images/LedStripConnections.jpg
+- Images/BlueLight.jpg
+- Images/CircuitDiagram.png
+- Images/PinkLightMacro.jpg
+- Images/WhiteLight.jpg
+- Images/LitUpPrint.jpg
+- Images/Extrusion.jpg
+- Images/CloseUp.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: 'Neopixel Holder '

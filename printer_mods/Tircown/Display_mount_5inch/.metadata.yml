@@ -1,0 +1,11 @@
+cad: []
+description: Tiltable mount for a 5" tactile display
+images:
+- Images/Capture.JPG
+- Images/image1.jpg
+- Images/image0.jpg
+- Images/image3.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Display mount 5"

@@ -1,0 +1,15 @@
+cad:
+- CAD/AB_Turbo_Mod.step
+description: A purely cosmetic mod for Afterburner
+images:
+- Images/01.png
+- Images/03.JPG
+- Images/02.png
+- Images/04.JPG
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- VT
+title: Afterburner Turbo Mod

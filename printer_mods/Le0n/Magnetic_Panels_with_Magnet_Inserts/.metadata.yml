@@ -1,0 +1,19 @@
+cad:
+- CAD/Magnetic_Panels_with_Magnet_Inserts_v1.step
+- CAD/Magnetic_Panels_with_Magnet_Inserts_v2.step
+description: Magnetic panel mounts with magnets inserted into frame slots.
+images:
+- Images/magnetic-panel-and-inserts-5-full-install.png
+- Images/magnetic-panel-and-inserts-1-magnet-insert.png
+- Images/magnetic-panel-and-inserts-3-inserts-in-frame-2.png
+- Images/magnetic-panel-and-inserts-4-clips-underside.png
+- Images/magnetic-panel-and-inserts-0-installed-1.jpg
+- Images/magnetic-panel-and-inserts-2-inserts-in-frame-1.png
+- Images/magnetic-panel-and-inserts-0-installed-2.jpg
+- Images/magnetic-panel-and-inserts-6-jig.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VT
+title: Magnetic panels with Magnet Inserts

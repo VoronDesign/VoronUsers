@@ -1,0 +1,65 @@
+cad:
+- CAD/Rear_Cover_120+.step
+- CAD/Angry_CAM_Bottom_Mount.step
+- CAD/Angry_CAM_Front_Mount.step
+- CAD/Front_Cover.step
+- CAD/Front_Cover_120+.step
+- CAD/Rear_Cover.step
+- CAD/Angry_CAM_Top_Mount.step
+description: Housing for small USB camera module, allowing mounting to gantry or frame
+  profiles
+images:
+- Images/AngryCAM_USB_JST_SH_Connector.png
+- Images/ov5648_5mp_usb_camera_a.png
+- Images/V1/Camera_Housing_+_Mounts_rear_starboard.png
+- Images/V1/Starboard_Mount_-_Cable_Path.png
+- Images/V1/AngryCam_USB_Camera_Module.png
+- Images/V1/Rear_Cover_Drawing_TopView.png
+- Images/V1/Camera_Housing_+_Mounts_front.png
+- Images/V1/AngryCAM_USB_Mounting_Rear_Cover.png
+- Images/V1/AngryCAM_USB_Closing_the_Rear_Cover.png
+- Images/V1/Rear_Cover_TopView.png
+- Images/V1/Rear_Cover_BottomView.png
+- Images/V1/Camera_Housing_+_Mounts_rear_larboard.png
+- Images/V1/AngryCAM_USB_Mounting_Adapter_Cable.png
+- Images/V1/AngryCAM_USB_Open_Connector.png
+- Images/V1/Camera_Module_+_Mounts_Drawing.png
+- Images/V1/Camera_Housing_Cable_Path.png
+- Images/V2/Angry_CAM_Front_Mount_Above_Rendered.png
+- Images/V2/AngyCAM_USB_V2_Bottom_Mount_Cable_Path_Detail.png
+- Images/V2/AngyCAM_USB_V2_Front_Cover_120+_Front.png
+- Images/V2/AngryCAM_USB_V2_120+_FrontView_Close.jpg
+- Images/V2/AngyCAM_USB_V2_Rear_Cover_Outer_Dimensions.png
+- Images/V2/AngyCAM_USB_V2_Rear_Cover_Measurement_Details.png
+- Images/V2/AngyCAM_USB_V2_Rear_Cover_Extrusion_Details.png
+- Images/V2/AngyCAM_USB_V2_Front_Mount_Front.png
+- Images/V2/AngyCAM_USB_V2_Rear_Cover_120+_Front.png
+- Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Explosion_Above.png
+- Images/V2/AngryCAM_USB_V2_Cable_Route_Mounts.jpg
+- Images/V2/AngyCAM_USB_V2_Bottom_Mount_Front_Above.png
+- Images/V2/AngryCAM_USB_V2_Front_Cover_FrontView.png
+- Images/V2/AngryCAM_USB_V2_Bottom_Mount.png
+- Images/V2/AngryCAM_USB_V2_Rear_Cover_FrontView.png
+- Images/V2/AngryCAM_USB_V2_Housing_Shell_with_Cable_Path.png
+- Images/V2/AngyCAM_USB_V2_Bottom_Mount_Rear.png
+- Images/V2/AngyCAM_USB_V2_Bottom_Mount_Front_Below.png
+- Images/V2/AngryCAM_USB_V2_Front_Cover_RearView.png
+- Images/V2/AngryCAM_USB_V2_Bottom_Mount_with_Cable_Path.png
+- Images/V2/AngyCAM_USB_V2_Top_Mount_Front_Above.png
+- Images/V2/AngryCAM_USB_V2_Front_Mount_with_Cable_Path.png
+- Images/V2/AngryCAM_USB_V2_DePin_with_Pliers.jpg
+- Images/V2/AngryCAM_USB_V2_Front_Mount.png
+- Images/V2/AngryCAM_USB_V2_120+_FrontView.jpg
+- Images/V2/AngyCAM_USB_V2_Rear_Cover_120+_Rear.png
+- Images/V2/AngryCAM_USB_V2_Cable_Route_Shell.jpg
+- Images/V2/AngryCAM_USB_V2_Top_Mount.png
+- Images/V2/AngyCAM_USB_V2_Top_Mount_Rear.png
+- Images/V2/5MP_OV5640_Camera_Module_120_View_Angle.jpg
+- Images/V2/AngryCAM_USB_V2_120+_RearView.jpg
+- Images/V2/AngryCAM_USB_V2_Rear_Cover_RearView.png
+- Images/V2/AngyCAM_USB_V2_Bottom_Mount_Explosion_Below.png
+- Images/V2/AngyCAM_USB_V2_Front_Cover_120+_Rear.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Angry CAM USB

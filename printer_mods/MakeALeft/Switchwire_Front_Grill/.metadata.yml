@@ -1,0 +1,8 @@
+cad:
+- switchwire_front_grill.step
+description: Removed magnet holders on center panel for cleaner look
+images:
+- Images/CleanGrill.jpg
+mod_version: 1
+printer_compatibility: []
+title: Switchwire Clean Center Grill

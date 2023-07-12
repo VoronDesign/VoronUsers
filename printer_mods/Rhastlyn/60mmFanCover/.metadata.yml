@@ -1,0 +1,9 @@
+cad: []
+description: A easy to install cover for spec 60mm fans originally designed for a
+  2.4 build
+images:
+- Images/FancoverOverview.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: 60mm Fan Cover

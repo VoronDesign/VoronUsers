@@ -1,0 +1,11 @@
+cad:
+- C270_Top_Center_Mount.step
+description: Logitech C270 Top Center Mount
+images:
+- C270_Top_Center_Mount_View.jpg
+- C270_Top_Center_Mount_1.jpg
+- C270_Top_Center_Mount_2.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Logitech C270 Mount

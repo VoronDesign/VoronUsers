@@ -1,0 +1,8 @@
+cad: []
+description: Skirt with Access Holes from the bottom
+images:
+- CAD.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0.1_Skirt_Holes

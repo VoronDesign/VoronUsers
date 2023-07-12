@@ -1,0 +1,15 @@
+cad:
+- CAD/Voron_C92X_Camera_Complete.step
+- CAD/Voron_C92X_Camera_Complete.f3d
+description: 2020 Top profile 920 camera mount / 2 point axis pivot
+images:
+- Images/Camera_fit_on_profile.jpg
+- Images/Camera_front_view.jpg
+- Images/Camera_complete.jpg
+- Images/Camera_hinge_design.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VT
+title: C92X_PsycHoShafts_Mount

@@ -1,0 +1,12 @@
+cad:
+- din_rail_mount.step
+- din_rail_mount_angle_panel.step
+description: Adapter to attach DIN Rail to 2020 extrusion.
+images:
+- din_rail_mount.png
+- din_rail_mount_angle.png
+- din_rail_mount_angle_panel.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Din Rail mount

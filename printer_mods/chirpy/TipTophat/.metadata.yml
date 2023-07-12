@@ -1,0 +1,27 @@
+cad:
+- CAD/TipTophat.step
+description: Alternative Tophat design that uses stock panels and raises height by
+  30mm
+images:
+- images/heatinserts.jpg
+- images/doorhingefit.jpg
+- images/framemagnet.jpg
+- images/doorhinge.jpg
+- images/doorhandlevhb.jpg
+- images/toppanel.jpg
+- images/doorhingemount.jpg
+- images/tophatside.jpg
+- images/tophatclosed.jpg
+- images/tophatdoor.jpg
+- images/toppanelclips.jpg
+- images/doorpanel.jpg
+- images/doorhingevhb.jpg
+- images/doorhandlemagnet.jpg
+- images/doormagnet.jpg
+- images/sidepanelclips.jpg
+- images/tophatopen.jpg
+- images/doorhandlefit.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0.1 Raised Tophat

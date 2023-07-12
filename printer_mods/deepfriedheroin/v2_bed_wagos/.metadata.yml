@@ -1,0 +1,12 @@
+cad:
+- cad/v2_bed_wago.f3d
+- cad/v2_bed_wago.step
+description: Wire management for the v2 bed
+images:
+- images/IMG_6724.jpeg
+- images/confusing_wiring_diagram.png
+- images/cad_image.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: V2 Bed Wagos

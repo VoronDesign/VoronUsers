@@ -1,0 +1,11 @@
+cad:
+- CAD/Mini_Afterburner_Strain_Relief.f3d
+description: A replacement strain relief for the Mini Afterburner toolhead
+images:
+- Images/CAD_1.png
+- Images/CAD_3.png
+- Images/CAD_2.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Mini Afterburner Strain Relief

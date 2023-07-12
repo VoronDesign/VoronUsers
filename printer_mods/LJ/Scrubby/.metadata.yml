@@ -1,0 +1,17 @@
+cad:
+- Scrubby.SLDPRT
+- Scrubby.STEP
+description: Easy to use filament dust filter
+images:
+- images/built.JPG
+- images/back.PNG
+- images/front.PNG
+- images/irl.JPG
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+title: Scrubby

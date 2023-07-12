@@ -1,0 +1,17 @@
+cad:
+- CAD/Exhaust_cover_SFS.f3d
+- CAD/Exhaust_cover_SFS.step
+description: Exhaust cover and BTT Smart Filament Sensor mount
+images:
+- Images/Exhaust_cover_SFS_04.jpg
+- Images/Exhaust_cover_SFS_06.jpg
+- Images/Exhaust_cover_SFS_07.jpg
+- Images/exhaust_cover_sfs_photo_01.jpg
+- Images/SFF_wiring_02.jpg
+- Images/SFF_wiring_01.jpg
+- Images/Exhaust_cover_SFS_08.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: Exhaust_cover_SFS

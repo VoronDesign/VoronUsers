@@ -1,12 +1,11 @@
----
-title: "FANnypack zero"
-description: "Electronics cooling solution for Voron Zero"
-printer_compatibility:
-  - V0
-  - VSW
-  - VT
-images:
-  - installed.jpg
 cad:
-  - fannypack_zero.step
+- fannypack_zero.step
+description: Electronics cooling solution for Voron Zero
+images:
+- Installed.jpg
 mod_version: 1
+printer_compatibility:
+- V0.2
+- VSW
+- VT
+title: FANnypack zero

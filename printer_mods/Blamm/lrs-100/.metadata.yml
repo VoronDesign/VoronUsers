@@ -1,0 +1,9 @@
+cad: []
+description: DIN rail mount for an extra LRS-100 Power Supply
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VT
+title: LRS-100 DIN mount

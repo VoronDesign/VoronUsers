@@ -1,0 +1,12 @@
+cad:
+- CAD/MagneticExhaustGrillCover.f3d
+- CAD/MagneticExhaustGrillCover.step
+description: A magnetic cover to seal the filtered exhaust
+images:
+- Images/render_back.png
+- Images/render_front.png
+- Images/foam_install.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Magnetic Exhaust Grill Cover

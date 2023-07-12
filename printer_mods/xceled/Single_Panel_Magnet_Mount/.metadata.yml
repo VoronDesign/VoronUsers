@@ -1,0 +1,11 @@
+cad:
+- MagnetFrontPanel.f3d
+- MagnetFrontPanel.step
+description: Mount your front panel using only magnets
+images:
+- Images/CoverMagnetMount.png
+- Images/RailMagnetMount.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Single Panel Magnet Mount

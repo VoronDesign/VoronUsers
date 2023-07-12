@@ -1,0 +1,12 @@
+cad:
+- CAD/U2C_Mounting_Universal.STEP
+description: Bigtreetech U2C CAN Interface mounting bracket
+images:
+- Images/U2C_Mounted.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VT
+title: U2C Mounting

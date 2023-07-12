@@ -1,0 +1,8 @@
+cad: []
+description: Better enclose chamber and keep heat from electronics
+images:
+- Seperator.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Electronics Bay and Enclosure Seperator

@@ -1,0 +1,16 @@
+cad:
+- CAD/door-panel-holes.f3d
+- CAD/door-panel-holes.step
+- CAD/modified-door-latch.f3d
+description: Files to allow you to create laser cut door panels with some ability
+  to adjust
+images:
+- Images/save-as-dxf.png
+- Images/door-latch-installed.jpg
+- Images/door-hinge-lined-up.jpg
+- Images/door-fusion-screenshot.png
+- Images/door-hinge-installed.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Laser cut door panels

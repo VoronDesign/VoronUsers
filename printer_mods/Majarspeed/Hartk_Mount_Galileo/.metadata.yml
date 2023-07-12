@@ -1,0 +1,9 @@
+cad: []
+description: It hangs stuff on your tool
+images:
+- hbgm.jpg
+- AFB_mount.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Hartk board mount galileo

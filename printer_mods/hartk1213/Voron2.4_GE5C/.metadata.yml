@@ -1,0 +1,16 @@
+cad:
+- CAD/GE5C.step
+description: This mod replaces the stack of printed z joints with a metal spherical
+  bearing
+images:
+- Images/4.png
+- Images/5.png
+- Images/7.png
+- Images/6.png
+- Images/2.png
+- Images/3.png
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Voron2.4 GE5C

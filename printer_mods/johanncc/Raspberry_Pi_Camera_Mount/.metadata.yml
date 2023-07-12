@@ -1,0 +1,14 @@
+cad:
+- CAD/Raspberry_Pi_Camera_Mount.step
+description: Low profile raspberry pi camera mount
+images:
+- Images/img03.jpg
+- Images/img02.png
+- Images/img01.jpg
+- Images/img05.jpg
+- Images/img04.jpg
+- Images/img06.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Raspberry Pi Camera Mount

@@ -1,0 +1,10 @@
+cad:
+- CAD/Deck_Panel_Rear.step
+description: Covers the hotbed cables
+images:
+- Images/Deck_panel_Rear.jpg
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Deck Panel

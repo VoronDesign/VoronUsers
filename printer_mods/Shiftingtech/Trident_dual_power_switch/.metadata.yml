@@ -1,0 +1,10 @@
+cad:
+- CAD/Trident_dual_power_switch.step
+- CAD/Trident_dual_power_switch.f3d
+description: A replacement skirt, allowing 2 power switches
+images:
+- Images/DualSwitch.jpg
+mod_version: 1
+printer_compatibility:
+- VT
+title: Trident Dual Power Switch

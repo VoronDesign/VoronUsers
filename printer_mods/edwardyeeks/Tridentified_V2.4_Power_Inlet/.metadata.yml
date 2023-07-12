@@ -1,0 +1,10 @@
+cad: []
+description: Trident style side power inlet for V2.4 using Z Drive Motor Tensioner
+  Mod - By @Amarpal89
+images:
+- images/Model.png
+- images/db.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Tridentified V2.4 Power Inlet

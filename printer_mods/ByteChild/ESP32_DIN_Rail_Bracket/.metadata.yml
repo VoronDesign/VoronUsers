@@ -1,0 +1,9 @@
+cad:
+- ESP32_bracket.step
+description: DIN rail mounting bracket for an ESP32
+images:
+- esp32_bracket.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: ESP32 DIN Rail Bracket

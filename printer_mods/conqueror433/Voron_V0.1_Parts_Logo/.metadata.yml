@@ -1,0 +1,13 @@
+cad: []
+description: Voron Parts Logo for your V0 deck panel
+images:
+- Voron_V0_Parts_Logo.png
+- Voron_V0_Parts_Logo.jpg
+- Images/Image_2.jpg
+- Images/Image_3.jpg
+- Images/Image_1.jpg
+- Images/Image_4.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Voron V0.1 Parts Logo

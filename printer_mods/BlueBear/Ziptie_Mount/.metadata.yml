@@ -1,0 +1,12 @@
+cad:
+- 1515_SnapIn_ZipTie_Makerbeam.step
+- 1515_SnapIn_ZipTie_LDO.step
+description: Clippable Ziptie hooks for 1515 extrusions
+images:
+- images/image01.jpg
+- images/image03.jpg
+- images/image02.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Ziptie Mount
