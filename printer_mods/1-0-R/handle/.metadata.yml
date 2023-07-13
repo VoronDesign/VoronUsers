@@ -1,0 +1,20 @@
+cad:
+- CAD/handle.FCStd
+- CAD/handle.step
+description: Handle for Voron 2.4
+images:
+- images/extrusion_with_inner_part_mounted.jpg
+- images/extrusion_with_handle.jpg
+- images/handle.jpg
+- images/handle_rendering.jpg
+- images/extrusion_with_all_handle_parts.jpg
+- images/extrusion_with_tnuts.jpg
+- images/nuts_and_bolts.jpg
+- images/handle_inner_part.jpg
+- images/handle_middle_part.jpg
+- images/handle_outer_part.jpg
+- images/inner_part_with_heat_set_inserts.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: V2.4 handle

@@ -1,0 +1,13 @@
+cad:
+- STEP/ssd_bracket.step
+description: bracket for mounting a 2.5" ssd to a din rail
+images:
+- images/0354E8D1-312F-4349-B1D6-38239E54C75F.jpeg
+- images/A36AF599-317D-4D6E-8989-10924DDE9098.jpeg
+- images/06C8B63A-0E93-41D4-B6F2-A8E8CFBC5BC6.jpeg
+- images/DEF912DF-37F4-4060-8EA9-BF4894C53D85.jpeg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: ssd_bracket

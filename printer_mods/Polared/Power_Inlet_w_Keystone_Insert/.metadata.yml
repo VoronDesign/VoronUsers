@@ -1,0 +1,8 @@
+cad: []
+description: Voron 0.1 Power inlet with keystone insert slot
+images:
+- images/installed.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Power Inlet with Keystone Insert

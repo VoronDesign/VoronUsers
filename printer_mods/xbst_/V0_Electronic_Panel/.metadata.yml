@@ -1,0 +1,8 @@
+cad: []
+description: A printed cover for v0 electronics. Requires larger printer to print.
+images:
+- example.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0 Electronics Cover

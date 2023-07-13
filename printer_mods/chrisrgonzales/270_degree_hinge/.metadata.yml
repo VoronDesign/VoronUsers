@@ -1,0 +1,15 @@
+cad:
+- CAD/270-Hinge-Parametric.step
+- CAD/270-Hinge-Parametric.f3d
+description: "Hinges that have 270\xB0 of swivel, parametric CAD included"
+images:
+- Images/installed-180.jpg
+- Images/FacePlate_width.jpg
+- Images/installed-0-closed.jpg
+- Images/parts.jpg
+- Images/installed-close.jpg
+- Images/installed-270.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: "270\xB0 Front Panel Hinge"

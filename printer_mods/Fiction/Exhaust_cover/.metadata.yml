@@ -1,0 +1,14 @@
+cad:
+- CAD/Exhaust_cover.f3d
+- CAD/Exhaust_cover.step
+description: Cover for exhaust cutout in back panel
+images:
+- Images/exhaust_cover_photo_02.jpg
+- Images/exhaust_cover_photo_01.jpg
+- Images/exhaust_cover_02.png
+- Images/exhaust_cover_01.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: Exhaust_cover

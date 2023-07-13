@@ -1,0 +1,8 @@
+cad: []
+description: A simple DIN rail mount for the BOM Relay
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: DIN Mount Omron Relay

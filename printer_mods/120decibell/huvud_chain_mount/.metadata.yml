@@ -1,0 +1,13 @@
+cad:
+- STEP/huvud_chain_mount_3_hole.step
+- STEP/huvud_chain_mount_2_hole.step
+description: Huvud rear mount for Clockwork or LGX that supports a cable chain.
+images:
+- images/huvud_chain_mount.png
+- images/huvud_mount_install2.png
+- images/huvud_mount_install1.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- VT
+title: Huvud Chain Mount

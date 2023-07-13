@@ -1,0 +1,10 @@
+cad: []
+description: "Middle Skirt for V2-200mm\xB2 Electronics Compartment"
+images:
+- Img/DSC_3249.JPG
+- Img/DSC_3249_kl.jpg
+- Img/DSC_3250.JPG
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: "Fan for V2-200mm\xB2"

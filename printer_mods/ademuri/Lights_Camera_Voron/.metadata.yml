@@ -1,0 +1,10 @@
+cad: []
+description: A mount for LED strips and Picam for the V0.1
+images:
+- camera_mount_detail.jpg
+- printer_with_rails.jpg
+- camera_view.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Lights, Camera, Voron

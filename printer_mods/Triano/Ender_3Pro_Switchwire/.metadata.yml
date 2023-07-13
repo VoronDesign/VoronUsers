@@ -1,0 +1,15 @@
+cad:
+- CAD/Ender_3_Pro_Switchwire_v15.step
+description: Convesion of an Ender 3 Pro or V2 to a Switchwire
+images:
+- Images/Bottom.png
+- Images/SN049.jpg
+- Images/Home.png
+- Images/Left.png
+- Images/Top.png
+- Images/Back.png
+- Images/Right.png
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Ender 3 Pro or V2 to Switchwire Mod

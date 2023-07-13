@@ -1,0 +1,12 @@
+cad: []
+description: 'Low-poly for Stealthburner + CW1 + PCB installations:'
+images:
+- Images/cover_rear.png
+- Images/cover_front.png
+- Images/cover_installed.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+title: Stealthburner + CW1 + PCB Cover

@@ -1,0 +1,9 @@
+cad: []
+description: Connector cover for 42STH20-1004AS
+images:
+- exodius_afterburner.jpg
+- compare.png
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Afterburner connector cover for 42STH20-1004AS

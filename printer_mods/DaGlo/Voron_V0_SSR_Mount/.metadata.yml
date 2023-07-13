@@ -1,0 +1,12 @@
+cad: []
+description: Voron V0 SSR Mount for the bottom
+images:
+- Voron_V0_SSR_Mount_v5_Back.png
+- Voron_V0_SSR_Mount_Install_Step_1.jpg
+- Voron_V0_SSR_Mount_Install_Step_2.jpg
+- Voron_V0_SSR_Mount_Install_Step_3.jpg
+- Voron_V0_SSR_Mount_v5_Front.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Voron V0 SSR Mount

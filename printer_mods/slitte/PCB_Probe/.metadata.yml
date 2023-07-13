@@ -1,0 +1,11 @@
+cad: []
+description: PCB for BAT85 and pull up resistor
+images:
+- images/D5D337EA-ACC4-4DDF-B353-550F60E1EAA6.jpeg
+- images/9C41BAE9-E4E5-412E-ABDE-0C47AB14D8F3.jpeg
+- images/9FB91CEF-5DD7-4529-AA61-205C67A30F6B.jpeg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: PCB_Probe

@@ -1,0 +1,12 @@
+cad:
+- CAD/Trident_2.4_ComboInletSkirt v8.f3d
+- CAD/Trident_2.4_ComboInletSkirt v8.step
+description: Skirt pieces for Trident, 2.4 and 2.4r2 for combo inlets in 2 sizes.
+images:
+- BothInlet.png
+- ComboInlets.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: ComboInlet

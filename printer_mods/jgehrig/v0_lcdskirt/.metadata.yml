@@ -1,0 +1,22 @@
+cad:
+- CAD/LCD_Skirt_Assembly.step
+description: 3.2" LCD Touch Screen Skirt
+images:
+- images/Thumbnail_LCD_Face_Plate.png
+- images/Gallery_2.jpg
+- images/Gallery_1.jpg
+- images/Thumbnail_Skirt_Front_Left.png
+- images/Fusion_360.png
+- images/Thumbnail_Skirt_Side_A.png
+- images/Thumbnail_Skirt_Side_B.png
+- images/Thumbnail_Foot_Front.png
+- images/Thumbnail_Foot_Rear.png
+- images/Side_Skirt_B.png
+- images/Thumbnail_Skirt_Front_Right.png
+- images/Side_Skirt_A.png
+- images/Main_Image.jpg
+- images/Thumbnail_LCD_Mounting_Bracket.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0 LCD Touchscreen Skirt

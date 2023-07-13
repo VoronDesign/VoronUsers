@@ -1,0 +1,10 @@
+cad:
+- relay_bracket.step
+description: DIN Rail mounting bracket for an 2-Channel-Relay
+images:
+- relay_bracket_2.jpg
+- relay_bracket_1.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: 2-Channel Relay DIN Rail Bracket

@@ -1,0 +1,18 @@
+cad:
+- WAGO_221-412_5x2-mount.step
+- WAGO_221-412_3x2-mount_screw.step
+- WAGO_221-412_3x2-mount.step
+- WAGO_221-413_3x3-mount-screw.step
+- 1515_SnapIn_Makerbeam.step
+- 1515_SnapIn_LDO.step
+description: Mounts for Wago 221 to screw or clip-in on 1515 extrusions
+images:
+- images/PrintOrientation.jpg
+- images/ScrewMountUsage.jpg
+- images/picSnapMount3piece.jpg
+- images/Mounting.jpg
+- images/picSnapMount5piece.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Clippable Wago 221 Mounts

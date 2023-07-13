@@ -1,0 +1,11 @@
+cad:
+- CAD/octopus_din_bracket.step
+description: A Din rail mount for BTT Octopus board
+images:
+- img/octobk-00.png
+- img/octobk-01.png
+- img/octobk-02.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Octopus DIN Rail bracket

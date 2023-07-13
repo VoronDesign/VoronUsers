@@ -1,0 +1,10 @@
+cad: []
+description: "mounting for Neopixel strip with 8 LED\xB4s"
+images:
+- Images/2.jpg
+- Images/3.jpg
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Neopixel Case

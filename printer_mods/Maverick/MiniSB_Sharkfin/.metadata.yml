@@ -1,0 +1,13 @@
+cad: []
+description: Modified MiniSB to use a Sharkfin Extruder
+images:
+- Images/Sharkfin2.png
+- Images/Sharkfin1.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+title: MiniSB_Sharkfin

@@ -1,0 +1,16 @@
+cad: []
+description: Switchwie Y axis Belt Tensioner
+images:
+- Images/mod.png
+- Images/4.jpg
+- Images/asembly.png
+- Images/5.jpg
+- Images/7.jpg
+- Images/6.jpg
+- Images/2.jpg
+- Images/3.jpg
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Switchwire Y Belt Tensioner

@@ -1,0 +1,13 @@
+cad:
+- VORON_2.4_Z_Chain_3_Hole_Mounts.f3d
+description: Z chain mounts for 3 hole generic chain
+images:
+- upper_mount.jpg
+- z_chain.jpg
+- lower_mount_inserts.jpg
+- upper_mount_inserts.jpg
+- upper_mount_with_chain.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: V2.4 Z Chain Mounts for 3 Hole Chains

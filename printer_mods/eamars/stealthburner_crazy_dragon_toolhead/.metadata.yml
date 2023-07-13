@@ -1,0 +1,16 @@
+cad:
+- CAD/Stealthburner_Printhead_Crazy_Dragon.step
+description: The Stealthburner toolhead mount for Mellow Crazy, TriangleLab T-Volcano
+  and Phaetus UHF mini
+images:
+- bottom.PNG
+- cut_section.PNG
+- back.png
+- front.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- VT
+title: Stealthburner (RC1) Dragon Volcano Hotend Toolhead Mount

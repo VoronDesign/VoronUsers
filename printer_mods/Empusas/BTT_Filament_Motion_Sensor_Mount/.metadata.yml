@@ -1,0 +1,17 @@
+cad: []
+description: Mounts for Big Tree Tech Smart Filament Motion Sensor
+images:
+- SKR_2.png
+- SKRV1_4.png
+- Mount_B.png
+- Mount_A.png
+- IMG_2385.png
+- BTT_Sensor.png
+- IMG_2384.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+title: Mounts for BTT Filament Motion Sensor

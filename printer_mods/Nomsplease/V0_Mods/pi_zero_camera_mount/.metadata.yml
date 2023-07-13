@@ -1,0 +1,9 @@
+cad:
+- pi_zero_mount.step
+- camera_mount.step
+description: Mount for pi camera and ZeroW
+images: []
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Pi Cam/ZeroW Mount

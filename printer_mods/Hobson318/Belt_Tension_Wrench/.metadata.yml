@@ -1,0 +1,10 @@
+cad:
+- belt_wrench_v4.step
+description: Wrench for easier turning of the belt tension knobs on V0.1
+images:
+- Images/Tool.jpg
+- Images/Tool_2.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Belt Tension Wrench

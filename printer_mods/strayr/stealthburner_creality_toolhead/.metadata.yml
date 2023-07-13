@@ -1,0 +1,20 @@
+cad:
+- cad/Stealthburner_Printhead_Creality.step
+description: Use a creality ender 3 style hotend with stealthburner
+images:
+- img/pneumatic_coupler.jpg
+- img/mk8_heater_position.png
+- img/v6_heater_position.png
+- img/probe_cutout.png
+- img/nozzle_position.png
+- img/friction_coupler.jpg
+- img/improved_printability.png
+- img/E3_toolhead_rear.jpg
+- img/in_use.jpg
+- img/E3_toolhead_open.jpg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+title: Creality toolhead for stealthburner

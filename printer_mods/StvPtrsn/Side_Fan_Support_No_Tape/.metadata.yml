@@ -1,0 +1,27 @@
+cad:
+- CAD/[a]_60mm_fan_emptygrill.step
+- CAD/[a]_60mm_fan_grill_a.step
+- CAD/[a]_60mm_fan_grill_b_M3.step
+- CAD/side_fan_support_x2.f3d
+- CAD/[a]_60mm_fan_grill_a_M3.step
+- CAD/side_fan_support_x2.step
+- CAD/[a]_60mm_fan_emptygrill_M3.step
+- CAD/side_fan_support_x2_M3.f3d
+- CAD/[a]_60mm_fan_grill_b.step
+description: Mount the 60mm side fans and inserts without tape
+images:
+- Images/no_grill_M3.jpg
+- Images/no_grill.jpg
+- Images/side_fan_support_M3.jpg
+- Images/fan2.jpg
+- Images/insert2_M3.jpg
+- Images/fan1.jpg
+- Images/fan1_M3.jpg
+- Images/side_fan_support.jpg
+- Images/fan2_M3.jpg
+- Images/insert1.jpg
+- Images/insert2.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Side Fan Support, No Tape

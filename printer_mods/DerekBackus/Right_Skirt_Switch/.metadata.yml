@@ -1,0 +1,10 @@
+cad: []
+description: Moves power switch to right front skirt on the Trident
+images:
+- Images/Front_View.png
+- Images/Filter_Front_View.png
+- Images/ISO_View.png
+- Images/Filter_ISO_View.png
+mod_version: 1
+printer_compatibility: []
+title: Trident Right Skirt Switch

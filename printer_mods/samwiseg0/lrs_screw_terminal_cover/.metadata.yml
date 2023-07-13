@@ -1,0 +1,15 @@
+cad:
+- CAD/lrs_50_screw_terminal_cover.step
+- CAD/lrs_200_screw_terminal_cover.step
+description: Mod to cover the screw terminals for several LRS style PSUs
+images:
+- Images/lrs_200_screw_terminal_cover.png
+- Images/lrs_50_screw_terminal_cover.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+title: LRS PSU Screw Terminal Cover

@@ -1,0 +1,11 @@
+cad:
+- Trident_r2_Inverted_Electronics_v3.f3d
+- Trident_r2_Inverted_Electronics_v3.step
+description: Flip the Trident electronics bay for top access.
+images:
+- InvertedElectronics.png
+- BottomPlateInstall.gif
+mod_version: 1
+printer_compatibility:
+- VT
+title: Trident Inverted Electronics

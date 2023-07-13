@@ -1,0 +1,14 @@
+cad: []
+description: A simple filament runout sensor
+images:
+- images/front.jpeg
+- images/in_use.jpeg
+- images/inside.jpeg
+- images/back.jpeg
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+title: Filament Runout Sensor
