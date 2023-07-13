@@ -128,6 +128,7 @@ like so:
 |DerekBackus |[Trident Right Skirt Switch](DerekBackus/Right_Skirt_Switch) | Moves power switch to right front skirt on the Trident | :x: | :x: | :x: | :x: | ✔️ |
 | |[LED Strip Holder](DerekBackus/LED_Holder) | Simple bracket to mount an LED strip | :x: | :x: | ✔️ | :x: | ✔️ |
 |Derpimus |[V0.1 Block Handle](Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | :heavy_check_mark: | :x: | :x: | :x: |
+|devsfan1830| [Camera Module 3 Corner Mount](./devsfan1830/Camera_Module_3_Corner_Mount) | Simple cam mount for the V3 pi camera | :x: | :x: | ✔️ | :x: | :x: |
 |DorjeDorf | [Duet 3 6HC Din Bracket](./DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 | |[Duet 3 3HC Din Bracket](./DorjeDorf/Duet_3_3HC_Din_Bracket) |  V2.4 Duet 3 3HC Din Bracket | :x: | :x: | :heavy_check_mark: |:x:|
 |doubletrouble |[V0 Skirt Mod](./doubletrouble/V0_Skirt_Mod) |V0 Skirt Mod |:heavy_check_mark: |:x: |:x: |:x:|
