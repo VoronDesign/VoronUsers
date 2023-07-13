@@ -1,0 +1,13 @@
+cad:
+- CAD/C17-EXT-CARTRIDGE.step
+description: Alternative to a commercial cartridge for the C17-EXT filter
+images:
+- JPG/IMG_1.png
+- JPG/IMG_2.png
+- JPG/IMG_3.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VSW
+- VT
+title: C17-EXT-CARTRIDGE for C17-EXT filter

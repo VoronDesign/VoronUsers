@@ -1,0 +1,10 @@
+cad:
+- Exhast Housing Side Fitting.f3d
+description: Moves the exhaust housing bowden fitting 90 degrees to allow the printer
+  to stand closer to a wall
+images:
+- Images/1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Exhaust housing side fitting

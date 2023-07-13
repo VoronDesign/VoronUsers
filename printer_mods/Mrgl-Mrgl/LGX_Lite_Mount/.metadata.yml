@@ -1,0 +1,10 @@
+cad: []
+description: a mount for the LGX Lite
+images:
+- Lgx_Lite_Mounting.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VT
+title: LGX Lite Mount

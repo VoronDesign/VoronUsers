@@ -1,0 +1,10 @@
+cad:
+- duet_wifi_mount.step
+description: Duet wifi mount in pocketwatch location
+images:
+- Images/back_compartment.jpg
+- Images/closed_back.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Duet Wifi Mount

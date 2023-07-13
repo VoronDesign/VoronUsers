@@ -1,0 +1,11 @@
+cad:
+- CAD/v24_ab_microfit_1x4_pme.step
+- CAD/v24_ab_microfit_1x4.step
+description: Mod to mount A & B motor connectors to the gantry
+images:
+- Images/ab_microfit_1x4_pme.png
+- Images/ab_microfit_1x4_non_pme.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: AB Plug (Microfit 1x4)

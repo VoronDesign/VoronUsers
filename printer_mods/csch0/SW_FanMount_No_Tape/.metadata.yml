@@ -1,0 +1,9 @@
+cad: []
+description: 60x20 Fan Mount for SW without tape
+images:
+- Images/parts.jpg
+- Images/installed.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+title: SW Fan Mount No Tape

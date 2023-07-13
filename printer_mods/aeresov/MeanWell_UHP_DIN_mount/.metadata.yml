@@ -1,0 +1,14 @@
+cad:
+- CAD/MeanWell_UHP_DIN_mount.f3d
+description: A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it
+  across 2 DIN rails.
+images:
+- images/db.png
+- images/photo_railed_1.png
+- images/photo_railed_2.png
+- images/photo_bare_2.png
+- images/photo_bare_1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: MeanWell UHP-xxx DIN mount

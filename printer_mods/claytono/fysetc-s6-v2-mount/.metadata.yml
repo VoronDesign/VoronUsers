@@ -1,0 +1,10 @@
+cad:
+- Fysetc_S6_V2_Mount.step
+description: DIN Mount for the Fysetc S6 V2 controller
+images:
+- render.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: Fysetc S6 V2 Mount

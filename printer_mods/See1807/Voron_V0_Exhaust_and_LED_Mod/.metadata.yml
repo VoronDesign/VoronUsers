@@ -1,0 +1,18 @@
+cad:
+- CAD/Tophead_Mod_V0_v4.f3d
+description: A mount for 10mm LED strips and Exhaust for Voron V0
+images:
+- img/Foto_2.jpg
+- img/Foto_1.jpg
+- img/LED_Light_4.PNG
+- img/LED_Light_5.PNG
+- img/LED_Light_1.PNG
+- img/LED_Light_2.PNG
+- img/LED_Light_3.PNG
+- img/Konstruktion_1.PNG
+- img/Konstruktion_3.PNG
+- img/Konstruktion_2.PNG
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: TopHat Exhaust and LED Light

@@ -1,0 +1,10 @@
+cad: []
+description: Z Carriage Stop modification that makes pass through of wires for the
+  LED light bar clean and easy
+images:
+- Images/z_carriage_stop_pass_through.png
+- Images/z_carriage_stop_photo.png
+mod_version: 1
+printer_compatibility:
+- VSW
+title: Switchwire LED wire pass through

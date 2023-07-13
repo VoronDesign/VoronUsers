@@ -1,0 +1,18 @@
+cad:
+- cad/NoDropNut_15mm.step
+- cad/NoDropNut_Door_Latch_x2.step
+- cad/NoDropNut_Rear_Ext_Rear_Edge_x2.step
+- cad/NoDropNut_Side_Ext_Side_x2.step
+- cad/NoDropNut_12mm.step
+- cad/NoDropNut_Rear_Ext_Rear_Center_x1.step
+- cad/NoDropNut_Rear_Ext_Front_x2.step
+description: Voron0 nut inserts which auto-align (LDO frames only)
+images:
+- images/sliced.png
+- images/z_rear.jpg
+- images/z_inside_corner.jpg
+- images/z_drive_all.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0 No-Drop Nuts

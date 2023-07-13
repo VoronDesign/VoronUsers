@@ -1,0 +1,9 @@
+cad: []
+description: Adapter to use a metal DIN mount for the BTT 24V UPS
+images:
+- BTT_UPS_24V_DIN.jpeg
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: BTT 24V UPS Metal DIN Mount

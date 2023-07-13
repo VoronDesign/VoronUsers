@@ -1,0 +1,13 @@
+cad:
+- CAD/V2.4_MGN12.step
+description: Replaces the dual MGN9H rails with a single MGN12H.
+images:
+- Images/carriage.png
+- Images/x_axis.png
+- Images/photo.jpg
+- Images/carriage_assembly.png
+- Images/carriage_mounting.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: MGN12 X-axis

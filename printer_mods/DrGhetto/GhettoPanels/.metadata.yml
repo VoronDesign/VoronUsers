@@ -1,0 +1,9 @@
+cad: []
+description: Printed panels for the Voron Zero
+images:
+- images/db.png
+- images/ghettopanels.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Ghetto Panels

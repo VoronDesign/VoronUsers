@@ -1,0 +1,16 @@
+cad: []
+description: Use Nova Hotend with Afterburner
+images:
+- images/IMG_7034.jpg
+- images/IMG_7036.jpg
+- images/IMG_7083.jpg
+- images/printhead_rear-1.png
+- images/IMG_7079.jpg
+- images/printhead_rear-3.png
+- images/printhead_rear-2.png
+- images/printhead_front-1.png
+- images/printhead_front-2.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Nova Printhead

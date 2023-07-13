@@ -1,0 +1,18 @@
+cad:
+- cad/motor_mounts v1.f3d
+- cad/xz blocks v3.f3d
+- cad/upper_xz v6.f3d
+description: Small mods to belt routing components to ensure a better/more robust
+  alignment
+images:
+- images/upper_xz.png
+- images/install_upper_xz_blocks.jpg
+- images/motor_cage.png
+- images/xz_blocks.png
+- images/install_cage_a.jpg
+- images/install_cage_b.jpg
+- images/install_xz_blocks.jpg
+mod_version: 1
+printer_compatibility:
+- VSW
+title: SW More Robust XZ Belt Paths

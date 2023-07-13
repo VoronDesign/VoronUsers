@@ -1,0 +1,13 @@
+cad:
+- Deck_Panel_with_Logo.step
+- Deck_Panel_no_Logo.step
+description: Electronics Deck Panel using brass heat inserts. Optional with accent
+  color Voron Logo.
+images:
+- pictures/deck.png
+- pictures/logo.png
+- pictures/populated.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0 Printed Deck with inserts

@@ -1,0 +1,7 @@
+cad: []
+description: A mount for 10mm LED WS2812 strips
+images: []
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: LED Mount

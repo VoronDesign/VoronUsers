@@ -1,0 +1,9 @@
+cad:
+- CAD/4channel_relay_under_deck_mount.step
+description: Mod to mount a 4 channel GPIO controlled relay
+images:
+- Images/4channel_relay_under_deck_mount.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: 4 Channel Relay Under Deck Mount

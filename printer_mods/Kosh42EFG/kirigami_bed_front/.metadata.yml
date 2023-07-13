@@ -1,0 +1,8 @@
+cad:
+- CAD/Front_Bed_Mount.f3d
+description: Printed bed front for kirigami folded metal bed mount with Voron logo.
+images: []
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Kirigami bed front

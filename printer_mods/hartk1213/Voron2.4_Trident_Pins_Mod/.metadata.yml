@@ -1,0 +1,30 @@
+cad:
+- CAD/Z_Idlers/z_Idler_pinned.step
+- CAD/Gantry/V24R2_Gantry_PinsMod.step
+- CAD/Gantry/TridentR1_Gantry_PinsMod.step
+- CAD/Gantry/Front_Idlers/[a]_tensioner_right_pinned.step
+- CAD/Gantry/Front_Idlers/[a]_tensioner_left_pinned.step
+- CAD/Gantry/X_Axis/XY_Joints/xy_joint_right_pinned.step
+- CAD/Gantry/X_Axis/XY_Joints/xy_joint_left_pinned.step
+- CAD/Gantry/AB_Drive_Units/a_drive_frame_upper_pinned.step
+- CAD/Gantry/AB_Drive_Units/a_drive_frame_lower_pinned.step
+- CAD/Gantry/AB_Drive_Units/b_drive_frame_lower_pinned.step
+- CAD/Gantry/AB_Drive_Units/b_drive_frame_upper_pinned.step
+description: This mod replaces all the M5 screws for all idlers/pulleys/bearings with
+  5mm pins
+images:
+- Images/z.jpg
+- Images/4.png
+- Images/2.jpg
+- Images/2.png
+- Images/3.png
+- Images/1.jpg
+- Images/ADrive/4.png
+- Images/ADrive/2.png
+- Images/ADrive/3.png
+- Images/ADrive/1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: Voron2.4 and Trident Pins Mod

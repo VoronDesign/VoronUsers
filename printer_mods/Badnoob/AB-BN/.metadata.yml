@@ -1,0 +1,20 @@
+cad:
+- AB-BN-30_Assy.f3d
+- AB_BN_30.step
+description: Improved Afterburner with 5015 fan
+images:
+- fans_wires.png
+- wirestorage.png
+- ModifiedFan.png
+- overview.png
+- AB-BN-28.png
+- RapidoStickout.png
+- fanspacer.png
+- fanspring.png
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+- VSW
+- VT
+title: AB-BN Afterburner mod (5015)

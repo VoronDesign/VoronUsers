@@ -1,0 +1,12 @@
+cad: []
+description: Minimalistic backplate for cooler motors and electronics
+images:
+- img/DSC_2960.JPG
+- img/DSC_2959.jpg
+- img/Slicer_pic.png
+- img/CAD_pic.jpg
+- img/DSC_2957.JPG
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0 Micro Backplate

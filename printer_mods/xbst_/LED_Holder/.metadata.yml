@@ -1,0 +1,9 @@
+cad: []
+description: Very simple mount for some (?) PCB LED Bars
+images:
+- example.JPG
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: PCB LED Holder

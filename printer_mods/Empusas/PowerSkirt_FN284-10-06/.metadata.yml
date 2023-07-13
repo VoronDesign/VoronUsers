@@ -1,0 +1,10 @@
+cad: []
+description: Power Skirt for Schaffner FN284-10-06 V2.x
+images:
+- Screen_Shot_FN284_2.png
+- Screen_Shot_FN284_3.png
+- Screen_Shot_FN284_1.png
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Power Skirt 2.x FN284-10-06

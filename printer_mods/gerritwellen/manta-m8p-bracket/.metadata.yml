@@ -1,0 +1,9 @@
+cad:
+- Manta-M8P_Bracket.step
+description: Mounting Bracket for BTT Manta M8P
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: Manta M8P Mount

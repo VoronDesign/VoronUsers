@@ -1,0 +1,13 @@
+cad:
+- CAD/extrusion_thermistor_holder.step
+description: Extrusion mount for a NTC100K Thermistor extrusion
+images:
+- Images/extrusion_thermistor_holder.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+title: Extrusion/Chamber Thermistor Mount

@@ -1,0 +1,9 @@
+cad:
+- KVP5lb_holder.step
+description: Larger spool holders for KVP spools
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.8
+- V2.4
+title: Large Spool Holders

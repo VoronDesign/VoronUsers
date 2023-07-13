@@ -1,0 +1,15 @@
+cad:
+- CAD/MiniSB_LGXL_V2.step
+description: A Bondtech LGX Lite variant of the MiniSB
+images:
+- Images/MiniSB_LGXL_1.png
+- Images/MiniSB_LGXL_3.png
+- Images/MiniSB_LGXL_2.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+- V1.8
+- V2.4
+- VSW
+- VT
+title: MiniSB_LGXL

@@ -1,0 +1,10 @@
+cad:
+- cad/SB_CRTouchMod.step
+description: Voron SW StealthBurner CR Touch Mod
+images:
+- images/SB_CR_FullView.png
+- images/SB_CR_Exploded.png
+mod_version: 1
+printer_compatibility:
+- VSW
+title: StealthBurner CR Touch Mod

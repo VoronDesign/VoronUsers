@@ -1,0 +1,13 @@
+cad:
+- CAD/2.4r2_mgn9_backer.step
+description: New idler uppers for MGN9 Extrusion backers
+images:
+- IMAGES/Updated_Cable_Bridge.jpg
+- IMAGES/Cad_Photo.jpg
+- IMAGES/Installation.jpg
+- IMAGES/Cad_Photo_2.jpg
+- IMAGES/Installed.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: MGN9 Backers Idlers

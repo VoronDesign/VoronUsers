@@ -1,0 +1,11 @@
+cad:
+- CAD/led_mount_clippable.step
+description: LED Case light for the V0 that clips into the extrusions
+images:
+- images/slicer_brim.jpg
+- images/printer_installed.jpg
+- images/cob_led.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: V0 Clippable LED Caselight

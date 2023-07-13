@@ -1,0 +1,16 @@
+cad:
+- CAD/Other_Idler_V2.f3d
+- CAD/Other_Idler_V2.step
+description: Allow usage of wider toolheads on the V2
+images:
+- Images/filekey.JPG
+- Images/heatset.jpg
+- Images/printset.JPG
+- Images/comparison.jpg
+- Images/Installed2.jpg
+- Images/Installed.jpg
+- Images/front.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: '"Other" Idlers Mod'

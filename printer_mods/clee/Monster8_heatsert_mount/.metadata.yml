@@ -1,0 +1,11 @@
+cad:
+- Monster8_DIN_clip.step
+description: DIN mount for Makerbase Monster8 V1/V2 controller
+images:
+- slicer.png
+- example.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+title: Monster8 DIN Rail Mounts

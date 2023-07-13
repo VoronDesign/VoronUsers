@@ -1,0 +1,12 @@
+cad:
+- cad/v0_bed_wagos.step
+- cad/v0_bed_wagos.f3d
+description: Easy to install Wago mounts for the v0
+images:
+- images/v0_bed_wagos_2x.png
+- images/v0_bed_wagos_side_4x.png
+- images/v0_bed_wagos_4x.png
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: v0 Wago Bed Mounts
