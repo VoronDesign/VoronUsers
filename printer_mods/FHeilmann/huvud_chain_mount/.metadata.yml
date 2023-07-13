@@ -4,6 +4,7 @@ description: "This mod does awesome things with awesome printers!"
 printer_compatibility:
   - V1.8
   - VT
+  - V2.4r2
 images:
   - images/huvud_chain_mount.png
   - images/huvud_mount_install1.png

@@ -3,38 +3,42 @@ run-name: "#${{github.event.number}} - ${{github.event.pull_request.title}}"
 on:
   pull_request:
     types: [opened, reopened, synchronize]
-
+concurrency:
+  group: ${{ github.ref }}
+  cancel-in-progress: true
+permissions:
+  pull-requests: write
 jobs:
   checkout_check_whitespace:
-    permissions:
-      pull-requests: read
     name: Checkout & Check Whitespace
-    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@v1
+    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@v2
     with:
       branch: ${{ github.ref }}
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
   setup_python:
+    needs: [checkout_check_whitespace]
     name: Prepare python environment
-    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@v1
+    if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
+    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@v2
     with:
       apt-packages: "admesh, libadmesh-dev"
-      pip-packages: "admesh pyyaml imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
+      pip-packages: "admesh imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
       python-cache-key: voronusers-python-cache
   check_stls:
     name: Check STL corruption
-    needs: [checkout_check_whitespace, setup_python]
+    needs: [setup_python]
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@v1
+    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@v2
     with:
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
       python-cache-key: voronusers-python-cache
   check_stl_rotation:
     name: Check STL rotation
-    needs: [checkout_check_whitespace, setup_python]
+    needs: [setup_python]
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@v1
+    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@v2
     secrets:
     # ToDo: Change to secrets: inherit once it's in the VoronDesign org
       IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY }}
@@ -46,22 +50,30 @@ jobs:
       python-cache-key: voronusers-python-cache
   validate_metadata:
     name: Check metadata files
-    needs: [checkout_check_whitespace, setup_python]
+    needs: [checkout_check_whitespace]
     if: ${{ needs.checkout_check_whitespace.outputs.yaml == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@v1
+    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@v2
     with:
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
-      python-cache-key: voronusers-python-cache
   preview_readme:
     name: Preview README.md
     needs: [validate_metadata]
-    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@v1
+    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@v2
     with:
       subdirectory: printer_mods
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
-      python-cache-key: voronusers-python-cache
+  create_pro_comment:
+    name: Create PR comment
+    needs: [checkout_check_whitespace, check_stls, check_stl_rotation, validate_metadata, preview_readme]
+    if: ${{ always() }}
+    uses: VoronDesign/.github/.github/workflows/generate-pr-comment.yml@v2
+    with:
+      repository: ${{ github.repository }}
+      action_run_id: ${{ github.run_id }}
+
+
   # check_files:
   #   name: Check files
   #   needs: [validate_metadata]
