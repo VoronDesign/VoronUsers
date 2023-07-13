@@ -49,7 +49,7 @@ Doing so speeds up the review process and will increase your chances at acceptan
       - Legacy
     cad: # required: At least 1 CAD file for your mod, path relative to your mod folder
       - CAD/my_step_file_1.step
-      - CAD/my_f360_file_1.f360
+      - CAD/my_f360_file_1.f3d
     images: # optional, image files provided with your mod, path relative to your mod folder
       - images/mods_site_card_image.png
       - images/side_view.png
@@ -69,5 +69,5 @@ Doing so speeds up the review process and will increase your chances at acceptan
     the model must include break-away supports.
   * [ ] Submitted STL files are **not corrupt**. *(This can be tested by opening the STL in PrusaSlicer
     and checking if mesh errors are reported.)*
-  * [ ] Submissions **must** include a CAD file in the form of a `.STEP`, `.F360` or `.SCAD` file
+  * [ ] Submissions **must** include a CAD file in the form of a `.STEP`, `.F3D` or `.SCAD` file
   * [ ] Submitted firmware configs or slicer profiles **contain no sensitive data** (e.g. API keys).
