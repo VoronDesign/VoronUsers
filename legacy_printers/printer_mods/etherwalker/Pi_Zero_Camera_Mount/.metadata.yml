@@ -1,0 +1,10 @@
+cad:
+- PiCamMount350.f3d
+- PiCamMount350.step
+- PiZeroMount.f3d
+- PiZeroMount.step
+description: Pi Zero Camera Mount
+images: []
+mod_version: 1
+printer_compatibility: []
+title: Pi Zero Camera Mount

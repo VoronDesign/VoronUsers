@@ -1,0 +1,12 @@
+cad:
+- led_mount_v3.step
+description: Mount for 12V LED bars to the top extrusions
+images:
+- led_bar.jpg
+- led_mount.jpg
+- led_mount_F360_screenshot.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: LED Bar Mount

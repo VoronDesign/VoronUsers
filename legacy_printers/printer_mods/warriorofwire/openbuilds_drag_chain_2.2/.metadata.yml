@@ -1,0 +1,11 @@
+cad:
+- 2.2_cable_chain_v26.step
+description: Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting
+  wires down to the deck
+images:
+- images/2.2.png
+- images/2.2_render.png
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: Openbuilds Drag Chain 2.2

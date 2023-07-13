@@ -1,0 +1,11 @@
+cad:
+- Duet_Fan_Bracket.f3d
+description: Duet/Duex fan mount with air vents directly above the steppers to increase
+  airflow
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Duet Fan Mount

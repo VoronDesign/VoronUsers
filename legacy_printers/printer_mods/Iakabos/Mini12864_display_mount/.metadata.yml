@@ -1,0 +1,9 @@
+cad: []
+description: Case and mounting arms for a Fysetc Mini12864 display
+images:
+- Display_mount.png
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Mini12864 Display Mount

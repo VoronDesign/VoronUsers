@@ -1,0 +1,11 @@
+cad: []
+description: Upgraded knob for Fystec Mini 12864 RGB LED Display
+images:
+- knobdark.jpg
+- knoblight.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Mini 12864 Voron Knob

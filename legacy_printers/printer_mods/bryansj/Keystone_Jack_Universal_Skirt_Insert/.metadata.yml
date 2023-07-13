@@ -1,0 +1,12 @@
+cad: []
+description: Keystone Jack Insert to fit into any hexagonal hole in the skirt
+images:
+- Keystone_Jack1.jpg
+- Keystone_Jack2.jpg
+- Keystone_Jack3.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Keystone Jack Universal Skirt Insert

@@ -1,0 +1,8 @@
+cad: []
+description: Duet Maestro mount for V2.2
+images:
+- duet_maestro_holder.PNG
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: Duet Maestro mount for Voron 2.2

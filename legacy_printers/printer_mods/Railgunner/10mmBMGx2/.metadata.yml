@@ -1,0 +1,7 @@
+cad: []
+description: Dual direct drive using 2x Bondtech BMG
+images:
+- Dual_BMG_Extruder.png
+mod_version: 1
+printer_compatibility: []
+title: Dual Direct Drive X Carriage

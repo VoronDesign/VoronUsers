@@ -1,0 +1,13 @@
+cad:
+- 10x11 Chain Bottom Anchor.step
+- 10x11 Chain Top Anchor.step
+- 10x15 Chain Bottom Anchor.step
+- 10x15 Chain Top Anchor.step
+description: Cable chain ends to use off the shelf chains with Voron parts
+images:
+- 10x15-cable-chain.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Openbuild chain ends

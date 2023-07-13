@@ -1,0 +1,10 @@
+cad:
+- mains_plug_panel_with_rj45.step
+description: Mains plug panel with ethernet cutout
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Mains Plug Panel with RJ45

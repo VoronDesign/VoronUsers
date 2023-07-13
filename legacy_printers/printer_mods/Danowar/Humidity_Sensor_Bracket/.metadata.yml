@@ -1,0 +1,11 @@
+cad:
+- Humidity Sensor Bracket.f3d
+description: Mount for Humidity/Temperature sensor
+images:
+- 20191018_215704.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Humidity Sensor Bracket

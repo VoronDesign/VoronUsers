@@ -1,0 +1,13 @@
+cad: []
+description: Alternative fumes extraction solution
+images:
+- img/assembly_bottom.jpg
+- img/assembly_top.jpg
+- img/explode.png
+- img/installed.jpg
+- img/turbocharger.png
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Turbocharger

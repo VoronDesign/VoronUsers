@@ -1,0 +1,10 @@
+cad: []
+description: End Z mounts for 10x15 Befenybay Drag Chain
+images:
+- 10x15_Chain_Lower_Z_Mount.png
+- 10x15_Chain_Upper_Z_Mount.png
+- 10x15_Z_Mounts.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: 10x15 Chain Z Mounts

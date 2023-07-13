@@ -1,0 +1,13 @@
+cad:
+- CoverFor5inchLCD.f3d
+description: Display Cover for the Waveshare 5 inch HDMI LCD screen
+images:
+- front.jpg
+- side.jpg
+- top.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Waveshare 5 Inch LCD Cover

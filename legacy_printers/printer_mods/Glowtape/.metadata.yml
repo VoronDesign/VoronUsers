@@ -1,0 +1,11 @@
+cad:
+- STEP/MKS_GenL_v1.0_Bracket_A.step
+- STEP/MKS_GenL_v1.0_Bracket_B.step
+description: MKS GenL 1.0 Mounting Bracket
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: MKS GenL 1.0 Mounting Bracket

@@ -1,0 +1,10 @@
+cad: []
+description: Relay module (4 channel) mount
+images:
+- bracket.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Relay module bracket

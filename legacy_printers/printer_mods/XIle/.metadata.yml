@@ -1,0 +1,7 @@
+cad: []
+description: Supports a umbilical setup, on AB, taking the strain off connectors
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: AfterBurner Umbilical

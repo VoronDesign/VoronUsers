@@ -1,0 +1,10 @@
+cad:
+- Indicator Mount.STEP
+description: Mount for Indicator
+images:
+- Indicator Mount.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Indicator Mount

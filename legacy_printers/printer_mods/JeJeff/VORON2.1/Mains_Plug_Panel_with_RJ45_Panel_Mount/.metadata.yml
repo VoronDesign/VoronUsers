@@ -1,0 +1,12 @@
+cad:
+- Mains_Plug_Panel_with_RJ45_Panel_Mount.f3d
+- mains_plug_panel_with_rj45_panel_mount.step
+- mains_plug_panel_with_rj45_panel_mount_alternative.step
+description: Main Plug Panel modified to hold a RJ45 ethernet socket
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Main Plug Panel

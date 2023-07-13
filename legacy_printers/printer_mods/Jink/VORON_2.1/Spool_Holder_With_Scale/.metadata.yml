@@ -1,0 +1,16 @@
+cad:
+- Assem1.SLDASM
+- Load_Cell.SLDPRT
+- Load_Cell.STEP
+- Mount.SLDPRT
+- Mount.STEP
+- Spool_Holder_1mm_Clearance.SLDPRT
+- Spool_Holder_1mm_Clearance.STEP
+- Spool_Holder_2mm_Clearance.SLDPRT
+- Spool_Holder_2mm_Clearance.STEP
+description: Spool holder with scale
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: Spool holder with scale

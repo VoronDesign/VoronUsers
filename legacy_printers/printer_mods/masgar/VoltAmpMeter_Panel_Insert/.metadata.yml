@@ -1,0 +1,9 @@
+cad: []
+description: Mounting panel for VoltAmpMeter
+images:
+- images/447B0966-61A0-4B43-B7D5-F7FB5A99BDB1.JPG
+- images/wiring.png
+mod_version: 1
+printer_compatibility:
+- V1.6
+title: VoltAmpMeter panel insert

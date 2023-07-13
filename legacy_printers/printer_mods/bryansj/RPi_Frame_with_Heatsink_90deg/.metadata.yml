@@ -1,0 +1,12 @@
+cad:
+- RPi_Frame_with_Heatsink_90deg.f3d
+- RPi_Frame_with_Heatsink_90deg.step
+description: Raspberry Pi with Heatsink Frame for minimal channel width
+images:
+- RPi_Frame_with_Heatsink_90deg.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Rotated Pi Mount with Heatsink

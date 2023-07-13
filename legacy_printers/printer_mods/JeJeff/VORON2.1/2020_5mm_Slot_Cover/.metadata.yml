@@ -1,0 +1,11 @@
+cad:
+- 2020_5mm_slot_cover-10mm.step
+- 2020_5mm_slot_cover.f3d
+description: Slot covers for extrusions with 5mm slot width
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: 2020 Extrusion slot cover

@@ -1,0 +1,12 @@
+cad:
+- HEPA_filter_housing.step
+description: HEPA Filter Housing for cheap Roomba filters
+images:
+- 1.jpg
+- 2.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: HEPA Filter Housing

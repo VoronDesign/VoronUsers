@@ -1,0 +1,9 @@
+cad:
+- Load_Cell_Spool_Holder_v8.f3d
+description: Spool holder with built in weight scale
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Load Cell Spool Holder

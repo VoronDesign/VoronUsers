@@ -1,0 +1,12 @@
+cad:
+- WAGO_221-413_mount-2x3.step
+- WAGO_221-413_mount-3x3.step
+- WAGO_221-415_mount-3x5.step
+description: Wago 221 mounts for the electronics bay
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: WAGO 221 Mounts

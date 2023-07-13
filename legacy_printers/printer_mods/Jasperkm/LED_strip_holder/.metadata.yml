@@ -1,0 +1,9 @@
+cad: []
+description: Mount for led strips at an angle at the top of the printer
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: LED strip holder

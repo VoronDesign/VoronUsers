@@ -1,0 +1,9 @@
+cad:
+- PSU_bracket.STEP
+description: PSU AIO bracket for 5v, 12v and 24v
+images:
+- PSU_bracket.jpg
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: PSU bracket

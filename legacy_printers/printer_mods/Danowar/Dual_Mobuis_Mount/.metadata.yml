@@ -1,0 +1,10 @@
+cad: []
+description: Mounts two Mobius Extruders to the back of the printer
+images:
+- JPEG_20191008_062747.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Dual Mobius Mount

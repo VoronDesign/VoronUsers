@@ -1,0 +1,17 @@
+cad:
+- SLDPRT/BMGobius_Body_A.SLDPRT
+- SLDPRT/BMGobius_Body_B.SLDPRT
+- SLDPRT/BMGobius_Idler.SLDPRT
+- SLDPRT/~_BMGobius_Body_B.SLDPRT
+- SLDPRT/~_BMGobius_Idler.SLDPRT
+- STEP/BMGobius_Body_A.STEP
+- STEP/BMGobius_Body_B.STEP
+- STEP/BMGobius_Idler.STEP
+description: Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: BMGobius

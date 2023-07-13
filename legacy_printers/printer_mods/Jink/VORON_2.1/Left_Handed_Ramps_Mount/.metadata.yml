@@ -1,0 +1,13 @@
+cad:
+- 2mm_Lower_Prototype.SLDPRT
+- 2mm_Lower_Prototype.STEP
+- Left_Handed_RAMPS_Mount.SLDPRT
+- Left_Handed_RAMPS_Mount.STEP
+description: Mirrored RAMPS bracket
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Left handed RAMPS mount

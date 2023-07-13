@@ -1,0 +1,10 @@
+cad:
+- Paneldue_Case_4.3.step
+description: Case/mount for the 4.3 PanelDue LCD Display
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: 4.3 PanelDue Case

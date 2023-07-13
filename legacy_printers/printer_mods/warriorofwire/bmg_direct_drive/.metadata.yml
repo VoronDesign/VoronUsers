@@ -1,0 +1,11 @@
+cad:
+- steps/fan_mount.step
+- steps/gumby_mount_mosquito.step
+description: Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive
+  combo
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Direct Drive BMG-m mount

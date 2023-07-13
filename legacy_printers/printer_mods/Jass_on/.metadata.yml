@@ -1,0 +1,9 @@
+cad: []
+description: SKR 1.3 mount with built in 40mm fan mount
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: SKR 1.3 Cooling bracket

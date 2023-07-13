@@ -1,0 +1,8 @@
+cad:
+- cable_cover_v9.step
+description: Room for 3-4 20AWG wires
+images:
+- cable_cover_F360_screenshot.png
+mod_version: 1
+printer_compatibility: []
+title: Cable Cover Insert

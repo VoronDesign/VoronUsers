@@ -1,0 +1,8 @@
+cad: []
+description: Standard LCD compatible holder for the FYSETC integrated panel due
+images:
+- FYSETC_VORON_2.2_Display.jpg
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: FYSETC Panel Due 5i

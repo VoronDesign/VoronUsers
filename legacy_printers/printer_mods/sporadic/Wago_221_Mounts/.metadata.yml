@@ -1,0 +1,10 @@
+cad: []
+description: Mount for a single Wago 221-415
+images:
+- Wago_221-415x1_Installed.jpg
+- Wago_221-415x1_Mount.png
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Wago 221-415 Mount

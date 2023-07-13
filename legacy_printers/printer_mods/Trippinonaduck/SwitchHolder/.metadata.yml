@@ -1,0 +1,10 @@
+cad:
+- Elevator Switch Skirt holder v4.f3d
+description: Holder for Anit-Vandal Switches mounted in skirt holes
+images:
+- Switchpreview.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Switch Holder

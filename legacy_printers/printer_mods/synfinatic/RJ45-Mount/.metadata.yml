@@ -1,0 +1,8 @@
+cad:
+- RJ45-Holder.f3d
+description: Mount for an ethernet coupler to extend / move the ethernet plug somewhere
+  more convenient
+images: []
+mod_version: 1
+printer_compatibility: []
+title: RJ45 Mount

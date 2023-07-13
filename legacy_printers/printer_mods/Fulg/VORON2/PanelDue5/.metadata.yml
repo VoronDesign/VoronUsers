@@ -1,0 +1,10 @@
+cad:
+- STEP/V2_PanelDue5.step
+description: Mount for the PanelDue5 LCD display
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: PanelDue5 LCD Mount

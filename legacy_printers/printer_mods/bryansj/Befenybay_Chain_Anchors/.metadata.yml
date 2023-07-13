@@ -1,0 +1,13 @@
+cad: []
+description: Befenybay 10x11 Drag Chain Top Anchor and 2020 Extrusion Mount
+images:
+- mount1.jpg
+- mount2.jpg
+- mount3.jpg
+- xmount.jpg
+- ymount.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Befenybay Chain Anchors

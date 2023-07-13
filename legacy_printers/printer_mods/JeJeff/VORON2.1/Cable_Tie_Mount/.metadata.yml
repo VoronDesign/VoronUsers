@@ -1,0 +1,12 @@
+cad:
+- m3_small_cable_tie_mount.step
+- m4_small_cable_tie_mount.step
+- Small_Cable_Tie_Mount.f3d
+description: Cable tie mounts for 4mm cable ties
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Cable Tie Mount

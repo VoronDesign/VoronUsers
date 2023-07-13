@@ -1,0 +1,10 @@
+cad:
+- corner-panel_clip_3_32_foam.STEP
+- mid-panel_clip_3_32_foam.STEP
+description: Panel Clips for 3/32" Foam Tape
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Panel Mounting

@@ -1,0 +1,8 @@
+cad: []
+description: Beltchain Remake for Voron 2.2
+images:
+- beltchain_remake_1.jpg
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: Beltchain Remake

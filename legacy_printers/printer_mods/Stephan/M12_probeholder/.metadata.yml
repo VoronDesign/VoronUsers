@@ -1,0 +1,9 @@
+cad:
+- Probeholder_M12.step
+description: Drop in replacement of the stock probe to a M12
+images:
+- M12_probe_mount.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: M12 Probeholder

@@ -1,0 +1,9 @@
+cad:
+- V2.2 Wrench.step
+description: 3 sided wrench for 2.2 bearing caps and panel clips
+images:
+- 2.2_Wrench.PNG
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: V2.2 Wrench

@@ -1,0 +1,9 @@
+cad:
+- Coroplast_Mount.SLDPRT
+- Coroplast_Mount.STEP
+description: Mount / Bracket supporting the coroplast sheets
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: Coroplast mount

@@ -1,0 +1,10 @@
+cad: []
+description: Jigs to drill your blind joints in the right spot
+images:
+- blind_hole_jig.png
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Blind Joint Drilling Jigs

@@ -1,0 +1,13 @@
+cad:
+- Test_Fit.SLDPRT
+- Test_Fit.STEP
+- VORON_WAGO_Mount.SLDPRT
+- VORON_WAGO_Mount.STEP
+description: Mount for 3x WAGO connectors
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: WAGO Mount

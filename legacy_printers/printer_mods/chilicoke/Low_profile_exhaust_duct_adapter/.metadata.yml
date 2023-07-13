@@ -1,0 +1,10 @@
+cad: []
+description: Quick-release exhaust duct adapter that requires minumal rear spacing
+images:
+- glue_surfaces.png
+- installed.jpg
+mod_version: 1
+printer_compatibility:
+- V2.1
+- V2.2
+title: Low Profile Exhaust Duct

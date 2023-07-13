@@ -1,0 +1,7 @@
+cad: []
+description: Mount for filament drybox attached to the side of the printer
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: Filament DryBox

@@ -1,0 +1,16 @@
+cad:
+- hinge_plate_front_a.STEP
+- hinge_plate_front_b.STEP
+- hinge_plate_side_a.STEP
+- hinge_plate_side_b.STEP
+- inner_magnet_mount_x2.STEP
+- outter_magnet_mount_bottom_x2.STEP
+- small_handle_a.STEP
+- small_handle_b.STEP
+description: Hinges, handles and magnet mounts for creating a split front door panel
+images:
+- Capture.PNG
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: Magnetic Split Front Door

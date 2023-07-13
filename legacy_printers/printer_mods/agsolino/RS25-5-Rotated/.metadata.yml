@@ -1,0 +1,9 @@
+cad:
+- rs-25-5-90.f3d
+description: RS-25-5 PSU mount rotated 90 Degrees
+images:
+- Photo.jpg
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: RS-25-5 Rotated

@@ -1,0 +1,14 @@
+cad:
+- 2020_Cable_Cover.step
+- Center_Frame_Mount.step
+- Gantry_Corner_Mount.step
+description: Different Logitech camera mounts, attached to the extrusions. Fits C270
+  and C310
+images:
+- Logitech_C270_Mount.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Logitech Camera Mounts

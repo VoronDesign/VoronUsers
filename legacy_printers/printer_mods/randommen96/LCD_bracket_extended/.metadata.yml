@@ -1,0 +1,9 @@
+cad:
+- Swing _Arm_Long_4m_ ext.STEP
+- Swing_Arm_Short_ext_4mm.STEP
+description: LCD bracket extended for 6mm panels
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.2
+title: LCD bracket extended

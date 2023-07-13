@@ -1,0 +1,8 @@
+cad:
+- Omron Mount.f3d
+description: Mount for Omron probe in V2.1
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: V2.1 Omron Mount

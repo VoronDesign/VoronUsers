@@ -1,0 +1,7 @@
+cad: []
+description: Mount for emergency button attached to the top of the printer
+images: []
+mod_version: 1
+printer_compatibility:
+- V2.1
+title: E-Stop Switch

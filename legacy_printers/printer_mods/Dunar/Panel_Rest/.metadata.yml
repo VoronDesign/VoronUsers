@@ -1,0 +1,12 @@
+cad:
+- Panel Rest v3.step
+- support_bracket_6mm.step
+description: External panel holder
+images:
+- panel_rest.jpg
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Panel Rest

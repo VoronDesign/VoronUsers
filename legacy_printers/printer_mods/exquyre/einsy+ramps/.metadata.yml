@@ -1,0 +1,9 @@
+cad: []
+description: Mounting bracket for 1 Einsy and 1 RAMPs
+images: []
+mod_version: 1
+printer_compatibility:
+- V1.6
+- V2.1
+- V2.2
+title: Einsy + RAMPS Combo
