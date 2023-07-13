@@ -80,7 +80,7 @@ contact the admins on Discord to have your mod moved to this folder.
 |  | [Mounts for Terminal Blocks NC933...](Empusas/Terminal_Blocks_NC933_SPL-62) | Mounts for Terminal Blocks NC933 and SPL-62 from AliExpress | V2.4 |
 | FHeilmann | [FHeilmann's other awesome mod](FHeilmann/another_mod) | This mod does other awesome things with awesome printers! | V0, V1 |
 |  | [LOL I'm missing](FHeilmann/bad_mod) | This mod does awesome things with awesome printers! | Trident, V0, V1, V2, VSW |
-|  | [FHeilmann's awesome mod](FHeilmann/huvud_chain_mount) | This mod does awesome things with awesome printers! | V1.8, VT |
+|  | [FHeilmann's awesome mod](FHeilmann/huvud_chain_mount) | This mod does awesome things with awesome printers! | V1.8, V2.4r2, VT |
 | Fiction | [C270 mount](Fiction/C270_mount) | Logitech C270 webcam front-centre mount | V2.4, VT |
 |  | [Crossrail](Fiction/Crossrail) | Across-the-rails LRS-200-24 or RSP-200-24 mount using DRP-03 brackets | V2.4, VT |
 |  | [Exhaust_cover](Fiction/Exhaust_cover) | Cover for exhaust cutout in back panel | V2.4, VT |
