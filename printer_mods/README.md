@@ -40,7 +40,8 @@ contact the admins on Discord to have your mod moved to this folder.
 |  | [Horizontal Spool Holder](BladeScraper-Designs/Horizontal-Spool-Holder) | Based on the stock holder but mounts to the horizontal extrusions. | V2.4 |
 |  | [Microswitch Pod With Connector](BladeScraper-Designs/Microswitch_Pod_With_Conector) | Microswitch pod with JST-XH 4-pin connector | V2.4 |
 | Blamm | [LRS-100 DIN mount](Blamm/lrs-100) | DIN rail mount for an extra LRS-100 Power Supply | V1.8, V2.4, VT |
-| BlueBear | [Deck Panel Backpack](BlueBear/Deck_Panel_Backpack) | A mounting alternative if you don't want to drill your deck panel | V0.2 |
+| BlueBear | [Bowden Fence](BlueBear/Bowden_Fence) | A little "fence" to hold the tubes away from the belts. | V0.2 |
+|  | [Deck Panel Backpack](BlueBear/Deck_Panel_Backpack) | A mounting alternative if you don't want to drill your deck panel | V0.2 |
 |  | [Clippable Wago 221 Mounts](BlueBear/Wago_221_mount) | Mounts for Wago 221 to screw or clip-in on 1515 extrusions | V0.2 |
 |  | [Ziptie Mount](BlueBear/Ziptie_Mount) | Clippable Ziptie hooks for 1515 extrusions | V0.2 |
 | Boingomw | [Wago mount](Boingomw/Wago_mount) | Smaller 5 port Wago mount that fits parallel to the support rails | V2.4 |
@@ -66,7 +67,8 @@ contact the admins on Discord to have your mod moved to this folder.
 | Derpimus | [V0.1 Block Handle](Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | V0.2 |
 | DorjeDorf | [Duet 3 3HC Din Bracket](DorjeDorf/Duet_3_3HC_Din_Bracket) | V2.4 Duet 3 3HC Din Bracket | V2.4 |
 |  | [Duet 3 6HC Din Bracket](DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | V2.4 |
-| Dr-Info | [Corner Cable Cover with Drop Holes](Dr-Info/corner_cable_cover_with_drop_down_holes) | Corner cable cover around Z-idler with drop holes near z frame and... | V2.4 |
+| Dr-Info | [V2.4 Rear Skirt Mod for Z-Drive...](Dr-Info/V2.4r2_Z-Drive_Motor_Tensioner_Mod_Rear_Skirts) | This mod enables the you to utilize the rear skirts, power and... | V2.4 |
+|  | [Corner Cable Cover with Drop Holes](Dr-Info/corner_cable_cover_with_drop_down_holes) | Corner cable cover around Z-idler with drop holes near z frame and... | V2.4 |
 | DrGhetto | [Ghetto Panels](DrGhetto/GhettoPanels) | Printed panels for the Voron Zero | V0.2 |
 | ElPoPo | [Removable Doors](ElPoPo/RemovableDoors) | New hinge to easily remove the door and have a wide opening V2.x | V2.4 |
 | Electroleon | [U2C Mounting](Electroleon/U2C_Mounting) | Bigtreetech U2C CAN Interface mounting bracket | V0.2, V1.8, V2.4, VT |
@@ -89,7 +91,7 @@ contact the admins on Discord to have your mod moved to this folder.
 |  | [Cricut Voron Logos](GadgetAngel/Cricut_Voron_Logos) | For any cutting machines or machines that rely on vector graphics... | V0.2, V2.4, VSW, VT |
 | Galvanic | [Bowden Tube Guide](Galvanic/Bowden_Tube_Guide) | Bowden tube guide and CANBUS wire support | V1.8, V2.4, VT |
 | GiulianoM | [Fly F407ZG Mount](GiulianoM/FlyF407ZG) | Mount for the Fly F407ZG: https://github.com/FLYmaker/FLYF407ZG | V2.4 |
-| Gizzle | [Ender 3 and Ender 3 Pro...](Gizzle/ender-3_(pro)_switchwire) | Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics... | VSW |
+| Gizzle | [Ender 3 and Ender 3 Pro...](Gizzle/ender-3_pro_switchwire) | Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics... | VSW |
 | Hobson318 | [Belt Tension Wrench](Hobson318/Belt_Tension_Wrench) | Wrench for easier turning of the belt tension knobs on V0.1 | V0.2 |
 |  | [Klipper Expander Mount](Hobson318/Klipper_Expander_Mount) | Mounting brackets for the klipper expander using vhb tape or... | V0.2, V1.8, V2.4, VSW, VT |
 | Iakabos | [c920 Mount](Iakabos/C920_mount) | Slim mount for logitech c920 webcam | V1.8, V2.4 |
@@ -107,6 +109,7 @@ contact the admins on Discord to have your mod moved to this folder.
 | Jasrags | [Feed slot with filament pass-...](Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | VSW |
 | JeremyRuhland | [V2.4 Plug Panel Generic Combo](JeremyRuhland/V2.4_Plug_Panel_Generic_Combo) | Skirt power panel for generic amazon plug/switch/fuse combo module,... | V2.4 |
 | Jon | [1515 LED Mount](Jon/1515_led_mount) | Snap in 1515 Led mount for WS2812B | V0.2 |
+|  | [Z Cover for v0.1](Jon/V0.1_Z_Cover) | A cover to stop things from dropping down the Z motor and... | V0.1 |
 |  | [adxl345 skirt keystone](Jon/adxl345_skirt_keystone) | Skirt keystone for ADXL345 using Microfit 3.0 | V2.4 |
 | JosAr | [Klicky Probe](JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | V0.2, V1.8, V2.4, VT |
 | KenadyDwag44 | [Switchwire Lightbar](KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | VSW |
