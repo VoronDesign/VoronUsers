@@ -3,8 +3,8 @@ cad:
 - V0_reverse_bowden_mount.f3d
 description: V0 reverse bowden mount
 images:
-- mount_and_filament.jpg
 - mount.jpg
+- mount_and_filament.jpg
 - mount_filament_centered.jpg
 mod_version: 1
 printer_compatibility:

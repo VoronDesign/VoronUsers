@@ -4,9 +4,9 @@ cad:
 - CAD/side_skirt_ab_320_x2.step
 description: Skirts for a 320mm build
 images:
+- Images/front.jpg
 - Images/side.jpg
 - Images/rear.jpg
-- Images/front.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

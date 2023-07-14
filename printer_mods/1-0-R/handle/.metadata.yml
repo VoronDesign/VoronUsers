@@ -3,9 +3,9 @@ cad:
 - CAD/handle.step
 description: Handle for Voron 2.4
 images:
+- images/handle.jpg
 - images/extrusion_with_inner_part_mounted.jpg
 - images/extrusion_with_handle.jpg
-- images/handle.jpg
 - images/handle_rendering.jpg
 - images/extrusion_with_all_handle_parts.jpg
 - images/extrusion_with_tnuts.jpg

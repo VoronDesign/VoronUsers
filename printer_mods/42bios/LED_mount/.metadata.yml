@@ -1,9 +1,9 @@
 cad: []
 description: AngryLED - LED-mount for Lumentech LT3 profiles.
 images:
+- AngryLED_v1_2.png
 - AngryLED_v1_1.png
 - AngryLED_v1_3.png
-- AngryLED_v1_2.png
 - led_mount_v01_2.png
 - led_mount_v01_1.png
 - AngryLED_small_v1.png

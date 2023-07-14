@@ -2,13 +2,13 @@ cad: []
 description: Rockers to roll the printer on its back for easier access to the electronics
   compartment
 images:
+- images/example_02.jpg
 - images/threaded_inserts_01.jpg
 - images/assembly_braces_02.jpg
 - images/assembly_braces_01.jpg
 - images/example_03.jpg
 - images/assembly_base_plates_03.jpg
 - images/assembly_base_plates_02.jpg
-- images/example_02.jpg
 - images/assembly_base_plates_01.jpg
 - images/example_01.jpg
 - images/example_04.jpg

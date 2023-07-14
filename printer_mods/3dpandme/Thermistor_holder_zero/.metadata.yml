@@ -2,8 +2,8 @@ cad:
 - thermistor_holder_zero.step
 description: Extended thermistor holder for Voron Zero
 images:
-- thermistor_holder_comparison.png
 - installed.png
+- thermistor_holder_comparison.png
 mod_version: 1
 printer_compatibility:
 - V0.2

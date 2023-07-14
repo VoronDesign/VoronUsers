@@ -2,8 +2,8 @@ cad:
 - STEPs/C920_Top_Front_Mount.step
 description: Low profile mount for a C920 Webcam
 images:
-- Images/FoV.png
 - Images/MountingPosition.jpg
+- Images/FoV.png
 mod_version: 1
 printer_compatibility:
 - V2.4

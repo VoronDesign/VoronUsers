@@ -3,10 +3,10 @@ cad:
 - CAD/V0.2_Stealth_Skirts.f3d
 description: Juiced up skirts for the V0.2
 images:
+- Images/skirts_4.png
 - Images/skirts_2.png
 - Images/skirts_3.png
 - Images/skirts_1.png
-- Images/skirts_4.png
 mod_version: 1
 printer_compatibility:
 - V0.2

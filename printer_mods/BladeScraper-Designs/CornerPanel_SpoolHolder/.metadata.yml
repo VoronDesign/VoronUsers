@@ -1,9 +1,9 @@
 cad: []
 description: A better supported Spool Holder that mounts to a modified corner panel.
 images:
+- IMG/IRL.jpg
 - IMG/Cornerpanel_Spoolholder.png
 - IMG/Extrude_This.png
-- IMG/IRL.jpg
 mod_version: 1
 printer_compatibility:
 - V0.2

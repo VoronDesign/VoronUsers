@@ -1,9 +1,9 @@
 cad: []
 description: Simple clip to keep extra Z belts clean and away from panels
 images:
+- imgs/IMG_3020.jpg
 - imgs/IMG_3019.jpg
 - imgs/IMG_3018.jpg
-- imgs/IMG_3020.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

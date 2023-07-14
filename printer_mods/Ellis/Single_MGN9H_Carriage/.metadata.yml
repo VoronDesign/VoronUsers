@@ -5,9 +5,9 @@ cad:
 - CAD/Single_MGN9H_Carriage_CW1.step
 description: Single MGN9H toolhead carriage with toolhead x endstop support (for umbilical)
 images:
+- Images/Single_MGN9H_Carriage_CW1_Built.png
 - Images/Single_MGN9H_Carriage_CW2.png
 - Images/Single_MGN9H_Carriage_CW1.png
-- Images/Single_MGN9H_Carriage_CW1_Built.png
 mod_version: 1
 printer_compatibility:
 - V1.8

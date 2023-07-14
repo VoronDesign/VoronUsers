@@ -2,11 +2,11 @@ cad: []
 description: A camera mount that replaces the OEM part to allow the camera to be mounted
   to a 2020 extrusion
 images:
+- Images/InstalledSideBack.jpg
 - Images/WansviewWebcam.PNG
 - Images/HardwareInstalled.jpg
 - Images/CameraMountingHardware_Arrows.png
 - Images/InstalledBackFinal.jpg
-- Images/InstalledSideBack.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

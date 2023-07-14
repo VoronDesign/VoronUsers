@@ -3,10 +3,10 @@ cad:
 description: A replacement Front Bed Mount with room for a neopixel or dotstar behind
   the logo
 images:
+- Images/PIC_1.jpg
 - Images/CAD_1.png
 - Images/CAD_2.png
 - Images/PIC_2.jpg
-- Images/PIC_1.jpg
 mod_version: 1
 printer_compatibility:
 - V0.2

@@ -4,6 +4,7 @@ description: For any cutting machines or machines that rely on vector graphics a
   2.4, Voron SwitchWire, Voron 0.0/0.1. and Trident These .svg files use a minimal
   amount of anchor points to achieve the vector shapes!
 images:
+- images/V2.4_1Color.jpg
 - VSWL/1ColorLayerWOLogoWOSil/VSWRearPWOWOSilBackP.jpg
 - VSWL/1ColorLayerWOLogoWOSil/VSWRearPWOWOSil.jpg
 - VSWL/1ColorLayerWOLogoWOSil/VSWRearPWOWOSil.svg
@@ -18,7 +19,6 @@ images:
 - images/QWComplexVL.jpg
 - images/CombinedRedPath.png
 - images/V0.1woWOSil.jpg
-- images/V2.4_1Color.jpg
 - images/V2.4_1ColorWOWithSil.jpg
 - images/Trident_DLogo_250_Rear_Panel.stl.png
 - images/VSWRearPWOWOSilhBackP.jpg

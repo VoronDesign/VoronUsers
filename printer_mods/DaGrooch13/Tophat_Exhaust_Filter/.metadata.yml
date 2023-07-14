@@ -2,11 +2,11 @@ cad: []
 description: Activated charcoal exhaust filter with HEPA that replaces the rear tophat
   panel
 images:
+- Github_Images/Tophat_Install.jpg
 - Github_Images/Front_View.jpg
 - Github_Images/Side_View.jpg
 - Github_Images/Top_View.jpg
 - Github_Images/Exploded_Final_Labeled.jpg
-- Github_Images/Tophat_Install.jpg
 - Github_Images/Asm_Front_View.jpg
 mod_version: 1
 printer_compatibility:

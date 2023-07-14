@@ -3,9 +3,9 @@ cad:
 description: Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics and
   most other parts of the Voron Switchwire.
 images:
+- IMAGES/General.PNG
 - IMAGES/BOTTOM.PNG
 - IMAGES/LEFT.PNG
-- IMAGES/General.PNG
 - IMAGES/BACK.PNG
 - IMAGES/RIGHT.PNG
 - IMAGES/FRONT.PNG

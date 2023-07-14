@@ -1,8 +1,8 @@
 cad: []
 description: New hinge to easily remove the door and have a wide opening  V2.x
 images:
-- Images/MMU.jpg
 - Images/Charniere_Av.jpg
+- Images/MMU.jpg
 - Images/Charniere_Ar.jpg
 mod_version: 1
 printer_compatibility:

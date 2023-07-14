@@ -3,10 +3,10 @@ cad:
 - AB_BN_30.step
 description: Improved Afterburner with 5015 fan
 images:
+- overview.png
 - fans_wires.png
 - wirestorage.png
 - ModifiedFan.png
-- overview.png
 - AB-BN-28.png
 - RapidoStickout.png
 - fanspacer.png

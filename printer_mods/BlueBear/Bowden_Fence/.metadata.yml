@@ -1,0 +1,13 @@
+cad:
+- 1515_SnapIn_LDO.step
+- 1515_SnapIn_Makerbeam.step
+- BowdenFence.step
+description: A little "fence" to hold the tubes away from the belts. 
+images:
+- images/image01.jpg 
+- images/image02.jpg 
+- images/image03.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2
+title: Bowden Fence

@@ -2,8 +2,8 @@ cad:
 - CAD/Trident_Revo_Nozzle_Skirt.step
 description: A Revo nozzle box hidden in a Trident skirt.
 images:
-- Images/Photo-Closed.jpg
 - Images/Photo-Opened.jpg
+- Images/Photo-Closed.jpg
 mod_version: 1
 printer_compatibility:
 - VT

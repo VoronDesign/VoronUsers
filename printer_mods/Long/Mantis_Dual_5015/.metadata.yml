@@ -5,12 +5,12 @@ cad:
 - CAD/Mantis_MGN9_v1.0a.step
 description: MGN12 Dual 5015 Toolhead for 2.4 & 1.8
 images:
+- images/readme_mantis.jpg
 - images/readme_cfd_crazy_volcano.png
 - images/carriage_assembly_mgn9_front.jpg
 - images/carriage_assembly_crazy_volcano.jpg
 - images/final_assembly_duct_brace.jpg
 - images/final_assembly_adxl_front.jpg
-- images/readme_mantis.jpg
 - images/readme_cfd_dragon.png
 - images/1.8_koonweee_thumb.png
 - images/final_assembly_rapido.jpg

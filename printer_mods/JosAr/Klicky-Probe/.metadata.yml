@@ -2,6 +2,7 @@ cad:
 - CAD/Voron_KlickyProbe_v2_v56.step
 description: Microswitch based inductive probe replacement
 images:
+- Photos/Voron_V2.4_300mm_back.jpg
 - Printers/v0/Photos/klicky_v0.jpg
 - Printers/v0/Photos/V0_dock.jpg
 - Printers/v0/Photos/V0.1_probe_mount_3.jpg
@@ -74,7 +75,6 @@ images:
 - Printers/v1.8_v2.4_Legacy_Trident/Photos/ABMountCheckforContiuity.jpg
 - Photos/Klicky_Probe.png
 - Photos/Klicky_Probe_recommended_printing_orientation.png
-- Photos/Voron_V2.4_300mm_back.jpg
 - Photos/klicky_base.jpg
 mod_version: 1
 printer_compatibility:

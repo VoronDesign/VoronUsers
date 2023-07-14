@@ -1,8 +1,8 @@
 cad: []
 description: Modified printed parts and panel to fully enclose V0.
 images:
-- Fancy_Panel/fancy_dimensions.png
 - pictures/fancy_bottom.png
+- Fancy_Panel/fancy_dimensions.png
 - pictures/side_view.png
 - pictures/back_view.png
 - pictures/simple_bottom.png

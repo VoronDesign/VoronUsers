@@ -4,7 +4,6 @@ cad:
 - CAD/[a]_2.4_base_plate_b_mod_x2.step
 description: Braced motor tensioner for z drive
 images:
-- db.png
 - z_drive_mod.png
 mod_version: 1
 printer_compatibility:

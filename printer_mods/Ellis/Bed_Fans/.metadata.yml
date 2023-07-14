@@ -2,10 +2,10 @@ cad:
 - 5015_Bed_Fan_Mount/5015_Bed_Fan_Mount.step
 description: Bed fan control macros and 5015 bed fan mounts
 images:
+- Images/5015_quad_installed.png
 - Images/5015_mount_isolated.png
 - Images/5015_triple.png
 - Images/5015_quad.png
-- Images/5015_quad_installed.png
 - Images/5015_dual.png
 mod_version: 1
 printer_compatibility:

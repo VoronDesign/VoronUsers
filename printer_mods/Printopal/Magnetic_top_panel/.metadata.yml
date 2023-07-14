@@ -1,8 +1,8 @@
 cad: []
 description: Top panel with magnets allows for quick installation and removal
 images:
-- Images/Magnet.jpg
 - Images/Magnetic_top_panel.jpg
+- Images/Magnet.jpg
 - Images/Split.jpg
 mod_version: 1
 printer_compatibility:

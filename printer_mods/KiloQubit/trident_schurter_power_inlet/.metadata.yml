@@ -3,10 +3,10 @@ cad:
 - CAD/trident_schurter_power_inlet.step
 description: Trident inlet skirt for mounting a Schurter DD11.0124 or similar inlet
 images:
+- images/IMG_7776.JPG
 - images/IMG_7703.JPG
 - images/IMG_7702.JPG
 - images/IMG_7701.JPG
-- images/IMG_7776.JPG
 mod_version: 1
 printer_compatibility:
 - VT

@@ -5,8 +5,8 @@ cad:
 - CAD/Wago_221-41x_Extrusion_&_Thin_Din_Mount.f3d
 description: Wago Mounts for Din Rail or 2020 Extrusion mounting.
 images:
-- WagoMounts-Extrusion&Din.png
 - WagoMounts.png
+- WagoMounts-Extrusion&Din.png
 mod_version: 1
 printer_compatibility:
 - V2.4

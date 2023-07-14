@@ -2,11 +2,11 @@ cad:
 - CAD/Cowling_Dragon_v3.step
 description: Replacement MiniAB Cowling to add a mount for a Pinda style probe.
 images:
+- CAD/CAD1.png
 - Images/ProbeInAction.jpg
 - Images/CAD1.png
 - Images/cad3.png
 - Images/cad2.png
-- CAD/CAD1.png
 - CAD/cad3.png
 - CAD/cad2.png
 mod_version: 1

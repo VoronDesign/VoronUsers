@@ -2,11 +2,11 @@ cad:
 - 3D/Voron_V2.4_Pull-out_electrical_store.STEP
 description: "Voron 2.4 Pull-out electrical store\uFF08350mm only\uFF09"
 images:
+- Photos/Voron_V2.4_Pull-out_electrical_store.PNG
 - Photos/IMG_6101.jpg
 - Photos/IMG_6103.jpg
 - Photos/IMG_6107.jpg
 - Photos/IMG_6099.jpg
-- Photos/Voron_V2.4_Pull-out_electrical_store.PNG
 - Photos/IMG_6105.jpg
 mod_version: 1
 printer_compatibility:

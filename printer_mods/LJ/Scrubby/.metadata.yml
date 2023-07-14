@@ -3,10 +3,10 @@ cad:
 - Scrubby.STEP
 description: Easy to use filament dust filter
 images:
+- images/irl.JPG
 - images/built.JPG
 - images/back.PNG
 - images/front.PNG
-- images/irl.JPG
 mod_version: 1
 printer_compatibility:
 - V0.2

@@ -1,0 +1,17 @@
+cad:
+- CAD/Filtered_Inlet_Skirt_Mod.f3d 
+- CAD/Filtered_Inlet_Skirt_Mod.step 
+- CAD/IEC-GS_1.2mm_Mod.step 
+- CAD/IEC-GS_1mm_Mod.step 
+- CAD/IEC-GS_Mod.f3d 
+- CAD/Keystone_Skirt_Mod.f3d 
+- CAD/Keystone_Skirt_Mod.step
+description: This mod enables the you to utilize the rear skirts, power and keystone, in your V2.4R2
+images:
+- Images/Filtered_Inlet_Skirt_Mod.JPG 
+- Images/IEC-GS_Skirt_Mod.JPG 
+- Images/Keystone_Skirt_Mod.JPG
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: V2.4 Rear Skirt Mod for Z-Drive Motor Tensioner Mod

@@ -6,8 +6,8 @@ description: The bed support alignment tools will assist in helping align the "b
   these tools so that you can screw the "bed support extrusions" down to the printer's
   frame in the correct position.
 images:
-- images/Bed_Suport_Alignment_Tools_each_pointed_out.jpg
 - images/Bed_Support_Alignment_Tools.jpg
+- images/Bed_Suport_Alignment_Tools_each_pointed_out.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

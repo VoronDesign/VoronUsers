@@ -7,8 +7,8 @@ cad:
 - 1515_SnapIn_LDO.step
 description: Mounts for Wago 221 to screw or clip-in on 1515 extrusions
 images:
-- images/PrintOrientation.jpg
 - images/ScrewMountUsage.jpg
+- images/PrintOrientation.jpg
 - images/picSnapMount3piece.jpg
 - images/Mounting.jpg
 - images/picSnapMount5piece.jpg

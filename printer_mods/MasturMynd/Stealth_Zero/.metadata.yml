@@ -3,9 +3,9 @@ cad:
 description: A low poly gantry with front tensioners and optional front mounted x
   rail
 images:
+- Images/V0.1-Complete_Gantry.png
 - Images/V0.1-B_Motor_Inner_Front.png
 - Images/V0.1-B_Tensioner_Inner_Rear.png
-- Images/V0.1-Complete_Gantry.png
 - Images/XY_Joint_Outer_Rear.png
 - Images/XY_Joint_Inner_Front.png
 - Images/Carriage_Endstops_Left_Rear.png

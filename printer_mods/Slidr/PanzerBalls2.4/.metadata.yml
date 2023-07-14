@@ -1,8 +1,8 @@
 cad: []
 description: Squash Ball Feet for V2.4
 images:
-- 02-Optional_z-Drive-Mod/Panzerball_zDrive_Mod.png
 - 01-Normal/Panzerballs.png
+- 02-Optional_z-Drive-Mod/Panzerball_zDrive_Mod.png
 mod_version: 1
 printer_compatibility:
 - V2.4

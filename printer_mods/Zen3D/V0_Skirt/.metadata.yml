@@ -1,6 +1,7 @@
 cad: []
 description: SSR, PowerSwitch, Adxl, Nameplate and color change printing
 images:
+- IMG/img1.jpg
 - IMG/img9.jpg
 - IMG/img8.jpg
 - IMG/img5.jpg
@@ -8,7 +9,6 @@ images:
 - IMG/img7.jpg
 - IMG/img3.jpg
 - IMG/img2.jpg
-- IMG/img1.jpg
 mod_version: 1
 printer_compatibility:
 - V0.2

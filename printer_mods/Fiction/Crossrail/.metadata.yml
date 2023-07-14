@@ -3,6 +3,7 @@ cad:
 - CAD/Crossrail.step
 description: Across-the-rails LRS-200-24 or RSP-200-24 mount using DRP-03 brackets
 images:
+- images/crossrail_03.jpg
 - images/DRP-03_01.jpg
 - images/DRP-03_02.jpg
 - images/DRP-03_03.jpg
@@ -10,7 +11,6 @@ images:
 - images/crossrail_04.jpg
 - images/crossrail_05.jpg
 - images/crossrail_02.jpg
-- images/crossrail_03.jpg
 - images/crossrail_01.jpg
 mod_version: 1
 printer_compatibility:

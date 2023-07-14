@@ -5,8 +5,8 @@ cad:
 - STEPfiles/Tophat_Part_back_right.step
 description: Simple hinge for V0 Tophat
 images:
-- Images/TopHathinge_render2.png
 - Images/Zoom_open.jpg
+- Images/TopHathinge_render2.png
 - Images/Zoom_closed.jpg
 - Images/Tophat_open.jpg
 - Images/TopHathinge_render.png

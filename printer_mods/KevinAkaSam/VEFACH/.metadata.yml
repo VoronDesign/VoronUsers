@@ -1,6 +1,7 @@
 cad: []
 description: Voron Exhaust Filter Inserts for Activated Coal + Hepa
 images:
+- Images/CAD1.png
 - Images/VEFACH.png
 - Images/4.jpg
 - Images/5.jpg
@@ -8,7 +9,6 @@ images:
 - Images/6.jpg
 - Images/2.jpg
 - Images/Trident_V2.png
-- Images/CAD1.png
 - Images/3.jpg
 - Images/1.jpg
 - Images/CAD3.png

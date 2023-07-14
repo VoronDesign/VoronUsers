@@ -2,8 +2,8 @@ cad:
 - STEP/SkirtPower.step
 description: Skirt-mounted rocker switch for easy access for Voron 2.4
 images:
-- images/SkirtPower.png
 - images/SkirtPower-photo.png
+- images/SkirtPower.png
 mod_version: 1
 printer_compatibility:
 - V2.4

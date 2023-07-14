@@ -1,6 +1,7 @@
 cad: []
 description: Mount to replace v2.4 (MGN9) probe with a Creality CR Touch
 images:
+- Images/CRTouch-ex1_sm.jpg
 - Images/CRTouch-Front_sm.JPG
 - Images/CRTouch_Prep3_sm.jpg
 - Images/CRTouch-rear2_sm.JPG
@@ -11,7 +12,6 @@ images:
 - Images/CRTouch-b1_explode_sm.JPG
 - Images/CRTouch_Prep0_sm.jpg
 - Images/CRTouch-wire1_sm.jpg
-- Images/CRTouch-ex1_sm.jpg
 - Images/CRTouch-b1_install2_sm.JPG
 - Images/CRTouch-ex3_sm.jpg
 mod_version: 1

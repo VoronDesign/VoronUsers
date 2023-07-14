@@ -4,12 +4,12 @@ cad:
 - CAD/LoudOwl_for_split_ABBN_untested.step
 description: Alternative dual 5015 part cooling fan toolhead for Afterburner
 images:
+- Visual/LoudOwl_2.jpg
 - Visual/Supp_removal.jpg
 - Visual/LoudOWL.jpg
 - Visual/Wiring.jpg
 - Visual/comparison.jpg
 - Visual/Fans_in_place.jpg
-- Visual/LoudOwl_2.jpg
 - Visual/Using_cut_tool_3.jpg
 - Visual/Using_cut_tool_2.jpg
 - Visual/Using_cut_tool_1.jpg
