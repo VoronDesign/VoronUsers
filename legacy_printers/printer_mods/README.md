@@ -117,13 +117,13 @@ like so:
 | |[Minima](./schlank/minima) | Minimalistic Fysetc Mini12864 display mount | :x:|:grey_question:|:heavy_check_mark: |
 | Seamen|[RAMPS Extender Holder](./Seamen/RAMPS-Extender_holder) |Mount for RAMPS board with the stepper extender |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |Slidr | [Panzer Chain](./Slidr/PanzerChain) | Alternative energie chain  | :grey_question: |:grey_question: |:heavy_check_mark: |
-|Sparreau | [5V Power Supply Mount](./Sparreau)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
-| |[FSR Circuit Mount](./Sparreau) |Bracket for mounting the FSR PCB. |:x: |:heavy_check_mark: |:x: |
-| | [Z Rail Stop](./Sparreau)|Z Rail Stop | :x: |:heavy_check_mark:| :heavy_check_mark:|
-| | [Bed Extrusion Spacer](./Sparreau)|Bed Extrusion Spacer |:x: |:heavy_check_mark:| :heavy_check_mark:|
-| |[Dial Indicator Fan Mount](./Sparreau) | Dial Indicator Fan Mount| :grey_question:| :grey_question:|:grey_question: |
-| |[Mains Plug Panel Parametric](./Sparreau) |Scalable mains plug panel with small modifications |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
-| |[Z Idler Frame Extra Tab](./Sparreau) |An extra tab added to the Z idler to prevent sagging / rotation | :x:|:heavy_check_mark: |:x: |
+|Sparreau | [5V Power Supply Mount](./Sparreau/5v_psupply_mount)|5V Power Supply Mount |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
+| |[FSR Circuit Mount](./Sparreau/FSR_circuit_mount) |Bracket for mounting the FSR PCB. |:x: |:heavy_check_mark: |:x: |
+| | [Z Rail Stop](./Sparreau/z_rail_stop)|Z Rail Stop | :x: |:heavy_check_mark:| :heavy_check_mark:|
+| | [Bed Extrusion Spacer](./Sparreau/bed_extrusion_spacer)|Bed Extrusion Spacer |:x: |:heavy_check_mark:| :heavy_check_mark:|
+| |[Dial Indicator Fan Mount](./Sparreau/dial_indicator_fan_mount) | Dial Indicator Fan Mount| :grey_question:| :grey_question:|:grey_question: |
+| |[Mains Plug Panel Parametric](./Sparreau/mains_plug_panel) |Scalable mains plug panel with small modifications |:heavy_check_mark:|:heavy_check_mark:|:heavy_check_mark:|
+| |[Z Idler Frame Extra Tab](./Sparreau/z_idler_frame_extra_tab/) |An extra tab added to the Z idler to prevent sagging / rotation | :x:|:heavy_check_mark: |:x: |
 | sporadic | [10x15 Chain Z Mounts](./sporadic/10x15_Chain_Z_Mounts) | End Z mounts for 10x15 Befenybay Drag Chain | :grey_question: | :heavy_check_mark: | :grey_question: |
 | | [30A Relay Mount](./sporadic/30A_Relay_Mount) | Mount for a 30A relay module available on Amazon | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Dual RS-25 Mount](./sporadic/Dual_RS-25_Mount) | Dual mount for side by side RS-25 supplies | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |

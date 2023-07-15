@@ -1,0 +1,2 @@
+<b>mains_plug_panel-parametric</b><br>
+This is an alternative mains plug panel for which you can set the size. I made this because my frame is not a standard size. The mains panel fills the gap so I can use standard (250/300/350) side skirts. I slightly enlarged the opening for the IEC320 switch socket, as mine did not fit the original. I also added recessed slots for the retention clips on the IEC320 switch socket.

@@ -1,0 +1,9 @@
+cad:
+  - bed_extrusion_spacer_parametric.f3d
+description: Bed Extrusion Spacer
+images: []
+mod_version: 1
+printer_compatibility:
+  - V2.1
+  - V2.2
+title: Bed Extrusion Spacer

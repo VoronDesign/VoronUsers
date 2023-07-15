@@ -1,0 +1,8 @@
+cad:
+  - FSR_circuit_mount.f3d
+description: Bracket for mounting the FSR PCB
+images: []
+mod_version: 1
+printer_compatibility:
+  - V2.1
+title: FSR Circuit Mount

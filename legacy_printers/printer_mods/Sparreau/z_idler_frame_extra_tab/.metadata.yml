@@ -1,0 +1,7 @@
+cad: []
+description: An extra tab added to the Z idler to prevent sagging / rotation
+images: []
+mod_version: 1
+printer_compatibility:
+  - V2.1
+title: Z Idler Frame Extra Tab
