@@ -86,7 +86,7 @@ like so:
 | |[Left handed RAMPS mount](./Jink/VORON_2.1/Left_Handed_Ramps_Mount) | Mirrored RAMPS bracket|:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | | [Spool holder with scale](./Jink/VORON_2.1/Spool_Holder_With_Scale)|Spool holder with scale | :x: | :heavy_check_mark: | :grey_question: |
 | |[WAGO Mount](./Jink/VORON_2.1/WAGO_Mount) |Mount for 3x WAGO connectors |:heavy_check_mark: | :heavy_check_mark:| :heavy_check_mark:|
-| JustinVoelker|[Mains Plug Panel with RJ45](./JustinVoelker/VORON2) | Mains plug panel with ethernet cutout|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| JustinVoelker|[Mains Plug Panel with RJ45](./JustinVoelker/Mains_Plug_Panel_with_RJ45) | Mains plug panel with ethernet cutout|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | K1JWG|[PanelDue 7i Custom Logo](./K1JWG/PanelDue7iLogo) |Custom Voron 2 logo for use as a PanelDue 7i startup splash screen |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |manfre |[Openbuild chain ends](./manfre/cable_chains) |Cable chain ends to use off the shelf chains with Voron parts |:x: |:heavy_check_mark: |:heavy_check_mark: |
 |masgar |[VoltAmpMeter panel insert](./masgar/VoltAmpMeter_Panel_Insert)   | Mounting panel for VoltAmpMeter | :heavy_check_mark: |:x: |:x: |
