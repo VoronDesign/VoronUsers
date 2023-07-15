@@ -47,7 +47,7 @@ like so:
 | |[Tablet mount](./Danowar/Tablet_Mount)|Detachable mount for tablet using magnets |:heavy_check_mark:  |:heavy_check_mark:  | :heavy_check_mark: |
 | |[V2.2 Wrench](./Danowar/V2.2_Wrench)|3 sided wrench for 2.2 bearing caps and panel clips |:x:  |:x:  | :heavy_check_mark: |
 | |[Alternative Z Chain](./Danowar/AltZChain)|Alternative mounting for Z-Axis zipchain|:x:  |:heavy_check_mark:  | :heavy_check_mark: |
-| daveidmx| [30mm Fan Adapter](./daveidmx/VORON2)|30mm Fan Adapter | :grey_question:| :grey_question:|:grey_question: |
+| daveidmx| [30mm Fan Adapter](./daveidmx/30mm_Fan_Adapter)|30mm Fan Adapter | :grey_question:| :grey_question:|:grey_question: |
 |Dunar |[Panel Rest](./Dunar/Panel_Rest) | External panel holder | :heavy_check_mark: |:heavy_check_mark:  |:heavy_check_mark:  |
 |etherwalker |[Pi Zero Camera Mount](./etherwalker/Pi_Zero_Camera_Mount) | Pi Zero Camera Mount| :grey_question:| :grey_question:|:grey_question: |
 |exquyre |[Anet 12864 Display](./exquyre/Anet_12864_display) | Case for Anet 12864 LCD display|:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
@@ -98,6 +98,8 @@ like so:
 |Nashuar |[IKEA LEDBERG Spot Mount](./Nashuar/LEDBERG_LED_Mount) |LED Spot mount for IKEA LEDBERG |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | |[WaveShare 7" Screen Mount](./Nashuar/7.0-WaveShare_Screen) |Display Case for 7" Waveshare LCD |:grey_question: |:grey_question: |:heavy_check_mark: |
 |nemgrea |[Magnetic Split Front Door](./nemgrea/magnetic_split_front_door) |Hinges, handles and magnet mounts for creating a split front door panel |:x: |:heavy_check_mark: |:grey_question: |
+| |[5mm Coroplast Hardware](./nemgrea/5mm%20coroplast%20hardware/) |5mm Coroplast Hardware |:grey_question: |:grey_question: |:grey_question: |
+| |[Toolhead Indicator Mounts](./nemgrea/toolhead%20indicator%20mounts/) |Toolhead Indicator Mounts |:grey_question: |:grey_question: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 | |[Panel Mounting](./PhilLeMint/Panel_Mounting/) | Panel Clips for 3/32" Foam Tape |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
