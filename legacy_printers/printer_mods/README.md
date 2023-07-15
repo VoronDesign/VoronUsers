@@ -23,7 +23,7 @@ like so:
 | agsolino | [RunOut Filament Holder](./agsolino/RunOutFilamentHolder) | Holder for TriangleLab Runout sensor | :grey_question: | :grey_question: | :heavy_check_mark: |
 | | [RS-25-5 Rotated](./agsolino/RS25-5-Rotated) | RS-25-5 PSU mount rotated 90 Degrees | :grey_question: | :grey_question: | :heavy_check_mark: |
 |Andreq | [Mobius Shaft Jig](./andreq/Mobius_Shaft_Jig)|Tool used for grinding flats on a shaft at specific places |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-|Armstr0ng |[Led extrusions mount](./Armstr0ng) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
+|Armstr0ng |[Led extrusions mount](./Armstr0ng/Led_extrusions_mount) | A mount for aluminium LED extrusions with hidden fasteners  | :grey_question:|:heavy_check_mark: | :heavy_check_mark:|
 | ArmyAg08|[Logitech Camera Mounts](./ArmyAg08/Logitech_C270_Mounts) |Different Logitech camera mounts, attached to the extrusions. Fits C270 and C310 |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
 | | [Corner Panel Clip](./ArmyAg08/Panels)|Corner panel clip that fit 3mm or 1/8" panels with foam tape | :x:|:heavy_check_mark: | :heavy_check_mark:|
 | Badnoob  |[Serial Plate](./Badnoob/Serial_Plate) |Modified skirt piece to display your serial number|:x:|:x:|:heavy_check_mark:|
