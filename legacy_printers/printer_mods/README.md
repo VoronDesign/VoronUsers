@@ -131,7 +131,7 @@ like so:
 | | [Wago 221-415 Mount](./sporadic/Wago_221_Mounts) | Mount for a single Wago 221-415  | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 |Stephan |[M12 Probeholder](./Stephan/M12_probeholder) | Drop in replacement of the stock probe to a M12|:grey_question: |:heavy_check_mark: | :grey_question:|
 | |[BlTouch Mount](./Stephan/bltouch_mount) | Drop in replacement of the stock probe to a BLTouch|:grey_question: |:heavy_check_mark: | :grey_question:|
-|steve450 |[Corner Brackets](./steve450/Voron2.1) | Corner brackets preventing rotation of the extrusions, and stiffening the joints.  Also covers the Z-belt hole for improved aesthetics| :grey_question:| :heavy_check_mark:|:grey_question: |
+|steve450 |[Corner Brackets](./steve450/Corner_Brackets) | Corner brackets preventing rotation of the extrusions, and stiffening the joints.  Also covers the Z-belt hole for improved aesthetics| :grey_question:| :heavy_check_mark:|:grey_question: |
 | synfinatic|[Duet Fan Mount](./synfinatic/Duet-Fan-Mount) |Duet/Duex fan mount with air vents directly above the steppers to increase airflow |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 | |[E-Stop Switch](./synfinatic/E-Stop-Switch) |Mount for emergency button attached to the top of the printer |:x: | :heavy_check_mark:|:grey_question: |
 | | [Filament DryBox](./synfinatic/Filament-DryBox)|Mount for filament drybox attached to the side of the printer |:x: | :heavy_check_mark:|:grey_question: |
