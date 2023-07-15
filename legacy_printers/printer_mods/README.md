@@ -76,8 +76,8 @@ like so:
 | | [Simple tool holder](./Jasperkm/Simple_tool_holder)| Holder for 3 small tools using magnets | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Skirt mods](./Jasperkm/Skirt_mods)| Some mods the skirts for fans and a clock | :x: | :heavy_check_mark: | :heavy_check_mark: |
 |Jass_on |[Tempered glass clips/handle](./Jass_on/Voron_2.1.1_Tempered_Glass) |Panel clips and handles for using tempered glass side panels | :x: | :heavy_check_mark: | :grey_question:|
-| | [Rear panel clips](./Jass_on) | Rear Panel Clips| :x: | :heavy_check_mark: | :grey_question:|
-| | [SKR 1.3 Cooling bracket](./Jass_on)|SKR 1.3 mount with built in 40mm fan mount |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
+| | [Rear panel clips](./Jass_on/Rear_panel_clips) | Rear Panel Clips| :x: | :heavy_check_mark: | :grey_question:|
+| | [SKR 1.3 Cooling bracket](./Jass_on/SKR_1.3_Cooling_Bracket_v2)|SKR 1.3 mount with built in 40mm fan mount |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |JeJeff |[2020 Extrusion slot cover](./JeJeff/VORON2.1/2020_5mm_Slot_Cover) |Slot covers for extrusions with 5mm slot width |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | |[Cable Tie Mount](./JeJeff/VORON2.1/Cable_Tie_Mount) |Cable tie mounts for 4mm cable ties |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 | |[Main Plug Panel](./JeJeff/VORON2.1/Mains_Plug_Panel_with_RJ45_Panel_Mount) |Main Plug Panel modified to hold a RJ45 ethernet socket |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
