@@ -61,7 +61,7 @@ like so:
 |Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape/MKS_GenL_1.0_Mounting_Bracket)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |GustavTheMighty | [4.3 PanelDue Case](./GustavtheMighty/4.3-Paneldue_Case)|Case/mount for the 4.3 PanelDue LCD Display  |:heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:  |
 |Iakabos| [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
-| Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
+| Hackdoggo| [BMGobius](./hackdoggo/BMGobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
 |hiemmer | [Tool Holders](./hiemmer/Tool_Holders)| Tool holder for calipers, screwdriver etc| :grey_question:| :grey_question:|:grey_question: |
 |JaredC01 | [Mini 12864 Voron Knob](./JaredC01/Mini_12864_Voron_Knob) | Upgraded knob for Fystec Mini 12864 RGB LED Display | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Keystone Power Panel](./JaredC01/Keystone_Power_Panel)| Power Panel with 1 or 2 Keystone Jacks | :x: | :heavy_check_mark: | :heavy_check_mark: |
