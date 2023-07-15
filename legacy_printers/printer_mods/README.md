@@ -101,6 +101,8 @@ like so:
 | |[5mm Coroplast Hardware](./nemgrea/5mm%20coroplast%20hardware/) |5mm Coroplast Hardware |:grey_question: |:grey_question: |:grey_question: |
 | |[Toolhead Indicator Mounts](./nemgrea/toolhead%20indicator%20mounts/) |Toolhead Indicator Mounts |:grey_question: |:grey_question: |:grey_question: |
 |OrkusMG | [Waveshare 5 Inch LCD Cover](./OrkusMG/Waveshare5inchHDMILCDscreenCover)|Display Cover for the Waveshare 5 inch HDMI LCD screen |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
+|OrkusMG | [Dragon Toolhead](./OrkusMG/DragonToolhead)|Dragon Toolhead |:grey_question: |:grey_question: |:grey_question:|
+|OrkusMG | [Voron Swivle Front LED Bar](./OrkusMG/VoronFrontSwivelLED)|Voron Swivle Front LED Bar |:grey_question: |:grey_question: |:grey_question:|
 |PhilLeMint | [c920 Mount](./PhilLeMint/c920_Mount/) | c920 Camera Mount | :grey_question: | :heavy_check_mark: | :heavy_check_mark: |
 | |[Panel Mounting](./PhilLeMint/Panel_Mounting/) | Panel Clips for 3/32" Foam Tape |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 | |[Dual LED Light Mount](./PhilLeMint/Dual_LED_Light_Mount/) | Mounts for Dual LED Bar |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
