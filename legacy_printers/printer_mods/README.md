@@ -19,7 +19,7 @@ like so:
 
 | Creator | Mod title | Description | V1.6 | V2.1 | V2.2 |
 | --- | --- | --- | --- | --- | --- |
-| 3D_Black   | [Fan Covers](./3D_Black) | Different fan covers for 40mm fans | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
+| 3D_Black   | [Fan Covers](./3D_Black/Fan_Covers) | Different fan covers for 40mm fans | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | agsolino | [RunOut Filament Holder](./agsolino/RunOutFilamentHolder) | Holder for TriangleLab Runout sensor | :grey_question: | :grey_question: | :heavy_check_mark: |
 | | [RS-25-5 Rotated](./agsolino/RS25-5-Rotated) | RS-25-5 PSU mount rotated 90 Degrees | :grey_question: | :grey_question: | :heavy_check_mark: |
 |Andreq | [Mobius Shaft Jig](./andreq/voron2)|Tool used for grinding flats on a shaft at specific places |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
