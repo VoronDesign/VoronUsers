@@ -259,7 +259,7 @@ contact the admins on Discord to have your mod moved to this folder.
 | consibonsi | [Y-Mod SW 9mm](consibonsi/Y-Mod_SW_9mm) | 9mm Y belt mod for SW | VSW |
 | csch0 | [SW Fan Mount No Tape](csch0/SW_FanMount_No_Tape) | 60x20 Fan Mount for SW without tape | VSW |
 | d3nny | [Filtered Power Plug with...](d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | V2.4 |
-| davidauvergne | [Center_cable_management_duct](davidauvergne/Center_cable_management_duct) | Mod for a centered cable management |  |
+| davidauvergne | [Center_cable_management_duct](davidauvergne/Center_cable_management_duct) | Mod for a centered cable management | V2.4 |
 | dePrintinator | [HEPA Exhaust](dePrintinator/HEPA_Filter_Exhaust) | HEPA filter chamber exhaust replacement. | V1.8, V2.4, VT |
 | deepfriedheroin | [v0 Wago Bed Mounts](deepfriedheroin/v0_bed_wagos) | Easy to install Wago mounts for the v0 | V0.2 |
 |  | [v0 Power Wagos](deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | V0.2 |
@@ -282,19 +282,18 @@ contact the admins on Discord to have your mod moved to this folder.
 | gen2eng | [Switchwire LED wire pass through](gen2eng/z_carriage_stop_pass_through) | Z Carriage Stop modification that makes pass through of wires for... | VSW |
 | geoffreyyoung | [Dual Rail Installation Guide](geoffreyyoung/dual_rail_guide) | Rail installation guide that also works for the 2.4 dual rail... | V2.4 |
 |  | [LGX Info, Links, and Models](geoffreyyoung/lgx) | Useful information and models for using the Bondtech LGX extruder... | V1.8, V2.4, VSW, VT |
-|  | [FYSETC SPIDER DIN Bracket](geoffreyyoung/spider_bracket) | FYSETC SPIDER DIN Bracket | V1.8, V2.4 |
 | gerritwellen | [Manta M8P Mount](gerritwellen/manta-m8p-bracket) | Mounting Bracket for BTT Manta M8P | V2.4, VT |
 | golas | [V0.1 Extended tophat hinge](golas/v0-extended-tophat-hinge) | Extended tophat for v0.1 with hinges (integrated or screwed ones). | V0.2 |
 |  | [V0.1 Trident skirt remix with...](golas/v0-trident-skirt-mix) | Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain... | V0.2 |
 | hartk1213 | [Voron0.2 2.8 Waveshare Display](hartk1213/Voron0.2_2.8_WaveshareDisplay) | 2.8 Waveshare display for V0.2 | V0.2 |
 |  | [Voron0.2 Rear Keystone Skirt](hartk1213/Voron0.2_Rear_Keystone_Skirt) | Added keystone slot on rear skirt for V0.2 | V0.2 |
-|  | [Voron0 C14Inlet](hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that... | V0.2 |
-|  | [Voron0 ExtendedLegs](hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more | V0.2 |
-|  | [Voron0 ExtrusionSkirt](hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it... | V0.2 |
-|  | [Voron0 Hinged Top Hat](hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away... | V0.2 |
-|  | [Voron0 MGN9C X Axis](hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0 | V0.2 |
-|  | [Voron0 deck panel](hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name... | V0.2 |
-|  | [Voron0 display dualcolor](hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | V0.2 |
+|  | [Voron0 C14Inlet](hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that... | V0.1 |
+|  | [Voron0 ExtendedLegs](hartk1213/Voron0_ExtendedLegs) | New extended legs to raise the printer up a tiny bit more | V0.1 |
+|  | [Voron0 ExtrusionSkirt](hartk1213/Voron0_ExtrusionSkirt) | Created a new skirt design that uses 50mm extrusions as legs and it... | V0.1 |
+|  | [Voron0 Hinged Top Hat](hartk1213/Voron0_Hinged_Top_Hat) | Created a new hinged top hat design for the V0 so it can fold away... | V0.1 |
+|  | [Voron0 MGN9C X Axis](hartk1213/Voron0_MGN9C_X_Axis) | This mod, replaces the stock MGN7H for MGN9C on the V0 | V0.1 |
+|  | [Voron0 deck panel](hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name... | V0.1 |
+|  | [Voron0 display dualcolor](hartk1213/Voron0_display_dualcolor) | Added a dual color file for the Voron Display Front housing | V0.1 |
 |  | [Voron2.4 GE5C](hartk1213/Voron2.4_GE5C) | This mod replaces the stack of printed z joints with a metal... | V2.4 |
 |  | [Voron2.4 SexBolt ZEndstop](hartk1213/Voron2.4_SexBolt_ZEndstop) | This mod replaces stock V2 Z endstop with a different style | V2.4, VT |
 |  | [Voron2.4 and Trident Pins Mod](hartk1213/Voron2.4_Trident_Pins_Mod) | This mod replaces all the M5 screws for all idlers/pulleys/bearings... | V2.4, VT |
@@ -314,7 +313,7 @@ contact the admins on Discord to have your mod moved to this folder.
 | jappaj | [V0.1 FanSaver](jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | V0.2 |
 | jasonc | [V2.4 Z-Idler Shoulder Bolt Mod](jasonc/Z_Idler_Shoulder_Bolt) | Modification to the idler carriers to accept a 25mm shoulder bolt.... | V2.4 |
 | jatson | [Plug panel mod for Schurter...](jatson/plug_panel_schurter) | A modified plug panel for Voron 2.4r1 with Schurter CD44.1101.151... | V2.4 |
-| jaysuk | [4.3 Fly Screen Mount](jaysuk/4.3_fly_screen_mount) | A mount for a 4.3" Fly Screen | V0.2 |
+| jaysuk | [4.3 Fly Screen Mount](jaysuk/4.3_fly_screen_mount) | A mount for a 4.3" Fly Screen | V0, V0.1 |
 | jeoje | [4.3" Touchscreen Mount](jeoje/4.3_Inch_Touchscreen_Mount) | Mounts a [Waveshare 4.3inch Capacitive Touch... | V2.4, VSW |
 |  | [Molex MLX and Microfit 3.0 Bed...](jeoje/Molex_MLX_Microfit_Bed_Connector_Mount) | Solid mount your bed connectors | V2.4 |
 |  | [Sturdy Handles](jeoje/Sturdy_Handles) | Modified v2.2 handles with no panel rest and with 4 anchor points | V2.4 |
@@ -341,8 +340,8 @@ contact the admins on Discord to have your mod moved to this folder.
 | mpfl | [V0.1 OLED-skirt](mpfl/V0.1_skirt_OLED) | V0.1 skirt with 0.96" OLED | V0.2 |
 | muradir | [Zodiac BMO Stealthburner Toolhead](muradir/Zodiac_BMO_Stealthburner_Toolhead) | A Stealthburner toolhead for the Zodiac BMO Hotend, based on the... | V1.8, V2.4, VSW, VT |
 | natewalck | [V1.8 Jigs](natewalck/v1.8_Jigs) | Jigs for assembling V1.8 | V1.8 |
-| nhchiu | [V0.1 Movable Pulley Z Drive](nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio... | V0.2 |
-| nikolasbabetas | [Neopixel Holder](nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | V0.2 |
+| nhchiu | [V0.1 Movable Pulley Z Drive](nhchiu/V0.1_Movable_Pulley_Z) | A movable pulley system on the Z axis with 1:8 total speed ratio... | V0.1 |
+| nikolasbabetas | [Neopixel Holder](nikolasbabetas/Neopixel_Holder) | A holder to attach Neopixel/WS2812B Led Strips to the V0.1 | V0.1 |
 | ommy | [roller brackets](ommy/roller_brackets) | Brackets to help rolling V2 on its side. | V2.4 |
 | oxno | [RBP Zero Bracket](oxno/rbp_zero_braket) | Bracket for Raspberry pi zero. | V1.8, V2.4 |
 | padok | [Chain Anchor - ADXL345 mount Mod](padok/chain_anchor-ADXL345_mount) | A ADXL345 mount for the Afterburner | V2.4 |
