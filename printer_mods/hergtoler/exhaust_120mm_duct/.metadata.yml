@@ -1,6 +1,7 @@
 cad: []
 description: v2.4 Exhaust Housing for 120mm Fan and 4in Duct
 images:
+- images/exhaust_120mm_installed.jpg
 - images/step5.png
 - images/step4.png
 - images/step6.png
@@ -9,7 +10,6 @@ images:
 - images/step2.png
 - images/step1.png
 - images/housing_inserts.png
-- images/exhaust_120mm_installed.jpg
 - images/exhaust_120mm_assembly.png
 mod_version: 1
 printer_compatibility:

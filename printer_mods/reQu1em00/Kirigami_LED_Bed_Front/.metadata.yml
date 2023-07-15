@@ -1,8 +1,8 @@
 cad: []
 description: Kirigami bed front with space for a single LED or Neopixel button
 images:
-- Beddefuser2.jpg
 - Bedfront.jpg
+- Beddefuser2.jpg
 mod_version: 1
 printer_compatibility:
 - V0.2

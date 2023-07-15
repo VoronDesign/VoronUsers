@@ -3,6 +3,7 @@ cad:
 description: Alternative Tophat design that uses stock panels and raises height by
   30mm
 images:
+- images/tophatdoor.jpg
 - images/heatinserts.jpg
 - images/doorhingefit.jpg
 - images/framemagnet.jpg
@@ -12,7 +13,6 @@ images:
 - images/doorhingemount.jpg
 - images/tophatside.jpg
 - images/tophatclosed.jpg
-- images/tophatdoor.jpg
 - images/toppanelclips.jpg
 - images/doorpanel.jpg
 - images/doorhingevhb.jpg

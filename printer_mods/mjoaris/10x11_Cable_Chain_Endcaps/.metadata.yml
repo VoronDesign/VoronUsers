@@ -5,12 +5,12 @@ cad:
 - CAD/10x11-chain-endcap1_nosupport.STEP
 description: Printable Endcaps for 10x11 Cable Chains
 images:
+- Images/printed.jpg
 - Images/10x11-chain-endcap1_nosupport.PNG
 - Images/10x11-chain-endcap2_nosupport.PNG
 - Images/10x11-chain-endcap1_support.PNG
 - Images/10x11-chain-endcap2_support.PNG
 - Images/endcaps_support.PNG
-- Images/printed.jpg
 - Images/endcaps_nosupport.PNG
 mod_version: 1
 printer_compatibility:

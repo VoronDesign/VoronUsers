@@ -2,8 +2,8 @@ cad:
 - CAD/bed_thumb_nut.step
 description: Taller thumb nuts for V0 bed
 images:
-- images/installed.jpg
 - images/part.jpg
+- images/installed.jpg
 mod_version: 1
 printer_compatibility:
 - V0.2

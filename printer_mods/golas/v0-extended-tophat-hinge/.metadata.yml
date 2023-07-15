@@ -2,8 +2,8 @@ cad:
 - cad/v0.1_tophat_extended.step
 description: Extended tophat for v0.1 with hinges (integrated or screwed ones).
 images:
-- images/tophat-front.png
 - images/tophat_render.png
+- images/tophat-front.png
 - images/tophat-side.png
 - images/tophat-closed.png
 - images/v01-remixed-render.png

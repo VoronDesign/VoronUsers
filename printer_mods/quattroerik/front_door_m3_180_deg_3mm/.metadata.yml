@@ -3,8 +3,8 @@ cad:
 description: Voron 2.4 door hinges for 3mm panel, 180 deg opening and m3 screw as
   shaft
 images:
-- Assembly.png
 - door_hinge_new.png
+- Assembly.png
 mod_version: 1
 printer_compatibility:
 - V2.4

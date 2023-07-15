@@ -2,10 +2,10 @@ cad:
 - CAD/y_tension.f3d
 description: Y Tension Mod
 images:
+- IMAGES/installed.jpg
 - IMAGES/parts.jpg
 - IMAGES/assembled.jpg
 - IMAGES/stack.jpg
-- IMAGES/installed.jpg
 mod_version: 1
 printer_compatibility:
 - VSW

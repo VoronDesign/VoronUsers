@@ -1,8 +1,8 @@
 cad: []
 description: V0 skirt with 0.96" OLED
 images:
-- img/OLED.jpg
 - img/V0_skirt_OLED.svg
+- img/OLED.jpg
 mod_version: 1
 printer_compatibility:
 - V0.2

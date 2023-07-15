@@ -2,9 +2,9 @@ cad:
 - CAD/NewLatch v108.f3d
 description: Quick release panel latch inspired by the work of others.
 images:
+- Images/Latch-v68-3mm.jpg
 - Images/Assembly.gif
 - Images/BuildPlate.png
-- Images/Latch-v68-3mm.jpg
 - Images/Parameters.png
 - Images/250Plate.png
 mod_version: 1

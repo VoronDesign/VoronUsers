@@ -2,9 +2,9 @@ cad:
 - skr_brace.step
 description: Rigidize and stabilize SKR 1.4 mounts
 images:
+- pic2.jpg
 - pic1.png
 - pic3.png
-- pic2.jpg
 - cad1.png
 mod_version: 1
 printer_compatibility:

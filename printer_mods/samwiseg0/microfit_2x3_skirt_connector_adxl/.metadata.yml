@@ -2,8 +2,8 @@ cad:
 - CAD/microfit_2x3_skirt_connector_adxl.step
 description: Mod for a Microfit 2x3 connector to be mounted in a skirt
 images:
-- Images/[a]_microfit_2x3_skirt_connector_adxl_whole.png
 - Images/[a]_microfit_2x3_skirt_connector_adxl_skirt.png
+- Images/[a]_microfit_2x3_skirt_connector_adxl_whole.png
 - Images/[a]_microfit_2x3_skirt_connector_adxl.png
 mod_version: 1
 printer_compatibility:

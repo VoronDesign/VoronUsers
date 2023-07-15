@@ -5,8 +5,8 @@ cad:
 - CAD/canable_pro_mount.f3d
 description: MKS CANable Pro mount which mounts on a DIN rail
 images:
-- Images/canable_pro_mount_parts.jpg
 - Images/canable_pro_mount_built.jpg
+- Images/canable_pro_mount_parts.jpg
 - Images/canable_pro_cad.jpg
 mod_version: 1
 printer_compatibility:

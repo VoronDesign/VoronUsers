@@ -1,9 +1,9 @@
 cad: []
 description: 3Z mod for V1
 images:
+- images/installed_view.jpg
 - images/bed_mount.jpg
 - images/final_installation_view.jpg
-- images/installed_view.jpg
 - images/Top_rod_attachment.jpg
 - images/bed_mount_installed.jpg
 - images/full_assembly.jpg

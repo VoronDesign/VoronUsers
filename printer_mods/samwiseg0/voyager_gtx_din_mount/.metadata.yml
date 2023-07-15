@@ -2,8 +2,8 @@ cad:
 - CAD/voyager_gtx_din_mount_universal.step
 description: Din carrier for a Corsair Flash Voyager GTX
 images:
-- Images/voyager_gtx_din_mount_uni_2.png
 - Images/voyager_gtx_din_mount.jpg
+- Images/voyager_gtx_din_mount_uni_2.png
 - Images/voyager_gtx_din_mount.png
 mod_version: 1
 printer_compatibility:

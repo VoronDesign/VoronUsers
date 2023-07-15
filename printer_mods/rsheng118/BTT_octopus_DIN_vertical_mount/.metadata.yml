@@ -1,8 +1,8 @@
 cad: []
 description: DIN vertical mount for Big Tech Tree Octopus board
 images:
-- img/spacer.jpg
 - img/mount.jpg
+- img/spacer.jpg
 - img/back.jpg
 mod_version: 1
 printer_compatibility:

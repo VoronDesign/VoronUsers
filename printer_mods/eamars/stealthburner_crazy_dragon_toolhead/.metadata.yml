@@ -3,10 +3,10 @@ cad:
 description: The Stealthburner toolhead mount for Mellow Crazy, TriangleLab T-Volcano
   and Phaetus UHF mini
 images:
+- front.png
 - bottom.PNG
 - cut_section.PNG
 - back.png
-- front.png
 mod_version: 1
 printer_compatibility:
 - V1.8

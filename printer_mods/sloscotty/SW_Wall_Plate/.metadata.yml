@@ -1,9 +1,9 @@
 cad: []
 description: SW plate for enclosure
 images:
+- Images/assembled1.jpg
 - Images/printed_pieces.jpg
 - Images/SW_plate_rendered.jpg
-- Images/assembled1.jpg
 - Images/SW_backwall_plate.jpg
 - Images/base_inserts.jpg
 mod_version: 1

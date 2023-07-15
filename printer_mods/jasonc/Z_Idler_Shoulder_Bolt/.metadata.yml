@@ -2,8 +2,8 @@ cad: []
 description: Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal
   for Gates idlers.
 images:
-- cross_section.png
 - shoulder_bolts_and_prints.jpeg
+- cross_section.png
 mod_version: 1
 printer_compatibility:
 - V2.4

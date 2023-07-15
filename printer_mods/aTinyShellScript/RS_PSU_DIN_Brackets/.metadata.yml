@@ -2,8 +2,8 @@ cad:
 - CAD/Meanwell_RS_PSU_DIN_Brackets_v1.f3d
 description: DIN brackets for MeanWell RS PSUs with 80mm spacing.
 images:
-- Images/brackets.jpg
 - Images/mounted.jpg
+- Images/brackets.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

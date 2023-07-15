@@ -1,8 +1,8 @@
 cad: []
 description: A simple safety guard for the terminals on a Crydom GN SSR
 images:
-- Images/guard.png
 - Images/installed.jpg
+- Images/guard.png
 - CAD/lightning.svg
 mod_version: 1
 printer_compatibility:

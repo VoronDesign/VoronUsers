@@ -1,8 +1,8 @@
 cad: []
 description: HEPA filter chamber exhaust replacement.
 images:
-- Images/exhaust-chamber-mount-jst-terminal.png
 - Images/exhaust-fan-assembly.png
+- Images/exhaust-chamber-mount-jst-terminal.png
 - Images/hepa-chamber-exhaust-cad.png
 - Images/exhaust-chamber-mount-back.png
 - Images/exhaust-HEPA-filter-insert.png

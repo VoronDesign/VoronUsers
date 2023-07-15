@@ -2,8 +2,8 @@ cad:
 - CAD/Quickdraw_for_VSW.step
 description: Detachable magnetic probe with docking system for VSW
 images:
-- Pictures/quickdraw_SW_remix.png
 - Pictures/quickdraw_SW_probe.png
+- Pictures/quickdraw_SW_remix.png
 - Pictures/SW_Y_travel.png
 mod_version: 1
 printer_compatibility:

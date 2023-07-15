@@ -3,8 +3,8 @@ cad:
 - CAD/V02-28Waveshare.step
 description: 2.8 Waveshare display for V0.2
 images:
-- Images/WaveshareSkirtMount.png
 - Images/2.png
+- Images/WaveshareSkirtMount.png
 mod_version: 1
 printer_compatibility:
 - V0.2

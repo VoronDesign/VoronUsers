@@ -3,8 +3,8 @@ cad:
 - cad/z-locks.step
 description: Helping hands curing v2.4 build, replaces long zip ties.
 images:
-- images/z-locks.png
 - images/z-locks-installed.png
+- images/z-locks.png
 mod_version: 1
 printer_compatibility:
 - V2.4

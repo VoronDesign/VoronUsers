@@ -2,8 +2,8 @@ cad: []
 description: A way of reaching electronics from the top by having a "car hood" style
   hinge for the heatbed, and rotated electronics mounts.
 images:
-- Pictures/piston.jpg
 - Pictures/result.gif
+- Pictures/piston.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

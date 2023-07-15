@@ -2,8 +2,8 @@ cad:
 - CAD/Voron_V2.4_Z_Chain_Guide_Thermistor_Mount.step
 description: Modifies the Z chain guide to hold a chamber thermistor
 images:
-- images/render2.png
 - images/render1.png
+- images/render2.png
 - images/max-z.png
 mod_version: 1
 printer_compatibility:

@@ -3,10 +3,10 @@ cad:
 description: Runout UnKlicky Sensor is a filament runout sensor with mounts for 1515
   and 2020 extrusions
 images:
+- images/cable.jpg
 - images/pin.jpg
 - images/designall.png
 - images/nofilament.jpg
-- images/cable.jpg
 - images/top.jpg
 - images/parts.jpg
 - images/designtop.png

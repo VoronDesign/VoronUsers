@@ -5,5 +5,5 @@ images:
 - Images/1.png
 mod_version: 1
 printer_compatibility:
-- V0.2
+- V0.1
 title: Voron0 ExtrusionSkirt

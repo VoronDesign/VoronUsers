@@ -2,9 +2,9 @@ cad:
 - CAD/LCD_Skirt_Assembly.step
 description: 3.2" LCD Touch Screen Skirt
 images:
+- images/Gallery_1.jpg
 - images/Thumbnail_LCD_Face_Plate.png
 - images/Gallery_2.jpg
-- images/Gallery_1.jpg
 - images/Thumbnail_Skirt_Front_Left.png
 - images/Fusion_360.png
 - images/Thumbnail_Skirt_Side_A.png

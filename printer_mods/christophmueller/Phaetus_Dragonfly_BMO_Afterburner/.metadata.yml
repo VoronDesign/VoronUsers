@@ -1,10 +1,10 @@
 cad: []
 description: Covers both the original Phaetus variant as well as the Zodiac one.
 images:
+- front.jpg
 - Dragonfly_BMO_Zodiac.png
 - Dragonfly_BMO_Phaetus.png
 - back.jpg
-- front.jpg
 mod_version: 1
 printer_compatibility:
 - V1.8

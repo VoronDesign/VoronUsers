@@ -4,10 +4,10 @@ cad:
 description: Permanent mount for ADXL boards on the back of the motor, replacing the
   drag chain mount.
 images:
+- Images/CAD-Adafruit.png
 - Images/TheDamage.jpg
 - Images/Clearance.jpg
 - Images/CAD.png
-- Images/CAD-Adafruit.png
 mod_version: 1
 printer_compatibility:
 - V2.4

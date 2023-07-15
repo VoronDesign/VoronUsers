@@ -2,9 +2,9 @@ cad:
 - CAD/Stealthburner-PCBCover-AirVents.step
 description: Cable cover for LGX and stealthburner
 images:
+- Images/LGX_Stealthburner_connectorCover.png
 - Images/Preview-front.png
 - Images/Preview-back.png
-- Images/LGX_Stealthburner_connectorCover.png
 mod_version: 1
 printer_compatibility:
 - V1.8

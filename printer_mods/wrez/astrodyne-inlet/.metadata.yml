@@ -4,9 +4,9 @@ cad:
 description: Drop in replacement for alternate-source power inlet if spec inlet is
   back-ordered
 images:
+- images/in-situ.jpg
 - images/fuses.jpg
 - images/power-inlet-astrodyne.png
-- images/in-situ.jpg
 - images/front-view.jpg
 - images/082SM-tabs.jpg
 - images/rear-view.jpg

@@ -7,11 +7,12 @@ cad:
 - CAD/cover_duct_208.step
 description: Mod for a centered cable management
 images:
-- Pictures/IMG_20220226_094626.jpg
 - Pictures/IMG_20220226_094653.jpg
+- Pictures/IMG_20220226_094626.jpg
 - Pictures/IMG_20220301_163247.jpg
 - CAD/Capture1.JPG
 - CAD/Capture2.JPG
 mod_version: 1
-printer_compatibility: []
+printer_compatibility:
+- V2.4
 title: Center_cable_management_duct

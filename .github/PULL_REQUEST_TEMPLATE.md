@@ -42,11 +42,23 @@ Doing so speeds up the review process and will increase your chances at acceptan
     mod_version: 1 # required
     printer_compatibility:  # required, one or more of the options listed below
       - V0
+      - V0.1
+      - V0.2
+      - V0.2r1
       - V1
+      - V1.6
+      - V1.8
+      - V1.8r1
       - V2
+      - V2.1
+      - V2.2
+      - V2.4
+      - V2.4r1
+      - V2.4r2
       - VSW
-      - Trident
-      - Legacy
+      - VT
+      - VTr1
+      - VL
     cad: # required: At least 1 CAD file for your mod, path relative to your mod folder
       - CAD/my_step_file_1.step
       - CAD/my_f360_file_1.f3d

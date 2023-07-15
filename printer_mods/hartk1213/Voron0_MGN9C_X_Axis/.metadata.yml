@@ -2,9 +2,9 @@ cad:
 - CAD/MGN9C-V0.step
 description: This mod, replaces the stock MGN7H for MGN9C on the V0
 images:
-- Images/x_axis.png
 - Images/carraige.png
+- Images/x_axis.png
 mod_version: 1
 printer_compatibility:
-- V0.2
+- V0.1
 title: Voron0 MGN9C X Axis

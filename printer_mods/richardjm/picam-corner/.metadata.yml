@@ -1,8 +1,8 @@
 cad: []
 description: Out of the way corner mounted picam
 images:
-- Images/TheView.jpg
 - Images/TheMountingPoint.jpg
+- Images/TheView.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

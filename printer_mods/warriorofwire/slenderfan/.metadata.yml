@@ -2,8 +2,8 @@ cad:
 - cad/slenderfan.step
 description: Lighter, quieter, smaller Afterburner
 images:
-- images/render.png
 - images/printer.png
+- images/render.png
 - images/render_open.png
 mod_version: 1
 printer_compatibility:

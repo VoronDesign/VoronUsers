@@ -1,9 +1,9 @@
 cad: []
 description: Mod to mount a Waveshare 5.5inch full HD display on a V2
 images:
+- Images/photo.jpeg
 - Images/fusion-back.png
 - Images/fusion-front.png
-- Images/photo.jpeg
 mod_version: 1
 printer_compatibility:
 - V2.4

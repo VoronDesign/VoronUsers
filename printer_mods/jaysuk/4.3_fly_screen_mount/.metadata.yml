@@ -6,5 +6,6 @@ images:
 - Images/4.3_fly_screen_mount_assembly.JPG
 mod_version: 1
 printer_compatibility:
-- V0.2
+- V0
+- V0.1
 title: 4.3 Fly Screen Mount

@@ -2,12 +2,12 @@ cad:
 - CAD/NozzleWiper.step
 description: Servo powered nozzle wiper and purge bucket
 images:
-- images/brush.jpg
 - images/fullyopen.jpg
+- images/completed.jpg
+- images/brush.jpg
 - images/armtobrushmount.jpg
 - images/armassembly.jpg
 - images/mounted.jpg
-- images/completed.jpg
 - images/parts.jpg
 - images/brushholder.jpg
 - images/servomounting.jpg

@@ -9,6 +9,7 @@ cad:
 description: Housing for small USB camera module, allowing mounting to gantry or frame
   profiles
 images:
+- Images/V2/AngryCAM_USB_V2_120+_FrontView_Close.jpg
 - Images/AngryCAM_USB_JST_SH_Connector.png
 - Images/ov5648_5mp_usb_camera_a.png
 - Images/V1/Camera_Housing_+_Mounts_rear_starboard.png
@@ -28,7 +29,6 @@ images:
 - Images/V2/Angry_CAM_Front_Mount_Above_Rendered.png
 - Images/V2/AngyCAM_USB_V2_Bottom_Mount_Cable_Path_Detail.png
 - Images/V2/AngyCAM_USB_V2_Front_Cover_120+_Front.png
-- Images/V2/AngryCAM_USB_V2_120+_FrontView_Close.jpg
 - Images/V2/AngyCAM_USB_V2_Rear_Cover_Outer_Dimensions.png
 - Images/V2/AngyCAM_USB_V2_Rear_Cover_Measurement_Details.png
 - Images/V2/AngyCAM_USB_V2_Rear_Cover_Extrusion_Details.png

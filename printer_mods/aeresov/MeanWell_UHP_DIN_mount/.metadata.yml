@@ -3,9 +3,9 @@ cad:
 description: A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount it
   across 2 DIN rails.
 images:
+- images/photo_railed_2.png
 - images/db.png
 - images/photo_railed_1.png
-- images/photo_railed_2.png
 - images/photo_bare_2.png
 - images/photo_bare_1.png
 mod_version: 1

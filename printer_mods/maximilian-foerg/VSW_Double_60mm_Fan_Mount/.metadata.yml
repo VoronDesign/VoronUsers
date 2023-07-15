@@ -2,8 +2,8 @@ cad:
 - CAD/VSW_Double_60mm_Fan_Mount.step
 description: A mount for two (or four) 60mm fans in SW's electronics compartment
 images:
-- Images/01.png
 - Images/03.png
+- Images/01.png
 - Images/02.png
 - Images/04.png
 mod_version: 1

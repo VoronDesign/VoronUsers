@@ -6,10 +6,10 @@ cad:
 - STEP/spider.spacer.step
 description: DIN rail mount for FYSETC Spider
 images:
+- IMG/main.jpg
 - IMG/spacer.jpg
 - IMG/bracket.jpg
 - IMG/spacers.jpg
-- IMG/main.jpg
 - IMG/horizontal.jpg
 mod_version: 1
 printer_compatibility:

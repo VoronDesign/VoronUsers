@@ -4,6 +4,7 @@ cad:
 description: Provide overlapping and flush slot covers for 20x20mm slot6 construction
   profiles
 images:
+- Images/V1/2020_Profile_Stealth_Cover_real.jpg
 - Images/SuperSlicer_Defining_Exact_Profile_Length.png
 - Images/SuperSlicer_Deactivating_Linked_Scaling.png
 - Images/SuperSlicer_Free_Scaling.png
@@ -12,7 +13,6 @@ images:
 - Images/V1/2020_Profile_Cover.png
 - Images/V1/2020_Profile_Covers_real.jpg
 - Images/V1/2020_Profile_Stealth_Cover.png
-- Images/V1/2020_Profile_Stealth_Cover_real.jpg
 - Images/V1/2020_Profile_Stealth_Cover_3DView.png
 - Images/V1/2020_Profile_Stealth_Cover_FrontView.png
 - Images/V1/2020_Profile_Covers.png

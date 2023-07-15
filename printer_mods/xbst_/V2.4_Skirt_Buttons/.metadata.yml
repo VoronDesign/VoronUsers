@@ -2,8 +2,8 @@ cad:
 - Buttons/CAD.f3d
 description: Skirt mod for custom Gcode macro buttons
 images:
-- Pictures/4.jpg
 - Pictures/2.jpg
+- Pictures/4.jpg
 - Pictures/3.jpg
 - Pictures/1.jpg
 mod_version: 1

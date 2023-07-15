@@ -2,8 +2,8 @@ cad: []
 description: 100mm/4" ducting mount for ventilation. Also supports umbilical cord
   and has 3 orientations for bowden adapter.
 images:
-- example2.jpg
 - example.jpg
+- example2.jpg
 mod_version: 1
 printer_compatibility:
 - V2.4

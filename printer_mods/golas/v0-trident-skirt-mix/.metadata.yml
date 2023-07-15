@@ -2,6 +2,7 @@ cad:
 - cad/v0.1_trident_skirt_remix.step
 description: Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain skirt.
 images:
+- images/revnull2.jpg
 - images/bottom-view.png
 - images/lcd_cover_back_view.png
 - images/lcd_back_to_connector.png
@@ -9,7 +10,6 @@ images:
 - images/connector.png
 - images/skirt_screw_1.png
 - images/v0.1_trident_skirt_remix_render.png
-- images/revnull2.jpg
 - images/skirt_screw_2.png
 - images/connector_and_plate.png
 - images/revnull1.jpg

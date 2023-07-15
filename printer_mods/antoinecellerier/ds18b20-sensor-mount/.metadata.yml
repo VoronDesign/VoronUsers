@@ -2,8 +2,8 @@ cad:
 - CAD/DS18B20-sensor-mount.f3d
 description: DS18B20 temperature sensor mount
 images:
-- Images/CAD_1.jpg
 - Images/CAD_3.jpg
+- Images/CAD_1.jpg
 - Images/CAD_2.jpg
 - Images/CAD_4.jpg
 - Images/PIC_4.jpg

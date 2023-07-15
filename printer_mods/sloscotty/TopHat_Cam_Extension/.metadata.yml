@@ -2,10 +2,10 @@ cad:
 - CAD/Tophat-Cam-Extension.f3d
 description: Tophat extension with integrated webcam for V0/0.1
 images:
+- Images/TopHat_Cam_Extension_Installed.jpg
 - Images/THCE_without_TH.jpg
 - Images/Camera_Assembly.jpg
 - Images/VHB_FrontRear_Spacers.jpg
-- Images/TopHat_Cam_Extension_Installed.jpg
 - Images/Arm_Cover_Assembly.jpg
 - Images/Back_Panel.jpg
 - Images/Arducam.jpg

@@ -3,9 +3,9 @@ cad:
 description: Toolhead for Crazy Mozzie HF, compatible with Stealthburner and Clockwork
   2
 images:
+- images/pic.jpg
 - images/pic2.jpg
 - images/render.png
-- images/pic.jpg
 mod_version: 1
 printer_compatibility:
 - V1.8

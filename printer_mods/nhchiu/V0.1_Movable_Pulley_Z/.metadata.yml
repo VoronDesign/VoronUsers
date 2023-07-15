@@ -4,6 +4,7 @@ cad:
 description: A movable pulley system on the Z axis with 1:8 total speed ratio for
   V0.1
 images:
+- Images/img3.jpg
 - Images/M4.png
 - Images/Img.png
 - Images/Top_Belt_End_Path.png
@@ -15,7 +16,6 @@ images:
 - Images/Top.png
 - Images/Preload_Nuts.png
 - Images/Top_Position.png
-- Images/img3.jpg
 - Images/img2.jpg
 - Images/Top_Endstop.png
 - Images/img1.jpg
@@ -27,5 +27,5 @@ images:
 - kirigami_adaptor/sliced.png
 mod_version: 1
 printer_compatibility:
-- V0.2
+- V0.1
 title: V0.1 Movable Pulley Z Drive
