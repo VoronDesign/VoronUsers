@@ -1,12 +1,12 @@
 cad: []
 description: Mounts the Triangle Labs 2-to-1 adapter directly to the mosquito toolhead
 images:
-- 20191013_202725.jpg
-- 20191013_202745.jpg
-- 20191013_202806.jpg
+  - 20191013_202745.jpg
+  - 20191013_202725.jpg
+  - 20191013_202806.jpg
 mod_version: 1
 printer_compatibility:
-- V1.6
-- V2.1
-- V2.2
+  - V1.6
+  - V2.1
+  - V2.2
 title: TL 2-to-1 Mosquito Toolhead Adapter
