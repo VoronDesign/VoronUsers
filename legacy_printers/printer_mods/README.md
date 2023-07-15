@@ -143,10 +143,10 @@ like so:
 |warriorofwire | [Openbuilds Drag Chain 2.1](./warriorofwire/openbuilds_drag_chain_2.1)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :heavy_check_mark: | :x: |
 | | [Openbuilds Drag Chain 2.2](./warriorofwire/openbuilds_drag_chain_2.2)|Off-the-shelf, cheap, snap opening drag chain for gantry wiring and protecting wires down to the deck |:x: | :x: | :heavy_check_mark: |
 | | [Direct Drive BMG-m mount](./warriorofwire/bmg_direct_drive)| Open toolhead mounting plans for Bondtech BMG-m and Mosquito direct drive combo|:grey_question: |:heavy_check_mark:|:heavy_check_mark: |
-| wile.e.coyote| [Coroplast Support](./wile.e.coyote)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
-| |[Dual Buck Bracket](./wile.e.coyote)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-| |[Nozzle Scrubber Mount](./wile.e.coyote) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
-| | [Wago Mounts](./wile.e.coyote)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
-| Xile | [AfterBurner Umbilical](./XIle) | Supports a umbilical setup, on AB, taking the strain off connectors | :grey_question: | :grey_question: | :heavy_check_mark: |
+| wile.e.coyote| [Coroplast Support](./wile.e.coyote/coroplast_support)|Support for the coroplast to prevent sagging | :x: |:heavy_check_mark: |:grey_question: |
+| |[Dual Buck Bracket](./wile.e.coyote/dual_buck_bracket)   |Mounting bracket for 2 buck converters | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| |[Nozzle Scrubber Mount](./wile.e.coyote/nozzle_scrubber_mount) | Mount for brass brush. Used for cleaning nozzle before printing |:x: | :heavy_check_mark: |:heavy_check_mark: |
+| | [Wago Mounts](./wile.e.coyote/wago_mounts)  | Different mounts for Wago connectors | :heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |
+| Xile | [AfterBurner Umbilical](./XIle/Afterburner_Umbilical) | Supports a umbilical setup, on AB, taking the strain off connectors | :grey_question: | :grey_question: | :heavy_check_mark: |
 
 ---
