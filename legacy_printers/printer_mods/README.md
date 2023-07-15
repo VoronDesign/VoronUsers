@@ -104,9 +104,9 @@ like so:
 | |[Dual LED Light Mount](./PhilLeMint/Dual_LED_Light_Mount/) | Mounts for Dual LED Bar |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 | |[Velocity Stack](./PhilLeMint/Velocity_Stack/) | Velocity Stack Fan Cover |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
 | |[Indicator Mount](./PhilLeMint/Indicator_Mount/) | Mount for Indicator |:grey_question: | :heavy_check_mark: |:heavy_check_mark: |
-|pnokel |[Cable Zipper](./pnokel) |Small mount to secure wires with zip ties |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
-| |[Coroplast holders](./pnokel) | Different coroplast holders for added support |:x:| :heavy_check_mark:|:grey_question: |
-| |[Toothed Idler](./pnokel) |14.5mm toothed idler | :x: | :x: |:x:|
+|pnokel |[Cable Zipper](./pnokel/Cable_Zipper) |Small mount to secure wires with zip ties |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
+| |[Coroplast holders](./pnokel/Coroplast_holders) | Different coroplast holders for added support |:x:| :heavy_check_mark:|:grey_question: |
+| |[Toothed Idler](./pnokel/Toothed_Idler) |14.5mm toothed idler | :x: | :x: |:x:|
 | przybybr|[V2.1 Omron Mount](./przybybr/V2_1OmronMount/) | Mount for Omron probe in V2.1 | :grey_question:|:heavy_check_mark: | :x:|
 | Railgunner|[Dual Direct Drive X Carriage](./Railgunner/10mmBMGx2) |Dual direct drive using 2x Bondtech BMG | :grey_question:|:grey_question: |:grey_question: |
 |Randommen96 | [LCD bracket extended](./randommen96/LCD_bracket_extended/) | LCD bracket extended for 6mm panels | :grey_question: | :grey_question: | :heavy_check_mark: |
