@@ -58,7 +58,7 @@ like so:
 | Fulg| [PanelDue5 LCD Mount](./Fulg/PanelDue5)|Mount for the PanelDue5 LCD display |:heavy_check_mark: | :heavy_check_mark:|:heavy_check_mark: |
 |GSL12 |[WAGO 221 Mounts](./GSL12/wago_221_mount)   | Wago 221 mounts for the electronics bay |:heavy_check_mark: |:heavy_check_mark: | :heavy_check_mark:|
 |Gamsche | [Keystone Skirt Panel](./Gamsche/skirt_keystone)| 25mm skirt panel with integrated keystone jack.  Use with 50mm smaller adjacent skirts for proper fit. |:grey_question: |:grey_question: |:heavy_check_mark:|
-|Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
+|Glowtape | [MKS GenL 1.0 Mounting Bracket](./Glowtape/MKS_GenL_1.0_Mounting_Bracket)| MKS GenL 1.0 Mounting Bracket|:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 |GustavTheMighty | [4.3 PanelDue Case](./GustavtheMighty/4.3-Paneldue_Case)|Case/mount for the 4.3 PanelDue LCD Display  |:heavy_check_mark:  | :heavy_check_mark: |:heavy_check_mark:  |
 |Iakabos| [Mini12864 Display Mount](./Iakabos/Mini12864_display_mount)|Case and mounting arms for a Fysetc Mini12864 display |:grey_question: |:heavy_check_mark: |:heavy_check_mark: |
 | Hackdoggo| [BMGobius](./hackdoggo/v2/bmgobius)|Modification to MZBot's Mobius Extruder to use dual drive Bondtech drivegears |:heavy_check_mark:  | :heavy_check_mark: | :heavy_check_mark: |
