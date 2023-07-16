@@ -1,0 +1,8 @@
+cad: []
+description: Mount for brass brush. Used for cleaning nozzle before printing
+images: []
+mod_version: 1
+printer_compatibility:
+  - V2.1
+  - V2.2
+title: Nozzle Scrubber Mount

@@ -1,11 +1,11 @@
 cad: []
 description: Minimalistic Fysetc Mini12864 display mount
 images:
-- img/back.jpg
-- img/explode.png
-- img/front.jpg
-- img/installed.jpg
+  - img/front.jpg
+  - img/back.jpg
+  - img/explode.png
+  - img/installed.jpg
 mod_version: 1
 printer_compatibility:
-- V2.2
+  - V2.2
 title: Minima

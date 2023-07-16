@@ -1,11 +1,11 @@
 cad:
-- cam_mount_rotatable_wide_cam.STEP
-- cam_mount_v2_rotatable.STEP
+  - cam_mount_rotatable_wide_cam.STEP
+  - cam_mount_v2_rotatable.STEP
 description: Cam mount for alie raspi cams
 images:
-- View_from_back.jpg
-- View_from_front.jpg
+  - View_from_front.jpg
+  - View_from_back.jpg
 mod_version: 1
 printer_compatibility:
-- V2.2
+  - V2.2
 title: Raspi cam mount

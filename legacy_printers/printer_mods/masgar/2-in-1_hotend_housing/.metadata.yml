@@ -1,13 +1,13 @@
 cad:
-- CAD/2in1_toolhead_housing.f3d
-- CAD/2in1_toolhead_housing.step
+  - CAD/2in1_toolhead_housing.f3d
+  - CAD/2in1_toolhead_housing.step
 description: Front/Rear toolhead housing for XCR3D/BTT/BIQU 2-in-1 hotend
 images:
-- images/measures.png
-- images/Mouting_Scheme.png
+  - images/Mouting_Scheme.png
+  - images/measures.png
 mod_version: 1
 printer_compatibility:
-- V1.6
-- V2.1
-- V2.2
+  - V1.6
+  - V2.1
+  - V2.2
 title: 2-in-1 hotend housing

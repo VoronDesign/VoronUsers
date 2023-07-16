@@ -1,0 +1,7 @@
+cad: []
+description: Support for the coroplast to prevent sagging
+images: []
+mod_version: 1
+printer_compatibility:
+  - V2.1
+title: Coroplast Support

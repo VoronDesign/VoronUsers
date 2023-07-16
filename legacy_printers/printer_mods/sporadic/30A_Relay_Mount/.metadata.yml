@@ -1,10 +1,10 @@
 cad: []
 description: Mount for a 30A relay module available on Amazon
 images:
-- 30A_Relay_Installed.jpg
-- 30A_Relay_Mount.png
+  - 30A_Relay_Mount.png
+  - 30A_Relay_Installed.jpg
 mod_version: 1
 printer_compatibility:
-- V2.1
-- V2.2
+  - V2.1
+  - V2.2
 title: 30A Relay Mount
