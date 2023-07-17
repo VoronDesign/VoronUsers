@@ -1,0 +1,11 @@
+name: Repository Dispatch
+on:
+  repository_dispatch:
+    types: [create_pr_comment]
+jobs:
+  create_pr_comment:
+    uses: VoronDesign/.github/.github/workflows/pr-comment-labels.yml@main
+    with:
+        repository: ${{ github.repository }}
+        pr_number: ${{ github.event.client_payload.pr_number }}
+        action_run_id: ${{ github.event.client_payload.action_run_id }}
