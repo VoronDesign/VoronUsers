@@ -12,7 +12,7 @@ contact the admins on Discord to have your mod moved to this folder.
 
 
 | Creator | Mod title | Description | Printer compatibility |
-| --- | --- | --- | --- |
+| --- | --- | ----- | --- |
 | 1-0-R | [V2.4 handle](1-0-R/handle) | Handle for Voron 2.4 | V2.4 |
 | 120decibell | [Side entry exhaust housing](120decibell/exhaust_housing_side_entry) | Exhaust housing with dual cover screws and single or dual side... | V1.8, V2.4, VT |
 |  | [Huvud Chain Mount](120decibell/huvud_chain_mount) | Huvud rear mount for Clockwork or LGX that supports a cable chain. | V1.8, VT |
