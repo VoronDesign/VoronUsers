@@ -11,7 +11,7 @@ permissions:
 jobs:
   checkout_check_whitespace:
     name: Checkout & Check Whitespace
-    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@v2
+    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@v3
     with:
       branch: ${{ github.ref }}
       cache-key: file-cache-${{github.sha}}
@@ -20,7 +20,7 @@ jobs:
     needs: [checkout_check_whitespace]
     name: Prepare python environment
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@v2
+    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@v3
     with:
       apt-packages: "admesh, libadmesh-dev"
       pip-packages: "admesh imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
@@ -29,7 +29,7 @@ jobs:
     name: Check STL corruption
     needs: [setup_python]
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@v2
+    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@v3
     with:
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
@@ -38,7 +38,7 @@ jobs:
     name: Check STL rotation
     needs: [setup_python]
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@v2
+    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@v3
     secrets:
     # ToDo: Change to secrets: inherit once it's in the VoronDesign org
       IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY }}
@@ -52,34 +52,33 @@ jobs:
     name: Check metadata files
     needs: [checkout_check_whitespace]
     if: ${{ needs.checkout_check_whitespace.outputs.yaml == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@v2
+    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@v3
     with:
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
   preview_readme:
     name: Preview README.md
     needs: [validate_metadata]
-    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@v2
+    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@v3
     with:
       subdirectory: printer_mods
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
-  create_pro_comment:
-    name: Create PR comment
+  prepare_pr_comment:
+    name: Store PR comment parameters
+    # The create_pr_common workflow listens for completion of this workload and executes.
+    # This allows us to run in the context of our repo, with sufficient credentials to do PR comments/set labels. We pass the
+    # information that the dispatched workflow can't deduce on its own via an uploaded artifact
     needs: [checkout_check_whitespace, check_stls, check_stl_rotation, validate_metadata, preview_readme]
     if: ${{ always() }}
-    uses: VoronDesign/.github/.github/workflows/generate-pr-comment.yml@v2
-    with:
-      repository: ${{ github.repository }}
-      action_run_id: ${{ github.run_id }}
-
-
-  # check_files:
-  #   name: Check files
-  #   needs: [validate_metadata]
-  #   uses: VoronDesign/.github/.github/workflows/validate_files.yml@v1
-  #   with:
-  #     subdirectory: printer_mods
-  #     cache-key: file-cache-${{github.sha}}
-  #     cache-directory: pr-files
-  #     python-cache-key: voronusers-python-cache
+    runs-on: ubuntu-latest
+    steps:
+      - name: Save PR number
+        run: |
+          mkdir -p ${{ runner.temp }}/pr
+          echo -n ${{ github.event.number }} > ${{ runner.temp }}/pr/pr_number
+          echo -n ${{ github.run_id }} > ${{ runner.temp }}/pr/action_run_id
+      - uses: actions/upload-artifact@65d862660abb392b8c4a3d1195a2108db131dd05
+        with:
+          name: pr
+          path: ${{ runner.temp }}/pr
