@@ -1,0 +1,11 @@
+title: V0 Modesty Mesh
+printer_compatibility: 
+ - V0
+images: 
+ - Images/parts.png
+ - Images/render.png
+ - Images/sliced.png
+cad: CAD/V0_Modesty_Mesh.step
+discord_username: mapleleafmakers
+mod_version: 1
+
