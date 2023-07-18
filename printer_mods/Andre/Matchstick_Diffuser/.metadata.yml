@@ -5,7 +5,8 @@ printer_compatibility:
 images: 
  - Images/CAD1.png
  - Images/photo.jpg
-cad: CAD/matchstick diffuser.step
+cad: 
+ - CAD/matchstick diffuser.step
 discord_username: mapleleafmakers
 mod_version: 1
 
