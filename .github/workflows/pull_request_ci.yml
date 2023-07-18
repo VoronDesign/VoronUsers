@@ -11,7 +11,7 @@ permissions:
 jobs:
   checkout_check_whitespace:
     name: Checkout & Check Whitespace
-    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@v3
+    uses: VoronDesign/.github/.github/workflows/pr_checkout_check_whitespace_cache.yml@main
     with:
       branch: ${{ github.ref }}
       cache-key: file-cache-${{github.sha}}
@@ -20,7 +20,7 @@ jobs:
     needs: [checkout_check_whitespace]
     name: Prepare python environment
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@v3
+    uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@main
     with:
       apt-packages: "admesh, libadmesh-dev"
       pip-packages: "admesh imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
@@ -29,7 +29,7 @@ jobs:
     name: Check STL corruption
     needs: [setup_python]
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@v3
+    uses: VoronDesign/.github/.github/workflows/check-stl-corruption.yml@main
     with:
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
@@ -38,7 +38,7 @@ jobs:
     name: Check STL rotation
     needs: [setup_python]
     if: ${{ needs.checkout_check_whitespace.outputs.stl == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@v3
+    uses: VoronDesign/.github/.github/workflows/check-stl-rotation.yml@main
     secrets:
     # ToDo: Change to secrets: inherit once it's in the VoronDesign org
       IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY }}
@@ -52,14 +52,14 @@ jobs:
     name: Check metadata files
     needs: [checkout_check_whitespace]
     if: ${{ needs.checkout_check_whitespace.outputs.yaml == 'true' }}
-    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@v3
+    uses: VoronDesign/.github/.github/workflows/validate-metadata-files.yml@main
     with:
       cache-key: file-cache-${{github.sha}}
       cache-directory: pr-files
   preview_readme:
     name: Preview README.md
     needs: [validate_metadata]
-    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@v3
+    uses: VoronDesign/.github/.github/workflows/preview-readme.yml@main
     with:
       subdirectory: printer_mods
       cache-key: file-cache-${{github.sha}}
