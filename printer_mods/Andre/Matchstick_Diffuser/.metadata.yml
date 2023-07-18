@@ -1,0 +1,11 @@
+title: Matchstick Diffusers
+description: Diffusers for Rainbow/Daylight on a matchstick LEDs
+printer_compatibility: 
+ - V0
+images: 
+ - Images/CAD1.png
+ - Images/photo.jpg
+cad: CAD/matchstick diffuser.step
+discord_username: mapleleafmakers
+mod_version: 1
+
