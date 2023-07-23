@@ -80,7 +80,7 @@ like so:
 | | [Filament Runout Sensor](./bobbleheed/Filament_Runout) | Filament runout sensor that replaces the stock bowden retainer | :x: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
 |Boingomw|[Wago mount](./Boingomw/Wago_mount)| Smaller 5 port Wago mount that fits parallel to the support rails |:x:|:grey_question:|:heavy_check_mark:|:x:|:grey_question:|
 |Bondtech|[Mini-After-LGX-Lite](./Bondtech/Mini-After-LGX-Lite) |LGX Lite Toolhead Setup For Voron V0.1. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
-| btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount/README.md) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
+| btp | [Galileo chain mount (befenybay)](./btp/Galileo_Switchwire_Chain_Mount) | Modified chain mount position to cater for difference with Galileo Clockwork |:x:|:x:|:x:|:heavy_check_mark:|
 | buzzdalf | [v1.8/2.4 Afterburner connector cover for 42STH20-1004AS](./buzzdalf/connector_cover) | v1.8/2.4 Connector cover for 42STH20-1004AS | :x: | :heavy_check_mark: | :heavy_check_mark: |:grey_question:|
 ||[Ender 3 Switchwire Taller Z Mod](./buzzdalf/ender_switchwire_taller_z) | Taller Z Mod | :x: | :x: | :x: | :heavy_check_mark: |
 ||[Ender 3 Switchwire Y Tensioner Mod](./buzzdalf/ytension) | Y Tension Mod | :x: | :x: | :x: | :heavy_check_mark: |
@@ -161,6 +161,7 @@ like so:
 | | [Exhaust_cover_SFS](./Fiction/Exhaust_cover_SFS) | Exhaust cover and BTT Smart Filament Sensor mount | :x: | :x: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | | [LGX Lite toolhead PCB mount](./Fiction/LGX_Lite_toolhead_PCB_mount) | Mount for Hartk's toolhead PCB(s) for LGX Lite | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | filotto78 | [6mm slot cover](./filotto78/6mm_slot_cover) | Simple cover for extrusion with 6mm slot width | :x: | :grey_question: | :heavy_check_mark: |:grey_question:| :grey_question:|
+| frank.af | [Euclid Probe Carriage](./frankaf/mgn12-euclid) | A MGN-12 carriage with an inset mount for a Euclid Probe | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 | FreeformFez | [V1.8 Filtered Power Inlet](./FreeformFez/FilteredPower) | V1.6 Filtered Inlet and Rocker Switch for V1.8 | :x: | :heavy_check_mark: | :x: |:x:|
 | GadgetAngel | [Cricut Voron Logos](./GadgetAngel/Cricut_Voron_Logos) |For any cutting machines or machines that rely on vector graphics and use .svg files. These vectors or .svg files are the Voron Design Logos for the Voron 2.4, Voron SwitchWire, Voron 0.0/0.1. and Trident These .svg files use a minimal amount of anchor points to achieve the vector shapes! | :heavy_check_mark: | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 |  | [Bed Support Extrusions Alignment Tools](./GadgetAngel/Bed_Support_Alignment_Tools) |The bed support alignment tools will assist in helping align the "bed support extrusions" to the frame. When the alignment tools are placed in all four corners of the Voron Printer's frame the "bed support extrusions" will butt up against these tools so that you can screw the "bed support extrusions" down to the printer's frame in the correct position.|  :x: | :x: | :heavy_check_mark: |  :x: | :x: |
@@ -232,7 +233,6 @@ like so:
 | | [adxl345 skirt keystone](./Jon/adxl345_skirt_keystone) | Skirt keystone for ADXL345 using Microfit 3.0 | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
 | joposter | [V0 Clippable LED Caselight](./joposter/v0_clippable_ledmounts) | LED Case light for the V0 that clips into the extrusions | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | JosAr | [Klicky Probe](./JosAr/Klicky-Probe) | Microswitch based inductive probe replacement | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark: | :x: | :heavy_check_mark: |
-| KageUrufu | [Euclid Probe Carriage](./kageurufu/mgn12-euclid) | A MGN-12 carriage with an inset mount for a Euclid Probe | :x: | :heavy_check_mark: | :heavy_check_mark: | :grey_question: | :heavy_check_mark: |
 | KenadyDwag44 | [Switchwire Lightbar](./KenadyDwag44/sw_lightbar) | A LED lightbar for switchwire | :x: | :x: | :x: | :heavy_check_mark: |
 | KevinAkaSam | [VEFACH](./KevinAkaSam/VEFACH) | Voron Exhaust Filter Inserts for Activated Coal + Hepa | :x: | :grey_question: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Khay | [V0 Micro Backplate](./khay/micro_backplate) | Minimalistic backplate for cooler motors and electronics | :heavy_check_mark: | :x: | :x: | :x: | :x: |
@@ -279,7 +279,8 @@ like so:
 |Maverick | [MiniSB_Sharkfin](./Maverick/MiniSB_Sharkfin) | Modified MiniSB to use a Sharkfin Extruder | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
 | | [MiniSB_Rapido](./Maverick/MiniSB_Rapido) | Modified MiniSB to use a Rapido hotend | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
 | | [MiniSB_LGXL](./Maverick/MiniSB_LGX_Lite) | A Bondtech LGX Lite variant of the MiniSB | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |:heavy_check_mark:|:heavy_check_mark: |
-| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:|
+| | [V0.2 Handles](./Maverick/V0.2_Handles) | Add handles to the extrusion tophat | :heavy_check_mark: | :x: | :x: |:x:| :x:|
+| | [V0.2 Stealth Skirts](./Maverick/V0.2_Stealth_Skirts) | Juiced up skirts for the V0.2 | :heavy_check_mark: | :x: | :x: |:x:| :x:|
 | maximilian-foerg | [Afterburner Turbo Mod](./maximilian-foerg/AB_Turbo_Mod) | A purely cosmetic mod for Afterburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | | [Switchwire Double 60mm Fan Mount](./maximilian-foerg/VSW_Double_60mm_Fan_Mount) | A mount for two (or four) 60mm fans in SW's electronics compartment | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
