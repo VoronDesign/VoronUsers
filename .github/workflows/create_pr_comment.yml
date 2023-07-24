@@ -10,4 +10,4 @@ jobs:
       pull-requests: write
     name: Create PR comment and assign labels
     if: ${{ github.event.workflow_run.event == 'pull_request' }}
-    uses: VoronDesign/.github/.github/workflows/pr-comment-labels.yml@v3
+    uses: VoronDesign/.github/.github/workflows/pr-comment-labels.yml@main
