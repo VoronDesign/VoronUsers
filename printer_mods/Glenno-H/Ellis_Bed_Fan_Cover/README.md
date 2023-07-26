@@ -18,8 +18,8 @@ No supports needed
 Please let me know if this doesnt fit your fan for any reason, while it works for my fans, im sure there are slight variances between fans.
 
 ![Ellis Bed Fan Cover - CAD View - TOP](IMAGES/Bed_Fan_CAD_Top.png "Bed Fan Cover - CAD View - TOP")
-![Ellis Bed Fan Cover - CAD View - TOP](IMAGES/Bed_Fan_CAD.png")
-![Ellis Bed Fan Cover - CAD View - TOP](IMAGES/Bed_Fan_CAD-No-Back.png")
+![Ellis Bed Fan Cover - CAD View - FULL COVER](IMAGES/Bed_Fan_CAD.png""Bed Fan Cover - CAD View - Full Cover")
+![Ellis Bed Fan Cover - CAD View - NO BACK](IMAGES/Bed_Fan_CAD-No-Back.png""Bed Fan Cover - CAD View - No Back")
 
 
 ![Ellis Bed Fan Cover](IMAGES/Bed_Fan_Cover_Image_1.JPG "Bed Fan Cover")
