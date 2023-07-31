@@ -321,7 +321,7 @@ like so:
 | Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 | prasadp4009 | [StealthBurner CR Touch Mod](./prasadp4009/SW_SB_CRTouch) | Voron SW StealthBurner CR Touch Mod | :x: | :x: | :x: | :heavy_check_mark: | :x:|
 |Polar-Ted|[V0.1 Two Piece Back Panel](./Polar-Ted/V0_Two_Piece_Back_Panel/) | Vented 2 piece back panel for V0 |:heavy_check_mark: |:x: | :x: | :x: | :x: |
-| ppalonen | [V0 Display Boot Logo](./ppalonen/) | Voron V0 Display add-on board to show the boot logo while system is booting | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| ppalonen | [V0 Display Boot Logo](./ppalonen/V0-Display-Boot-Logo/) | Voron V0 Display add-on board to show the boot logo while system is booting | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | |[V0.1 Z nozzle endstop switch](./Polar-Ted/V0.1_Its_Not_a_Sexbolt_switch/) | Sexbolt style switch for V0 |:heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | :x: | :heavy_check_mark:| :heavy_check_mark: | :x: |
 | PsychoShaft | [C92X_PsycHoShafts_Mount](./PsychoShaft/C92X_PsycHoShafts_Mount) | 2020 Top profile 920 camera mount / 2 point axis pivot | :grey_question: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
