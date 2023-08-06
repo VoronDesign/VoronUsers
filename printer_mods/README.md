@@ -146,6 +146,7 @@ like so:
 | |[Short Z Joints](./Ellis/Short_Z_Joints) | Shorter Z joints for the v2.4 |:x: |:x: |:heavy_check_mark: |:x:|
 | |[Single MGN9H Carriage](./Ellis/Single_MGN9H_Carriage) | Single MGN9H toolhead carriage with toolhead x endstop support (for umbilical) |:x: |:heavy_check_mark: |:heavy_check_mark: |:grey_question:|
 | ElPoPo | [Removable Doors](./ElPoPo/RemovableDoors) | New hinge to easily remove the door and have a wide opening  V2.x | :x: | :x: | :heavy_check_mark: | :x:|
+| EmJay276 | [Stealthburner Dragon UHF (mini)](./EmJay276/stealthburner_dragon_UHF_toolhead) | Toolhead for Stealthburner Phaetus Dragon UHF and UHF mini | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question:| :heavy_check_mark: |
 | Empusas | [Power Skirt 2.x FN284-10-06](./Empusas/PowerSkirt_FN284-10-06) | Power Skirt for Schaffner FN284-10-06 V2.x | :x: | :x: | :heavy_check_mark: | :x:|
 | | [Mounts for Terminal Blocks NC933 SPL-62](./Empusas/Terminal_Blocks_NC933_SPL-62) | Mounts for Terminal Blocks NC933 and SPL-62 from AliExpress | :grey_question: | :grey_question: | :heavy_check_mark: | :grey_question:|
 | | [Mounts for BTT Filament Motion Sensor](./Empusas/BTT_Filament_Motion_Sensor_Mount) | Mounts for Big Tree Tech Smart Filament Motion Sensor | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
