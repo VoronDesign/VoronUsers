@@ -6,14 +6,14 @@ on:
 jobs:
     setup_python:
       name: Rebuild repo caches
-      uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@latest
+      uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@main
       with:
         apt-packages: "admesh, libadmesh-dev"
         pip-packages: "admesh imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
         python-cache-key: voronusers-python-cache
     preview_readme:
         name: Generate README
-        uses: VoronDesign/.github/.github/workflows/generate-readme.yml@latest
+        uses: VoronDesign/.github/.github/workflows/generate-readme.yml@main
         with:
             subdirectory: printer_mods
             commit_msg: "Generate VoronUsers printer_mods README.md [skip ci]"
