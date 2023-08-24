@@ -432,5 +432,5 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
-| 1ri | [mini-SB_ERCF_Edition](./1ri/mini-SB_ERCF_Edition) | I designed this model to install a Filament Sensor inside the V0.2r1 mini Stealthburner | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| 1ri | [mini-SB_ERCF_Edition](./mini-SB_ERCF_Edition) | I designed this model to install a Filament Sensor inside the V0.2r1 mini Stealthburner | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 
