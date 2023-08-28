@@ -6,10 +6,10 @@
 - 4x M3 8mm Hex buttonhead screws
 ## Part pictures
 Printed part:
-![DIN Mount](<DIN Mount.png>)
+![DIN Mount](<DIN_Mount.png>)
 Clamp mount
-![Mounted](<DIN Mount assembly.png>)
+![Mounted](<DIN_Mount_assembly.png>)
 Assembled view from the top
-![Top view](<DIN Mount full assembly top.png>)
+![Top view](<DIN_Mount_full_assembly_top.png>)
 Bottom view
-![Bottom view](<DIN Mount full assembly bottom.png>)
+![Bottom view](<DIN_Mount_full_assembly_bottom.png>)
