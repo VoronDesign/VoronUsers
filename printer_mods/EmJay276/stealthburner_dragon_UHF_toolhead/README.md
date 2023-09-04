@@ -13,13 +13,15 @@ The fan duct is designed based on the Crazy Dragon Fan Duct, allowing air to onl
 A channel for the thermistor cables was added to allow mounting the hotend in the proper direction facing forward.
 ![cable_channel](images/cable_channel.png)
 
+![hotend_installation](images/hotend_installation.jpg)
+
 Print Parameters
 ---
 Print in standard Voron settings. 
 
 Previews
 ---
-![front](images/front.png)
+![front](images/front.jpg)
 ![back](images/back.png)
 ![cross_section](images/cross_section.png)
 
