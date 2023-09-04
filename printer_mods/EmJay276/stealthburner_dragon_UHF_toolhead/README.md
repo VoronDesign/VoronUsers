@@ -4,16 +4,18 @@ With special thanks to @eamers for the Crazy dragon heatblock, as well as @bytho
 
 For the regular Dragon UHF hotend with the extended melt zone, use the `SB_Dragon_UHF_TH_*.stl` and the enlarged main body `Stealthburner_Body_Dragon_UHF.stl`.
 Parts were extended by 8.3mm to fit the Stealthburner Rapido UHF main body by @bythorsthunder.
-![front_uhf](images/front_uhf.png)
+
+<img src="images/front_uhf.png" alt="front_uhf" width="450"/>
 
 If your use the Dragon UHF mini hotend (standard UHF version without the melt zone extender), use `SB_Dragon_UHF_TH_mini_*.stl` and the regular Stealthburner body.
-![front_uhf_mini](images/front_uhf_mini.png)
+
+<img src="images/front_uhf_mini.png" alt="front_uhf_mini" width="450"/>
 
 The fan duct is designed based on the Crazy Dragon Fan Duct, allowing air to only blow towards the heatbreak.
 A channel for the thermistor cables was added to allow mounting the hotend in the proper direction facing forward.
-![cable_channel](images/cable_channel.png)
 
-![hotend_installation](images/hotend_installation.jpg)
+<img src="images/cable_channel.png" alt="cable_channel" width="450"/>
+<img src="images/hotend_installation.jpg" alt="hotend_installation" width="450"/>
 
 Print Parameters
 ---
@@ -21,7 +23,6 @@ Print in standard Voron settings.
 
 Previews
 ---
-![front](images/front.jpg)
-![back](images/back.png)
-![cross_section](images/cross_section.png)
-
+<img src="images/front.jpg" alt="front" width="450"/>
+<img src="images/back.png" alt="back" width="450"/>
+<img src="images/cross_section.png" alt="cross_section" width="450"/>
