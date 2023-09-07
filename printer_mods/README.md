@@ -319,6 +319,7 @@ like so:
 |Phalanx |["Other" Idlers Mod](./Phalanx/Other-V2-Idlers/) | Allow usage of wider toolheads on the V2 |:x: |:grey_question: |:heavy_check_mark: |:x:|
 |piet206 |[V1.8 Z Rails Mod](./piet206/V1.8._Z_Rails_Mod) | Add MGN12H linear rails for Z axis motion |:x: |:heavy_check_mark: |:x: |:x:|
 | Polared | [Power Inlet with Keystone Insert](./Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | :heavy_check_mark: | :x: | :x: | :x: | :x:|
+| ponkotsu1 | [V0 Launchpad Skirt](./ponkotsu1/V0_Launchpad_Skirt) | Another style V0 skirt | :heavy_check_mark: | :x: | :x: | :x: |
 | prasadp4009 | [StealthBurner CR Touch Mod](./prasadp4009/SW_SB_CRTouch) | Voron SW StealthBurner CR Touch Mod | :x: | :x: | :x: | :heavy_check_mark: | :x:|
 |Polar-Ted|[V0.1 Two Piece Back Panel](./Polar-Ted/V0_Two_Piece_Back_Panel/) | Vented 2 piece back panel for V0 |:heavy_check_mark: |:x: | :x: | :x: | :x: |
 | |[V0.1 Z nozzle endstop switch](./Polar-Ted/V0.1_Its_Not_a_Sexbolt_switch/) | Sexbolt style switch for V0 |:heavy_check_mark: | :x: | :x: | :x: | :x: |
@@ -432,4 +433,4 @@ like so:
 | | [V0 1515 T-nut](./Zen3D/V0_1515_T-nut)| M3 square and hex nuts for Voron0 1515 frame | :heavy_check_mark: |:x: |:x: |:x:|
 | zruncho | [V0 No-Drop Nuts](./zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | :heavy_check_mark: | :x: | :x: | :x: |
 | ZZP8202 | [Pull-out electrical store](./ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | :x: | :x: | :heavy_check_mark: | :x: | :x: |
-| ponkotsu1 | [V0 Launchpad Skirt](./ponkotsu1/V0_Launchpad_Skirt) | Another style V0 skirt | :heavy_check_mark: | :x: | :x: | :x: |
+
