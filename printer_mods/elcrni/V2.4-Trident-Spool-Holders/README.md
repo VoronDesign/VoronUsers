@@ -33,11 +33,11 @@ This version uses 100mm x 8mm rod for spool core mounting. Provides very smooth 
 - 4x M5x16 BHCS
 - 4x M5 Hex Nut
 
-![1](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/1.png)
+![1](./Images/1.png)
 
-![2](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/2.png)
+![2](./Images/2.png)
 
-![3](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/3.png)
+![3](./Images/3.png)
 
 ### Classic Voron type spool holder
 
@@ -51,8 +51,8 @@ This version uses classic Voron spool holder design adopted to fit the spool hol
 - 1x M5x30 BHCS
 - 2x 105mm PTFE (4mm OD)
 
-![4a](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/4.png)
+![4a](./Images/4.png)
 
-![5](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/5.png)
+![5](./Images/5.png)
 
-![6](/printer_mods/elcrni/V2.4-Trident-Spool-Holders/Images/6.png)
+![6](./Images/6.png)

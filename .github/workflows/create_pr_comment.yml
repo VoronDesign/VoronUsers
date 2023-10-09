@@ -1,0 +1,13 @@
+on:
+  workflow_run:
+    workflows: ["VoronUsers PR CI"]
+    types:
+      - completed
+
+jobs:
+  create_pr_comment:
+    permissions:
+      pull-requests: write
+    name: Create PR comment and assign labels
+    if: ${{ github.event.workflow_run.event == 'pull_request' }}
+    uses: VoronDesign/.github/.github/workflows/pr-comment-labels.yml@main
