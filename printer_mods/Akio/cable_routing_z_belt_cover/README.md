@@ -30,6 +30,10 @@ The files are named with v2.2 in the filename for the 2.2 version and v2.4 in th
 
 > Make sure to constrain the cable you are routing through to the bottom, so it does not interfere with the z-belts. Use a zip tie or tape to hold the cable securely in position / away from your z-belts.
 ## Pictures
+![z belt cover old new](img/cable_routing_z_belt_cover_mod.png)
+&nbsp;<br/>
+&nbsp;<br/>
+
 ![z belt cover](img/cable_routing_z_belt_cover_mod_v2.2_img_2.jpg)
 &nbsp;<br/>
 &nbsp;<br/>
