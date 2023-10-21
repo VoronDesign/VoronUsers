@@ -1,0 +1,17 @@
+on:
+  workflow_run:
+    workflows: ["VoronUsers PR CI"]
+    types:
+      - completed
+
+jobs:
+  upload_imagekit:
+    if: ${{ github.event.workflow_run.event == 'pull_request' }}
+    uses: VoronDesign/.github/.github/workflows/upload-artifact-imagekit.yml@main
+    with:
+      artifact_name: pr_rotated_stls 
+      images_subfolder: img
+      imagekit-url-endpoint: https://ik.imagekit.io/vorondesign
+    secrets:
+      IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY }}
+      IMAGEKIT_PUBLIC_KEY: ${{ secrets.IMAGEKIT_PUBLIC_KEY }}
