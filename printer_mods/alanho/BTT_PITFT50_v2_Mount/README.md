@@ -1,5 +1,7 @@
 # BTT PITFT50 v2 Mount
 
+**Note this mod is only compatible with the v2.0 version of the PITFT50**
+
 This work is based on [sttts's Waveshare 5.5inch mount](../../sttts/Waveshare-5.5-inch-HDMI-AMOLED). BTT PITFT50 v2 has a different layout than v1, featuing a brightless thumbwheel, an orientation switch and a JST XH port for unknown function. This design provide accessibility to the thumbwheel and switch.
 
 ![Test](images/IMG_6447.jpg)
