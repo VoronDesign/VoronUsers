@@ -2,6 +2,9 @@
 ## Credit
 Mod based on the design of the Voron crew.
 Thank you for your awesome work!
+&nbsp;<br/>
+A big thank you goes to [Mbravorus](https://github.com/mbravorus) as well, for contributing the rail notch version.
+
 ## Print settings
 As stated in the Voron documentation:
 * ABS
@@ -26,7 +29,7 @@ the z belt cover a bit thicker and cut a path on the bottom where cables can be 
 The files are named with v2.2 in the filename for the 2.2 version and v2.4 in the filename for the 2.4 version.
 
 ## Things to consider during installation
-> The modified z belt covers are thicker than the originals. You may have to move up your z-rails, if you installed them flush to the top of the original covers.
+> The modified z belt covers are thicker than the originals. You may have to move up your z-rails, if you installed them flush to the top of the original covers. If you don't want to do this you can use the rail notch version, which has a cut-out for the rails.
 
 > Make sure to constrain the cable you are routing through to the bottom, so it does not interfere with the z-belts. Use a zip tie or tape to hold the cable securely in position / away from your z-belts.
 ## Pictures
@@ -55,6 +58,12 @@ The files are named with v2.2 in the filename for the 2.2 version and v2.4 in th
 
 ![z belt cover 2.4 bottom](img/cable_routing_z_belt_cover_mod_v2.4_img_1.png)
 *2.4 version - bottom with path for routing cables*
+
+![z belt cover 2.4 rail notch](img/cable_routing_z_belt_cover_mod_rail_notch_v2.4_img_2.png)
+*2.4 version - top with rail notch*
+
+![z belt cover 2.4 rail notch](img/cable_routing_z_belt_cover_mod_cross_section_view_rail_notch.png)
+*2.4 version - cross section view of the rail notch version*
 
 ## Wire routing
 ![z belt cover](img/cable_routing_z_belt_cover_mod_cable_routing.png)
