@@ -203,6 +203,7 @@ like so:
 |Iakabos| [c920 Mount](./Iakabos/C920_mount)|Slim mount for logitech c920 webcam|:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|
 | | [V0 beltchains](./Iakabos/V0_beltchain)|Modified beltchain parts for V0 Z cables|:heavy_check_mark: |:x: |:x: |:x:|
 | iblue | [V0.1 Tophat Extractor](./iblue/TophatExtractor) | Tophat Extractor for the Voron V0.1 with activated charcoal and HEPA filter | :heavy_check_mark: | :x: | :x: | :x: | :x: |
+| jangrewe | [Bitter USB Cam](./jangrewe/Bitter_USB_Cam) | Modification of the "Angry Cam USB v2.0" webcam mount for 1515 extrusions| :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | jappaj | [V0.1 FanSaver](./jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | :heavy_check_mark: | :x: | :x: | :x: | :x:|
 |jasonc |[V2.4 Z-Idler Shoulder Bolt Mod](./jasonc/Z_Idler_Shoulder_Bolt) |Modification to the idler carriers to accept a 25mm shoulder bolt. Ideal for Gates idlers. |:x: |:x: |:heavy_check_mark: |:x:|
 | Jasrags | [Feed slot with filament pass-through](./Jasrags/sw_fee_slot_filament_passthrough) | A feed slot with a filament pass-through | :x: | :x: | :x: | :heavy_check_mark: |:x:|
