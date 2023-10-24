@@ -10,8 +10,14 @@ Designed to cover the screw terminals for several LRS style PSUs. Other Meanwell
 ### Compatibility List
 
 * LRS-50
+* LRS-150
 * LRS-200
 
 ![LRS-50 Screw Terminal Cover](Images/lrs_50_screw_terminal_cover.png)
 
 ![LRS-200 Screw Terminal Cover](Images/lrs_200_screw_terminal_cover.png)
+
+
+### Acknowledgements
+
+Fixes to the LRS-200 cover graciously provided by @wrwindsor #829
