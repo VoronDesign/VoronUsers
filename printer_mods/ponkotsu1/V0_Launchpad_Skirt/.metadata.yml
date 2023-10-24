@@ -1,0 +1,10 @@
+cad: 
+- CAD/Launchpad_skirt.step
+description: Another style V0 skirt
+images:
+- Images/top.jpg
+- Images/displayposition.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0 Launchpad Skirt
