@@ -1,0 +1,9 @@
+cad: 
+- CAD/Bitter_USB_Cam.step
+images:
+- Images/Bitter_USB_Cam.png
+description: Modification of the "Angry Cam USB v2.0" webcam mount for 1515 extrusions
+mod_version: 1
+printer_compatibility:
+- V0
+title: Bitter USB Cam
