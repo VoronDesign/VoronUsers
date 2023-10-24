@@ -1,12 +1,25 @@
 cad:
-- cad/cable_routing_z_belt_cover_a_mod.step
-- cad/cable_routing_z_belt_cover_b_mod.step
+- cad/cable_routing_z_belt_cover_a_mod_rail_notch_v2.2.step
+- cad/cable_routing_z_belt_cover_a_mod_rail_notch_v2.4.step
+- cad/cable_routing_z_belt_cover_a_mod_v2.2.step
+- cad/cable_routing_z_belt_cover_a_mod_v2.4.step
+- cad\cable_routing_z_belt_cover_b_mod_rail_notch_v2.2.step
+- cad\cable_routing_z_belt_cover_b_mod_rail_notch_v2.4.step
+- cad\cable_routing_z_belt_cover_b_mod_v2.2.step
+- cad\cable_routing_z_belt_cover_b_mod_v2.4.step
 description: Z belt covers that allow hidden cable routing.
 images:
-- img/cable_routing_z_belt_cover_mod_img_3.jpg
-- img/cable_routing_z_belt_cover_mod_img_0.png
-- img/cable_routing_z_belt_cover_mod_img_1.png
-- img/cable_routing_z_belt_cover_mod_img_2.jpg
+- img/cable_routing_z_belt_cover_mod_v2.2_img_2.png
+- img/cable_routing_z_belt_cover_mod_v2.2_img_0.png
+- img/cable_routing_z_belt_cover_mod_v2.2_img_1.png
+- img/cable_routing_z_belt_cover_mod_v2.2_img_3.png
+- img/cable_routing_z_belt_cover_mod_v2.4_img_0.png
+- img/cable_routing_z_belt_cover_mod_v2.4_img_1.png
+- img/cable_routing_z_belt_cover_mod_rail_notch_v2.4_img_2.png
+- img/cable_routing_z_belt_cover_mod_cable_routing.png 
+- img/cable_routing_z_belt_cover_mod_cross_section_view_rail_notch.png 
+- img/cable_routing_z_belt_cover_mod_cross_section_view.png
+- img/cable_routing_z_belt_cover_mod.png
 mod_version: 1
 printer_compatibility:
 - V2.4
