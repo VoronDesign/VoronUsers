@@ -341,6 +341,7 @@ like so:
 | RockNLol | [RockNRoll](./RockNLol/RockNRoll) | Rockers to roll the printer on its back for easier access to the electronics compartment | :x: | :grey_question: | :heavy_check_mark: | :x: | :grey_question: |
 | rngSplat | [Printable Switchwire Deck Plate](./rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | :x: | :x: | :x: | :heavy_check_mark: |
 | rsheng118 | [BTT octopus DIN vertical mount](./rsheng118/BTT_octopus_DIN_vertical_mount) | DIN vertical mount for Big Tech Tree Octopus board | :x: | :x: | :heavy_check_mark: | :x: |
+| ruiqimao | [V0.2 MGN9C X Axis](./ruiqimao/V0.2_MGN9C_X) | MGN9C linear rail for the X axis on V0.2 | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | ryandam | [Cable Management Duct](./ryandam/Cable_management_duct) | Zip tie mount intergrated cable duct to hide your cable | :heavy_check_mark: | :grey_question: | :grey_question: | :grey_question: | :grey_question: |
 |sammynorway | [LGX stealthburner connector cover](./sammynorway/LGX-stealthburner-connector-cover) | Cable cover for LGX and stealthburner | :x: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | samwiseg0 | [Microfit 2x3 Skirt Connector (ADXL)](./samwiseg0/microfit_2x3_skirt_connector_adxl) | Mod for a Microfit 2x3 connector to be mounted in a skirt | :x: | :x: | :heavy_check_mark: | :grey_question: | :grey_question: |
