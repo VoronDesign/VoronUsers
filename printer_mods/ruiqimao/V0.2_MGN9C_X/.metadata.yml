@@ -1,0 +1,11 @@
+cad: 
+- CAD/V0.2_MGN9C_X.step
+description: MGN9C linear rail for the X axis on V0.2
+images:
+- Images/angle.png
+- Images/closeup.png
+- Images/side.png
+mod_version: 1
+printer_compatibility:
+- V0
+title: V0.2 MGN9C X Axis
