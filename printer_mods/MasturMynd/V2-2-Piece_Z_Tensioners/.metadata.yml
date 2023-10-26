@@ -1,0 +1,16 @@
+cad:
+- CAD/2_Piece_Z_Idler_v4.step
+description: Splits the tensioners into two pieces, allowing the tensioner to be printed in the strongest possible orientation
+images:
+- Images/preview.png
+- Images/assembly_before_we_begin.png 
+- Images/assembly_compression_screw.png 
+- Images/assembly_heatset.png 
+- Images/assembly_idler_install.png 
+- Images/assembly_idler_shaft.png 
+- Images/assembly_joining.png 
+- Images/assembly_tensioner.png 
+mod_version: 1
+printer_compatibility:
+- V2
+title: 2-Piece Z Tensioners
