@@ -244,6 +244,7 @@ like so:
 | | [LED Bar Mounts](./Koios/LED_Mounts) | Low profile mount for led bar lights | :x: | :x: | :heavy_check_mark: | :x: |
 | | [V0 C920 Tophat Mount](./Koios/V0_C920_Tophat_Mount) | Mounting bracket for a Logitech C920 on the tophat  | :heavy_check_mark: | :x: | :x: | :x: |
 | Kosh42EFG |[Kirigami bed front](./Kosh42EFG/kirigami_bed_front) |Printed bed front for kirigami folded metal bed mount with Voron logo. |:heavy_check_mark: |:x: |:x: |:x: |:x: |
+| KRTac | [Removable Electronics Fan](./KRTac/Removable_Electronics_Fan) | Removable 120mm electronics fan mount | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 | Kruppes |[Belt Tension Meter](./Kruppes/Tension_Meter) | Print in place tension meter to easily tighten multiple belts to the same tension |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark: |:heavy_check_mark:|
 | |[Encosed Bottom](./Kruppes/Closed_Bottom) | Modified printed parts and panel to fully enclose V0. |:heavy_check_mark: |:x: |:x: |:x:|
 | |[V0 Printed Deck with inserts](./Kruppes/Deck_Panel_inserts_logo) |Electronics Deck Panel using brass heat inserts. Optional with accent color Voron Logo. |:heavy_check_mark: |:x: |:x: |:x:|
