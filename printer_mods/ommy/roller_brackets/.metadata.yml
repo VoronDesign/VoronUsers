@@ -1,4 +1,7 @@
-cad: []
+cad:
+- cad/toprest.FCStd 
+- cad/voronroller.FCStd 
+- cad/voronroller2.FCStd
 description: Brackets to help rolling V2 on its side.
 images:
 - vrollers.jpg
