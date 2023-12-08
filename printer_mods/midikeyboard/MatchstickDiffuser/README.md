@@ -1,5 +1,5 @@
 # matchstick-diffuser
-
+![F360](https://github.com/midikeyboard/VoronUsers/blob/master/printer_mods/midikeyboard/MatchstickDiffuser/Images/01.png)
 ## Features
 
 - Designed for 158mm "Rainbow on a Matchstick" LED PCB.
@@ -28,3 +28,7 @@
 3. Align the screw holes on the diffuser with the corresponding holes on the extrusion.
 4. Securely attach the diffuser using the provided screws and a screwdriver.
 5. Verify alignment by checking the back side of the PCB. Ensure that the printed parts are flush with the PCB surface.
+
+
+
+![light leak test](https://github.com/midikeyboard/VoronUsers/blob/master/printer_mods/midikeyboard/MatchstickDiffuser/Images/02.png)
