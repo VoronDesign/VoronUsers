@@ -283,6 +283,7 @@ like so:
 | MCKURT |[Switchwire Y Belt Tensioner](./Mckurt/Switchwire_Y_Belt_Tensioner) | Switchwie Y axis Belt Tensioner | :x: | :x: | :x: | :heavy_check_mark: | :x: |
 | MCMBen | [Voron0 Block & Tackle Z Belt](./MCMBen/Voron0_Block_and_Tackle_Z_Belt) | A block & tackle belted Z solution using NEMA14. Ratios from 5:1 to 8:1 and friction prevent Z drop when powered off. | :heavy_check_mark: | :x: | :x: | :x: | :x: |
 | Mellow | [V0 Fly-Gemini](./Mellow/V0_Fly-Gemini) | Fly-Gemini adapted model for V0 | :heavy_check_mark: | :x: | :x: | :x: | :x:|
+| midikeyboard | [Matchstick Diffuser](./midikeyboard/MatchstickDiffuser) | Diffuser made for 158mm LED pcb's | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: |
 | mikepthomas | [MKS Mosfet Mount](./mikepthomas/MKS_Mosfet_Mount) | MKS Mosfet Mount based of the Trident Raspberry Pi Mount. | :x: | :heavy_check_mark: | :heavy_check_mark: | :x: | :heavy_check_mark: |
 |MikesMods|[LGX mount for V0.1 with 2nd X rail](./MikesMods/LGX_mount_for_V0.1_with_2nd_X_rail) |V0.1 mod for mounting Bondtech LGX extruder with addition of 2nd X rail on the back of the 1515 extrusion. | :heavy_check_mark: | :x: | :x: |:x:|:x:|
 | Minsekt | [Rear Umbilical](./Minsekt/Rear_Umbilical) | Rear Umbilical mounting solution including a relocated Y-Endstop | :x: | :grey_question: | :heavy_check_mark: | :x: | :x: |
