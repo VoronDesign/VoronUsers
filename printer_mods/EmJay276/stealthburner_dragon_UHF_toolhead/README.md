@@ -12,7 +12,8 @@ If your use the Dragon UHF mini hotend (standard UHF version without the melt zo
 <img src="images/front_uhf_mini.png" alt="front_uhf_mini" width="450"/>
 
 The fan duct is designed based on the Crazy Dragon Fan Duct, allowing air to only blow towards the heatbreak.
-A channel for the thermistor cables was added to allow mounting the hotend in the proper direction facing forward.
+More clearance for the heater cable was added to allow mounting the hotend in the proper direction (heater facing forward, thermistor facing backward).
+Additionally, clearance for the Voron Tap (R8) screws were added.
 
 <img src="images/cable_channel.png" alt="cable_channel" width="450"/>
 <img src="images/hotend_installation.jpg" alt="hotend_installation" width="450"/>
@@ -25,4 +26,6 @@ Previews
 ---
 <img src="images/front.jpg" alt="front" width="450"/>
 <img src="images/back.png" alt="back" width="450"/>
+<img src="images/back_uhf.png" alt="back" width="450"/>
+<img src="images/back_uhf_mini.png" alt="back" width="450"/>
 <img src="images/cross_section.png" alt="cross_section" width="450"/>
