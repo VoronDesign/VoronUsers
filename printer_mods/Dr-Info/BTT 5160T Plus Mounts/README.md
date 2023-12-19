@@ -18,7 +18,7 @@ Self Tapping Screw | M2x10 | 8 | DIN Mount with brackets
 SHCS/BHCS | M3x8 | 4 | 2020 bracket to 2020 extrusion
 T-Nut | M3-2020 | 4 | 2020 bracket to 2020 extrusion
 
-# Fan Duct Mounts for BTT 5160T Plus
+# Axial Fan Mounts for BTT 5160T Plus
 
 Mounts for 30mm, 40mm and 50mm fans. I would suggest 40mm or 50mm fans for ideal air cooling.
 
@@ -31,6 +31,7 @@ Mounts for 30mm, 40mm and 50mm fans. I would suggest 40mm or 50mm fans for ideal
 **per Fan Mount**
 Item | Size | Qty | Comment
 --- | --- | --- | ---
+Fan | 3010, 4010 or 5010 | 1 | 
 SHCS/BHCS | M3x12 (max 16) | 4 | Secure fan mount and TMC to TMC mount
 SHCS/BHCS | M3x12 (max 16) | 4 | 3010, 4010 or 5010
 
