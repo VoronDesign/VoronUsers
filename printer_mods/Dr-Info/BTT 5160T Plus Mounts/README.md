@@ -28,12 +28,12 @@ Mounts for 30mm, 40mm and 50mm fans. I would suggest 40mm or 50mm fans for ideal
   * No supports needed
 
 ### BOM
-**per Fan Mount**
+**per paired TMC Mount**
 Item | Size | Qty | Comment
 --- | --- | --- | ---
-Fan | 3010, 4010 or 5010 | 1 | 
-SHCS/BHCS | M3x12 (max 16) | 4 | Secure fan mount and TMC to TMC mount
-SHCS/BHCS | M3x12 (max 16) | 4 | 3010, 4010 or 5010
+Fan | 3010, 4010 or 5010 | 2 | Recommended 4010 or 5010
+SHCS/BHCS | M3x12 (max 16) | 8 | Secure fan mount and TMC to TMC mount
+SHCS/BHCS | M3x12 (max 16) | 8 | 3010, 4010 or 5010
 
 ![Top Corner Cable Cover](Images/5160T_plus_mount.jpg)
 ![Top Corner Cable Cover](Images/5160T_plus_mount_top.jpg)
