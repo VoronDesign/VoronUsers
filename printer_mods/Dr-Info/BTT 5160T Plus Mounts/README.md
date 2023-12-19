@@ -20,7 +20,7 @@ T-Nut | M3-2020 | 4 | 2020 bracket to 2020 extrusion
 
 # Axial Fan Mounts for BTT 5160T Plus
 
-Mounts for 30mm, 40mm and 50mm fans. I would suggest 40mm or 50mm fans for ideal air cooling.
+Mounts for 30mm, 40mm and 50mm axial fans. I would suggest 40mm or 50mm fans for ideal air cooling.
 
 ### Printing
   * Print 2 fan mounts per BTT 5160T Plus mount
