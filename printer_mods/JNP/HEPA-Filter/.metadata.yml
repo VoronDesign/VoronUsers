@@ -1,6 +1,6 @@
 cad:
-- CAD/Filter Cage.step
-- CAD/Fan Mounting.step
+- CAD/Filter_Cage.step
+- CAD/Fan_Mounting.step
 - CAD/HEPA_Filter.step
 description: "Filter case with fan\xB4s"
 images:

@@ -1,6 +1,6 @@
 cad:
 - CAD/Handle_Mini_Front.step
-- CAD/Door Frame.step
+- CAD/Door_Frame.step
 - CAD/Door_Latch_x2.step
 description: Door in a frame
 images:

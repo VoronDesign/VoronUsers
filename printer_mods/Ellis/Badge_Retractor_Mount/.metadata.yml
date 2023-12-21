@@ -1,6 +1,6 @@
 cad:
-- CAD/Retractor Mount Straight.f3d
-- CAD/Retractor Mount Slanted.f3d
+- CAD/Retractor_Mount_Straight.f3d
+- CAD/Retractor_Mount_Slanted.f3d
 description: Extrusion mount for badge retractor to keep bowden tube out of the way.
 images:
 - Images/Image.jpg

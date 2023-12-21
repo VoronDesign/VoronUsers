@@ -1,8 +1,8 @@
 cad:
-- Hinges v2.4 Mod.f3d
+- Hinges_v2.4_Mod.f3d
 description: Simple mod of print in place door hinges, which uses m3 screws as shafts.
 images:
-- Door Hinges mod with M3 35mm.png
+- Door_Hinges_mod_with_M3_35mm.png
 mod_version: 1
 printer_compatibility:
 - V2.4

@@ -1,23 +1,9 @@
 name: VoronUsers Push Main CI
 on:
-  push:
-    branches:
-      - 'main'
+    push:
+        branches:
+        - 'main'
 jobs:
-    setup_python:
-      name: Rebuild repo caches
-      uses: VoronDesign/.github/.github/workflows/prepare-environment.yml@main
-      with:
-        apt-packages: "admesh, libadmesh-dev"
-        pip-packages: "admesh imagekitio git+https://github.com/ChristophSchranz/Tweaker-3.git"
-        python-cache-key: voronusers-python-cache
-    preview_readme:
-        name: Generate README
-        uses: VoronDesign/.github/.github/workflows/generate-readme.yml@main
-        with:
-            subdirectory: printer_mods
-            commit_msg: "Generate VoronUsers printer_mods README.md [skip ci]"
-            commit_user: Voron-GitHub-Bot
-            commit_email: github@vorondesign.com
-        secrets:
-            VORON_BOT_GITHUB_PAT: ${{ secrets.VORON_BOT_GITHUB_PAT }}
+    voron_ci_push_main:
+        name: VoronCI push main
+        uses: VoronDesign/.github/.github/workflows/voronusers-ci-push-main.yml@main

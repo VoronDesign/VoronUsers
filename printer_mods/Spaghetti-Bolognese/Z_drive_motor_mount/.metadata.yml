@@ -1,5 +1,5 @@
 cad:
-- Z_Motor_Mount _B.f3d
+- Z_Motor_Mount_B.f3d
 - Z_Motor_Mount_A.f3d
 description: Z drive motor mount bracket mod to improve pulley to belt alignment
 images:

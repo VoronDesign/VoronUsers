@@ -1,6 +1,6 @@
 cad:
-- CAD/Panel right.step
-- CAD/Panel left.step
+- CAD/Panel_right.step
+- CAD/Panel_left.step
 description: Panels with intergrated hinge
 images:
 - Images/1.jpg

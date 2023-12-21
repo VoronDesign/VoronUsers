@@ -1,7 +1,7 @@
 cad:
-- cad/motor_mounts v1.f3d
-- cad/xz blocks v3.f3d
-- cad/upper_xz v6.f3d
+- cad/motor_mounts_v1.f3d
+- cad/xz_blocks_v3.f3d
+- cad/upper_xz_v6.f3d
 description: Small mods to belt routing components to ensure a better/more robust
   alignment
 images:
