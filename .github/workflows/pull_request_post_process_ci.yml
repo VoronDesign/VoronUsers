@@ -8,4 +8,6 @@ jobs:
     post_process_pr_ci:
         if: ${{ github.event.workflow_run.event == 'pull_request' }}
         uses: VoronDesign/.github/.github/workflows/voronusers-ci-pr-postprocess.yml@main
-  
+        secrets:
+            IMAGEKIT_PRIVATE_KEY: ${{ secrets.IMAGEKIT_PRIVATE_KEY}}
+            IMAGEKIT_PUBLIC_KEY: ${{ secrets.IMAGEKIT_PUBLIC_KEY }}

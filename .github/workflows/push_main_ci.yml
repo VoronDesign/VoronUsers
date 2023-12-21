@@ -7,3 +7,5 @@ jobs:
     voron_ci_push_main:
         name: VoronCI push main
         uses: VoronDesign/.github/.github/workflows/voronusers-ci-push-main.yml@main
+        secrets:
+            VORON_BOT_GITHUB_PAT: ${{ secrets.VORON_BOT_GITHUB_PAT }}
