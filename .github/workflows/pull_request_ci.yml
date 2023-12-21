@@ -2,7 +2,7 @@ name: pull_request_ci
 run-name: "#${{github.event.number}} - ${{github.event.pull_request.title}}"
 on:
     pull_request:
-        types: [opened, reopened, synchronize]
+        types: [opened, reopened, synchronize, labeled]
 concurrency:
     group: ${{ github.ref }}
     cancel-in-progress: true
@@ -10,4 +10,5 @@ permissions:
     pull-requests: write
 jobs:
     voronusers_ci_pr_check:
+        if: ${{ contains( github.event.pull_request.labels.*.name, 'Ready for CI') }}
         uses: VoronDesign/.github/.github/workflows/voronusers-ci-pr-check.yml@main
