@@ -1,3 +1,0 @@
-; Home, but only if homing is needed
-if !move.axes[0].homed || !move.axes[1].homed
-  G28 XY
