@@ -1,3 +1,4 @@
+run-name: "Post-processing #${{github.event.number}}"
 on:
     workflow_run:
         workflows: ["pull_request_ci"]
