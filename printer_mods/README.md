@@ -261,7 +261,7 @@ Printer mods for Voron 3D printers
 |  | [V1.8 12mm Z Mod](eddie/V1.8_12mm_Z_Mod) | Add V1.8 option for 12mm Z rods | V1.8 | 2023-12-21T00:45:44+00:00 |
 | edwardyeeks | [Tridentified V2.4 Power Inlet](edwardyeeks/Tridentified_V2.4_Power_Inlet) | Trident style side power inlet for V2.4 using Z Drive Motor... | V2.4 | 2023-07-13T14:30:27+00:00 |
 | elcrni | [Trident Internal Spool Holder](elcrni/Trident_Internal_Spool_Holder) | Internal spool holder for 300 and 350 Tridents. Supports full size... | VT | 2023-12-21T00:45:44+00:00 |
-|  | [V.24/Trident Spool Holder](elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | V1.8, V2.4, VT | 2023-07-13T14:30:27+00:00 |
+|  | [V.24/Trident Spool Holder](elcrni/V2.4-Trident-Spool-Holders) | Spool holder that mounts on top for "too close to the wall" printers | V1.8, V2.4, VT | 2023-12-21T14:04:19+00:00 |
 | evandepol | [Crydom GN Terminal Guard](evandepol/Crydom-GN-Guard) | A simple safety guard for the terminals on a Crydom GN SSR | V2.4 | 2023-07-15T11:51:22+00:00 |
 |  | [Voron 2.4 cable clamps](evandepol/Voron2.4-Cable-clamps) | A set of 2020-mounted cable guards to organize and dress the wiring... | V2.4 | 2023-07-15T11:51:22+00:00 |
 | falo | [LGX Lite CAN Side Mount](falo/lgx_lite_side_can) | A side mounting for a CAN board (Huvud/SHT42) to the LGX Lite | V1.8, V2.4, VSW, VT | 2023-07-13T14:30:27+00:00 |
