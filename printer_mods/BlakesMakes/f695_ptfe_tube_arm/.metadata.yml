@@ -1,12 +1,12 @@
 ---
 # The title of your mod. Choose a short and descriptive name
-title: My awesome mod
+title: f695 ptfe guide arm
 # A short description of your mod. Try to describe your mod with 1-2 short sentences
-description: This mod makes VoronDesign printers more awesome!
+description: A ptfe tube guide arm to keep your tube from flopping about.
 # Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
 mod_version: 1
 # You may add your discord username here so people can contact you about your mod
-discord_username: Haribro
+discord_username: BlakeWasLost
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
