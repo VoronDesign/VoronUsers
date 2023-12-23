@@ -4,10 +4,10 @@
 The M5 screw used to hold the arm to the mount kept backing because it was rubbing so I threw a flange bearing in it so that I would not have to tighten the bolt down after every few hours. I tweaked the mount so that there is a bit of a gap between the arm and mount but the bearing contacts the mount.
 
 
-![image](https://github.com/BlakesMakes/VoronUsers/blob/master/printer_mods/BlakesMakes/f695_ptfe_tube_arm/images/tube_arm_mount.jpg)
+![image](https://github.com/BlakesMakes/VoronUsers/blob/pr_f695_ptfe_tube_arm/printer_mods/BlakesMakes/f695_ptfe_tube_arm/images/tube_arm_no_bearing.jpg)
 
 
-![image](https://github.com/BlakesMakes/VoronUsers/blob/master/printer_mods/BlakesMakes/f695_ptfe_tube_arm/images/tube_arm_no_bearing.jpg)
+![image](https://github.com/BlakesMakes/VoronUsers/blob/pr_f695_ptfe_tube_arm/printer_mods/BlakesMakes/f695_ptfe_tube_arm/images/tube_arm_with_bearing.jpg)
 
 
-![image](https://github.com/BlakesMakes/VoronUsers/blob/master/printer_mods/BlakesMakes/f695_ptfe_tube_arm/images/tube_arm_with_bearing.jpg)
+![image](https://github.com/BlakesMakes/VoronUsers/blob/pr_f695_ptfe_tube_arm/printer_mods/BlakesMakes/f695_ptfe_tube_arm/images/tube_arm_mount.jpg)
