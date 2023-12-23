@@ -21,10 +21,10 @@ images:
 - images/back_uhf_mini.png
 - images/cable_channel.png
 - images/cross_section.png
-- images/front.png
+- images/front.jpg
 - images/front_uhf.png
 - images/front_uhf_mini.png
-- images/hotend_installation.png
+- images/hotend_installation.jpg
 # Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
 # "V0", "V0.1", "V0.2", "V0.2r1", "V1", "V1.6", "V1.8", "V1.8r1",  "V2", "V2.1", "V2.2", "V2.4", "V2.4r1", "V2.4r2", "VSW", "VT", "VTr1", "VL"
 # Please only specify printers that you have either tested your mod on yourself, or that someone else has tested for you. If you are unsure whether your

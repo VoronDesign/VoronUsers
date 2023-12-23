@@ -7,7 +7,7 @@ Parts were extended by 8.3mm to fit the Stealthburner Rapido UHF main body by @b
 
 <img src="images/front_uhf.png" alt="front_uhf" width="450"/>
 
-If your use the Dragon UHF mini hotend (standard UHF version without the melt zone extender), use `SB_Dragon_UHF_TH_mini_*.stl` and the regular Stealthburner body.
+If you use the Dragon UHF mini hotend (standard UHF version without the melt zone extender), use `SB_Dragon_UHF_TH_mini_*.stl` and the regular Stealthburner body.
 
 <img src="images/front_uhf_mini.png" alt="front_uhf_mini" width="450"/>
 
