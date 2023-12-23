@@ -412,7 +412,7 @@ Printer mods for Voron 3D printers
 |  | [V2.4 Skirt Buttons](xbst_/V2.4_Skirt_Buttons) | Skirt mod for custom Gcode macro buttons | V2.4 | 2023-07-15T11:51:22+00:00 |
 |  | [ZipClip V0](xbst_/ZipClip_v0) | Very simple ziptie mount for v0 1515 extrusions | V0.2 | 2023-07-13T14:30:27+00:00 |
 | xceled | [Single Panel Magnet Mount](xceled/Single_Panel_Magnet_Mount) | Mount your front panel using only magnets | V2.4 | 2023-07-15T11:51:22+00:00 |
-| yenda | [SW More Robust XZ Belt Paths](yenda/vsw_more_robust_belt_paths) | Small mods to belt routing components to ensure a better/more... | VSW | 2023-12-21T00:45:44+00:00 |
+| yenda | [SW More Robust XZ Belt Paths](yenda/vsw_more_robust_belt_paths) | Small mods to belt routing components to ensure a better/more... | VSW | 2023-12-23T00:20:10+00:00 |
 | yeri | [V0 Magnetic Panels](yeri/V0_Magnetic_Panels) | Mount V0 panels with magnets, removes need for hinges and lets you... | V0.2 | 2023-07-13T14:30:27+00:00 |
 |  | [V1 3Z](yeri/V1_3Z) | 3Z mod for V1 | V1.8 | 2023-07-15T11:51:22+00:00 |
 | zruncho | [V0 No-Drop Nuts](zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | V0.2 | 2023-07-15T11:51:22+00:00 |
