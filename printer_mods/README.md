@@ -252,6 +252,7 @@ like so:
 |Le0n|[Magnetic panels with Magnet Inserts](./Le0n/Magnetic_Panels_with_Magnet_Inserts)| Magnetic panel mounts with magnets inserted into frame slots. |:x:|:heavy_check_mark:|:heavy_check_mark:|:x:|:heavy_check_mark:|
 |leandromarceddu|[PowerSkirt](./leandromarceddu/PowerSkirt) |Modified skirtpiece for a digital power monitor|:x:|:grey_question:|:heavy_check_mark:|:grey_question:|
 |littleferris |[V0 c14 Skirt Inlet](./littleferris/V0_Skirt_Inlet) |V0 C14 Skirt inlet |:heavy_check_mark: |:x: |:x: |:x:|
+|liselotte111 |[Red Lizard K1 UHF toolhead](./Liselotte111/Red_Lizard_K1_UHF) |SB toolhead for Red Lizard K1 UHF|:x: |:x: |:heavy_check_mark: |:x:|:heavy_check_mark:|
 | LJ | [Scrubby](./LJ/Scrubby) | Easy to use filament dust filter | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark: | :heavy_check_mark:|
 |LoCoCNC| [MGN7H Shims](./LoCoCNC/MGN7H_Shims) | Shims for making bearing cartridges coplanar |:heavy_check_mark:|:x:|:x:|:x:|
 | | [Mosquito PTFE 15mm Tube Cutting Jig](./LoCoCNC/Mosquito_PTFE_Cutting_Jig) | Tool to precicely cut 15mm PTFE Tube |:heavy_check_mark:|:x:|:x:|:x:|
