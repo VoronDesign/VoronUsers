@@ -1,0 +1,11 @@
+cad:
+- CAD/Stealthburner_Printhead_K1_UHF.step
+description: SB toolhead for Red Lizard K1 UHF
+images:
+- Images/Red_lizard_K1_UHF_back.jpg
+- Images/Red_lizard_K1_UHF_front.jpg
+mod_version: 1
+printer_compatibility:
+- V2
+- VT
+title: Red Lizard K1 UHF toolhead
