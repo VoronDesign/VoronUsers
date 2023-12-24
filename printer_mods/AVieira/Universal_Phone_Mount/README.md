@@ -30,15 +30,15 @@ Print the parts with the Voron recommendations.
 
 | Preview  | Part Name | Quantity | Description |
 | ------------- | ------------- | ------------- |  ------------- |
-| ![case_front](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/case_front.png?raw=true) | case_front.stl | 1 | |
-| ![case_rear](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/case_rear.png?raw=true) | case_rear.stl | 1 | If you already have the mini12864_case_rear you can use that instead |
+| ![case_front](Images/CAD_parts/case_front.png?raw=true) | case_front.stl | 1 | |
+| ![case_rear](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/case_rear.png) | case_rear.stl | 1 | If you already have the mini12864_case_rear you can use that instead |
 | ![slider](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/slider.png?raw=true) | slider.stl | 1 | Choose the size for your needs, the number in the name is the maximum width it will support. (i.g. "Slider_80mm.stl" will support devices up to 80mm) |
 | ![guide](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/guide_x2.png?raw=true) | guide_x2.stl | 2 | |
 | ![claw_top](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/claw_top.png?raw=true) | a_claw_top_X.Xmm.stl | 1 | Choose the size for your needs, the number in the name is the maximum thickness it will support. (i.g. "claw_top_7.5mm.stl" will support devices up to 7.5mm in thickness) |
 | ![claw_bottom](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/claw_bottom.png?raw=true) | a_claw_bottom_X.Xmm.stl | 1 | Choose the size for your needs, the number in the name is the maximum thickness it will support. (i.g. "claw_bottom_6.5mm.stl" will support devices up to 6.5mm in thickness) |
 | ![hinge](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/CAD_parts/mini12864_case_hinge.png?raw=true) | a_mini12864_case_hinge.stl | 1 | Original hinge from the main files|
 
-# Size and clearence
+# Size and clearance
 
 ![1](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/Size.png?raw=true)
 
@@ -70,7 +70,7 @@ Start by inserting the M3 inserts
 
 ![1](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/Slider_Inserts.jpg?raw=true)
 
-The elastic I used is around 60mm in diameter, I looped it twice on the parts. Any elastic should do as long as it's not too thick, you can cut and knot to the desired lenght/strenght.
+The elastic I used is around 60mm in diameter, I looped it twice on the parts. Any elastic should do as long as it's not too thick, you can cut and knot to the desired lenght/strength.
 ![1](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/Elastic_Band.jpg?raw=true)
 
 Put the elastic on the slider.
