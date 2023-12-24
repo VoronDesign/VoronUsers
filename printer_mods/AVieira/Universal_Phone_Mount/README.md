@@ -8,7 +8,7 @@ It consists of two claws on a slider that hold your device with the help of an e
 Check "Size and clearence" for more details and to choose what files to print for your needs.
 
 
-![1](/AVieira/Universal_Phone_Mount/Images/Assembly_Mounted_With_Galaxy_A3.jpg)
+![1](https://github.com/AVieira-1/VoronUsers/blob/main/printer_mods/AVieira/Universal_Phone_Mount/Images/Assembly_Mounted_With_Galaxy_A3.jpg?raw=true)
 
 ![1](/Images/Assembly_Mounted.jpg)
 
