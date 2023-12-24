@@ -5,7 +5,7 @@ Phone/tablet mount for the Voron 2.4. It replaces the mini12864 directly so it u
 This mount should work with the majority of smartphones out there, I also included some files to hopefully work with tablets if you wish to use one.
 It consists of two claws on a slider that hold your device with the help of an elastic band. 
 
-Check "Size and clearence" for more details and to choose what files to print for your needs.
+Check "Size and clearance" for more details and to choose what files to print for your needs.
 
 
 ![1](Images/Assembly_Mounted_With_Galaxy_A3.jpg)
