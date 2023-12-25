@@ -1,5 +1,6 @@
 # Creative Live! Camera Mount
 STL and files supporting mounting Creative Live! Camera on 20x20 Aluminum frame
+![img](Images/PartImage.jpg)
 
 Very simple to print and simply fits inside the camera mount.
 
