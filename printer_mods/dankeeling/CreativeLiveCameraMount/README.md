@@ -16,7 +16,7 @@ BOM:
 
 1 x tnut 
 
-Creative Live! Camera - https://www.amazon.com/Creative-Wide-Angle-Cancellation-Improved-Universal/dp/B0919XGLXH/ref=asc_df_B0919XGLXH&mcid=2bdee1cf4deb3340beb526821f596f7f?tag=bngsmtphsnus-20&linkCode=df0&hvadid=80882941733950&hvnetw=s&hvqmt=e&hvbmt=be&hvdev=c&hvlocint=&hvlocphy=&hvtargid=pla-4584482468945832&th=1
+Creative Live! Camera - Amazon(https://www.amazon.com/Creative-Wide-Angle-Cancellation-Improved-Universal/dp/B0919XGLXH)
 
 
 Instructions:
