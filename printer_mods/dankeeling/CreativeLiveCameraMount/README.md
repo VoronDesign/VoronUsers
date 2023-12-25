@@ -1,11 +1,9 @@
 # Creative Live! Camera Mount
 STL and files supporting mounting Creative Live! Camera on 20x20 Aluminum frame
 
-Very simple to print fots inside the camera flex mount.
+Very simple to print and simply fits inside the camera mount.
 
 ![Screenshot_20231224_215448_Chrome](https://github.com/DanKeeling/Creative-Live-Camera-Mount/assets/5109514/9c4521c4-b1fc-46e5-b78f-16e7a6089d20)
-
-printed from ABS 30% infill on its side, supports optional.
 
 ![20231224_211017](https://github.com/DanKeeling/Creative-Live-Camera-Mount/assets/5109514/28ee8aaa-a486-46c3-86b7-506ef56032f8)
 
@@ -20,9 +18,10 @@ BOM:
 
 Instructions:
 
+printed from ABS 30% infill on its side, supports optional.
+
 Unscrew the one screw that the camera mount hindges on and slide the printed part into its place. 
 
 ![20231224_211032~3](https://github.com/DanKeeling/Creative-Live-Camera-Mount/assets/5109514/f2c33d1e-1f6d-4574-8a00-7e0e0873b697)
 
-
-mount the printed part to the printer frame wherever convenient with the M3 screw and tnut.
+mount the printed part to the printer frame wherever convenient with the M3 screw and M3 tnut.
