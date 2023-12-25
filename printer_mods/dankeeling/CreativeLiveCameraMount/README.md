@@ -25,6 +25,6 @@ printed from ABS 30% infill on its side, supports optional.
 
 Unscrew the one screw that the camera mount hindges on and slide the printed part into its place. 
 
-![img](Images/20231224_211032~2.jpg)
+![img](Images/20231224_211032_2.jpg)
 
 mount the printed part to the printer frame wherever convenient with the M3 screw and M3 tnut.
