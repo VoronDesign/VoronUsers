@@ -1,0 +1,21 @@
+---
+blank_issues_enabled: false
+contact_links:
+  - name: I want to submit a mod
+    url: https://github.com/VoronDesign/VoronUsers/pulls/
+    about: Mod submissions are handled via pull requests. Please open a pull request to have your mod added
+  - name: I want to learn about the submission rules for this repository
+    url: https://github.com/VoronDesign/VoronUsers/wiki/Mod-Submission-Rules
+    about: The wiki of this repository contains all the information you need to know about submitting mods
+  - name: I'm looking for general discussions about VoronUser mods
+    url: https://discord.com/channels/460117602945990666/635687829254701107
+    about: "The #voronuser_mods channel on the VoronDesign discord is the place to go"
+  - name: I have an issue with a VoronDesign printer
+    url: https://discord.gg/voron
+    about: Please use the help channels for the individual printers on the VoronDesign discord
+  - name: I want to request a mod or a feature for a particular mod
+    url: https://discord.com/channels/460117602945990666/635687829254701107
+    about: "You can ask other mod creators in the #voronuser_mods channel on the VoronDesign discord for support"
+  - name: I have one of the above issues and don't want to use Discord
+    url: https://forum.vorondesign.com
+    about: The VoronDesign forum provides a platform for discussions and support outside of discord

@@ -43,7 +43,7 @@ This version uses 100mm x 8mm rod for spool core mounting. Provides very smooth 
 
 This version uses classic Voron spool holder design adopted to fit the spool holder arm. This design is recommended as it greatly reduces/eliminates the risk of free spinning of the spool and filament slipping over the spool. This version is also simpler/easier and cheaper to make.
 
-##### Ball Bearing version - BOM
+##### Classic version - BOM
 
 - 8 M5x10 BHCS
 - 4x M5x16 BHCS

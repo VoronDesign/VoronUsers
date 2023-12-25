@@ -1,0 +1,14 @@
+cad:
+- CAD/Hour_Counter_Skirt.f3d
+- CAD/Keystone_Skirt.f3d
+description: Skirt mod for a mechanical hour counter and keystone inserts
+images:
+- Images/hour_counter_skirt.JPEG 
+- Images/hour_counter_skirt_empty.JPEG 
+- Images/keystone_skirt_empty.JPEG 
+- Images/all_skirt_mods.JPEG 
+- Images/keystone_skirt.JPEG
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: Hour Counter Skirt + Keystone Skirt

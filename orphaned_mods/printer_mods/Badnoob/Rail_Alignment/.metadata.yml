@@ -1,8 +1,0 @@
-cad: []
-description: Tools and procedure to properly align the rails in 2.4 and Afterburner
-images:
-- pivot_front.png
-mod_version: 1
-printer_compatibility:
-- V2.4
-title: Rail Alignment

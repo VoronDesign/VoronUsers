@@ -1,0 +1,31 @@
+name: I want to report an issue with a mod
+description: You have found an issue with one of the mods in this repository? Please use this mod issue report to let us know.
+title: "[MOD ISSUE] <title>"
+labels: Mod Issue
+body:
+- type: textarea
+  attributes:
+    label: Which mod does this issue apply to?
+    placeholder: FHeilmann/flux_capacitor
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Relevant VoronDesign printer
+    description: Which printer did you experience this issue on
+    placeholder: On my V2.4
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Describe the bug
+    description: A clear and concise description of what the bug is.
+    placeholder: |
+      When starting a print ...
+      When trying to build ...
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Addition information
+    description: Add any other context about the problem here.

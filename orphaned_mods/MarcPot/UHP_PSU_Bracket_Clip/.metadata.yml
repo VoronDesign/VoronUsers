@@ -1,0 +1,16 @@
+cad:
+- CAD/UHP_PSU_Bracket_Double_Rail_Heatset_Insert.f3d
+- CAD/UHP_PSU_Bracket_Double_Rail_Hexnut.f3d
+- CAD/UHP_PSU_Bracket_Heatset_Insert.f3d
+- CAD/UHP_PSU_Bracket_Hexnut.f3d
+description: DIN rail mount for the Mean Well UHP series PSU.
+images:
+- Images/all_tests.JPEG
+- Images/hexnut.JPEG
+- Images/hexnut_rail.JPEG
+- Images/insert.JPEG
+- Images/insert_rail.JPEG
+mod_version: 1
+printer_compatibility:
+- V2.4
+title: UHP PSU Bracket Clip

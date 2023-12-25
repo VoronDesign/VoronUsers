@@ -2,7 +2,7 @@ name: pull_request_ci
 run-name: "#${{github.event.number}} - ${{github.event.pull_request.title}}"
 on:
     pull_request:
-        types: [opened, reopened, synchronize]
+        types: [opened, reopened, synchronize, labeled]
 concurrency:
     group: ${{ github.ref }}
     cancel-in-progress: true
