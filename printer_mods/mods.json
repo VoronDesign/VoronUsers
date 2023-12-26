@@ -488,6 +488,14 @@
         "last_changed": "2023-07-14T13:24:54+00:00"
     },
     {
+        "path": "EmJay276/stealthburner_dragon_UHF_toolhead",
+        "title": "Stealthburner Phaetus Dragon UHF and Phaetus Dragon UHF mini",
+        "creator": "EmJay276",
+        "description": "This mod adds a tool cartridge for the Phaetus Dragon UHF and Phaetus Dragon UHF mini hotend",
+        "printer_compatibility": "V2.4, VT",
+        "last_changed": "2023-12-26T23:18:46+00:00"
+    },
+    {
         "path": "Empusas/BTT_Filament_Motion_Sensor_Mount",
         "title": "Mounts for BTT Filament Motion Sensor",
         "creator": "Empusas",
