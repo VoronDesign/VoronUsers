@@ -60,7 +60,7 @@ To lubricate a carriage block:
 
 5. Move the carriage block back and forth a few times to distribute the grease, then wipe off the excess grease from the rail
 
-To see this in action, refer to the [attached video](./OTHER/in_situ_lubrication.mp4) of testing this lubrication principle.
+To see this in action, refer to the [attached video](https://youtu.be/QBa8QdQRcu8) of testing this lubrication principle.
 
 ## Background for the mod
 
