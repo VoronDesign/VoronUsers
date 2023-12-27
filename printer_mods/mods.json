@@ -1080,6 +1080,14 @@
         "last_changed": "2023-12-27T00:11:54+00:00"
     },
     {
+        "path": "MapleLeafMakers/Umbilical_Collar",
+        "title": "Umbilical Collar",
+        "creator": "MapleLeafMakers",
+        "description": "An adjustable umbilical collar for the stock motor panel on the V0",
+        "printer_compatibility": "V0",
+        "last_changed": "2023-12-27T15:57:10+00:00"
+    },
+    {
         "path": "MasturMynd/V0.1-Stealth_Zero",
         "title": "Stealth Zero",
         "creator": "MasturMynd",
