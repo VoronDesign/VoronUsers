@@ -257,6 +257,7 @@ Printer mods for Voron 3D printers
 | madros | [V0 OLED-skirt](madros/V0_skirt_OLED) | V0 skirt with 0.96" OLED | V0.2 | 2023-07-15T11:51:22+00:00 |
 | Majarspeed | [Hartk board mount galileo](Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | V2.4 | 2023-07-14T13:24:54+00:00 |
 | MakeALeft | [Switchwire Clean Center Grill](MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look |  | 2023-07-13T14:30:27+00:00 |
+| MapleLeafMakers | [Modesty Mesh](MapleLeafMakers/Modesty_Mesh) | Customizable mesh inserts to hide your messy electronics compartment. | V0 | 2023-12-27T00:11:54+00:00 |
 | MasturMynd | [Stealth Zero](MasturMynd/V0.1-Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted... | V0.1 | 2023-10-26T05:29:07+00:00 |
 |  | [2-Piece Z Tensioners](MasturMynd/V2-2-Piece_Z_Tensioners) | Splits the tensioners into two pieces, allowing the tensioner to be... | V2 | 2023-10-26T05:29:07+00:00 |
 | MathematicalPotato | [V0.1 Belted Z Drive](MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from... | V0.2 | 2023-07-14T13:24:54+00:00 |
