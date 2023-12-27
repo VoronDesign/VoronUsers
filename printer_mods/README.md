@@ -387,6 +387,7 @@ Printer mods for Voron 3D printers
 | Ultrawaffles | [Ender 3 to SW conversion](Ultrawaffles/Ender_3_to_SW) | A conversion mod for the ender 3 to switchwire. Designed to allow... | VSW | 2023-10-24T11:32:29+00:00 |
 | VinnyCordeiro | [RGB LED grid for Stealthburner](VinnyCordeiro/RGB_LED_grid_for_SB) | A small RGB LED grid for Stealthburner's logo | V1.8, V2.4, VSW, VT | 2023-07-13T14:30:27+00:00 |
 | warriorofwire | [Slenderfan for Afterburner](warriorofwire/slenderfan) | Lighter, quieter, smaller Afterburner | V2.4 | 2023-07-15T11:51:22+00:00 |
+| watt-this | [In Situ Linear Carriage Block...](watt-this/in-situ_linear_rail_greasing) | A modification that allow lubrication of the linear reals while... | V2.4r2 | 2023-12-27T16:59:01+00:00 |
 | Weaslus | [Electronics Bay and Enclosure...](Weaslus/Electronics-Bay-Seperator) | Better enclose chamber and keep heat from electronics | V0.2 | 2023-07-13T14:30:27+00:00 |
 | whoppingpochard | [Extrusion Backers](whoppingpochard/extrusion_backers) | Laser-cut metal pieces to counteract bimetallic frame warping | V2.4 | 2023-07-13T14:30:27+00:00 |
 | wile-e1 | [Deck Panel Support Clips](wile-e1/Deck_Panel_Support_Clips) | Clips to help support lower deck panels to prevent (or fix) warping: | V1.8, V2.4 | 2023-07-13T14:30:27+00:00 |

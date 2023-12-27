@@ -3088,6 +3088,14 @@
         "last_changed": "2023-07-15T11:51:22+00:00"
     },
     {
+        "path": "watt-this/in-situ_linear_rail_greasing",
+        "title": "In Situ Linear Carriage Block Lubrication",
+        "creator": "watt-this",
+        "description": "A modification that allow lubrication of the linear reals while fully assembled.",
+        "printer_compatibility": "V2.4r2",
+        "last_changed": "2023-12-27T16:59:01+00:00"
+    },
+    {
         "path": "whoppingpochard/extrusion_backers",
         "title": "Extrusion Backers",
         "creator": "whoppingpochard",
