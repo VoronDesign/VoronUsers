@@ -10,5 +10,4 @@ permissions:
     pull-requests: write
 jobs:
     voronusers_ci_pr_check:
-        if: ${{ contains( github.event.pull_request.labels.*.name, 'Ready for CI') }}
         uses: VoronDesign/.github/.github/workflows/voronusers-ci-pr-check.yml@main
