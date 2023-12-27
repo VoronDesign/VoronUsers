@@ -80,6 +80,14 @@
         "last_changed": "2023-07-13T14:30:27+00:00"
     },
     {
+        "path": "AVieira/Universal_Phone_Mount",
+        "title": "Universal_Phone_Mount",
+        "creator": "AVieira",
+        "description": "This mod allows the use of different smartphones or possibly tablets that you may want to use for klipperscreen.",
+        "printer_compatibility": "V2.4r2",
+        "last_changed": "2023-12-27T15:53:59+00:00"
+    },
+    {
         "path": "Akio/cable_routing_z_belt_cover",
         "title": "Hidden cable routing z belt cover",
         "creator": "Akio",
@@ -1070,6 +1078,14 @@
         "description": "Customizable mesh inserts to hide your messy electronics compartment.",
         "printer_compatibility": "V0",
         "last_changed": "2023-12-27T00:11:54+00:00"
+    },
+    {
+        "path": "MapleLeafMakers/Umbilical_Collar",
+        "title": "Umbilical Collar",
+        "creator": "MapleLeafMakers",
+        "description": "An adjustable umbilical collar for the stock motor panel on the V0",
+        "printer_compatibility": "V0",
+        "last_changed": "2023-12-27T15:57:10+00:00"
     },
     {
         "path": "MasturMynd/V0.1-Stealth_Zero",

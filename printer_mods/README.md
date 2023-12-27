@@ -42,6 +42,7 @@ Printer mods for Voron 3D printers
 |  | [MGN12 X-axis](arkeet/mgn12) | Replaces the dual MGN9H rails with a single MGN12H. | V2.4 | 2023-07-15T11:51:22+00:00 |
 |  | [V0 DC inlet](arkeet/v0-dc-inlet) | Skirt inlet for external 24V DC power supply. | V0.2 | 2023-07-13T14:30:27+00:00 |
 | aTinyShellScript | [RS PSU DIN Bracket](aTinyShellScript/RS_PSU_DIN_Brackets) | DIN brackets for MeanWell RS PSUs with 80mm spacing. | V2.4 | 2023-07-15T11:51:22+00:00 |
+| AVieira | [Universal_Phone_Mount](AVieira/Universal_Phone_Mount) | This mod allows the use of different smartphones or possibly... | V2.4r2 | 2023-12-27T15:53:59+00:00 |
 | baccula | [Revo Nozzle Holder for v2.4 350](baccula/revo_skirt_nozzle_holder) | A remix of Andre's design allowing for skirt storage of 4 E3D Revo... | V2.4 | 2023-07-13T14:30:27+00:00 |
 | Backenfutter | [Mount for Electreeks Camera](Backenfutter/Mount_for_Electreeks_Camera) | This Mod is a simple "One Piece" mount for the popular Electreeks... | V2.4 | 2023-07-13T14:30:27+00:00 |
 | Badnoob | [AB-BN Afterburner mod (5015)](Badnoob/AB-BN) | Improved Afterburner with 5015 fan | V1.8, V2.4, VSW, VT | 2023-07-14T13:24:54+00:00 |
@@ -258,6 +259,7 @@ Printer mods for Voron 3D printers
 | Majarspeed | [Hartk board mount galileo](Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | V2.4 | 2023-07-14T13:24:54+00:00 |
 | MakeALeft | [Switchwire Clean Center Grill](MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look |  | 2023-07-13T14:30:27+00:00 |
 | MapleLeafMakers | [Modesty Mesh](MapleLeafMakers/Modesty_Mesh) | Customizable mesh inserts to hide your messy electronics compartment. | V0 | 2023-12-27T00:11:54+00:00 |
+|  | [Umbilical Collar](MapleLeafMakers/Umbilical_Collar) | An adjustable umbilical collar for the stock motor panel on the V0 | V0 | 2023-12-27T15:57:10+00:00 |
 | MasturMynd | [Stealth Zero](MasturMynd/V0.1-Stealth_Zero) | A low poly gantry with front tensioners and optional front mounted... | V0.1 | 2023-10-26T05:29:07+00:00 |
 |  | [2-Piece Z Tensioners](MasturMynd/V2-2-Piece_Z_Tensioners) | Splits the tensioners into two pieces, allowing the tensioner to be... | V2 | 2023-10-26T05:29:07+00:00 |
 | MathematicalPotato | [V0.1 Belted Z Drive](MathematicalPotato/v0.1_belted_z_drive) | Conversion to a belted Z axis for the V0.1 adapted from... | V0.2 | 2023-07-14T13:24:54+00:00 |
