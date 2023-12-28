@@ -1,0 +1,19 @@
+---
+title: Upper Rear Bowden Inlet (URBI)
+description: A Reverse Bowden Inlet for the upper-rear panel of the Voron Zero with an optional filament sensor.
+mod_version: 1
+discord_username: mapleleafmakers
+cad:
+- CAD/URBI_Assembly.step
+images:
+- Images/URBI-ECAS4.gif
+- Images/URBI-PC4.gif
+- Images/URBI-SFS2.gif
+- Images/URBI.gif
+- Images/URBIFS-PC4.gif
+- Images/URBIFS.gif
+- Images/options.png
+- Images/photo.jpg
+
+printer_compatibility:
+- V0
