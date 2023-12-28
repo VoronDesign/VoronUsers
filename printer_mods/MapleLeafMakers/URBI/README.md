@@ -17,6 +17,13 @@ Filament sensor variants require a microswitch and 6x3mm magnet.
 
 ![Photo](./Images/photo.jpg)
 
+
+## Compatibility
+
+URBI is compatible with any V0 with a split back panel (0.2 or later, or any LDO kit)
+
+However, URBI can *not* be printed on a V0, it's too large. You can cut it into 2 pieces in the slicer and glue them together if you have no other option.
+
 ## Assembly
 
 ### URBI
