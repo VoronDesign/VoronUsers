@@ -1088,6 +1088,14 @@
         "last_changed": "2023-12-27T16:27:29+00:00"
     },
     {
+        "path": "MapleLeafMakers/URBI",
+        "title": "Upper Rear Bowden Inlet (URBI)",
+        "creator": "MapleLeafMakers",
+        "description": "A Reverse Bowden Inlet for the upper-rear panel of the Voron Zero with an optional filament sensor.",
+        "printer_compatibility": "V0",
+        "last_changed": "2023-12-28T23:17:07+00:00"
+    },
+    {
         "path": "MapleLeafMakers/Umbilical_Collar",
         "title": "Umbilical Collar",
         "creator": "MapleLeafMakers",
