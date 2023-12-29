@@ -1080,6 +1080,14 @@
         "last_changed": "2023-12-28T23:43:17+00:00"
     },
     {
+        "path": "MapleLeafMakers/Rainbow_Serial_Bumper",
+        "title": "Rainbow Serial Bumper",
+        "creator": "MapleLeafMakers",
+        "description": "Just a little bit of extra bling for your Voron Trident",
+        "printer_compatibility": "VT",
+        "last_changed": "2023-12-29T17:37:31+00:00"
+    },
+    {
         "path": "MapleLeafMakers/Stealth_Handles",
         "title": "Stealth Handles",
         "creator": "MapleLeafMakers",
