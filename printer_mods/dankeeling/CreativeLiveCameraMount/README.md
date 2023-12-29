@@ -23,7 +23,7 @@ Instructions:
 
 printed from ABS 30% infill on its side, supports optional.
 
-Unscrew the one screw that the camera mount hindges on and slide the printed part into its place. 
+Unscrew the one screw that the camera mount hinges on and slide the printed part into its place. 
 
 ![img](Images/20231224_211032_2.jpg)
 
