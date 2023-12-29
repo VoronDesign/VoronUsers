@@ -1,0 +1,26 @@
+---
+title: Rainbow Serial Bumper
+description: Just a little bit of extra bling for your Voron Trident
+mod_version: 1
+discord_username: mapleleafmakers
+cad:
+- CAD/Rainbow_Serial_Bumper.step
+- CAD/Rainbow_Serial_Bumper.f3d
+images:
+- Images/[a]_main_body.gif
+- Images/[a]_main_body_slicer.png
+- Images/[o]_back_plate_slicer.png
+- Images/[o]_insert_collar.gif
+- Images/[o]_insert_collar_slicer.png
+- Images/[oc]_insert_slicer_1.png
+- Images/[oc]_insert_slicer_2.png
+- Images/[oc]_insert_slicer_3.png
+- Images/[oc]_insert_slicer_4.png
+- Images/[oc]_insert_slicer_5.png
+- Images/assembly_1.gif
+- Images/assembly_2.gif
+- Images/install.gif
+- Images/thumbnail.png
+- Images/tridentbling.gif
+printer_compatibility:
+- VT
