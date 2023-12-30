@@ -16,4 +16,4 @@ Mount it with a few (according to size) 8mm M3 SHCS and hammerhead t-nuts.
 
 I have tested on a 350 2.4, i would love to hear if the smaller sizes work well too! 
 
-![alt text](https://github.com/Ferdi360/VoronUsers/blob/master/printer_mods/Ferdi360/2.4%20Backplates/Images/2.4%20Backplates.PNG)https://github.com/Ferdi360/VoronUsers/blob/master/printer_mods/Ferdi360/2.4%20Backplates/Images/2.4%20Backplates.PNG)
+![alt text](printer_mods/Ferdi360/2.4 Bedfan Backplates/Images/2.4_Bedfan_Backplates.PNG)printer_mods/Ferdi360/2.4 Bedfan Backplates/Images/2.4_Bedfan_Backplates.PNG)
