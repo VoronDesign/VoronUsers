@@ -7,6 +7,6 @@ cad:
 - CAD/stealth_bumper.step
 images:
 - Images/photo.jpg
-- images/render.png
+- Images/render.png
 printer_compatibility:
 - V0
