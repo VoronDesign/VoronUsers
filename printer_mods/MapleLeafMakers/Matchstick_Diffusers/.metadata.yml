@@ -1,0 +1,13 @@
+---
+title: Matchstick Diffusers
+description: Mounts and Diffusers for the popular "on-a-matchstick" LEDs
+mod_version: 1
+discord_username: mapleleafmakers
+cad:
+- CAD/matchstick_diffuser.step
+images:
+- Images/CAD1.png
+- Images/photo.jpg
+
+printer_compatibility:
+- V0
