@@ -98,6 +98,7 @@ Printer mods for Voron 3D printers
 |  | [Voron V0 SSR Mount](DaGlo/Voron_V0_SSR_Mount) | Voron V0 SSR Mount for the bottom | V0.2 | 2023-07-14T13:24:54+00:00 |
 | DaGrooch13 | [Tophat Exhaust Filter V0](DaGrooch13/Tophat_Exhaust_Filter) | Activated charcoal exhaust filter with HEPA that replaces the rear... | V0.2 | 2023-07-14T13:24:54+00:00 |
 | Dan88 | [V0 one-part Skirts](Dan88/V0skirt) | One part Skirts for the V0 | V0.2 | 2023-07-13T14:30:27+00:00 |
+| dankeeling | [Creative Live! Camera Mount](dankeeling/CreativeLiveCameraMount) | A mod to provide a mount for the Creative Live! Camera that mounts... | V2.4r2, VT | 2023-12-30T15:53:01+00:00 |
 | DaStivi | [The Cephalopod limb (BTT Octopus...](DaStivi/the_Cephalopods_limb) | An alternative Din rail mount for BTT Octopus (PRO) boards | V1.8, V2.4, VSW, VT | 2023-07-13T14:30:27+00:00 |
 | Daten | [Revo hotend skirt case](Daten/Voron_2.4_Revo_Nozzle_Holder) | A skirt case for the Revo hotends to reside R1 and R2 | V2.4 | 2023-07-14T13:24:54+00:00 |
 | davidauvergne | [Center_cable_management_duct](davidauvergne/Center_cable_management_duct) | Mod for a centered cable management | V2.4 | 2023-07-15T11:51:22+00:00 |

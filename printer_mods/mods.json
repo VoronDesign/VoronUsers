@@ -2008,6 +2008,14 @@
         "last_changed": "2023-07-13T14:30:27+00:00"
     },
     {
+        "path": "dankeeling/CreativeLiveCameraMount",
+        "title": "Creative Live! Camera Mount",
+        "creator": "dankeeling",
+        "description": "A mod to provide a mount for the Creative Live! Camera that mounts on 20mm extrusion.",
+        "printer_compatibility": "V2.4r2, VT",
+        "last_changed": "2023-12-30T15:53:01+00:00"
+    },
+    {
         "path": "davidauvergne/Center_cable_management_duct",
         "title": "Center_cable_management_duct",
         "creator": "davidauvergne",
