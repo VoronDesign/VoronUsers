@@ -16,7 +16,7 @@ cad:
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
 # All paths are relative to this .metadata.yml file.
 images:
-- Images/2.4_Backplates.png
+- Images/2.4_Backplates.PNG
 - Images/2.4_Backplates_1.jpg
 - Images/2.4_Backplates_2.jpg
 # Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
