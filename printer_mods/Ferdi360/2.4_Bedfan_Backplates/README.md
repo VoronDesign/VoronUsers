@@ -8,6 +8,10 @@ I noticed a hotspot on the lower third of the ACM backpanel, which now gets more
 If you have standard bed spacers (8 mm), a magnet+PEI sheet and the normal Stealthburner toolhead, you should have 6 mm margin between the gantry and the backplate. 
 You should also make sure you have managed your AB motor cables (and connectors if you added those), so they don't get crushed.
 
+**BOM:**
+- 4x 8mm M3 SHCS (2x for 250mm version)
+- 4x hammerhead t-nut (2x for 250mm version)
+
 **Instructions:**
 The STL's are “blank” plates without serial numbers. I added a Fusion360 file in which you can edit the text in the similar named sketch. Or you can add text in Prusaslicer for example.  
 Print with 3 perimeters and 1% infill. If you do a color change after layer one, you get a nice effect. 
@@ -16,6 +20,6 @@ Mount it with a few (according to size) 8mm M3 SHCS and hammerhead t-nuts.
 
 I have tested on a 350 2.4, i would love to hear if the smaller sizes work well too! 
 
-![alt text](Images/2.4_Backplates.PNG)Images/2.4_Backplates.PNG
-![alt text](Images/2.4_Backplates_1.jpg)Images/2.4_Backplates_1.jpg
-![alt text](Images/2.4_Backplates_2.jpg)Images/2.4_Backplates_2.jpg
+![CAD](Images/2.4_Backplates.PNG)Images/2.4_Backplates.PNG
+![Photo 1](Images/2.4_Backplates_1.jpg)Images/2.4_Backplates_1.jpg
+![Photo 2](Images/2.4_Backplates_2.jpg)Images/2.4_Backplates_2.jpg
