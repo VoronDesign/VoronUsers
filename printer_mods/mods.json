@@ -528,6 +528,14 @@
         "last_changed": "2023-07-14T13:24:54+00:00"
     },
     {
+        "path": "Ferdi360/2.4_Bedfan_Backplates",
+        "title": "2.4 Bedfan Backplates",
+        "creator": "Ferdi360",
+        "description": "Backplates for your Voron 2.4 that block hot air out of your bedfans from blowing onto your ACM panels to (slightly) improve airflow and temps. Also a nice way to showoff Voron branding and the serial of your printer.",
+        "printer_compatibility": "V2.4r2",
+        "last_changed": "2024-01-01T15:20:27+00:00"
+    },
+    {
         "path": "Fiction/C270_mount",
         "title": "C270 mount",
         "creator": "Fiction",

@@ -138,6 +138,7 @@ Printer mods for Voron 3D printers
 | falo | [LGX Lite CAN Side Mount](falo/lgx_lite_side_can) | A side mounting for a CAN board (Huvud/SHT42) to the LGX Lite | V1.8, V2.4, VSW, VT | 2023-07-13T14:30:27+00:00 |
 |  | [Magnetic Exhaust Grill Cover](falo/magnetic_grill_cover) | A magnetic cover to seal the filtered exhaust | V2.4 | 2023-07-15T11:51:22+00:00 |
 |  | [Toolhead PCB to CAN Mount Adaptor](falo/toolhead_pcb_to_can) | A mount to enable side mounting of a CAN board (Huvud/SHT42) in... | V1.8, V2.4, VSW, VT | 2023-07-13T14:30:27+00:00 |
+| Ferdi360 | [2.4 Bedfan Backplates](Ferdi360/2.4_Bedfan_Backplates) | Backplates for your Voron 2.4 that block hot air out of your... | V2.4r2 | 2024-01-01T15:20:27+00:00 |
 | Fiction | [C270 mount](Fiction/C270_mount) | Logitech C270 webcam front-centre mount | V2.4, VT | 2023-07-14T13:24:54+00:00 |
 |  | [Crossrail](Fiction/Crossrail) | Across-the-rails LRS-200-24 or RSP-200-24 mount using DRP-03 brackets | V2.4, VT | 2023-07-14T13:24:54+00:00 |
 |  | [Exhaust_cover](Fiction/Exhaust_cover) | Cover for exhaust cutout in back panel | V2.4, VT | 2023-07-14T13:24:54+00:00 |
