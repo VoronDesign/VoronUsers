@@ -98,6 +98,7 @@ Printer mods for Voron 3D printers
 |  | [Voron V0 SSR Mount](DaGlo/Voron_V0_SSR_Mount) | Voron V0 SSR Mount for the bottom | V0.2 | 2023-07-14T13:24:54+00:00 |
 | DaGrooch13 | [Tophat Exhaust Filter V0](DaGrooch13/Tophat_Exhaust_Filter) | Activated charcoal exhaust filter with HEPA that replaces the rear... | V0.2 | 2023-07-14T13:24:54+00:00 |
 | Dan88 | [V0 one-part Skirts](Dan88/V0skirt) | One part Skirts for the V0 | V0.2 | 2023-07-13T14:30:27+00:00 |
+| dankeeling | [Creative Live! Camera Mount](dankeeling/CreativeLiveCameraMount) | A mod to provide a mount for the Creative Live! Camera that mounts... | V2.4r2, VT | 2023-12-30T15:53:01+00:00 |
 | DaStivi | [The Cephalopod limb (BTT Octopus...](DaStivi/the_Cephalopods_limb) | An alternative Din rail mount for BTT Octopus (PRO) boards | V1.8, V2.4, VSW, VT | 2023-07-13T14:30:27+00:00 |
 | Daten | [Revo hotend skirt case](Daten/Voron_2.4_Revo_Nozzle_Holder) | A skirt case for the Revo hotends to reside R1 and R2 | V2.4 | 2023-07-14T13:24:54+00:00 |
 | davidauvergne | [Center_cable_management_duct](davidauvergne/Center_cable_management_duct) | Mod for a centered cable management | V2.4 | 2023-07-15T11:51:22+00:00 |
@@ -258,7 +259,9 @@ Printer mods for Voron 3D printers
 | madros | [V0 OLED-skirt](madros/V0_skirt_OLED) | V0 skirt with 0.96" OLED | V0.2 | 2023-07-15T11:51:22+00:00 |
 | Majarspeed | [Hartk board mount galileo](Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | V2.4 | 2023-07-14T13:24:54+00:00 |
 | MakeALeft | [Switchwire Clean Center Grill](MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look |  | 2023-07-13T14:30:27+00:00 |
-| MapleLeafMakers | [Modesty Mesh](MapleLeafMakers/Modesty_Mesh) | Customizable mesh inserts to hide your messy electronics compartment. | V0 | 2023-12-28T23:43:17+00:00 |
+| MapleLeafMakers | [Kirigami Stealth Bumper](MapleLeafMakers/Kirigami_Stealth_Bumper) | an RGB-Powered front-bed mount for the Voron V0 with Kirigami Bed... | V0 | 2023-12-31T15:37:53+00:00 |
+|  | [Matchstick Diffusers](MapleLeafMakers/Matchstick_Diffusers) | Mounts and Diffusers for the popular "on-a-matchstick" LEDs | V0 | 2023-12-30T19:41:58+00:00 |
+|  | [Modesty Mesh](MapleLeafMakers/Modesty_Mesh) | Customizable mesh inserts to hide your messy electronics compartment. | V0 | 2023-12-28T23:43:17+00:00 |
 |  | [Rainbow Serial Bumper](MapleLeafMakers/Rainbow_Serial_Bumper) | Just a little bit of extra bling for your Voron Trident | VT | 2023-12-29T17:37:31+00:00 |
 |  | [Stealth Handles](MapleLeafMakers/Stealth_Handles) | Stealthy and stylish handles for your V0 | V0.2 | 2023-12-27T16:27:29+00:00 |
 |  | [Umbilical Collar](MapleLeafMakers/Umbilical_Collar) | An adjustable umbilical collar for the stock motor panel on the V0 | V0 | 2023-12-27T15:57:10+00:00 |

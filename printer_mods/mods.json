@@ -1072,6 +1072,22 @@
         "last_changed": "2023-07-13T14:30:27+00:00"
     },
     {
+        "path": "MapleLeafMakers/Kirigami_Stealth_Bumper",
+        "title": "Kirigami Stealth Bumper",
+        "creator": "MapleLeafMakers",
+        "description": "an RGB-Powered front-bed mount for the Voron V0 with Kirigami Bed Frame",
+        "printer_compatibility": "V0",
+        "last_changed": "2023-12-31T15:37:53+00:00"
+    },
+    {
+        "path": "MapleLeafMakers/Matchstick_Diffusers",
+        "title": "Matchstick Diffusers",
+        "creator": "MapleLeafMakers",
+        "description": "Mounts and Diffusers for the popular \"on-a-matchstick\" LEDs",
+        "printer_compatibility": "V0",
+        "last_changed": "2023-12-30T19:41:58+00:00"
+    },
+    {
         "path": "MapleLeafMakers/Modesty_Mesh",
         "title": "Modesty Mesh",
         "creator": "MapleLeafMakers",
@@ -2006,6 +2022,14 @@
         "description": "Filtered Power Plug for RND 165-00057 and CAT6-Plug",
         "printer_compatibility": "V2.4",
         "last_changed": "2023-07-13T14:30:27+00:00"
+    },
+    {
+        "path": "dankeeling/CreativeLiveCameraMount",
+        "title": "Creative Live! Camera Mount",
+        "creator": "dankeeling",
+        "description": "A mod to provide a mount for the Creative Live! Camera that mounts on 20mm extrusion.",
+        "printer_compatibility": "V2.4r2, VT",
+        "last_changed": "2023-12-30T15:53:01+00:00"
     },
     {
         "path": "davidauvergne/Center_cable_management_duct",
