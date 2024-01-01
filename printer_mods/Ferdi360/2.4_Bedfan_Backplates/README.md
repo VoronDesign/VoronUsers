@@ -20,6 +20,6 @@ Mount it with a few (according to size) 8mm M3 SHCS and hammerhead t-nuts.
 
 I have tested on a 350 2.4, i would love to hear if the smaller sizes work well too! 
 
-![CAD](Images/2.4_Backplates.PNG)Images/2.4_Backplates.PNG
-![Photo 1](Images/2.4_Backplates_1.jpg)Images/2.4_Backplates_1.jpg
-![Photo 2](Images/2.4_Backplates_2.jpg)Images/2.4_Backplates_2.jpg
+![CAD](Images/2.4_Backplates.PNG)
+![Photo 1](Images/2.4_Backplates_1.jpg)
+![Photo 2](Images/2.4_Backplates_2.jpg)
