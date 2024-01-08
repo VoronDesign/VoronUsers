@@ -6,4 +6,13 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- foot_filament_guide.stl
+- hatch_rear.stl
+- panel_hinge_bottom.stl
+- panel_hinge_top.stl
+- panel_left.stl
+- panel_rear.stl
+- panel_right.stl
+- panel_right_iec.stl
 title: Ghetto Panels

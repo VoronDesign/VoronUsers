@@ -7,4 +7,14 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- TallFeet_x4.stl
+- w_Skirt_C14.stl
+- w_Skirt_Front.stl
+- w_Skirt_LCD_back.stl
+- w_Skirt_Side_x2.stl
+- '[a]_w_Skirt_C14.stl'
+- '[a]_w_Skirt_Front_left.stl'
+- '[a]_w_Skirt_Front_right.stl'
+- '[a]_w_Skirt_Side_x2.stl'
 title: V0 Skirt Mod

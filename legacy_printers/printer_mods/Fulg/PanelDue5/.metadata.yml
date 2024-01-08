@@ -7,4 +7,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- STL/V2_PanelDue5_Bottom.stl
+- STL/V2_PanelDue5_Top.stl
 title: PanelDue5 LCD Mount

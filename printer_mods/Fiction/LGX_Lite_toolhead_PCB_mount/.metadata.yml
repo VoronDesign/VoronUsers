@@ -14,4 +14,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/LGX_Lite_toolhead_PCB_mount.stl
+- STLs/LGX_Lite_toolhead_PCB_spacer.stl
 title: LGX Lite toolhead PCB mount

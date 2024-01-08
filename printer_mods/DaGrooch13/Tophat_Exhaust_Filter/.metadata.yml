@@ -11,4 +11,12 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Fan_Cover_Left_Hole.stl
+- Fan_Cover_Right_Hole.stl
+- Middle_Charcoal_Chamber.stl
+- Middle_Panel_Grill.stl
+- Panel_Left_Side.stl
+- Panel_Right_Side.stl
+- Roomba_HEPA_Cover.stl
 title: Tophat Exhaust Filter V0

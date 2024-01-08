@@ -8,4 +8,11 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- STL/250_top_skirt_220.stl
+- STL/300_top_skirt_270.stl
+- STL/350_top_skirt_320.stl
+- STL/frame_corner.stl
+- STL/panel_corner.stl
+- STL/top_corner_skirt.stl
 title: Magnetic top panel

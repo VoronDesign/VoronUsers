@@ -3,6 +3,8 @@ description: Mount for brass brush. Used for cleaning nozzle before printing
 images: []
 mod_version: 1
 printer_compatibility:
-  - V2.1
-  - V2.2
+- V2.1
+- V2.2
+stl:
+- nozzle_scrubber_mount.stl
 title: Nozzle Scrubber Mount

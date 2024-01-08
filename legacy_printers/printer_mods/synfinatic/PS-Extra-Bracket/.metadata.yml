@@ -4,4 +4,6 @@ description: Extra bracket to keep the power supply in place
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- PS-Extra-Bracket.stl
 title: PS Extra Bracket

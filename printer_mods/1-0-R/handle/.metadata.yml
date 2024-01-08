@@ -17,4 +17,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/handle_inner_part.stl
+- STL/handle_outer_part.stl
+- STL/[a]_handle_middle_part.stl
 title: V2.4 handle

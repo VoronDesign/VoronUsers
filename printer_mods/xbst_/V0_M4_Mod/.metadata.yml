@@ -5,4 +5,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- End_Plate.stl
+- Motor_Plate.stl
 title: Mobius 4 (M4) V0 Mod

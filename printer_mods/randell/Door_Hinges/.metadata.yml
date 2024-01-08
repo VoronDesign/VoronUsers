@@ -18,4 +18,15 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- door_handle_a_x2.stl
+- door_handle_b_x2.stl
+- door_latch_x2.stl
+- drill_guide_handle_a.stl
+- drill_guide_handle_b.stl
+- drill_guide_hinge.stl
+- hinge_arm_a_x2.stl
+- hinge_arm_b_x2.stl
+- hinge_backplate_x4.stl
+- hinge_pivot_x4.stl
 title: Door Hinges

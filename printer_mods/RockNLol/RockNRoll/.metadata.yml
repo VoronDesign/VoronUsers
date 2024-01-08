@@ -17,4 +17,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/rocker_left.stl
+- STLs/rocker_left_brace.stl
+- STLs/rocker_right.stl
+- STLs/rocker_right_brace.stl
+- STLs/[a]_z_drive_baseplate_a_rnl_mod_r1.stl
+- STLs/[a]_z_drive_baseplate_a_rnl_mod_r2.stl
+- STLs/[a]_z_drive_baseplate_b_rnl_mod_r1.stl
+- STLs/[a]_z_drive_baseplate_b_rnl_mod_r2.stl
+- STLs/6mm_panels/rocker_left_6mm.stl
+- STLs/6mm_panels/rocker_left_brace_6mm.stl
+- STLs/6mm_panels/rocker_right_6mm.stl
+- STLs/6mm_panels/rocker_right_brace_6mm.stl
 title: RockNRoll

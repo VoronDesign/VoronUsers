@@ -8,4 +8,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/RetractorMount.stl
+- STL/RetractorMount15deg.stl
+- STL/RetractorMount25deg.stl
+- STL/RetractorMount35deg.stl
 title: Badge Retractor Mount

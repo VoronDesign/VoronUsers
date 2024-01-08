@@ -17,4 +17,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/Voron-CableGator-Lower-Jaw.stl
+- STLs/Voron-CableGator-Upper-Jaw.stl
 title: CableGator Cable Comb

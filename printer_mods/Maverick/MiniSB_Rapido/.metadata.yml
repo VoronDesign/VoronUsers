@@ -8,4 +8,8 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/FS_Hotend_Mount_Phaetus_Rapido.stl
+- STLs/[a]_MiniSB_Cowling_Rapido_Multibody_Logo_x1.stl
+- STLs/[a]_MiniSB_Cowling_Rapido_x1.stl
 title: MiniSB_Rapido

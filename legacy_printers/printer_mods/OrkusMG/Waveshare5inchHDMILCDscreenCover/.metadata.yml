@@ -10,4 +10,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- BackLCDcover.stl
+- FrontLCDCover.stl
 title: Waveshare 5 Inch LCD Cover

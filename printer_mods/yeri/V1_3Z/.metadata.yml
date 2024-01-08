@@ -12,4 +12,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V1.8
+stl:
+- STL/Bottom_Panel_Cutout_Cover.stl
+- STL/Bottom_Panel_Cutout_Cover_2_Color.stl
+- STL/Z_Bed_Mount_Front.stl
+- STL/Z_Bed_Mount_Rear.stl
+- STL/Z_Motor_Mount_Front.stl
+- STL/Z_Motor_Mount_Rear.stl
 title: V1 3Z

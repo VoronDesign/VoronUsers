@@ -9,4 +9,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- m3_small_cable_tie_mount.stl
+- m4_small_cable_tie_mount.stl
 title: Cable Tie Mount

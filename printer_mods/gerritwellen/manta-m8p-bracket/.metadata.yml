@@ -6,4 +6,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- Manta-M8P_Bracket.stl
 title: Manta M8P Mount

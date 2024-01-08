@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- skirt_Inlet.stl
+- skirt_Inlet_mirror.stl
 title: V0 c14 Skirt Inlet

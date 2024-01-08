@@ -6,4 +6,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STL/Leg_End_Cap_x4.stl
+- STL/Rear_Skirt_mirror_x1.stl
+- STL/Rear_Skirt_x1.stl
+- STL/Skirt_x3.stl
 title: Voron0 ExtrusionSkirt

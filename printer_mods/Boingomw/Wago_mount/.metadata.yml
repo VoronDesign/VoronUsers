@@ -8,4 +8,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- stl/2020-Wago_221-412_tray-5x2.stl
 title: Wago mount

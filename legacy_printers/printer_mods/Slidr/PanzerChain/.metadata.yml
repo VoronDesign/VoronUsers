@@ -1,24 +1,51 @@
 cad: []
 description: Alternative energie chain
 images:
-  - themes/Example_1.jpg
-  - 01_Link-Assembly.PNG
-  - 02_XY-Parts.PNG
-  - 03_XY-Part-Tolerance_Explanation.PNG
-  - 04_Z-Assembly.PNG
-  - gallery_printer_examples/aerosov_V2.2_petg_clear.jpg
-  - gallery_printer_examples/Calozor_V2.x-petg_1.jpeg
-  - gallery_printer_examples/Calozor_V2.x-petg_2.jpg
-  - gallery_printer_examples/eraser_V2.2_fx_redline-abs-red.jpg
-  - gallery_printer_examples/slidr_V2.2_AfterBurnerBeta_esunABS+_black_crappyphone_pic.jpg
-  - themes/Example_2.jpg
-  - themes/Example_3.jpg
-  - themes/Example_4.jpg
-  - themes/Example_5.jpg
-  - themes/Example_6.jpg
-  - themes/Example_7.jpg
-  - themes/Example_8.jpg
+- themes/Example_1.jpg
+- 01_Link-Assembly.PNG
+- 02_XY-Parts.PNG
+- 03_XY-Part-Tolerance_Explanation.PNG
+- 04_Z-Assembly.PNG
+- gallery_printer_examples/aerosov_V2.2_petg_clear.jpg
+- gallery_printer_examples/Calozor_V2.x-petg_1.jpeg
+- gallery_printer_examples/Calozor_V2.x-petg_2.jpg
+- gallery_printer_examples/eraser_V2.2_fx_redline-abs-red.jpg
+- gallery_printer_examples/slidr_V2.2_AfterBurnerBeta_esunABS+_black_crappyphone_pic.jpg
+- themes/Example_2.jpg
+- themes/Example_3.jpg
+- themes/Example_4.jpg
+- themes/Example_5.jpg
+- themes/Example_6.jpg
+- themes/Example_7.jpg
+- themes/Example_8.jpg
 mod_version: 1
 printer_compatibility:
-  - V2.2
+- V2.2
+stl:
+- XY/XY-Link_loose_xA.stl
+- XY/XY-Link_normal_xA.stl
+- XY/XY_extrusion_anchor_x2.stl
+- XY/XY_Link_tight_xA.stl
+- XY/XY_Link_verytight_xA.stl
+- XY/Voron2.2/XY_anchor_OPTION1_half-free_left_x2.stl
+- XY/Voron2.2/XY_anchor_OPTION1_half-free_right_x2.stl
+- XY/Voron2.2/XY_anchor_OPTION2_fixed_left_x2.stl
+- XY/Voron2.2/XY_anchor_OPTION2_fixed_right_x2.stl
+- XY/Voron2.2_Afterburner_Beta/XY_anchor_AfterBurnerBeta_Bridge_x1_BETA.stl
+- XY/Voron2.2_Afterburner_Beta/XY_anchor_AfterBurnerBeta_x1_BETA.stl
+- XYZ/XYZ-Clip_Option1_defaultxA.stl
+- XYZ/XYZ-Clip_Option2_EasyOpen_xA.stl
+- Z/Z_Link_xB.stl
+- Z/2.2/Z_anchor_frame_OPTION1_x1.stl
+- Z/2.2/Z_anchor_gantry_chains_only_x1.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/150.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/200.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/250.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/300.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/350.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/400.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/Z_anchor_gantry_OPTION2_solid_vertical_INSERTx1.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/Z_Solid_vertical_400_P1.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/Z_Solid_vertical_400_P2.stl
+- Z/2.2/Z_anchor_gantry_OPTION2_solid_vertical_x1/Z_Solid_vertical_400_P3.stl
 title: Panzer Chain

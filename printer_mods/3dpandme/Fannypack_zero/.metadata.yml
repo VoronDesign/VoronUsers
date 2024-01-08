@@ -8,4 +8,6 @@ printer_compatibility:
 - V0.2
 - VSW
 - VT
+stl:
+- fannypack_zero.stl
 title: FANnypack zero

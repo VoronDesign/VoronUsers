@@ -8,4 +8,9 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- duet-mount-a.stl
+- duet-mount-b.stl
+- duet-mount-fan-a.stl
+- duet-mount-fan-b.stl
 title: Duet Fan Mount

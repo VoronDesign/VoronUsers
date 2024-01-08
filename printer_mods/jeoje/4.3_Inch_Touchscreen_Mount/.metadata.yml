@@ -17,4 +17,9 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VSW
+stl:
+- STL/2.4/faceplate.stl
+- STL/2.4/screen_mount.stl
+- STL/Switchwire/faceplate.stl
+- STL/Switchwire/screen_mount.stl
 title: 4.3" Touchscreen Mount

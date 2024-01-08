@@ -8,4 +8,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STLs/esp8266_nodemcu_din_mount_universal.stl
 title: ESP8266 NodeMCU Din Mount

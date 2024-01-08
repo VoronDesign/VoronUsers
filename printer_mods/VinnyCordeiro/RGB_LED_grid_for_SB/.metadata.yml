@@ -9,4 +9,5 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl: []
 title: RGB LED grid for Stealthburner

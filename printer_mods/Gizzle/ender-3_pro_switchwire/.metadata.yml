@@ -12,4 +12,46 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/ELECTRONICS/Enclosure_Bottom_x1.stl
+- STL/ELECTRONICS/Enclosure_Lid_x1.stl
+- STL/ELECTRONICS/LCD-Case_Arm_x1.stl
+- STL/ELECTRONICS/LCD-Case_Back_x1.stl
+- STL/ELECTRONICS/LCD-Case_Front_x1.stl
+- STL/ELECTRONICS/LRS-350-24_PSU-Cover_x1.stl
+- STL/ELECTRONICS/[a]_LCD-Knob_x1.stl
+- STL/GANTRY/Keyback-Idler_x1.stl
+- STL/GANTRY/Keyback-Mount_Back_x1.stl
+- STL/GANTRY/Keyback-Mount_Front_x1.stl
+- STL/GANTRY/keybak_gantry_anchor.stl
+- STL/GANTRY/Rail_Adapter_x1.stl
+- STL/GANTRY/Upper-Block_Left_Top_x1.stl
+- STL/GANTRY/Upper-Block_Right_Top_x1.stl
+- STL/GANTRY/X-Motor_Holder_x1.stl
+- STL/GANTRY/XZ-Block_Left_Back_x1.stl
+- STL/GANTRY/XZ-Block_Left_Front_x1.stl
+- STL/GANTRY/XZ-Block_Right_Back_x1.stl
+- STL/GANTRY/XZ-Block_Right_Front_x1.stl
+- STL/GANTRY/x_carriage_frame_left_x1.stl
+- STL/GANTRY/x_carriage_frame_right_x1.stl
+- STL/GANTRY/Z-Bearing_Block_Chain-Mount_x1.stl
+- STL/GANTRY/Z-Bearing_Block_Left_Keybak_x1.stl
+- STL/GANTRY/Z-Bearing_Block_Right_x1.stl
+- STL/GANTRY/Z-Lower-Chain-Mount.stl
+- STL/GANTRY/Z-Motor_Holder_x1.stl
+- STL/GANTRY/[a]_Belt-Clip_x2.stl
+- STL/GANTRY/[a]_Upper-Block_Left_Base_x1.stl
+- STL/GANTRY/[a]_Upper-Block_Right_Base_x1.stl
+- STL/GANTRY/[a]_XZ-Cable_Cover_x1.stl
+- STL/Y-ASSEMBLY/Endcap_x3.stl
+- STL/Y-ASSEMBLY/Y-Belt_Anchor_x1.stl
+- STL/Y-ASSEMBLY/Y-Chain_Bed-Mount_x1.stl
+- STL/Y-ASSEMBLY/Y-Chain_Frame-Mount_x1.stl
+- STL/Y-ASSEMBLY/Y-Idler_Bottom_x1.stl
+- STL/Y-ASSEMBLY/Y-Idler_Top_x1.stl
+- STL/Y-ASSEMBLY/Y-Motor_Mount_x1.stl
+- STL/Y-ASSEMBLY/[a]_Y-Belt_Clamp_x1.stl
+- STL/Y-ASSEMBLY/PRO/Y-Idler_Pro_Bottom_x1.stl
+- STL/Y-ASSEMBLY/PRO/Y-Idler_Pro_Top_x1.stl
+- STL/Y-ASSEMBLY/PRO/Y-Motor_Mount_Pro_x1.stl
 title: Ender 3 and Ender 3 Pro Switchwire Mod

@@ -16,4 +16,21 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STL/Corner-Clip-4mm.stl
+- STL/Corner-Clip-6mm.stl
+- STL/Corner-Clip-7mm.stl
+- STL/Install-Jig.stl
+- STL/Magnet-Insert-Side-v1.stl
+- STL/Magnet-Insert-v1.stl
+- STL/Magnet-Insert-v2.stl
+- STL/Mid-Panel-Clip-7mm-Lip.stl
+- STL/Mid-Panel-Clip-7mm.stl
+- STL/Midspan-Clip-4mm-Lip.stl
+- STL/Midspan-Clip-4mm.stl
+- STL/Midspan-Clip-6mm-Lip.stl
+- STL/Midspan-Clip-6mm.stl
+- STL/Unhammer-v1.stl
+- STL/Unhammer-v2-Flat-Head.stl
+- STL/Unhammer-v2-Hex-Head.stl
 title: Magnetic panels with Magnet Inserts

@@ -7,4 +7,6 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- Indicator_Mount_REV1.STL
 title: Indicator Mount

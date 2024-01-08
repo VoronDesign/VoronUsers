@@ -8,4 +8,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Button-arrow.stl
+- STLs/Button-blank.stl
+- STLs/Button-extrude.stl
+- STLs/Button-heatbed.stl
+- STLs/Button-hotend.stl
+- STLs/Button-light.stl
+- STLs/Button-park.stl
+- STLs/Button-pauseresume.stl
+- STLs/Button-power.stl
+- STLs/Button-stop.stl
+- STLs/Lock.stl
+- STLs/Nut.stl
 title: V0.1 Skirt buttons

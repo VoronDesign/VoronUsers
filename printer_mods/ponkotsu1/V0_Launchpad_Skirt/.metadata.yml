@@ -1,4 +1,4 @@
-cad: 
+cad:
 - CAD/Launchpad_skirt.step
 description: Another style V0 skirt
 images:
@@ -7,4 +7,76 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0
+stl:
+- STL/Center_Display/back_left_foot_bottom.stl
+- STL/Center_Display/back_right_foot.stl
+- STL/Center_Display/foot_bottom_x3.stl
+- STL/Center_Display/front_center_skirt.stl
+- STL/Center_Display/front_foot_x2.stl
+- STL/Center_Display/front_left_skirt.stl
+- STL/Center_Display/front_right_skirt.stl
+- STL/Center_Display/[a]_back_brace.stl
+- STL/Center_Display/[a]_front_left_brace.stl
+- STL/Center_Display/[a]_front_right_brace.stl
+- STL/Center_Display/Divided_skirts/back_skirt.stl
+- STL/Center_Display/Divided_skirts/inlet_foot.stl
+- STL/Center_Display/Divided_skirts/skirt1_x2.stl
+- STL/Center_Display/Divided_skirts/skirt2_x2.stl
+- STL/Center_Display/Divided_skirts/[a]_brace1_x2.stl
+- STL/Center_Display/Divided_skirts/[a]_brace2_x2.stl
+- STL/Center_Display/Undivided_skirts/undivided_back_skirt.stl
+- STL/Center_Display/Undivided_skirts/undivided_skirt_x2.stl
+- STL/Center_Display/Undivided_skirts/[a]_undivided_brace_x2.stl
+- STL/Left_Display/back_left_foot_bottom.stl
+- STL/Left_Display/back_right_foot.stl
+- STL/Left_Display/foot_bottom_x2.stl
+- STL/Left_Display/front_foot.stl
+- STL/Left_Display/front_left_foot.stl
+- STL/Left_Display/front_left_foot_bottom.stl
+- STL/Left_Display/front_left_skirt.stl
+- STL/Left_Display/front_right_skirt.stl
+- STL/Left_Display/[a]_back_brace.stl
+- STL/Left_Display/[a]_front_brace.stl
+- STL/Left_Display/Divided_skirts/back_skirt.stl
+- STL/Left_Display/Divided_skirts/inlet_foot.stl
+- STL/Left_Display/Divided_skirts/skirt1_x2.stl
+- STL/Left_Display/Divided_skirts/skirt2_x2.stl
+- STL/Left_Display/Divided_skirts/[a]_brace1_x2.stl
+- STL/Left_Display/Divided_skirts/[a]_brace2_x2.stl
+- STL/Left_Display/Undivided_skirts/undivided_back_skirt.stl
+- STL/Left_Display/Undivided_skirts/undivided_skirt_x2.stl
+- STL/Left_Display/Undivided_skirts/[a]_undivided_brace_x2.stl
+- STL/No_Display/back_left_foot_bottom.stl
+- STL/No_Display/back_right_foot.stl
+- STL/No_Display/foot_bottom_x3.stl
+- STL/No_Display/front_foot_x2.stl
+- STL/No_Display/[a]_back_brace.stl
+- STL/No_Display/Divided_skirts/back_skirt.stl
+- STL/No_Display/Divided_skirts/inlet_foot.stl
+- STL/No_Display/Divided_skirts/skirt1_x3.stl
+- STL/No_Display/Divided_skirts/skirt2_x3.stl
+- STL/No_Display/Divided_skirts/[a]_brace1_x3.stl
+- STL/No_Display/Divided_skirts/[a]_brace2_x3.stl
+- STL/No_Display/Undivided_skirts/undivided_back_skirt.stl
+- STL/No_Display/Undivided_skirts/undivided_skirt_x3.stl
+- STL/No_Display/Undivided_skirts/[a]_undivided_brace_x3.stl
+- STL/Right_Display/back_left_foot_bottom.stl
+- STL/Right_Display/back_right_foot.stl
+- STL/Right_Display/foot_bottom_x2.stl
+- STL/Right_Display/front_foot.stl
+- STL/Right_Display/front_left_skirt.stl
+- STL/Right_Display/front_right_foot.stl
+- STL/Right_Display/front_right_foot_bottm.stl
+- STL/Right_Display/front_right_skirt.stl
+- STL/Right_Display/[a]_back_brace.stl
+- STL/Right_Display/[a]_front_brace.stl
+- STL/Right_Display/Divided_skirts/back_skirt.stl
+- STL/Right_Display/Divided_skirts/inlet_foot.stl
+- STL/Right_Display/Divided_skirts/skirt1_x2.stl
+- STL/Right_Display/Divided_skirts/skirt2_x2.stl
+- STL/Right_Display/Divided_skirts/[a]_brace1_x2.stl
+- STL/Right_Display/Divided_skirts/[a]_brace2_x2.stl
+- STL/Right_Display/Undivided_skirts/undivided_back_skirt.stl
+- STL/Right_Display/Undivided_skirts/undivided_skirt_x2.stl
+- STL/Right_Display/Undivided_skirts/[a]_undivided_brace_x2.stl
 title: V0 Launchpad Skirt

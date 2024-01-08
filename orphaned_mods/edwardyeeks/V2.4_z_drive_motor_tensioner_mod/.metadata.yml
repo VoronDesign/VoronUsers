@@ -8,4 +8,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/z_motor_mount_a_mod_x2.stl
+- STLs/z_motor_mount_b_mod_x2.stl
+- STLs/[a]_2.4_base_plate_a_mod_x2.stl
+- STLs/[a]_2.4_base_plate_b_mod_x2.stl
+- STLs/[a]_base_plate_a_mod_x2.stl
+- STLs/[a]_base_plate_b_mod_x2.stl
+- STLs/Skirts/250/250_front_rear_skirt_a_x2mod.stl
+- STLs/Skirts/250/250_front_rear_skirt_b_x2mod.stl
+- STLs/Skirts/300/300_front_rear_skirt_a_x2mod.stl
+- STLs/Skirts/300/300_front_rear_skirt_b_x2mod.stl
+- STLs/Skirts/350/350_front_rear_skirt_a_x2_mod.stl
+- STLs/Skirts/350/350_front_rear_skirt_b_x2mod.stl
 title: V2.4 Z Drive Motor Tensioner Mod

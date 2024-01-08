@@ -5,4 +5,7 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- brush_holder_long.STL
+- brush_holder_short.STL
 title: Brush holder

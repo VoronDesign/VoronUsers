@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- PowerSkirt_FN284-10-06.stl
 title: Power Skirt 2.x FN284-10-06

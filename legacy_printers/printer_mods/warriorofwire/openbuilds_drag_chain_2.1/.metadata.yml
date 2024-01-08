@@ -5,4 +5,10 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- a_corner_wire_guide.stl
+- lower_drag_chain_mount.stl
+- xy_drag_chain_bridge.stl
+- x_carriage_dragchain_anchorpoint.stl
+- x_carriage_frame_right_remodeled.stl
 title: Openbuilds Drag Chain 2.1

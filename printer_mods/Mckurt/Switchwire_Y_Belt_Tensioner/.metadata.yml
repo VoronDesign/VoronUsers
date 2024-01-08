@@ -13,4 +13,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- Stl/SW_Tensioner_Bearing_Block.stl
+- Stl/SW_Tensioner_Body.stl
+- Stl/SW_Tensioner_Cap.stl
 title: Switchwire Y Belt Tensioner

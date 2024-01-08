@@ -8,4 +8,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- a_corner_tube.stl
+- lower_z_mount.stl
+- upper_z_mount.stl
+- xy_bridge.stl
+- x_carriage_mount.stl
+- x_carriage_mount_but_its_10mm_taller.stl
 title: Openbuilds Drag Chain 2.2

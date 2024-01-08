@@ -11,4 +11,8 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- 2020_Cable_Cover.stl
+- Center_Frame_Mount.stl
+- Gantry_Corner_Mount.stl
 title: Logitech Camera Mounts

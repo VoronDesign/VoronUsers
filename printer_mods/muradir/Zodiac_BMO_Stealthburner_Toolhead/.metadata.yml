@@ -10,4 +10,8 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/stealthburner_printhead_zodiac_bmo_front.stl
+- STLs/stealthburner_printhead_zodiac_bmo_rear_cw1.stl
+- STLs/stealthburner_printhead_zodiac_bmo_rear_cw2.stl
 title: Zodiac BMO Stealthburner Toolhead

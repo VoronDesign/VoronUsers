@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- duet_wifi_mount.stl
 title: Duet Wifi Mount

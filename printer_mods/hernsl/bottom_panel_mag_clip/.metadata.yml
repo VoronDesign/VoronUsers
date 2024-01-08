@@ -7,4 +7,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- bottom_panel_magclip_skirt_x6.stl
+- bottom_panel_maghold_panel_x6.stl
 title: Bottom Panel Mag Clip

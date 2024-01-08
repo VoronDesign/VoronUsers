@@ -9,4 +9,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- HEPA_filter_door.stl
+- HEPA_filter_housing.stl
 title: HEPA Filter Housing

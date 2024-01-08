@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/4channel_relay_under_deck_mount.stl
 title: 4 Channel Relay Under Deck Mount

@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Foot_Rear_Left_x1.stl
+- Foot_Rear_Right_x1.stl
+- Skirt_x1_Back_Powerinlet_ONEPART.stl
 title: V0.1_Skirt_Inlet

@@ -8,4 +8,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Z_Chain_Guide_Thermistor_Mount.stl
 title: V2.4 Z Chain Guide with Integrated Chamber Thermistor Mount

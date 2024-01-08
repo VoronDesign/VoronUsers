@@ -1,13 +1,15 @@
----
-title: Stealth Handles
-description: Stealthy and stylish handles for your V0
-mod_version: 1
-discord_username: mapleleafmakers
 cad:
 - CAD/stealth_handle.step
+description: Stealthy and stylish handles for your V0
+discord_username: mapleleafmakers
 images:
 - Images/CAD2.png
 - Images/CAD.png
 - Images/slicer.png
+mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/handle_a.stl
+- STL/handle_b.stl
+title: Stealth Handles

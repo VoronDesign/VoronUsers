@@ -10,4 +10,9 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- 10x11_Chain_Bottom_Anchor.stl
+- 10x11_Chain_Top_Anchor.stl
+- 10x15_Chain_Bottom_Anchor.stl
+- 10x15_Chain_Top_Anchor.stl
 title: Openbuild chain ends

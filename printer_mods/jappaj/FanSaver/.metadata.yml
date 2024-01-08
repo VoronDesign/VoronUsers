@@ -13,4 +13,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- VoronV0.1_FanSaver_rev0.6b.stl
 title: V0.1 FanSaver

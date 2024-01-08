@@ -11,4 +11,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- TensionMeter.stl
 title: Belt Tension Meter

@@ -11,4 +11,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Fan_decorative_panel_X2.STL
+- STL/Front_L_350_X1.STL
+- STL/Front_R_350_X1.STL
+- STL/Mini12864_Case_Assembly_X1.STL
+- STL/Side_L_350_X2.STL
+- STL/Side_R_350_X2.STL
 title: Pull-out electrical store

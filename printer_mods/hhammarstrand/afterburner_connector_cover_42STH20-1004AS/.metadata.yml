@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/Voron_SwitchWire_Connector_cover_LDO-42STH20-1004AS2.stl
 title: Afterburner connector cover for 42STH20-1004AS

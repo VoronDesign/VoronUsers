@@ -5,4 +5,8 @@ images:
 - media/pw_nema17.jpg
 mod_version: 1
 printer_compatibility: []
+stl:
+- STL/VORON_Pocketwatch_Nema17_parts_Main_Body.stl
+- STL/VORON_Pocketwatch_Nema17_parts_Motor_Plate.stl
+- STL/VORON_Pocketwatch_Nema17_parts_mounting_bracket.stl
 title: Pocketwatch Nema 17

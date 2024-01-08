@@ -9,4 +9,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/VSW_Double_60mm_Fan_Mount.stl
 title: Switchwire Double 60mm Fan Mount

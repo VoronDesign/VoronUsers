@@ -14,4 +14,7 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- BTT_Sensor_Mount_A.stl
+- BTT_Sensor_Mount_B.stl
 title: Mounts for BTT Filament Motion Sensor

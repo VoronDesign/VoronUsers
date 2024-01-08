@@ -8,4 +8,8 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- fan_mount.stl
+- gumby_mount_mosquito.stl
+- gumby_mount_v6.stl
 title: Direct Drive BMG-m mount

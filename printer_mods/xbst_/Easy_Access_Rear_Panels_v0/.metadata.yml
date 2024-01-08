@@ -5,4 +5,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Bottom.stl
+- Top.stl
 title: Easy Access Rear Panels

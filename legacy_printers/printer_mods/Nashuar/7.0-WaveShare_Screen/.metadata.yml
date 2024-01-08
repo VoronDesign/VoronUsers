@@ -4,4 +4,14 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- ScreenBack_C.stl
+- ScreenBack_H.stl
+- ScreenFront_C.stl
+- ScreenFront_H.stl
+- ScreenMid_H.stl
+- swing_arm_long_2x.stl
+- swing_arm_short_a.stl
+- swing_arm_short_b.stl
+- _Button_5x_H.stl
 title: WaveShare 7" Screen Mount

@@ -6,4 +6,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- 250/front_rear_skirt_a_250.stl
+- 250/front_rear_skirt_b_250.stl
+- 250/side_skirt_a_250.stl
+- 250/side_skirt_b_250.stl
+- 300/front_rear_skirt_a_300.stl
+- 300/front_rear_skirt_b_300.stl
+- 300/side_skirt_a_300.stl
+- 300/side_skirt_b_300.stl
+- 350/front_rear_skirt_a_350.stl
+- 350/front_rear_skirt_b_350.stl
+- 350/side_skirt_a_350.stl
+- 350/side_skirt_b_350.stl
 title: V2.4 Skirt Switch Mod

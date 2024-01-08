@@ -10,4 +10,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- Test_Fit.STL
+- VORON_WAGO_Mount.STL
 title: WAGO Mount

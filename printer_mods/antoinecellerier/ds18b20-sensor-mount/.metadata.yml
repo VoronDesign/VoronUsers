@@ -13,4 +13,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/DS18B20-sensor-mount.stl
 title: DS18B20 Sensor Mount

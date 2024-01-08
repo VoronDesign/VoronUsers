@@ -16,4 +16,19 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/M4_80T_Gear.stl
+- STL/Printed-PulleySpacer-x2.stl
+- STL/V0-zbelt-BEDMOUNT_MODIFIED_V0.1.stl
+- STL/V0-ZBelt-BeltClip-Bottom_MODIFIED_V0.1.stl
+- STL/V0-ZBelt-BeltClip-Top_MODIFIED_V0.1.stl
+- STL/V0-ZBelt-Deck-Panel-Rear.stl
+- STL/V0-ZBelt-FrontBottom-Bracket.stl
+- STL/V0-ZBelt-Pancake-Stepper-Bracket.stl
+- STL/V0-ZBelt-Top-Idler-Back.stl
+- STL/V0-ZBelt-Top-Idler-Front.stl
+- STL/Kirigami_Bed_Mount/V0-ZBelt-KirigamiBed_belt_mount.stl
+- STL/Kirigami_Bed_Mount/V0-ZBelt-KirigamiBed_body.stl
+- STL/Kirigami_Bed_Mount/V0-ZBelt-KirigamiBed_bottom_belt_clamp.stl
+- STL/Kirigami_Bed_Mount/V0-ZBelt-KirigamiBed_top_belt_clamp.stl
 title: V0.1 Belted Z Drive

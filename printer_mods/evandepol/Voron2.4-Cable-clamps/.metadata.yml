@@ -11,4 +11,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Combination-Clamp-and-Ramp-350mm.stl
+- STL/DIN-Rail-Cable-Mount-350mm.stl
+- STL/Edge-2020-Cable-Clamp.stl
 title: Voron 2.4 cable clamps

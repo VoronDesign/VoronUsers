@@ -12,4 +12,9 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STLs/cover_left.stl
+- STLs/cover_right.stl
+- STLs/[a]_core_left.stl
+- STLs/[a]_core_right.stl
 title: V2.4 Filament runout sensor

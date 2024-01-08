@@ -13,4 +13,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/SBCrazyDragon_TH_Front.stl
+- STL/SBCrazyDragon_TH_Rear_CW2.stl
 title: Stealthburner (RC1) Dragon Volcano Hotend Toolhead Mount

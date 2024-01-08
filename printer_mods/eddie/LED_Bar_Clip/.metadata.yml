@@ -8,4 +8,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- LED_Bar_Clip_Misumi_version2.stl
 title: LED Bar Clip

@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- plug_panel_v6.stl
 title: Plug Panel Mod for Schaffner FN286-10-06

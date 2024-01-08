@@ -4,4 +4,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- mains_plug_panel_filtered_for_RND_165-00057_V24.stl
 title: Filtered Power Plug with RND_165-00057

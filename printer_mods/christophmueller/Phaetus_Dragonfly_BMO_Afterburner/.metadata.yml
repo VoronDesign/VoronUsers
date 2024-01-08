@@ -10,4 +10,9 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- Phaetus_Dragonfly_BMO_Back.stl
+- Phaetus_Dragonfly_BMO_Front.stl
+- Zodiac_Dragonfly_BMO_Back.stl
+- Zodiac_Dragonfly_BMO_Front.stl
 title: Phaetus and Zodiac Dragonfly BMO Afterburner toolheads

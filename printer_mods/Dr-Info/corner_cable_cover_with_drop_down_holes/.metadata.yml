@@ -19,4 +19,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/LDO_LED_PCB_spacer_narrow_rev01.stl
+- STL/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_left_rev01.stl
+- STL/top_corner_cable_cover_with_drop_holes_LDO_PCB_splitter_right_rev01.stl
+- STL/top_corner_cable_cover_with_drop_holes_rev02.stl
 title: Corner Cable Cover with Drop Holes

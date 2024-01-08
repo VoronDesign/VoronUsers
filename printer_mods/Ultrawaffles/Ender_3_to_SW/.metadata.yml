@@ -7,4 +7,43 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STLs/TPU_FEET_x4.stl
+- STLs/Electronics/psu_2060_mount_x2_a.stl
+- STLs/Electronics/psu_2060_mount_x2_b.stl
+- STLs/Electronics/screen_(ender3_original)_wip/front_display.stl
+- STLs/Electronics/screen_(ender3_original)_wip/peg.stl
+- STLs/Electronics/screen_(ender3_original)_wip/screen_rear.stl
+- STLs/Gantry/2040_Alignment_tool_x2.stl
+- STLs/Gantry/XZ_axis/Keyback_idler.stl
+- STLs/Gantry/XZ_axis/keyback_mount.stl
+- STLs/Gantry/XZ_axis/keybak_gantry_anchor.stl
+- STLs/Gantry/XZ_axis/upper_idler_support_a_left.stl
+- STLs/Gantry/XZ_axis/upper_idler_support_a_right.stl
+- STLs/Gantry/XZ_axis/xz_block_left_a.stl
+- STLs/Gantry/XZ_axis/xz_block_left_b.stl
+- STLs/Gantry/XZ_axis/xz_block_right_a.stl
+- STLs/Gantry/XZ_axis/xz_block_right_b.stl
+- STLs/Gantry/XZ_axis/x_motor_mount_a.stl
+- STLs/Gantry/XZ_axis/x_motor_mount_b.stl
+- STLs/Gantry/XZ_axis/Z_bearing_block_left.stl
+- STLs/Gantry/XZ_axis/Z_bearing_block_right.stl
+- STLs/Gantry/XZ_axis/z_carriage_stop_x3.stl
+- STLs/Gantry/XZ_axis/z_motor_mount_a.stl
+- STLs/Gantry/XZ_axis/z_motor_mount_b.stl
+- STLs/Gantry/XZ_axis/[a]_upper_idler_support_b_left.stl
+- STLs/Gantry/XZ_axis/[a]_upper_idler_support_b_right.stl
+- STLs/Gantry/XZ_axis/[a]_z+chain_lower_mount.stl
+- STLs/Gantry/XZ_axis/x_carriage/x_carriage_frame_left.stl
+- STLs/Gantry/XZ_axis/x_carriage/x_carriage_frame_right.stl
+- STLs/Gantry/Y_axis/bed_mount.stl
+- STLs/Gantry/Y_axis/y_belt_anchor.stl
+- STLs/Gantry/Y_axis/[a]_y_chain_frame_mount.stl
+- STLs/Grill/grill_front_left.stl
+- STLs/Grill/grill_front_middle.stl
+- STLs/Grill/grill_front_right.stl
+- STLs/Grill/grill_rear_left_filtered.stl
+- STLs/Grill/grill_rear_middle.stl
+- STLs/Grill/[a]_grill_endcap_x4.stl
+- STLs/Panel_Mounting/panel_clip_x10.stl
 title: Ender 3 to SW conversion

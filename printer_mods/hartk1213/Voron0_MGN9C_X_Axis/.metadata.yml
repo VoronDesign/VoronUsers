@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STLs/MGN9_1515_rail_guide_x2.stl
+- STLs/x_carriage_miniaftb-MGN9C_x1.stl
+- STLs/[a]_X_Endstop_Bumper_MGN9C_x1.stl
 title: Voron0 MGN9C X Axis

@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- 5015_Bed_Fan_Mount/5015_Bed_Fan_Mount.stl
 title: Bed Fans

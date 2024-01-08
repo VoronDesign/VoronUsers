@@ -21,4 +21,20 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STL/Bottom_Hinge_x2.stl
+- STL/Middle_Hinge_x2.stl
+- STL/TopHat_Alignment_Pin_x2.stl
+- STL/TopHat_hole_Drilling_Guide_x1.stl
+- STL/TopHat_Rear_Outer_Panel_x1.stl
+- STL/Top_Hinge_Mirror_x1.stl
+- STL/Top_Hinge_x1.stl
+- STL/[a]_Hinge_Stop_With_Back_Panel_Mirror_x1(2.5mm).stl
+- STL/[a]_Hinge_Stop_With_Back_Panel_Mirror_x1(2mm).stl
+- STL/[a]_Hinge_Stop_With_Back_Panel_Mirror_x1(3mm).stl
+- STL/[a]_Hinge_Stop_With_Back_Panel_x1(2.5mm).stl
+- STL/[a]_Hinge_Stop_With_Back_Panel_x1(2mm).stl
+- STL/[a]_Hinge_Stop_With_Back_Panel_x1(3mm).stl
+- STL/[a]_Hinge_Stop_With_No_Back_Panel_x2.stl
+- STL/[a]_Hinge_Stop_x2.stl
 title: Voron0 Hinged Top Hat

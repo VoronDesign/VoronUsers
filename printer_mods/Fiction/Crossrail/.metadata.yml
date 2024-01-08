@@ -16,4 +16,7 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STLs/crossrail.stl
+- STLs/crossrail_slot.stl
 title: Crossrail

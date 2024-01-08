@@ -8,4 +8,7 @@ mod_version: 1
 printer_compatibility:
 - V2
 - VT
+stl:
+- STL/stealthburner_printhead_k1-uhf_cw2.stl
+- STL/stealthburner_printhead_k1-uhf_front.stl
 title: Red Lizard K1 UHF toolhead

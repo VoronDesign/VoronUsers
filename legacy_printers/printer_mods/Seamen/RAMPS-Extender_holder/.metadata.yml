@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- RAMPS-Extender_Halter_2_v4.stl
 title: RAMPS Extender Holder

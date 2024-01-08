@@ -9,4 +9,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/HEATSET.stl
+- STL/hexnut.stl
+- STL/insert.stl
+- STL/shell.stl
 title: Ender 3 Switchwire Y Tensioner Mod

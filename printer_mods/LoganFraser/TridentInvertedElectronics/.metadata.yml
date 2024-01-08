@@ -8,4 +8,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - VT
+stl:
+- STLs/Inverted_DIN_Mount(Mirror)_x2.stl
+- STLs/Inverted_DIN_Mount_x2.stl
+- STLs/Z_Motor_Mount_Small_Left.stl
+- STLs/Z_Motor_Mount_Small_Rear.stl
+- STLs/Z_Motor_Mount_Small_Right.stl
 title: Trident Inverted Electronics

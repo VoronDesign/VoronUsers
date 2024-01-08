@@ -13,4 +13,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/[a]_z_belt_clamp_lower_x4.stl
+- STLs/Z_Joints/z_joint_ge5c_igus_eglm-05_hall_effect_x1.stl
+- STLs/Z_Joints/z_joint_ge5c_igus_eglm-05_slim_x4.stl
+- STLs/Z_Joints/z_joint_ge5c_igus_eglm-05_x4.stl
+- STLs/Z_Joints/z_joint_igus_kglm-05_x4.stl
 title: Voron2.4 GE5C

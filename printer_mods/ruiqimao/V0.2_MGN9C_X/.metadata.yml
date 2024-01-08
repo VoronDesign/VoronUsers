@@ -1,4 +1,4 @@
-cad: 
+cad:
 - CAD/V0.2_MGN9C_X.step
 description: MGN9C linear rail for the X axis on V0.2
 images:
@@ -8,4 +8,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0
+stl:
+- STLs/A_Drive_Frame_Lower_MGN9C.stl
+- STLs/A_Drive_Frame_Upper_MGN9C.stl
+- STLs/B_Drive_Frame_Lower_MGN9C.stl
+- STLs/B_Drive_Frame_Upper_MGN9C.stl
+- STLs/X_Carriage_MGN9C.stl
 title: V0.2 MGN9C X Axis

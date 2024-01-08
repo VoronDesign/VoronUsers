@@ -8,4 +8,7 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VSW
+stl:
+- STLs/Voron-2.4-Mount-Generisch-v6.stl
+- STLs/WaveShare-5.5-cover.stl
 title: Waveshare 5.5inch HDMI AMOLED Mount

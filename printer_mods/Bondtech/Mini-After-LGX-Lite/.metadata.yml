@@ -17,4 +17,32 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Mini-After-LGX-lite/cowling_universal.stl
+- STL/Mini-After-LGX-lite/cowling_universal_sls.stl
+- STL/Mini-After-LGX-lite/hotend_mount_copperhead_screw_mount_3007_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_copperhead_screw_mount_3010_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_dragonfly_3007_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_dragonfly_3010_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_dragon_3007_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_mosquito_3007_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_mosquito_3010_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_revo-voron_3007_fan.stl
+- STL/Mini-After-LGX-lite/hotend_mount_revo-voron_3010_fan.stl
+- STL/Mini-After-LGX-lite/klicky.stl
+- STL/Mini-After-LGX-lite/strain_relief.stl
+- STL/Mini-After-LGX-lite/strain_relief_spacer_x2.stl
+- STL/Mini-After-LGX-lite/strain_relief_spacer_x2_trisert-136.stl
+- STL/Mini-After-LGX-lite/x-carriage_sls.stl
+- STL/Mini-After-LGX-lite/x-carriage_sls_trisert-136.stl
+- STL/Mini-After-LGX-lite/x-carriage_supported.stl
+- STL/Tools/adafruit_adxl345_spacer.stl
+- STL/Tools/adxl345_generic_mount.stl
+- STL/Tools/ptfe_cutting_jig.stl
+- STL/Z_Bed_adjustable_Y_offset/Front_Bed_Mount.stl
+- STL/Z_Bed_adjustable_Y_offset/Front_Bed_Mount_lgx_lite_spacer.stl
+- STL/Z_Bed_adjustable_Y_offset/Rear_Bed_Mount_Left.stl
+- STL/Z_Bed_adjustable_Y_offset/Rear_Bed_Mount_Left_lgx_lite_spacer.stl
+- STL/Z_Bed_adjustable_Y_offset/Rear_Bed_Mount_Right.stl
+- STL/Z_Bed_adjustable_Y_offset/Rear_Bed_Mount_Right_lgx_lite_spacer.stl
 title: Mini-After-LGX-Lite

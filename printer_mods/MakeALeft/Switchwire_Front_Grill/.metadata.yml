@@ -5,4 +5,6 @@ images:
 - Images/CleanGrill.jpg
 mod_version: 1
 printer_compatibility: []
+stl:
+- front_mid_grill_no_magnets.stl
 title: Switchwire Clean Center Grill

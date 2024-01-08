@@ -9,4 +9,11 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STLs/2.4r2_ComboNarrowInlet.stl
+- STLs/2.4r2_ComboWideInlet.stl
+- STLs/2.4_ComboNarrowInlet.stl
+- STLs/2.4_ComboWideInlet.stl
+- STLs/Trident_ComboNarrowInlet.stl
+- STLs/Trident_ComboWideInlet.stl
 title: ComboInlet

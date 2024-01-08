@@ -7,4 +7,6 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- voron_1_8_connector_cover_LDO-42STH20.stl
 title: v1.8/2.4 Afterburner connector cover for 42STH20-1004AS

@@ -10,4 +10,6 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/[a]_extrusion_thermistor_mount.stl
 title: Extrusion/Chamber Thermistor Mount

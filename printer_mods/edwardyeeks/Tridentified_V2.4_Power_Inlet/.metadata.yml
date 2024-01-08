@@ -7,4 +7,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- 250/PlugSkirt_250_adamstech.stl
+- 250/PlugSkirt_250_Filtered.stl
+- 250/PlugSkirt_250_single.stl
+- 250/RightSkirt_250.stl
+- 300/FillSkirt.stl
+- 300/PlugSkirt_300_adamstech.stl
+- 300/PlugSkirt_300_Filtered.stl
+- 300/PlugSkirt_300_single.stl
+- 350/FillSkirt.stl
+- 350/PlugSkirt_350_adamstech.stl
+- 350/PlugSkirt_350_Filtered.stl
+- 350/PlugSkirt_350_single.stl
 title: Tridentified V2.4 Power Inlet

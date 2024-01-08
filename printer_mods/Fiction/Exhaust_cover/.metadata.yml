@@ -11,4 +11,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STLs/exhaust_cover.stl
 title: Exhaust_cover

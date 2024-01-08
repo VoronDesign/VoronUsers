@@ -8,4 +8,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/ab_microfit_1x4/[a]_ab_microfit_1x4_side_1.stl
+- STLs/ab_microfit_1x4/[a]_ab_microfit_1x4_side_2.stl
+- STLs/ab_microfit_1x4_pme/[a]_ab_microfit_1x4_pme_side_1.stl
+- STLs/ab_microfit_1x4_pme/[a]_ab_microfit_1x4_pme_side_2.stl
 title: AB Plug (Microfit 1x4)

@@ -5,4 +5,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STLs/Housing_Front_with_logo.stl
+- STLs/[a]_logo.stl
 title: Voron0 display dualcolor

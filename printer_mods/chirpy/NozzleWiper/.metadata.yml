@@ -19,4 +19,13 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Allinone.stl
+- STLs/Brush_Carrier.stl
+- STLs/Carrier_Joint.stl
+- STLs/Parallel_Arm.stl
+- STLs/Purge_Bucket.stl
+- STLs/Servo_Arm.stl
+- STLs/Servo_Joint.stl
+- STLs/Servo_Mount.stl
 title: V0.1 Nozzle Wiper

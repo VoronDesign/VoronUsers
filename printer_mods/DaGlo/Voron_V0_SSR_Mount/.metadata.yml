@@ -9,4 +9,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Voron_V0_SSR_Mount.stl
 title: Voron V0 SSR Mount

@@ -11,4 +11,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/Gantry/AB_Drive_Units/a_drive_frame_upper_with_jst_y_endstop.stl
+- STLs/Gantry/AB_Drive_Units/OLD(24r1)/a_drive_frame_upper_with_jst_y_endstop.stl
 title: Voron2.4 Y Endstop Relocation

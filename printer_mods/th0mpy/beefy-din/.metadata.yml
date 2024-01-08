@@ -17,4 +17,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- stl/BEEFY_Din(55mm).stl
+- stl/BEEFY_Din(standard).stl
+- stl/BEEFY_Din-PSU(50mm)-mirrored.stl
+- stl/BEEFY_Din-PSU(50mm).stl
+- stl/BEEFY_Din-shuttle.stl
 title: BEEFY Din Clips

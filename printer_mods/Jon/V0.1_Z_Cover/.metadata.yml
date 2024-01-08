@@ -1,10 +1,22 @@
-cad: 
+cad:
 - CAD/Bottom_panel_Airgap_Lid_v6.f3d
 - CAD/Bottom_panel_Airgap_Lid_v6.step
-description: A cover to stop things from dropping down the Z motor and disappearing forever.
+description: A cover to stop things from dropping down the Z motor and disappearing
+  forever.
 images:
 - IMG/Bottom_panel_Airgap_Lid_v4.png
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STL/Bottom_panel_middle_cover_only_A.stl
+- STL/Bottom_panel_middle_cover_only_B.stl
+- STL/Bottom_panel_middle_cover_only_C.stl
+- STL/Bottom_panel_Z_cover_A.stl
+- STL/Bottom_panel_Z_cover_B.stl
+- STL/Bottom_panel_Z_cover_C.stl
+- STL/Measuring_tool_A.stl
+- STL/Measuring_tool_B.stl
+- STL/Measuring_tool_C.stl
+- STL/Rail_carriage_stopper_x2.stl
 title: Z Cover for v0.1

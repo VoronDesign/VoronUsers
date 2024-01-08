@@ -11,4 +11,9 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STL/display_middle_skirt.stl
+- STL/pitft70_housing_front.stl
+- STL/pitft70_housing_rear.stl
+- STL/[a]_display_mount_x2.stl
 title: PiTFT Mount

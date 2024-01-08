@@ -15,4 +15,12 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- stl/NoDropNut_12mm.stl
+- stl/NoDropNut_15mm.stl
+- stl/NoDropNut_Door_Latch_x2.stl
+- stl/NoDropNut_Rear_Ext_Front_x2.stl
+- stl/NoDropNut_Rear_Ext_Rear_Center_x1.stl
+- stl/NoDropNut_Rear_Ext_Rear_Edge_x2.stl
+- stl/NoDropNut_Side_Ext_Side_x2.stl
 title: V0 No-Drop Nuts

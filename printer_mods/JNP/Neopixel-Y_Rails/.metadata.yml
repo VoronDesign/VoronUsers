@@ -7,4 +7,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Neopixel_Cover_left.stl
+- STLs/Neopixel_Cover_right.stl
+- STLs/Neopixel_Mainbody_left.stl
+- STLs/Neopixel_Mainbody_right.stl
 title: Neopixel Case

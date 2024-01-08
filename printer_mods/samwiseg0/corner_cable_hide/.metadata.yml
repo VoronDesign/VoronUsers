@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/[a]_top_corner_cable_hide_left_x2.stl
+- STLs/[a]_top_corner_cable_hide_right_x2.stl
 title: Corner Cable Hide/Cover (LED Wires)

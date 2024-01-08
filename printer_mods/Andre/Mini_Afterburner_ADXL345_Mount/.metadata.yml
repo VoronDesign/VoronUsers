@@ -9,4 +9,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/MiniAB_ADXL345_Mount.stl
 title: Mini Afterburner ADXL345 Mount

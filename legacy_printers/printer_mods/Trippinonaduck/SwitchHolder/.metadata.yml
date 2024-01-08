@@ -7,4 +7,7 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- 19mm_Switch_Holder_BACK.stl
+- 19mm_Switch_Holder_FRONT.stl
 title: Switch Holder

@@ -8,4 +8,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- left_drive_frame_lower_x1_rev_awh3.stl
+- left_drive_frame_upper_x1_rev_awh3.stl
+- right_drive_frame_lower_x1_rev_awh3.stl
+- right_drive_frame_upper_x1_rev_awh3.stl
 title: Precision AB Drive

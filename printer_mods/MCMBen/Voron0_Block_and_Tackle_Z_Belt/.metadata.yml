@@ -9,4 +9,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/bed_front_Voron0.1_v1.stl
+- STLs/bed_front_Voron0_v1.stl
+- STLs/bed_mid_v2.stl
+- STLs/bed_rear_v2.stl
+- STLs/bottom_bracket_v3.stl
+- STLs/motor_bracket_4064_v1.stl
+- STLs/pulley_40_v1.stl
+- STLs/pulley_48_v2.stl
+- STLs/pulley_64_v1.stl
+- STLs/tensioner_insert_v1.stl
+- STLs/top_bracket_v3.stl
+- STLs/[a]_tensioner_v1.stl
 title: Voron0 Block & Tackle Z Belt

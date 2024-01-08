@@ -11,4 +11,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/plug_panel_modif_schurter_CD44.1101.151.stl
 title: Plug panel mod for Schurter CD44.1101.151 power entry

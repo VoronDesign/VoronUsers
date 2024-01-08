@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Belt_Tension_Wrench.stl
 title: Belt Tension Wrench

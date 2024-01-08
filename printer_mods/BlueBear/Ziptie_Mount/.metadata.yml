@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- 1515_SnapIn_ZipTie_LDO.stl
+- 1515_SnapIn_ZipTie_Makerbeam.stl
 title: Ziptie Mount

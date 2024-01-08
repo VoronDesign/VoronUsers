@@ -8,4 +8,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Deck_Panel_Backpack.stl
 title: Deck Panel Backpack

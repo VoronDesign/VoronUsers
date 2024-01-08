@@ -7,4 +7,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/CableDuctBody.stl
+- STLs/CableDuctBody_small.stl
+- STLs/CableDuctCover.stl
+- STLs/CableDuctCover_nologo_small.stl
+- STLs/CableDuctCover_small.stl
 title: Cable Management Duct

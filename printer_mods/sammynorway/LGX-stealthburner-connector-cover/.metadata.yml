@@ -11,4 +11,6 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/[a]_lgx_stealthburner_pcb_cover_set.stl
 title: LGX stealthburner connector cover

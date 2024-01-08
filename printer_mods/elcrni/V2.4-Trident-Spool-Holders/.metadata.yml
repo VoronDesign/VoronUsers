@@ -12,4 +12,13 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STL/BB__spool_arm_left.stl
+- STL/BB__spool_arm_left__without_panel_pin.stl
+- STL/BB__spool_arm_right.stl
+- STL/BB__spool_core.stl
+- STL/Classic__spool_arm_left.stl
+- STL/Classic__spool_arm_left__without_panel_pin.stl
+- STL/Classic__spool_arm_right.stl
+- STL/Classic__spool_holder.stl
 title: V.24/Trident Spool Holder

@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- left_duct.stl
+- pl05_holder.stl
+- right_duct.stl
 title: PL05 Sensor Mount

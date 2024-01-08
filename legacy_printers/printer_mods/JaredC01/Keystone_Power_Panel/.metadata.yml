@@ -6,4 +6,7 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- keystone_double.stl
+- keystone_single.stl
 title: Keystone Power Panel

@@ -12,4 +12,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Cowling_Dragon_v3.stl
 title: MiniAB Pinda Probe Mount

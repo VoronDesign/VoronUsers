@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- V0_Left_Skirt-Zip_Tie.stl
+- V0_Right_Skirt-Zip_Tie.stl
 title: V0 Zip Tie Skirts

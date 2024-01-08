@@ -8,4 +8,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V1.8
+stl:
+- stl/250LeadScrewBlock.stl
+- stl/300LeadScrewBlock.stl
+- stl/ZMotorMount.stl
 title: V1.8 Z Rails Mod

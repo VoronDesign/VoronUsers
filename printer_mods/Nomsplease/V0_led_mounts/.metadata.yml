@@ -8,4 +8,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- 10mm_strip_mount_full.stl
+- 10mm_strip_mount_full_with_channel.stl
+- 12mm_strip_mini_mount.stl
 title: LED Mounts

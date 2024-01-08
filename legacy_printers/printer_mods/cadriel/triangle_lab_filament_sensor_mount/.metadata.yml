@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- triangle_lab_filament_sensor_mount_a.stl
+- triangle_lab_filament_sensor_mount_b.stl
 title: Triangle Lab Filament Sensor Mount

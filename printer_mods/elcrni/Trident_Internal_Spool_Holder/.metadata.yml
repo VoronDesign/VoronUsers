@@ -13,4 +13,14 @@ images:
 mod_version: 1
 printer_compatibility:
 - VT
+stl:
+- STL/PTFE_guide_top.stl
+- STL/Trident_Internal_Spool___back_foot_.stl
+- STL/Trident_Internal_Spool___front_foot_.stl
+- STL/Trident_Internal_Spool___middle_Section_.stl
+- STL/Trident_Internal_Spool___PTFE_guide_x2_.stl
+- STL/Trident_Internal_Spool___roller_back_x4_.stl
+- STL/Trident_Internal_Spool___roller_front_x4_.stl
+- STL/Trident_Internal_Spool___spacer_back_x2_.stl
+- STL/Trident_Internal_Spool___spacer_front_x2_.stl
 title: Trident Internal Spool Holder

@@ -10,4 +10,16 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL_Files/front_idler_left_upper_mgn9_backer_2.4r2.stl
+- STL_Files/front_idler_right_upper_mgn9_backer_2.4r2.stl
+- STL_Files/[a]_xy_joint_cable_bridge_tall_2hole.stl
+- STL_Files/[a]_xy_joint_cable_bridge_tall_3hole.stl
+- STL_Files/[a]_z_belt_clip_upper_left_mgn9_backer_2.4r2.stl
+- STL_Files/[a]_z_belt_clip_upper_right_mgn9_backer_2.4r2.stl
+- STL_Files/2.4r1/left_idler_upper_MGN9_backer_old.stl
+- STL_Files/2.4r1/right_idler_upper_MGN9_backer_old.stl
+- STL_Files/2.4r1/[a]_left_upper_belt_clip_MGN9_backer_old.stl
+- STL_Files/2.4r1/[a]_right_upper_belt_clip_MGN9_backer_old.stl
+- STL_Files/2.4r1/[a]_xy_chain_bridge_modified_old.stl
 title: MGN9 Backers Idlers

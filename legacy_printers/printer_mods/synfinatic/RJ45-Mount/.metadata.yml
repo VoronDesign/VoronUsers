@@ -5,4 +5,7 @@ description: Mount for an ethernet coupler to extend / move the ethernet plug so
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- RJ45-Mount-a.stl
+- RJ45-Mount-b.stl
 title: RJ45 Mount

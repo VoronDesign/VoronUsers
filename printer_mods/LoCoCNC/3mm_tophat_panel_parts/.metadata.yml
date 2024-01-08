@@ -4,4 +4,11 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Front_and_Rear_Midclip_3mm_Panels_x2.stl
+- Left_and_Right_Midclip_3mm_Panels_x2.stl
+- Lower_Corner_1_and_3_Clip_3mm_Panels_x2.stl
+- Lower_Corner_2_and_4_Clip_3mm_Panels_x2.stl
+- Upper_Corner_1_and_3_Clip_3mm_Panels_x2.stl
+- Upper_Corner_2_and_4_Clip_3mm_Panels_x2.stl
 title: 3mm Top Hat Panels Clips

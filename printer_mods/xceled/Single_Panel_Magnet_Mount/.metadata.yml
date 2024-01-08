@@ -8,4 +8,35 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/250/PanelCoverBL.stl
+- STL/250/PanelCoverBR.stl
+- STL/250/PanelCoverTL.stl
+- STL/250/PanelCoverTR.stl
+- STL/250/SlotBL.stl
+- STL/250/SlotBR.stl
+- STL/250/SlotTL.stl
+- STL/250/SlotTR.stl
+- STL/250/TLDrillGuide.stl
+- STL/250/TRDrillGuide.stl
+- STL/300/PanelCoverBL.stl
+- STL/300/PanelCoverBR.stl
+- STL/300/PanelCoverTL.stl
+- STL/300/PanelCoverTR.stl
+- STL/300/SlotBL.stl
+- STL/300/SlotBR.stl
+- STL/300/SlotTL.stl
+- STL/300/SlotTR.stl
+- STL/300/TLDrillGuide.stl
+- STL/300/TRDrillGuide.stl
+- STL/350/PanelCoverBL.stl
+- STL/350/PanelCoverBR.stl
+- STL/350/PanelCoverTL.stl
+- STL/350/PanelCoverTR.stl
+- STL/350/SlotBL.stl
+- STL/350/SlotBR.stl
+- STL/350/SlotTL.stl
+- STL/350/SlotTR.stl
+- STL/350/TLDrillGuide.stl
+- STL/350/TRDrillGuide.stl
 title: Single Panel Magnet Mount

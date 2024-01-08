@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- stl/v0_bed_wago_221-412x2.stl
+- stl/v0_bed_wago_221-412x4.stl
 title: v0 Wago Bed Mounts

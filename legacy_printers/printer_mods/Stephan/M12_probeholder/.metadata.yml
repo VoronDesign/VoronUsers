@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- M12_probe_mount.stl
 title: M12 Probeholder

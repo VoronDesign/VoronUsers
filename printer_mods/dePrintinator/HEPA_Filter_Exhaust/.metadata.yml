@@ -11,4 +11,8 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STLs/exhaust-chamber-mount.stl
+- STLs/exhaust-hepa-filter-housing.stl
+- STLs/exhaust-lid.stl
 title: HEPA Exhaust

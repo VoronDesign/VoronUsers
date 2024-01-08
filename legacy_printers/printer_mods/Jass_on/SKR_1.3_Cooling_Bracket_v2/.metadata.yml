@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- SKR_1.3_Cooling_Bracket_v2.stl
 title: SKR 1.3 Cooling bracket

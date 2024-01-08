@@ -10,4 +10,7 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - VT
+stl:
+- STL/huvud_chain_mount_2_hole.stl
+- STL/huvud_chain_mount_3_hole.stl
 title: Huvud Chain Mount

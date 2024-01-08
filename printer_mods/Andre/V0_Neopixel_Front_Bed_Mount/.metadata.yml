@@ -10,4 +10,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Diffuser_x1.stl
+- STL/Front_Bed_Mount_x1.stl
 title: V0 Neopixel Front Bed Mount

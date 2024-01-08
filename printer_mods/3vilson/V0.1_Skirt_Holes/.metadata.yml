@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Skirt_x3_L_access_hole.stl
+- Skirt_x3_ONEPART_access_hole.stl
+- Skirt_x3_R_access_hole.stl
 title: V0.1_Skirt_Holes

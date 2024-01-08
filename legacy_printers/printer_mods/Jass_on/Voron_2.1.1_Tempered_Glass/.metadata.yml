@@ -4,4 +4,11 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- corner_panel_clip_3mm_x12.stl
+- corner_panel_clip_6mm_x12.gcode.stl
+- front_panel_rest_3mm_x2.stl
+- front_panel_rest_6mm_x2.stl
+- handle_3mm_x2.stl
+- handle_6mm_x2.stl
 title: Tempered glass clips/handle

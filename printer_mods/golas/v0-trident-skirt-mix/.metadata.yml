@@ -20,4 +20,18 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- stl/connector_x1.stl
+- stl/corner_back_left_c14_inlet_bom.stl
+- stl/corner_front_left_x1.stl
+- stl/corner_front_right_x1.stl
+- stl/front_skirt_one_piece.stl
+- stl/hartk_lcd_case_base_x1.stl
+- stl/side_skirt_x2.stl
+- stl/skirt_front_central_x1.stl
+- stl/skirt_front_left_x1.stl
+- stl/skirt_front_right_x1.stl
+- stl/v0.1_trident_skirt_foot_rear_right_bowden_tube_connector_x1.stl
+- stl/[a]_lcd_case_top_x1.stl
+- stl/[a]_skirt_logo_x2.stl
 title: V0.1 Trident skirt remix with 12864 LCD

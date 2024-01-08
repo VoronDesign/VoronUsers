@@ -15,4 +15,11 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- stl/Chain_Anchor-Voron_2.4.stl
+- stl/Chain_Anchor_SwitchWire.stl
+- stl/Clockwork_Adaptor_Back.stl
+- stl/Clockwork_Adaptor_Front.stl
+- stl/[a]_Connector_Cover.stl
+- stl/[a]_Filament_release_lever.stl
 title: Orbiter Clockwork Mount

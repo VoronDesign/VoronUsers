@@ -12,4 +12,9 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- Single_MGN9H_Carriage_CW1_Left.stl
+- Single_MGN9H_Carriage_CW1_Right.stl
+- Single_MGN9H_Carriage_CW2_Left.stl
+- Single_MGN9H_Carriage_CW2_Right.stl
 title: Single MGN9H Carriage

@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/WansviewCameraMount.stl
 title: Wansview 1080p Camera Mount

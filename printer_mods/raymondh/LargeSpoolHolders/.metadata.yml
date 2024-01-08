@@ -6,4 +6,6 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- KVP5lb_holder.stl
 title: Large Spool Holders

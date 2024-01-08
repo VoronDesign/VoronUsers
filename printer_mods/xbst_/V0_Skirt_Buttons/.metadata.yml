@@ -6,4 +6,25 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Buttoned/A.stl
+- Buttoned/B.stl
+- Buttonless/A.stl
+- Buttonless/B.stl
+- Buttons/Abort.stl
+- Buttons/accept.stl
+- Buttons/Empty.stl
+- Buttons/estop.stl
+- Buttons/fl_sw.stl
+- Buttons/Fw_rl.stl
+- Buttons/Home.stl
+- Buttons/mesh.stl
+- Buttons/Pause.stl
+- Buttons/Power.stl
+- Buttons/Preheat.stl
+- Buttons/qgl.stl
+- Buttons/resume.stl
+- Buttons/Stop.stl
+- OLED_Cover/Buttons.stl
+- OLED_Cover/Front.stl
 title: V0 Buttons & OLED Mount

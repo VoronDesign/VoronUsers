@@ -18,4 +18,12 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- STL/Back.stl
+- STL/Cut_tool.stl
+- STL/Front_piece_w_supports.stl
+- STL/Logo_piece_w_support.stl
+- STL/without_in_build_supports/Back_piece.stl
+- STL/without_in_build_supports/Front_piece.stl
+- STL/without_in_build_supports/Logo_piece.stl
 title: LoudOwl aka Stabby

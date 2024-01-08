@@ -4,4 +4,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- MS.stl
 title: V2.4 Fanless Middle Skirt

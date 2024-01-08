@@ -4,4 +4,9 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Toolhead_Left_Dragon_x1.stl
+- Toolhead_Right_Dragon_x1.stl
+- '[a]_Toolhead_Blower_Duct_Left_x1.stl'
+- '[a]_Toolhead_Blower_Duct_Right_x1.stl'
 title: V0 Dragon Toolhead M2.5x8

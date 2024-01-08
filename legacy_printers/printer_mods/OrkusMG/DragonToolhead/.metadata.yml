@@ -1,11 +1,13 @@
 cad:
-  - DragonHotendToolheadMountv14.f3d
+- DragonHotendToolheadMountv14.f3d
 description: Dragon Toolhead
 images:
-  - Top.jpg
-  - Back.jpg
-  - Bottom.jpg
-  - Front.jpg
+- Top.jpg
+- Back.jpg
+- Bottom.jpg
+- Front.jpg
 mod_version: 1
 printer_compatibility: []
+stl:
+- DragonToolheadFinal.stl
 title: Dragon Toolhead

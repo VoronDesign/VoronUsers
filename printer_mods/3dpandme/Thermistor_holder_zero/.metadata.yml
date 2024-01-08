@@ -9,4 +9,6 @@ printer_compatibility:
 - V0.2
 - VSW
 - VT
+stl:
+- thermistor_holder_zero.stl
 title: Thermistor holder zero

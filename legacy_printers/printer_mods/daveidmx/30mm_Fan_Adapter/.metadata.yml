@@ -3,4 +3,6 @@ description: 30mm Fan Adapter
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- 30mm_fan_adapter.stl
 title: 30mm Fan Adapter

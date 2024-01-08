@@ -12,4 +12,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/[a]_MiniSB_Cowling_x1.stl
+- STLs/[a]_MiniSB_LGXL_Cowling_Multibody_Logo_x1.stl
 title: MiniSB_LGXL

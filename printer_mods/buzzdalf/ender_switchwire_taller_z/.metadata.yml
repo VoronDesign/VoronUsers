@@ -12,4 +12,12 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/Bowden_Guide_x2.stl
+- STL/Left_Front_x1.stl
+- STL/Left_Rear_x1.stl
+- STL/Right_Front_x1.stl
+- STL/Right_Rear_x1.stl
+- STL/[a]_Upper-Block_Left_Top_x1.stl
+- STL/[a]_Upper-Block_Right_Top_x1.stl
 title: Ender 3 Switchwire Taller Z Mod

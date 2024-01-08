@@ -9,4 +9,21 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- 250/250.stl
+- 250/250_mirror.stl
+- 300/300.stl
+- 300/300_mirror.stl
+- 350/350.stl
+- 350/350_mirror.stl
+- Buttons/flm_sw.stl
+- Buttons/fw_restart.stl
+- Buttons/Home.stl
+- Buttons/mesh.stl
+- Buttons/Pause.stl
+- Buttons/Power.stl
+- Buttons/preheat.stl
+- Buttons/qgl.stl
+- Buttons/resume.stl
+- Buttons/Stop.stl
 title: V2.4 Skirt Buttons

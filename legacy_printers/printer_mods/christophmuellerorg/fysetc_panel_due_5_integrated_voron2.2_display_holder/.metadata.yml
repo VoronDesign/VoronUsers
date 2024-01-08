@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- duet_display_assembly_back.stl
+- duet_display_bezel.stl
+- duet_display_distance_plate.stl
 title: FYSETC Panel Due 5i

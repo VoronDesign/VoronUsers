@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VT
+stl:
+- STL/power_inlet_schurter.stl
 title: Trident Schurter Inlet Skirt

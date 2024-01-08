@@ -4,4 +4,10 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- Container-Holder-A.stl
+- Container-Holder-B.stl
+- Spool-Base.stl
+- Spool-Brace.stl
+- Spool-Roller.stl
 title: Filament DryBox

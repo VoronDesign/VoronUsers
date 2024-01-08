@@ -7,4 +7,18 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Backplate_x4.stl
+- STL/Hinge_x4.stl
+- STL/latch_x2.stl
+- STL/Left_Leaf_VHB_With_Accent_x2.stl
+- STL/Left_Leaf_VHB_x2.stl
+- STL/Left_Leaf_With_Accent_x2.stl
+- STL/Left_Leaf_x2.stl
+- STL/mod_5x3_handle_a_small.stl
+- STL/mod_6x3_handle_a_small.stl
+- STL/Right_Leaf_VHB_With_Accent_x2.stl
+- STL/Right_Leaf_VHB_x2.stl
+- STL/Right_Leaf_With_Accent_x2.stl
+- STL/Right_Leaf_x2.stl
 title: Removable Doors

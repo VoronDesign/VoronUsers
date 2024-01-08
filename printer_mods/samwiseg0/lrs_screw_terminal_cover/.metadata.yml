@@ -12,4 +12,8 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/lrs_150_screw_terminal_cover.stl
+- STLs/lrs_200_screw_terminal_cover.stl
+- STLs/lrs_50_screw_terminal_cover.stl
 title: LRS PSU Screw Terminal Cover

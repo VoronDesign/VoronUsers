@@ -14,4 +14,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/spider_bracket_horizontal_terminal.stl
+- STL/spider_bracket_horizontal_usb.stl
+- STL/spider_bracket_vertical_terminal.stl
+- STL/spider_bracket_vertical_usb.stl
+- STL/spider_spacer_x4.stl
 title: FYSETC Spider DIN Rail Mount

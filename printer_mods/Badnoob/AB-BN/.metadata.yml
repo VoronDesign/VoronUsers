@@ -17,4 +17,31 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL_files/5015-deearing-tool-b.stl
+- STL_files/5015-deearing-tool.stl
+- STL_files/AB-BN-28_Hotend-Dragon-Back.stl
+- STL_files/AB-BN-28_Hotend-E3Dv6-Back.stl
+- STL_files/AB-BN-28_Hotend-E3Dv6-Front.stl
+- STL_files/AB-BN-28_SPACER.stl
+- STL_files/AB-BN-28_SPRING.stl
+- STL_files/ab-bn-30_Fan_back.stl
+- STL_files/ab-bn-30_Fan_FRONT.stl
+- STL_files/AB-BN-30_Hotend-E3D_REVO-back.stl
+- STL_files/AB-BN-30_Hotend-E3D_REVO-front.stl
+- STL_files/AB-BN-30_Hotend-Phaetus_BMO-back.stl
+- STL_files/AB-BN-30_Hotend-Phaetus_BMO-front.stl
+- STL_files/AB-BN-30_Hotend-Phaetus_BMS-back.stl
+- STL_files/AB-BN-30_Hotend-Phaetus_BMS-front.stl
+- STL_files/AB-BN-30_hotend-Rapido-back.stl
+- STL_files/AB-BN-30_hotend-Rapido-front.stl
+- STL_files/AB-BN-30_Hotend-Zodiac_BMO-back.stl
+- STL_files/AB-BN-30_Hotend-Zodiac_BMO-front.stl
+- STL_files/AB-BN-30_Hotend-Zodiac_BMO_back.stl
+- STL_files/AB-BN-30_Hotend-Zodiac_BMO_front.stl
+- STL_files/AB-BN-30_Hotend-Zodiac_BMS-back.stl
+- STL_files/AB-BN-30_Hotend-Zodiac_BMS-front.stl
+- STL_files/AB_BN_30_Hotend-Dragon-front.stl
+- STL_files/AB_BN_30_Hotend-E3D_revo_voron-back.stl
+- STL_files/AB_BN_30_Hotend-E3D_revo_voron-front.stl
 title: AB-BN Afterburner mod (5015)

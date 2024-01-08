@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STLs/Voron0_deck_panel_with_logo_and_VORON0.stl
+- STLs/[a]_Voron0_deck_panel__Logo.stl
+- STLs/[b]_Voron0_deck_panel_0.stl
 title: Voron0 deck panel

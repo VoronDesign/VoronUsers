@@ -13,4 +13,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Front_Idler_Bottomx2.stl
+- STL/Front_Idler_Topx2.stl
+- STL/[a]_Idler_Carrierx2.stl
 title: '"Other" Idlers Mod'

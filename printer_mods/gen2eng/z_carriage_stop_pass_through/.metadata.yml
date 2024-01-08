@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- z_carriage_stop_pass_through.stl
 title: Switchwire LED wire pass through

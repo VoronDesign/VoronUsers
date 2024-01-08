@@ -4,4 +4,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- DIN_Meanwell_RS-15-5_psu.stl
 title: DIN mount RS-15-5 PSU

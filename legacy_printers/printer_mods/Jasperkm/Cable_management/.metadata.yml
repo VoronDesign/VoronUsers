@@ -6,4 +6,14 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- 2020_slotcover.stl
+- Cabletrunk_W25_H35_L125_x2.STL
+- Cabletrunk_W25_H35_L205_x1.STL
+- Cabletrunk_W25_H35_L240_x1.STL
+- Cabletrunk_W35_H35_L125.STL
+- Cabletrunk_W35_H35_L205.STL
+- Cabletrunk_W35_H35_L240.STL
+- Cabletrunk_W50_H50_L205.STL
+- wago222_mount_compact.STL
 title: Cable management

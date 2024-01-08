@@ -9,4 +9,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- AB_dial_indicator_mount.stl
 title: AB dial indicator mount

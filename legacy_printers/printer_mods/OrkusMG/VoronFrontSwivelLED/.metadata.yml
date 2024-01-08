@@ -1,11 +1,15 @@
 cad:
-  - CoverFor5inchLCD.f3d
+- CoverFor5inchLCD.f3d
 description: Voron Swivle Front LED Bar
 images:
-  - 1.jpg
-  - 2.jpg
-  - 3.jpg
-  - 4.jpg
+- 1.jpg
+- 2.jpg
+- 3.jpg
+- 4.jpg
 mod_version: 1
 printer_compatibility: []
+stl:
+- LEDBarAamL.stl
+- LEDBarArmR.stl
+- LEDFrameMountx2.stl
 title: Voron Swivle Front LED Bar

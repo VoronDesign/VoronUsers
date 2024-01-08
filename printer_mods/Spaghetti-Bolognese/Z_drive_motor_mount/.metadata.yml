@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Z_Motor_Mount_A.stl
+- Z_Motor_Mount_B.stl
 title: Simplified Z Drive Motor Mount

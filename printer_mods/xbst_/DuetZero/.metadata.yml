@@ -7,4 +7,6 @@ printer_compatibility:
 - V0.2
 - V1.8
 - V2.4
+stl:
+- DuetZero.stl
 title: DuetZero

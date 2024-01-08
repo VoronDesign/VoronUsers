@@ -15,4 +15,13 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Skirt_12mm_switch.stl
+- STL/Exhaust/Exhaust_without_Holes.stl
+- STL/Exhaust/Exhaust_with_Holes.stl
+- STL/Exhaust/[a]Exhaust_Cover.stl
+- STL/LED_Light/LED_Carrier.stl
+- STL/LED_Light/LED_Carrier_mirror.stl
+- STL/LED_Light/[a]_LED_Cover_2x.stl
+- STL/LED_Light/[a]_LED_Mountigplatte_2x.stl
 title: TopHat Exhaust and LED Light

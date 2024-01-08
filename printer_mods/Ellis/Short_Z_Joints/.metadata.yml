@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Z_Bearing_Block_Bottom.stl
+- STL/Z_Bearing_Block_Top.stl
+- STL/Z_Belt_Clamp_Lower.stl
 title: Short Z Joints

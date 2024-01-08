@@ -8,4 +8,6 @@ mod_version: 1
 printer_compatibility:
 - V0
 - V0.1
+stl:
+- STL/4.3_fly_screen_mount.STL
 title: 4.3 Fly Screen Mount

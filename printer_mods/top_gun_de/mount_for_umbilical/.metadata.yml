@@ -11,4 +11,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Umbilical-guide-2-hole-Igus.stl
+- STL/Umbilical-guide-3-hole.stl
+- STL/Umbilical-guide-key.stl
 title: mount_for_umbilical

@@ -15,4 +15,8 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/canable_pro_clip.stl
+- STLs/canable_pro_mount.stl
+- STLs/pcb_din_clip.stl
 title: MKS CANable Pro DIN Mount

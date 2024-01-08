@@ -7,4 +7,7 @@ images:
 - Images/Filter_ISO_View.png
 mod_version: 1
 printer_compatibility: []
+stl:
+- Filtered_Main_Skirt.stl
+- Side_Skirt_A_Switch.stl
 title: Trident Right Skirt Switch

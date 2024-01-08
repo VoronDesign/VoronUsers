@@ -13,4 +13,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/modified-door-latch.stl
 title: Laser cut door panels

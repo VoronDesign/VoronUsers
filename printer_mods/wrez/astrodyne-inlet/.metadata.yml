@@ -14,4 +14,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/astrodyne-inlet.stl
 title: V0 Alternate IEC 320 C14 Power Inlet Housing

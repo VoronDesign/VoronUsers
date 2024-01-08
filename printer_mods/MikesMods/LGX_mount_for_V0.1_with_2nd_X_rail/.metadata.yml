@@ -12,4 +12,16 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/LGX_A_Drive_Frame_Lower_x1.stl
+- STL/LGX_A_Drive_Frame_Upper_x1.stl
+- STL/LGX_B_Drive_Frame_Lower_x1.stl
+- STL/LGX_B_Drive_Frame_Upper_x1.stl
+- STL/LGX_Cowling_V0.1.stl
+- STL/LGX_strain_relief.stl
+- STL/LGX_X_carriage_back_plate.stl
+- STL/LGX_X_carriage_top.stl
+- STL/LGX_X_Endstop_Bumper.stl
+- STL/LGX_Y_Endstop_Bumper.stl
+- STL/LGX_Y_Endstop_Mount_x1.stl
 title: LGX mount for V0.1 with 2nd X rail

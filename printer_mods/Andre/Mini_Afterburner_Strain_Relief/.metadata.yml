@@ -8,4 +8,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Strain_Relief_Body_Top_x1.stl
+- STL/Strain_Relief_Body_x1.stl
+- STL/Strain_Relief_Spacer_x2.stl
 title: Mini Afterburner Strain Relief

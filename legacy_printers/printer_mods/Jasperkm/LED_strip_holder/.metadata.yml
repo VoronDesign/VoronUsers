@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- 250_led_holder_v5.STL
 title: LED strip holder

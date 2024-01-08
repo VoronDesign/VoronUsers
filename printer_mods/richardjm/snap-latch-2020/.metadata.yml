@@ -10,4 +10,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/NewLatch-3.0mm.stl
+- STL/NewLatch-3.5mm.stl
+- STL/NewLatch-4.0mm.stl
+- STL/NewLatch-4.5mm.stl
+- STL/NewLatch-5.0mm.stl
+- STL/NewLatch-5.5mm.stl
+- STL/NewLatch-6.0mm.stl
+- STL/NewLatch-6.5mm.stl
+- STL/NewLatch-7.0mm.stl
+- STL/NewLatch-7.5mm.stl
+- STL/NewLatch-8.0mm.stl
+- STL/NewLatch-8.5mm.stl
 title: Printable snap latches for 2020 extrusion

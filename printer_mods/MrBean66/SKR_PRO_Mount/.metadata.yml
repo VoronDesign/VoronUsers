@@ -6,4 +6,7 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- SKR_PRO_DIN_Mount.stl
+- Stretched_DIN_Clamp.stl
 title: SKR Pro DIN Mount

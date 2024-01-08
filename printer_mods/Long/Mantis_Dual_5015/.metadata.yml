@@ -60,4 +60,44 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- STLs/Carriage_MGN12_v1.040.stl
+- STLs/Carriage_MGN9_v1.0.stl
+- STLs/Chain_Anchor_v3.1_IGUS.stl
+- STLs/Chain_Anchor_v3.2.stl
+- STLs/Hotend_Mount_Dragon_v1.040.stl
+- STLs/Hotend_Mount_Dragon_v1.040_sherpa_brace.stl
+- STLs/Hotend_Mount_Rapido_v.03.stl
+- STLs/Hotend_Mount_Rapido_v.03_Rotated120Degrees.stl
+- STLs/Umbilical_Mount_v2.stl
+- STLs/Ducts/1.8/Duct_v1.037_Left_+2mm.stl
+- STLs/Ducts/1.8/Duct_v1.037_Right_+2mm.stl
+- STLs/Ducts/2.4/duct_dragon_crazy_volcano_v1.0_left.stl
+- STLs/Ducts/2.4/duct_dragon_crazy_volcano_v1.0_right.stl
+- STLs/Ducts/2.4/duct_dragon_v1.041_Left.stl
+- STLs/Ducts/2.4/duct_dragon_v1.041_Right.stl
+- STLs/Ducts/2.4/duct_dragon_v1.043e_Left.stl
+- STLs/Ducts/2.4/duct_dragon_v1.043e_Right.stl
+- STLs/Ducts/2.4/duct_rapido_HF_v0.03b_left.stl
+- STLs/Ducts/2.4/duct_rapido_HF_v0.03b_right.stl
+- STLs/Ducts/2.4/duct_rapido_UHF_v0.03b_left.stl
+- STLs/Ducts/2.4/duct_rapido_UHF_v0.03b_right.stl
+- STLs/Duct_Brace/Duct_Brace_Simple_v1.0.stl
+- STLs/Duct_Brace/Full_Brace/Dragon/Duct_Brace_Dragon_Clamp_Left_v1.0.stl
+- STLs/Duct_Brace/Full_Brace/Dragon/Duct_Brace_Dragon_Clamp_Right_v1.0.stl
+- STLs/Duct_Brace/Full_Brace/Dragon/Duct_Brace_Dragon_Full_v1.2_Closed_mount.stl
+- STLs/Duct_Brace/Full_Brace/Dragon/Duct_Brace_Dragon_Full_v1.2_Open_mount.stl
+- STLs/Duct_Brace/Full_Brace/Rapido_Crazy_Volcano/Duct_Brace_Rapido_Crazy_Volcano_Clamp_Left_v1.1.stl
+- STLs/Duct_Brace/Full_Brace/Rapido_Crazy_Volcano/Duct_Brace_Rapido_Crazy_Volcano_Clamp_Right_v1.1.stl
+- STLs/Duct_Brace/Full_Brace/Rapido_Crazy_Volcano/Duct_Brace_Rapido_Crazy_Volcano_Full_v1.2_Closed_Mount.stl
+- STLs/Duct_Brace/Full_Brace/Rapido_Crazy_Volcano/Duct_Brace_Rapido_Crazy_Volcano_Full_v1.2_Open_Mount.stl
+- STLs/Magprobe/Magprobe_v0.31_Dragon.stl
+- STLs/Magprobe/Magprobe_v0.31_RapidoHF_and_CrazyVolcano.stl
+- STLs/Magprobe/Magprobe_v0.31_RapidoUHF.stl
+- STLs/Magprobe/Bed_Extrusion_Mount/Magprobe_Dock_Arms_v1.5.stl
+- STLs/Magprobe/Bed_Extrusion_Mount/Magprobe_Dock_Mount_v1.0.stl
+- STLs/Magprobe/Gantry_Mount/Magprobe_Gantry_Dock_Arm_v1.5_double_magnet.stl
+- STLs/Magprobe/Gantry_Mount/Magprobe_Gantry_Dock_Arm_v1.5_Single_magnet.stl
+- STLs/Magprobe/Gantry_Mount/Magprobe_Gantry_Dock_Mount_by_JosAr_v1.stl
+- STLs/Magprobe/Gantry_Mount/Magprobe_Gantry_Extrusion_Mount_by_JosAr_v1.stl
 title: Mantis Dual 5015 Toolhead

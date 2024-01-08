@@ -5,4 +5,6 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- C920_Mount_Slim.stl
 title: c920 Mount

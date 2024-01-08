@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/v02_rear_skirt_keystone.stl
 title: Voron0.2 Rear Keystone Skirt

@@ -14,4 +14,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/adapter_120mm_to_duct.stl
+- STL/bowden_adapter_panel_mount.stl
+- STL/exhaust_120mm_fan_mount.stl
+- STL/exhaust_housing.stl
 title: Exhaust Housing for 120mm Fan and 4in Duct

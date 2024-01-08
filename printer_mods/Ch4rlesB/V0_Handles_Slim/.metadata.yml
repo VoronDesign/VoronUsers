@@ -7,4 +7,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- V0_Handles_Slim_2.5_Panel_x2.stl
+- V0_Handles_Slim_3_Panel_x2.stl
 title: V0 Handles Slim

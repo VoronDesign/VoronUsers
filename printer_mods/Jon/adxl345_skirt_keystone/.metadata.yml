@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/ADXL345.connector.keystone.x1.stl
+- STL/lock.x2.stl
+- STL/[a]_ADXL345.text.keystone.x1.stl
 title: adxl345 skirt keystone

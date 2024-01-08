@@ -12,4 +12,13 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- V0.0/Skirt.stl
+- V0.0/Skirt_adxl.stl
+- V0.0/Skirt_EmptyNameplate.stl
+- V0.0/Skirt_mirror.stl
+- V0.0/Skirt_PowerSwitch.stl
+- V0.0/Skirt_ssr.stl
+- V0.1/Skirt.stl
+- V0.1/Skirt_mirror.stl
 title: V0 Skirt set

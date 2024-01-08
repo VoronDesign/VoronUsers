@@ -5,4 +5,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- switchwire_chain.stl
 title: Galileo chain mount (befenybay)

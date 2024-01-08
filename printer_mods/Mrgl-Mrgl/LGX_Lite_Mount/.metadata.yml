@@ -7,4 +7,8 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- LGXLite_Mount.stl
+- LGX_Lite_Chainmount_Generic.stl
+- LGX_Lite_Chainmount_IGUS.stl
 title: LGX Lite Mount
