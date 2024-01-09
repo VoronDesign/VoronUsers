@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/[a]_bed_thumb_nut_x3.stl
 title: V0 Long Thumb Nut

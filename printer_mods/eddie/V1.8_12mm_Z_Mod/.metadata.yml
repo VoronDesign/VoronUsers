@@ -9,4 +9,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V1.8
+stl:
+- STLs/z_bearing_block_a_12mm_x2.stl
+- STLs/z_bearing_block_b_12mm_x2.stl
+- STLs/[a]_z_shaft_retainer_12mm_lower_x4.stl
+- STLs/[a]_z_shaft_retainer_12mm_upper_x4.stl
 title: V1.8 12mm Z Mod

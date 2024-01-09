@@ -3,4 +3,6 @@ description: 14.5mm toothed idler
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- Cable_Zipper_5000.stl
 title: Toothed Idler

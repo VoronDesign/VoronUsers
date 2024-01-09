@@ -8,4 +8,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- stls/z-locks-100.stl
+- stls/z-locks-150.stl
+- stls/z-locks-200.stl
 title: Z Locks

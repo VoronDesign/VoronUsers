@@ -13,4 +13,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- uhp_200_psu_bracket_double_rail_heatset_insert_x2.stl
+- uhp_200_psu_bracket_double_rail_hexnut_x2.stl
+- uhp_200_psu_bracket_heatset_insert.stl
+- uhp_200_psu_bracket_hexnut.stl
 title: UHP PSU Bracket Clip

@@ -11,4 +11,7 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STLs/x_carriage_frame_left_euclid.stl
+- STLs/x_carriage_frame_right_euclid.stl
 title: Euclid Probe Carriage

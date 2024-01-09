@@ -5,4 +5,10 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- front_blank_skirt_panel_clock.STL
+- side_skirt_a_fanguard_250.STL
+- side_skirt_a_fanmount_250.STL
+- side_skirt_b_fanguard_250.STL
+- side_skirt_b_fanmount_250.STL
 title: Skirt mods

@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/front_cover.stl
+- STL/rear_mounting.stl
+- Y_Endstop_Relocation/STL/y_endstop.stl
 title: Rear Umbilical

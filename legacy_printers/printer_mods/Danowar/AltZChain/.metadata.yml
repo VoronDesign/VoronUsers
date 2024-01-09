@@ -1,10 +1,13 @@
 cad: []
 description: Alternative mounting for Z-Axis zipchain
 images:
-  - AltZChain2.jpg
-  - AltZChain1.jpg
+- AltZChain2.jpg
+- AltZChain1.jpg
 mod_version: 1
 printer_compatibility:
-  - V2.1
-  - V2.2
+- V2.1
+- V2.2
+stl:
+- Z_Anchor.stl
+- Z_Anchor_Standoff.stl
 title: Alternative Z Chain

@@ -62,4 +62,12 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Angry_CAM_Bottom_Mount.stl
+- STL/Angry_CAM_Front_Mount.stl
+- STL/Angry_CAM_Top_Mount.stl
+- STL/Front_Cover.stl
+- STL/Front_Cover_120+.stl
+- STL/Rear_Cover.stl
+- STL/Rear_Cover_120+.stl
 title: Angry CAM USB

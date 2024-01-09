@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- exhaust_filter_housing_side.stl
 title: Exhaust filter housing - side thread

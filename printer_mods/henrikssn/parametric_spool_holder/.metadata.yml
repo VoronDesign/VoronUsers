@@ -7,4 +7,11 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- SpoolHolder_100mm.stl
+- SpoolHolder_105mm.stl
+- SpoolHolder_110mm.stl
+- SpoolHolder_70mm.stl
+- SpoolHolder_80mm.stl
+- SpoolHolder_90mm.stl
 title: Parametric Spool Holder

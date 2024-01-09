@@ -10,4 +10,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Z_Chain_3_Hole_Lower_Mount.stl
+- Z_Chain_3_Hole_Upper_Mount.stl
 title: V2.4 Z Chain Mounts for 3 Hole Chains

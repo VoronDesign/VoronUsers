@@ -9,4 +9,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STLs/voyager_gtx_din_mount_universal.stl
 title: Corsair Flash Voyager GTX Din Mount

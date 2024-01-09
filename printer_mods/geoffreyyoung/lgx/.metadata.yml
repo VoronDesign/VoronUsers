@@ -13,4 +13,11 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/30mm-screws/30mm-lgx-blower-housing-rear.stl
+- STLs/30mm-screws/30mm-lgx-mount-front.stl
+- STLs/extras/lgx-cable-cover.stl
+- STLs/extras/lgx-gear-cover.stl
+- STLs/extras/lgx-lever-cover.stl
+- STLs/mgn12/lgx-mgn12-mount-rear.stl
 title: LGX Info, Links, and Models

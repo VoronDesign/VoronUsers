@@ -6,4 +6,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STLs/mount.stl
+- STLs/mount_mirror.stl
 title: SW Fan Mount No Tape

@@ -1,13 +1,19 @@
----
-title: Matchstick Diffusers
-description: Mounts and Diffusers for the popular "on-a-matchstick" LEDs
-mod_version: 1
-discord_username: mapleleafmakers
 cad:
 - CAD/matchstick_diffuser.step
+description: Mounts and Diffusers for the popular "on-a-matchstick" LEDs
+discord_username: mapleleafmakers
 images:
 - Images/CAD1.png
 - Images/photo.jpg
-
+mod_version: 1
 printer_compatibility:
 - V0
+stl:
+- STL/bottom_mount_clip_x4.stl
+- STL/main_body_daylight_A.stl
+- STL/main_body_daylight_B.stl
+- STL/main_body_rainbow_A.stl
+- STL/main_body_rainbow_B.stl
+- STL/top_mount_clip_x4.stl
+- STL/[c]_diffuser_x2.stl
+title: Matchstick Diffusers

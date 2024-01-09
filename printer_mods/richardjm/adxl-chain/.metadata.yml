@@ -11,4 +11,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/ChainAnchor-Generic-ADXL345-Adafruit.stl
+- STL/ChainAnchor-Generic-ADXL345-GY-291.stl
+- STL/ChainAnchor-IGUS-ADXL345-Adafruit.stl
+- STL/ChainAnchor-IGUS-ADXL345-GY-291.stl
 title: ADXL drag chain mount

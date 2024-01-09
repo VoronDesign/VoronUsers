@@ -113,4 +113,15 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- Voron_Trident/.stl_files/Trident_DLogo.stl
+- Voron_Trident/.stl_files/Trident_DLogo_250_deck_Panel.stl
+- Voron_Trident/.stl_files/Trident_DLogo_250_Rear_Panel.stl
+- Voron_Trident/.stl_files/Trident_DLogo_300_deck_Panel.stl
+- Voron_Trident/.stl_files/Trident_DLogo_300_rear_Panel.stl
+- Voron_Trident/.stl_files/Trident_DLogo_350_deck_Panel_.stl
+- Voron_Trident/.stl_files/Trident_DLogo_350_rear_Panel.stl
+- Voron_Trident/.stl_files/Trident_DLogo_Dim_X_216.51_Y_250.00_Z_1.75.stl
+- Voron_Trident/.stl_files/Trident_DLogo_Dim_X_259.80_Y_300.00_Z_2.10.stl
+- Voron_Trident/.stl_files/Trident_DLogo_Dim_X_303.12_Y_350.00_Z_2.46.stl
 title: Cricut Voron Logos

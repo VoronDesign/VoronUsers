@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - VT
+stl:
+- STL/Mounting_Plate.stl
 title: Trident Bed Fans

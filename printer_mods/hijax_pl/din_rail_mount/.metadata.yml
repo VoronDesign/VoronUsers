@@ -9,4 +9,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- din_rail_mount.stl
+- din_rail_mount_angle.stl
+- din_rail_mount_angle_panel_3mm.stl
+- din_rail_mount_angle_panel_4mm.stl
+- din_rail_mount_angle_panel_6mm.stl
 title: Din Rail mount

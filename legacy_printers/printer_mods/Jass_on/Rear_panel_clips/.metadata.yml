@@ -3,5 +3,7 @@ description: Rear Panel Clips
 images: []
 mod_version: 1
 printer_compatibility:
-  - V2.1
+- V2.1
+stl:
+- Rear_Panel_Clips_v2.stl
 title: Rear Panel Clips

@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Ball.stl
+- Cam_A.STL
+- Cam_B.STL
 title: V0 PiCam Mount

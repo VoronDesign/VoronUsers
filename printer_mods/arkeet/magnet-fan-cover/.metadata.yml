@@ -12,4 +12,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- STL/hotend_fan_mount.stl
 title: Magnetic hotend fan cover

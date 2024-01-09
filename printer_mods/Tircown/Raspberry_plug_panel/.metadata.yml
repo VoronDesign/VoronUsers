@@ -7,4 +7,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- plug_panel_raspberry_bracket.stl
+- plug_panel_with_raspberry_DD11.stl
+- plug_panel_with_raspberry_filtered_rocker.stl
+- plug_panel_with_raspberry_unfiltered.stl
 title: Raspberry in plug panel

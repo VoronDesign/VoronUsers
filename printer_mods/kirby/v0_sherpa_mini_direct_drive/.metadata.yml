@@ -5,4 +5,9 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/v0_dd_hotend_fan_left.stl
+- STLs/v0_dd_hotend_fan_right.stl
+- STLs/v0_dd_hotend_left.stl
+- STLs/v0_dd_hotend_right.stl
 title: V0 Sherpa Mini Direct Drive Mod

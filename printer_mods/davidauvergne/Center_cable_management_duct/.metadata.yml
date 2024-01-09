@@ -15,4 +15,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/CableDuct_Body_hole_50X208.stl
+- STL/CableDuct_Body_no_hole_50X208.stl
+- STL/CableDuct_Cover-50X208.stl
 title: Center_cable_management_duct

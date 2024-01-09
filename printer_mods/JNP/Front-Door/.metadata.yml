@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Front_Door_Frame.stl
+- STLs/Handle_Mini_front.stl
 title: Front Door

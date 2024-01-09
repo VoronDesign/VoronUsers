@@ -11,4 +11,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/inlet_bracket.stl
+- STLs/skirt_rear_left_with_inlet.stl
+- STLs/skirt_rear_right.stl
+- STLs/skirt_side_with_inlet.stl
 title: V0 DC inlet

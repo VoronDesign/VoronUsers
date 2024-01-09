@@ -12,4 +12,18 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/Din_Mount_Bracket.stl
+- STLs/Wago-3x-221-413_Thin-Din_Rail_Mount.stl
+- STLs/Wago_2x_221-415_Extrusion_Mount.stl
+- STLs/Wago_2x_221-415_Thin_Din_Rail_Mount.stl
+- STLs/Wago_3x_221-412_DIN_Mount.stl
+- STLs/Wago_3x_221-413_DIN_Mount.stl
+- STLs/Wago_3x_221-413_Extrusion_Mount.stl
+- STLs/Wago_3x_221-415_DIN_Mount.stl
+- STLs/Wago_3x_221-415_Extrusion_Mount.stl
+- STLs/Wago_3x_221-415_Skirt_Inlet_Mount.stl
+- STLs/Wago_3x_221-415_Thin_Din_Rail_Mount.stl
+- STLs/Wago_4x_221-412_Extrusion_Mount.stl
+- STLs/Wago_5x_221-412_Extrusion_Mount.stl
 title: WagoMounts

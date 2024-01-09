@@ -22,4 +22,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/2020_Profile_Cover.stl
+- STL/2020_Stealth_Profile_Cover.stl
 title: 20x20mm Profile Covers

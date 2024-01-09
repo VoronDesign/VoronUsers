@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/MLX_MF3_Connector_Mount.stl
 title: Molex MLX and Microfit 3.0 Bed Connector Mount

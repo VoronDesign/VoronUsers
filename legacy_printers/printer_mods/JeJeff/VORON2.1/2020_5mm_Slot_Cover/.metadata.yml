@@ -8,4 +8,8 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- 2020_5mm_slot_cover-10mm.stl
+- 2020_5mm_slot_cover-20mm.stl
+- 2020_5mm_slot_cover-5mm.stl
 title: 2020 Extrusion slot cover

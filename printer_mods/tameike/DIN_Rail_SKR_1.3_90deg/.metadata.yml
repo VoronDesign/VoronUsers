@@ -4,4 +4,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- SKR_1.3_Bracket_90deg.stl
 title: Din Rail SKR 90 deg

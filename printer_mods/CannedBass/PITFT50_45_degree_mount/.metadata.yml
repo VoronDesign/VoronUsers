@@ -8,4 +8,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STL/PITFT50_45_degree_mount.stl
 title: PITFT50 45-degree mount

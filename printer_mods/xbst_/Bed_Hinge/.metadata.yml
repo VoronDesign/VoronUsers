@@ -7,4 +7,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/Deck_Panel_Holder.stl
+- STLs/Din_Rail_Mount.stl
+- STLs/Extrusion_Spacer.stl
+- STLs/Front.stl
+- STLs/Handle.stl
 title: Car Hood Style Bed Hinge

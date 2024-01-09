@@ -7,4 +7,6 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- Wago_221-415-5x1__Mount.stl
 title: Wago 221-415 Mount

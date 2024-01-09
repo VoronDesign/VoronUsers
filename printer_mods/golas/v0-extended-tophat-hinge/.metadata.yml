@@ -10,4 +10,24 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- stl/back_corner_a_x1.stl
+- stl/back_corner_b_x1.stl
+- stl/front-corner_x1.stl
+- stl/Front_and_Rear_Midclip_x2.STL
+- stl/front_corner_hinged_support_x1.stl
+- stl/front_corner_hinged_x1.stl
+- stl/hinge_for_stock_tophat_x2.stl
+- stl/Left_and_Right_Midclip_x2.STL
+- stl/side_plexi_clip_a_x1.stl
+- stl/side_plexi_clip_b_x1.stl
+- stl/singe_part_tophat_x1.stl
+- stl/tophat_a_x1.stl
+- stl/tophat_b_x1.stl
+- stl/tophat_front_c_x1.stl
+- stl/tophat_front_d_x1.stl
+- stl/tophat_magnet_clip_a_x2.stl
+- stl/tophat_magnet_clip_b_x2.stl
+- stl/Upper_Corner_1_and_3_Clip_x2.STL
+- stl/Upper_Corner_2_and_4_Clip_x2.STL
 title: V0.1 Extended tophat hinge

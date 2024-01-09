@@ -5,4 +5,14 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- Beltchain_Remake_XY/Beltchain_Remake_XY_Cover.stl
+- Beltchain_Remake_XY/Beltchain_Remake_XY_End_A.stl
+- Beltchain_Remake_XY/Beltchain_Remake_XY_End_B_XY_Bridge.stl
+- Beltchain_Remake_XY/Beltchain_Remake_XY_End_B_X_Carriage.stl
+- Beltchain_Remake_XY/Beltchain_Remake_XY_End_B_X_Carriage_Anchor.stl
+- Beltchain_Remake_XY/Beltchain_Remake_XY_Link.stl
+- Beltchain_Remake_Z/Beltchain_Remake_Z_End_A.stl
+- Beltchain_Remake_Z/Beltchain_Remake_Z_End_B.stl
+- Beltchain_Remake_Z/Beltchain_Remake_Z_Link.stl
 title: Beltchain Remake

@@ -1,10 +1,12 @@
 cad:
-  - 5v_psupply_mount.f3d
+- 5v_psupply_mount.f3d
 description: 5V Power Supply Mount
 images: []
 mod_version: 1
 printer_compatibility:
-  - V1.6
-  - V2.1
-  - V2.2
+- V1.6
+- V2.1
+- V2.2
+stl:
+- 5v_psupply_mount.stl
 title: 5V Power Supply Mount

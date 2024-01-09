@@ -20,4 +20,14 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/Base.stl
+- STLs/Base_Collet.stl
+- STLs/Base_PC4-M6.stl
+- STLs/Pin.stl
+- STLs/Roller.stl
+- STLs/Top.stl
+- STLs/Top_1515.stl
+- STLs/Top_1515_NoNut.stl
+- STLs/Top_2020.stl
 title: Runout UnKlicky Sensor

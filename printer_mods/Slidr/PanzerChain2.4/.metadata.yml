@@ -5,4 +5,22 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- stl/xyz_clip.stl
+- stl/xy_anchor_bridge_x1.stl
+- stl/xy_anchor_extrusion_x2.stl
+- stl/xy_bridge_x1.stl
+- stl/xy_link.stl
+- stl/x_anchor_direct_drive_x1.stl
+- stl/x_anchor_mount_bowden.stl
+- stl/x_anchor_mount_direct_drive2_cover_x1.stl
+- stl/x_anchor_mount_direct_drive2_no_cover_x1.stl
+- stl/z_anchor_frame_vertical_solid_200_x1.stl
+- stl/z_anchor_frame_vertical_solid_250_x1.stl
+- stl/z_anchor_frame_vertical_solid_300_x1.stl
+- stl/z_anchor_frame_vertical_solid_350_x1.stl
+- stl/z_anchor_frame_vertical_solid_400_x1.stl
+- stl/z_anchor_frame_x1.stl
+- stl/z_anchor_gantry_x1.stl
+- stl/z_link.stl
 title: PanzerChain 2.4

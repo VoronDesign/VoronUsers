@@ -13,4 +13,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- Klipper_Expander_Mount.stl
+- Klipper_Expander_Mount_with_Mounting_Holes.stl
 title: Klipper Expander Mount

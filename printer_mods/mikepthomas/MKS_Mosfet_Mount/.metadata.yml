@@ -9,4 +9,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STL/MKS_Mosfet_Mount.stl
 title: MKS Mosfet Mount

@@ -20,4 +20,18 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- Mods/2/z_belt_cover_b_camera.stl
+- Mods/Legacy/fan_grille.stl
+- Mods/Legacy/Legacy_Ender3_bed_mount_A_x2.stl
+- Mods/Legacy/Legacy_Ender3_bed_mount_B_x2.stl
+- Mods/Legacy/PS_stabilizerer.stl
+- Mods/Legacy/[tpu]_OB_Corner_Foot.stl
+- Mods/Switchwire/panel_spacer_tool.stl
+- Mods/Switchwire/PTFE_tube_side_mount.stl
+- Mods/Switchwire/spool_holder_base_side.stl
+- Mods/Trident/z_stepper_left_camera.stl
+- Parts/6-pin_microfit_skirt_insert.stl
+- Parts/VHB_ZipTie_Anchor.stl
+- Tools_Jigs/PTFE_Flush_Cutter.stl
 title: Parts_Jigs and Mods

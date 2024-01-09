@@ -12,4 +12,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- V00_MidPanelCover.stl
+- V00_MidPanelHex.stl
+- V01_MidPanelHex.stl
 title: V0 MidPanel HexPattern

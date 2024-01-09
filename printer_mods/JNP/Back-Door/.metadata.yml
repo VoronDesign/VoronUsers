@@ -10,4 +10,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Back_Door.stl
+- STLs/Handle_Mini_Backdoor.stl
 title: Back Door

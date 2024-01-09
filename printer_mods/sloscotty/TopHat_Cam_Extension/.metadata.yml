@@ -20,4 +20,23 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Ball_Mount.stl
+- STLs/CamArm_Cover.stl
+- STLs/Camera_Arm.stl
+- STLs/Cam_Base.stl
+- STLs/Cam_Face.stl
+- STLs/Cam_Spacer.stl
+- STLs/Front_Rear_Spacer_Left_x2.stl
+- STLs/Front_Rear_Spacer_Right_x2.stl
+- STLs/Left_Spacer_Front.stl
+- STLs/Left_Spacer_Rear.stl
+- STLs/Right_Spacer_Front.stl
+- STLs/Right_Spacer_Rear.stl
+- STLs/Optional/Front_Rear_Spacer_x2.stl
+- STLs/Optional/Left_Spacer.stl
+- STLs/Optional/Right_Spacer.stl
+- STLs/Optional/Right_Spacer_NoCam.stl
+- STLs/Optional/Right_Spacer_NoCam_Front.stl
+- STLs/Optional/Right_Spacer_NoCam_Rear.stl
 title: NoNutz TopHat Cam Extension

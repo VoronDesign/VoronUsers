@@ -11,4 +11,18 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/250mm_angle_frame_1_x2.stl
+- STLs/250mm_angle_frame_2_x2.stl
+- STLs/250mm_straight_frame_long_x2.stl
+- STLs/250mm_straight_frame_short_x4.stl
+- STLs/300mm_angle_frame_1_x2.stl
+- STLs/300mm_angle_frame_2_x2.stl
+- STLs/300mm_straight_frame_long_x2.stl
+- STLs/300mm_straight_frame_short_x4.stl
+- STLs/350mm_angle_frame_1_x2.stl
+- STLs/350mm_angle_frame_2_x2.stl
+- STLs/350mm_straight_frame_long_x2.stl
+- STLs/350mm_straight_frame_short_x4.stl
+- STLs/extended_door_latch_x2.stl
 title: Clip-On Front Door Frame

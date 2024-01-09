@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- LRS-100-bracket.stl
 title: LRS-100 DIN mount

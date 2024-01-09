@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- PSU_bracket.STL
 title: PSU bracket

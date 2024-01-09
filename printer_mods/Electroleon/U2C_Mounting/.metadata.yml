@@ -9,4 +9,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STLs/U2C_Mounting_Universal.STL
 title: U2C Mounting

@@ -4,4 +4,12 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Mod_Beltchain0_Anchor_Closed.stl
+- Mod_Beltchain0_Anchor_Open.stl
+- Mod_Beltchain0_Link_Slotted.stl
+- Stock_Beltchain0_Adapter.stl
+- Stock_Beltchain0_Bottom.stl
+- Stock_Beltchain0_Link.stl
+- Stock_Beltchain0_Top.stl
 title: V0 beltchains

@@ -7,4 +7,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- 10x15_Chain_Lower_Z_Mount.stl
+- 10x15_Chain_Upper_Z_Mount.stl
 title: 10x15 Chain Z Mounts

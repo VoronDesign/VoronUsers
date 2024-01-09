@@ -11,4 +11,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/UHP_200_series.stl
+- STLs/UHP_350_series.stl
+- STLs/UHP_500_series.stl
 title: MeanWell UHP-xxx DIN mount

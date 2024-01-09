@@ -3,7 +3,9 @@ description: Mounting bracket for 2 buck converters
 images: []
 mod_version: 1
 printer_compatibility:
-  - V1.6
-  - V2.1
-  - V2.2
+- V1.6
+- V2.1
+- V2.2
+stl:
+- dual_buck_bracket_rev2.stl
 title: Dual Buck Bracket

@@ -7,4 +7,17 @@ images:
 mod_version: 1
 printer_compatibility:
 - VT
+stl:
+- STL/Nozzle_Holder_250_A.stl
+- STL/Nozzle_Holder_250_B.stl
+- STL/Nozzle_Holder_300_A.stl
+- STL/Nozzle_Holder_300_B.stl
+- STL/Nozzle_Holder_350_A.stl
+- STL/Nozzle_Holder_350_B.stl
+- STL/Skirt_250_A.stl
+- STL/Skirt_250_B.stl
+- STL/Skirt_300_A.stl
+- STL/Skirt_300_B.stl
+- STL/Skirt_350_A.stl
+- STL/Skirt_350_B.stl
 title: Revo Nozzle Skirt

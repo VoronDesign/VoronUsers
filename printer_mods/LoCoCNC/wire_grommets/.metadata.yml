@@ -6,4 +6,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- grommet_1.stl
+- Grommet_2.stl
+- Grommet_3.stl
+- Grommet_4.stl
 title: V2.4 Bed Wiring Grommet

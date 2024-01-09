@@ -3,4 +3,6 @@ description: 14.5mm toothed idler
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- toothed_idler_small_14.5mm.stl
 title: Toothed Idler

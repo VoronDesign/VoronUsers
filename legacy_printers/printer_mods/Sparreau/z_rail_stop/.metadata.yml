@@ -1,9 +1,12 @@
 cad:
-  - z_rail_stop_PARAMETRIC_x4.f3d
+- z_rail_stop_PARAMETRIC_x4.f3d
 description: Z Rail Stop
 images: []
 mod_version: 1
 printer_compatibility:
-  - V2.1
-  - V2.2
+- V2.1
+- V2.2
+stl:
+- z_rail_stop_bottom_x4.stl
+- z_rail_stop_top_x4.stl
 title: Z Rail Stop

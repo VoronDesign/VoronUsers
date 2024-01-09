@@ -5,4 +5,6 @@ images:
 - cable_cover_F360_screenshot.png
 mod_version: 1
 printer_compatibility: []
+stl:
+- cable_cover.stl
 title: Cable Cover Insert

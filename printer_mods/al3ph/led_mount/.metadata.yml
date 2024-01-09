@@ -4,4 +4,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- led_mount.stl
 title: LED Mount

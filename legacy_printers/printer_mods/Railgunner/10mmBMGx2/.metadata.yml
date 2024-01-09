@@ -4,4 +4,16 @@ images:
 - Dual_BMG_Extruder.png
 mod_version: 1
 printer_compatibility: []
+stl:
+- STL/40mm_spiral_shroud_opp.stl
+- STL/Belt_Clip_10mm.stl
+- STL/CloseBlowerDuctVx2.stl
+- STL/x40mm_fan_duct_for_E3D_ChimeraVx6.stl
+- STL/xBondtechBases.stl
+- STL/xBondtechBasesA.stl
+- STL/xCableMountA.stl
+- STL/xCableMountB.stl
+- STL/xCarriage.stl
+- STL/xChimeraMount.stl
+- STL/xFanMountLowerVx2.stl
 title: Dual Direct Drive X Carriage

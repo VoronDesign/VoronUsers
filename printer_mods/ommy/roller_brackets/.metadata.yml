@@ -1,6 +1,6 @@
 cad:
-- cad/toprest.FCStd 
-- cad/voronroller.FCStd 
+- cad/toprest.FCStd
+- cad/voronroller.FCStd
 - cad/voronroller2.FCStd
 description: Brackets to help rolling V2 on its side.
 images:
@@ -8,4 +8,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- rest.stl
+- rollerL2.stl
+- rollerR2.stl
 title: roller brackets

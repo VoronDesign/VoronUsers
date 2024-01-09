@@ -10,4 +10,8 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STL/Cover.stl
+- STL/LH_Filament_Runout_Housing.stl
+- STL/RH_Filament_Runout_Housing.stl
 title: Filament Runout Sensor

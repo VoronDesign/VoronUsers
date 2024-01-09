@@ -7,4 +7,7 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- Angry_Starfish.stl
+- YASDM.stl
 title: FYSETC Spider Metal DIN Mount

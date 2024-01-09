@@ -24,4 +24,14 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/fan_grill_retainer_x6.stl
+- STL/fan_grill_washer_x8.stl
+- STL/side_fan_support_x2.stl
+- STL/[a]_60mm_fan_emptygrill.stl
+- STL/[a]_60mm_fan_emptygrill_M3.stl
+- STL/[a]_60mm_fan_grill_a_M3_x2.stl
+- STL/[a]_60mm_fan_grill_a_x2.stl
+- STL/[a]_60mm_fan_grill_b_M3_x2.stl
+- STL/[a]_60mm_fan_grill_b_x2.stl
 title: Side Fan Support, No Tape

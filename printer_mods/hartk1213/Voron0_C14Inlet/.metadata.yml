@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STLs/Voron0_C14Inlet_MainHousing.stl
+- STLs/Voron0_C14Inlet_RearCover.stl
 title: Voron0 C14Inlet

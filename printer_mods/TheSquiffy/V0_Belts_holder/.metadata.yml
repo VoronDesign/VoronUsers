@@ -14,4 +14,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/belts_holder_bar_x2.stl
+- STL/belts_holder_down_x1.stl
+- STL/belts_holder_up_x1.stl
 title: V0 Belts holder

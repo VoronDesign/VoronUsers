@@ -13,4 +13,8 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- Mount.STL
+- Spool_Holder_1mm_Clearance.STL
+- Spool_Holder_2mm_Clearance.STL
 title: Spool holder with scale

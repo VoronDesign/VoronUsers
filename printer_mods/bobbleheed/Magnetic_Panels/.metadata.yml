@@ -9,4 +9,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Magnetic_Cap_6mm.stl
+- STL/Magnetic_Mount_6mm.stl
+- STL/Midspan_(Optional)/Mid_Cap_6mm.stl
+- STL/Midspan_(Optional)/Mid_Mount_6mm.stl
 title: Magnetic Panels

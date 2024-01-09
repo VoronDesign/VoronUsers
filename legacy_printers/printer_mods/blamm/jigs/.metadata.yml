@@ -7,4 +7,8 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- blind_hole_jig_5mm_m5.stl
+- blind_hole_jig_6mm_m5.stl
+- blind_hole_jig_6mm_m6.stl
 title: Blind Joint Drilling Jigs

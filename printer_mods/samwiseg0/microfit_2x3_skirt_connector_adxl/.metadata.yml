@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/microfit_2x3_skirt_connector_adxl_lock.stl
+- STLs/[a]_microfit_2x3_skirt_connector_adxl_base.stl
 title: Microfit 2x3 Skirt Connector (ADXL)

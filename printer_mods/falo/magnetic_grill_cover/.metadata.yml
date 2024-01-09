@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/exhaust_filter_cover.stl
+- STL/exhaust_filter_grill_modified.stl
 title: Magnetic Exhaust Grill Cover

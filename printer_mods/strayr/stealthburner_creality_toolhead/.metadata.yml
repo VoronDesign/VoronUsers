@@ -17,4 +17,11 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- stl/SB_C-E3_PC_TH_Front.stl
+- stl/SB_C-E3_PC_TH_Rear_CW1.stl
+- stl/SB_C-E3_PC_TH_Rear_CW2.stl
+- stl/SB_C-E3_TH_Front.stl
+- stl/SB_C-E3_TH_Rear_CW1.stl
+- stl/SB_C-E3_TH_Rear_CW2.stl
 title: Creality toolhead for stealthburner

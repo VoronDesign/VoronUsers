@@ -6,4 +6,15 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- Back.stl
+- Case_arm(Mirror).stl
+- Case_arm.stl
+- Front.stl
+- Mount_block(Mirror).stl
+- Mount_block.stl
+- Swingarm_long(Mirror).stl
+- Swingarm_long.stl
+- Swingarm_short(Mirror).stl
+- Swingarm_short.stl
 title: Mini12864 Display Mount

@@ -9,4 +9,7 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- sb_cw1_pcb_cover-r1.stl
+- sb_cw1_pcb_cover_clip-on_mount-r1.stl
 title: Stealthburner + CW1 + PCB Cover

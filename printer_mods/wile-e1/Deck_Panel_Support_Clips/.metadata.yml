@@ -9,4 +9,8 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- wile.e-deck_panel_support_lower_4mm.stl
+- wile.e-deck_panel_support_lower_adjustable(3-6mm).stl
+- wile.e-deck_panel_support_upper.stl
 title: Deck Panel Support Clips

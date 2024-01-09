@@ -11,4 +11,8 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VSW
+stl:
+- back.stl
+- front.stl
+- spinner.stl
 title: Filament Runout Sensor

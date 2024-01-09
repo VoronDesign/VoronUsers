@@ -10,4 +10,7 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STL/C270_focus_wheel.stl
+- STL/C270_mount.stl
 title: C270 mount

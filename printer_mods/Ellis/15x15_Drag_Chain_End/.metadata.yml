@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/15x15_Drag_Chain_End.stl
 title: 15x15 Drag Chain End

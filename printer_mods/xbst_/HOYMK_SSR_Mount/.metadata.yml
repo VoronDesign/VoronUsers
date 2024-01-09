@@ -4,4 +4,8 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Alternative_A.stl
+- Alternative_B_1.stl
+- Alternative_B_2.stl
 title: HOYMK SSR Mount

@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- 2.2_Wrench.stl
 title: V2.2 Wrench

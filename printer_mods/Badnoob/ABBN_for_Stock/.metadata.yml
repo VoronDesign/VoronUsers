@@ -10,4 +10,10 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/ABBN_4020_Dragon_Front.stl
+- STLs/ABBN_4020_Rapido_Back.stl
+- STLs/ABBN_4020_Rapido_Front.stl
+- STLs/ABBN_4020_REVO_Voron_Back.stl
+- STLs/ABBN_4020_REVO_Voron_Front.stl
 title: AB-BN for Stock Afterburner (4020)

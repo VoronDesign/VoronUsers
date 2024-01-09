@@ -24,4 +24,22 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Body_Q1.stl
+- STLs/Body_Q2.stl
+- STLs/Body_Q3.stl
+- STLs/Body_Q4.stl
+- STLs/Body_Top_Center_x2.stl
+- STLs/Door_Frame.stl
+- STLs/Door_Handle.stl
+- STLs/Door_Hinge.stl
+- STLs/Hinge_Left.stl
+- STLs/Hinge_Right.stl
+- STLs/Mid_Door.stl
+- STLs/Mid_Left_x2.stl
+- STLs/Mid_Right_x2.stl
+- STLs/Peg_1_x2.stl
+- STLs/Peg_2_x2.stl
+- STLs/Top_Mid_x5.stl
+- STLs/Unibody.stl
 title: V0.1 Raised Tophat

@@ -7,4 +7,9 @@ mod_version: 1
 printer_compatibility:
 - V0.2
 - VSW
+stl:
+- STLs/chainlink.stl
+- STLs/clip.stl
+- STLs/fixed_end.stl
+- STLs/unfixed_end.stl
 title: 10x11mm chain VSW

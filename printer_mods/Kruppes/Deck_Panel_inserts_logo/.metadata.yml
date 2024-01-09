@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Deck_Panel_no_Logo.stl
 title: V0 Printed Deck with inserts

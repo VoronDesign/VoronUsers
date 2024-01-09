@@ -19,4 +19,13 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Foot_Front.stl
+- STL/Foot_Rear.stl
+- STL/LCD_Face_Plate.stl
+- STL/LCD_Mounting_Bracket.stl
+- STL/Skirt_Front_Left.stl
+- STL/Skirt_Front_Right.stl
+- STL/Skirt_Side_A.stl
+- STL/Skirt_Side_B.stl
 title: V0 LCD Touchscreen Skirt

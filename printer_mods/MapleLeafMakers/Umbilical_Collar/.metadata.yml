@@ -1,13 +1,15 @@
----
-title: Umbilical Collar
-description: An adjustable umbilical collar for the stock motor panel on the V0
-mod_version: 1
-discord_username: mapleleafmakers
 cad:
 - CAD/umbilical_collar.step
+description: An adjustable umbilical collar for the stock motor panel on the V0
+discord_username: mapleleafmakers
 images:
 - Images/V0_Umbilical_Collar.gif
 - Images/assembly.png
 - Images/motor_panel.png
+mod_version: 1
 printer_compatibility:
 - V0
+stl:
+- STL/collar_bottom.stl
+- STL/collar_top.stl
+title: Umbilical Collar

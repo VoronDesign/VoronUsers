@@ -17,4 +17,15 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STL_CAD/V2.4(R1)/0_filterdummy_dont_print.stl
+- STL_CAD/V2.4(R1)/1_coal_for_infill_mesh.stl
+- STL_CAD/V2.4(R1)/1_coal_with_mesh.stl
+- STL_CAD/V2.4(R1)/1_hepa.stl
+- STL_CAD/V2.4(R1)/1_lid.stl
+- STL_CAD/V2.4(R2)_Trident/0_filterdummy_dont_print.stl
+- STL_CAD/V2.4(R2)_Trident/1_coal_for_infill_mesh.stl
+- STL_CAD/V2.4(R2)_Trident/1_coal_with_mesh.stl
+- STL_CAD/V2.4(R2)_Trident/1_hepa.stl
+- STL_CAD/V2.4(R2)_Trident/1_lid.stl
 title: VEFACH

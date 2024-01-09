@@ -4,4 +4,7 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- corner_panel_clip_3mm.stl
+- corner_panel_clip_6mm.stl
 title: Corner panel clip

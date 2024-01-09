@@ -5,4 +5,11 @@ images:
 - Screwdriver_Holder.png
 mod_version: 1
 printer_compatibility: []
+stl:
+- Caliper_Hex_Holder.stl
+- Panel_Spacer_35mm_0.125in.stl
+- Panel_Spacer_35mm_0.25in.stl
+- Panel_Spacer_45mm_0.125in.stl
+- Panel_Spacer_45mm_0.25in.stl
+- Screwdriver_Holder.stl
 title: Tool Holders

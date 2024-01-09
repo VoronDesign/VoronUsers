@@ -11,4 +11,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Raspberry_Pi_Camera_Mount.stl
 title: Raspberry Pi Camera Mount

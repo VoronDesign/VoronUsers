@@ -12,4 +12,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/SB_MQT_TH_Front.stl
+- STL/SB_MQT_TH_Rear_CW2.stl
 title: Crazy Mozzie HF toolhead SB+CW2

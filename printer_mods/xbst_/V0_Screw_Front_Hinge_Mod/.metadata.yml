@@ -4,4 +4,12 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Bottom_Corner.stl
+- Bottom_Corner_Hinge.stl
+- Corner_Drill_Guide.stl
+- Handle.stl
+- Handle_Drill_Guide.stl
+- Top_Corner.stl
+- Top_Corner_Hinge.stl
 title: Screwed Front Door Hinge

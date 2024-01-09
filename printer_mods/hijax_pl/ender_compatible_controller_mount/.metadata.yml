@@ -4,4 +4,7 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- ender_compatible_din_rotated.stl
+- ender_compatible_legacy.stl
 title: Controler Board adapters

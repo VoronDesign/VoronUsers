@@ -9,4 +9,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STL/SSD1306-Cover.stl
 title: SSD1306 Case Front Cover

@@ -6,4 +6,7 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- Swing_Arm_Long_4mm_ext.STL
+- Swing_Arm_Short_ext_4mm.STL
 title: LCD bracket extended

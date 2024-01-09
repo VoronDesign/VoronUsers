@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Left_x2.stl
+- Panel.stl
+- Right_x2.stl
 title: V0 Electronics Cover

@@ -7,4 +7,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- lakai_exhaust_grill.stl
+- lakai_middle.stl
+- lakai_side_left_350mm.stl
+- lakai_side_right_350mm.stl
+- lakai_valance_a_350mm.stl
+- lakai_valance_b_350mm.stl
 title: Bruag Skirts

@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- mobius_shaft_jig.stl
 title: Mobius Shaft Jig

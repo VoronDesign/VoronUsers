@@ -1,6 +1,7 @@
 cad:
 - CAD/V0.1-Stealth_Zero.step
-description: A low poly gantry with front tensioners and optional front mounted x rail
+description: A low poly gantry with front tensioners and optional front mounted x
+  rail
 images:
 - Images/V0.1-Complete_Gantry.png
 - Images/V0.1-B_Motor_Inner_Front.png
@@ -13,4 +14,37 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- Motor_Frames/V0.1-A_Drive_Frame_Lower_x1.stl
+- Motor_Frames/V0.1-A_Drive_Frame_Upper_x1.stl
+- Motor_Frames/V0.1-B_Drive_Frame_Lower_x1.stl
+- Motor_Frames/V0.1-B_Drive_Frame_Upper_x1.stl
+- Motor_Frames/[a]_V0.1-A_Drive_Cap_x1.stl
+- Motor_Frames/[a]_V0.1-A_Drive_Frame_Middle_x1.stl
+- Motor_Frames/[a]_V0.1-B_Drive_Cap_x1.stl
+- Motor_Frames/[a]_V0.1-B_Drive_Frame_Middle_x1.stl
+- Motor_Frames/[a]_V0.1-Lower_Corner_Rear_Left_x1.stl
+- Motor_Frames/[a]_V0.1-Lower_Corner_Rear_Right_x1.stl
+- Tensioners/V0.1-A_Tensioner_Housing_x1.stl
+- Tensioners/V0.1-B_Tensioner_Housing_x1.stl
+- Tensioners/[a]_Tensioner_x2.stl
+- Tensioners/[a]_V0.1-Lower_Corner_Front_Left_x1.stl
+- Tensioners/[a]_V0.1-Lower_Corner_Front_Right_x1.stl
+- XY_Joints/[a]_X_Endstop_Bumper_x1.stl
+- XY_Joints/Front_Rail/XY_Joint_Left_Bottom_x1.stl
+- XY_Joints/Front_Rail/XY_Joint_Left_Top_x1.stl
+- XY_Joints/Front_Rail/XY_Joint_Right_Bottom_x1.stl
+- XY_Joints/Front_Rail/XY_Joint_Right_Top_x1.stl
+- XY_Joints/Front_Rail/[a]_XY_Joint_Left_Mid_x1.stl
+- XY_Joints/Front_Rail/[a]_XY_Joint_Right_Mid_x1.stl
+- XY_Joints/Top_Rail/XY_Joint_Left_Bottom_x1.stl
+- XY_Joints/Top_Rail/XY_Joint_Left_Top_x1.stl
+- XY_Joints/Top_Rail/XY_Joint_Right_Bottom_x1.stl
+- XY_Joints/Top_Rail/XY_Joint_Right_Top_x1.stl
+- XY_Joints/Top_Rail/[a]_XY_Joint_Left_Mid_x1.stl
+- XY_Joints/Top_Rail/[a]_XY_Joint_Right_Mid_x1.stl
+- X_Axis/X_Carriage_x1.stl
+- X_Axis/[a]_X-Endstop_Frame_x1.stl
+- X_Axis/[a]_Y-Endstop_Frame_x1.stl
+- X_Axis/[a]_Y_Endstop_Bumper_x1.stl
 title: Stealth Zero

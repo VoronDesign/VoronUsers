@@ -15,4 +15,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- stl/Chain_Anchor_-_IGUS_v9.stl
 title: Chain Anchor - ADXL345 mount Mod

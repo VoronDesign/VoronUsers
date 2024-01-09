@@ -6,4 +6,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/Back_Panel_Lower.stl
+- STL/Back_Panel_Upper.stl
 title: V0.1 Two Piece Back Panel

@@ -3,5 +3,8 @@ description: An extra tab added to the Z idler to prevent sagging / rotation
 images: []
 mod_version: 1
 printer_compatibility:
-  - V2.1
+- V2.1
+stl:
+- z_idler_frame_a_EXTRA-TAB_x2.stl
+- z_idler_frame_b_EXTRA-TAB_x2.stl
 title: Z Idler Frame Extra Tab

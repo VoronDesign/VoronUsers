@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- DIODER_led_strip_mount.STL
 title: Led strip mount DIODER

@@ -1,7 +1,9 @@
 cad:
-  - dial_indicator_fan_mount.f3d
+- dial_indicator_fan_mount.f3d
 description: Dial Indicator Fan Mount
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- dial_indicator_fan_mount.stl
 title: Dial Indicator Fan Mount

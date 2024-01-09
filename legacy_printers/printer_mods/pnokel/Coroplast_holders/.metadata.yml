@@ -3,4 +3,10 @@ description: Different coroplast holders for added support
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- Coroplast_Holder_Back.stl
+- Coroplast_Holder_Upper.stl
+- Coroplast_Support.stl
+- Lower_Cable_Hole.stl
+- Upper_Cable_Hole.stl
 title: Coroplast holders

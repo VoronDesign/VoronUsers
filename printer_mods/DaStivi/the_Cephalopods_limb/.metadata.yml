@@ -12,4 +12,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/Octopus_limbs_bracket.stl
+- STL/Simple_Octopus_Bracket_v2.stl
 title: The Cephalopod limb (BTT Octopus PRO Bracket(s))

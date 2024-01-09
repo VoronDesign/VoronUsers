@@ -12,4 +12,45 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/Deck/deck_front_left.stl
+- STL/Deck/deck_front_right.stl
+- STL/Deck/deck_rear_left.stl
+- STL/Deck/deck_rear_right.stl
+- STL/Deck/[a]_deck_y_chain_anchor.stl
+- STL/Electronics/2020_ziptie_clip.stl
+- STL/Electronics/[a]_ps_clamp.stl
+- STL/Electronics/[a]_ps_hanger.stl
+- STL/Electronics/[a]_rpi3_mount.stl
+- STL/Electronics/[a]_rpi3_shelf.stl
+- STL/Electronics/[a]_rs_25_hanger.stl
+- STL/Electronics/[a]_skr_mini_e3_mount.stl
+- STL/Grill/grill_front_left.stl
+- STL/Grill/grill_front_right.stl
+- STL/Grill/grill_rear_left.stl
+- STL/Grill/grill_rear_right.stl
+- STL/Grill/[a]_grill_endcap_x4.stl
+- STL/Misc/4040_rail_tool.stl
+- STL/XZ-Axis/keybak_mount_plate_a.stl
+- STL/XZ-Axis/keybak_mount_plate_b.stl
+- STL/XZ-Axis/xz_block_left_a.stl
+- STL/XZ-Axis/xz_block_left_b.stl
+- STL/XZ-Axis/xz_block_right_a.stl
+- STL/XZ-Axis/xz_block_right_b.stl
+- STL/XZ-Axis/x_motor_mount_a.stl
+- STL/XZ-Axis/x_motor_mount_b.stl
+- STL/XZ-Axis/z_bearing_block_left.stl
+- STL/XZ-Axis/z_bearing_block_right_generic.stl
+- STL/XZ-Axis/z_carriage_stop_x2.stl
+- STL/XZ-Axis/z_motor_mount_a.stl
+- STL/XZ-Axis/z_motor_mount_b.stl
+- STL/XZ-Axis/[a]_xz_cable_cover.stl
+- STL/Y-Axis/y_axis_bed_carriage.stl
+- STL/Y-Axis/[a]_y_axis_anchor_x2.stl
+- STL/Y-Axis/[a]_y_axis_frame_chain_anchor.stl
+- STL/Y-Axis/[a]_y_axis_ls_mount.stl
+- STL/Y-Axis/[a]_y_front_belt_mount.stl
+- STL/Y-Axis/[a]_y_front_belt_slider.stl
+- STL/Y-Axis/[a]_y_motor_mount_a.stl
+- STL/Y-Axis/[a]_y_motor_mount_b.stl
 title: Ender 3 Pro or V2 to Switchwire Mod

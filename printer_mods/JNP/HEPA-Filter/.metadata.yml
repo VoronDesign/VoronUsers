@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/HEPA_Fan_mounting.stl
+- STLs/HEPA_Filter_Cage.stl
 title: Hepa Filter

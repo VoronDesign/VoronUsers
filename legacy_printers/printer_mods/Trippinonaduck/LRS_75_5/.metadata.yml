@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- LRS-75-5.stl
 title: LRS-75-5

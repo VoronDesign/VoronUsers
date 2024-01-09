@@ -4,4 +4,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Duet_3_3HC_Bracket.stl
 title: Duet 3 3HC Din Bracket

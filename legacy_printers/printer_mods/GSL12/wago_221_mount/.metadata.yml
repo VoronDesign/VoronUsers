@@ -9,4 +9,8 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- WAGO_221-413_mount-2x3.stl
+- WAGO_221-413_mount-3x3.stl
+- WAGO_221-415_mount-3x5.stl
 title: WAGO 221 Mounts

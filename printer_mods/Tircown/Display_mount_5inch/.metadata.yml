@@ -8,4 +8,18 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- display5inch_arm_a.stl
+- display5inch_arm_b.stl
+- display5inch_case.stl
+- display5inch_case_moretolerance.stl
+- display5inch_front_rear_skirt_a_250.stl
+- display5inch_front_rear_skirt_a_300.stl
+- display5inch_front_rear_skirt_a_350.stl
+- display5inch_front_rear_skirt_b_250.stl
+- display5inch_front_rear_skirt_b_300.stl
+- display5inch_front_rear_skirt_b_350.stl
+- display5inch_optional_microsd_holder.stl
+- display5inch_optional_sd_holder.stl
+- display5inch_slide_x2.stl
 title: Display mount 5"

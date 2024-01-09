@@ -9,4 +9,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- RPi_Frame_with_Heatsink_90deg.stl
 title: Rotated Pi Mount with Heatsink

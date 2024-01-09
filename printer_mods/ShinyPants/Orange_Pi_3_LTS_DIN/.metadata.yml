@@ -8,4 +8,6 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STLs/OrangePi_Bracket.STL
 title: OrangePi 3 LTS DIN Rail bracket

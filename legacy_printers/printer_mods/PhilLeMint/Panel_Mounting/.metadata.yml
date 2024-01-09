@@ -7,4 +7,7 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- corner-panel_clip_3_32_foam.STL
+- mid-panel_clip_3_32_foam.STL
 title: Panel Mounting

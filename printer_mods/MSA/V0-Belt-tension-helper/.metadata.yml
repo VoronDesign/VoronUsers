@@ -19,4 +19,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/belttool-btm_v2.stl
+- STL/belttool-top_v2.stl
 title: Belt tension helper

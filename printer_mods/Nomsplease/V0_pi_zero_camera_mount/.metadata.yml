@@ -6,4 +6,7 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- camera_mount.stl
+- pi_zero_mount.stl
 title: Pi Cam/ZeroW Mount

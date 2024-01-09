@@ -28,4 +28,14 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- kirigami_adaptor/STLs/kirigami-belt-front.stl
+- kirigami_adaptor/STLs/kirigami-belt-rear.stl
+- STLs/80T_gear_7mm.stl
+- STLs/bed_mount.stl
+- STLs/end_plate.stl
+- STLs/lower_belt_end_holder.stl
+- STLs/motor_plate.stl
+- STLs/top_idler.stl
+- STLs/upper_belt_end_holder.stl
 title: V0.1 Movable Pulley Z Drive

@@ -13,4 +13,8 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STL/Long_Arm.stl
+- STL/Mount.stl
+- STL/Short_Arm.stl
 title: Bowden Tube Guide

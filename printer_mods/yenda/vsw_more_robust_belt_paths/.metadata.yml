@@ -15,4 +15,15 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- stl/xz_block_left_a_x1.stl
+- stl/xz_block_left_b_x1.stl
+- stl/xz_block_right_a_x1.stl
+- stl/xz_block_right_b_x1.stl
+- stl/x_motor_mount_a_x1.stl
+- stl/x_motor_mount_b_x1.stl
+- stl/z_motor_mount_a_x1.stl
+- stl/z_motor_mount_b_x1.stl
+- stl/[a]_upper_idler_support_b_left_x1.stl
+- stl/[a]_upper_idler_support_b_right_x1.stl
 title: SW More Robust XZ Belt Paths

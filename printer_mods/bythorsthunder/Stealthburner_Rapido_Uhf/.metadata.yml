@@ -10,4 +10,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL_FILES/Stealth_Rapido_UHF_Toolhead_Front.stl
+- STL_FILES/[a]_Stealth_Rapido_UHF_Front.stl
 title: Stealthburner Rapido UHF

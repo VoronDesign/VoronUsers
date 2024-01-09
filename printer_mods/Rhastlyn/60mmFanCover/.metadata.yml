@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/60mm_fan_grill_rev1.stl
 title: 60mm Fan Cover

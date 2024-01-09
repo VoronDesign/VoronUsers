@@ -10,4 +10,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/LED-Tophat-Logo-Insert.stl
+- STLs/LED-Tophat-Main-Body.stl
+- STLs/LED-Tophat-Top-Cover.stl
 title: V0.1 LED Tophat

@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- rail.stl
+- rail_camera_mount.stl
+- rail_zip_tie_mount.stl
 title: Lights, Camera, Voron

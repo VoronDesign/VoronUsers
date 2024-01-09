@@ -15,4 +15,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- 1515_SnapIn_LDO.stl
+- 1515_SnapIn_Makerbeam.stl
+- WAGO_221-412_3x2-mount.stl
+- WAGO_221-412_3x2-mount_screw.stl
+- WAGO_221-412_5x2-mount.stl
+- WAGO_221-413_3x3-mount-screw.stl
 title: Clippable Wago 221 Mounts

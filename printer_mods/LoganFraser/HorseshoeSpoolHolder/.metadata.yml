@@ -14,4 +14,10 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STLs/608BearingRing(6x).stl
+- STLs/ExternalSpoolHolder.stl
+- STLs/PlasticBolt(x3).stl
+- STLs/ShortPlasticBolt(3x).stl
+- STLs/Trident_InternalSpoolHolder.stl
 title: HorseshoeSpoolHolder

@@ -12,4 +12,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- STL/feed_slot.stl
+- STL/feed_slot_clamp_x2.stl
 title: Feed slot with filament pass-through

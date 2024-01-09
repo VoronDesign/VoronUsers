@@ -7,4 +7,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/SpoolHolder.stl
+- STL/CornerPanel/CornerPanel_2.5mm.stl
+- STL/CornerPanel/CornerPanel_2mm.stl
+- STL/CornerPanel/CornerPanel_3.25mm.stl
+- STL/CornerPanel/CornerPanel_3mm.stl
 title: CornerPanel_SpoolHolder

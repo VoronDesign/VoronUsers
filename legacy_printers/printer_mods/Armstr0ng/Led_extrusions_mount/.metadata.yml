@@ -5,4 +5,8 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- led-extrusion-cap-left.stl
+- led-extrusion-cap-right.stl
+- led-extrusion-link.stl
 title: Led extrusions mount

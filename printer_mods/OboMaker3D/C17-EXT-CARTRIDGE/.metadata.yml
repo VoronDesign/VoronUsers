@@ -10,4 +10,7 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STLs/1_Filter_Grid.stl
+- STLs/2_Filter.stl
 title: C17-EXT-CARTRIDGE for C17-EXT filter

@@ -12,4 +12,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/face_plate_bottom.stl
+- STLs/face_plate_embossed_logo.stl
+- STLs/face_plate_no_logo.stl
+- STLs/face_plate_through_logo.stl
+- STLs/side_mount.stl
+- STLs/side_mount_brimed.stl
 title: 270 Clamping Hinges

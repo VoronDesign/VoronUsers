@@ -10,4 +10,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Cable_Clip_Tophat_Corner_x2.STL
+- STLs/Cable_Clip_Tophat_x2.STL
+- STLs/V0_C920_Mount.STL
 title: V0 C920 Tophat Mount

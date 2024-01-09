@@ -12,4 +12,6 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/AB_Turbo_Mod_Front.stl
 title: Afterburner Turbo Mod

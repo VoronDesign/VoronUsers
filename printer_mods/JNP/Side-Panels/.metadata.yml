@@ -11,4 +11,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Panel_left.stl
+- STLs/Panel_right.stl
 title: Side Panels

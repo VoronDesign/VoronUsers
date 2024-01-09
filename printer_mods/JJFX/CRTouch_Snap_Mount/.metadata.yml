@@ -17,4 +17,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- CRTouch-mount.stl
+- CRTouch-spacer.stl
 title: 'V2.4 CR Touch Snap Mount '

@@ -16,4 +16,9 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- 10x11-chain-endcap1_nosupport.STL
+- 10x11-chain-endcap1_support.STL
+- 10x11-chain-endcap2_nosupport.STL
+- 10x11-chain-endcap2_support.STL
 title: 10x11 Cable Chain Endcaps

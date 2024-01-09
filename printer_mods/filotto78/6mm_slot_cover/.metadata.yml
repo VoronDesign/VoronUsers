@@ -10,4 +10,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/slot_cover.stl
+- STL/slot_cover_one_side.stl
 title: 6mm slot cover

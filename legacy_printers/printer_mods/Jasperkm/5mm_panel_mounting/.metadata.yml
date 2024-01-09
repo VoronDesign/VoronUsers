@@ -5,4 +5,11 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- Front_panel/lock_body_5mm_x4_Rev1.STL
+- Front_panel/[a]_latch_lhs_5mm_x2_rev1.STL
+- Front_panel/[a]_latch_rhs_5mm_x2_rev1.STL
+- Side_and_top_panels/corner_lock_body_5mm_x12_Rev1.stl
+- Side_and_top_panels/lock_body_5mm_x10_Rev1.STL
+- Side_and_top_panels/[a]_key_5mm_x34_rev1.STL
 title: 5mm panel mounting

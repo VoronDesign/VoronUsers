@@ -14,4 +14,9 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- STL/BMGobius_Body_A.STL
+- STL/BMGobius_Body_B.STL
+- STL/BMGobius_Idler_A.STL
+- STL/BMGobius_Idler_B.STL
 title: BMGobius

@@ -9,4 +9,6 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/lgx_lite_side_can_mount.stl
 title: LGX Lite CAN Side Mount

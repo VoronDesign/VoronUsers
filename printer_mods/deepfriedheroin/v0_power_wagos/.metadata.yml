@@ -9,4 +9,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- stl/v0_3x3_wago_v2.stl
 title: v0 Power Wagos

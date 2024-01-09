@@ -5,4 +5,9 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Mounting_Plate_v2.stl
+- Panel_Mount_v2.stl
+- Side_Mounting_Plate.stl
+- Side_Panel_Mount.stl
 title: V0 Magnetic Panels

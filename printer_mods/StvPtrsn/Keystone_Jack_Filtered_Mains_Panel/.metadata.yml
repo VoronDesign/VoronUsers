@@ -9,4 +9,15 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Plug_Panel_Filtered_mains_keystone.stl
+- STL/rear_skirt_fmks_a_250.stl
+- STL/rear_skirt_fmks_a_300.stl
+- STL/rear_skirt_fmks_a_320.stl
+- STL/rear_skirt_fmks_a_350.stl
+- STL/rear_skirt_fmks_b_250.stl
+- STL/rear_skirt_fmks_b_300.stl
+- STL/rear_skirt_fmks_b_320.stl
+- STL/rear_skirt_fmks_b_350.stl
+- STL/[a]_keystone_blank_insert.stl
 title: Keystone Jack for Filtered Mains Panel

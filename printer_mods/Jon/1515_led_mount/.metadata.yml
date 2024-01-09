@@ -10,4 +10,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/1515_Led_Diffuser_Left_x9.stl
+- STL/1515_Led_Diffuser_Right_x9.stl
 title: 1515 LED Mount

@@ -8,4 +8,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- blower_case.stl
+- blower_lid.stl
+- duct.stl
+- hotend_fan_cover.stl
+- v_5010_case.stl
+- v_5010_lid.stl
 title: Slenderfan for Afterburner

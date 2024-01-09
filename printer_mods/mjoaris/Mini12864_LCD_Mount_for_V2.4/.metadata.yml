@@ -16,4 +16,10 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- base.STL
+- rear_cover.STL
+- '[a]_display_cover.STL'
+- '[a]_hinge.stl'
+- CAD/Alternative_base_(No_Heatset_Inserts)/LCD_Front_holes.STL
 title: Mini12864 LCD Mount

@@ -7,4 +7,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- mains_plug_panel_with_rj45.stl
 title: Mains Plug Panel with RJ45

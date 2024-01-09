@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Voron_V0_MW_PS_Bracket.stl
 title: Voron V0 Mean Well power supply bracket (Funssor Kit)

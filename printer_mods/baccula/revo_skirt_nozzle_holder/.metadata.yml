@@ -11,4 +11,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/skirt_350.stl
+- STL/[a]_nozzle_holder.stl
 title: Revo Nozzle Holder for v2.4 350

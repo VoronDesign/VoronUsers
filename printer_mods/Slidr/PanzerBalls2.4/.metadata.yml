@@ -6,4 +6,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- 01-Normal/[a]_PanzerBall_x4.stl
+- 02-Optional_z-Drive-Mod/[a]_PanzerBall_Tensioner_Type1_x2.stl
+- 02-Optional_z-Drive-Mod/[a]_PanzerBall_Tensioner_Type2_x2.stl
 title: PanzerBalls 2.4

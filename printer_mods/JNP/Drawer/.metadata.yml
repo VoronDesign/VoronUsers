@@ -11,4 +11,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Drawer_A.stl
+- STLs/Drawer_B.stl
+- STLs/Drawer_C.stl
+- STLs/Knob.stl
+- STLs/Skirt_left.stl
+- STLs/Skirt_right.stl
 title: Drawer

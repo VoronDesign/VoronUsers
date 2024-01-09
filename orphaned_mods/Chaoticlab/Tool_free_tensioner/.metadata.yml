@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/bracket.stl
+- STL/tensioner.stl
+- STL/wheel.stl
 title: Tool_free_tensioner

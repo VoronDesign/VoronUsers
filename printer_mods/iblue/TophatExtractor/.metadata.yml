@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/tophat_with_extractor_part_back.stl
+- STL/tophat_with_extractor_part_front.stl
 title: V0.1 Tophat Extractor

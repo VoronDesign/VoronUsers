@@ -10,4 +10,6 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/ToolheadPCBtoCANAdapter.stl
 title: Toolhead PCB to CAN Mount Adaptor

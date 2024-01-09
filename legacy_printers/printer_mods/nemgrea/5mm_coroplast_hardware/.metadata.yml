@@ -3,4 +3,8 @@ description: 5mm Coroplast Hardware
 images: []
 mod_version: 1
 printer_compatibility: []
+stl:
+- 5mm_frame_spacer.STL
+- 5mm_rear_coroplast_clip_x4.STL
+- 5mm_spool_holder.STL
 title: 5mm Coroplast Hardware

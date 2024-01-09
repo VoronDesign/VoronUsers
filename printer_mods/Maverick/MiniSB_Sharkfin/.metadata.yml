@@ -10,4 +10,6 @@ printer_compatibility:
 - V2.4
 - VSW
 - VT
+stl:
+- STL/Sharkfin_MiniSB_cowling.stl
 title: MiniSB_Sharkfin

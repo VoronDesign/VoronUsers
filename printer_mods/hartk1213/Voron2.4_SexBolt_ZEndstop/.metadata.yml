@@ -15,4 +15,10 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- STLs/EndstopHousingBlank.stl
+- STLs/EndstopHousingPissedOff.stl
+- STLs/EndstopHousingSmile.stl
+- STLs/EndstopHousingVoronLogo.stl
+- STLs/TridentSexBolt.stl
 title: Voron2.4 SexBolt ZEndstop

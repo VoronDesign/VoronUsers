@@ -3,7 +3,11 @@ description: Different mounts for Wago connectors
 images: []
 mod_version: 1
 printer_compatibility:
-  - V1.6
-  - V2.1
-  - V2.2
+- V1.6
+- V2.1
+- V2.2
+stl:
+- wago_mount-222-412-use_supports-.stl
+- wago_mount-222-413-use_supports-.stl
+- wago_mount-222-415-use_supports-.stl
 title: Wago Mounts

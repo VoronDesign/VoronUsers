@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/TL_filament_sensor_bracket.stl
 title: TL filament sensor bracket

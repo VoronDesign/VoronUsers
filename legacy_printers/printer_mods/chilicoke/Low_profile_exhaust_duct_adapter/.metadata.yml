@@ -7,4 +7,10 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- duct_connecting_tube.v2.stl
+- duct_grill.stl
+- duct_lower_body.v2.stl
+- duct_rear_body.v2.stl
+- fan_magnetic_grill.stl
 title: Low Profile Exhaust Duct

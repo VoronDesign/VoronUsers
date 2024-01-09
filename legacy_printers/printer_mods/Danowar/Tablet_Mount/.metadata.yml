@@ -6,4 +6,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- Tablet_Adapter.stl
+- Tablet_Mount.stl
 title: Tablet mount

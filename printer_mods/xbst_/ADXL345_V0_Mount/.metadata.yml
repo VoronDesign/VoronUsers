@@ -5,4 +5,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- A.stl
+- B.stl
 title: ADXL345 V0 Mount

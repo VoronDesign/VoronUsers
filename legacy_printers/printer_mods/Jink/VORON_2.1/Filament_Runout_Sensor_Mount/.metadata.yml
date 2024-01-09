@@ -6,4 +6,6 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- Filament_Runout_Sensor_Mount.STL
 title: Filament runout sensor mount

@@ -10,4 +10,9 @@ printer_compatibility:
 - V1.8
 - V2.4
 - VT
+stl:
+- STL/exhaust_filter_housing.stl
+- STL/[a]_exhaust_housing_insert_plug.stl
+- STL/[a]_exhaust_housing_insert_thread.stl
+- STL/[a]_filter_access_cover.stl
 title: Side entry exhaust housing

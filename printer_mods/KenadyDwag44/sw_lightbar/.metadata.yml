@@ -5,4 +5,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- SW_lightbar_led_holder_modified_x1.stl
+- SW_lightbar_left_mount_x1.stl
+- SW_lightbar_right_mount_x1.stl
 title: Switchwire Lightbar

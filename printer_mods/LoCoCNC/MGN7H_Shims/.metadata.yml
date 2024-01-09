@@ -4,4 +4,7 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- mgn7_spacer_2.stl
+- mgn7_spacer_3.stl
 title: MGN7H Shims

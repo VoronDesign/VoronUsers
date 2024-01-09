@@ -10,4 +10,7 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- 10x11_Befenybay_Chain_Top_Anchor.stl
+- Triangle_Hole_Pattern_End_Mount_to_2020.stl
 title: Befenybay Chain Anchors

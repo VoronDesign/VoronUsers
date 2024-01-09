@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- stl/v0_skirt_Front_mod.STL
 title: V0 OLED-skirt

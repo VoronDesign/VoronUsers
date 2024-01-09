@@ -1,13 +1,18 @@
 cad: []
 description: Alternative fumes extraction solution
 images:
-  - img/installed.jpg
-  - img/assembly_bottom.jpg
-  - img/assembly_top.jpg
-  - img/explode.png
-  - img/turbocharger.png
+- img/installed.jpg
+- img/assembly_bottom.jpg
+- img/assembly_top.jpg
+- img/explode.png
+- img/turbocharger.png
 mod_version: 1
 printer_compatibility:
-  - V2.1
-  - V2.2
+- V2.1
+- V2.2
+stl:
+- base.stl
+- fan_duct.stl
+- hose_adapter_100mm.stl
+- hose_adapter_80mm.stl
 title: Turbocharger

@@ -10,4 +10,6 @@ mod_version: 1
 printer_compatibility:
 - V2.4
 - VT
+stl:
+- stl/ssd_bracket.stl
 title: ssd_bracket

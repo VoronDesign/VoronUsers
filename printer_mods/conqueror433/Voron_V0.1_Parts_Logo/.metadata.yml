@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Voron_V0_Parts_Logo.stl
 title: Voron V0.1 Parts Logo

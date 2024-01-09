@@ -5,4 +5,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Dial_indicator_AB_beta.stl
+- Rail_adjust_body.stl
 title: Rail Alignment

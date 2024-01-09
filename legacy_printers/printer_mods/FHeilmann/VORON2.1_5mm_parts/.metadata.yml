@@ -4,4 +4,17 @@ images: []
 mod_version: 1
 printer_compatibility:
 - V2.1
+stl:
+- idler_frame_left_lower_5mm.stl
+- idler_frame_left_upper_5mm.stl
+- idler_frame_right_lower_5mm.stl
+- idler_frame_right_upper_5mm.stl
+- lock_body_5mm_x4.stl
+- mount_base_a_5mm.stl
+- mount_base_b_5mm.stl
+- z_cable_gantry_anchor_5mm.stl
+- z_drive_front_support_a_5mm_x2.stl
+- z_drive_front_support_b_5mm_x2.stl
+- z_drive_rear_support_a_5mm_x2.stl
+- z_drive_rear_support_b_5mm_x2.stl
 title: Voron 2.1 5mm Parts

@@ -10,4 +10,21 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/Exhaust-Grill-L.stl
+- STL/Exhaust-Grill-R.stl
+- STL/[a]-VoronBlankingBackPlate-L-10mm.stl
+- STL/[a]-VoronBlankingBackPlate-L-4mm.stl
+- STL/[a]-VoronBlankingBackPlate-L-5mm.stl
+- STL/[a]-VoronBlankingBackPlate-L-6mm.stl
+- STL/[a]-VoronBlankingBackPlate-L-7mm.stl
+- STL/[a]-VoronBlankingBackPlate-L-8mm.stl
+- STL/[a]-VoronBlankingBackPlate-L-9mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-10mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-4mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-5mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-6mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-7mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-8mm.stl
+- STL/[a]-VoronBlankingBackPlate-R-9mm.stl
 title: Back blanking plate

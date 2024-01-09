@@ -10,4 +10,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- 2mm_Lower_Prototype.STL
+- Left_Handed_RAMPS_Mount.STL
 title: Left handed RAMPS mount

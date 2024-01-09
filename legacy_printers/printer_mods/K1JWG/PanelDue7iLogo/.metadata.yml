@@ -1,10 +1,11 @@
 cad: []
 description: Custom Voron 2 logo for use as a PanelDue 7i startup splash screen
 images:
-  - voron2-logo-paneldue7i.bmp
+- voron2-logo-paneldue7i.bmp
 mod_version: 1
 printer_compatibility:
-  - V1.6
-  - V2.1
-  - V2.2
+- V1.6
+- V2.1
+- V2.2
+stl: []
 title: PanelDue 7i Custom Logo

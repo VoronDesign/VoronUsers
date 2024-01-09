@@ -8,4 +8,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- STL/MKS_GenL_v1.0_Bracket_A.stl
+- STL/MKS_GenL_v1.0_Bracket_B.stl
 title: MKS GenL 1.0 Mounting Bracket

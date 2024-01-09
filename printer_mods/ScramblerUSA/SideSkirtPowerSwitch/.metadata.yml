@@ -7,4 +7,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/side_skirt_switch_250.stl
+- STL/side_skirt_switch_300.stl
+- STL/side_skirt_switch_350.stl
 title: Side Skirt Power Switch

@@ -18,4 +18,25 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- Legacy_Revisions/Rev1+2/STLs/brush_holder_rev1+2.stl
+- Legacy_Revisions/Rev1+2/STLs/brush_holder_sheet_stop_rev1+2.stl
+- Legacy_Revisions/Rev1+2/STLs/individual_sheet_stop_rev1+2.stl
+- Legacy_Revisions/Rev1+2/STLs/individual_sheet_stop_v2.2_z_endstop_rev1+2.stl
+- Legacy_Revisions/Rev1+2/STLs/purge_bucket_250mm_rev1+2.stl
+- Legacy_Revisions/Rev1+2/STLs/purge_bucket_300mm_rev1+2.stl
+- Legacy_Revisions/Rev1+2/STLs/purge_bucket_350mm_rev1+2.stl
+- Legacy_Revisions/Rev3/STLs/brush_holder_sheet_stop_rev3.stl
+- Legacy_Revisions/Rev3/STLs/individual_sheetstop_V2.2_rev3.stl
+- Legacy_Revisions/Rev3/STLs/individual_sheetstop_V2.4_rev3.stl
+- Legacy_Revisions/Rev3/STLs/purge_bucket_250mm_rev3.stl
+- Legacy_Revisions/Rev3/STLs/purge_bucket_300mm_rev3.stl
+- Legacy_Revisions/Rev3/STLs/purge_bucket_350mm_rev3.stl
+- STLs/brush_holder_sheet_stop_rev4.stl
+- STLs/extension_bracket_v1.8_rev4.stl
+- STLs/individual_sheetstop_v1.8_v2.4_rev4.stl
+- STLs/individual_sheetstop_v2.2_rev4.stl
+- STLs/purge_bucket_250mm_rev4.stl
+- STLs/purge_bucket_300mm_rev4.stl
+- STLs/purge_bucket_350mm_rev4.stl
 title: Decontaminator Purge Bucket & Nozzle Scrubber

@@ -9,4 +9,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- V0_Reverse_Bowden_Mount.stl
 title: V0 Reverse Bowden Mount

@@ -14,4 +14,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.1
+stl:
+- STL/Neopixel_Holder.stl
 title: 'Neopixel Holder '

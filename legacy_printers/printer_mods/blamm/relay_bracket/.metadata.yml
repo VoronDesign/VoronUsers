@@ -7,4 +7,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- 4relay_mount.stl
 title: Relay module bracket

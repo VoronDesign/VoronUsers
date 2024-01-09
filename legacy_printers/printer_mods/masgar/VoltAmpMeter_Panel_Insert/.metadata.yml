@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V1.6
+stl:
+- voltamp_box_panel_insert.stl
 title: VoltAmpMeter panel insert

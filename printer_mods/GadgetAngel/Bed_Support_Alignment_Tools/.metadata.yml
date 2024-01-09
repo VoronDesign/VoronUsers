@@ -11,4 +11,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Bed_Support_Alignment_Tool_250_Corners_x4.stl
+- Bed_Support_Alignment_Tool_300_Corners_x4.stl
+- Bed_Support_Alignment_Tool_350_Corners_x4.stl
+- Bed_Support_Alignment_Tool_Center_250_300_350_x2.stl
 title: Bed Support Extrusions Alignment Tools

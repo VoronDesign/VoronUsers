@@ -6,4 +6,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Door_Mount_left_x2.stl
+- Door_Mount_right_x2.stl
+- Profile_Mount_Nut_5mm_x4.stl
+- Profile_Mount_Nut_6mm_x4.stl
 title: Door hinges with M3 screws shafts

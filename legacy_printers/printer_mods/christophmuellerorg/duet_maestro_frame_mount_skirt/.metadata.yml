@@ -5,4 +5,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.2
+stl:
+- duet_maestro_board_mounting_frame.stl
+- voron2.2_assembly_side_skirt_center_duet_maestro.stl
 title: Duet Maestro mount for Voron 2.2

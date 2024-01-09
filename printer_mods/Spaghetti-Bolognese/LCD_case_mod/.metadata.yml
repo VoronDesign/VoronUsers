@@ -8,4 +8,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Mini12864_Case_Front.stl
+- Mini12864_Case_Rear.stl
 title: LCD Case Mod

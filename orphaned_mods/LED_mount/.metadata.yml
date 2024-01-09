@@ -10,4 +10,11 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- AngryLED_l_v1.stl
+- AngryLED_r_v1.stl
+- AngryLED_small_l_v1.stl
+- AngryLED_small_r_v1.stl
+- LED_mount_l_v01.stl
+- LED_mount_r_v01.stl
 title: LED mount

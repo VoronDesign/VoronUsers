@@ -7,4 +7,7 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- 4.3_PD_Back.stl
+- 4.3_PD_Front.stl
 title: 4.3 PanelDue Case

@@ -5,4 +5,6 @@ mod_version: 1
 printer_compatibility:
 - V1.8
 - V2.4
+stl:
+- Relay.stl
 title: DIN Mount Pi 4x Relay Board

@@ -9,4 +9,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STLs/Mid_Panel_new.stl
+- STLs/Mid_Panel_with_cablemanagement.stl
 title: Mid Panel

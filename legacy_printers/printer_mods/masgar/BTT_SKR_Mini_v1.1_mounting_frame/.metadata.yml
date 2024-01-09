@@ -6,4 +6,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- BTT_SKR_Mini_v1.1_mounting_frame.stl
 title: BTT SKR Mini v1.1 mounting frame

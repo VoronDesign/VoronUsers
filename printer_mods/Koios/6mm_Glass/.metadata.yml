@@ -9,4 +9,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/glass_rest.STL
+- STLs/Lock_Body.stl
+- STLs/Lock_Pin_A_x2.stl
+- STLs/Lock_Pin_B_x2.stl
 title: 6mm Tempered Glass Mod

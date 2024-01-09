@@ -5,4 +5,9 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- __SW_Panels_v2_Left_Front_Deck.stl
+- __SW_Panels_v2_Left_Rear_Deck.stl
+- __SW_Panels_v2_Right_Front_Deck.stl
+- __SW_Panels_v2_Right_Rear_Deck.stl
 title: Printable Switchwire Deck Plate

@@ -7,4 +7,16 @@ images:
 mod_version: 1
 printer_compatibility:
 - VSW
+stl:
+- Belt_Anchor.stl
+- Belt_Clamp.stl
+- Deck_Back_Left_Y.stl
+- Deck_Back_Right_Y.stl
+- Deck_Front_Left_Y.stl
+- Deck_Front_Right_Y.stl
+- Motor_Bottom_Mount.stl
+- Motor_Spacer.stl
+- Motor_Top_Mount.stl
+- Y_Idler_Bottom.stl
+- Y_Idler_Top.stl
 title: Y-Mod SW 9mm

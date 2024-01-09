@@ -9,4 +9,10 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- _opt_support_bracket_6mm_lsh.stl
+- _opt_support_bracket_6mm_rsh.stl
+- _opt_support_bracket_vslot_lsh.stl
+- _opt_support_bracket_vslot_rsh.stl
+- _panel_rest_x3.stl
 title: Panel Rest

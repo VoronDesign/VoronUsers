@@ -7,4 +7,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- Exhast_Housing_Side_Fitting.stl
 title: Exhaust housing side fitting

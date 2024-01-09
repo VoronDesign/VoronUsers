@@ -7,4 +7,6 @@ printer_compatibility:
 - V1.6
 - V2.1
 - V2.2
+stl:
+- Dual_Mobuis_Mount.stl
 title: Dual Mobius Mount

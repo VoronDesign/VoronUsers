@@ -13,4 +13,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STL/4-inch_lcd_display_frame_lower.stl
+- STL/4-inch_lcd_display_frame_upper.stl
+- STL/4-inch_lcd_display_push_button.stl
 title: Touchscreen for OctoDash

@@ -7,4 +7,6 @@ images:
 - Images/LED_Holder_Side_View.png
 mod_version: 1
 printer_compatibility: []
+stl:
+- LED_Holder_340mm.stl
 title: LED Strip Holder

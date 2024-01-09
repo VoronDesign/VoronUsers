@@ -10,4 +10,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- STLs/SKR_DIN_mount.stl
 title: SKR 1.3/1.4 DIN mount

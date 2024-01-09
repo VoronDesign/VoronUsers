@@ -11,4 +11,8 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- STL/V0.2_Handle_Part_A_x2.stl
+- STL/V0.2_Handle_Part_B_x2.stl
+- STL/[a]_V0.2_Handle_Logo_Insert_x2.stl
 title: V0.2 Handles

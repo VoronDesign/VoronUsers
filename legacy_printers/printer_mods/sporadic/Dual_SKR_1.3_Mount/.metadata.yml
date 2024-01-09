@@ -12,4 +12,8 @@ mod_version: 1
 printer_compatibility:
 - V2.1
 - V2.2
+stl:
+- Dual_SKR_1.3_Mount.stl
+- Dual_SKR_1.3_Mount_40mm_fans.stl
+- Dual_SKR_1.3_Mount_40mm_fans_Topless_.stl
 title: Dual SKR 1.3 Mounts

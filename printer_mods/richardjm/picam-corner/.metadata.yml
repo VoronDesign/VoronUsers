@@ -6,4 +6,6 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
+stl:
+- VoronZPiCamMount11.stl
 title: Picam corner mount

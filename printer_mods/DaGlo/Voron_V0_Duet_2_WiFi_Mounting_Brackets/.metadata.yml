@@ -7,4 +7,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V0.2
+stl:
+- Duet2Wifi_Mounting_Bracket.stl
+- Duet2Wifi_Mounting_Bracket_with_RPi.stl
 title: V0.1 Duet 2 Wifi mounting brackets
