@@ -1,0 +1,32 @@
+name: I want to adopt an orphaned mod
+description: You have found a mod that has been abandoned by the original author and want to update/support it? Please use this mod adoption template to let us know.
+title: "[MOD ADOPTION] <title>"
+labels: 
+  - Mod Adoption
+body:
+- type: textarea
+  attributes:
+    label: Which mod do you want to adopt?
+    placeholder: FHeilmann/flux_capacitor
+  validations:
+    required: true
+- type: textarea
+  attributes:
+    label: Describe your plans for the mod
+    description: Do you want to update/extend/fix the mod? What are your plans?
+    placeholder: I want to ...
+  validations:
+    required: true
+- type: checkboxes
+  id: owner-contacted
+  attributes:
+    label: Have you contacted the original author?
+    description: Please select the most applicable answer.
+    options:
+      - label: 'Yes'
+      - label: 'No'
+      - label: 'Original author is not reachable'
+- type: textarea
+  attributes:
+    label: Addition information
+    description: Add any other context here.
