@@ -4,7 +4,8 @@ description: Removed magnet holders on center panel for cleaner look
 images:
 - Images/CleanGrill.jpg
 mod_version: 1
-printer_compatibility: []
+printer_compatibility:
+- VSW
 stl:
 - front_mid_grill_no_magnets.stl
 title: Switchwire Clean Center Grill

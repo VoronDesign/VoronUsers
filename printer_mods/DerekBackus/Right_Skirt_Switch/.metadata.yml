@@ -6,7 +6,8 @@ images:
 - Images/ISO_View.png
 - Images/Filter_ISO_View.png
 mod_version: 1
-printer_compatibility: []
+printer_compatibility:
+- VT
 stl:
 - Filtered_Main_Skirt.stl
 - Side_Skirt_A_Switch.stl
