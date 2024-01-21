@@ -107,8 +107,8 @@ Printer mods for Voron 3D printers
 |  | [v0 Power Wagos](deepfriedheroin/v0_power_wagos) | Easy to install Wago mounts for v0 mains | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [V2 Bed Wagos](deepfriedheroin/v2_bed_wagos) | Wire management for the v2 bed | V2.4 | 2024-01-08T16:38:25+00:00 |
 | dePrintinator | [HEPA Exhaust](dePrintinator/HEPA_Filter_Exhaust) | HEPA filter chamber exhaust replacement. | V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
-| DerekBackus | [LED Strip Holder](DerekBackus/LED_Holder) | Simple bracket to mount an LED strip |  | 2024-01-08T16:38:25+00:00 |
-|  | [Trident Right Skirt Switch](DerekBackus/Right_Skirt_Switch) | Moves power switch to right front skirt on the Trident |  | 2024-01-08T16:38:25+00:00 |
+| DerekBackus | [LED Strip Holder](DerekBackus/LED_Holder) | Simple bracket to mount an LED strip | V2.4, VT | 2024-01-21T20:17:15+00:00 |
+|  | [Trident Right Skirt Switch](DerekBackus/Right_Skirt_Switch) | Moves power switch to right front skirt on the Trident | VT | 2024-01-21T20:17:15+00:00 |
 | Derpimus | [V0.1 Block Handle](Derpimus/Block_handle_v0.1) | V0.1 Block Style Handle | V0.2 | 2024-01-08T16:38:25+00:00 |
 | DorjeDorf | [Duet 3 3HC Din Bracket](DorjeDorf/Duet_3_3HC_Din_Bracket) | V2.4 Duet 3 3HC Din Bracket | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Duet 3 6HC Din Bracket](DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | V2.4 | 2024-01-08T16:38:25+00:00 |
@@ -160,7 +160,7 @@ Printer mods for Voron 3D printers
 | Gizzle | [Ender 3 and Ender 3 Pro...](Gizzle/ender-3_pro_switchwire) | Mod for the Ender 3 and Ender 3 Pro, which adapts the kinematics... | VSW | 2024-01-08T16:38:25+00:00 |
 | golas | [V0.1 Extended tophat hinge](golas/v0-extended-tophat-hinge) | Extended tophat for v0.1 with hinges (integrated or screwed ones). | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [V0.1 Trident skirt remix with...](golas/v0-trident-skirt-mix) | Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain... | V0.2 | 2024-01-08T16:38:25+00:00 |
-| GSL12 | [Pocketwatch Nema 17](GSL12/pocketwatch_nema17) | Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe... |  | 2024-01-08T16:38:25+00:00 |
+| GSL12 | [Pocketwatch Nema 17](GSL12/pocketwatch_nema17) | Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe... | V0 | 2024-01-21T20:17:15+00:00 |
 | hartk1213 | [Voron0.2 2.8 Waveshare Display](hartk1213/Voron0.2_2.8_WaveshareDisplay) | 2.8 Waveshare display for V0.2 | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [Voron0.2 Rear Keystone Skirt](hartk1213/Voron0.2_Rear_Keystone_Skirt) | Added keystone slot on rear skirt for V0.2 | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [Voron0 C14Inlet](hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that... | V0.1 | 2024-01-08T16:38:25+00:00 |
@@ -259,7 +259,7 @@ Printer mods for Voron 3D printers
 | madfabrications | [Vertical PSU Mount](madfabrications/Vertical_PSU_Mount) | Mounts the PSU vertically on the DIN rails | V2.4 | 2024-01-08T16:38:25+00:00 |
 | madros | [V0 OLED-skirt](madros/V0_skirt_OLED) | V0 skirt with 0.96" OLED | V0.2 | 2024-01-08T16:38:25+00:00 |
 | Majarspeed | [Hartk board mount galileo](Majarspeed/Hartk_Mount_Galileo) | It hangs stuff on your tool | V2.4 | 2024-01-08T16:38:25+00:00 |
-| MakeALeft | [Switchwire Clean Center Grill](MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look |  | 2024-01-08T16:38:25+00:00 |
+| MakeALeft | [Switchwire Clean Center Grill](MakeALeft/Switchwire_Front_Grill) | Removed magnet holders on center panel for cleaner look | VSW | 2024-01-21T20:17:15+00:00 |
 | MapleLeafMakers | [Kirigami Stealth Bumper](MapleLeafMakers/Kirigami_Stealth_Bumper) | an RGB-Powered front-bed mount for the Voron V0 with Kirigami Bed... | V0 | 2024-01-08T16:38:25+00:00 |
 |  | [Matchstick Diffusers](MapleLeafMakers/Matchstick_Diffusers) | Mounts and Diffusers for the popular "on-a-matchstick" LEDs | V0 | 2024-01-08T16:38:25+00:00 |
 |  | [Modesty Mesh](MapleLeafMakers/Modesty_Mesh) | Customizable mesh inserts to hide your messy electronics compartment. | V0 | 2024-01-08T16:38:25+00:00 |

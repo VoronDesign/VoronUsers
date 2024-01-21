@@ -4,7 +4,8 @@ description: Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe
 images:
 - media/pw_nema17.jpg
 mod_version: 1
-printer_compatibility: []
+printer_compatibility:
+- V0
 stl:
 - STL/VORON_Pocketwatch_Nema17_parts_Main_Body.stl
 - STL/VORON_Pocketwatch_Nema17_parts_Motor_Plate.stl

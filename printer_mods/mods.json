@@ -498,16 +498,21 @@
         "title": "LED Strip Holder",
         "creator": "DerekBackus",
         "description": "Simple bracket to mount an LED strip",
-        "printer_compatibility": [],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "printer_compatibility": [
+            "V2.4",
+            "VT"
+        ],
+        "last_changed": "2024-01-21T20:17:15+00:00"
     },
     {
         "path": "DerekBackus/Right_Skirt_Switch",
         "title": "Trident Right Skirt Switch",
         "creator": "DerekBackus",
         "description": "Moves power switch to right front skirt on the Trident",
-        "printer_compatibility": [],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "printer_compatibility": [
+            "VT"
+        ],
+        "last_changed": "2024-01-21T20:17:15+00:00"
     },
     {
         "path": "Derpimus/Block_handle_v0.1",
@@ -769,8 +774,10 @@
         "title": "Pocketwatch Nema 17",
         "creator": "GSL12",
         "description": "Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe for V0 fork with 2020 extrusions, Nema17 and MGN9 or other printers.",
-        "printer_compatibility": [],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "printer_compatibility": [
+            "V0"
+        ],
+        "last_changed": "2024-01-21T20:17:15+00:00"
     },
     {
         "path": "GadgetAngel/Bed_Support_Alignment_Tools",
@@ -1417,8 +1424,10 @@
         "title": "Switchwire Clean Center Grill",
         "creator": "MakeALeft",
         "description": "Removed magnet holders on center panel for cleaner look",
-        "printer_compatibility": [],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "printer_compatibility": [
+            "VSW"
+        ],
+        "last_changed": "2024-01-21T20:17:15+00:00"
     },
     {
         "path": "MapleLeafMakers/Kirigami_Stealth_Bumper",
