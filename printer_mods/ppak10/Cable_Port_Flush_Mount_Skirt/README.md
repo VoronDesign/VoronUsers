@@ -25,7 +25,8 @@ underneath the printer without needing to flip over the printer.
 This example uses the [Micro-HDMI and
 USB-C](https://www.amazon.com/dp/B0C68MPKHV?ref=ppx_yo2ov_dt_b_product_details&th=1)
 variant of the BATIGE Flush Mount, however other this mod is suitable for other
-variants that satisfy a [similar form factor](https://www.amazon.com/stores/BATIGE/page/ADB1F3D7-7733-487F-B5AB-6F021FF57798?ref_=ast_bln).
+variants that satisfy a [similar form factor](https://www.amazon.com/stores/BATIGE/page/ADB1F3D7-7733-487F-B5AB-6F021FF57798?ref_=ast_bln). This item is simply placed
+in the opening in the rear skirt and secured in place with its included nut.
 
 <img src="https://m.media-amazon.com/images/I/61iLuWJ7uVL._SL1500_.jpg" alt="BATIGE" width="500"/>
 
