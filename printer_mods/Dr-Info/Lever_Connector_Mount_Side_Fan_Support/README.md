@@ -1,4 +1,4 @@
-# Lever Connector Mount for Voron V2.4 and VT using Side Fan Supports
+# Lever Connector Mount using Side Fan Supports (V2.4 & VT)
 
 This allows you to mount Universal Lever Connectors or WAGO 221 using the side fan supports.
 This mod will only fit the following push connectors:
