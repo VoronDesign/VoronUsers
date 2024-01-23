@@ -8,7 +8,7 @@ It can be used for quick access to Raspberry Pi ports often out of reach
 underneath the printer without needing to flip over the printer.
 
 <div style="justify-content: center; display: flex;">
-  <img src="./Images/250_300_350_Render.png" alt="CAD" width="800"/>
+  <img src="./Images/250_300_350_Render.png" alt="CAD" width="750"/>
 </div>
 
 <div style="justify-content: center; display: flex;">
@@ -18,7 +18,7 @@ underneath the printer without needing to flip over the printer.
 </div>
 
 <div style="justify-content: center; display: flex;">
-  <img src="./Images/350_Installed.jpeg" alt="350 Installed" width="800"/>
+  <img src="./Images/350_Installed.jpeg" alt="350 Installed" width="750"/>
 </div>
 
 ## Usage
@@ -29,7 +29,8 @@ variants that satisfy a [similar form factor](https://www.amazon.com/stores/BATI
 in the opening in the rear skirt and secured in place with its included nut.
 
 <div style="justify-content: center; display: flex;">
-  <img src="./Images/batige_mount.jpg" alt="Batige Mount" width="250"/>
+  <img src="./Images/BATIGE_Front.jpeg" alt="250" width="375"/>
+  <img src="./Images/BATIGE_Rear.jpeg" alt="300" width="375"/>
 </div>
 
 ## Printing

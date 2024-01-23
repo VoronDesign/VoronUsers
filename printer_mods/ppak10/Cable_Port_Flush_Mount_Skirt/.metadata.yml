@@ -27,6 +27,8 @@ images:
 - Images/350.JPEG
 - Images/All_Sizes_2.JPEG
 - Images/All_Sizes.JPEG
+- Images/BATIGE_Front.JPEG
+- Images/BATIGE_Rear.JPEG
 # List all STL files
 stl:
 - STL/rear_center_skirt_250.STL
