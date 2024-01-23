@@ -7,19 +7,11 @@ of the raspberry pi.
 It can be used for quick access to Raspberry Pi ports often out of reach
 underneath the printer without needing to flip over the printer.
 
-<div style="justify-content: center; display: flex;">
-  <img src="./Images/250_300_350_Render.png" alt="CAD" width="750"/>
-</div>
-
-<div style="justify-content: center; display: flex;">
-  <img src="./Images/250.jpeg" alt="250" width="250"/>
-  <img src="./Images/300.jpeg" alt="300" width="250"/>
-  <img src="./Images/350.jpeg" alt="350" width="250"/>
-</div>
-
-<div style="justify-content: center; display: flex;">
-  <img src="./Images/350_Installed.jpeg" alt="350 Installed" width="750"/>
-</div>
+![250_300_350_Render](./Images/250_300_350_render.png)
+![250](./Images/250.JPEG)
+![300](./Images/300.JPEG)
+![350](./Images/350.JPEG)
+![350_Installed](./Images/350_Installed.JPEG)
 
 ## Usage
 This example uses the [Micro-HDMI and
@@ -28,10 +20,8 @@ variant of the BATIGE Flush Mount, however other this mod is suitable for other
 variants that satisfy a [similar form factor](https://www.amazon.com/stores/BATIGE/page/ADB1F3D7-7733-487F-B5AB-6F021FF57798?ref_=ast_bln). This item is simply placed
 in the opening in the rear skirt and secured in place with its included nut.
 
-<div style="justify-content: center; display: flex;">
-  <img src="./Images/BATIGE_Front.jpeg" alt="250" width="375"/>
-  <img src="./Images/BATIGE_Rear.jpeg" alt="300" width="375"/>
-</div>
+![BATIGE_Front](./Images/BATIGE_Front.JPEG)
+![BATIGE_Rear](./Images/BATIGE_Rear.JPEG)
 
 ## Printing
 
