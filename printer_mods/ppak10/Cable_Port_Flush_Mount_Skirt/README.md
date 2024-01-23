@@ -7,7 +7,7 @@ of the raspberry pi.
 It can be used for quick access to Raspberry Pi ports often out of reach
 underneath the printer without needing to flip over the printer.
 
-![250_300_350_Render](./Images/250_300_350_render.png)
+![250_300_350_Render](./Images/250_300_350_Render.png)
 ![All_Sizes_2](./Images/All_Sizes_2.JPEG)
 ![250](./Images/250.JPEG)
 ![300](./Images/300.JPEG)
