@@ -7,7 +7,7 @@ images:
 mod_version: 1
 printer_compatibility:
 - V2.4
-- V2.4
+- VT
 stl:
 - STL/PSU_stabilizer_35_to_55mm.stl
 - STL/PSU_stabilizer_35_to_95mm.stl
