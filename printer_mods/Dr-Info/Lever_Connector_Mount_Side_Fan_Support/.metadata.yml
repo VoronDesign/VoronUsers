@@ -5,7 +5,8 @@ images:
 - Images/lever_connector_side_fan_support.jpg
 mod_version: 1
 printer_compatibility:
-- V2.4, VT
+- V2.4
+- VT
 stl:
 - STL/ulc3_fan_mount_side_fan_support.stl
 - STL/ulc5_fan_mount_side_fan_support.stl
