@@ -6,7 +6,8 @@ images:
 - Images/lrs_offset.jpg
 mod_version: 1
 printer_compatibility:
-- V2.4, VT
+- V2.4
+- V2.4
 stl:
 - STL/PSU_stabilizer_35_to_55mm.stl
 - STL/PSU_stabilizer_35_to_95mm.stl
