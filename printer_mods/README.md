@@ -316,6 +316,7 @@ Printer mods for Voron 3D printers
 |  | [V0.1 Two Piece Back Panel](Polar-Ted/V0_Two_Piece_Back_Panel) | Vented 2 piece back panel for V0 | V0.2 | 2024-01-08T16:38:25+00:00 |
 | Polared | [Power Inlet with Keystone Insert](Polared/Power_Inlet_w_Keystone_Insert) | Voron 0.1 Power inlet with keystone insert slot | V0.2 | 2024-01-08T16:38:25+00:00 |
 | ponkotsu1 | [V0 Launchpad Skirt](ponkotsu1/V0_Launchpad_Skirt) | Another style V0 skirt | V0 | 2024-01-08T16:38:25+00:00 |
+| ppak10 | [Cable Port Flush Mount Skirt](ppak10/Cable_Port_Flush_Mount_Skirt) | Provides an inlet to mount BATIGE circular cable adapter ports on... | V2.4r2 | 2024-01-25T17:26:27+00:00 |
 | prasadp4009 | [StealthBurner CR Touch Mod](prasadp4009/SW_SB_CRTouch) | Voron SW StealthBurner CR Touch Mod | VSW | 2024-01-08T16:38:25+00:00 |
 | Printopal | [Magnetic top panel](Printopal/Magnetic_top_panel) | Top panel with magnets allows for quick installation and removal | V1.8, V2.4 | 2024-01-08T16:38:25+00:00 |
 | PsychoShaft | [C92X_PsycHoShafts_Mount](PsychoShaft/C92X_PsycHoShafts_Mount) | 2020 Top profile 920 camera mount / 2 point axis pivot | V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |

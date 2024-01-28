@@ -3620,6 +3620,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "ppak10/Cable_Port_Flush_Mount_Skirt",
+        "title": "Cable Port Flush Mount Skirt",
+        "creator": "ppak10",
+        "description": "Provides an inlet to mount BATIGE circular cable adapter ports on the rear center skirt (250, 300, and 350) allowing easy access to display and USB headers of the raspberry pi.",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-01-25T17:26:27+00:00"
+    },
+    {
         "path": "prasadp4009/SW_SB_CRTouch",
         "title": "StealthBurner CR Touch Mod",
         "creator": "prasadp4009",
