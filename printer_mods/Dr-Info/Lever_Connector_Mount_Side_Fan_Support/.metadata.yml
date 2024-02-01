@@ -1,0 +1,15 @@
+cad:
+- CAD/lever_connector_mount_side_fan_support.step
+description: Mount Universal Lever Connectors or WAGO 221 using the side fan support.
+images:
+- Images/lever_connector_side_fan_support.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+stl:
+- STL/ulc3_fan_mount_side_fan_support.stl
+- STL/ulc5_fan_mount_side_fan_support.stl
+- STL/wago_221_413_fan_mount_side_fan_support.stl
+- STL/wago_221_415_fan_mount_side_fan_support.stl
+title: Lever Connector Mount Side Fan Support

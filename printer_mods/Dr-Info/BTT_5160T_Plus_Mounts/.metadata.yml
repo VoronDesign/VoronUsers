@@ -1,0 +1,23 @@
+cad:
+- CAD/mounts_btt_5160t_plus.step
+description: Mounts for BTT 5160T Plus to DIN, 2020 and 1515
+images:
+- Images/5160T_plus_mount_bottom.jpg
+- Images/5160T_plus_mount_top.jpg
+- Images/5160T_plus_mounts.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+stl:
+- STL/Air_Cooled/30mm_fan_shroud_5160T_plus_x2.stl
+- STL/Air_Cooled/40mm_fan_shroud_5160T_plus_x2.stl
+- STL/Air_Cooled/50mm_fan_shroud_5160T_plus_x2.stl
+- STL/Mounts_and_Brackets/1515_bracket_5160T_plus.stl
+- STL/Mounts_and_Brackets/2020_bracket_5160T_plus.stl
+- STL/Mounts_and_Brackets/1515_bracket_5160T_plus.stl
+- STL/Mounts_and_Brackets/bracket_pair_5160T_plus_x2.stl
+- STL/Mounts_and_Brackets/din_bracket_5160T_plus.stl
+- STL/Mounts_and_Brackets/din_bracket_5160T_plus_left.stl
+- STL/Mounts_and_Brackets/din_bracket_5160T_plus_right.stl
+title: BTT 5160T Plus Mounts
