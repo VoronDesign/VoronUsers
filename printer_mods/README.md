@@ -113,7 +113,10 @@ Printer mods for Voron 3D printers
 | DorjeDorf | [Duet 3 3HC Din Bracket](DorjeDorf/Duet_3_3HC_Din_Bracket) | V2.4 Duet 3 3HC Din Bracket | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Duet 3 6HC Din Bracket](DorjeDorf/Duet_3_6HC_Din_Bracket) | V2.4 Duet 3 6HC Din Bracket | V2.4 | 2024-01-08T16:38:25+00:00 |
 | doubletrouble | [V0 Skirt Mod](doubletrouble/V0_Skirt_Mod) | V0 Skirt Mod | V0.2 | 2024-01-08T16:38:25+00:00 |
-| Dr-Info | [Corner Cable Cover with Drop Holes](Dr-Info/corner_cable_cover_with_drop_down_holes) | Corner cable cover around Z-idler with drop holes near z frame and... | V2.4 | 2024-01-08T16:38:25+00:00 |
+| Dr-Info | [BTT 5160T Plus Mounts](Dr-Info/BTT_5160T_Plus_Mounts) | Mounts for BTT 5160T Plus to DIN, 2020 and 1515 | V2.4, VT | 2024-02-01T10:07:10+00:00 |
+|  | [Corner Cable Cover with Drop Holes](Dr-Info/corner_cable_cover_with_drop_down_holes) | Corner cable cover around Z-idler with drop holes near z frame and... | V2.4, VT | 2024-02-01T10:07:10+00:00 |
+|  | [Lever Connector Mount Side Fan...](Dr-Info/Lever_Connector_Mount_Side_Fan_Support) | Mount Universal Lever Connectors or WAGO 221 using the side fan... | V2.4, VT | 2024-02-01T10:07:10+00:00 |
+|  | [LRS DIN Mount Offset](Dr-Info/LRS_DIN_Mount_Offset) | Offset mount for LRS PSU on DIN rail with stabilizer | V2.4, VT | 2024-02-01T10:07:10+00:00 |
 |  | [V2.4 Rear Skirt Mod for Z-Drive...](Dr-Info/V2.4r2_Z-Drive_Motor_Tensioner_Mod_Rear_Skirts) | This mod enables the you to utilize the rear skirts, power and... | V2.4 | 2024-01-08T16:38:25+00:00 |
 | DrGhetto | [Ghetto Panels](DrGhetto/GhettoPanels) | Printed panels for the Voron Zero | V0.2 | 2024-01-08T16:38:25+00:00 |
 | eamars | [Stealthburner (RC1) Dragon...](eamars/stealthburner_crazy_dragon_toolhead) | The Stealthburner toolhead mount for Mellow Crazy, TriangleLab... | V1.8, V2.4, VSW, VT | 2024-01-08T16:38:25+00:00 |

@@ -545,6 +545,39 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "Dr-Info/BTT_5160T_Plus_Mounts",
+        "title": "BTT 5160T Plus Mounts",
+        "creator": "Dr-Info",
+        "description": "Mounts for BTT 5160T Plus to DIN, 2020 and 1515",
+        "printer_compatibility": [
+            "V2.4",
+            "VT"
+        ],
+        "last_changed": "2024-02-01T10:07:10+00:00"
+    },
+    {
+        "path": "Dr-Info/LRS_DIN_Mount_Offset",
+        "title": "LRS DIN Mount Offset",
+        "creator": "Dr-Info",
+        "description": "Offset mount for LRS PSU on DIN rail with stabilizer",
+        "printer_compatibility": [
+            "V2.4",
+            "VT"
+        ],
+        "last_changed": "2024-02-01T10:07:10+00:00"
+    },
+    {
+        "path": "Dr-Info/Lever_Connector_Mount_Side_Fan_Support",
+        "title": "Lever Connector Mount Side Fan Support",
+        "creator": "Dr-Info",
+        "description": "Mount Universal Lever Connectors or WAGO 221 using the side fan support.",
+        "printer_compatibility": [
+            "V2.4",
+            "VT"
+        ],
+        "last_changed": "2024-02-01T10:07:10+00:00"
+    },
+    {
         "path": "Dr-Info/V2.4r2_Z-Drive_Motor_Tensioner_Mod_Rear_Skirts",
         "title": "V2.4 Rear Skirt Mod for Z-Drive Motor Tensioner Mod",
         "creator": "Dr-Info",
@@ -560,9 +593,10 @@
         "creator": "Dr-Info",
         "description": "Corner cable cover around Z-idler with drop holes near z frame and cutouts for inline wiring from 2020 extrustions",
         "printer_compatibility": [
-            "V2.4"
+            "V2.4",
+            "VT"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-02-01T10:07:10+00:00"
     },
     {
         "path": "DrGhetto/GhettoPanels",
