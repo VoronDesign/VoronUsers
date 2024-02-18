@@ -5,9 +5,9 @@ cad:
 description: Braced motor tensioner for z drive
 images:
 - z_drive_mod.png
-mod_version: 1
+mod_version: 2
 printer_compatibility:
-- V2.4
+- V2.4r2
 stl:
 - STLs/z_motor_mount_a_mod_x2.stl
 - STLs/z_motor_mount_b_mod_x2.stl
