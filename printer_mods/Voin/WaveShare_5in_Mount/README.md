@@ -4,16 +4,16 @@ The screen itself is a PITA to set up. I am ~80% there. The main trick was to ad
 ```
 video=HDMI-A-1:1440x2560M@60,rotate=90root@rpi5:/boot/firmware
 ```
-I am still having ton of troubles with the HDMI timings. The official Wiki provides the following timinds string:
+I am still having a ton of trouble with the HDMI timings. The official Wiki provides the following timings string:
 ```
 hdmi_timings=1440 0 10 10 140 2560 0 11 2 2 0 0 0 50 0 206000000 3
 ```
 I tried this, it crashes the HDMI link. If you manage to make it work 100%, please let me know. 
 ## System setup
-Add this two files to:
+Add these two files to:
 ### /etc/X11/xorg.conf.d
 #### 50-touchscreen.conf
-This will setup the touchscreen rotation:
+This will set the touchscreen rotation:
 ```
 Section "InputClass"
             Identifier "Coordinate Transformation Matrix"
@@ -60,3 +60,7 @@ Screen Mount:
 > [!NOTE]
 > I had to use supports to print the frame. Here is a picture of the print bed, sliced with supports:
 > ![Orca](Images/Slicer.png)
+
+> [!WARNING]
+> This mod requires a modification for the front skirts. It will collide with the reference ones. Here is how it looks like in the full assembly:
+> ![Full](Images/Full_Assembly.png)
