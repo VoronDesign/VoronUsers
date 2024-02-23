@@ -578,6 +578,16 @@
         "last_changed": "2024-02-01T10:07:10+00:00"
     },
     {
+        "path": "Dr-Info/V2.4_z_drive_motor_tensioner_mod",
+        "title": "V2.4 Z Drive Motor Tensioner Mod",
+        "creator": "Dr-Info",
+        "description": "Braced motor tensioner for z drive",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-02-23T17:05:57+00:00"
+    },
+    {
         "path": "Dr-Info/V2.4r2_Z-Drive_Motor_Tensioner_Mod_Rear_Skirts",
         "title": "V2.4 Rear Skirt Mod for Z-Drive Motor Tensioner Mod",
         "creator": "Dr-Info",
