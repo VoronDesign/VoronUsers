@@ -3,6 +3,8 @@
 
 # V2.4 Z-Drive Motor Tensioner Mod
 
+**This mod was originally submitted by edwardyeeks on August 25th 2020 and was graciously adopted by Dr-Info on February 18th 2024**
+
 Mod that replaces the motor tensioner assembly in the z drive to make it better braced and eliminates chance to rotate/twist when you tension and potentially when the drive operates. The stock motor tensioning had the tendency to flex if not tightened/installed carefully, causing the closed loop belt to easily rub against the pulley flanges. I prefer being able to lock down the entire z drive as a single unit, hence the design choices.
 
 Unfortunately, the skirt geometry changes, so you will have to reprint the front skirts entirely. Besides that, you only need to reprint the motor bracket and the base plate for this mod.
@@ -30,4 +32,5 @@ Tensioning process is the same as stock V2.4, with exception of needing to tight
 
 
 ## Change log
+2024-02-18 - Dr-Info - Mod adopted
 2022-05-10 - skohls - Added compatibility for v2.4r2 with updated versions of the bottom plates
