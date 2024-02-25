@@ -47,20 +47,20 @@ EndSection
 - 1x Micro-USB cable. Flat cable would be easier to manage. [AliExpress](https://www.aliexpress.us/item/3256804492770527.html) W1-S1A for example
 ## Part pictures
 Mount:
-![Full Assembly](Images/Bottom%20Assembly.png)
-![Full Assembly](Images/Bottom%20Assembly%202.png)
-![Full Assembly](Images/Bottom%20Assembly%20Frontal.png)
+![Full Assembly](Images/bottom_assembly_right.png)
+![Full Assembly](Images/bottom_assembly_left.png)
+![Full Assembly](Images/bottom_assembly_front.png)
 Without hardware:
-![Just Parts](Images/Bottom.png)
+![Just Parts](Images/bottom.png)
 Frame:
-![Frame Only](Images/Frame.png)
+![Frame Only](Images/frame.png)
 Screen Mount:
-![Screen Mount Only](Images/Mount%20top.png)
-![Screen Mount Only](Images/Mount.png)
+![Screen Mount Only](Images/mount_top.png)
+![Screen Mount Only](Images/mount.png)
 > [!NOTE]
 > I had to use supports to print the frame. Here is a picture of the print bed, sliced with supports:
-> ![Orca](Images/Slicer.png)
+> ![Orca](Images/slicer.png)
 
 > [!WARNING]
 > This mod requires a modification for the front skirts. It will collide with the reference ones. Here is how it looks like in the full assembly:
-> ![Full](Images/Full_Assembly.png)
+> ![Full](Images/full_assembly.png)
