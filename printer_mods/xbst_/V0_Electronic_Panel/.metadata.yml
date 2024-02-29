@@ -1,4 +1,6 @@
-cad: []
+cad: 
+- CAD/V0_Electronic_Panel_Skirts.step
+- CAD/V0_Electronic_Panel_Cover.step
 description: A printed cover for v0 electronics. Requires larger printer to print.
 images:
 - example.jpg
