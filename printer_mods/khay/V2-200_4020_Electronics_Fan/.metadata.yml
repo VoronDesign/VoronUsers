@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/4020_Fan_Support_mod.f3d
 description: "Middle Skirt for V2-200mm\xB2 Electronics Compartment"
 images:
 - Img/DSC_3249_kl.jpg

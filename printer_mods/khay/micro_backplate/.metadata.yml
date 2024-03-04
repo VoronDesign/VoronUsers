@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/3mm_Back_Corner_modded.f3d
 description: Minimalistic backplate for cooler motors and electronics
 images:
 - img/DSC_2957.JPG
