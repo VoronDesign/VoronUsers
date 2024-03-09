@@ -2,7 +2,7 @@
 
 ![2020 Aplic Cam Mount installation example](img/2020_aplic_cam_mount.jpg)
 
-2020 Aplic Cam Mount is a 3D printed part that is used to mount a cheapo aplic hd camera to the 2020 frame at bed level. The mount is designed to be held in place with a M3 screw and a M3 nut. Additionaly, you need 4 M3 heat inserts, 4 M3 spacers and 4 M3x6 screws for mounting the camera on the mount (pun intended).
+2020 Aplic Cam Mount is a 3D printed part that is used to mount a cheapo aplic hd camera to the 2020 frame at bed level. The mount is designed to be held in place with a M3 screw and a M3 nut. Additionaly, you need 4x M3 heat inserts, 4x M3 spacers and 4x M3x6 screws for mounting the camera on the mount (pun intended).
 
 
 ### Files
@@ -13,7 +13,7 @@
 The mount is designed to be used with the following parts: 
 ```
 - 1x 3d printed 2020 Aplic Cam Mount
-- 1x Aplic Webcam - 1920x1080P 
+- 1x Aplic Webcam - 1920x1080P stripped from its plastic case
 - 1x M3x10 screw
 - 2x M3 nut
 - 4x M3 heat insert
@@ -21,7 +21,7 @@ The mount is designed to be used with the following parts:
 - 4x M3x6 screws
 ```
 ### Printing
-The mount is printed in the orientation that it is in the STL file. The mount is printed should be printed with the recommended Voron settings (40% infill and 4 perimeters) in ABS/ASA. That said, I've printed mine PETG and it still holds. No supports or mount needed
+The mount is printed in the orientation that it is in the STL file. The mount should be printed with the recommended Voron settings (40% infill and 4 perimeters) in ABS/ASA. That said, I've printed mine in PETG and it still holds. No supports or mount needed
 
 
 
