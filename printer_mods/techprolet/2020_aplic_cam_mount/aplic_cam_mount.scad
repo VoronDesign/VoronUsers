@@ -17,11 +17,6 @@ $fn = 64;
 // Wall thickness
 wall_thickness = 3;
 
-// Dimensions of the anchor
-anchor_l = 15;
-anchor_w = 12;
-anchor_h = 6;
-
 // Hole distances
 hole_distance_x = 54;
 hole_distance_y = 17;
@@ -32,7 +27,15 @@ wall_l = hole_distance_x + 3 * wall_thickness;
 wall_w = hole_distance_y + 3 * wall_thickness;
 
 // Camera elevation
-cam_elevation = 25;
+cam_elevation = 25; // set to 10 for shortened version (inverse mounting on gantry)
+
+// Dimensions of the anchor
+anchor_l = 15;
+anchor_w = 12;
+anchor_h = 6;
+anchor_screw_hole_offset = 2.5;
+anchor_screw_d = 3.5;
+hex_hole_z_offset = 3;
 
 // Screw dimensions
 screw_length = 10;
@@ -60,15 +63,15 @@ module solid_anchor() {
     anchor_w = 12;
     anchor_h = 6;
 
-    tie_w = 4;
-    tie_offset_y = 9;
-    border_w = 0.5;
-
     // Length is 15mm, width is 12mm
-    union() {
-        import("./M3_CABLE_ANCHOR.STL");
-        translate([border_w, tie_offset_y, 0]) {
-            cube([anchor_w - 2 * border_w, tie_w, anchor_h]);
+    difference() {
+        cube ([anchor_w, anchor_l, anchor_h]);
+        translate([anchor_w/2, anchor_l/2-anchor_screw_hole_offset, 0]) {
+            translate([0,0, hex_hole_z_offset]) {
+                #cylinder(h = anchor_h , d = hex_hole_d);
+            }
+
+            #cylinder(h = anchor_h, d = anchor_screw_d);
         }
     }
 }
@@ -121,8 +124,8 @@ module cam_mount() {
             }
         }
 
-        #translate([0, hex_hole_y, 0]) {
-        cylinder(h = anchor_h + cam_elevation + wall_w, d = hex_hole_d);
+        translate([0, hex_hole_y, 0]) {
+        #cylinder(h = anchor_h + cam_elevation + wall_w, d = hex_hole_d);
         }
     }
 }
@@ -151,6 +154,6 @@ module aplic_complete_mount() {
     supports();
 }
 
-rotate([270, 0, 0]){
+rotate([270, 0, -45]){
     aplic_complete_mount();
 }

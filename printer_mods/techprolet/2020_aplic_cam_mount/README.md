@@ -1,13 +1,16 @@
 ## 2020 Aplic Cam Mount
 
 ![2020 Aplic Cam Mount installation example](img/2020_aplic_cam_mount.jpg)
+**2020 Aplic Cam Mount** is a 3D printed part that is used to mount a cheapo *aplic hd camera* (or similar) to the 2020 frame at bed level. The mount is designed to be held in place with a M3 screw and a M3 nut. Additionaly, you need 4x M3 heat inserts, 4x M3 spacers and 4x M3x6 screws for mounting the camera on the mount (pun intended).
 
-2020 Aplic Cam Mount is a 3D printed part that is used to mount a cheapo aplic hd camera to the 2020 frame at bed level. The mount is designed to be held in place with a M3 screw and a M3 nut. Additionaly, you need 4x M3 heat inserts, 4x M3 spacers and 4x M3x6 screws for mounting the camera on the mount (pun intended).
 
+You can also invert mount the camera under the gantry, which would work better for monitoring higher layers. *Photo courtesy of _tsimo_ V2.6592*
 
+![2020 Aplic Cam Mount installation example](img/2020_aplic_cam_inverse_mount.jpg "Inverse (gantry) mount. Photo courtesy of `_tsimo_` V2.6592")
 ### Files
 * `aplic_cam_mount_voron_2_4_300x300.stl` - The mount STL, angled for the Voron 2.4 300x300mm geometry.
-* `aplic_cam_mount.scad` - The OpenSCAD file for the mount (you can play modify the parameters for your own printer's geometry).
+* `aplic_cam_mount_voron_2_4_300x300_shortened.stl` - Shortened version STL,for inverse mounting on a Voron 2.4 300x300mm gantry.
+* `aplic_cam_mount.scad` - The OpenSCAD file for the mount (you can modify the parameters for your own printer's geometry).
 
 ### Parts
 The mount is designed to be used with the following parts: 
@@ -21,12 +24,11 @@ The mount is designed to be used with the following parts:
 - 4x M3x6 screws
 ```
 ### Printing
-The mount is printed in the orientation that it is in the STL file. The mount should be printed with the recommended Voron settings (40% infill and 4 perimeters) in ABS/ASA. That said, I've printed mine in PETG and it still holds. No supports or mount needed
+The mount is printed in the orientation that as is in the STL file. The mount should be printed with the recommended Voron settings (40% infill and 4 perimeters) in ABS/ASA. That said, I've printed mine in PETG and it still holds. No supports or mount needed.
 
 
 
 ### Credits and license
-The mount was designed around the **2020 Cable Clamp** by ed_419522  https://www.printables.com/model/307909-2020-cable-clamp
 
 Copyright 2024, Pavlos Iliopoulos.
 
