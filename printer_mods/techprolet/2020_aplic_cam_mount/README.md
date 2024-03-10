@@ -18,8 +18,8 @@ The mount is designed to be used with the following parts:
 - 1x 3d printed 2020 Aplic Cam Mount
 - 1x Aplic Webcam - 1920x1080P stripped from its plastic case
 - 1x M3x10 screw
-- 2x M3 nut
-- 4x M3 heat insert
+- 1x M3 2020T-nut
+- 4x M3 heat insertsd
 - 4x M3 spacer
 - 4x M3x6 screws
 ```
