@@ -4121,6 +4121,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "techprolet/2020_aplic_cam_mount",
+        "title": "2020 Aplic Cam Mount",
+        "creator": "techprolet",
+        "description": "Aplic HD camera to the 2020 frame at bed level.",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-03-14T16:27:05+00:00"
+    },
+    {
         "path": "teookie/AB_dial_indicator_mount",
         "title": "AB dial indicator mount",
         "creator": "teookie",

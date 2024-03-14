@@ -383,6 +383,7 @@ Printer mods for Voron 3D printers
 |  | [Jetpack V0 base](tameike/Jetpack_V0) | Attach Jetpack to V0 frame | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [TacoRaven Mounting Frame](tameike/V0_TR_Mounting_Frame) | TR V0 mount | V0.2 | 2024-01-08T16:38:25+00:00 |
 | tayto-chip | [V2.4 Skirt Switch Mod](tayto-chip/skirt_switch_mod) | Add a ON/OFF Switch to side or front skirts | V2.4 | 2024-01-08T16:38:25+00:00 |
+| techprolet | [2020 Aplic Cam Mount](techprolet/2020_aplic_cam_mount) | Aplic HD camera to the 2020 frame at bed level. | V2.4r2 | 2024-03-14T16:27:05+00:00 |
 | teookie | [AB dial indicator mount](teookie/AB_dial_indicator_mount) | Mount for attaching standard dial indicators to AB | V1.8, V2.4, VSW | 2024-01-08T16:38:25+00:00 |
 |  | [SKR Brace](teookie/skr_brace) | Rigidize and stabilize SKR 1.4 mounts | V2.4 | 2024-01-08T16:38:25+00:00 |
 | th0mpy | [BEEFY Din Clips](th0mpy/beefy-din) | Two piece BEEFY Din Clips, holds stronger | V2.4 | 2024-01-08T16:38:25+00:00 |
