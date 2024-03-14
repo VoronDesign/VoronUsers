@@ -1,4 +1,6 @@
-cad: []
+cad: 
+- CAD/HOYMK_SSR_Mount_B.step
+- CAD/HOYMK_SSR_Mount_A.step
 description: Mount for Chinese HOYMK SSR
 images: []
 mod_version: 1

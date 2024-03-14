@@ -1,4 +1,6 @@
-cad: []
+cad: 
+- CAD/350_Deck_Panel.dxf  
+- CAD/Bed_Hinge.f3z
 description: A way of reaching electronics from the top by having a "car hood" style
   hinge for the heatbed, and rotated electronics mounts.
 images:

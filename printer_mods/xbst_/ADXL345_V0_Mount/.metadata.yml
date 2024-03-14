@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/ADXL345_V0_Mount.step
 description: V0 Mount for a ADXL345 module
 images:
 - example.jpg
