@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/V0_Screw_Front_Hinge_Mod.step
 description: Mod to screw the front door panel (instead of VHB)
 images: []
 mod_version: 1
