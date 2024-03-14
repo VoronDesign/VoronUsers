@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/DuetZero.step
 description: Pi Zero mount over a Duet2 for space saving
 images:
 - example.jpg

@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/ZipClip_v0.step
 description: Very simple ziptie mount for v0 1515 extrusions
 images: []
 mod_version: 1

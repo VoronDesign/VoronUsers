@@ -4121,6 +4121,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "techprolet/2020_aplic_cam_mount",
+        "title": "2020 Aplic Cam Mount",
+        "creator": "techprolet",
+        "description": "Aplic HD camera to the 2020 frame at bed level.",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-03-14T16:27:05+00:00"
+    },
+    {
         "path": "teookie/AB_dial_indicator_mount",
         "title": "AB dial indicator mount",
         "creator": "teookie",
@@ -4243,7 +4253,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Bed_Hinge",
@@ -4253,7 +4263,7 @@
         "printer_compatibility": [
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Duct_Mount",
@@ -4263,7 +4273,7 @@
         "printer_compatibility": [
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/DuetZero",
@@ -4275,7 +4285,7 @@
             "V1.8",
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Easy_Access_Rear_Panels_v0",
@@ -4285,7 +4295,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Flat_Skirts",
@@ -4295,7 +4305,7 @@
         "printer_compatibility": [
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/HOYMK_SSR_Mount",
@@ -4305,7 +4315,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Hat_LED_Mount",
@@ -4337,7 +4347,7 @@
             "V1.8",
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Omron_DIN_Mount",
@@ -4348,7 +4358,7 @@
             "V1.8",
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/Relay_DIN_Mount",
@@ -4359,7 +4369,7 @@
             "V1.8",
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/V0_Electronic_Panel",
@@ -4369,7 +4379,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/V0_M4_Mod",
@@ -4379,7 +4389,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/V0_Picam",
@@ -4389,7 +4399,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/V0_Screw_Front_Hinge_Mod",
@@ -4399,7 +4409,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/V0_Skirt_Buttons",
@@ -4419,7 +4429,7 @@
         "printer_compatibility": [
             "V2.4"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xbst_/V2.4_Skirt_Buttons",
@@ -4439,7 +4449,7 @@
         "printer_compatibility": [
             "V0.2"
         ],
-        "last_changed": "2024-01-08T16:38:25+00:00"
+        "last_changed": "2024-03-14T14:43:28+00:00"
     },
     {
         "path": "xceled/Single_Panel_Magnet_Mount",

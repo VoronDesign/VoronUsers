@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/Omron_DIN_Mount.step
 description: A simple DIN rail mount for the BOM Relay
 images: []
 mod_version: 1

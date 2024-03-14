@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/Relay_DIN_Mount.step
 description: A simple DIN rail mount for the 4 channel relay board for Raspberry Pi
 images: []
 mod_version: 1
