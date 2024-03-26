@@ -6,7 +6,8 @@ Then I found CYD-Klipper which uses the amazing Cheap Yellow Display from Brian 
 
 Since there was no existing designs for a simple mount for the Switchwire, I created this.
 
- 
+<img src="Images/Switchwire_CYD_Screen_Case_Parts_Exploded.gif" alt="Exploded parts view" width="500"/> 
+
 # Purchasables
 
 * 1x Cheap Yellow Display
