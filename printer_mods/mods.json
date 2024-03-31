@@ -1899,6 +1899,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "Reemuson/SW_CYD_Screen_Case",
+        "title": "CYD Screen Case",
+        "creator": "Reemuson",
+        "description": "A VORON Switchwire mount-able case for the CYD screen.",
+        "printer_compatibility": [
+            "VSW"
+        ],
+        "last_changed": "2024-03-31T00:45:03+00:00"
+    },
+    {
         "path": "Rhastlyn/60mmFanCover",
         "title": "60mm Fan Cover",
         "creator": "Rhastlyn",

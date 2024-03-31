@@ -330,6 +330,7 @@ Printer mods for Voron 3D printers
 |  | [Microswitch Pod for PCB](randell/Microswitch_Endstop) | Modified endstop pod for use of endstop switches mounted on a PCB | V2.4 | 2024-01-08T16:38:25+00:00 |
 | raymondh | [Large Spool Holders](raymondh/LargeSpoolHolders) | Larger spool holders for KVP spools | V1.8, V2.4 | 2024-01-08T16:38:25+00:00 |
 | reapola | [MKS CANable Pro DIN Mount](reapola/MKS_CANable_Pro_mount) | MKS CANable Pro mount which mounts on a DIN rail | V0.2, V1.8, V2.4, VSW, VT | 2024-01-08T16:38:25+00:00 |
+| Reemuson | [CYD Screen Case](Reemuson/SW_CYD_Screen_Case) | A VORON Switchwire mount-able case for the CYD screen. | VSW | 2024-03-31T00:45:03+00:00 |
 | reQu1em00 | [Kirigami LED Bed Front](reQu1em00/Kirigami_LED_Bed_Front) | Kirigami bed front with space for a single LED or Neopixel button | V0.2 | 2024-01-08T16:38:25+00:00 |
 | revnull | [Raspberry Pi 7inch Display Mount](revnull/rpi_7in_display_mount) | An articulating mount for the offical Raspberry Pi 7inch touch screen | V2.4 | 2024-01-08T16:38:25+00:00 |
 | Rhastlyn | [60mm Fan Cover](Rhastlyn/60mmFanCover) | A easy to install cover for spec 60mm fans originally designed for... | V2.4 | 2024-01-08T16:38:25+00:00 |
