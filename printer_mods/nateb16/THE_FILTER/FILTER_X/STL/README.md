@@ -1,1 +1,1 @@
-Please follow this link to printables to suppoort me with filament.
+Please follow this link for the STL'S to printables to support me with filament.
