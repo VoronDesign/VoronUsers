@@ -1,6 +1,12 @@
 <h1>Filter X<h1>
 
+5 tool head model
+
   ![FILTER_X](https://github.com/nateb16/VoronUsers/assets/40711977/ee9914e9-87dd-4ff2-b12d-faad64b54189)
+
+1 tool head model
+  
+  ![Screenshot 2024-04-28 161153](https://github.com/nateb16/VoronUsers/assets/40711977/66b3362f-e256-402b-9c93-65ae8994673d)
 
 <h2>ABOUT</h2>
 
@@ -18,7 +24,7 @@ Features
 * 2- m5x10 bhcs
 * 1- Stock Voron 6020 fan
 * 14- heat set insert
-* 1-5 ecas collets or pneumatic  (this will depend on if you are running a tool changer or not)
+* 1-5 ecas collets (exact toolhead will depend on if you are running a tool changer or not)
 * Carbon filtering media (nevermore carbon)
 * 3 feet of igus chainflex or about 24 feet of AWG20 PTFE wire
 * 1- m16 cable gland
@@ -70,5 +76,9 @@ Wiring diagram for chainflex (use the larger wire for ground and power in the ch
 ![Screenshot 2024-04-28 023239](https://github.com/nateb16/VoronUsers/assets/40711977/3633bced-85b7-49b9-b1fb-3bf8002b6689)
 
 
-DISCLAIMER: 
-I no longer maintain this github because of this I am not going to be uploading the stl's to github. Instead there will be a link to a friends printables where you may download the mod from. By doing this you continue to support development trough prusameter's
+<h2>DISCLAIMER 1:</h2> the exhaust grill, mounting bracket and rear cover are based of VORON parts. They are not of my own original design or creation. 
+
+DISCLAIMER 2: 
+I no longer maintain this github because of this I am not going to be regularly uplading the most up to date stl's to github. Instead there will be a link to a friends printables where you may download the mod from. By doing this you continue to support development through prusameter's
+
+
