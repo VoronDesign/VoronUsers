@@ -1,0 +1,52 @@
+---
+# The title of your mod. Choose a short and descriptive name
+title: Spartacus
+# A short description of your mod. Try to describe your mod with 1-2 short sentences
+description: Spartacus: The Toolhead embodies the spirit of accessibility and performance, utilizing off-the-shelf components to deliver professional-grade results without breaking the bank. Crafted with precision and integrity, Spartacus represents a commitment to providing high performance at a reasonable cost. Its name reflects the ethos of empowerment, where users can harness its capabilities without compromise. From its lightweight design to its versatile compatibility, Spartacus stands as a testament to innovation and affordability in the world of 3D printing toolheads. Unleash the power of Spartacus: where affordability meets excellence.
+# Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
+mod_version: 1
+# You may add your discord username here so people can contact you about your mod
+discord_username: dury10
+# The CAD files for your mod. Please provide them as a list.
+# Note that each mod must include at least one CAD file.
+cad:
+- CAD/Spartacus_step.stp
+# The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
+# Note that each mod must include at least one STL or OBJ file.
+stl:
+- STL/45_degrees_strain_rellief.stl
+- STL/45_degrees_strain_rellief_cover.stl
+- STL/90_degrees_strain_rellief.stl
+- STL/90_degrees_strain_rellief_cover.stl
+- STL/Ebb36_Can_board_cover.stl
+- STL/extruder_back_plate.stl
+- STL/extruder_main_body.stl
+- STL/idler.stl
+- STL/Klicky_holder.stl
+- STL/Latch_aka_delfin.stl
+- STL/MGN12_6mmBelt_X_carriage_Left.stl
+- STL/MGN12_6mmBelt_X_carriage_Right.stl
+- STL/shuter.stl
+- STL/Spartacus_Face_hex.stl
+- STL/stepper_motor_cover.stl
+- STL/v6_holder_back.stl
+- STL/V6_holder_front.stl
+- STL/X_carriage_belt_holder.stl
+
+# The image files provided with your mod. These may be instructions you use in your README.md file, or other additional pictures.
+# **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
+# All paths are relative to this .metadata.yml file.
+images:
+- IMAGES/Spartacus_1.png
+- IMAGES/Spartacus_2.png
+- IMAGES/Spartacus_3.png
+- IMAGES/SPARTACUS_cover.png
+- IMAGES/Spartacus_full_weight.jpeg
+- IMAGES/Spartacus_on_scale.jpeg
+# Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
+# "V0", "V0.1", "V0.2", "V0.2r1", "V1", "V1.6", "V1.8", "V1.8r1",  "V2", "V2.1", "V2.2", "V2.4", "V2.4r1", "V2.4r2", "VSW", "VT", "VTr1", "VL"
+# Please only specify printers that you have either tested your mod on yourself, or that someone else has tested for you. If you are unsure whether your
+# mod is compatible with a certain printer, don't list it here!
+printer_compatibility:
+- VT
+- V2.4r2
