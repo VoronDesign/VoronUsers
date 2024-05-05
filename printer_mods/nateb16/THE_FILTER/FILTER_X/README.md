@@ -79,6 +79,6 @@ Wiring diagram for chainflex (use the larger wire for ground and power in the ch
 <h2>DISCLAIMER 1:</h2> the exhaust grill, mounting bracket and rear cover are based of VORON parts. They are not of my own original design or creation. 
 
 DISCLAIMER 2: 
-I no longer maintain this github because of this I am not going to be regularly uplading the most up to date stl's to github. Instead there will be a link to a friends printables where you may download the mod from. By doing this you continue to support development through prusameter's
+I no longer regularly maintain this github because of this I am not going to be regularly uplading the most up to date stl's to github. Instead there will be a link to a friends printables where you may download the mod from. By doing this you continue to support development through prusameter's
 
 
