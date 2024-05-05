@@ -57,6 +57,8 @@ Features
 
 10.	Solder wire to JST connector (challenging but doable)
 
+10b. apply hot glue to the rear of the jst to prevent shorts
+
 11.	Assemble and wire to the 3d printer control board.
 
 NOTES:
