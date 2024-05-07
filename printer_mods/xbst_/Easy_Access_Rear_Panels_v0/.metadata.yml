@@ -1,4 +1,6 @@
-cad: []
+cad: 
+- CAD/Easy_Access_Rear_Panels_v0_Bottom.step
+- CAD/Easy_Access_Rear_Panels_v0_Top.step
 description: New rear panels designed to expose the extruder for easy filament swapping
 images:
 - example.jpg

@@ -1,0 +1,18 @@
+cad:
+- CAD/LRS_DIN_Mount_Offset.step
+- CAD/PSU_Stabilizer_Offset.step
+description: Offset mount for LRS PSU on DIN rail with stabilizer
+images:
+- Images/lrs_offset.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+- VT
+stl:
+- STL/PSU_stabilizer_35_to_55mm.stl
+- STL/PSU_stabilizer_35_to_95mm.stl
+- STL/PSU_stabilizer_50_to_70mm.stl
+- STL/PSU_stabilizer_75_to_95mm.stl
+- STL/lrs_offset_left.stl
+- STL/lrs_offset_right.stl
+title: LRS DIN Mount Offset

@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/V2_200_3keystone_mod.f3d
 description: PlugPanel with Options for 3 Keystones
 images:
 - Img/DSC_3253.JPG

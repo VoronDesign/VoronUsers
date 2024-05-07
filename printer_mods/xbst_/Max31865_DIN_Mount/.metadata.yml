@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/Max31865_DIN_Mount.step
 description: A simple DIN rail mount for the Adafruit (or SAME SIZE clone) MAX31865
   PT100 Board.
 images: []

@@ -1,4 +1,5 @@
-cad: []
+cad: 
+- CAD/Duct_Mount.step
 description: 100mm/4" ducting mount for ventilation. Also supports umbilical cord
   and has 3 orientations for bowden adapter.
 images:

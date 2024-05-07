@@ -1,4 +1,6 @@
-cad: []
+cad: 
+- CAD/Flat_Skirts_in.step
+- CAD/Flat_Skirts_Mid.step
 description: Flat V2.4 Skirts so a panel without cutouts can be used
 images: []
 mod_version: 1
