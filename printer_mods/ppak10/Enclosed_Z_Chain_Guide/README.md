@@ -1,13 +1,23 @@
-# Voron Design Cube
+# Enclosed Z-Chain Guide
 
-A calibration cube for Voron printers
+Supports Z-Chain from both sides and keeps it from sliding around, especially for taller builds.
 
-It can be used to verify your print quality is sufficient to print Voron parts.  
+![CAD](./Images/render.png)
+![demo](./Images/demo.gif)
 
-![CAD](./Images/CAD.png)
+## Installation
+- Requires:
+  - M5 x 10mm BHCS (Count 2)
+  - M5 x T-Nut (Count 2)
+
+- Clearance:
+  - Clears conventional toolhead installations.
+
+![closeup](./Images/closeup.jpg)
+![clearance](./Images/clearance.jpg)
+
 
 ## Printing
 
 Use standard voron print settings. 4 walls, 5 top & bottom laters, 40% infill.
 
-![photo](./Images/photo.jpg)
