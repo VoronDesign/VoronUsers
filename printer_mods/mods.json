@@ -3684,6 +3684,16 @@
         "last_changed": "2024-01-25T17:26:27+00:00"
     },
     {
+        "path": "ppak10/Enclosed_Z_Chain_Guide",
+        "title": "Enclosed Z-Chain Guide",
+        "creator": "ppak10",
+        "description": "Supports Z-Chain from both sides and keeps it from sliding around, especially for taller builds.",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-05-08T21:51:38+00:00"
+    },
+    {
         "path": "prasadp4009/SW_SB_CRTouch",
         "title": "StealthBurner CR Touch Mod",
         "creator": "prasadp4009",
