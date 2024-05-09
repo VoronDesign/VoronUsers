@@ -1,11 +1,9 @@
 
-#### After more than 6 months of sleepless nights, 100h of brainstorming and hardworking and test fitting  we are presenting SPARTACUS!  we will appreciate at least to share our project to reach as much makers to enjoy our work. And if you want to support our work in developing future projects you have link below 
-
 
 ![photo](./IMAGES/SPARTACUS_cover.png)
 
 
-### We will be Live Sunday  5 of May 2024 
+### Here you can see how to build this Awesome Toolead
 
 [![SPARTACUS](https://img.youtube.com/vi/S5xbkWCNOBw/0.jpg)](https://www.youtube.com/watch?v=S5xbkWCNOBw)
 
@@ -13,7 +11,6 @@
 
 
 ### If you want to see it in action you can see it here
-
 
 
 
@@ -41,12 +38,13 @@
 
 
 
+
 ## Key Features:
 
 - Powerful direct drive extruder for rapid printing (Flow tested up to 55mm³/s)
 - Utilizes the T-Volcano hotend for increased flow and faster prints
 - Enhanced cooling with 3010 and dual 4010 GDS Time 12000 rpm fans
-- Lightweight and compact design inspired by Voron Design
+- Lightweight and compact design inspired by Voron Design (Mini Stealth Burner)
 - Cost-efficient, with a total build cost under $75
 - Versatile design allows for customization and adaptation to different setups
 - 2 Neopixel LED lights for improved visibility and real-time print status updates
@@ -102,9 +100,6 @@
 #### Assembly of Spartacus requires minimal tools, including an 1.5mm drill bit, a drill, an angle grinder or hacksaw, and 1.5, 2 and 2.5mm Allen keys. With these tools, users can effortlessly assemble Spartacus and unleash its full potential.
 
 
-
-
-#### ou can support my work here https://www.paypal.me/NDRNADIR all the donations are going to my 3D printing Project. 
 
 
 
