@@ -21,25 +21,10 @@
 #### Later edit : 
 #### added Rapido UHF as an option for the hotend
 
-## Spartacus: The Toolhead embodies the spirit of accessibility and performance, utilizing off-the-shelf components to deliver professional-grade results without breaking the bank. Crafted with precision and integrity, Spartacus represents a commitment to providing high performance at a reasonable cost. Its name reflects the ethos of empowerment, where users can harness its capabilities without compromise. From its lightweight design to its versatile compatibility, Spartacus stands as a testament to innovation and affordability in the world of 3D printing toolheads. Unleash the power of Spartacus: where affordability meets excellence.
-
-
-
-## Spartacus: The Toolhead redefines lightweight excellence, offering not only an impressively low weight but also a comprehensive array of features including advanced cable management, vibrant LEDs, and an attractive design. While there may be lighter toolheads on the market, none rival Spartacus in its combination of functionality, aesthetics, and performance. Spartacus isn't just a toolhead; it's a statement of craftsmanship and innovation, enhancing not only your printing experience but also the overall look and feel of your 3D printer. Elevate your printing game with Spartacus: where lightweight meets luxury.
-
-
 
 ## Spartacus: The Toolhead stands as a testament to lightweight engineering mastery, boasting a total weight of under 320 grams, with the potential to further reduce weight by implementing titanium screws. Every component, from the stepper motor to the thermistor, board cables, heater, LEDs, fans, heatsink, nozzle, and screws, has been meticulously crafted to maintain this featherlight profile without compromising on performance or durability. Spartacus redefines the possibilities of 3D printing toolheads, offering a combination of high performance and portability that is unmatched in its class. Dominate your printing projects with Spartacus: where innovation meets lightweight precision.
 
-
-
 ## Engineered with precision, Spartacus integrates a multitude of features including dual RGBW LEDs, direct drive capabilities, and an appealing aesthetic with concealed cables and motor covers. Compatible with both EBB36 and Piggyback 36 toolboards, Spartacus offers versatility without compromise. Weighing under 320 grams, its agile form minimizes inertia, enabling rapid accelerations and pristine print quality, free from artifacts. Unleash the power of Spartacus: where innovation meets agility.
-
-
-
-## Spartacus embodies relentless printing power in a compact design. Featuring dual 4010 blowers for optimal cooling and a T-Volcano heat block with CHT Volcano nozzle, Spartacus delivers unrivaled flow rates for lightning-fast, high-quality prints. Its agile build allows for swift movements, maximizing print area and minimizing downtime. Dominate your printing projects with Spartacus: where strength meets precision.
-
-
 
 
 ## Key Features:
@@ -80,9 +65,9 @@
 
 ### Nozzle Options (Optional, depending on preference):
 
-- T Volcano or Crazy Tvolcano Heat Block for easier nozzle changes and protect the heatbrake when printing at speeds.
+- T Volcano or NF Crazy Volcano Heat Block for easier nozzle changes and protect the heatbrake when printing at speeds.
 - Ceramic Heater or Revo High Flow for enhanced performance (cost considerations apply)
-
+- Rapido UHF added 
 ## Hardware:
 
 ### Heatset Inserts:
@@ -101,7 +86,7 @@
 #### This versatile and feature-packed 3D printer tool head provides an affordable solution for high-quality, high-speed printing, enhanced by Neopixel LED lights for improved visibility and dynamic print status updates.
 
 #### Assembly of Spartacus requires minimal tools, including an 1.5mm drill bit, a drill, an angle grinder or hacksaw, and 1.5, 2 and 2.5mm Allen keys. With these tools, users can effortlessly assemble Spartacus and unleash its full potential.
-
+### Working on assembley manual. 
 
 
 
