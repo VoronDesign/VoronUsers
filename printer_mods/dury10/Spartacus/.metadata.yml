@@ -14,24 +14,28 @@ cad:
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
 stl:
-- STL/45_degrees_strain_rellief.stl
-- STL/45_degrees_strain_rellief_cover.stl
-- STL/90_degrees_strain_rellief.stl
-- STL/90_degrees_strain_rellief_cover.stl
-- STL/Ebb36_Can_board_cover.stl
+- STL/strain_relief_45_degres.stl
+- STL/strain_relief_45_degres_cover.stl
+- STL/strain_relief_90_degres.stl
+- STL/strain_relief_90_degres_cover.stl
+- STL/ebb_36_can_cover.stl
 - STL/extruder_back_plate.stl
 - STL/extruder_main_body.stl
 - STL/idler.stl
 - STL/Klicky_holder.stl
-- STL/Latch_aka_delfin.stl
+- STL/klicky.stl
+- STL/klicky_dock.stl
+- STL/latch.stl
 - STL/MGN12_6mmBelt_X_carriage_Left.stl
 - STL/MGN12_6mmBelt_X_carriage_Right.stl
-- STL/shuter.stl
-- STL/Spartacus_Face_hex.stl
+- STL/shutter.stl
+- STL/Spartacus_Face.stl
 - STL/stepper_motor_cover.stl
 - STL/v6_holder_back.stl
 - STL/V6_holder_front.stl
-- STL/X_carriage_belt_holder.stl
+- STL/belt_holder_x2.stl
+- STL/rapido_holder_back.stl
+- STL/rapido_holder_front.stl
 
 # The image files provided with your mod. These may be instructions you use in your README.md file, or other additional pictures.
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**

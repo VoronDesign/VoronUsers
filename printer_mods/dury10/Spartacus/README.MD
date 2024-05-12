@@ -1,7 +1,7 @@
 
 
 ![photo](./IMAGES/SPARTACUS_cover.png)
-
+ 
 
 ### Here you can see how to build this Awesome Toolead
 
@@ -17,6 +17,9 @@
 [![SPARTACUS](https://img.youtube.com/vi/Fdcm6XfQ08U/0.jpg)](https://www.youtube.com/shorts/Fdcm6XfQ08U)
 
 
+
+#### Later edit : 
+#### added Rapido UHF as an option for the hotend
 
 ## Spartacus: The Toolhead embodies the spirit of accessibility and performance, utilizing off-the-shelf components to deliver professional-grade results without breaking the bank. Crafted with precision and integrity, Spartacus represents a commitment to providing high performance at a reasonable cost. Its name reflects the ethos of empowerment, where users can harness its capabilities without compromise. From its lightweight design to its versatile compatibility, Spartacus stands as a testament to innovation and affordability in the world of 3D printing toolheads. Unleash the power of Spartacus: where affordability meets excellence.
 
