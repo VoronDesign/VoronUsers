@@ -21,10 +21,47 @@
 #### Later edit : 
 #### added Rapido UHF as an option for the hotend
 
+Hello Everyone 
 
-## Spartacus: The Toolhead stands as a testament to lightweight engineering mastery, boasting a total weight of under 320 grams, with the potential to further reduce weight by implementing titanium screws. Every component, from the stepper motor to the thermistor, board cables, heater, LEDs, fans, heatsink, nozzle, and screws, has been meticulously crafted to maintain this featherlight profile without compromising on performance or durability. Spartacus redefines the possibilities of 3D printing toolheads, offering a combination of high performance and portability that is unmatched in its class. Dominate your printing projects with Spartacus: where innovation meets lightweight precision.
+This is my take on building a small toolhead:
+A project I have been working on for more than a year. It all  started when Voron Design launched V0.2 with the Mini StealthBurner
+I liked that toolhead a lot but I wanted more. 
+More Flow, more cooling and more features like LED and this is how i ended with CN3D 4010 Mini StealtBurner.
+I always liked the idea to get out the most from anything I encounter.  I looked for a way to be on the budget and to achieve better quality and reasonable speeds. 
+I will not talk more about the last year project but it’s important to let you know how I got to Spartacus!
 
-## Engineered with precision, Spartacus integrates a multitude of features including dual RGBW LEDs, direct drive capabilities, and an appealing aesthetic with concealed cables and motor covers. Compatible with both EBB36 and Piggyback 36 toolboards, Spartacus offers versatility without compromise. Weighing under 320 grams, its agile form minimizes inertia, enabling rapid accelerations and pristine print quality, free from artifacts. Unleash the power of Spartacus: where innovation meets agility.
+After I managed to add in MSB everything that in my opinion was missing I thought “what if i’d have all of these in a smaller and lighter form?”. And this is how I ended up with a lighter  and narrower toolhead.
+
+### Who is this Toolhead for? 
+
+This is for someone who wants a light toolhead that looks good ,without messy cables,  tidy and has visible and lighted nozzle, that you can build with off the shelf components that doesn’t require a lot of money. 
+I found a solution for every situation i have encountered on my journey to print fast on a budget. 
+
+### Now, to correct what i said :
+I didn’t crafted all the parts that I have used to create this toolhead. I just tested a lot to find the cheapest version to achieve  the results I was aiming for. 
+
+
+### I got a lot of questions about the difference from the stock design. 
+
+- It has bigger part cooling fans. I went further and I removed the cover from the fans and used the cowling as a fan cover.
+- It has 2 neopixels.
+- It has built in cable management and covers to hide all the messy spaghetti.
+- It has passive cooling for the stepper motor, and all the flow/air from the hotend fan is routed to go up out of the build plate.
+- It has different position for the idler gear to reduce some artifacts.
+
+
+### It can be installed on any Voron v2.4 or trident or any other 3d printer that uses this gantry style. 
+
+
+### The design goal:
+- to have all of the above in less than 320 grams 
+- to have a minimum flow of 35mm3/s and all the parts used to build this toolhead to be less than 120Euros.
+
+
+
+ Spartacus: The Toolhead stands as a testament to lightweight engineering mastery, boasting a total weight of under 320 grams, with the potential to further reduce weight by implementing titanium screws. Every component, from the stepper motor to the thermistor, board cables, heater, LEDs, fans, heatsink, nozzle, and screws, has been meticulously crafted to maintain this featherlight profile without compromising on performance or durability. Spartacus redefines the possibilities of 3D printing toolheads, offering a combination of high performance and portability that is unmatched in its class. Dominate your printing projects with Spartacus: where innovation meets lightweight precision.
+
+ Engineered with precision, Spartacus integrates a multitude of features including dual RGBW LEDs, direct drive capabilities, and an appealing aesthetic with concealed cables and motor covers. Compatible with both EBB36 and Piggyback 36 toolboards, Spartacus offers versatility without compromise. Weighing under 320 grams, its agile form minimizes inertia, enabling rapid accelerations and pristine print quality, free from artifacts. Unleash the power of Spartacus: where innovation meets agility.
 
 
 ## Key Features:
