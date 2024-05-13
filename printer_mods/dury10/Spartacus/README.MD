@@ -21,7 +21,7 @@
 #### Later edit : 
 #### added Rapido UHF as an option for the hotend
 
-####  <a href="assembly.md"  >Assembly guide</a>
+##  <a href="assembly.md"  > <img style="max-width: 70%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/1.jpeg"> Assembly guide</a>
 
 Hello Everyone 
 
