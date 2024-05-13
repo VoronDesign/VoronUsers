@@ -8,7 +8,7 @@
 
 
 ####   <a href="v6_heatsink_mod.md"> First you need to modify the heatsink </a>
-####  <a href="v6_heatsink_mod.md" > <img height="800" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/heatsink_mod.jpeg"></a>
+####  <a href="v6_heatsink_mod.md" > <img height="50%" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/heatsink_mod.jpeg"></a>
 
 <br>
 <br>
