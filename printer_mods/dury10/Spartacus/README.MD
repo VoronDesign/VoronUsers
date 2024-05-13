@@ -125,7 +125,7 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 
 
 
-##  <a href="assembly.md"  > <img style="max-width: 70%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/1.jpeg"> Assembly guide</a>
+##  <a href="assembly.md"  > <img style="max-width: 70%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/1.jpeg"> Assembly guide</a>
 
 
 
