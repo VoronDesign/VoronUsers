@@ -3,26 +3,6 @@
 ![photo](./IMAGES/SPARTACUS_cover.png)
  
 
-### Here you can see how to build this Awesome Toolead
-
-[![SPARTACUS](https://img.youtube.com/vi/S5xbkWCNOBw/0.jpg)](https://www.youtube.com/watch?v=S5xbkWCNOBw)
-
-
-
-
-### If you want to see it in action you can see it here
-
-
-
-[![SPARTACUS](https://img.youtube.com/vi/Fdcm6XfQ08U/0.jpg)](https://www.youtube.com/shorts/Fdcm6XfQ08U)
-
-
-
-#### Later edit : 
-#### added Rapido UHF as an option for the hotend
-
-##  <a href="assembly.md"  > <img style="max-width: 70%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/1.jpeg"> Assembly guide</a>
-
 Hello Everyone 
 
 This is my take on building a small toolhead:
@@ -125,7 +105,27 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 #### This versatile and feature-packed 3D printer tool head provides an affordable solution for high-quality, high-speed printing, enhanced by Neopixel LED lights for improved visibility and dynamic print status updates.
 
 #### Assembly of Spartacus requires minimal tools, including an 1.5mm drill bit, a drill, an angle grinder or hacksaw, and 1.5, 2 and 2.5mm Allen keys. With these tools, users can effortlessly assemble Spartacus and unleash its full potential.
-### Working on assembley manual. 
+
+### Here you can see how to build this Awesome Toolead
+
+[![SPARTACUS](https://img.youtube.com/vi/S5xbkWCNOBw/0.jpg)](https://www.youtube.com/watch?v=S5xbkWCNOBw)
+
+
+
+
+### If you want to see it in action you can see it here
+
+
+
+[![SPARTACUS](https://img.youtube.com/vi/Fdcm6XfQ08U/0.jpg)](https://www.youtube.com/shorts/Fdcm6XfQ08U)
+
+
+
+#### Later edit : 
+#### added Rapido UHF as an option for the hotend
+
+##  <a href="assembly.md"  > <img style="max-width: 70%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/1.jpeg"> Assembly guide</a>
+
 
 
 
