@@ -23,7 +23,7 @@ Lets put toghether the hotend. Inset the heatbrake Ideal to be bimetalic and scr
 </div>
 
 
-with the 3 hole that we just made put them in V6_holder_back.stl
+With the 3 hole that we just made put them in V6_holder_back.stl
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/3.jpeg"  />
 </div>
@@ -39,7 +39,7 @@ with the 3 hole that we just made put them in V6_holder_back.stl
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/5.jpeg"  />
 </div>
 
-use 2x M3 x 4 to secure the heatsink but don't titen them yes
+Use 2x M3x4 to secure the heatsink but don't titen them yes
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/6.jpeg"  />
 </div>
@@ -99,7 +99,7 @@ Now let's mount the fan from the right side
 
 
 
-remove the lid and pop it in it oun poket 
+Remove the lid and pop it in it oun poket 
 
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/13.jpeg"  />
@@ -113,7 +113,9 @@ Part Cooling Fan's are mounted.
 </div>
 
 
+
 Now let's put the hotend in the right place. pay atention to the fan cable to dont pinch it, it has a gove 
+p.s. before puting the HotEnd Holder you need to insert the 3010 hotend fan and route the cables over the right partcooling fan. it has a grove like the left one has. 
 
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/30.jpeg"  />
