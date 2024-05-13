@@ -2,8 +2,10 @@
 
 ![photo](./IMAGES/SPARTACUS_cover.png)
  
+Later edit : 
+added Rapido UHF as an option for the hotend
 
-Hello Everyone 
+### Hello Everyone 
 
 This is my take on building a small toolhead:
 A project I have been working on for more than a year. It all  started when Voron Design launched V0.2 with the Mini StealthBurner
@@ -121,8 +123,7 @@ I didn’t crafted all the parts that I have used to create this toolhead. I jus
 
 
 
-#### Later edit : 
-#### added Rapido UHF as an option for the hotend
+
 
 ##  <a href="assembly.md"  > <img style="max-width: 70%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/1.jpeg"> Assembly guide</a>
 
