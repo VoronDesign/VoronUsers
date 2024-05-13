@@ -21,6 +21,8 @@
 #### Later edit : 
 #### added Rapido UHF as an option for the hotend
 
+####  <a href="assembly.md"  >Assembly guide</a>
+
 Hello Everyone 
 
 This is my take on building a small toolhead:
