@@ -40,7 +40,7 @@
 </div>
 
 
-<p>This is how it supose to like after the cut</p>
+<p>This is how it is supposed to like after the cut</p>
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/6.jpeg"  />
 </div>
@@ -97,7 +97,7 @@
 </div>
 
 
-<p>An use 2 M3x40 screw + 2x M3 nuts to secure it in place </p>
+<p>And use 2 M3x40 screw + 2x M3 nuts to secure it in place </p>
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/15.jpeg"  />
 </div>
@@ -122,7 +122,7 @@
 
 
 
-<p>Use a 2.5mm Dril bit and dril 2 hole in the designated locations </p>
+<p>Use a 2.5mm Dril bit and drill 2 holes in the designated locations </p>
 
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/19.jpeg"  />
@@ -154,7 +154,7 @@
 </div>
 
 <p>Clean the debrie and prepare your M3 TAP </p>
-<p>Carefuly cut some treads 3-5mm </p>
+<p>Carefully cut some treads 3-5mm </p>
 
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/24.jpeg"  />
@@ -176,7 +176,7 @@
 </div>
 
 
-<p>Remove everything and clean all all the mess </p>
+<p>Remove everything and clean all the mess </p>
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/27.jpeg"  />
 </div>
