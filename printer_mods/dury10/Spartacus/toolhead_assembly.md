@@ -8,7 +8,7 @@
 
 
 ####   <a href="v6_heatsink_mod.md"> First you need to modify the heatsink </a>
-####  <a href="v6_heatsink_mod.md" > <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/heatsink_mod.jpeg"></a>
+####  <a href="v6_heatsink_mod.md" > <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/heatsink_mod.jpeg"></a>
 
 <br>
 <br>
@@ -18,58 +18,58 @@
 <h2 id="Spartacus">## Let's Start the build! </h2>
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/2.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/2.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/3.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/3.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/4.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/4.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/5.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/5.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/6.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/6.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/7.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/7.jpeg"  />
 </div>
 
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8-1.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8-1.jpeg"  />
 </div>
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8-2.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8-2.jpeg"  />
 </div>
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8-3.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8-3.jpeg"  />
 </div>
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/8.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/9.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/9.jpeg"  />
 </div>
 
 
@@ -77,18 +77,18 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/10.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/10.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/11.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/11.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/12.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/12.jpeg"  />
 </div>
 
 
@@ -96,27 +96,27 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/13.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/13.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/14.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/14.jpeg"  />
 </div>
 
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/30.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/30.jpeg"  />
 </div>
 
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/31.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/31.jpeg"  />
 </div>
 
 
@@ -125,7 +125,7 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/32.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/32.jpeg"  />
 </div>
 
 
@@ -133,37 +133,37 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/33.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/33.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/34.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/34.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/35.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/35.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/36.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/36.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/37.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/37.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/38.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/38.jpeg"  />
 </div>
 
 
@@ -171,24 +171,24 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/39.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/39.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/40.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/40.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/41.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/41.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/42.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/42.jpeg"  />
 </div>
 
 
@@ -196,37 +196,37 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/43.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/43.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/44.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/44.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/45.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/45.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/46.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/46.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/47.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/47.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/48.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/48.jpeg"  />
 </div>
 
 
@@ -234,7 +234,7 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/49.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/49.jpeg"  />
 </div>
 
 
@@ -243,18 +243,18 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/50.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/50.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/51.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/51.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/52.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/52.jpeg"  />
 </div>
 
 
@@ -262,37 +262,37 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/53.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/53.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/54.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/54.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/55.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/55.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/56.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/56.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/57.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/57.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/58.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/58.jpeg"  />
 </div>
 
 
@@ -300,34 +300,34 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/59.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/59.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/21-1.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/21-1.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/22.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/22.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/60.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/60.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/61.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/61.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/62.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/62.jpeg"  />
 </div>
 
 
@@ -335,59 +335,59 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/63.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/63.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/64.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/64.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/65.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/65.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/66.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/66.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/67.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/67.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/68.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/68.jpeg"  />
 </div>
 
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/69.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/69.jpeg"  />
 </div>
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/70.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/70.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/71.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/71.jpeg"  />
 </div>
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/72.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/72.jpeg"  />
 </div>
 
 
@@ -395,31 +395,31 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/73.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/73.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/74.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/74.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/75.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/75.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/25.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/25.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/26.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/26.jpeg"  />
 </div>
 
 
@@ -427,11 +427,11 @@
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/28.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/28.jpeg"  />
 </div>
 
 
 
 <div align="center">
-  <img style="max-width: 50%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/29.jpeg"  />
+  <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/29.jpeg"  />
 </div>
