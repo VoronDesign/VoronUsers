@@ -31,6 +31,20 @@
   <img height="400" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/5.jpeg"  />
 </div>
 
+<div align="center">
+  <img height="200" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/32.jpeg"
+    />
+     <img height="200" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/33.jpeg" />
+
+</div>
+
+
+
+<div align="center">
+  />
+</div>
+
+
 
 
 <div align="center">
@@ -198,14 +212,4 @@
 </div>
 
 
-
-<div align="center">
-  <img height="400" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/32.jpeg"  />
-</div>
-
-
-
-<div align="center">
-  <img height="400" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/33.jpeg"  />
-</div>
 
