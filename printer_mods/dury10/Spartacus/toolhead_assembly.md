@@ -7,11 +7,14 @@
 </div>
 
 
-###  first you need to modify the heatsink 
-###  <a href="v6_heatsink_mod.md" > <img height="400" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/1.jpeg"></a>
+####   <a href="v6_heatsink_mod.md"> First you need to modify the heatsink </a>
+####  <a href="v6_heatsink_mod.md" > <img height="800" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/v6_heatsink_mod/heatsink_mod.jpeg"></a>
 
+<br>
+<br>
+<br clear="both">
 
-### Let's Start the build!
+## Let's Start the build!
 
 <div align="center">
   <img height="400" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembley/2.jpeg"  />
