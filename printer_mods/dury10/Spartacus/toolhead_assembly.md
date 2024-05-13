@@ -112,10 +112,11 @@ Part Cooling Fan's are mounted.
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/14.jpeg"  />
 </div>
 
+Insert the 3010 hotend fan and route the cables over the right partcooling fan. it has a grove like the left one has. 
 
+<br>
 
 Now let's put the hotend in the right place. pay atention to the fan cable to dont pinch it, it has a gove 
-p.s. before puting the HotEnd Holder you need to insert the 3010 hotend fan and route the cables over the right partcooling fan. it has a grove like the left one has. 
 
 <div align="center">
   <img style="max-width: 30%;" src="https://github.com/dury10/VoronUsers/blob/Spartacus/printer_mods/dury10/Spartacus/IMAGES/spartacus_assembly/30.jpeg"  />
