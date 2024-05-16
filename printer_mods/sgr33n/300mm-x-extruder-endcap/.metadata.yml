@@ -10,8 +10,8 @@ discord_username: sgr33n
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
-- CAD/300mm X-Extruder Endcap.step
-- CAD/300mm X-Extruder Endcap.f3z
+- CAD/300mm_X-Extruder_Endcap.step
+- CAD/300mm_X-Extruder_Endcap.f3z
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
 #stl:
