@@ -4,3 +4,10 @@ Endcaps that help using a 300mm X-Extruder 2020 profile. The Enderwire conversio
 
 You might want to look at [my fork](https://github.com/sgr33n/VoronUsers/edit/master/printer_mods/sgr33n/300mm_X-Extruder-Endcap/) for more up to date files and code.
 
+![alt text](Images/images/300mm-X-Extruder-Endcap-X-Carriage.jpg)
+
+![alt text](Images/images/300mm-X-Extruder-Endcap-X-2020-Profile.jpg)
+
+## Gallery
+![picture](Images/gallery-1.jpg)
+![picture](Images/gallery-2.jpg)
