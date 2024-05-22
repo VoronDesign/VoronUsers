@@ -10,6 +10,7 @@ discord_username: dury10
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
+- CAD/Spartacus_step.7z
 - CAD/Spartacus_step.stp
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
