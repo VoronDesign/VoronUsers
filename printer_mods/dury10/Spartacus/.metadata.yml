@@ -2,7 +2,7 @@
 # The title of your mod. Choose a short and descriptive name
 title: Spartacus
 # A short description of your mod. Try to describe your mod with 1-2 short sentences
-description: Spartacus: The Toolhead embodies the spirit of accessibility and performance, utilizing off-the-shelf components to deliver professional-grade results without breaking the bank. Crafted with precision and integrity, Spartacus represents a commitment to providing high performance at a reasonable cost. Its name reflects the ethos of empowerment, where users can harness its capabilities without compromise. From its lightweight design to its versatile compatibility, Spartacus stands as a testament to innovation and affordability in the world of 3D printing toolheads. Unleash the power of Spartacus: where affordability meets excellence.
+description: Spartacus The Toolhead 
 # Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
 mod_version: 1
 # You may add your discord username here so people can contact you about your mod
@@ -14,28 +14,29 @@ cad:
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
 stl:
-- STL/strain_relief_45_degres.stl
-- STL/strain_relief_45_degres_cover.stl
-- STL/strain_relief_90_degres.stl
-- STL/strain_relief_90_degres_cover.stl
+- STL/belt_holder_x2.stl
 - STL/ebb_36_can_cover.stl
 - STL/extruder_back_plate.stl
 - STL/extruder_main_body.stl
 - STL/idler.stl
-- STL/Klicky_holder.stl
 - STL/klicky.stl
 - STL/klicky_dock.stl
+- STL/Klicky_holder.stl
 - STL/latch.stl
 - STL/MGN12_6mmBelt_X_carriage_Left.stl
 - STL/MGN12_6mmBelt_X_carriage_Right.stl
+- STL/rapido_holder_back.stl
+- STL/rapido_holder_front.stl
 - STL/shutter.stl
 - STL/Spartacus_Face.stl
 - STL/stepper_motor_cover.stl
+- STL/strain_relief_45_degres.stl
+- STL/strain_relief_45_degres_cover.stl
+- STL/strain_relief_90_degres.stl
+- STL/strain_relief_90_degres_cover.stl
 - STL/v6_holder_back.stl
 - STL/V6_holder_front.stl
-- STL/belt_holder_x2.stl
-- STL/rapido_holder_back.stl
-- STL/rapido_holder_front.stl
+
 
 # The image files provided with your mod. These may be instructions you use in your README.md file, or other additional pictures.
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
