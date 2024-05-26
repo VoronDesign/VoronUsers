@@ -359,6 +359,7 @@ Printer mods for Voron 3D printers
 | scanlory | [Clip-On Front Door Frame](scanlory/clip_on_door_frame) | Clip-on frame to stiffen and seal front door panels when using... | V2.4 | 2024-01-08T16:38:25+00:00 |
 | ScramblerUSA | [Side Skirt Power Switch](ScramblerUSA/SideSkirtPowerSwitch) | Skirt-mounted rocker switch for easy access for Voron 2.4 | V2.4 | 2024-01-08T16:38:25+00:00 |
 | See1807 | [TopHat Exhaust and LED Light](See1807/Voron_V0_Exhaust_and_LED_Mod) | A mount for 10mm LED strips and Exhaust for Voron V0 | V0.2 | 2024-01-08T16:38:25+00:00 |
+| sgr33n | [300mm X-Extrusion Endcap](sgr33n/300mm-x-extrusion-endcap) | This mod makes stabler and prettier the use of a 300mm profile for... | VSW | 2024-05-26T21:49:13+00:00 |
 | Shiftingtech | [Trident Dual Power Switch](Shiftingtech/Trident_dual_power_switch) | A replacement skirt, allowing 2 power switches | VT | 2024-01-08T16:38:25+00:00 |
 | ShinyPants | [OrangePi 3 LTS DIN Rail bracket](ShinyPants/Orange_Pi_3_LTS_DIN) | A DIN rail mount for OrangePi LTS 3 | V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
 | Shteeeeeve | [V0.1 LED Tophat](Shteeeeeve/V01-LED-Tophat) | V0.1 LED Tophat w/ 24V LED Lightstrip | V0.2 | 2024-01-08T16:38:25+00:00 |

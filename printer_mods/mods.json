@@ -3993,6 +3993,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "sgr33n/300mm-x-extrusion-endcap",
+        "title": "300mm X-Extrusion Endcap",
+        "creator": "sgr33n",
+        "description": "This mod makes stabler and prettier the use of a 300mm profile for the X-Extrusion.",
+        "printer_compatibility": [
+            "VSW"
+        ],
+        "last_changed": "2024-05-26T21:49:13+00:00"
+    },
+    {
         "path": "slitte/PCB_Probe",
         "title": "PCB_Probe",
         "creator": "slitte",
