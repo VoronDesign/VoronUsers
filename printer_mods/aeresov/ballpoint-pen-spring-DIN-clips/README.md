@@ -1,5 +1,5 @@
 <div style="text-align: right"><sub>A Team Dropbear Production</sub></div>
-<img align="right" width="100" height="100" src="images/db.png">
+<img align="right" width="100" height="100" src="Images/db.png">
 
 # Ballpoint pen spring DIN clips
 
@@ -25,18 +25,18 @@ This part is not exposed to any significant heat, so you could probably use PLA.
 ### Steps
 |<!-- -->|<!-- -->|
 |:-------|:------:|
-|remove built-in support<br>with narrow nose pliers|![remove_support](images/remove_support.jpg)|
-|align first shuttle|![align_shuttle](images/align_shuttle.jpg)|
-|insert spring<br>no need to make it straight just now|![insert_spring](images/insert_spring.jpg)|
-|wiggle the spring by hex driver<br>so it straightens|![wiggle1](images/wiggle1.jpg)|
-|insert screw|![insert_screw](images/insert_screw.jpg)|
-|gently wiggle the screw so it goes in|![wiggle2](images/wiggle2.jpg)|
-|...and all the way through|![screw1_ready](images/screw1_ready.jpg)|
-|same for second shuttle|![screw2_ready](images/screw2_ready.jpg)|
-|get button piece|![button1](images/button1.jpg)|
-|hold it by pressing with your finger,<br>and drive screws into plastic|![button2](images/button2.jpg)|
-|done|![done](images/done.jpg)|
-|this is how it needs to end up inside|![spring_position](images/spring_position.jpg)|
-|clip-on position|![clip_on](images/clip_on.jpg)|
-|clip-off position|![clip_off](images/clip_off.jpg)|
-|mount a bracket|![bracket_on](images/bracket_on.jpg)|
+|remove built-in support<br>with narrow nose pliers|![remove_support](Images/remove_support.jpg)|
+|align first shuttle|![align_shuttle](Images/align_shuttle.jpg)|
+|insert spring<br>no need to make it straight just now|![insert_spring](Images/insert_spring.jpg)|
+|wiggle the spring by hex driver<br>so it straightens|![wiggle1](Images/wiggle1.jpg)|
+|insert screw|![insert_screw](Images/insert_screw.jpg)|
+|gently wiggle the screw so it goes in|![wiggle2](Images/wiggle2.jpg)|
+|...and all the way through|![screw1_ready](Images/screw1_ready.jpg)|
+|same for second shuttle|![screw2_ready](Images/screw2_ready.jpg)|
+|get button piece|![button1](Images/button1.jpg)|
+|hold it by pressing with your finger,<br>and drive screws into plastic|![button2](Images/button2.jpg)|
+|done|![done](Images/done.jpg)|
+|this is how it needs to end up inside|![spring_position](Images/spring_position.jpg)|
+|clip-on position|![clip_on](Images/clip_on.jpg)|
+|clip-off position|![clip_off](Images/clip_off.jpg)|
+|mount a bracket|![bracket_on](Images/bracket_on.jpg)|
