@@ -18,9 +18,9 @@ cad:
 # All paths are relative to this .metadata.yml file.
 images:
 - Images/clip_on.jpg
-- Images/clip_off.png
-- Images/spring_position.png
-- Images/bracket_on.png
+- Images/clip_off.jpg
+- Images/spring_position.jpg
+- Images/bracket_on.jpg
 # List all STL files
 stl:
 - STL/shuttle.stl
