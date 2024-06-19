@@ -18,7 +18,8 @@ Printer mods for Voron 3D printers
 |  | [Exhaust filter housing - side...](42bios/exhaust_filter_housing_side) | Exhaust filter housing with the G1-8 "thread on the side. | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [relay mount](42bios/relay_mount) | relay-mount for 2x 2 channel relay modules. | V2.4 | 2024-01-08T16:38:25+00:00 |
 | ademuri | [Lights, Camera, Voron](ademuri/Lights_Camera_Voron) | A mount for LED strips and Picam for the V0.1 | V0.2 | 2024-01-08T16:38:25+00:00 |
-| aeresov | [cable tie DIN mount](aeresov/cable_tie_DIN_mount) | A bracket for cable ties to route cables across DIN rails. | V2.4 | 2024-01-08T16:38:25+00:00 |
+| aeresov | [Ballpoint pen spring DIN clips](aeresov/ballpoint-pen-spring-DIN-clips) | Assortment of mechanical DIN clips using common ballpoint pen springs. | V2.4r2, VT | 2024-06-19T10:47:27+00:00 |
+|  | [cable tie DIN mount](aeresov/cable_tie_DIN_mount) | A bracket for cable ties to route cables across DIN rails. | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [MeanWell UHP-xxx DIN mount](aeresov/MeanWell_UHP_DIN_mount) | A bracket for MeanWell UHP series PSU (200, 350 and 500) to mount... | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Raspberry Pi DIN mount](aeresov/Raspberry_Pi_DIN_mount) | A bracket for Raspberry Pi 3/4 to mount it onto DIN rail, along or... | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [SKR 1.3/1.4 DIN mount](aeresov/SKR_DIN_mount) | A bracket for SKR 1.3/1.4 board to mount it onto DIN rail, along or... | V2.4 | 2024-01-08T16:38:25+00:00 |

@@ -2298,6 +2298,17 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "aeresov/ballpoint-pen-spring-DIN-clips",
+        "title": "Ballpoint pen spring DIN clips",
+        "creator": "aeresov",
+        "description": "Assortment of mechanical DIN clips using common ballpoint pen springs.",
+        "printer_compatibility": [
+            "V2.4r2",
+            "VT"
+        ],
+        "last_changed": "2024-06-19T10:47:27+00:00"
+    },
+    {
         "path": "aeresov/cable_tie_DIN_mount",
         "title": "cable tie DIN mount",
         "creator": "aeresov",
