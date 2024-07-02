@@ -8,7 +8,7 @@ This rework replaces the M5 fasteners with M3 SHCS, reducing the overall width t
 # Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
 mod_version: 1
 # You may add your discord username here so people can contact you about your mod
-discord_username: Riker's Beard
+discord_username: rikersb3ard
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
