@@ -2,9 +2,7 @@
 # The title of your mod. Choose a short and descriptive name
 title: WAGO 221-415 mount 3x5 M3 fasteners
 # A short description of your mod. Try to describe your mod with 1-2 short sentences
-description: This is a rework of the WAGO 221-415 mount that you can find in the official Voron 2.4r2 CAD file.
-
-This rework replaces the M5 fasteners with M3 SHCS, reducing the overall width to make placement between the electronics bay DIN rails easier primarily, and you'll likely already have the M3 hardware on hand! This mod will likely work with other printers using 2020 extrusions.
+description: This is a rework of the WAGO 221-415 mount that you can find in the official Voron 2.4r2 CAD file. This rework replaces the M5 fasteners with M3 SHCS, reducing the overall width to make placement between the electronics bay DIN rails easier primarily, and you'll likely already have the M3 hardware on hand! This mod will likely work with other printers using 2020 extrusions.
 # Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
 mod_version: 1
 # You may add your discord username here so people can contact you about your mod
