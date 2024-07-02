@@ -2,9 +2,7 @@
 # The title of your mod. Choose a short and descriptive name
 title: RS-50-5 PSU Bracket
 # A short description of your mod. Try to describe your mod with 1-2 short sentences
-description: This is a bracket for mounting an RS-50-5 PSU to the DIN rail in your electronics bay, it will probably work with other printers using DIN rails given there is space for the RS-50-5.
-
-It was made to resemble the original RS-25-5 PSU bracket from Voron Design.
+description: This is a bracket for mounting an RS-50-5 PSU to the DIN rail in your electronics bay, it will probably work with other printers using DIN rails given there is space for the RS-50-5.It was made to resemble the original RS-25-5 PSU bracket from Voron Design.
 # Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
 mod_version: 1
 # You may add your discord username here so people can contact you about your mod
