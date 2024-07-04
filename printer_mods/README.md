@@ -342,6 +342,7 @@ Printer mods for Voron 3D printers
 |  | [LED 15.5mm quarter round mounts](richardjm/led-mounts) | Mounting corners with integrated cable runs for 15.5mm quarter... | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Picam corner mount](richardjm/picam-corner) | Out of the way corner mounted picam | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Printable snap latches for 2020...](richardjm/snap-latch-2020) | Quick release panel latch inspired by the work of others. | V2.4 | 2024-01-08T16:38:25+00:00 |
+| RikersBeard | [RS-50-5 PSU Bracket](RikersBeard/RS-50-5_Bracket) | A Meanwell RS-50-5 PSU DIN rail mount bracket. | V2.4r2, VT | 2024-07-04T20:34:19+00:00 |
 | rngSplat | [Printable Switchwire Deck Plate](rngSplat/SW_Deck_Plate) | Print a deck plate for Switchwire with debossed Voron logo | VSW | 2024-01-08T16:38:25+00:00 |
 | roboticator24 | [Touchscreen for OctoDash](roboticator24/4inch_touchscreen_mount_for_v2.4) | Mount a 4-inch LCD touchscreen to your V2.4 in place of the usual... | V2.4 | 2024-01-08T16:38:25+00:00 |
 | RockNLol | [RockNRoll](RockNLol/RockNRoll) | Rockers to roll the printer on its back for easier access to the... | V2.4 | 2024-01-08T16:38:25+00:00 |
