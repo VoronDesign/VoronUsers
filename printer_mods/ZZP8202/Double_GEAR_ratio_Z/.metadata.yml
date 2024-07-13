@@ -3,7 +3,7 @@ description: "Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connectio
 mod_version: 1
 discord_username: ZZP8202
 cad:
-- 3D/Double_GEAR_ratio_Z_belt_assembly_with_Spherical_Bearing_connection
+- 3D/Double_GEAR_ratio_Z_belt_assembly_with_Spherical_Bearing_connection.STEP
 stl:
 - STL/Adapter_x4.STL
 - STL/Pulley_Holder_x4.STL
@@ -13,7 +13,7 @@ stl:
 - STL/Z_Bearing_Block_Bottom_With_Pulley_Right_A_x2.STL
 - STL/Z_Bearing_Block_Bottom_With_Pulley_Right_B_X2.STL
 - STL/Z_Bearing_Block_Top_X4.STL
-- STL/Z_Belt_Clamp_Upper_Bottom_x8.STL
+- STL/Z_Belt_Clamp_Bottom_x8.STL
 - STL/Z_Belt_Clamp_Upper_x8.STL
 images:
 - Images/CAD_Detal_view1.png
@@ -21,6 +21,14 @@ images:
 - Images/CAD_front_view.png
 - Images/CAD_side_view.png
 - Images/Photo.jpg
+-Other/Assemble_Instructions/Pulley_Holder.gif
+-Other/Assemble_Instructions/Z_Bearing_Block_Bottom_With_Pulley.gif
+-Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.png
+-Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.png
+Other:
+-Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.pdf
+-Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.pdf
+
 printer_compatibility:
 - V2.4
 

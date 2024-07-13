@@ -19,9 +19,35 @@ In my modification, I used GE5C ball joints to connect the gantry and the linear
 ## Image:
 ![front](Images/CAD_front_view.png)
 ![side](Images/CAD_side_view.png)
-![Detal1](Images/CAD_Detal_view1.png)
 ![Detal2](Images/CAD_Detal_view2.png)
-![Photo](Images/Photo.jpg)
+![Detal1](Images/CAD_Detal_view1.png)
+![Photo](Images/ezgif.com-resize.gif)
+
+## Assemble Instructions:
+You can replace Z0~Z3 one by one. 
+
+When installing the pulleys, threading the belt in advance will make the process easier.
+
+1. Secure the gantry.you can use this MOD https://mods.vorondesign.com/details/p80KEQX34UKwVvovF0ig
+2. Remove the existing Bearing Block and related modules.
+3. Loosen the belt tensioning structure.
+4. Install the bottom belt clamp.
+5. Assemble the Bearing Block Bottom With Pulley module.
+6. Assemble the Pulley Holder module.
+7. Install the top belt clamp.
+8. Restore the belt tensioning structure.
+9. Adjust the belt tension.
+10. Replace the XY drag chain bracket.
+
+#### Pulley_Holder
+![Pulley_Holder_BOM](Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.png)
+![Pulley_Holder_Assemble Instructions](Other/Assemble_Instructions/Pulley_Holder.gif)
+
+
+#### Bearing_Block_Bottom_With_Pulley
+![Z_Bearing_Block_Bottom_With_Pulley_BOM](Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.png)
+![Bearing_Block_Bottom_With_Pulley_Assemble Instructions](Other/Assemble_Instructions/Z_Bearing_Block_Bottom_With_Pulley.gif)
+
 
 ## Configuration Change:
 
@@ -37,13 +63,14 @@ You may adjust the 'horizontal_move_z' parameter in '[quad_gantry_level] 'and '[
 |NO.	|Category	|Part Name						|Qty				|Remark
 |--|--|--|--|--|
 |1	|Fasteners	|M3x15 SHCS 							|4				|		|
-|2	|Fasteners	|M3x20 SHCS 							|16	                  	|		|
-|3	|Fasteners	|M5X25 BHCS 						|12				|		|
+|2	|Fasteners	|M3x20 SHCS 							|16	                  	|	  |
+|3	|Fasteners	|M5X25 BHCS 						|12				|M5X27 BHCS Better|
 |4	|Fasteners	|M5x15 BHCS 							|24				|		|
 |5	|Fasteners	|M5x15 SHCS 							|8				|		|
-|6	|Fasteners	|M5x12x8 NUT						|8				|		|
-|7	|Fasteners	|M5X1x8 washer 						|12				|		|
-|8	|Fasteners	|M5 T-nut HNTAJ5-5					|16				|		|
-|9	|Motion		|F605zz  Bearing 						|16				|		|
-|10	|Motion		|GE5C Spherical Bearing 				|16				|		|
-|11	|Motion		|GT2 Open Belt LL-2GT-9 (9mm wide)		|Increase 50%		|		|
+|6	|Fasteners	|M5xNUT								|8				|		|
+|7	|Fasteners	|M5x12x8 NUT 						|4				|LEN:12mm,Out DIA:8mm	|
+|8	|Fasteners	|M5X1x8 washer 						|8				|		|
+|9	|Fasteners	|M5 T-nut HNTAJ5-5					|16				|		|
+|10	|Motion		|F605zz  Bearing 						|16				|		|
+|11	|Motion		|GE5C Spherical Bearing 				|4				|		|
+|12	|Motion		|GT2 Open Belt LL-2GT-9 (9mm wide)		|Increase 50%		|		|
