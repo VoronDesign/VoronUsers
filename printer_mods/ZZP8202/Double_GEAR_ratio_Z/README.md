@@ -21,7 +21,7 @@ In my modification, I used GE5C ball joints to connect the gantry and the linear
 ![side](Images/CAD_side_view.png)
 ![Detal2](Images/CAD_Detal_view2.png)
 ![Detal1](Images/CAD_Detal_view1.png)
-![Photo](Images/ezgif.com-resize.gif)
+
 
 ## Assemble Instructions:
 You can replace Z0~Z3 one by one. 

@@ -21,13 +21,13 @@ images:
 - Images/CAD_front_view.png
 - Images/CAD_side_view.png
 - Images/Photo.jpg
--Other/Assemble_Instructions/Pulley_Holder.gif
--Other/Assemble_Instructions/Z_Bearing_Block_Bottom_With_Pulley.gif
--Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.png
--Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.png
+- Other/Assemble_Instructions/Pulley_Holder.gif
+- Other/Assemble_Instructions/Z_Bearing_Block_Bottom_With_Pulley.gif
+- Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.png
+- Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.png
 Other:
--Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.pdf
--Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.pdf
+- Other/Assemble_Instructions/BOM/Pulley_Holder_X4_BOM.pdf
+- Other/Assemble_Instructions/BOM/Z_Bearing_Block_Bottom_With_Pulley_BOM.pdf
 
 printer_compatibility:
 - V2.4
