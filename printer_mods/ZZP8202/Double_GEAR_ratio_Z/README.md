@@ -1,7 +1,7 @@
 # Double_GEAR_ratio_Z
 
 ## Description: 
-#### Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection
+#### Utilizing the characteristics of a movable pulley system, the original Z belt structure's 4:1 gear ratio has been changed to 8:1, amplifying the stepper motor's static torque. This ensures that the gantry can resist gravity even in the event of a power outage. Additionally, using spherical bearings to connect the linear rails and the gantry makes the connection more reliable.
 
 ## Objectives：
 #### Reject Sagging
