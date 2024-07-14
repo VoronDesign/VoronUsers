@@ -2199,6 +2199,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "ZZP8202/Double_GEAR_ratio_Z",
+        "title": "Double_GEAR_ratio_Z",
+        "creator": "ZZP8202",
+        "description": "Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection",
+        "printer_compatibility": [
+            "V2.4"
+        ],
+        "last_changed": "2024-07-14T14:53:20+00:00"
+    },
+    {
         "path": "ZZP8202/Pull-out_electrical_store",
         "title": "Pull-out electrical store",
         "creator": "ZZP8202",

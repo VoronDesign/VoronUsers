@@ -439,4 +439,5 @@ Printer mods for Voron 3D printers
 |  | [V0 MidPanel HexPattern](Zen3D/V0_MidPanel_HexPattern) | Voron0 MidPanel with Hex pattern and Wire cover | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [V0 Skirt set](Zen3D/V0_Skirt) | SSR, PowerSwitch, Adxl, Nameplate and color change printing | V0.2 | 2024-01-08T16:38:25+00:00 |
 | zruncho | [V0 No-Drop Nuts](zruncho/V0_No_Drop_Nuts) | Voron0 nut inserts which auto-align (LDO frames only) | V0.2 | 2024-01-08T16:38:25+00:00 |
-| ZZP8202 | [Pull-out electrical store](ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | V2.4 | 2024-01-08T16:38:25+00:00 |
+| ZZP8202 | [Double_GEAR_ratio_Z](ZZP8202/Double_GEAR_ratio_Z) | Double_GEAR_ratio_Z_belt_assembly_with_spherical_bearing_connection | V2.4 | 2024-07-14T14:53:20+00:00 |
+|  | [Pull-out electrical store](ZZP8202/Pull-out_electrical_store) | Voron 2.4 Pull-out electrical store（350mm only） | V2.4 | 2024-01-08T16:38:25+00:00 |
