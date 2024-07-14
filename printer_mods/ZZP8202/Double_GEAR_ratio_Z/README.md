@@ -13,7 +13,7 @@ Previously, I modified the original G-code M84 to never turn off the Z motors un
 
 Additionally, in the current setup, the connection between the gantry and the linear rails is in a 'semi-connected' state, requiring high calibration efforts and even risking disconnection during printing.
 
-In my modification, I used GE5C ball joints to connect the gantry and the linear rails, which should provide a more stable structure. I also used a pulley system to increase the gear ratio to 8:1, allowing the gantry to maintain its position without external forces after a power outage. Practical tests show that only one leveling attempt is needed after a power outage without external influences, compared to the previous 3-4 attempts needed to complete the leveling.
+In my modification, I used GE5C spherical bearings to connect the gantry and the linear rails, which should provide a more stable structure. I also used a pulley system to increase the gear ratio to 8:1, allowing the gantry to maintain its position without external forces after a power outage. Practical tests show that only one leveling attempt is needed after a power outage without external influences, compared to the previous 3-4 attempts needed to complete the leveling.
 
 
 ## Image:
