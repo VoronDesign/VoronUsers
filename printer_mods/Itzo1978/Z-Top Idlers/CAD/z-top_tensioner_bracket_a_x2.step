@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'z-topbelt_holder_z_z2.step',
-/* time_stamp */ '2024-09-20T19:55:52+02:00',
+/* name */ 'z-top_tensioner_bracket_a_x2 v16.step',
+/* time_stamp */ '2024-09-22T16:24:00+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -2851,18 +2851,18 @@ SOLID_ANGLE_UNIT()
 #2778=PRODUCT_DEFINITION_SHAPE('',$,#2781);
 #2779=SHAPE_REPRESENTATION('',(#1665),#2771);
 #2780=PRODUCT_DEFINITION_CONTEXT('part definition',#2785,'design');
-#2781=PRODUCT_DEFINITION('z-topbelt_holder_z_z2_x2',
-'z-topbelt_holder_z_z2_x2 v16',#2782,#2780);
+#2781=PRODUCT_DEFINITION('z-top_tensioner_bracket_a_x2',
+'z-top_tensioner_bracket_a_x2 v16',#2782,#2780);
 #2782=PRODUCT_DEFINITION_FORMATION('',$,#2787);
-#2783=PRODUCT_RELATED_PRODUCT_CATEGORY('z-topbelt_holder_z_z2_x2 v16',
-'z-topbelt_holder_z_z2_x2 v16',(#2787));
+#2783=PRODUCT_RELATED_PRODUCT_CATEGORY(
+'z-top_tensioner_bracket_a_x2 v16','z-top_tensioner_bracket_a_x2 v16',(#2787));
 #2784=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#2785);
 #2785=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #2786=PRODUCT_CONTEXT('part definition',#2785,'mechanical');
-#2787=PRODUCT('z-topbelt_holder_z_z2_x2','z-topbelt_holder_z_z2_x2 v16',
-$,(#2786));
+#2787=PRODUCT('z-top_tensioner_bracket_a_x2',
+'z-top_tensioner_bracket_a_x2 v16',$,(#2786));
 #2788=PRESENTATION_STYLE_ASSIGNMENT((#2790));
 #2789=PRESENTATION_STYLE_ASSIGNMENT((#2791));
 #2790=SURFACE_STYLE_USAGE(.BOTH.,#2792);

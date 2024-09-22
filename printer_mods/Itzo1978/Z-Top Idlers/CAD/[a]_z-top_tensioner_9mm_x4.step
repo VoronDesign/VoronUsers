@@ -9,8 +9,8 @@ FILE_DESCRIPTION(
 /* implementation_level */ '2;1');
 
 FILE_NAME(
-/* name */ 'z-topbelt_belt_holder.step',
-/* time_stamp */ '2024-09-20T19:56:03+02:00',
+/* name */ '[a]_z-top_tensioner_9mm_x4.step',
+/* time_stamp */ '2024-09-22T16:23:09+02:00',
 /* author */ (''),
 /* organization */ (''),
 /* preprocessor_version */ 'ST-DEVELOPER v20',
@@ -3850,18 +3850,18 @@ SOLID_ANGLE_UNIT()
 #3638=PRODUCT_DEFINITION_SHAPE('',$,#3641);
 #3639=SHAPE_REPRESENTATION('',(#2033),#3631);
 #3640=PRODUCT_DEFINITION_CONTEXT('part definition',#3645,'design');
-#3641=PRODUCT_DEFINITION('z-topbelt_belt_holder_x4',
-'z-topbelt_belt_holder_x4 v8',#3642,#3640);
+#3641=PRODUCT_DEFINITION('[a]_z-top_tensioner_9mm_x4',
+'[a]_z-top_tensioner_9mm_x4 v8',#3642,#3640);
 #3642=PRODUCT_DEFINITION_FORMATION('',$,#3647);
-#3643=PRODUCT_RELATED_PRODUCT_CATEGORY('z-topbelt_belt_holder_x4 v8',
-'z-topbelt_belt_holder_x4 v8',(#3647));
+#3643=PRODUCT_RELATED_PRODUCT_CATEGORY('[a]_z-top_tensioner_9mm_x4 v8',
+'[a]_z-top_tensioner_9mm_x4 v8',(#3647));
 #3644=APPLICATION_PROTOCOL_DEFINITION('international standard',
 'automotive_design',2009,#3645);
 #3645=APPLICATION_CONTEXT(
 'Core Data for Automotive Mechanical Design Process');
 #3646=PRODUCT_CONTEXT('part definition',#3645,'mechanical');
-#3647=PRODUCT('z-topbelt_belt_holder_x4','z-topbelt_belt_holder_x4 v8',
-$,(#3646));
+#3647=PRODUCT('[a]_z-top_tensioner_9mm_x4',
+'[a]_z-top_tensioner_9mm_x4 v8',$,(#3646));
 #3648=PRESENTATION_STYLE_ASSIGNMENT((#3650));
 #3649=PRESENTATION_STYLE_ASSIGNMENT((#3651));
 #3650=SURFACE_STYLE_USAGE(.BOTH.,#3652);
