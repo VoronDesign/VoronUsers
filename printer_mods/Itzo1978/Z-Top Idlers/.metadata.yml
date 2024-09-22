@@ -17,16 +17,16 @@ cad
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
 # All paths are relative to this .metadata.yml file.
 images:
-- Images/Z Idlers (coupe).png
-- Images/Z Idlers (original).png
-- Images/Z-Top Idlers (coupe).png
-- Images/Z-Top Idlers.png
+- Images/Z_Idlers_coupe.png
+- Images/Z_Idlers_original.png
+- Images/ZTop_Idlers_coupe.png
+- Images/ZTop Idlers.png
 
 # List all STL files
 stl:
-- STL/[a]_z-top_tensioner_9mm_x4.stl
-- STL/z-top_tensioner_bracket_a_x2.stl
-- STL/z-top_tensioner_bracket_b_x2.stl
+- STL/[a]_ztop_tensioner_9mm_x4.stl
+- STL/ztop_tensioner_bracket_a_x2.stl
+- STL/ztop_tensioner_bracket_b_x2.stl
 # Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
 # "V0", "V0.1", "V0.2", "V0.2r1", "V1", "V1.6", "V1.8", "V1.8r1",  "V2", "V2.1", "V2.2", "V2.4", "V2.4r1", "V2.4r2", "VSW", "VT", "VTr1", "VL"
 # Please only specify printers that you have either tested your mod on yourself, or that someone else has tested for you. If you are unsure whether your

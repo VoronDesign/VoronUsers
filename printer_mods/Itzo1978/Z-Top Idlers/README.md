@@ -5,16 +5,16 @@ Z-axis tensioner tightened from above, with the screw aligned with the toothed w
 
 <table>
 	<tr>
-		<td><b>Original</b></td>
-		<td><b>My mod</b></td>
+		<td><center><h1><b>Original</b></h1></center></td>
+		<td><center><h1><b>My Mod</b></h1></center></td>
 	</tr>
 	<tr>
-		<td><img src="Images/Z Idlers (original).png"></td>
+		<td><img src="Images/Z_Idlers_original.png"></td>
 		<td><img src="Images/Z-Top Idlers.png"></td>
 	</tr>
 	<tr>
-		<td><img src="Images/Z Idlers (coupe).png"></td>
-		<td><img src="Images/Z-Top Idlers (coupe).png"></td>
+		<td><img src="Images/ZTop_Idlers.png"></td>
+		<td><img src="Images/ZTop_Idlers_coupe.png"></td>
 	</tr>
 </table>
 
