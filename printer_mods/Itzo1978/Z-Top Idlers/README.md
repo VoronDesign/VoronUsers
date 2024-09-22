@@ -30,9 +30,9 @@ Tightening the screw from above to tension the belt is much easier than from bel
 
 
 ## BOM
-* [a]_z-top_tensioner_9mm_x4
-* z-top_tensioner_bracket_a_x2
-* z-top_tensioner_bracket_b_x2
+* [a]_ztop_tensioner_9mm_x4
+* ztop_tensioner_bracket_a_x2
+* ztop_tensioner_bracket_b_x2
 * 4x Hex nuts M3 DIN 934
 * 4x M3 x 20 SHCS
 * 8x M5 x 20 BHCS
