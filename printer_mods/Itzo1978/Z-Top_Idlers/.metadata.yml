@@ -10,9 +10,9 @@ discord_username: itzo
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
-- CAD/[a]_z-top_tensioner_9mm_x4.step
-- CAD/z-top_tensioner_bracket_a_x2.step
-- CAD/z-top_tensioner_bracket_b_x2.step
+- CAD/[a]_ztop_tensioner_9mm_x4.step
+- CAD/ztop_tensioner_bracket_a_x2.step
+- CAD/ztop_tensioner_bracket_b_x2.step
 # The image files provided with your mod. These may be instructions you use in your README.md file, or other additional pictures.
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
 # All paths are relative to this .metadata.yml file.
