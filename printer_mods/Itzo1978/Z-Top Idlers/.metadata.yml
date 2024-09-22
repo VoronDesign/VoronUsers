@@ -17,7 +17,11 @@ cad
 # **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
 # All paths are relative to this .metadata.yml file.
 images:
-- Images/Z-Top Idlers.jpg
+- Images/Z Idlers (coupe).png
+- Images/Z Idlers (original).png
+- Images/Z-Top Idlers (coupe).png
+- Images/Z-Top Idlers.png
+
 # List all STL files
 stl:
 - STL/[a]_z-top_tensioner_9mm_x4.stl
