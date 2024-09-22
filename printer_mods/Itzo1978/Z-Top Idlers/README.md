@@ -5,8 +5,8 @@ Z-axis tensioner tightened from above, with the screw aligned with the toothed w
 
 <table>
 	<tr>
-		<td><center><h1><b>Original</b></h1></center></td>
-		<td><center><h1><b>My Mod</b></h1></center></td>
+		<td><center><b>Original</b></center></td>
+		<td><center><b>My Mod</b></center></td>
 	</tr>
 	<tr>
 		<td><img src="Images/Z_Idlers_original.png"></td>
