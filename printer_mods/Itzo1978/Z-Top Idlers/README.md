@@ -10,10 +10,10 @@ Z-axis tensioner tightened from above, with the screw aligned with the toothed w
 	</tr>
 	<tr>
 		<td><img src="Images/Z_Idlers_original.png"></td>
-		<td><img src="Images/Z-Top Idlers.png"></td>
+		<td><img src="Images/ZTop_Idlers.png"></td>
 	</tr>
 	<tr>
-		<td><img src="Images/ZTop_Idlers.png"></td>
+		<td><img src="Images/Z_Idlers_coupe.png"></td>
 		<td><img src="Images/ZTop_Idlers_coupe.png"></td>
 	</tr>
 </table>
