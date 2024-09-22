@@ -9,7 +9,7 @@ mod_version: 1
 discord_username: itzo
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
-cad
+cad :
 - CAD/[a]_z-top_tensioner_9mm_x4.step
 - CAD/z-top_tensioner_bracket_a_x2.step
 - CAD/z-top_tensioner_bracket_b_x2.step
