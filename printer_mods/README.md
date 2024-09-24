@@ -195,6 +195,7 @@ Printer mods for Voron 3D printers
 | Iakabos | [c920 Mount](Iakabos/C920_mount) | Slim mount for logitech c920 webcam | V1.8, V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [V0 beltchains](Iakabos/V0_beltchain) | Modified beltchain parts for V0 Z cables | V0.2 | 2024-01-08T16:38:25+00:00 |
 | iblue | [V0.1 Tophat Extractor](iblue/TophatExtractor) | Tophat Extractor for the Voron V0.1 with activated charcoal and... | V0.2 | 2024-01-08T16:38:25+00:00 |
+| Itzo1978 | [PEI Stop](Itzo1978/PEI_Stop) | Stop for positioning your PEI | V2.4r2 | 2024-09-24T13:42:21+00:00 |
 | jangrewe | [Bitter USB Cam](jangrewe/Bitter_USB_Cam) | Modification of the "Angry Cam USB v2.0" webcam mount for 1515... | V0 | 2024-01-08T16:38:25+00:00 |
 | jappaj | [V0.1 FanSaver](jappaj/FanSaver) | A printable fix for overheating V0.1 blower fans | V0.2 | 2024-01-08T16:38:25+00:00 |
 | jasonc | [V2.4 Z-Idler Shoulder Bolt Mod](jasonc/Z_Idler_Shoulder_Bolt) | Modification to the idler carriers to accept a 25mm shoulder bolt.... | V2.4 | 2024-01-08T16:38:25+00:00 |

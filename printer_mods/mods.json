@@ -924,6 +924,16 @@
         "last_changed": "2024-01-08T16:38:25+00:00"
     },
     {
+        "path": "Itzo1978/PEI_Stop",
+        "title": "PEI Stop",
+        "creator": "Itzo1978",
+        "description": "Stop for positioning your PEI",
+        "printer_compatibility": [
+            "V2.4r2"
+        ],
+        "last_changed": "2024-09-24T13:42:21+00:00"
+    },
+    {
         "path": "JD/RefillPlease",
         "title": "V2.4 Filament runout sensor",
         "creator": "JD",
