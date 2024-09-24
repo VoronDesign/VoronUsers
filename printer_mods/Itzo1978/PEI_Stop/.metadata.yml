@@ -1,0 +1,14 @@
+---
+title: PEI Stop
+description: Stop for positioning your PEI
+mod_version: 1
+discord_username: itzo
+cad:
+- CAD/pei_stop_x2.step
+images:
+- Images/pei_stop.png
+- Images/pei_stop.gif
+stl:
+- STL/pei_stop_x2.stl
+printer_compatibility:
+- V2.4r2
