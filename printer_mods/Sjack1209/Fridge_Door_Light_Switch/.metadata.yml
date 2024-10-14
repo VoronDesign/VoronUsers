@@ -10,8 +10,8 @@ discord_username: Mr.Splott V2.7189
 # The CAD files for your mod. Please provide them as a list.
 # Note that each mod must include at least one CAD file.
 cad:
-- Voron_Fridge_Door_Light_Switch.step
-- Voron_Fridge_Door_Light_Switch.f3d
+- CAD/Voron_Fridge_Door_Light_Switch.step
+- CAD/Voron_Fridge_Door_Light_Switch.f3d
 # The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
 # Note that each mod must include at least one STL or OBJ file.
 stl:
