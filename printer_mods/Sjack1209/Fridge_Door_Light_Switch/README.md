@@ -10,9 +10,9 @@ I've got two RGB led bars that are completely independent of this and are powere
 
 ## What you'll need:
 
-V-156-1C25 Micro switch (Link to Amazon)
+V-156-1C25 Micro switch
 
-White LED bars (Link to AliExpress)
+White LED bars
 
 Some wire I used 16ga since we're carrying 24 volts to 50 LEDs
 
