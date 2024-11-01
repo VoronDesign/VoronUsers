@@ -1,7 +1,7 @@
 # V2- PTFE bowden tube guide and CANBUS wire support
 
-<img src="Images/1.jpg">
-<img src="Images/2.jpg">
+<img src="IMAGES/1.jpg">
+<img src="IMAGES/2.jpg">
  
 I've made some adjustment after some feedback from the community.
 
@@ -28,11 +28,11 @@ Required Hardware:
 - M5 bolt to suit option.
 - Optional M5 nut if you can fit it with the bearing option.
  
-<img src="Images/3.jpg">
-<img src="Images/4.jpg">
-<img src="Images/5.jpg">
-<img src="Images/6.jpg"> 
-<img src="Images/7.png">
+<img src="IMAGES/3.jpg">
+<img src="IMAGES/4.jpg">
+<img src="IMAGES/5.jpg">
+<img src="IMAGES/6.jpg"> 
+<img src="IMAGES/7.png">
 
 
 # V1 - PTFE bowden tube guide and CANBUS wire support
