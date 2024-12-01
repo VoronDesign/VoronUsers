@@ -6,7 +6,9 @@ I've got two RGB led bars that are completely independent of this and are powere
 
  ![CAD](./Images/CAD.png)
  
- ![gif](./Images/Fridge_Door_Light Switch_Demo.gif)
+ ![CAD](./Images/CAD_Wiring_Diagram.png)
+ 
+ ![gif](./Images/Fridge_Door_Light_Switch_Demo.gif)
 
 ## What you'll need:
 
