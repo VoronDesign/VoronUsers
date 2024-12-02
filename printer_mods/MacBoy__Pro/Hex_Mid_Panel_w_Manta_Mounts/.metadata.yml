@@ -11,6 +11,9 @@ images:
 - images/installed.jpg
 - images/m4p.png
 - images/m5p.png
+- images/heatset_install.png
+- images/heatset_install_m5p_spacers.png
+- images/m5p_spacer_install.png
 printer_compatibility:
 - V0.2
 - V0.2r1
