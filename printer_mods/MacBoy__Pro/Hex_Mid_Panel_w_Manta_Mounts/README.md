@@ -8,6 +8,7 @@ Replaces the stock mid panel allowing rigid mounting of the Manta M4P/M5P. Based
 - Replaces the stock mid panel
 - Can be printed without an MMU/ToolChanger
 - Also print the [M5P Spacers](<STLs/M5P Spacers.stl>) if using the M5P in your build
+    - No additional parts needed if using the M4P
 
 ## Print Settings
 - ABS or ASA required
