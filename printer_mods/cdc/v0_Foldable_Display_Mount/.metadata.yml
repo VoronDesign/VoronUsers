@@ -10,8 +10,6 @@ cad:
 - CAD/v0_Foldable_Display_Mount.scad
 
 stl:
-- STL/STL_FILE_1.stl
-- STL/STL_FILE_2.obj
 - STL/fixed_back_part_left.stl
 - STL/fixed_back_part_right.stl
 - STL/hinge_pin_x4.stl
