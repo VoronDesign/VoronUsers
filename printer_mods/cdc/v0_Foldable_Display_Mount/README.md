@@ -1,7 +1,10 @@
 # Foldable Display Mount for v0
 
-A foldable display mount for v0 that allows the entire printer to fit
-into my travel backpack.
+The v0 barely fits in my travel backpack because the display sticks
+out a bit.  However, with this mod, I can fold the display, which
+allows me to transport my printer safely without worrying about
+damaging the display.  When I need to use the printer, I can easily
+unfold the display for convenience.
 
 ![photo](./Images/mounted_closed.jpg)
 ![photo](./Images/mounted_open.jpg)
