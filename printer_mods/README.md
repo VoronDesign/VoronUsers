@@ -166,7 +166,7 @@ Printer mods for Voron 3D printers
 | golas | [V0.1 Extended tophat hinge](golas/v0-extended-tophat-hinge) | Extended tophat for v0.1 with hinges (integrated or screwed ones). | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [V0.1 Trident skirt remix with...](golas/v0-trident-skirt-mix) | Trident style v0.1 skirt mix with 12864 Mini Lcd on front or plain... | V0.2 | 2024-01-08T16:38:25+00:00 |
 | GSL12 | [Pocketwatch Nema 17](GSL12/pocketwatch_nema17) | Extruder like Pocketwatch, but with Nema17 instead of Nema14. Maybe... | V0 | 2024-01-21T20:17:15+00:00 |
-| hartk1213 | [Voron0.2 2.8 Waveshare Display](hartk1213/Voron0.2_2.8_WaveshareDisplay) | 2.8 Waveshare display for V0.2 | V0.2 | 2024-01-08T16:38:25+00:00 |
+| hartk1213 | [Voron0.2 2.8 Waveshare Display](hartk1213/Voron0.2_2.8_WaveshareDisplay) | 2.8 Waveshare display for V0.2 | V0.2 | 2025-05-29T01:45:55+00:00 |
 |  | [Voron0.2 Rear Keystone Skirt](hartk1213/Voron0.2_Rear_Keystone_Skirt) | Added keystone slot on rear skirt for V0.2 | V0.2 | 2024-01-08T16:38:25+00:00 |
 |  | [Voron0 C14Inlet](hartk1213/Voron0_C14Inlet) | Added a new Power inlet that uses a Fused C14 plug and switch that... | V0.1 | 2024-01-08T16:38:25+00:00 |
 |  | [Voron0 deck panel](hartk1213/Voron0_deck_panel_with_logo_and_VORON0) | Used @Kruppes blank deck panel to add the logo as well as the name... | V0.1 | 2024-01-08T16:38:25+00:00 |
