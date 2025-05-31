@@ -1,0 +1,36 @@
+---
+# The title of your mod. Choose a short and descriptive name
+title: Voron Fridge Door Light Switch
+# A short description of your mod. Try to describe your mod with 1-2 short sentences
+description: This mod allows you to maintain software control of your white LED strips while also switching them to full brightness when the door is open
+# Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
+mod_version: 1
+# You may add your discord username here so people can contact you about your mod
+discord_username: Mr.Splott V2.7189
+# The CAD files for your mod. Please provide them as a list.
+# Note that each mod must include at least one CAD file.
+cad:
+- CAD/Voron_Fridge_Door_Light_Switch.step
+- CAD/Voron_Fridge_Door_Light_Switch.f3d
+# The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
+# Note that each mod must include at least one STL or OBJ file.
+stl:
+- STL/Voron_Fridge_Door_Light_Switch.stl
+# The image files provided with your mod. These may be instructions you use in your README.md file, or other additional pictures.
+# **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
+# All paths are relative to this .metadata.yml file.
+images:
+- Images/Bending_tip_to_touch_door.jpg
+- Images/Bent_Terminals.jpg
+- Images/CAD.png
+- Images/CAD_Wiring_Diagram.png
+- Images/Fridge_Door_Light_Switch_Demo.gif
+- Images/Fully_Installed.jpg
+- Images/Switch_Mods.jpg
+# Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
+# "V0", "V0.1", "V0.2", "V0.2r1", "V1", "V1.6", "V1.8", "V1.8r1",  "V2", "V2.1", "V2.2", "V2.4", "V2.4r1", "V2.4r2", "VSW", "VT", "VTr1", "VL"
+# Please only specify printers that you have either tested your mod on yourself, or that someone else has tested for you. If you are unsure whether your
+# mod is compatible with a certain printer, don't list it here!
+printer_compatibility:
+- VT
+- V2.4r2
