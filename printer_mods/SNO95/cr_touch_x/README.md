@@ -1,6 +1,6 @@
 # Voron Design Cube
 
-Replacement X carriage to mount a CR touch. It will oFfset the printhead by 6mm forward and 12mm down.
+Replacement X carriage to mount a CR touch. It will offset the printhead by 6mm forward and 12mm down.
 
 ![](./Images/X_back.jpg)
 
