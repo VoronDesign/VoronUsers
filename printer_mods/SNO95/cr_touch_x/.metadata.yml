@@ -1,0 +1,25 @@
+---
+title: CR Touch X carriage
+
+description: Redesigned X carraige to mount a CR touch, lowers the printhead by 12mm and moves it forward around 6mm, as such it requires a shifted chain mount.
+
+mod_version: 1
+
+discord_username: SNO95
+
+cad:
+- CAD/cr_touch_parts.f3d
+-CAD/cr_touch_parts.step
+
+images:
+- Images/X_back.jpg
+- Images/x_section.jpg
+
+stl:
+- STL/chain_mount.stl
+- STL/x_left.stl
+- STL/x_right.stl
+
+printer_compatibility:
+
+- V2.4r2
