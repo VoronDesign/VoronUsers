@@ -2,7 +2,7 @@
 
 Replacement X carriage to mount a CR touch.
 
-(./Images/X_back.jpg)
+![](./Images/X_back.jpg)
 
 ## Printing
 
