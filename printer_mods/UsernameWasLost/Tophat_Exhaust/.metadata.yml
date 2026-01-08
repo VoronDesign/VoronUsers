@@ -1,0 +1,35 @@
+---
+# The title of your mod. Choose a short and descriptive name
+title: Tophat Exhaust
+# A short description of your mod. Try to describe your mod with 1-2 short sentences
+description: This modifies the backplate of the DraftShift printed tophat (https://github.com/DraftShift/Tophat) to retain the functionality of the stock exhaust. While the stock mount "arms" are still compatible, it was not compatible with my selected cable management approach, so the exhaust is reliant on VHB and two screws for the stock exhaust plate. I tried to keep this as "stock" as possible. I assume that this would work fine for a Trident, but can only speak to my v2.4r2. I made this mod based on the printed tophat CAD files, so although I have only printed the 350mm version, it should be accurate for the 250mm and 300mm versions as well. CAD files for the mod are included
+# Mod version: Set this to 1 when you are submitting a new mod. When you make changes to your mod, you may increment this number
+mod_version: 1
+# You may add your discord username here so people can contact you about your mod
+discord_username: usernamelost
+# The CAD files for your mod. Please provide them as a list.
+# Note that each mod must include at least one CAD file.
+cad:
+- CAD/Printed_tophat_exhaust v5.3mf
+- CAD/Printed_tophat_exhaust v5.f3z
+- CAD/Printed_tophat_exhaust v6.step
+# The parts of your mod, exported and oriented ready to be sliced. Please provide them as a list.
+# Note that each mod must include at least one STL or OBJ file.
+stl:
+- STLs/Printed_tophat_exhaust_all_sizes.stl
+- STLs/Tophat_Exhaust_250mm.stl
+- STLs/Tophat_Exhaust_300mm.stl
+- STLs/Tophat_Exhaust_350mm.stl
+# The image files provided with your mod. These may be instructions you use in your README.md file, or other additional pictures.
+# **Note that the first image specified here will be used as cover image on mods.vorondesign.com**
+# All paths are relative to this .metadata.yml file.
+images:
+- images/Tophat_Exhaust_all sizes_rear.png
+- images/Tophat_Exhaust_all_sizes_front.png
+- images/Tophat_Exhaust_mounted.png
+# Printer compatibility. Please specify all compatible printers as a list. The following values are accepted:
+# "V0", "V0.1", "V0.2", "V0.2r1", "V1", "V1.6", "V1.8", "V1.8r1",  "V2", "V2.1", "V2.2", "V2.4", "V2.4r1", "V2.4r2", "VSW", "VT", "VTr1", "VL"
+# Please only specify printers that you have either tested your mod on yourself, or that someone else has tested for you. If you are unsure whether your
+# mod is compatible with a certain printer, don't list it here!
+printer_compatibility:
+- V2.4r2
