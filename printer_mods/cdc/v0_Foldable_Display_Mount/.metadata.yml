@@ -1,0 +1,30 @@
+---
+
+title: v0 Foldable Display Mount
+
+description: A foldable display mount for v0 that allows the entire printer to fit into my travel backpack.
+
+mod_version: 1
+
+cad:
+- CAD/v0_Foldable_Display_Mount.scad
+
+stl:
+- STL/fixed_back_part_left.stl
+- STL/fixed_back_part_right.stl
+- STL/hinge_pin_x4.stl
+- STL/movable_bottom_part.stl
+- STL/movable_front_part_left.stl
+- STL/movable_front_part_right.stl
+
+images:
+- Images/mounted_closed.jpg
+- Images/mounted_open.jpg
+- Images/unfold_use_fold.gif
+- Images/open_position_holder.jpg
+- Images/assembly_instructions.png
+- Images/assembled.jpg
+- Images/assembled_with_display.jpg
+
+printer_compatibility:
+- V0
