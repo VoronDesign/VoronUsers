@@ -1,0 +1,18 @@
+cad:
+- CAD/Silicon Mold/silicon_mold_outside.ipt
+- CAD/Silicon Mold/silicon_mold_top.ipt
+- CAD/Silicon Mold/silicon_mold_inside.ipt
+description: Construction Guide for Bambu TZ Hotend modification to a Rapido V2.0-like hotend. 
+images:
+- Images/0.jpg
+- Images/1.jpg
+mod_version: 1
+printer_compatibility:
+- V0.2, V1.8, V2.4, VT, VSW
+stl:
+- STL/optional_1x Voron_StealthBurner_RapidoTZ.stl
+- STL/optional_1x RapidoTZ_bendinghelper.stl
+- STL/1x RapidoTZ_silicon mold outside.stl
+- STL/1x RapidoTZ_silicon mold top.stl
+- STL/1x RapidoTZ_silicon mold inside.stl
+title: RapidoTZ Hotend Mod

@@ -91,6 +91,7 @@ Printer mods for Voron 3D printers
 | conqueror433 | [Voron Parts Logo](conqueror433/Voron_Parts_Logo) | Voron Parts Logo for your back panels, 3D Print or Laser Cut | V2.4 | 2024-01-08T16:38:25+00:00 |
 |  | [Voron V0.1 Parts Logo](conqueror433/Voron_V0.1_Parts_Logo) | Voron Parts Logo for your V0 deck panel | V0.2 | 2024-01-08T16:38:25+00:00 |
 | consibonsi | [Y-Mod SW 9mm](consibonsi/Y-Mod_SW_9mm) | 9mm Y belt mod for SW | VSW | 2024-01-08T16:38:25+00:00 |
+| crackzero_akl | [RapidoTZ Hotend Stealthburner](crackzero_akl/RapidoTZ_Hotend) | Construction Guide to transform Bambu Lab TZ 2.0 hotend to Rapido V2.0-like hotend | V0.2, V1.8, V2.4, VT, VSW | 2024-01-08T16:38:25+00:00 |
 | csch0 | [SW Fan Mount No Tape](csch0/SW_FanMount_No_Tape) | 60x20 Fan Mount for SW without tape | VSW | 2024-01-08T16:38:25+00:00 |
 | d3nny | [Filtered Power Plug with...](d3nny/mains_plug_panel_for_RND_165-00057) | Filtered Power Plug for RND 165-00057 and CAT6-Plug | V2.4 | 2024-01-08T16:38:25+00:00 |
 | D4rkCelerity | [Raspberry Pi Zero Bracket](D4rkCelerity/Raspberry_Pi_Zero_Bracket) | Modified version of Trident RPi bracket to fit the smaller RPi Zero | V0.2, V1.8, V2.4, VT | 2024-01-08T16:38:25+00:00 |
