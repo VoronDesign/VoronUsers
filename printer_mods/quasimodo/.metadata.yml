@@ -1,0 +1,14 @@
+title: hex-holder
+description: Hexagonal skirt insert to hold Revo nozzles
+mod_version: 1
+discord_username: quasimodo3
+cad:
+- cad/hexholder.SLDPRT
+- cad/hexholder.STEP
+stl:
+- stl/hexholder.STL
+images:
+- images/hexholder.jpg
+- images/upskirt.jpg
+printer_compatibility:
+- V0.2
