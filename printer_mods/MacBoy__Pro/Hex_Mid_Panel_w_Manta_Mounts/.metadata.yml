@@ -1,0 +1,19 @@
+title: Hex Mid Panel with Manta Mounts
+description: Replaces the stock mid panel allowing rigid mounting of the Manta M4/5P. Based on the Voron Hex Mid Panel by MandicReally (https://thangs.com/designer/MandicReally/3d-model/Voron%20Hex%20Mid%20Panel%20-%20Accent%20your%200.2%21-960156).
+mod_version: 1
+discord_username: MacBoy__Pro
+cad:
+- CAD/Hex_Mid_Panel_Manta.step
+stl:
+- STLs/Hex_Mid_Panel_Manta.stl
+- STLs/M5P Spacers.stl
+images:
+- images/installed.jpg
+- images/m4p.png
+- images/m5p.png
+- images/heatset_install.png
+- images/heatset_install_m5p_spacers.png
+- images/m5p_spacer_install.png
+printer_compatibility:
+- V0.2
+- V0.2r1
