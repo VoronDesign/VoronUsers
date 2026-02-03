@@ -3,7 +3,7 @@
 | BOM | Pieces |
 | ------ | ------ |
 | M3 Heatinsert | 4x |
-| M3x10 SCHS | 4x |
+| M3x16 SHCS | 4x |
 
 ![umbilical](./images/rear_umbilical.png)
 
