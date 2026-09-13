@@ -1,0 +1,18 @@
+cad:
+- CAD/frame_corner_10x3.step
+- CAD/panel_corner_top_cap_10x3.step
+- CAD/frame_corner_10x3.scad
+- CAD/panel_corner_top_cap_10x3_parametric.scad
+description: Top-mounted 10x3 mm magnetic corners for undersized 3 mm Voron 2.4 top
+  panels
+images:
+- Images/installed_overview.jpg
+- Images/installed_corner.jpg
+- Images/magnet_detail.jpg
+mod_version: 1
+printer_compatibility:
+- V2.4
+stl:
+- STL/frame_corner_10x3_x4.stl
+- STL/[a]_panel_corner_top_cap_10x3_x4.stl
+title: Magnetic Top Panel - Small Panel Variant
